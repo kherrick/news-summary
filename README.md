@@ -1,58 +1,68 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Developments
+## Advancements in Technology
 
-* [Will the AI data centre boom become a $9T bust?](https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723) ([comments](https://news.ycombinator.com/item?id=47559948))
+* [OpenYak – An open-source Cowork that runs any model and owns your filesystem](https://github.com/openyak/desktop) ([Comments](https://news.ycombinator.com/item?id=47560380))
 
-* [MacOS 26.4 Adds Warnings For ClickFix Attacks to Its Terminal App](https://apple.slashdot.org/story/26/03/28/2055255/macos-264-adds-warnings-for-clickfix-attacks-to-its-terminal-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://apple.slashdot.org/story/26/03/28/2055255/macos-264-adds-warnings-for-clickfix-attacks-to-its-terminal-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator](http://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html) ([Comments](https://lobste.rs/s/sy7ctg/6o6_v1_1_faster_6502_on_6502))
 
-* [SystemD Contributor Harassed Over Optional Age Verification Field, Suggests Installer-Level Disabling](https://news.slashdot.org/story/26/03/28/2215230/systemd-contributor-harassed-over-optional-age-verification-field-suggests-installer-level-disabling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/03/28/2215230/systemd-contributor-harassed-over-optional-age-verification-field-suggests-installer-level-disabling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [MacOS 26.4 Adds Warnings For ClickFix Attacks to Its Terminal App](https://apple.slashdot.org/story/26/03/28/2055255/macos-264-adds-warnings-for-clickfix-attacks-to-its-terminal-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://apple.slashdot.org/story/26/03/28/2055255/macos-264-adds-warnings-for-clickfix-attacks-to-its-terminal-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Google just gave Android power users a sideloading win](https://www.androidauthority.com/android-sideload-carry-over-3652845/) ([comments](https://news.ycombinator.com/item?id=47557901))
+* [IBM Quantum Computer Simulates Real Magnetic Materials and Matches Lab Data](https://slashdot.org/story/26/03/28/0339224/ibm-quantum-computer-simulates-real-magnetic-materials-and-matches-lab-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://slashdot.org/story/26/03/28/0339224/ibm-quantum-computer-simulates-real-magnetic-materials-and-matches-lab-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Scientific Advancements
+* [Linux Maintainer Greg Kroah-Hartman Says AI Tools Now Useful, Finding Real Bugs](https://linux.slashdot.org/story/26/03/28/0717258/linux-maintainer-greg-kroah-hartman-says-ai-tools-now-useful-finding-real-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://linux.slashdot.org/story/26/03/28/0717258/linux-maintainer-greg-kroah-hartman-says-ai-tools-now-useful-finding-real-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [IBM Quantum Computer Simulates Real Magnetic Materials and Matches Lab Data](https://slashdot.org/story/26/03/28/0339224/ibm-quantum-computer-simulates-real-magnetic-materials-and-matches-lab-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/26/03/28/0339224/ibm-quantum-computer-simulates-real-magnetic-materials-and-matches-lab-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [NASA's First Nuclear-Powered Interplanetary Spacecraft Will Send Helicopters to Mars in 2028](https://science.slashdot.org/story/26/03/28/0630220/nasas-first-nuclear-powered-interplanetary-spacecraft-will-send-helicopters-to-mars-in-2028?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://science.slashdot.org/story/26/03/28/0630220/nasas-first-nuclear-powered-interplanetary-spacecraft-will-send-helicopters-to-mars-in-2028?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Linux Maintainer Greg Kroah-Hartman Says AI Tools Now Useful, Finding Real Bugs](https://linux.slashdot.org/story/26/03/28/0717258/linux-maintainer-greg-kroah-hartman-says-ai-tools-now-useful-finding-real-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://linux.slashdot.org/story/26/03/28/0717258/linux-maintainer-greg-kroah-hartman-says-ai-tools-now-useful-finding-real-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Artificial Intelligence Developments
 
-* [NASA&apos;s First Nuclear-Powered Interplanetary Spacecraft Will Send Helicopters to Mars in 2028](https://science.slashdot.org/story/26/03/28/0630220/nasas-first-nuclear-powered-interplanetary-spacecraft-will-send-helicopters-to-mars-in-2028?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/03/28/0630220/nasas-first-nuclear-powered-interplanetary-spacecraft-will-send-helicopters-to-mars-in-2028?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Nvidia CEO Jensen Huang Says ‘I Think We've Achieved AGI’](https://soylentnews.org/article.pl?sid=26/03/27/0319208&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/27/0319208&amp;from=rss))
 
-* [UK Startup Ignites Plasma Inside Nuclear Fusion Rocket](https://science.slashdot.org/story/26/03/28/0217238/uk-startup-ignites-plasma-inside-nuclear-fusion-rocket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/03/28/0217238/uk-startup-ignites-plasma-inside-nuclear-fusion-rocket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [OpenAI's US Ad Pilot Exceeds $100 Million In Annualized Revenue In Six Weeks](https://news.slashdot.org/story/26/03/28/0231232/openais-us-ad-pilot-exceeds-100-million-in-annualized-revenue-in-six-weeks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.slashdot.org/story/26/03/28/0231232/openais-us-ad-pilot-exceeds-100-million-in-annualized-revenue-in-six-weeks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Innovative Projects and Technological Creativity
+* [The first 40 months of the AI era](https://lzon.ca/posts/other/thoughts-ai-era/) ([Comments](https://news.ycombinator.com/item?id=47557185))
 
-* [Show HN: PeriodicTableOfElements.org](https://periodictableofelements.org/?lang=en) ([comments](https://news.ycombinator.com/item?id=47559509))
+* [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) ([Comments](https://news.ycombinator.com/item?id=47554773))
 
-* [I Built an Open-World Engine for the N64 [video]](https://www.youtube.com/watch?v=lXxmIw9axWw) ([comments](https://news.ycombinator.com/item?id=47553717))
+## Security and Privacy Concerns
 
-* [Forget Spreadsheets, I Wrote My Own Visual Game Script Editor](http://mistys-internet.website/blog/blog/2026/03/27/forget-spreadsheets) ([comments](https://lobste.rs/s/wsv6sz/forget_spreadsheets_i_wrote_my_own_visual))
+* [Do Emergency Microsoft, Oracle Patches Point to Wider Issues?](https://it.slashdot.org/story/26/03/28/2013229/do-emergency-microsoft-oracle-patches-point-to-wider-issues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://it.slashdot.org/story/26/03/28/2013229/do-emergency-microsoft-oracle-patches-point-to-wider-issues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [BubbleWrap your dev env and agents](https://dpc.pw/posts/bubblewrap-your-dev-env-and-agents/) ([comments](https://lobste.rs/s/u4bws9/bubblewrap_your_dev_env_agents))
+* [SystemD Contributor Harassed Over Optional Age Verification Field, Suggests Installer-Level Disabling](https://news.slashdot.org/story/26/03/28/2215230/systemd-contributor-harassed-over-optional-age-verification-field-suggests-installer-level-disabling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.slashdot.org/story/26/03/28/2215230/systemd-contributor-harassed-over-optional-age-verification-field-suggests-installer-level-disabling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Social Issues and Ethics
+* [CERN Scientists Burn AI Into Silicon to Stem Data Deluge](https://soylentnews.org/article.pl?sid=26/03/26/0657232&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/26/0657232&amp;from=rss))
 
-* [Private equity turned vulnerable elderly people into human ATMs](https://www.theguardian.com/society/2026/mar/28/the-great-care-home-cash-grab-how-private-equity-turned-vulnerable-elderly-people-into-human-atms) ([comments](https://news.ycombinator.com/item?id=47558372))
+* [The FBI is Buying Americans’ Location Data](https://soylentnews.org/article.pl?sid=26/03/23/1543235&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/23/1543235&amp;from=rss))
 
-* [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) ([comments](https://news.ycombinator.com/item?id=47554773))
+## Sustainability and Innovation
 
-* [Concerns Raised Over Shahed Kamikaze Drone Listings on Alibaba](https://soylentnews.org/article.pl?sid=26/03/26/0634229&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/03/26/0634229&amp;from=rss))
+* [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ) ([Comments](https://news.ycombinator.com/item?id=47558997))
 
-* [The FBI is Buying Americans’ Location Data](https://soylentnews.org/article.pl?sid=26/03/23/1543235&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/03/23/1543235&amp;from=rss))
+* [Sealing Paper Packaging Without Adhesives](https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html) ([Comments](https://news.ycombinator.com/item?id=47558782))
 
-## Environmental and Renewable Innovations
+* [Australia to Datacenter Operators: BYO Energy, Pay Your Way, Build Green, or Stay Home](https://soylentnews.org/article.pl?sid=26/03/26/0645257&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/26/0645257&amp;from=rss))
 
-* [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ) ([comments](https://news.ycombinator.com/item?id=47558997))
+## Health and Science Innovations
 
-* [Sealing Paper Packaging Without Adhesives](https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html) ([comments](https://news.ycombinator.com/item?id=47558782))
+* [Alzheimer's disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194) ([Comments](https://news.ycombinator.com/item?id=47559481))
 
-* [Australia to Datacenter Operators: BYO Energy, Pay Your Way, Build Green, or Stay Home](https://soylentnews.org/article.pl?sid=26/03/26/0645257&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/03/26/0645257&amp;from=rss))
+* [Thousands of Americans Treated With Psilocybin in 2025](https://science.slashdot.org/story/26/03/28/1722235/thousands-of-americans-treated-with-psilocybin-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://science.slashdot.org/story/26/03/28/1722235/thousands-of-americans-treated-with-psilocybin-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Healthcare and Neuroscience
+* [Particle Discovered at CERN Solves a 20-Year-Old Mystery](https://soylentnews.org/article.pl?sid=26/03/23/0124221&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/23/0124221&amp;from=rss))
 
-* [Alzheimer&apos;s disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194) ([comments](https://news.ycombinator.com/item?id=47559481))
+## Open Source Initiatives
 
-* [Thousands of Americans Treated With Psilocybin in 2025](https://science.slashdot.org/story/26/03/28/1722235/thousands-of-americans-treated-with-psilocybin-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/03/28/1722235/thousands-of-americans-treated-with-psilocybin-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [OpenCiv1 – open-source rewrite of Civ1](https://github.com/rajko-horvat/OpenCiv1) ([Comments](https://news.ycombinator.com/item?id=47557064))
+
+* [I Decompiled the White House's New App](https://blog.thereallo.dev/blog/decompiling-the-white-house-app) ([Comments](https://news.ycombinator.com/item?id=47557901))
+
+* [OpenTTD for Windows NT RISC](https://virtuallyfun.com/2026/03/28/openttd-windows-nt-risc/) ([Comments](https://lobste.rs/s/dttund/openttd_for_windows_nt_risc))
+
+## Miscellaneous Highlights
+
+* [Macron Predicts Cars Will Need 300GB of RAM](https://soylentnews.org/article.pl?sid=26/03/25/2341257&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/25/2341257&amp;from=rss))
+
+* [The 49MB Web Page](https://soylentnews.org/article.pl?sid=26/03/23/1558231&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/23/1558231&amp;from=rss))
 
 ---
 
@@ -79,7 +89,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-03-29, 02:35:59](https://news.ycombinator.com/item?id=47559948) - [Will the AI data centre boom become a $9T bust?](https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723)
+* [2026-03-29, 04:26:13](https://news.ycombinator.com/item?id=47560380) - [OpenYak – An open-source Cowork that runs any model and owns your filesystem](https://github.com/openyak/desktop)
+* [2026-03-29, 03:34:00](https://it.slashdot.org/story/26/03/28/2013229/do-emergency-microsoft-oracle-patches-point-to-wider-issues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Do Emergency Microsoft, Oracle Patches Point to Wider Issues?](https://it.slashdot.org/story/26/03/28/2013229/do-emergency-microsoft-oracle-patches-point-to-wider-issues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-29, 02:32:10](https://lobste.rs/s/sy7ctg/6o6_v1_1_faster_6502_on_6502) - [6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator](http://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html)
+* [2026-03-29, 02:18:00](https://soylentnews.org/article.pl?sid=26/03/27/0319208&amp;from=rss) - [Nvidia CEO Jensen Huang Says ‘I Think We&apos;ve Achieved AGI’](https://soylentnews.org/article.pl?sid=26/03/27/0319208&amp;from=rss)
+* [2026-03-29, 01:39:06](https://lobste.rs/s/bywfs1/legacy_pc_design_misery) - [Legacy PC design misery](https://mjg59.livejournal.com/118098.html)
 * [2026-03-29, 01:34:00](https://apple.slashdot.org/story/26/03/28/2055255/macos-264-adds-warnings-for-clickfix-attacks-to-its-terminal-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [MacOS 26.4 Adds Warnings For ClickFix Attacks to Its Terminal App](https://apple.slashdot.org/story/26/03/28/2055255/macos-264-adds-warnings-for-clickfix-attacks-to-its-terminal-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-29, 00:59:45](https://news.ycombinator.com/item?id=47559509) - [Show HN: PeriodicTableOfElements.org](https://periodictableofelements.org/?lang=en)
 * [2026-03-29, 00:53:30](https://news.ycombinator.com/item?id=47559481) - [Alzheimer&apos;s disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194)
@@ -87,7 +101,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-28, 22:50:49](https://news.ycombinator.com/item?id=47558782) - [Sealing Paper Packaging Without Adhesives](https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html)
 * [2026-03-28, 22:34:00](https://news.slashdot.org/story/26/03/28/2215230/systemd-contributor-harassed-over-optional-age-verification-field-suggests-installer-level-disabling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SystemD Contributor Harassed Over Optional Age Verification Field, Suggests Installer-Level Disabling](https://news.slashdot.org/story/26/03/28/2215230/systemd-contributor-harassed-over-optional-age-verification-field-suggests-installer-level-disabling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-28, 22:15:31](https://news.ycombinator.com/item?id=47558581) - [Stop picking my Go version for me](https://blog.howardjohn.info/posts/go-mod-version/)
-* [2026-03-28, 21:43:00](https://news.ycombinator.com/item?id=47558372) - [Private equity turned vulnerable elderly people into human ATMs](https://www.theguardian.com/society/2026/mar/28/the-great-care-home-cash-grab-how-private-equity-turned-vulnerable-elderly-people-into-human-atms)
 * [2026-03-28, 21:35:22](https://news.ycombinator.com/item?id=47558305) - [InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer](https://inpharmd.com/jobs/senior-ruby-on-rails-engineer)
 * [2026-03-28, 21:34:00](https://slashdot.org/story/26/03/28/0339224/ibm-quantum-computer-simulates-real-magnetic-materials-and-matches-lab-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [IBM Quantum Computer Simulates Real Magnetic Materials and Matches Lab Data](https://slashdot.org/story/26/03/28/0339224/ibm-quantum-computer-simulates-real-magnetic-materials-and-matches-lab-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-28, 21:34:00](https://soylentnews.org/article.pl?sid=26/03/27/0310204&amp;from=rss) - [Age Checks Creep Into Linux, systemd Locks It in, Developer Defends Himself](https://soylentnews.org/article.pl?sid=26/03/27/0310204&amp;from=rss)
@@ -115,7 +128,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-28, 15:34:00](https://science.slashdot.org/story/26/03/28/0511243/transporting-antimatter-on-a-truck-is-tricky?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Transporting Antimatter On a Truck Is Tricky...](https://science.slashdot.org/story/26/03/28/0511243/transporting-antimatter-on-a-truck-is-tricky?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-28, 14:34:00](https://slashdot.org/story/26/03/28/0231235/people-are-using-ai-powered-services-to-find-lost-pets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [People are Using AI-Powered Services to Find Lost Pets](https://slashdot.org/story/26/03/28/0231235/people-are-using-ai-powered-services-to-find-lost-pets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-28, 14:08:33](https://news.ycombinator.com/item?id=47554773) - [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
-* [2026-03-28, 13:27:42](https://lobste.rs/s/a2oex7/second_wave_api_first_economy) - [The Second Wave of the API-first Economy](https://brandur.org/second-wave-api-first)
 * [2026-03-28, 13:02:13](https://lobste.rs/s/bwyqi9/linux_finally_for_everyone) - [Linux, finally for everyone](https://yololinux.com)
 * [2026-03-28, 12:29:50](https://lobste.rs/s/oppbjm/trillion_transactions) - [A trillion transactions](https://youtu.be/y2_BqkKTbD8)
 * [2026-03-28, 12:09:00](https://soylentnews.org/article.pl?sid=26/03/26/0650221&amp;from=rss) - [Elon Musk Wants to Build 50 Times More Chips Than the World Currently Produces, Using &apos;New Physics&apos;](https://soylentnews.org/article.pl?sid=26/03/26/0650221&amp;from=rss)
@@ -134,7 +146,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-28, 02:18:42](https://lobste.rs/s/5cuqzy/capability_based_security_for_redox) - [Capability-based Security for Redox: Namespace and CWD as capabilities](https://www.redox-os.org/news/nlnet-cap-nsmgr-cwd/)
 * [2026-03-27, 23:25:35](https://lobste.rs/s/j5rw8d/which_programming_language_is_best_for) - [Which Programming Language Is Best for Claude Code?](https://dev.to/mame/which-programming-language-is-best-for-claude-code-508a)
 * [2026-03-27, 23:00:00](https://it.slashdot.org/story/26/03/27/2123239/google-moves-post-quantum-encryption-timeline-up-to-2029?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Moves Post-Quantum Encryption Timeline Up To 2029](https://it.slashdot.org/story/26/03/27/2123239/google-moves-post-quantum-encryption-timeline-up-to-2029?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-27, 22:00:00](https://it.slashdot.org/story/26/03/27/2114234/european-commission-investigating-breach-after-amazon-cloud-account-hack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [European Commission Investigating Breach After Amazon Cloud Account Hack](https://it.slashdot.org/story/26/03/27/2114234/european-commission-investigating-breach-after-amazon-cloud-account-hack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-27, 21:50:00](https://soylentnews.org/article.pl?sid=26/03/26/0634229&amp;from=rss) - [Concerns Raised Over Shahed Kamikaze Drone Listings on Alibaba](https://soylentnews.org/article.pl?sid=26/03/26/0634229&amp;from=rss)
 * [2026-03-27, 20:09:14](https://lobste.rs/s/j4hrbx/vibe_coded_ext4_for_openbsd) - [Vibe-coded ext4 for OpenBSD](https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/)
 * [2026-03-27, 20:09:12](https://lobste.rs/s/qtu40j/comforting_lie_sha_pinning) - [The Comforting Lie Of SHA Pinning](https://www.vaines.org/posts/2026-03-24-the-comforting-lie-of-sha-pinning/)
@@ -145,7 +156,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-27, 16:03:00](https://soylentnews.org/article.pl?sid=26/03/26/0225217&amp;from=rss) - [Palantir Trial Plugs Into UK Financial Watchdog&apos;s Data Trove](https://soylentnews.org/article.pl?sid=26/03/26/0225217&amp;from=rss)
 * [2026-03-27, 15:36:17](https://lobste.rs/s/jxqn5s/one_line_kubernetes_fix_saved_600_hours) - [A one-line Kubernetes fix that saved 600 hours a year](https://blog.cloudflare.com/one-line-kubernetes-fix-saved-600-hours-a-year/)
 * [2026-03-27, 14:39:51](https://news.ycombinator.com/item?id=47543186) - [OpenBSD on Motorola 88000 Processors](http://miod.online.fr/software/openbsd/stories/m88k1.html)
-* [2026-03-27, 13:05:11](https://lobste.rs/s/he46nq/distraction_free_writing_with_micro) - [Distraction-Free Writing with the Micro Journal Rev.2 (and Neovim)](https://www.ssp.sh/brain/my-distraction-free-typewriter-micro-journal/)
 * [2026-03-27, 11:29:15](https://lobste.rs/s/pxnyf9/immich_vs_ente_photos_photo_backup) - [immich vs ente photos - the photo backup showdown](https://alexandmanu.com/blog/immich-vs-ente-photos/)
 * [2026-03-27, 11:20:00](https://soylentnews.org/article.pl?sid=26/03/26/0220234&amp;from=rss) - [Amid Fuel Crunch, Cuban Mechanic Converts Car to Run on Charcoal](https://soylentnews.org/article.pl?sid=26/03/26/0220234&amp;from=rss)
 * [2026-03-27, 06:38:00](https://soylentnews.org/article.pl?sid=26/03/26/0219214&amp;from=rss) - [The US Bans All New Foreign-Made Network Routers](https://soylentnews.org/article.pl?sid=26/03/26/0219214&amp;from=rss)
@@ -161,6 +171,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-25, 21:26:00](https://soylentnews.org/article.pl?sid=26/03/23/1558231&amp;from=rss) - [The 49MB Web Page](https://soylentnews.org/article.pl?sid=26/03/23/1558231&amp;from=rss)
 * [2026-03-25, 16:41:00](https://soylentnews.org/article.pl?sid=26/03/23/1555204&amp;from=rss) - [OpenAI Delays AI Porn Feature Over Safety Uproar](https://soylentnews.org/article.pl?sid=26/03/23/1555204&amp;from=rss)
 * [2026-03-25, 14:44:47](https://news.ycombinator.com/item?id=47518010) - [The 667MHz Machine](https://www.0xsid.com/blog/667mhz-machine)
+* [2026-03-25, 12:47:04](https://news.ycombinator.com/item?id=47516626) - [Modeling what makes paper-folding puzzles hard](https://www.dailyunfold.com/blog/spatial-difficulty)
 * [2026-03-25, 11:55:00](https://soylentnews.org/article.pl?sid=26/03/23/1550203&amp;from=rss) - [I Hacked ChatGPT and Google&apos;s AI](https://soylentnews.org/article.pl?sid=26/03/23/1550203&amp;from=rss)
 * [2026-03-25, 07:08:00](https://soylentnews.org/article.pl?sid=26/03/23/1543235&amp;from=rss) - [The FBI is Buying Americans’ Location Data](https://soylentnews.org/article.pl?sid=26/03/23/1543235&amp;from=rss)
 * [2026-03-25, 05:01:58](https://news.ycombinator.com/item?id=47513482) - [1929: Inside the Greatest Crash in Wall Street History](https://www.nybooks.com/articles/2026/03/26/tick-tick-boom-1929-andrew-ross-sorkin/)
