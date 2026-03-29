@@ -1,72 +1,58 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software
+## Technology and Innovation
 
-* [fuzzbox.vim: Modern fuzzy finder for Vim with minimal dependencies](https://github.com/vim-fuzzbox/fuzzbox.vim) ([Comments](https://lobste.rs/s/q1s3vs/fuzzbox_vim_modern_fuzzy_finder_for_vim))
+* [The Cloud: The dystopian book that changed Germany (2022)](https://www.bbc.com/culture/article/20221101-the-cloud-the-nuclear-novel-that-shaped-germany) ([comments](https://news.ycombinator.com/item?id=47562589))
 
-* [heerich.js - A tiny engine for 3D voxel scenes rendered to SVG](https://meodai.github.io/heerich) ([Comments](https://lobste.rs/s/qqpc7k/heerich_js_tiny_engine_for_3d_voxel_scenes))
+* [What Made Bell Labs So Successful?](https://tech.slashdot.org/story/26/03/29/0249241/what-made-bell-labs-so-successful?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/03/29/0249241/what-made-bell-labs-so-successful?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator](http://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html) ([Comments](https://lobste.rs/s/sy7ctg/6o6_v1_1_faster_6502_on_6502))
+* [What if AI doesn&apos;t need more RAM but better math?](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more) ([comments](https://news.ycombinator.com/item?id=47561297))
 
-* [Linux, finally for everyone](https://yololinux.com) ([Comments](https://lobste.rs/s/bwyqi9/linux_finally_for_everyone))
+* [AI Hot Takes From A Platform Engineer / SRE](https://alienchow.dev/post/ai_takeaways_mar_2026/) ([comments](https://lobste.rs/s/vodhvg/ai_hot_takes_from_platform_engineer_sre))
 
-* [Spanish legislation as a Git repo](https://github.com/EnriqueLop/legalize-es) ([Comments](https://news.ycombinator.com/item?id=47553798))
+* [Disney Ends $1B OpenAI Investment After Sora&apos;s Surprise Closure. What&apos;s Next?](https://entertainment.slashdot.org/story/26/03/29/0722208/disney-ends-1b-openai-investment-after-soras-surprise-closure-whats-next?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/03/29/2215230/systemd-contributor-harassed-over-optional-age-verification-field-suggests-installer-level-disabling?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [I Built an Open-World Engine for the N64 [video]](https://www.youtube.com/watch?v=lXxmIw9axWw) ([Comments](https://news.ycombinator.com/item?id=47553717))
+* [Nvidia CEO Jensen Huang Says ‘I Think We&apos;ve Achieved AGI’](https://soylentnews.org/article.pl?sid=26/03/27/0319208&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/03/27/0319208&amp;from=rss))
 
-* [OpenCiv1 – open-source rewrite of Civ1](https://github.com/rajko-horvat/OpenCiv1) ([Comments](https://news.ycombinator.com/item?id=47557064))
+* [OpenAI&apos;s US Ad Pilot Exceeds $100 Million In Annualized Revenue In Six Weeks](https://news.slashdot.org/story/26/03/28/0231232/openais-us-ad-pilot-exceeds-100-million-in-annualized-revenue-in-six-weeks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/03/28/0231232/openais-us-ad-pilot-exceeds-100-million-in-annualized-revenue-in-six-weeks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [The first 40 months of the AI era](https://lzon.ca/posts/other/thoughts-ai-era/) ([Comments](https://news.ycombinator.com/item?id=47557185))
+## Artificial Intelligence and Machine Learning
 
-* [Linux is an interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/) ([Comments](https://lobste.rs/s/wy4ndf/linux_is_interpreter))
+* [Miasma: A tool to trap AI web scrapers in an endless poison pit](https://github.com/austin-weeks/miasma) ([comments](https://news.ycombinator.com/item?id=47561819))
 
-* [Translating non-trivial codebases with Claude](https://blog.danieljanus.pl/2026/03/26/claude-nlp/) ([Comments](https://lobste.rs/s/rlhm21/translating_non_trivial_codebases_with))
+* [Further human + AI + proof assistant work on Knuth&apos;s \\&quot;Claude Cycles\\&quot; problem](https://twitter.com/BoWang87/status/2037648937453232504) ([comments](https://news.ycombinator.com/item?id=47557166))
 
-* [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) ([Comments](https://news.ycombinator.com/item?id=47554773))
+* [Translating non-trivial codebases with Claude](https://blog.danieljanus.pl/2026/03/26/claude-nlp/) ([comments](https://lobste.rs/s/rlhm21/translating_non_trivial_codebases_with))
 
-## Science and Innovation
+* [Linux Maintainer Greg Kroah-Hartman Says AI Tools Now Useful, Finding Real Bugs](https://linux.slashdot.org/story/26/03/28/0717258/linux-maintainer-greg-kroah-hartman-says-ai-tools-now-useful-finding-real-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://linux.slashdot.org/story/26/03/28/0717258/linux-maintainer-greg-kroah-hartman-says-ai-tools-now-useful-finding-real-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Solar is winning the energy race](https://www.dw.com/en/solar-is-winning-the-energy-race/a-76517556) ([Comments](https://news.ycombinator.com/item?id=47561445))
+## Innovative Tools and Software
 
-* [The road to electric – in charts and data [UK]](https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/) ([Comments](https://news.ycombinator.com/item?id=47560981))
+* [Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders](https://sheetninja.io) ([comments](https://news.ycombinator.com/item?id=47562288))
 
-* [NASA&apos;s First Nuclear-Powered Interplanetary Spacecraft Will Send Helicopters to Mars in 2028](https://science.slashdot.org/story/26/03/28/0630220/nasas-first-nuclear-powered-interplanetary-spacecraft-will-send-helicopters-to-mars-in-2028?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=47556729))
+* [Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown](https://github.com/1st1/lat.md) ([comments](https://news.ycombinator.com/item?id=47561496))
 
-* [OpenAI&apos;s US Ad Pilot Exceeds $100 Million In Annualized Revenue In Six Weeks](https://news.slashdot.org/story/26/03/28/0231232/openais-us-ad-pilot-exceeds-100-million-in-annualized-revenue-in-six-weeks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=47553718))
+* [fuzzbox.vim: Modern fuzzy finder for Vim with minimal dependencies](https://github.com/vim-fuzzbox/fuzzbox.vim) ([comments](https://lobste.rs/s/q1s3vs/fuzzbox_vim_modern_fuzzy_finder_for_vim))
 
-* [IBM Quantum Computer Simulates Real Magnetic Materials and Matches Lab Data](https://slashdot.org/story/26/03/28/0339224/ibm-quantum-computer-simulates-real-magnetic-materials-and-matches-lab-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=47553621))
+* [OpenCiv1 – open-source rewrite of Civ1](https://github.com/rajko-horvat/OpenCiv1) ([comments](https://news.ycombinator.com/item?id=47557064))
 
-* [A trillion transactions](https://youtu.be/y2_BqkKTbD8) ([Comments](https://lobste.rs/s/oppbjm/trillion_transactions))
+* [heerich.js - A tiny engine for 3D voxel scenes rendered to SVG](https://meodai.github.io/heerich) ([comments](https://lobste.rs/s/qqpc7k/heerich_js_tiny_engine_for_3d_voxel_scenes))
 
-* [An Uncontrolled Experiment in Atmospheric Chemistry](https://soylentnews.org/article.pl?sid=26/03/26/0644236&amp;from=rss) ([Comments](https://news.ycombinator.com/item?id=47556359))
+## Science and Space Exploration
 
-* [Transporting Antimatter On a Truck Is Tricky...](https://science.slashdot.org/story/26/03/28/0511243/transporting-antimatter-on-a-truck-is-tricky?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=47556621))
+* [NASA&apos;s First Nuclear-Powered Interplanetary Spacecraft Will Send Helicopters to Mars in 2028](https://science.slashdot.org/story/26/03/28/0630220/nasas-first-nuclear-powered-interplanetary-spacecraft-will-send-helicopters-to-mars-in-2028?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/03/28/0630220/nasas-first-nuclear-powered-interplanetary-spacecraft-will-send-helicopters-to-mars-in-2028?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Artificial Intelligence
+* [IBM Quantum Computer Simulates Real Magnetic Materials and Matches Lab Data](https://slashdot.org/story/26/03/28/0339224/ibm-quantum-computer-simulates-real-magnetic-materials-and-matches-lab-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/26/03/28/0339224/ibm-quantum-computer-simulates-real-magnetic-materials-and-matches-lab-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [What if AI doesn&apos;t need more RAM but better math?](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more) ([Comments](https://news.ycombinator.com/item?id=47561297))
+* [The Mystery of How Volcanic Lightning Happens Has Been Solved](https://soylentnews.org/article.pl?sid=26/03/25/2339207&amp;from=rss) ([comments](https://news.slashdot.org/story/26/03/25/2339207/the-mystery-volanic-lightning/))
 
-* [AI Hot Takes From A Platform Engineer / SRE - Alienchow](https://alienchow.dev/post/ai_takeaways_mar_2026/) ([Comments](https://lobste.rs/s/vodhvg/ai_hot_takes_from_platform_engineer_sre))
+## Cultural and Industry Insights
 
-* [Nvidia CEO Jensen Huang Says ‘I Think We&apos;ve Achieved AGI’](https://soylentnews.org/article.pl?sid=26/03/27/0319208&amp;from=rss) ([Comments](https://news.ycombinator.com/item?id=47553476))
+* [Alzheimer&apos;s disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194) ([comments](https://news.ycombinator.com/item?id=47559481))
 
-* [People are Using AI-Powered Services to Find Lost Pets](https://slashdot.org/story/26/03/28/0231235/people-are-using-ai-powered-services-to-find-lost-pets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=47554563))
+* [Thousands of Americans Treated With Psilocybin in 2025](https://science.slashdot.org/story/26/03/28/1722235/thousands-of-americans-treated-with-psilocybin-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/03/28/1722235/thousands-american-alignpsilocybin))
 
-* [CERN Scientists Burn AI Into Silicon to Stem Data Deluge](https://soylentnews.org/article.pl?sid=26/03/26/0657232&amp;from=rss) ([Comments](https://news.ycombinator.com/item?id=47553881))
-
-* [Further human + AI + proof assistant work on Knuth&apos;s \\&quot;Claude Cycles\\&quot; problem](https://twitter.com/BoWang87/status/2037648937453232504) ([Comments](https://news.ycombinator.com/item?id=47557166))
-
-* [Linux Maintainer Greg Kroah-Hartman Says AI Tools Now Useful, Finding Real Bugs](https://linux.slashdot.org/story/26/03/28/0717258/linux-maintainer-greg-kroah-hartman-says-ai-tools-now-useful-finding-real-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=47557582))
-
-## Culture and Society
-
-* [Cat Itecture: Better Cat Window Boxes (2023)](https://gwern.net/catitecture) ([Comments](https://news.ycombinator.com/item?id=47552643))
-
-* [Thousands of Americans Treated With Psilocybin in 2025](https://science.slashdot.org/story/26/03/28/1722235/thousands-of-americans-treated-with-psilocybin-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=47555291))
-
-* [The Loneliness of a Room of One&apos;s Own](https://newrepublic.com/article/206731/loneliness-room-one-virginia-woolf-hold-up) ([Comments](https://news.ycombinator.com/item?id=47526470))
-
-* [I turned my Kindle into my own personal newspaper](https://manualdousuario.net/en/how-to-kindle-personal-newspaper/) ([Comments](https://lobste.rs/s/pxnyf9/immich_vs_ente_photos_photo_backup))
+* [Concerns Raised Over Shahed Kamikaze Drone Listings on Alibaba](https://soylentnews.org/article.pl?sid=26/03/26/0634229&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/03/26/0634229/concerns-ali-drones/))
 
 ---
 
@@ -93,16 +79,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-03-29, 08:48:36](https://news.ycombinator.com/item?id=47561445) - [Solar is winning the energy race](https://www.dw.com/en/solar-is-winning-the-energy-race/a-76517556)
+* [2026-03-29, 12:24:56](https://news.ycombinator.com/item?id=47562589) - [The Cloud: The dystopian book that changed Germany (2022)](https://www.bbc.com/culture/article/20221101-the-cloud-the-nuclear-novel-that-shaped-germany)
+* [2026-03-29, 11:52:00](https://soylentnews.org/article.pl?sid=26/03/27/0334236&amp;from=rss) - [Pilot Didn&apos;t Mind NASA&apos;s Experimental Plane Doesnt Have a Front Window](https://soylentnews.org/article.pl?sid=26/03/27/0334236&amp;from=rss)
+* [2026-03-29, 11:42:31](https://news.ycombinator.com/item?id=47562288) - [Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders](https://sheetninja.io)
+* [2026-03-29, 11:04:00](https://tech.slashdot.org/story/26/03/29/0249241/what-made-bell-labs-so-successful?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [What Made Bell Labs So Successful?](https://tech.slashdot.org/story/26/03/29/0249241/what-made-bell-labs-so-successful?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-29, 10:29:00](https://lobste.rs/s/ntmv9j/what_category_theory_teaches_us_about) - [What Category Theory Teaches Us About DataFrames](https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/)
+* [2026-03-29, 10:10:12](https://news.ycombinator.com/item?id=47561819) - [Miasma: A tool to trap AI web scrapers in an endless poison pit](https://github.com/austin-weeks/miasma)
+* [2026-03-29, 09:46:58](https://news.ycombinator.com/item?id=47561711) - [Overestimation of microplastics potentially caused by scientists&apos; gloves](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/)
+* [2026-03-29, 08:59:52](https://news.ycombinator.com/item?id=47561496) - [Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown](https://github.com/1st1/lat.md)
+* [2026-03-29, 08:58:24](https://news.ycombinator.com/item?id=47561489) - [LinkedIn uses 2.4 GB RAM across two tabs](https://news.ycombinator.com/item?id=47561489)
 * [2026-03-29, 08:41:41](https://lobste.rs/s/q1s3vs/fuzzbox_vim_modern_fuzzy_finder_for_vim) - [fuzzbox.vim: Modern fuzzy finder for Vim with minimal dependencies](https://github.com/vim-fuzzbox/fuzzbox.vim)
 * [2026-03-29, 08:18:55](https://news.ycombinator.com/item?id=47561297) - [What if AI doesn&apos;t need more RAM but better math?](https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more)
 * [2026-03-29, 07:38:58](https://news.ycombinator.com/item?id=47561132) - [Show HN: Public transit systems as data – lines, stations, railcars, and history](https://publictransit.systems)
 * [2026-03-29, 07:34:00](https://entertainment.slashdot.org/story/26/03/29/0722208/disney-ends-1b-openai-investment-after-soras-surprise-closure-whats-next?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Disney Ends $1B OpenAI Investment After Sora&apos;s Surprise Closure. What&apos;s Next?](https://entertainment.slashdot.org/story/26/03/29/0722208/disney-ends-1b-openai-investment-after-soras-surprise-closure-whats-next?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-29, 07:03:00](https://soylentnews.org/article.pl?sid=26/03/27/0325254&amp;from=rss) - [Someone Forked systemd to Strip Out Its Age Verification Support](https://soylentnews.org/article.pl?sid=26/03/27/0325254&amp;from=rss)
-* [2026-03-29, 07:00:48](https://news.ycombinator.com/item?id=47560981) - [The road to electric – in charts and data [UK]](https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/)
 * [2026-03-29, 06:01:31](https://lobste.rs/s/qqpc7k/heerich_js_tiny_engine_for_3d_voxel_scenes) - [heerich.js - A tiny engine for 3D voxel scenes rendered to SVG](https://meodai.github.io/heerich)
 * [2026-03-29, 04:49:25](https://lobste.rs/s/dblov3/libeatmydata_disable_fsync_save) - [libeatmydata - disable fsync and SAVE](https://www.flamingspork.com/projects/libeatmydata/)
-* [2026-03-29, 04:47:03](https://lobste.rs/s/vodhvg/ai_hot_takes_from_platform_engineer_sre) - [AI Hot Takes From A Platform Engineer / SRE - Alienchow](https://alienchow.dev/post/ai_takeaways_mar_2026/)
+* [2026-03-29, 04:47:03](https://lobste.rs/s/vodhvg/ai_hot_takes_from_platform_engineer_sre) - [AI Hot Takes From A Platform Engineer / SRE](https://alienchow.dev/post/ai_takeaways_mar_2026/)
 * [2026-03-29, 03:34:00](https://it.slashdot.org/story/26/03/28/2013229/do-emergency-microsoft-oracle-patches-point-to-wider-issues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Do Emergency Microsoft, Oracle Patches Point to Wider Issues?](https://it.slashdot.org/story/26/03/28/2013229/do-emergency-microsoft-oracle-patches-point-to-wider-issues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-29, 02:32:10](https://lobste.rs/s/sy7ctg/6o6_v1_1_faster_6502_on_6502) - [6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator](http://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html)
 * [2026-03-29, 02:18:00](https://soylentnews.org/article.pl?sid=26/03/27/0319208&amp;from=rss) - [Nvidia CEO Jensen Huang Says ‘I Think We&apos;ve Achieved AGI’](https://soylentnews.org/article.pl?sid=26/03/27/0319208&amp;from=rss)
@@ -121,7 +114,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-28, 20:25:19](https://lobste.rs/s/2zvgxm/i_decompiled_white_house_s_new_app) - [I Decompiled the White House&apos;s New App](https://blog.thereallo.dev/blog/decompiling-the-white-house-app)
 * [2026-03-28, 19:34:00](https://science.slashdot.org/story/26/03/28/1722235/thousands-of-americans-treated-with-psilocybin-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Thousands of Americans Treated With Psilocybin in 2025](https://science.slashdot.org/story/26/03/28/1722235/thousands-of-americans-treated-with-psilocybin-in-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-28, 19:13:02](https://lobste.rs/s/u4bws9/bubblewrap_your_dev_env_agents) - [BubbleWrap your dev env and agents](https://dpc.pw/posts/bubblewrap-your-dev-env-and-agents/)
-* [2026-03-28, 18:42:08](https://news.ycombinator.com/item?id=47557185) - [The first 40 months of the AI era](https://lzon.ca/posts/other/thoughts-ai-era/)
 * [2026-03-28, 18:41:08](https://lobste.rs/s/wy4ndf/linux_is_interpreter) - [Linux is an interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/)
 * [2026-03-28, 18:40:47](https://lobste.rs/s/i95lfw/adventures_cellular_location_services) - [Adventures in cellular location services](https://nickvsnetworking.com/somebodys-watching-me-adventures-in-cellular-locating/)
 * [2026-03-28, 18:38:59](https://news.ycombinator.com/item?id=47557166) - [Further human + AI + proof assistant work on Knuth&apos;s \&quot;Claude Cycles\&quot; problem](https://twitter.com/BoWang87/status/2037648937453232504)
@@ -136,31 +128,26 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-28, 15:34:00](https://science.slashdot.org/story/26/03/28/0511243/transporting-antimatter-on-a-truck-is-tricky?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Transporting Antimatter On a Truck Is Tricky...](https://science.slashdot.org/story/26/03/28/0511243/transporting-antimatter-on-a-truck-is-tricky?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-28, 14:34:00](https://slashdot.org/story/26/03/28/0231235/people-are-using-ai-powered-services-to-find-lost-pets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [People are Using AI-Powered Services to Find Lost Pets](https://slashdot.org/story/26/03/28/0231235/people-are-using-ai-powered-services-to-find-lost-pets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-28, 14:08:33](https://news.ycombinator.com/item?id=47554773) - [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
+* [2026-03-28, 13:27:42](https://lobste.rs/s/a2oex7/second_wave_api_first_economy) - [The Second Wave of the API-first Economy](https://brandur.org/second-wave-api-first)
 * [2026-03-28, 13:02:13](https://lobste.rs/s/bwyqi9/linux_finally_for_everyone) - [Linux, finally for everyone](https://yololinux.com)
 * [2026-03-28, 12:29:50](https://lobste.rs/s/oppbjm/trillion_transactions) - [A trillion transactions](https://youtu.be/y2_BqkKTbD8)
 * [2026-03-28, 12:09:00](https://soylentnews.org/article.pl?sid=26/03/26/0650221&amp;from=rss) - [Elon Musk Wants to Build 50 Times More Chips Than the World Currently Produces, Using &apos;New Physics&apos;](https://soylentnews.org/article.pl?sid=26/03/26/0650221&amp;from=rss)
-* [2026-03-28, 12:01:27](https://news.ycombinator.com/item?id=47553798) - [Spanish legislation as a Git repo](https://github.com/EnriqueLop/legalize-es)
 * [2026-03-28, 11:49:28](https://news.ycombinator.com/item?id=47553717) - [I Built an Open-World Engine for the N64 [video]](https://www.youtube.com/watch?v=lXxmIw9axWw)
 * [2026-03-28, 11:00:00](https://news.slashdot.org/story/26/03/28/0231232/openais-us-ad-pilot-exceeds-100-million-in-annualized-revenue-in-six-weeks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI&apos;s US Ad Pilot Exceeds $100 Million In Annualized Revenue In Six Weeks](https://news.slashdot.org/story/26/03/28/0231232/openais-us-ad-pilot-exceeds-100-million-in-annualized-revenue-in-six-weeks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-28, 10:58:24](https://lobste.rs/s/rlhm21/translating_non_trivial_codebases_with) - [Translating non-trivial codebases with Claude](https://blog.danieljanus.pl/2026/03/26/claude-nlp/)
-* [2026-03-28, 09:29:56](https://lobste.rs/s/dttund/openttd_for_windows_nt_risc) - [OpenTTD for Windows NT RISC](https://virtuallyfun.com/2026/03/28/openttd-windows-nt-risc/)
 * [2026-03-28, 09:17:01](https://lobste.rs/s/zb2rqd/building_guitar_trainer_with_embedded) - [Building a guitar trainer with embedded Rust](https://blog.orhun.dev/introducing-tuitar/)
-* [2026-03-28, 08:23:26](https://news.ycombinator.com/item?id=47552643) - [Cat Itecture: Better Cat Window Boxes (2023)](https://gwern.net/catitecture)
 * [2026-03-28, 07:24:00](https://soylentnews.org/article.pl?sid=26/03/26/0645257&amp;from=rss) - [Australia to Datacenter Operators: BYO Energy, Pay Your Way, Build Green, or Stay Home](https://soylentnews.org/article.pl?sid=26/03/26/0645257&amp;from=rss)
 * [2026-03-28, 07:00:00](https://science.slashdot.org/story/26/03/28/0217238/uk-startup-ignites-plasma-inside-nuclear-fusion-rocket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK Startup Ignites Plasma Inside Nuclear Fusion Rocket](https://science.slashdot.org/story/26/03/28/0217238/uk-startup-ignites-plasma-inside-nuclear-fusion-rocket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-28, 03:30:00](https://news.slashdot.org/story/26/03/27/2129219/av1s-open-royalty-free-promise-in-question-as-dolby-sues-snapchat-over-codec?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AV1&apos;s Open, Royalty-Free Promise In Question As Dolby Sues Snapchat Over Codec](https://news.slashdot.org/story/26/03/27/2129219/av1s-open-royalty-free-promise-in-question-as-dolby-sues-snapchat-over-codec?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-28, 02:36:00](https://soylentnews.org/article.pl?sid=26/03/26/0644236&amp;from=rss) - [An Uncontrolled Experiment in Atmospheric Chemistry](https://soylentnews.org/article.pl?sid=26/03/26/0644236&amp;from=rss)
 * [2026-03-28, 02:18:42](https://lobste.rs/s/5cuqzy/capability_based_security_for_redox) - [Capability-based Security for Redox: Namespace and CWD as capabilities](https://www.redox-os.org/news/nlnet-cap-nsmgr-cwd/)
 * [2026-03-27, 23:25:35](https://lobste.rs/s/j5rw8d/which_programming_language_is_best_for) - [Which Programming Language Is Best for Claude Code?](https://dev.to/mame/which-programming-language-is-best-for-claude-code-508a)
 * [2026-03-27, 21:50:00](https://soylentnews.org/article.pl?sid=26/03/26/0634229&amp;from=rss) - [Concerns Raised Over Shahed Kamikaze Drone Listings on Alibaba](https://soylentnews.org/article.pl?sid=26/03/26/0634229&amp;from=rss)
 * [2026-03-27, 20:09:14](https://lobste.rs/s/j4hrbx/vibe_coded_ext4_for_openbsd) - [Vibe-coded ext4 for OpenBSD](https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/)
 * [2026-03-27, 20:09:12](https://lobste.rs/s/qtu40j/comforting_lie_sha_pinning) - [The Comforting Lie Of SHA Pinning](https://www.vaines.org/posts/2026-03-24-the-comforting-lie-of-sha-pinning/)
-* [2026-03-27, 19:43:28](https://lobste.rs/s/2zlp7e/how_make_programming_terrible_for) - [how to make programming terrible for everyone](https://jneen.ca/posts/2026-03-27-how-to-make-programming-terrible-for-everyone/)
 * [2026-03-27, 18:38:45](https://lobste.rs/s/x7re3z/pondering_effects) - [Pondering Effects](https://wiki.alopex.li/PonderingEffects)
 * [2026-03-27, 16:56:16](https://lobste.rs/s/abrpfr/tailscale_d_into_homelabbing) - [Tailscale’d Into Homelabbing](https://rugu.dev/en/blog/homelabbing_01/)
 * [2026-03-27, 16:04:49](https://lobste.rs/s/4lntz7/bigoish_test_empirical_computational) - [Bigoish: Test the empirical computational complexity of Rust algorithms](https://docs.rs/bigoish/)
 * [2026-03-27, 16:03:00](https://soylentnews.org/article.pl?sid=26/03/26/0225217&amp;from=rss) - [Palantir Trial Plugs Into UK Financial Watchdog&apos;s Data Trove](https://soylentnews.org/article.pl?sid=26/03/26/0225217&amp;from=rss)
-* [2026-03-27, 15:05:56](https://news.ycombinator.com/item?id=47543531) - [Tell HN: GitHub&apos;s Dependabot REST API is silently returning incomplete results](https://news.ycombinator.com/item?id=47543531)
 * [2026-03-27, 14:39:51](https://news.ycombinator.com/item?id=47543186) - [OpenBSD on Motorola 88000 Processors](http://miod.online.fr/software/openbsd/stories/m88k1.html)
 * [2026-03-27, 12:36:21](https://news.ycombinator.com/item?id=47541969) - [I turned my Kindle into my own personal newspaper](https://manualdousuario.net/en/how-to-kindle-personal-newspaper/)
 * [2026-03-27, 11:29:15](https://lobste.rs/s/pxnyf9/immich_vs_ente_photos_photo_backup) - [immich vs ente photos - the photo backup showdown](https://alexandmanu.com/blog/immich-vs-ente-photos/)
@@ -169,13 +156,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-27, 01:55:00](https://soylentnews.org/article.pl?sid=26/03/26/0217248&amp;from=rss) - [TCL&apos;s German QLED Ban Puts Pressure on TV Brands to be More Honest About QDs](https://soylentnews.org/article.pl?sid=26/03/26/0217248&amp;from=rss)
 * [2026-03-26, 21:54:18](https://news.ycombinator.com/item?id=47536306) - [The ANSI art \&quot;telecomics\&quot; of the 1992 election](https://breakintochat.com/blog/2026/03/25/don-lokke-and-mack-the-mouse/)
 * [2026-03-26, 21:05:00](https://soylentnews.org/article.pl?sid=26/03/25/2355253&amp;from=rss) - [Supreme Court Says Internet Service Provider Isn&apos;t Liable for Bootlegged Music Downloads](https://soylentnews.org/article.pl?sid=26/03/25/2355253&amp;from=rss)
-* [2026-03-26, 20:34:56](https://news.ycombinator.com/item?id=47535369) - [The Many Roots of Our Suffering: Reflections on Robert Trivers (1943–2026)](https://quillette.com/2026/03/25/the-many-roots-of-our-suffering-reflections-on-robert-trivers-1943-2026/)
+* [2026-03-26, 19:58:19](https://news.ycombinator.com/item?id=47534953) - [Monado became the foundation for OpenXR runtimes](https://www.collabora.com/news-and-blog/news-and-events/how-monado-became-the-foundation-for-openxr-runtimes.html)
+* [2026-03-26, 17:33:25](https://news.ycombinator.com/item?id=47533324) - [Siclair Microvision (1977)](https://r-type.org/articles/art-452.htm)
 * [2026-03-26, 16:23:00](https://soylentnews.org/article.pl?sid=26/03/25/2344247&amp;from=rss) - [Tech Employees Are Reportedly Being Evaluated by How Fast They Burn Through LLM Tokens](https://soylentnews.org/article.pl?sid=26/03/25/2344247&amp;from=rss)
 * [2026-03-26, 16:06:14](https://news.ycombinator.com/item?id=47532212) - [The Hackers Who Tracked My Sleep Cycle](https://glama.ai/blog/2026-03-26-the-hackers-who-tracked-my-sleep-cycle)
 * [2026-03-26, 11:40:00](https://soylentnews.org/article.pl?sid=26/03/25/2341257&amp;from=rss) - [Micron Predicts That Cars Will Need 300GB of RAM](https://soylentnews.org/article.pl?sid=26/03/25/2341257&amp;from=rss)
 * [2026-03-26, 10:47:36](https://news.ycombinator.com/item?id=47528853) - [A Verilog to Factorio Compiler and Simulator (Working RISC-V CPU)](https://github.com/ben-j-c/verilog2factorio)
 * [2026-03-26, 06:59:00](https://soylentnews.org/article.pl?sid=26/03/25/2339207&amp;from=rss) - [The Mystery of How Volcanic Lightning Happens Has Been Solved](https://soylentnews.org/article.pl?sid=26/03/25/2339207&amp;from=rss)
-* [2026-03-26, 03:53:59](https://news.ycombinator.com/item?id=47526470) - [The Loneliness of a Room of One&apos;s Own](https://newrepublic.com/article/206731/loneliness-room-one-virginia-woolf-hold-up)
 * [2026-03-26, 02:12:00](https://soylentnews.org/article.pl?sid=26/03/23/163239&amp;from=rss) - [NASA Sets &apos;Impossible&apos; Ground Rules for Relocation of &apos;Flown Space Vehicle&apos;](https://soylentnews.org/article.pl?sid=26/03/23/163239&amp;from=rss)
 * [2026-03-25, 23:35:47](https://news.ycombinator.com/item?id=47524778) - [Technology: The (nearly) perfect USB cable tester does exist](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/)
 * [2026-03-25, 21:26:00](https://soylentnews.org/article.pl?sid=26/03/23/1558231&amp;from=rss) - [The 49MB Web Page](https://soylentnews.org/article.pl?sid=26/03/23/1558231&amp;from=rss)
