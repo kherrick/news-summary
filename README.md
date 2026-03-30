@@ -1,66 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Technology Innovations & Developments
 
-* [PGConf.EU 2025 Establishing the PostgreSQL standard: What is Postgres compatible?](https://wiki.postgresql.org/wiki/PGConf.EU_2025_Establishing_the_PostgreSQL_standard_What_is_Postgres_compatible) - A discussion on standardizing PostgreSQL features to unify the database ecosystem.
+* [Fully Local Code Embeds](https://www.aleksandrhovhannisyan.com/blog/local-code-embeds/) - A comprehensive look at creating and managing code embeds fully locally, ensuring privacy and control. [Comments](https://lobste.rs/s/0ivjey/fully_local_code_embeds)
 
-* [Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models](https://dani2442.github.io/posts/continuous-rl/) - Exploring the intersection of reinforcement learning, the Hamilton-Jacobi-Bellman equation, and diffusion models.
+* [Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models](https://dani2442.github.io/posts/continuous-rl/) - An exploration of the connection between advanced mathematical models, reinforcement learning, and diffusion models. [Comments](https://news.ycombinator.com/item?id=47571495)
 
-* [Okapi, or “What if ripgrep Could Edit?”](https://kocharhook.com/post/6/) - A theoretical exploration and development idea of an 'editable' ripgrep.
+* [Okapi, or “What if ripgrep Could Edit?”](https://kocharhook.com/post/6/) - A novel concept exploring how the popular file searching tool ripgrep could be enhanced to include editing functionality. [Comments](https://lobste.rs/s/kqnoi9/okapi_what_if_ripgrep_could_edit)
 
-* [15 years, one server, 8GB RAM and 500k users – how Webminal refuses to die](https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803) - A fascinating story of a resilient tech platform surviving with limited resources for over 15 years.
+* [Clojure: The Documentary (Trailer)](https://youtu.be/JJEyffSdBsk) - A sneak peek into the upcoming documentary exploring the evolution and community around the Clojure programming language. [Comments](https://lobste.rs/s/lxzmm2/clojure_documentary_trailer)
 
-* [The Drone Swarm is Coming, and NATO Air Defenses Are Too Expensive to Cope](https://soylentnews.org/article.pl?sid=26/03/28/0354240&amp;from=rss) - Insights into the growing challenges faced by NATO against low-cost, high-impact drone swarms and their economic implications.
+* [VHDL's Crown Jewel](https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/) - A discussion of innovations in VHDL that could transform how digital design is approached. [Comments](https://news.ycombinator.com/item?id=47570435)
 
-* [Google Unveils TurboQuant, a New AI Memory Compression Algorithm](https://soylentnews.org/article.pl?sid=26/03/28/0349246&amp;from=rss) - Google's breakthrough in memory compression for AI models, promising efficiency and performance.
+* [Free, native RISC-V (RV64GC) CI on GitHub](https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/) - The introduction of free RISC-V CI runners on GitHub, opening new opportunities for open hardware development. [Comments](https://lobste.rs/s/eelhis/free_native_risc_v_rv64gc_ci_on_github)
 
-* [C++26 is done! — Trip report: March 2026 ISO C++ standards meeting (London Croydon, UK)](https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/) - A summary of the finalized features in the C++26 ISO standards event in London.
+* [The First Video Game Was Just a Box in the Corner of a Bar](https://lithub.com/the-very-first-video-game-was-just-a-box-in-the-corner-of-a-bar/) - A nostalgic exploration of the origins of video games and an ode to the first arcade game ever. [Comments](https://news.ycombinator.com/item?id=47535937)
 
-* [Bluesky's Newest Product: an AI Tool That Gives You Custom Feeds](https://tech.slashdot.org/story/26/03/29/1832200/blueskys-newest-product-an-ai-tool-that-gives-you-custom-feeds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Bluesky introduces an AI integrated service offering personalized user content feeds.
+## AI & Machine Learning
 
-* [Micron Predicts That Cars Will Need 300GB of RAM](https://soylentnews.org/article.pl?sid=26/03/25/2341257&amp;from=rss) - Micron's forecast on the increasing memory requirements for future automobiles.
+* [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/) - A thought-provoking piece that compares the online experience of navigating conflicting ideas to traversing a 'dark forest'. [Comments](https://lobste.rs/s/bpotqb/cognitive_dark_forest)
 
-## Artificial Intelligence
+* [Google Unveils TurboQuant, a New AI Memory Compression Algorithm](https://soylentnews.org/article.pl?sid=26/03/28/0349246&amp;from=rss) - Google introduces TurboQuant, an advanced AI memory compression algorithm designed to optimize performance. [Comments](https://news.ycombinator.com/item?id=47569864)
 
-* [AI and bots have officially taken over the internet](https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html) - Delving into how AI and bots dominate the web, and their implications for digital life.
+* [Copilot Edited an Ad into My PR](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/) - A user's bizarre encounter with Copilot showing advertisements within their pull request code edits. [Comments](https://news.ycombinator.com/item?id=47570269)
 
-* [ChatGPT Won't Let You Type Until Cloudflare Reads Your React State. I Decrypted the Program That Does It](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/) - An analysis of ChatGPT's restrictions and its dependency on Cloudflare's technology.
+## Historical & Thoughtful Perspectives
 
-* [AI Agents Could Make Free Software Matter Again](https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/) - A thought-provoking take on how AI agents could potentially revitalize the Free Software movement.
+* [Apple's Early Days: Massive Oral History Shares Stories About Young Wozniak and Jobs](https://apple.slashdot.org/story/26/03/30/0547245/apples-early-days-massive-oral-history-shares-stories-about-young-wozniak-and-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A treasure trove of oral histories focusing on Apple's early journey and its iconic founders. [Comments](https://news.ycombinator.com/item?id=47572130)
 
-## Cybersecurity and Privacy
+* [15 Years, One Server, 8GB RAM and 500k Users – How Webminal Refuses to Die](https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803) - An inspiring story of resilience and minimal resource usage in the digital world. [Comments](https://news.ycombinator.com/item?id=47570940)
 
-* [Copilot edited an ad into my PR](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/) - A surprising account of ads being inserted into code via AI coding tools like GitHub Copilot.
+* [15 Years of Forking (Waterfox)](https://www.waterfox.com/blog/15-years-of-forking/) - The story of Waterfox and its journey through 15 years of open-source influence. [Comments](https://lobste.rs/s/yyxyjy/15_years_forking_waterfox)
 
-* [Philly courts will ban all smart eyeglasses starting next week](https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html) - Philadelphia courts aim to ensure privacy by banning smart glasses.
+* [The Rise and Fall of IBM's 4 Pi Aerospace Computers: An Illustrated History](http://www.righto.com/2026/03/ibm-4-pi-computer-history.html) - A deep historical dive into the lifecycle of IBM's aerospace computing systems. [Comments](https://lobste.rs/s/xv3s8d/rise_fall_ibm_s_4_pi_aerospace_computers)
 
-* [Google is Now Changing News Headlines – Without Permission](https://soylentnews.org/article.pl?sid=26/03/28/0345249&amp;from=rss) - Controversy around Google altering news headlines without consent from publishers.
+## Miscellaneous Highlights
 
-## Programming and Developer Tools
+* [ChatGPT Won't Let You Type Until Cloudflare Reads Your React State. I Decrypted the Program That Does It](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/) - An intriguing reverse-engineering effort to uncover strict input controls from popular AI software. [Comments](https://lobste.rs/s/lxkqhp/chatgpt_won_t_let_you_type_until)
 
-* [I use excalidraw to manage my diagrams for my blog](https://blog.lysk.tech/excalidraw-frame-export/) - A personal account of how Excalidraw simplifies diagram management for blog content.
-
-* [Neill.js - A tiny engine for 3D voxel scenes rendered to SVG](https://meodai.github.io/heerich) - Simplicity meets functionality in this novel 3D voxel rendering tool.
-
-* [UVWATAUAVAWH, The Pushy String](https://www.hexacorn.com/blog/2013/05/16/uvwatauavawh-meet-the-pushy-string/) - Explore a challenging programming concept vividly explained with practical insights.
-
-## History and Retrospective
-
-* [Apple's Early Days: Massive Oral History Shares Stories About Young Wozniak and Jobs](https://apple.slashdot.org/story/26/03/30/0547245/apples-early-days-massive-oral-history-shares-stories-about-young-wozniak-and-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A captivating oral history of Apple's early days and the dynamic partnership of Steve Wozniak and Steve Jobs.
-
-* [The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history](http://www.righto.com/2026/03/ibm-4-pi-computer-history.html) - A deep dive into the history of IBM's 4 Pi aerospace systems and their evolution.
-
-## Culture and Society
-
-* [The road signs that teach travellers about France](https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france) - Discover France's intriguing road signs and what they reveal about the country's culture.
-
-* [Midnight train from GA: A view of America from the tracks as airports struggle](https://apnews.com/article/airports-shutdown-long-lines-train-travel-amtrak-e4d8ea591b3b036142c2bf2dee7dff5a) - Exploring how train travel could reshape domestic transportation amidst struggling U.S. airports.
-
-## Industry and Business
-
-* [Rivian and Lucid Win Right to Sell Their EVs Directly to Buyers in Washington State](https://tech.slashdot.org/story/26/03/30/0219229/rivian-and-lucid-win-right-to-sell-their-evs-directly-to-buyers-in-washington-state?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A win for EV companies as they secure the right to make direct sales to consumers.
-
-* [Amazon Gambles on $4B Push Into America's Rural Areas, May Soon Carry More Parcels Than USPS](https://news.slashdot.org/story/26/03/29/066219/amazon-gambles-on-4b-push-into-americas-rural-areas-may-soon-carry-more-parcels-than-usps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Amazon invests heavily in rural logistics, challenging USPS dominance in package delivery.
+* [15 Years of Forking](https://www.waterfox.com/blog/15-years-of-forking/) Revolutionising waterfox's early days revealing connects themed issue comments.parallel nuances!
 
 ---
 
@@ -87,14 +65,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-03-30, 07:51:55](https://lobste.rs/s/sqne7q/pgconf_eu_2025_establishing_postgresql) - [PGConf.EU 2025 Establishing the PostgreSQL standard What is Postgres compatible](https://wiki.postgresql.org/wiki/PGConf.EU_2025_Establishing_the_PostgreSQL_standard_What_is_Postgres_compatible)
+* [2026-03-30, 09:04:59](https://lobste.rs/s/0ivjey/fully_local_code_embeds) - [Fully Local Code Embeds](https://www.aleksandrhovhannisyan.com/blog/local-code-embeds/)
+* [2026-03-30, 08:51:18](https://news.ycombinator.com/item?id=47572000) - [Stripe is down](https://status.stripe.com/)
 * [2026-03-30, 07:34:04](https://news.ycombinator.com/item?id=47571495) - [Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models](https://dani2442.github.io/posts/continuous-rl/)
 * [2026-03-30, 07:34:00](https://apple.slashdot.org/story/26/03/30/0547245/apples-early-days-massive-oral-history-shares-stories-about-young-wozniak-and-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s Early Days: Massive Oral History Shares Stories About Young Wozniak and Jobs](https://apple.slashdot.org/story/26/03/30/0547245/apples-early-days-massive-oral-history-shares-stories-about-young-wozniak-and-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-30, 07:17:06](https://news.ycombinator.com/item?id=47571376) - [I use excalidraw to manage my diagrams for my blog](https://blog.lysk.tech/excalidraw-frame-export/)
 * [2026-03-30, 07:14:21](https://lobste.rs/s/kqnoi9/okapi_what_if_ripgrep_could_edit) - [Okapi, or “What if ripgrep Could Edit?”](https://kocharhook.com/post/6/)
 * [2026-03-30, 07:03:18](https://news.ycombinator.com/item?id=47571279) - [I am definitely missing the pre-AI writing era](https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era)
 * [2026-03-30, 06:50:00](https://soylentnews.org/article.pl?sid=26/03/28/0354240&amp;from=rss) - [The Drone Swarm is Coming, and NATO Air Defenses Are Too Expensive to Cope](https://soylentnews.org/article.pl?sid=26/03/28/0354240&amp;from=rss)
-* [2026-03-30, 06:29:17](https://news.ycombinator.com/item?id=47571064) - [AI and bots have officially taken over the internet](https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html)
 * [2026-03-30, 06:16:09](https://lobste.rs/s/zkg4wr/uvwatauavawh_pushy_string) - [UVWATAUAVAWH, The Pushy String](https://www.hexacorn.com/blog/2013/05/16/uvwatauavawh-meet-the-pushy-string/)
 * [2026-03-30, 06:08:53](https://news.ycombinator.com/item?id=47570940) - [15 years, one server, 8GB RAM and 500k users – how Webminal refuses to die](https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803)
 * [2026-03-30, 05:41:18](https://lobste.rs/s/lxkqhp/chatgpt_won_t_let_you_type_until) - [ChatGPT Won&apos;t Let You Type Until Cloudflare Reads Your React State. I Decrypted the Program That Does It](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
@@ -102,13 +80,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-30, 05:21:21](https://lobste.rs/s/yyxyjy/15_years_forking_waterfox) - [15 Years of Forking (Waterfox)](https://www.waterfox.com/blog/15-years-of-forking/)
 * [2026-03-30, 05:19:22](https://lobste.rs/s/lxzmm2/clojure_documentary_trailer) - [Clojure: The Documentary (Trailer)](https://youtu.be/JJEyffSdBsk)
 * [2026-03-30, 05:12:51](https://lobste.rs/s/wkukvc/steam_controller_d0ggle_adventure) - [The Steam Controller D0ggle Adventure](https://im-just-lee.ing/steam-controller-d0ggle-54682aa4/)
-* [2026-03-30, 05:01:07](https://news.ycombinator.com/item?id=47570547) - [HD Audio Driver for Windows 98SE / Me](https://github.com/andrew-hoffman/wdmhda)
 * [2026-03-30, 04:39:15](https://news.ycombinator.com/item?id=47570435) - [VHDL&apos;s Crown Jewel](https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/)
 * [2026-03-30, 04:04:31](https://news.ycombinator.com/item?id=47570269) - [Copilot edited an ad into my PR](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)
 * [2026-03-30, 03:34:00](https://tech.slashdot.org/story/26/03/30/0219229/rivian-and-lucid-win-right-to-sell-their-evs-directly-to-buyers-in-washington-state?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Rivian and Lucid Win Right to Sell Their EVs Directly to Buyers in Washington State](https://tech.slashdot.org/story/26/03/30/0219229/rivian-and-lucid-win-right-to-sell-their-evs-directly-to-buyers-in-washington-state?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-30, 02:07:00](https://soylentnews.org/article.pl?sid=26/03/28/0349246&amp;from=rss) - [Google Unveils TurboQuant, a New AI Memory Compression Algorithm](https://soylentnews.org/article.pl?sid=26/03/28/0349246&amp;from=rss)
 * [2026-03-30, 01:38:17](https://news.ycombinator.com/item?id=47569471) - [Philly courts will ban all smart eyeglasses starting next week](https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html)
 * [2026-03-30, 01:37:00](https://tech.slashdot.org/story/26/03/30/0135235/will-social-media-change-after-youtube-and-metas-court-defeat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Will Social Media Change After YouTube and Meta&apos;s Court Defeat?](https://tech.slashdot.org/story/26/03/30/0135235/will-social-media-change-after-youtube-and-metas-court-defeat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-30, 01:15:11](https://lobste.rs/s/zgkb0z/this_gorgeous_diy_camera_looks_straight) - [This gorgeous DIY camera looks straight out of Severance](https://www.dpreview.com/articles/9055612016/saturnix-diy-camera-alien-sci-fi-raspberry-pi)
 * [2026-03-30, 00:57:59](https://lobste.rs/s/ttyfeb/ai_agents_could_make_free_software_matter) - [AI Agents Could Make Free Software Matter Again](https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/)
 * [2026-03-30, 00:19:51](https://lobste.rs/s/eelhis/free_native_risc_v_rv64gc_ci_on_github) - [Free, native RISC-V (RV64GC) CI on GitHub](https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/)
 * [2026-03-29, 23:52:53](https://lobste.rs/s/uh3cha/telecheck_tyms_past) - [telecheck and tyms past](https://computer.rip/2026-03-29-telecheck-and-tyms-past.html)
@@ -116,9 +94,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-29, 22:59:34](https://lobste.rs/s/zxtsba/making_hnsw_actually_work_with_where) - [Making HNSW actually work with WHERE clauses](https://cigrainger.com/blog/duckdb-hnsw-acorn/)
 * [2026-03-29, 22:57:08](https://lobste.rs/s/350aqk/c_26_is_done_trip_report_march_2026_iso_c) - [C++26 is done! — Trip report: March 2026 ISO C++ standards meeting (London Croydon, UK)](https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/)
 * [2026-03-29, 22:36:35](https://lobste.rs/s/wnuuoj/oxcaml_labs) - [OxCaml Labs](https://anil.recoil.org/projects/oxcaml)
-* [2026-03-29, 22:21:34](https://news.ycombinator.com/item?id=47568028) - [Coding Agents Could Make Free Software Matter Again](https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/)
+* [2026-03-29, 22:21:34](https://news.ycombinator.com/item?id=47568028) - [Coding agents could make free software matter again](https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/)
 * [2026-03-29, 22:19:00](https://entertainment.slashdot.org/story/26/03/29/2216247/project-hail-mary-real-space-science-real-astrophotography?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Project Hail Mary&apos;:  Real Space Science, Real Astrophotography](https://entertainment.slashdot.org/story/26/03/29/2216247/project-hail-mary-real-space-science-real-astrophotography?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-29, 22:15:06](https://news.ycombinator.com/item?id=47567969) - [Claude Code runs Git reset –hard origin/main against project repo every 10 mins](https://github.com/anthropics/claude-code/issues/40710)
 * [2026-03-29, 21:26:00](https://soylentnews.org/article.pl?sid=26/03/28/0347204&amp;from=rss) - [A 32-Year-Old Bug Walks Into a Telnet Server](https://soylentnews.org/article.pl?sid=26/03/28/0347204&amp;from=rss)
 * [2026-03-29, 21:15:00](https://hardware.slashdot.org/story/26/03/29/2112231/worlds-smallest-qr-code---smaller-than-bacteria---could-store-data-for-centuries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [World&apos;s Smallest QR Code - Smaller Than Bacteria - Could Store Data for Centuries](https://hardware.slashdot.org/story/26/03/29/2112231/worlds-smallest-qr-code---smaller-than-bacteria---could-store-data-for-centuries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-29, 20:30:02](https://news.ycombinator.com/item?id=47566960) - [The road signs that teach travellers about France](https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france)
@@ -130,6 +107,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-29, 19:08:20](https://news.ycombinator.com/item?id=47566143) - [My MacBook keyboard is broken and it&apos;s insanely expensive to fix](https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/)
 * [2026-03-29, 19:06:19](https://lobste.rs/s/xv3s8d/rise_fall_ibm_s_4_pi_aerospace_computers) - [The rise and fall of IBM&apos;s 4 Pi aerospace computers: an illustrated history](http://www.righto.com/2026/03/ibm-4-pi-computer-history.html)
 * [2026-03-29, 18:34:00](https://tech.slashdot.org/story/26/03/29/1832200/blueskys-newest-product-an-ai-tool-that-gives-you-custom-feeds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bluesky&apos;s Newest Product: an AI Tool That Gives You Custom Feeds](https://tech.slashdot.org/story/26/03/29/1832200/blueskys-newest-product-an-ai-tool-that-gives-you-custom-feeds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-03-29, 18:19:58](https://lobste.rs/s/gx94qn/pretext_pure_javascript_typescript) - [pretext: Pure JavaScript/TypeScript library for multiline text measurement &amp; layout](https://github.com/chenglou/pretext)
 * [2026-03-29, 18:01:55](https://lobste.rs/s/vixzkq/who_s_hiring_q2_2026) - [Who&apos;s hiring? Q2 2026](https://lobste.rs/s/vixzkq/who_s_hiring_q2_2026)
 * [2026-03-29, 17:46:12](https://news.ycombinator.com/item?id=47565365) - [C++26 is done: ISO C++ standards meeting Trip Report](https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/)
 * [2026-03-29, 17:44:38](https://lobste.rs/s/64hfnw/neovim_0_12_0) - [Neovim 0.12.0](https://github.com/neovim/neovim/releases/tag/v0.12.0)
@@ -145,9 +123,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-29, 10:29:00](https://lobste.rs/s/ntmv9j/what_category_theory_teaches_us_about) - [What Category Theory Teaches Us About DataFrames](https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/)
 * [2026-03-29, 07:34:00](https://entertainment.slashdot.org/story/26/03/29/0722208/disney-ends-1b-openai-investment-after-soras-surprise-closure-whats-next?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Disney Ends $1B OpenAI Investment After Sora&apos;s Surprise Closure. What&apos;s Next?](https://entertainment.slashdot.org/story/26/03/29/0722208/disney-ends-1b-openai-investment-after-soras-surprise-closure-whats-next?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-29, 07:03:00](https://soylentnews.org/article.pl?sid=26/03/27/0325254&amp;from=rss) - [Someone Forked systemd to Strip Out Its Age Verification Support](https://soylentnews.org/article.pl?sid=26/03/27/0325254&amp;from=rss)
-* [2026-03-29, 06:01:31](https://lobste.rs/s/qqpc7k/heerich_js_tiny_engine_for_3d_voxel_scenes) - [heerich.js - A tiny engine for 3D voxel scenes rendered to SVG](https://meodai.github.io/heerich)
 * [2026-03-29, 04:49:25](https://lobste.rs/s/dblov3/libeatmydata_disable_fsync_save) - [libeatmydata - disable fsync and SAVE](https://www.flamingspork.com/projects/libeatmydata/)
-* [2026-03-29, 04:47:03](https://lobste.rs/s/vodhvg/ai_hot_takes_from_platform_engineer_sre) - [AI Hot Takes From A Platform Engineer / SRE](https://alienchow.dev/post/ai_takeaways_mar_2026/)
 * [2026-03-29, 03:34:00](https://it.slashdot.org/story/26/03/28/2013229/do-emergency-microsoft-oracle-patches-point-to-wider-issues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Do Emergency Microsoft, Oracle Patches Point to Wider Issues?](https://it.slashdot.org/story/26/03/28/2013229/do-emergency-microsoft-oracle-patches-point-to-wider-issues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-29, 02:18:00](https://soylentnews.org/article.pl?sid=26/03/27/0319208&amp;from=rss) - [Nvidia CEO Jensen Huang Says ‘I Think We&apos;ve Achieved AGI’](https://soylentnews.org/article.pl?sid=26/03/27/0319208&amp;from=rss)
 * [2026-03-29, 01:34:00](https://apple.slashdot.org/story/26/03/28/2055255/macos-264-adds-warnings-for-clickfix-attacks-to-its-terminal-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [MacOS 26.4 Adds Warnings For ClickFix Attacks to Its Terminal App](https://apple.slashdot.org/story/26/03/28/2055255/macos-264-adds-warnings-for-clickfix-attacks-to-its-terminal-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -164,11 +140,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-27, 21:50:00](https://soylentnews.org/article.pl?sid=26/03/26/0634229&amp;from=rss) - [Concerns Raised Over Shahed Kamikaze Drone Listings on Alibaba](https://soylentnews.org/article.pl?sid=26/03/26/0634229&amp;from=rss)
 * [2026-03-27, 17:22:11](https://news.ycombinator.com/item?id=47545607) - [15 Years of Forking](https://www.waterfox.com/blog/15-years-of-forking/)
 * [2026-03-27, 16:03:00](https://soylentnews.org/article.pl?sid=26/03/26/0225217&amp;from=rss) - [Palantir Trial Plugs Into UK Financial Watchdog&apos;s Data Trove](https://soylentnews.org/article.pl?sid=26/03/26/0225217&amp;from=rss)
+* [2026-03-27, 15:40:23](https://news.ycombinator.com/item?id=47544114) - [When Coupled Volcanoes Talk, These Researchers Listen](https://www.quantamagazine.org/when-coupled-volcanoes-talk-these-researchers-listen-20260327/)
 * [2026-03-27, 14:40:47](https://news.ycombinator.com/item?id=47543198) - [Interview: Nobonoko, Master of the Minimal Sequencer](https://fi-le.net/nobo/)
 * [2026-03-27, 11:20:00](https://soylentnews.org/article.pl?sid=26/03/26/0220234&amp;from=rss) - [Amid Fuel Crunch, Cuban Mechanic Converts Car to Run on Charcoal](https://soylentnews.org/article.pl?sid=26/03/26/0220234&amp;from=rss)
-* [2026-03-27, 10:23:38](https://news.ycombinator.com/item?id=47540903) - [ninja: a small build system with a focus on speed](https://github.com/ninja-build/ninja)
+* [2026-03-27, 10:23:38](https://news.ycombinator.com/item?id=47540903) - [Ninja is a small build system with a focus on speed](https://github.com/ninja-build/ninja)
 * [2026-03-27, 06:38:00](https://soylentnews.org/article.pl?sid=26/03/26/0219214&amp;from=rss) - [The US Bans All New Foreign-Made Network Routers](https://soylentnews.org/article.pl?sid=26/03/26/0219214&amp;from=rss)
 * [2026-03-27, 01:55:00](https://soylentnews.org/article.pl?sid=26/03/26/0217248&amp;from=rss) - [TCL&apos;s German QLED Ban Puts Pressure on TV Brands to be More Honest About QDs](https://soylentnews.org/article.pl?sid=26/03/26/0217248&amp;from=rss)
+* [2026-03-26, 21:22:32](https://news.ycombinator.com/item?id=47535937) - [The First Video Game Was Just a Box in the Corner of a Bar](https://lithub.com/the-very-first-video-game-was-just-a-box-in-the-corner-of-a-bar/)
 * [2026-03-26, 21:05:00](https://soylentnews.org/article.pl?sid=26/03/25/2355253&amp;from=rss) - [Supreme Court Says Internet Service Provider Isn&apos;t Liable for Bootlegged Music Downloads](https://soylentnews.org/article.pl?sid=26/03/25/2355253&amp;from=rss)
 * [2026-03-26, 16:23:00](https://soylentnews.org/article.pl?sid=26/03/25/2344247&amp;from=rss) - [Tech Employees Are Reportedly Being Evaluated by How Fast They Burn Through LLM Tokens](https://soylentnews.org/article.pl?sid=26/03/25/2344247&amp;from=rss)
 * [2026-03-26, 16:14:48](https://news.ycombinator.com/item?id=47532338) - [Gonon: Building a Clock with No Numerals](https://tonygaeta.com/perceptor/code/gonon)
