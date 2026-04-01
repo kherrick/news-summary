@@ -1,54 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech and AI Developments
+## Tech Innovation and Scientific Advances
 
-* [I built a 516-panel financial terminal in 3 weeks using AI](https://neuberg.ai/) ([Comments](https://news.ycombinator.com/item?id=47596654))
+* [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts) - CERN pushes the boundaries of engineering as it unveils new high-tech superconducting carts. [Comments](https://news.ycombinator.com/item?id=47597935)
 
-* [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html) ([Comments](https://news.ycombinator.com/item?id=47592755))
+* [After 40 years, arbitrary code execution has been achieved in Super Mario Bros](https://youtu.be/bNulp6cDqUU) - A major breakthrough for retro-game enthusiasts as arbitrary code execution is achieved in a classic game. [Comments](https://lobste.rs/s/vnlthc/after_40_years_arbitrary_code_execution)
 
-* [AI Data Centers Can Warm Surrounding Areas By Up To 9.1C](https://developers.slashdot.org/story/26/03/30/2337240/ai-data-centers-can-warm-surrounding-areas-by-up-to-91c?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://developers.slashdot.org/story/26/03/30/2337240/ai-data-centers-can-warm-surrounding-areas-by-up-to-91c?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Neanderthals survived on a knife's edge for 350k years](https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years) - A robust examination of how Neanderthals existed under extreme pressures for centuries. [Comments](https://news.ycombinator.com/item?id=47595572)
 
-* [Google Unveils TurboQuant, a New AI Memory Compression Algorithm](https://soylentnews.org/article.pl?sid=26/03/28/0349246&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/28/0349246&amp;from=rss))
+* [Quadratic Gravity Theory Reshapes Quantum View of Big Bang](https://science.slashdot.org/story/26/03/31/0454242/quadratic-gravity-theory-reshapes-quantum-view-of-big-bang?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A radical revisit to the origins of the universe through quadratic gravity theory. [Comments](https://science.slashdot.org/story/26/03/31/0454242/quadratic-gravity-theory-reshapes-quantum-view-of-big-bang?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+## AI and Software Developments
+
+* [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html) - OpenAI continues to dominate the AI industry with a $852B valuation. [Comments](https://news.ycombinator.com/item?id=47592755)
+
+* [Mad Bugs: Vim vs. Emacs vs. Claude](https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude) - An intriguing comparison exposing bugs across popular text editors like Vim, Emacs, and AI Claude. [Comments](https://news.ycombinator.com/item?id=47597382)
+
+* [The Self-Cancelling Subscription](https://predr.ag/blog/the-self-cancelling-subscription/) - Introducing an innovative subscription model that auto-cancels itself under specific terms. [Comments](https://lobste.rs/s/6gqiqy/self_cancelling_subscription)
+
+* [Early observations from Interviews with Engineering Teams Adopting AI](https://jonathannen.com/observations-from-interviews/) - Insights reveal industry struggles and successes in implementing AI at scale. [Comments](https://lobste.rs/s/olipz6/early_observations_from_interviews_with)
 
 ## Cybersecurity and Privacy
 
-* [Supply Chain Attack on Axios](https://socket.dev/blog/axios-npm-package-compromised) ([Comments](https://lobste.rs/s/l57wuc/supply_chain_attack_on_axios))
+* [Supply Chain Attack on Axios](https://socket.dev/blog/axios-npm-package-compromised) - An analysis of the Axios NPM package compromise that allowed for remote trojans to propagate. [Comments](https://lobste.rs/s/l57wuc/supply_chain_attack_on_axios)
 
-* [We intercepted the White House app's network traffic](https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/) ([Comments](https://news.ycombinator.com/item?id=47595865))
+* [Why have supply chain attacks become a near daily occurrence?](https://lobste.rs/s/nz2wdr/why_have_supply_chain_attacks_become_near) - Examining the increasing frequency and difficulty in mitigating modern supply chain vulnerabilities. [Comments](https://lobste.rs/s/nz2wdr/why_have_supply_chain_attacks_become_near)
 
-* [OkCupid gave 3M dating-app photos to facial recognition firm, FTC says](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/) ([Comments](https://news.ycombinator.com/item?id=47591104))
+* [Russia Goes After VPNs As 'Great Crackdown' Gathers Pace](https://tech.slashdot.org/story/26/03/31/2233209/russia-goes-after-vpns-as-great-crackdown-gathers-pace?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Russian scrutiny on VPN usage intensifies amidst growing digital restrictions. [Comments](https://tech.slashdot.org/story/26/03/31/2233209/russia-goes-after-vpns-as-great-crackdown-gathers-pace?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Russia Goes After VPNs As 'Great Crackdown' Gathers Pace](https://tech.slashdot.org/story/26/03/31/2233209/russia-goes-after-vpns-as-great-crackdown-gathers-pace?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://tech.slashdot.org/story/26/03/31/2233209/russia-goes-after-vpns-as-great-crackdown-gathers-pace?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Tech Product Innovation and Launches
 
-## Programming and Development
+* [I Made a Keyboard Nobody Asked For: My Experience Making TapType](https://fireborn.mataroa.blog/blog/i-made-a-keyboard-nobody-asked-for-my-experience-making-taptype/) - A quirky yet ambitious tale of crafting a niche keyboard. [Comments](https://lobste.rs/s/rqzqjz/i_made_keyboard_nobody_asked_for_my)
 
-* [Postgres extension for BM25 relevance-ranked full-text search](https://github.com/timescale/pg_textsearch) ([Comments](https://news.ycombinator.com/item?id=47589856))
+* [MiniStack (replacement for LocalStack)](https://ministack.org/) - A promising replacement for developers relying on LocalStack for development. [Comments](https://news.ycombinator.com/item?id=47593285)
 
-* [Open source CAD in the browser (Solvespace)](https://solvespace.com/webver.pl) ([Comments](https://news.ycombinator.com/item?id=47586614))
+* [Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs](https://prismml.com/) - Introducing a revolutionary AI capable of operating on minimal computational needs. [Comments](https://news.ycombinator.com/item?id=47593422)
 
-* [DSTs Are Just Polymorphically Compiled Generics](https://faultlore.com/blah/dsts-are-polymorphic-generics/) ([Comments](https://lobste.rs/s/mgga0o/dsts_are_just_polymorphically_compiled))
+## Social and Industry Trends
 
-* [Reading leaked Claude Code source code](https://lr0.org/blog/p/claude-code-source/) ([Comments](https://lobste.rs/s/6c8cwq/reading_leaked_claude_code_source_code))
+* [Ranked: The World’s Most Surveilled Cities](https://soylentnews.org/article.pl?sid=26/03/30/151240&amp;from=rss) - A comprehensive ranking of global cities based on surveillance data and privacy. [Comments](https://soylentnews.org/article.pl?sid=26/03/30/151240&amp;from=rss)
 
-## Engineering and Innovation
+* [Over Half of UK Businesses Have No Idea How Fast They Could Stop AI in a Crisis](https://soylentnews.org/article.pl?sid=26/03/29/1333211&amp;from=rss) - Reflecting on preparedness gaps in AI technology management within the UK. [Comments](https://soylentnews.org/article.pl?sid=26/03/29/1333211&amp;from=rss)
 
-* [Neanderthals survived on a knife's edge for 350k years](https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years) ([Comments](https://news.ycombinator.com/item?id=47595572))
-
-* [Bring Back MiniDV with This Raspberry Pi FireWire Hat](https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/) ([Comments](https://news.ycombinator.com/item?id=47558101))
-
-* [An Uncontrolled Experiment in Atmospheric Chemistry](https://soylentnews.org/article.pl?sid=26/03/26/0644236&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/26/0644236&amp;from=rss))
-
-* [The Drone Swarm is Coming, and NATO Air Defenses Are Too Expensive to Cope](https://soylentnews.org/article.pl?sid=26/03/28/0354240&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/28/0354240&amp;from=rss))
-
-## Cultural and Global Perspectives
-
-* [Ranked: The World’s Most Surveilled Cities](https://soylentnews.org/article.pl?sid=26/03/30/151240&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/30/151240&amp;from=rss))
-
-* [China's Not Thrilled its AI Experts Want to Leave the Country](https://soylentnews.org/article.pl?sid=26/03/30/1458237&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/30/1458237&amp;from=rss))
-
-* [Australia Readies Social Media Court Action Citing Teen Ban Breaches](https://yro.slashdot.org/story/26/03/31/1717242/australia-readies-social-media-court-action-citing-teen-ban-breaches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://yro.slashdot.org/story/26/03/31/1717242/australia-readies-social-media-court-action-citing-teen-ban-breaches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [Court Temporarily Blocks US Government From Labeling Anthropic as a 'Supply Chain Risk'](https://soylentnews.org/article.pl?sid=26/03/30/0239206&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/30/0239206&amp;from=rss))
+* [Are US-Based VPN Users at Risk of Being Treated as Foreign Surveillance Targets?](https://soylentnews.org/article.pl?sid=26/03/29/1343212&amp;from=rss) - Concerns grow as legal definitions surrounding VPN use come under scrutiny in the U.S. [Comments](https://soylentnews.org/article.pl?sid=26/03/29/1343212&amp;from=rss)
 
 ---
 
@@ -75,12 +69,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-04-01, 04:00:51](https://news.ycombinator.com/item?id=47596654) - [I built a 516-panel financial terminal in 3 weeks using AI](https://neuberg.ai/)
+* [2026-04-01, 07:27:13](https://news.ycombinator.com/item?id=47597935) - [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts)
+* [2026-04-01, 07:22:41](https://news.ycombinator.com/item?id=47597908) - [Remembering Magnetic Memories and the Apollo AGC](https://2earth.github.io/website/20260304.html)
+* [2026-04-01, 07:00:00](https://tech.slashdot.org/story/26/03/31/2229204/spacex-starlink-satellite-suffers-mysterious-anomaly-in-orbit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SpaceX Starlink Satellite Suffers Mysterious &apos;Anomaly&apos; In Orbit](https://tech.slashdot.org/story/26/03/31/2229204/spacex-starlink-satellite-suffers-mysterious-anomaly-in-orbit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-01, 06:07:52](https://lobste.rs/s/6gqiqy/self_cancelling_subscription) - [The Self-Cancelling Subscription](https://predr.ag/blog/the-self-cancelling-subscription/)
+* [2026-04-01, 06:05:57](https://news.ycombinator.com/item?id=47597382) - [Mad Bugs: Vim vs. Emacs vs. Claude](https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude)
+* [2026-04-01, 05:15:37](https://news.ycombinator.com/item?id=47597085) - [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/)
 * [2026-04-01, 03:44:00](https://soylentnews.org/article.pl?sid=26/03/30/151240&amp;from=rss) - [Ranked: The World’s Most Surveilled Cities](https://soylentnews.org/article.pl?sid=26/03/30/151240&amp;from=rss)
 * [2026-04-01, 03:30:00](https://tech.slashdot.org/story/26/03/31/2233209/russia-goes-after-vpns-as-great-crackdown-gathers-pace?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Russia Goes After VPNs As &apos;Great Crackdown&apos; Gathers Pace](https://tech.slashdot.org/story/26/03/31/2233209/russia-goes-after-vpns-as-great-crackdown-gathers-pace?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-01, 03:27:38](https://news.ycombinator.com/item?id=47596457) - [Analyzing Geekbench 6 under Intel&apos;s BOT](https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/)
+* [2026-04-01, 02:53:15](https://lobste.rs/s/vnlthc/after_40_years_arbitrary_code_execution) - [After 40 years, arbitrary code execution has been achieved in Super Mario Bros](https://youtu.be/bNulp6cDqUU)
 * [2026-04-01, 02:42:24](https://lobste.rs/s/mgga0o/dsts_are_just_polymorphically_compiled) - [DSTs Are Just Polymorphically Compiled Generics](https://faultlore.com/blah/dsts-are-polymorphic-generics/)
-* [2026-04-01, 01:58:45](https://news.ycombinator.com/item?id=47595865) - [We intercepted the White House app&apos;s network traffic](https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/)
 * [2026-04-01, 01:12:12](https://news.ycombinator.com/item?id=47595572) - [Neanderthals survived on a knife&apos;s edge for 350k years](https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years)
 * [2026-04-01, 01:11:36](https://lobste.rs/s/olipz6/early_observations_from_interviews_with) - [Early observations from Interviews with Engineering Teams Adopting AI](https://jonathannen.com/observations-from-interviews/)
 * [2026-04-01, 00:16:22](https://lobste.rs/s/rqzqjz/i_made_keyboard_nobody_asked_for_my) - [I Made a Keyboard Nobody Asked For: My Experience Making TapType](https://fireborn.mataroa.blog/blog/i-made-a-keyboard-nobody-asked-for-my-experience-making-taptype/)
@@ -95,18 +94,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-31, 21:03:30](https://lobste.rs/s/lqyne4/wastrelly_wabbits) - [wastrelly wabbits](https://wingolog.org/archives/2026/03/31/wastrelly-wabbits)
 * [2026-03-31, 21:01:18](https://news.ycombinator.com/item?id=47593422) - [Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs](https://prismml.com/)
 * [2026-03-31, 21:00:00](https://yro.slashdot.org/story/26/03/31/1859249/top-brussels-official-urges-europeans-to-work-from-home-drive-less-as-energy-crisis-deepens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Top Brussels Official Urges Europeans To Work From Home, Drive Less As Energy Crisis Deepens](https://yro.slashdot.org/story/26/03/31/1859249/top-brussels-official-urges-europeans-to-work-from-home-drive-less-as-energy-crisis-deepens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-31, 20:48:15](https://news.ycombinator.com/item?id=47593285) - [Ministack (Replacement for LocalStack)](https://ministack.org/)
+* [2026-03-31, 20:48:15](https://news.ycombinator.com/item?id=47593285) - [MiniStack (replacement for LocalStack)](https://ministack.org/)
 * [2026-03-31, 20:31:41](https://lobste.rs/s/n42iq0/pidgin_3_0_alpha_1_2_95_0_has_been_released) - [Pidgin 3.0 Alpha 1 2.95.0 has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-1-2-95-0-has-been-released/378)
 * [2026-03-31, 20:07:30](https://news.ycombinator.com/item?id=47592755) - [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)
 * [2026-03-31, 20:00:00](https://tech.slashdot.org/story/26/03/31/1844253/google-now-lets-you-change-your-gmail-address?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Now Lets You Change Your Gmail Address](https://tech.slashdot.org/story/26/03/31/1844253/google-now-lets-you-change-your-gmail-address?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-31, 19:46:43](https://news.ycombinator.com/item?id=47592462) - [I Traced My Traffic Through a Home Tailscale Exit Node](https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/)
 * [2026-03-31, 19:03:06](https://lobste.rs/s/hssl4e/your_hex_editor_should_color_code_bytes) - [your hex editor should color-code bytes](https://simonomi.dev/blog/color-code-your-bytes/)
-* [2026-03-31, 19:01:29](https://news.ycombinator.com/item?id=47591928) - [GitHub&apos;s Historic Uptime](https://damrnelson.github.io/github-historical-uptime/)
 * [2026-03-31, 19:00:00](https://news.slashdot.org/story/26/03/31/1837244/global-ban-on-digital-duties-expires-after-stalled-talks-at-wto-meeting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Global Ban On Digital Duties Expires After Stalled Talks At WTO Meeting](https://news.slashdot.org/story/26/03/31/1837244/global-ban-on-digital-duties-expires-after-stalled-talks-at-wto-meeting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-31, 18:27:16](https://lobste.rs/s/s5z94j/historical_github_uptime_charts) - [Historical GitHub Uptime Charts](https://damrnelson.github.io/github-historical-uptime/)
 * [2026-03-31, 18:13:00](https://soylentnews.org/article.pl?sid=26/03/30/1454213&amp;from=rss) - [Number of AI Chatbots Ignoring Human Instructions is Increasing  ](https://soylentnews.org/article.pl?sid=26/03/30/1454213&amp;from=rss)
 * [2026-03-31, 18:00:00](https://yro.slashdot.org/story/26/03/31/1717242/australia-readies-social-media-court-action-citing-teen-ban-breaches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Australia Readies Social Media Court Action Citing Teen Ban Breaches](https://yro.slashdot.org/story/26/03/31/1717242/australia-readies-social-media-court-action-citing-teen-ban-breaches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-31, 17:55:04](https://news.ycombinator.com/item?id=47591104) - [OkCupid gave 3M dating-app photos to facial recognition firm, FTC says](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/)
 * [2026-03-31, 17:05:00](https://developers.slashdot.org/story/26/03/31/172257/claude-codes-source-code-leaks-via-npm-source-maps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Claude Code&apos;s Source Code Leaks Via npm Source Maps](https://developers.slashdot.org/story/26/03/31/172257/claude-codes-source-code-leaks-via-npm-source-maps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-31, 16:29:52](https://news.ycombinator.com/item?id=47589856) - [Show HN: Postgres extension for BM25 relevance-ranked full-text search](https://github.com/timescale/pg_textsearch)
 * [2026-03-31, 16:27:02](https://news.ycombinator.com/item?id=47589818) - [Cohere Transcribe: Speech Recognition](https://cohere.com/blog/transcribe)
@@ -129,27 +125,26 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-31, 07:02:06](https://lobste.rs/s/qmb53b/let_commits_tell_story) - [Let the commits tell the story](https://chrismaiorana.com/git-commits-tell-the-story/)
 * [2026-03-31, 07:00:00](https://science.slashdot.org/story/26/03/31/0421252/scientists-shocked-to-find-lab-gloves-may-be-skewing-microplastics-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Shocked To Find Lab Gloves May Be Skewing Microplastics Data](https://science.slashdot.org/story/26/03/31/0421252/scientists-shocked-to-find-lab-gloves-may-be-skewing-microplastics-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-31, 06:42:00](https://soylentnews.org/article.pl?sid=26/03/30/0233201&amp;from=rss) - [Touchscreens, Long Nails, and an Experimental Polish](https://soylentnews.org/article.pl?sid=26/03/30/0233201&amp;from=rss)
-* [2026-03-31, 06:11:10](https://lobste.rs/s/us9noo/cocoa_way_native_macos_wayland) - [cocoa-way: Native macOS Wayland Compositor written in Rust using Smithay](https://github.com/J-x-Z/cocoa-way)
 * [2026-03-31, 04:12:15](https://lobste.rs/s/nz2wdr/why_have_supply_chain_attacks_become_near) - [Why have supply chain attacks become a near daily occurrence ?](https://lobste.rs/s/nz2wdr/why_have_supply_chain_attacks_become_near)
 * [2026-03-31, 03:30:00](https://developers.slashdot.org/story/26/03/30/2337240/ai-data-centers-can-warm-surrounding-areas-by-up-to-91c?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Data Centers Can Warm Surrounding Areas By Up To 9.1C](https://developers.slashdot.org/story/26/03/30/2337240/ai-data-centers-can-warm-surrounding-areas-by-up-to-91c?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-31, 03:26:52](https://lobste.rs/s/pbx5yu/claude_finds_rce_vim_emacs) - [Claude finds RCE in Vim and Emacs](https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude)
 * [2026-03-31, 02:54:17](https://news.ycombinator.com/item?id=47582220) - [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan)
 * [2026-03-31, 01:56:00](https://soylentnews.org/article.pl?sid=26/03/29/1343212&amp;from=rss) - [Are US-Based VPN Users at Risk of Being Treated as Foreign Surveillance Targets?](https://soylentnews.org/article.pl?sid=26/03/29/1343212&amp;from=rss)
 * [2026-03-30, 23:00:00](https://tech.slashdot.org/story/26/03/30/2245259/microsoft-plans-to-build-100-native-apps-for-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Plans To Build 100% Native Apps For Windows 11](https://tech.slashdot.org/story/26/03/30/2245259/microsoft-plans-to-build-100-native-apps-for-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-30, 22:00:00](https://tech.slashdot.org/story/26/03/30/1950214/after-16-years-and-8-billion-the-militarys-new-gps-software-still-doesnt-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [After 16 Years and $8 Billion, the Military&apos;s New GPS Software Still Doesn&apos;t Work](https://tech.slashdot.org/story/26/03/30/1950214/after-16-years-and-8-billion-the-militarys-new-gps-software-still-doesnt-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-30, 21:12:00](https://soylentnews.org/article.pl?sid=26/03/29/1333211&amp;from=rss) - [Over Half of UK Businesses Have No Idea How Fast They Could Stop AI in a Crisis](https://soylentnews.org/article.pl?sid=26/03/29/1333211&amp;from=rss)
-* [2026-03-30, 20:58:23](https://lobste.rs/s/ahbt4t/rust_s_next_generation_trait_solver) - [Rust&apos;s next-generation trait solver](https://lwn.net/SubscriberLink/1063124/81483612b1c8a493/)
 * [2026-03-30, 16:25:00](https://soylentnews.org/article.pl?sid=26/03/29/1329244&amp;from=rss) - [Water Has a Newfound ‘Critical Point’ That May Help Explain its Quirks](https://soylentnews.org/article.pl?sid=26/03/29/1329244&amp;from=rss)
 * [2026-03-30, 15:55:11](https://lobste.rs/s/fug4fz/your_job_isn_t_programming) - [Your job isn&apos;t programming](https://codeandcake.dev/posts/2025-12-12-your-job-isnt-programming)
-* [2026-03-30, 14:39:43](https://news.ycombinator.com/item?id=47574960) - [Inside the &apos;self-driving&apos; lab revolution](https://www.nature.com/articles/d41586-026-00974-2)
 * [2026-03-30, 13:18:43](https://lobste.rs/s/0o60nu/copilot_edited_ad_into_my_pr) - [copilot edited an ad into my pr](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)
 * [2026-03-30, 11:40:00](https://soylentnews.org/article.pl?sid=26/03/29/1321221&amp;from=rss) - [I Decompiled the White House&apos;s New App](https://soylentnews.org/article.pl?sid=26/03/29/1321221&amp;from=rss)
 * [2026-03-30, 06:50:00](https://soylentnews.org/article.pl?sid=26/03/28/0354240&amp;from=rss) - [The Drone Swarm is Coming, and NATO Air Defenses Are Too Expensive to Cope](https://soylentnews.org/article.pl?sid=26/03/28/0354240&amp;from=rss)
-* [2026-03-30, 02:31:57](https://news.ycombinator.com/item?id=47569773) - [Use string views instead of passing std:wstring by const&amp;](https://giodicanio.com/2024/05/14/why-dont-you-use-string-views-like-std-wstring_view-instead-of-passing-std-wstring-by-const-reference/)
+* [2026-03-30, 06:45:58](https://news.ycombinator.com/item?id=47571183) - [Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)](https://github.com/yannick-cw/korb)
 * [2026-03-30, 02:07:00](https://soylentnews.org/article.pl?sid=26/03/28/0349246&amp;from=rss) - [Google Unveils TurboQuant, a New AI Memory Compression Algorithm](https://soylentnews.org/article.pl?sid=26/03/28/0349246&amp;from=rss)
+* [2026-03-29, 22:35:59](https://news.ycombinator.com/item?id=47568146) - [Butterfly-collecting: The history of an insult (2017)](http://lughat.blogspot.com/2017/10/butterfly-collecting-history-of-insult.html)
 * [2026-03-29, 21:26:00](https://soylentnews.org/article.pl?sid=26/03/28/0347204&amp;from=rss) - [A 32-Year-Old Bug Walks Into a Telnet Server](https://soylentnews.org/article.pl?sid=26/03/28/0347204&amp;from=rss)
 * [2026-03-29, 16:32:00](https://soylentnews.org/article.pl?sid=26/03/28/0345249&amp;from=rss) - [Google is Now Changing News Headlines – Without Permission](https://soylentnews.org/article.pl?sid=26/03/28/0345249&amp;from=rss)
+* [2026-03-29, 13:25:16](https://news.ycombinator.com/item?id=47562961) - [Chess in SQL](https://www.dbpro.app/blog/chess-in-pure-sql)
 * [2026-03-29, 11:52:00](https://soylentnews.org/article.pl?sid=26/03/27/0334236&amp;from=rss) - [Pilot Didn&apos;t Mind NASA&apos;s Experimental Plane Doesnt Have a Front Window](https://soylentnews.org/article.pl?sid=26/03/27/0334236&amp;from=rss)
+* [2026-03-29, 11:50:44](https://news.ycombinator.com/item?id=47562342) - [Digitizing photos from the 1998 Game Boy Camera](https://swiftrocks.com/digitizing-photos-from-the-1998-game-boy-camera)
 * [2026-03-29, 07:03:00](https://soylentnews.org/article.pl?sid=26/03/27/0325254&amp;from=rss) - [Someone Forked systemd to Strip Out Its Age Verification Support](https://soylentnews.org/article.pl?sid=26/03/27/0325254&amp;from=rss)
 * [2026-03-29, 02:18:00](https://soylentnews.org/article.pl?sid=26/03/27/0319208&amp;from=rss) - [Nvidia CEO Jensen Huang Says ‘I Think We&apos;ve Achieved AGI’](https://soylentnews.org/article.pl?sid=26/03/27/0319208&amp;from=rss)
 * [2026-03-28, 22:42:23](https://news.ycombinator.com/item?id=47558733) - [From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem](https://news.future-shock.ai/the-weight-of-remembering/)
