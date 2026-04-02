@@ -1,62 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and AI Innovations
+## Science and Technology Innovations
 
-* [Salomi, a research repo on extreme low-bit transformer quantization](https://github.com/OrionsLock/SALOMI) ([comments](https://news.ycombinator.com/item?id=47609883))
+* [Rapid Snow Melt-Off In American West Stuns Scientists](https://news.slashdot.org/story/26/04/02/0329240/rapid-snow-melt-off-in-american-west-stuns-scientists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/04/02/0329240/rapid-snow-melt-off-in-american-west-stuns-scientists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): A sudden and unexpected thaw in the American West leaves scientists puzzled and raises environmental concerns.
 
-* [The future of code search is not regex – 100x faster than ripgrep](https://fff.dmtrkovalenko.dev/) ([comments](https://news.ycombinator.com/item?id=47609752))
+* [SpaceX Files To Go Public](https://slashdot.org/story/26/04/01/2043248/spacex-files-to-go-public?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/26/04/01/2043248/spacex-files-to-go-public?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): SpaceX takes a major step toward becoming a publicly traded company.
 
-* [EmDash – A spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) ([comments](https://news.ycombinator.com/item?id=47602832))
+* [AI Can Clone Open-Source Software In Minutes](https://news.slashdot.org/story/26/04/01/164232/ai-can-clone-open-source-software-in-minutes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/04/01/164232/ai-can-clone-open-source-software-in-minutes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): A concerning development as AI shows its rapid capability in cloning complex open-source developments.
 
-* [AI Can Clone Open-Source Software In Minutes](https://news.slashdot.org/story/26/04/01/164232/ai-can-clone-open-source-software-in-minutes?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47606495))
+## Tech Community Tools and Advances
 
-* [Anthropic Issues Copyright Takedown Requests To Remove 8,000+ Copies of Claude Code Source Code](https://developers.slashdot.org/story/26/04/01/158240/anthropic-issues-copyright-takedown-requests-to-remove-8000-copies-of-claude-code-source-code?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47609294))
+* [The future of code search is not regex – 100x faster than ripgrep](https://fff.dmtrkovalenko.dev/) ([comments](https://news.ycombinator.com/item?id=47609752)): Introducing an alternative approach to code search with significant speed improvements.
 
-* [Google Unveils TurboQuant, a New AI Memory Compression Algorithm](https://soylentnews.org/article.pl?sid=26/03/28/0349246&from=rss) ([comments](https://news.ycombinator.com/item?id=47603737))
+* [OnlyOffice Suspends Nextcloud Partnership For Forking Its Project Without Approval](https://news.slashdot.org/story/26/04/01/1516246/onlyoffice-suspends-nextcloud-partnership-for-forking-its-project-without-approval?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/04/01/1516246/onlyoffice-suspends-nextcloud-partnership-for-forking-its-project-without-approval?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): Tensions rise between two major collaborators in open-source software.
 
-## Space Exploration and Developments
+## Improvements in Development and Programming
 
-* [Show HN: NASA Artemis II Mission Timeline Tracker](https://www.sunnywingsvirtual.com/artemis2/timeline.html) ([comments](https://news.ycombinator.com/item?id=47609725))
+* [Ruby 3.2 Is EOL: What You Actually Need to Do](https://piechowski.io/post/ruby-3-2-eol/) ([comments](https://lobste.rs/s/kpizkt/ruby_3_2_is_eol_what_you_actually_need_do)): Guidance on transitions and updates as Ruby 3.2 reaches its end-of-life phase.
 
-* [NASA Launches Artemis II Astronauts Around the Moon](https://science.slashdot.org/story/26/04/01/2250202/nasa-launches-artemis-ii-astronauts-around-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47609725))
+* [Python Yet Reforged Entirely](https://pyre-lang.org/) ([comments](https://lobste.rs/s/phjtbx/python_yet_reforged_entirely)): Presenting a new evolution within the Python programming ecosystem.
 
-* [SpaceX Files To Go Public](https://www.nytimes.com/2026/04/01/technology/spacex-ipo-elon-musk.html) ([comments](https://news.ycombinator.com/item?id=47604377))
+## Cybersecurity and Privacy Efforts
 
-* [Artemis II Mission is About to Fly Humans to the Moon — Here's the Science They'll Do](https://soylentnews.org/article.pl?sid=26/04/01/1726213&from=rss) ([comments](https://lobste.rs/s/n42iq0/pidgin_3_0_alpha_1_2_95_0_has_been_released))
+* [Subscription bombing and how to mitigate it](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/) ([comments](https://news.ycombinator.com/item?id=47609882)): Detailing methods to combat malicious subscription attacks targeting online sign-ups.
 
-## Privacy, Security, and Internet Issues
+* [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) ([comments](https://news.ycombinator.com/item?id=47609694)): Exploring current techniques for safeguarding email addresses online.
 
-* [Subscription bombing and how to mitigate it](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/) ([comments](https://news.ycombinator.com/item?id=47609882))
+## Quantum Computing Updates
 
-* [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) ([comments](https://news.ycombinator.com/item?id=47607326))
+* [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665) ([comments](https://lobste.rs/s/mrtzbt/quantum_computing_bombshells_are_not)): A skeptical look at recent claims in quantum computing research.
 
-* [Tails Linux 7.6 Released: Introduces Automatic Tor Bridges to Bypass Censorship](https://soylentnews.org/article.pl?sid=26/03/30/1515244&from=rss) ([comments](https://lobste.rs/s/sgpxyf/gaim_3_exists))
+## Space Exploration
 
-* [Russia Goes After VPNs As 'Great Crackdown' Gathers Pace](https://tech.slashdot.org/story/26/03/31/2233209/russia-goes-after-vpns-as-great-crackdown-gathers-pace?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://lobste.rs))
+* [NASA Launches Artemis II Astronauts Around the Moon](https://science.slashdot.org/story/26/04/01/2250202/nasa-launches-artemis-ii-astronauts-around-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/04/01/2250202/nasa-launches-artemis-ii-astronauts-around-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): NASA's bold mission takes another leap as Artemis II launches lunar-bound astronauts.
 
-## Science and Academic Breakthroughs
+* [Show HN: NASA Artemis II Mission Timeline Tracker](https://www.sunnywingsvirtual.com/artemis2/timeline.html) ([comments](https://news.ycombinator.com/item?id=47609725)): A detailed timeline tracker for NASA's Artemis II mission.
 
-* [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665) ([comments](https://news.ycombinator.com/item?id=47608495))
+## Unique Experiments and Ideas
 
-* [Scientists crack a 20-year nuclear mystery behind the creation of gold](https://www.sciencedaily.com/releases/2026/03/260313002633.htm) ([comments](https://lobste.rs/s/4qxrg6/don_t_let_ai_write_for_you))
+* [Running DOOM Over DNS Queries](https://soylentnews.org/article.pl?sid=26/03/30/154227&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/03/30/154227&amp;from=rss)): Pushing boundaries of tech entertainment by running a classic game using unconventional methods.
 
-* [Water Has a Newfound ‘Critical Point’ That May Help Explain its Quirks](https://soylentnews.org/article.pl?sid=26/03/29/1329244&from=rss) ([comments](https://lobste.rs/s/xiy7vz/i_traced_my_traffic_through_home))
-
-## Open Source and Software Development
-
-* [A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701) ([comments](https://news.ycombinator.com/item?id=47608058))
-
-* [Linear types proposal for Hare](https://yerinalexey.srht.site/borrow/notes.html) ([comments](https://lobste.rs/s/kp6eap/subprime_technical_debt_crisis))
-
-* [Red-black tree in Lean 4 prover with everything proved](https://rentry.co/8sfon8ez) ([comments](https://lobste.rs/s/zd797w/red_black_tree_lean_4_prover_with))
-
-* [Running DOOM Over DNS Queries](https://soylentnews.org/article.pl?sid=26/03/30/154227&from=rss) ([comments](https://lobste.rs/s/1zpy4w/sqlite_db_simple_process_reliable_fast))
-
-## Miscellaneous Innovations and Insights
-
-* [Sweden Swaps Screens For Books In the Classroom](https://news.slashdot.org/story/26/04/01/1557223/sweden-swaps-screens-for-books-in-the-classroom?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47605374))
-
-* [Pilot Didn't Mind NASA's Experimental Plane Doesn't Have a Front Window](https://soylentnews.org/article.pl?sid=26/03/27/0334236&from=rss) ([comments](https://lobste.rs/explore_inline_code_v2.blink12343300))
+* [Weather.com/Retro](https://weather.com/retro/) ([comments](https://news.ycombinator.com/item?id=47609090)): Reviving the early internet vibe with a retro-styled weather website.
 
 ---
 
@@ -83,16 +67,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-04-02, 04:08:12](https://news.ycombinator.com/item?id=47609883) - [Salomi, a research repo on extreme low-bit transformer quantization](https://github.com/OrionsLock/SALOMI)
+* [2026-04-02, 07:17:50](https://news.ycombinator.com/item?id=47611044) - [Telli (YC F24) is hiring engineers, designers, and more [on-site, Berlin]](http://hi.telli.com/join-us)
+* [2026-04-02, 07:00:00](https://news.slashdot.org/story/26/04/02/0329240/rapid-snow-melt-off-in-american-west-stuns-scientists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Rapid Snow Melt-Off In American West Stuns Scientists](https://news.slashdot.org/story/26/04/02/0329240/rapid-snow-melt-off-in-american-west-stuns-scientists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-02, 05:45:12](https://lobste.rs/s/kpizkt/ruby_3_2_is_eol_what_you_actually_need_do) - [Ruby 3.2 Is EOL: What You Actually Need to Do](https://piechowski.io/post/ruby-3-2-eol/)
 * [2026-04-02, 04:08:05](https://news.ycombinator.com/item?id=47609882) - [Subscription bombing and how to mitigate it](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/)
 * [2026-04-02, 03:45:22](https://news.ycombinator.com/item?id=47609752) - [The future of code search is not regex – 100x faster than ripgrep](https://fff.dmtrkovalenko.dev/)
 * [2026-04-02, 03:40:49](https://news.ycombinator.com/item?id=47609725) - [Show HN: NASA Artemis II Mission Timeline Tracker](https://www.sunnywingsvirtual.com/artemis2/timeline.html)
 * [2026-04-02, 03:35:33](https://news.ycombinator.com/item?id=47609694) - [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/)
 * [2026-04-02, 03:30:00](https://slashdot.org/story/26/04/01/2043248/spacex-files-to-go-public?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SpaceX Files To Go Public](https://slashdot.org/story/26/04/01/2043248/spacex-files-to-go-public?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-02, 03:13:50](https://lobste.rs/s/mrtzbt/quantum_computing_bombshells_are_not) - [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665)
 * [2026-04-02, 03:12:24](https://news.ycombinator.com/item?id=47609564) - [Steam on Linux Use Skyrocketed Above 5% in March](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p)
 * [2026-04-02, 03:09:00](https://soylentnews.org/article.pl?sid=26/03/31/1352230&amp;from=rss) - [Google Won&apos;t Block Loading Unverified Apps, but Adds Friction to the Process](https://soylentnews.org/article.pl?sid=26/03/31/1352230&amp;from=rss)
 * [2026-04-02, 02:26:05](https://news.ycombinator.com/item?id=47609294) - [The Claude Code Leak](https://build.ms/2026/4/1/the-claude-code-leak/)
-* [2026-04-02, 02:15:28](https://news.ycombinator.com/item?id=47609241) - [Trinity Large Thinking](https://openrouter.ai/arcee-ai/trinity-large-thinking)
 * [2026-04-02, 02:00:03](https://lobste.rs/s/phjtbx/python_yet_reforged_entirely) - [Python Yet Reforged Entirely](https://pyre-lang.org/)
 * [2026-04-02, 01:48:18](https://news.ycombinator.com/item?id=47609090) - [Weather.com/Retro](https://weather.com/retro/)
 * [2026-04-02, 00:24:43](https://news.ycombinator.com/item?id=47608495) - [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665)
@@ -102,15 +88,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-01, 22:34:00](https://soylentnews.org/article.pl?sid=26/03/30/1515244&amp;from=rss) - [Tails Linux 7.6 Released: Introduces Automatic Tor Bridges to Bypass Censorship](https://soylentnews.org/article.pl?sid=26/03/30/1515244&amp;from=rss)
 * [2026-04-01, 22:25:14](https://news.ycombinator.com/item?id=47607326) - [The Windows equivalents of the most used Linux commands](http://techkettle.blogspot.com/2026/04/the-windows-equivalents-of-most-used.html)
 * [2026-04-01, 22:07:10](https://lobste.rs/s/m3b3fk/email_obfuscation_what_works_2026) - [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/)
+* [2026-04-01, 22:00:23](https://lobste.rs/s/bmujfc/cutting_python_web_app_memory_over_31) - [Cutting Python Web App Memory Over 31%](https://mkennedy.codes/posts/cutting-python-web-app-memory-over-31-percent/)
 * [2026-04-01, 22:00:00](https://yro.slashdot.org/story/26/04/01/1954244/ufc-que-choisir-takes-ubisoft-to-french-court-over-the-crew-shutdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UFC-Que Choisir Takes Ubisoft To French Court Over the Crew Shutdown](https://yro.slashdot.org/story/26/04/01/1954244/ufc-que-choisir-takes-ubisoft-to-french-court-over-the-crew-shutdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-01, 21:36:41](https://news.ycombinator.com/item?id=47606840) - [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/)
 * [2026-04-01, 21:33:58](https://lobste.rs/s/zgnphc/what_would_you_see_changed_haskell) - [What Would You See Changed in Haskell?](https://blog.haskell.org/what-would-you-see-changed-in-haskell/)
 * [2026-04-01, 21:04:53](https://news.ycombinator.com/item?id=47606560) - [Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)](https://getdull.app)
-* [2026-04-01, 21:00:06](https://news.ycombinator.com/item?id=47606495) - [InspectMind AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/inspectmind-ai/jobs/jQNra64-software-engineer-build-the-world-s-best-ai-plan-checker)
 * [2026-04-01, 21:00:00](https://news.slashdot.org/story/26/04/01/164232/ai-can-clone-open-source-software-in-minutes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Can Clone Open-Source Software In Minutes](https://news.slashdot.org/story/26/04/01/164232/ai-can-clone-open-source-software-in-minutes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-01, 20:00:00](https://tech.slashdot.org/story/26/04/01/1935240/cloudflare-announces-emdash-as-open-source-spiritual-successor-to-wordpress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cloudflare Announces EmDash As Open-Source &apos;Spiritual Successor&apos; To WordPress](https://tech.slashdot.org/story/26/04/01/1935240/cloudflare-announces-emdash-as-open-source-spiritual-successor-to-wordpress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-01, 19:52:00](https://news.ycombinator.com/item?id=47605677) - [Signing data structures the wrong way](https://blog.foks.pub/posts/domain-separation-in-idl/)
-* [2026-04-01, 19:26:12](https://news.ycombinator.com/item?id=47605374) - [Scientists crack a 20-year nuclear mystery behind the creation of gold](https://www.sciencedaily.com/releases/2026/03/260313002633.htm)
 * [2026-04-01, 19:18:25](https://lobste.rs/s/h9zb89/git_bayesect_bayesian_git_bisect) - [git_bayesect: Bayesian git bisect](https://github.com/hauntsaninja/git_bayesect)
 * [2026-04-01, 19:00:00](https://news.slashdot.org/story/26/04/01/1557223/sweden-swaps-screens-for-books-in-the-classroom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sweden Swaps Screens For Books In the Classroom](https://news.slashdot.org/story/26/04/01/1557223/sweden-swaps-screens-for-books-in-the-classroom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-01, 18:51:19](https://lobste.rs/s/culejy/blogging_typst_is_not_hard) - [Blogging in Typst is not that hard](https://natri.fyi/blogging-in-typst.typ/1.html)
@@ -139,23 +124,20 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-01, 10:52:30](https://lobste.rs/s/1zpy4w/sqlite_db_simple_process_reliable_fast) - [SQLite DB: simple, in-process, reliable, fast (2024)](https://binaryigor.com/sqlite-db-simple-in-process-reliable-fast.html)
 * [2026-04-01, 09:55:03](https://lobste.rs/s/oox3oi/css_bs) - [CSS or BS?](https://www.keithcirkel.co.uk/css-or-bs)
 * [2026-04-01, 09:20:54](https://lobste.rs/s/5ffpcd/rubysyn_clarifying_ruby_s_syntax) - [Rubysyn: clarifying Ruby&apos;s syntax and semantics](https://github.com/squadette/rubysyn/blob/master/README.md)
-* [2026-04-01, 09:00:36](https://lobste.rs/s/zd797w/red_black_tree_lean_4_prover_with) - [Red-black tree in Lean 4 prover with everything proved](https://rentry.co/8sfon8ez)
 * [2026-04-01, 08:32:00](https://soylentnews.org/article.pl?sid=26/03/30/154227&amp;from=rss) - [Running DOOM Over DNS Queries](https://soylentnews.org/article.pl?sid=26/03/30/154227&amp;from=rss)
 * [2026-04-01, 07:00:00](https://tech.slashdot.org/story/26/03/31/2229204/spacex-starlink-satellite-suffers-mysterious-anomaly-in-orbit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SpaceX Starlink Satellite Suffers Mysterious &apos;Anomaly&apos; In Orbit](https://tech.slashdot.org/story/26/03/31/2229204/spacex-starlink-satellite-suffers-mysterious-anomaly-in-orbit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-01, 06:07:52](https://lobste.rs/s/6gqiqy/self_cancelling_subscription) - [The Self-Cancelling Subscription](https://predr.ag/blog/the-self-cancelling-subscription/)
+* [2026-04-01, 04:14:41](https://news.ycombinator.com/item?id=47596739) - [Mercor says it was hit by cyberattack tied to compromise LiteLLM](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/)
 * [2026-04-01, 03:44:00](https://soylentnews.org/article.pl?sid=26/03/30/151240&amp;from=rss) - [Ranked: The World’s Most Surveilled Cities](https://soylentnews.org/article.pl?sid=26/03/30/151240&amp;from=rss)
 * [2026-04-01, 03:30:00](https://tech.slashdot.org/story/26/03/31/2233209/russia-goes-after-vpns-as-great-crackdown-gathers-pace?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Russia Goes After VPNs As &apos;Great Crackdown&apos; Gathers Pace](https://tech.slashdot.org/story/26/03/31/2233209/russia-goes-after-vpns-as-great-crackdown-gathers-pace?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-31, 23:01:00](https://soylentnews.org/article.pl?sid=26/03/30/1458237&amp;from=rss) - [China&apos;s Not Thrilled its AI Experts Want to Leave the Country](https://soylentnews.org/article.pl?sid=26/03/30/1458237&amp;from=rss)
 * [2026-03-31, 23:00:00](https://tech.slashdot.org/story/26/03/31/2035210/volvo-shifts-polestar-3-production-entirely-to-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Volvo Shifts Polestar 3 Production Entirely To the US](https://tech.slashdot.org/story/26/03/31/2035210/volvo-shifts-polestar-3-production-entirely-to-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-03-31, 22:55:39](https://lobste.rs/s/6c8cwq/reading_leaked_claude_code_source_code) - [Reading leaked Claude Code source code](https://lr0.org/blog/p/claude-code-source/)
 * [2026-03-31, 22:15:23](https://lobste.rs/s/sgpxyf/gaim_3_exists) - [Gaim 3 Exists](https://gaim.imfreedom.org/)
-* [2026-03-31, 22:00:00](https://developers.slashdot.org/story/26/03/31/2023228/oracle-cuts-thousands-of-jobs-across-sales-engineering-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Oracle Cuts Thousands of Jobs Across Sales, Engineering, Security](https://developers.slashdot.org/story/26/03/31/2023228/oracle-cuts-thousands-of-jobs-across-sales-engineering-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-03-31, 21:16:35](https://lobste.rs/s/lv540l/plakar_openbsd) - [plakar + openbsd](https://x61.sh/log/2026/03/25032026151800-plakar.html)
 * [2026-03-31, 20:31:41](https://lobste.rs/s/n42iq0/pidgin_3_0_alpha_1_2_95_0_has_been_released) - [Pidgin 3.0 Alpha 1 2.95.0 has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-1-2-95-0-has-been-released/378)
 * [2026-03-31, 19:03:06](https://lobste.rs/s/hssl4e/your_hex_editor_should_color_code_bytes) - [your hex editor should color-code bytes](https://simonomi.dev/blog/color-code-your-bytes/)
 * [2026-03-31, 18:27:16](https://lobste.rs/s/s5z94j/historical_github_uptime_charts) - [Historical GitHub Uptime Charts](https://damrnelson.github.io/github-historical-uptime/)
 * [2026-03-31, 18:13:00](https://soylentnews.org/article.pl?sid=26/03/30/1454213&amp;from=rss) - [Number of AI Chatbots Ignoring Human Instructions is Increasing  ](https://soylentnews.org/article.pl?sid=26/03/30/1454213&amp;from=rss)
-* [2026-03-31, 15:17:40](https://lobste.rs/s/kp6eap/subprime_technical_debt_crisis) - [The Subprime Technical Debt Crisis](https://blog.happyfellow.dev/the-subprime-technical-debt-crisis/)
 * [2026-03-31, 11:25:00](https://soylentnews.org/article.pl?sid=26/03/30/0239206&amp;from=rss) - [Court Temporarily Blocks US Government From Labeling Anthropic as a &apos;Supply Chain Risk&apos;](https://soylentnews.org/article.pl?sid=26/03/30/0239206&amp;from=rss)
 * [2026-03-31, 08:41:24](https://news.ycombinator.com/item?id=47584386) - [Fast and Gorgeous Erosion Filter](https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html)
 * [2026-03-31, 06:42:00](https://soylentnews.org/article.pl?sid=26/03/30/0233201&amp;from=rss) - [Touchscreens, Long Nails, and an Experimental Polish](https://soylentnews.org/article.pl?sid=26/03/30/0233201&amp;from=rss)
@@ -164,6 +146,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-30, 19:23:11](https://news.ycombinator.com/item?id=47578582) - [What Gödel Discovered (2020)](https://stopa.io/post/269)
 * [2026-03-30, 16:25:00](https://soylentnews.org/article.pl?sid=26/03/29/1329244&amp;from=rss) - [Water Has a Newfound ‘Critical Point’ That May Help Explain its Quirks](https://soylentnews.org/article.pl?sid=26/03/29/1329244&amp;from=rss)
 * [2026-03-30, 16:09:37](https://news.ycombinator.com/item?id=47576106) - [Reverse Engineering Crazy Taxi, Part 2](https://wretched.computer/post/crazytaxi2)
+* [2026-03-30, 14:47:05](https://news.ycombinator.com/item?id=47575061) - [Show HN: QWERTY mini Pro – Why a 2-row, 16-key keyboard works better](https://k-keyboard.com/Why-2-Row-16-Key-Structure)
 * [2026-03-30, 11:59:53](https://news.ycombinator.com/item?id=47573138) - [Set the Line Before It&apos;s Crossed](https://nomagicpill.substack.com/p/set-the-line-before-its-crossed)
 * [2026-03-30, 11:40:00](https://soylentnews.org/article.pl?sid=26/03/29/1321221&amp;from=rss) - [I Decompiled the White House&apos;s New App](https://soylentnews.org/article.pl?sid=26/03/29/1321221&amp;from=rss)
 * [2026-03-30, 06:50:00](https://soylentnews.org/article.pl?sid=26/03/28/0354240&amp;from=rss) - [The Drone Swarm is Coming, and NATO Air Defenses Are Too Expensive to Cope](https://soylentnews.org/article.pl?sid=26/03/28/0354240&amp;from=rss)
