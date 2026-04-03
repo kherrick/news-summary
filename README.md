@@ -1,48 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Web and Software Evolution
+## Environmental and Health Issues
 
-* [The open web isn't dying. We're killing it](https://ouvre-boite.com/the-open-web-isnt-dying-were-killing-it/) - Discusses trends and challenges threatening the survival of the open web. [Comments](https://news.ycombinator.com/item?id=47622490)
+* [EPA Flags Microplastics, Pharmaceuticals As Contaminants In Drinking Water](https://yro.slashdot.org/story/26/04/02/2310255/epa-flags-microplastics-pharmaceuticals-as-contaminants-in-drinking-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636) - A post-mortem detailing the recent security incident involving the axios library. [Comments](https://news.ycombinator.com/item?id=47621792)
+* [Rapid Snow Melt-Off In American West Stuns Scientists](https://news.slashdot.org/story/26/04/02/0329240/rapid-snow-melt-off-in-american-west-stuns-scientists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion) - Insights from an insider on decisions that have affected trust in Microsoft's Azure platform. [Comments](https://news.ycombinator.com/item?id=47616242)
+* [Over Half of UK Businesses Have No Idea How Fast They Could Stop AI in a Crisis](https://soylentnews.org/article.pl?sid=26/03/29/1333211&amp;from=rss)
 
-* [Euro-Office, ONLYOFFICE, and their licensing dispute](https://blog.ensko.at/2026/04/02/euro-office/) - Examines legal friction between competing open-source office solutions. [Comments](https://lobste.rs/s/jtey8e/euro_office_onlyoffice_their_licensing)
+## Technological Innovations
 
-* [Every dependency you add is a supply chain attack waiting to happen](https://benhoyt.com/writings/dependencies/) - Commentary on the risks of adding dependencies to software projects. [Comments](https://lobste.rs/s/j6uemk/every_dependency_you_add_is_supply_chain)
+* [Google Announces Gemma 4 Open AI Models, Switches To Apache 2.0 License](https://tech.slashdot.org/story/26/04/02/1735238/google-announces-gemma-4-open-ai-models-switches-to-apache-20-license?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## AI and Emerging Technologies
+* [Rewrites.bio: 60x speedup in Genomics QC + AI rewrite guidelines for Science](https://rewrites.bio/)
 
-* [Google Announces Gemma 4 Open AI Models, Switches To Apache 2.0 License](https://tech.slashdot.org/story/26/04/02/1735238/google-announces-gemma-4-open-ai-models-switches-to-apache-20-license?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Google's latest AI model updates and related licensing changes. [Comments](https://news.ycombinator.com/item?id=47616361)
+* [TurboQuant: A New AI Memory Compression Algorithm by Google](https://soylentnews.org/article.pl?sid=26/03/28/0349246&amp;from=rss)
 
-* [OpenAI Acquires Popular Tech-Industry Talk Show TBPN](https://tech.slashdot.org/story/26/04/02/211202/openai-acquires-popular-tech-industry-talk-show-tbpn?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI's expansion into media with a new acquisition. [Comments](https://news.ycombinator.com/item?id=47617376)
+## Tech Policy and Security
 
-* [I used AI. It worked. I hated it](https://taggart-tech.com/reckoning/) - Discusses the practical and philosophical challenges of using AI in everyday life. [Comments](https://lobste.rs/s/7d8dxv/i_used_ai_it_worked_i_hated_it)
+* [Group Pushing Age Verification Requirements For AI Sneakily Backed By OpenAI](https://news.slashdot.org/story/26/04/02/0345206/group-pushing-age-verification-requirements-for-ai-sneakily-backed-by-openai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) - AMD introduces a new efficient solution for local large language model hosting. [Comments](https://news.ycombinator.com/item?id=47612724)
+* [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion)
 
-## Technology and Innovation
+* [I Decompiled the White House's New App](https://soylentnews.org/article.pl?sid=26/03/29/1321221&amp;from=rss)
 
-* [Tor Alva: The Tallest 3D-Printed Building in the World](https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/) - Exploration of new frontiers in construction technology. [Comments](https://news.ycombinator.com/item?id=47621518)
+## Space Exploration
 
-* [How we built a virtual filesystem for our Assistant](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant) - An in-depth technical post on creating a custom virtual filesystem. [Comments](https://lobste.rs/s/orqp4v/how_we_built_virtual_filesystem_for_our)
+* [Artemis II Astronauts Have 'Two Microsoft Outlooks' and Neither Work](https://science.slashdot.org/story/26/04/02/1641256/artemis-ii-astronauts-have-two-microsoft-outlooks-and-neither-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Raspberry Pi 4 3GB Launches, Raspberry Pi Prices Go Up Again Due To RAM](https://hardware.slashdot.org/story/26/04/02/1729200/raspberry-pi-4-3gb-launches-raspberry-pi-prices-go-up-again-due-to-ram?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Examines the implications of new hardware launches on consumer costs. [Comments](https://news.ycombinator.com/item?id=47616242)
+* [Tor Alva: The Tallest 3D-Printed Building in the World](https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/)
 
-## Unusual Trends and Concerns
+* [SpaceX Files To Go Public](https://slashdot.org/story/26/04/01/2043248/spacex-files-to-go-public?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Mount Everest Climbers 'Poisoned' By Guides In Insurance Fraud Scheme](https://news.slashdot.org/story/26/04/02/2113218/mount-everest-climbers-poisoned-by-guides-in-insurance-fraud-scheme?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Uncovering corruption targeting climbers on Mount Everest. [Comments](https://news.ycombinator.com/item?id=47621438)
+## Programming and Coding
 
-* [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket) - A close look at predatory scams in high-altitude rescue services. [Comments](https://news.ycombinator.com/item?id=47613078)
+* [A CSS Engine in OCaml](https://gazagnaire.org/blog/2026-04-02-cascade.html)
 
-## Historical Insights and Scientific Frontiers
+* [Every Dependency You Add Is a Supply Chain Attack Waiting to Happen](https://benhoyt.com/writings/dependencies/)
 
-* [Reverse Engineering Crazy Taxi](https://wretched.computer/post/crazytaxi) - Fascinating look into the reverse engineering process of a classic video game. [Comments](https://lobste.rs/s/adidni/reverse_engineering_crazy_taxi)
+* [Packaging 128 Languages with Nix](https://invariant.club/articles/packaging-128-programming-languages-with-nix.html)
 
-* ['Backrooms' and the Rise of the Institutional Gothic](https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/) - Analysis of how liminal spaces are portrayed in media and their cultural significance. [Comments](https://news.ycombinator.com/item?id=47614100)
+## Consumer Technology
 
-* [Gentoo GNU/Hurd](https://www.gentoo.org/news/2026/04/01/gentoo-hurd.html) - Significant updates on this specialized Linux distribution project. [Comments](https://lobste.rs/s/hp00yw/gentoo_gnu_hurd)
+* [IBM Teams Up With Arm To Run Arm Workloads On IBM Z Mainframes](https://slashdot.org/story/26/04/02/1749205/ibm-teams-up-with-arm-to-run-arm-workloads-on-ibm-z-mainframes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [Raspberry Pi 4 3GB Launches, Raspberry Pi Prices Go Up Again Due To RAM](https://hardware.slashdot.org/story/26/04/02/1729200/raspberry-pi-4-3gb-launches-raspberry-pi-prices-go-up-again-due-to-ram?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [Steam On Linux Use Skyrocketed Above 5% In March](https://linux.slashdot.org/story/26/04/02/0350211/steam-on-linux-use-skyrocketed-above-5-in-march?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
 ---
 
@@ -69,7 +73,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-04-03, 02:05:20](https://news.ycombinator.com/item?id=47622490) - [The open web isn&apos;t dying. We&apos;re killing it](https://ouvre-boite.com/the-open-web-isnt-dying-were-killing-it/)
+* [2026-04-03, 03:30:00](https://yro.slashdot.org/story/26/04/02/2310255/epa-flags-microplastics-pharmaceuticals-as-contaminants-in-drinking-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EPA Flags Microplastics, Pharmaceuticals As Contaminants In Drinking Water](https://yro.slashdot.org/story/26/04/02/2310255/epa-flags-microplastics-pharmaceuticals-as-contaminants-in-drinking-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-03, 02:31:00](https://soylentnews.org/article.pl?sid=26/03/31/1431219&amp;from=rss) - [Ancient Alphabets, New Insights: Researchers Uncover Hidden Links Among the Letters](https://soylentnews.org/article.pl?sid=26/03/31/1431219&amp;from=rss)
+* [2026-04-03, 02:14:29](https://lobste.rs/s/6rq90r/css_engine_ocaml) - [A CSS Engine in OCaml](https://gazagnaire.org/blog/2026-04-02-cascade.html)
+* [2026-04-03, 01:25:53](https://lobste.rs/s/letcxt/formal_methods) - [Formal Methods](https://www.formalmethods.dk)
+* [2026-04-03, 00:59:37](https://lobste.rs/s/x1mejy/samply_command_line_sampling_profiler) - [samply: Command-line sampling profiler for macOS, Linux, and Windows](https://github.com/mstange/samply)
 * [2026-04-03, 00:00:19](https://news.ycombinator.com/item?id=47621792) - [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636)
 * [2026-04-02, 23:49:34](https://lobste.rs/s/hp00yw/gentoo_gnu_hurd) - [Gentoo GNU/Hurd](https://www.gentoo.org/news/2026/04/01/gentoo-hurd.html)
 * [2026-04-02, 23:39:55](https://lobste.rs/s/1urnpv/openbsd_on_motorola_88000_processors) - [OpenBSD on Motorola 88000 processors](http://miod.online.fr/software/openbsd/stories/m88k.html)
@@ -109,16 +117,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-02, 14:55:39](https://lobste.rs/s/yk91rd/i_may_have_solved_long_standing_problem) - [I may have solved a long standing problem with Object Oriented systems](https://blog.mempko.com/an-abject-horror/)
 * [2026-04-02, 14:28:52](https://news.ycombinator.com/item?id=47615002) - [Qwen3.6-Plus: Towards real world agents](https://qwen.ai/blog?id=qwen3.6)
 * [2026-04-02, 14:15:21](https://lobste.rs/s/va209y/jj_v0_40_0_released) - [jj v0.40.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.40.0)
-* [2026-04-02, 13:18:05](https://news.ycombinator.com/item?id=47614100) - [&apos;Backrooms&apos; and the Rise of the Institutional Gothic](https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/)
 * [2026-04-02, 13:09:09](https://news.ycombinator.com/item?id=47613981) - [LinkedIn is searching your browser extensions](https://browsergate.eu/)
 * [2026-04-02, 12:42:00](https://soylentnews.org/article.pl?sid=26/03/31/147230&amp;from=rss) - [Euro-Office is a Free, Open-Source Alternative to Microsoft 365 and Google Docs](https://soylentnews.org/article.pl?sid=26/03/31/147230&amp;from=rss)
 * [2026-04-02, 12:39:45](https://lobste.rs/s/adidni/reverse_engineering_crazy_taxi) - [Reverse Engineering Crazy Taxi](https://wretched.computer/post/crazytaxi)
 * [2026-04-02, 12:22:29](https://lobste.rs/s/ad1syc/evolving_node_js_release_schedule) - [Evolving the Node.js Release Schedule](https://nodejs.org/en/blog/announcements/evolving-the-nodejs-release-schedule)
 * [2026-04-02, 11:58:52](https://lobste.rs/s/j6uemk/every_dependency_you_add_is_supply_chain) - [Every dependency you add is a supply chain attack waiting to happen](https://benhoyt.com/writings/dependencies/)
 * [2026-04-02, 11:40:41](https://news.ycombinator.com/item?id=47613078) - [Inside Nepal&apos;s Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket)
-* [2026-04-02, 11:22:50](https://lobste.rs/s/cuomux/martian_time_hare_2022) - [Martian time in Hare (2022)](https://harelang.org/blog/2022-08-01-martian-time-in-hare/)
 * [2026-04-02, 11:04:51](https://news.ycombinator.com/item?id=47612724) - [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai)
 * [2026-04-02, 11:00:00](https://news.slashdot.org/story/26/04/02/0345206/group-pushing-age-verification-requirements-for-ai-sneakily-backed-by-openai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Group Pushing Age Verification Requirements For AI Sneakily Backed By OpenAI](https://news.slashdot.org/story/26/04/02/0345206/group-pushing-age-verification-requirements-for-ai-sneakily-backed-by-openai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-02, 10:50:00](https://news.ycombinator.com/item?id=47612601) - [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/)
 * [2026-04-02, 08:24:11](https://lobste.rs/s/thfvnd/pgenie_sql_first_code_generator_for) - [pGenie – SQL-first code generator for PostgreSQL (Haskell, Rust, Java)](https://pgenie.io/)
 * [2026-04-02, 08:21:40](https://lobste.rs/s/idoeyr/running_out_disk_space_production) - [Running out of Disk Space in Production](https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html)
 * [2026-04-02, 08:13:00](https://soylentnews.org/article.pl?sid=26/03/31/1354212&amp;from=rss) - [World&apos;s smallest QR code, smaller than bacteria, could store data for centuries  ](https://soylentnews.org/article.pl?sid=26/03/31/1354212&amp;from=rss)
@@ -134,11 +141,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-01, 22:07:10](https://lobste.rs/s/m3b3fk/email_obfuscation_what_works_2026) - [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/)
 * [2026-04-01, 22:00:00](https://yro.slashdot.org/story/26/04/01/1954244/ufc-que-choisir-takes-ubisoft-to-french-court-over-the-crew-shutdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UFC-Que Choisir Takes Ubisoft To French Court Over the Crew Shutdown](https://yro.slashdot.org/story/26/04/01/1954244/ufc-que-choisir-takes-ubisoft-to-french-court-over-the-crew-shutdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-01, 21:33:58](https://lobste.rs/s/zgnphc/what_would_you_see_changed_haskell) - [What Would You See Changed in Haskell?](https://blog.haskell.org/what-would-you-see-changed-in-haskell/)
-* [2026-04-01, 21:00:00](https://news.slashdot.org/story/26/04/01/164232/ai-can-clone-open-source-software-in-minutes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Can Clone Open-Source Software In Minutes](https://news.slashdot.org/story/26/04/01/164232/ai-can-clone-open-source-software-in-minutes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-01, 17:53:00](https://soylentnews.org/article.pl?sid=26/03/30/1513241&amp;from=rss) - [How Graphene Oxide Kills Bacteria While Sparing Human Cells](https://soylentnews.org/article.pl?sid=26/03/30/1513241&amp;from=rss)
-* [2026-04-01, 17:49:53](https://lobste.rs/s/gtb0fc/game_with_programmable_space_combat) - [A game with programmable space combat written in Go](https://store.steampowered.com/app/3024370/NebuLeet)
 * [2026-04-01, 17:32:00](https://soylentnews.org/article.pl?sid=26/04/01/1726213&amp;from=rss) - [Artemis II Mission is About to Fly Humans to the Moon — Here&apos;s the Science They&apos;ll Do](https://soylentnews.org/article.pl?sid=26/04/01/1726213&amp;from=rss)
-* [2026-04-01, 13:23:23](https://lobste.rs/s/pzl1g9/linear_types_proposal_for_hare) - [Linear types proposal for Hare](https://yerinalexey.srht.site/borrow/notes.html)
 * [2026-04-01, 13:12:00](https://soylentnews.org/article.pl?sid=26/03/30/159237&amp;from=rss) - [US Foreign Router Ban Criticized for Being ‘Industrial Policy Disguised as Cybersecurity’](https://soylentnews.org/article.pl?sid=26/03/30/159237&amp;from=rss)
 * [2026-04-01, 08:41:49](https://news.ycombinator.com/item?id=47598413) - [C89cc.sh – standalone C89/ELF64 compiler in pure portable shell](https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19)
 * [2026-04-01, 08:32:00](https://soylentnews.org/article.pl?sid=26/03/30/154227&amp;from=rss) - [Running DOOM Over DNS Queries](https://soylentnews.org/article.pl?sid=26/03/30/154227&amp;from=rss)
@@ -153,7 +157,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-30, 21:12:00](https://soylentnews.org/article.pl?sid=26/03/29/1333211&amp;from=rss) - [Over Half of UK Businesses Have No Idea How Fast They Could Stop AI in a Crisis](https://soylentnews.org/article.pl?sid=26/03/29/1333211&amp;from=rss)
 * [2026-03-30, 16:25:00](https://soylentnews.org/article.pl?sid=26/03/29/1329244&amp;from=rss) - [Water Has a Newfound ‘Critical Point’ That May Help Explain its Quirks](https://soylentnews.org/article.pl?sid=26/03/29/1329244&amp;from=rss)
 * [2026-03-30, 15:28:45](https://news.ycombinator.com/item?id=47575557) - [Magic the Gathering Deck Shuffler](https://mtg.jessitron.honeydemo.io/)
-* [2026-03-30, 14:09:17](https://news.ycombinator.com/item?id=47574600) - [Queueing Requests Queues Your Capacity Problems, Too](https://pushtoprod.substack.com/p/queueing-requests-queues-your-capacity-problems-too)
 * [2026-03-30, 11:40:00](https://soylentnews.org/article.pl?sid=26/03/29/1321221&amp;from=rss) - [I Decompiled the White House&apos;s New App](https://soylentnews.org/article.pl?sid=26/03/29/1321221&amp;from=rss)
 * [2026-03-30, 09:38:38](https://news.ycombinator.com/item?id=47572288) - [JSON Canvas Spec (2024)](https://jsoncanvas.org/spec/1.0/)
 * [2026-03-30, 06:50:00](https://soylentnews.org/article.pl?sid=26/03/28/0354240&amp;from=rss) - [The Drone Swarm is Coming, and NATO Air Defenses Are Too Expensive to Cope](https://soylentnews.org/article.pl?sid=26/03/28/0354240&amp;from=rss)
