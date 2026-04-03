@@ -1,32 +1,72 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Advancements and Discoveries
+## Technology and Computing
 
-* [Wikipedia Has Banned AI-Generated Articles](https://soylentnews.org/article.pl?sid=26/03/31/1439256&amp;from=rss) - Wikipedia implements a ban on AI-generated content to uphold the integrity of its articles. [Comments](https://soylentnews.org/article.pl?sid=26/03/31/1439256&amp;from=rss)
+* [Switzerland hosts 'CERN of semiconductor research'](https://www.swissinfo.ch/eng/swiss-ai/switzerland-hosts-cern-of-semiconductor-research/91015332) ([Comments](https://news.ycombinator.com/item?id=47624879))
 
-* [1SubMl: experimental ML-like programming language with a unified module and value language, and more](https://github.com/Storyyeller/1subml?tab=readme-ov-file) - Introducing 1SubML, an experimental language bridging programming paradigms. [Comments](https://lobste.rs/s/1jf9b5/1subml_experimental_ml_like_programming)
+* [SSH certificates: the better SSH experience](https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/) ([Comments](https://lobste.rs/s/unme8t/ssh_certificates_better_ssh_experience))
 
-* [A CSS Engine in OCaml](https://gazagnaire.org/blog/2026-04-02-cascade.html) - A look into the development of a CSS engine written in OCaml. [Comments](https://lobste.rs/s/6rq90r/css_engine_ocaml)
+* [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion) ([Comments](https://news.ycombinator.com/item?id=47616242))
 
-* [samply: Command-line sampling profiler for macOS, Linux, and Windows](https://github.com/mstange/samply) - Open-source tool for efficient program profiling across major platforms. [Comments](https://lobste.rs/s/x1mejy/samply_command_line_sampling_profiler)
+* [LinkedIn Is Scanning for Browser Extensions](https://browsergate.eu/) ([Comments](https://lobste.rs/s/d5lzvy/linkedin_is_scanning_for_browser))
 
-## Environmental and Societal Challenges
+* [800 Rust terminal projects in 3 years](https://blog.orhun.dev/800-rust-projects/) ([Comments](https://lobste.rs/s/yy4uyc/800_rust_terminal_projects_3_years))
 
-* [Renewables Reached Nearly 50% of Global Electricity Capacity Last Year](https://hardware.slashdot.org/story/26/04/02/2323220/renewables-reached-nearly-50-of-global-electricity-capacity-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A significant milestone in renewable energy achievements globally. [Comments](https://hardware.slashdot.org/story/26/04/02/2323220/renewables-reached-nearly-50-of-global-electricity-capacity-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [I may have solved a long standing problem with Object Oriented systems](https://blog.mempko.com/an-abject-horror/) ([Comments](https://lobste.rs/s/yk91rd/i_may_have_solved_long_standing_problem))
 
-* [EPA Flags Microplastics, Pharmaceuticals As Contaminants In Drinking Water](https://yro.slashdot.org/story/26/04/02/2310255/epa-flags-microplastics-pharmaceuticals-as-contaminants-in-drinking-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The EPA identifies growing challenges in U.S. water safety. [Comments](https://yro.slashdot.org/story/26/04/02/2310255/epa-flags-microplastics-pharmaceuticals-as-contaminants-in-drinking-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Good ideas do not need lots of lies in order to gain public acceptance (2008)](https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html) ([Comments](https://news.ycombinator.com/item?id=47617415))
 
-## Space and Science
+* [Every dependency you add is a supply chain attack waiting to happen](https://benhoyt.com/writings/dependencies/) ([Comments](https://lobste.rs/s/j6uemk/every_dependency_you_add_is_supply_chain))
 
-* [Artemis II's toilet is a moon mission milestone](https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/) - Unveiling critical advancements in space mission handling. [Comments](https://news.ycombinator.com/item?id=47609356)
+## Ethics and Policy
 
-* [NASA Launches Artemis II Astronauts Around the Moon](https://science.slashdot.org/story/26/04/01/2250202/nasa-launches-artemis-ii-astronauts-around-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A major stride in lunar exploration after decades. [Comments](https://science.slashdot.org/story/26/04/01/2250202/nasa-launches-artemis-ii-astronauts-around-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [NHS staff refusing to use FDP over Palantir ethical concerns](https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272) ([Comments](https://news.ycombinator.com/item?id=47624736))
 
-## Privacy, Security, and Ethical AI
+* [Group Pushing Age Verification Requirements For AI Sneakily Backed By OpenAI](https://news.slashdot.org/story/26/04/02/0345206/group-pushing-age-verification-requirements-for-ai-sneakily-backed-by-openai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.slashdot.org/story/26/04/02/0345206/group-pushing-age-verification-requirements-for-ai-sneakily-backed-by-openai))
 
-* [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636) - Dissecting a significant security compromise in a supply chain. [Comments](https://news.ycombinator.com/item?id=47621792)
+* [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket) ([Comments](https://news.ycombinator.com/item?id=47613078))
 
-* [Every dependency you add is a supply chain attack waiting to happen](https://benhoyt.com/writings/dependencies/) - Insights into the vulnerabilities within software dependencies. [Comments](https://lobste.rs/s/j6uemk/every_dependency_you_add_is_supply_chain)
+## AI and Machine Learning
+
+* [Show HN: Apfel – The free AI already on your Mac](https://apfel.franzai.com) ([Comments](https://news.ycombinator.com/item?id=47624645))
+
+* [pGenie – SQL-first code generator for PostgreSQL (Haskell, Rust, Java)](https://pgenie.io/) ([Comments](https://lobste.rs/s/thfvnd/pgenie_sql_first_code_generator_for))
+
+* [Evolving the Node.js Release Schedule](https://nodejs.org/en/blog/announcements/evolving-the-nodejs-release-schedule) ([Comments](https://lobste.rs/s/ad1syc/evolving_node_js_release_schedule))
+
+* [Google Announces Gemma 4 Open AI Models, Switches To Apache 2.0 License](https://tech.slashdot.org/story/26/04/02/1735238/google-announces-gemma-4-open-ai-models-switches-to-apache-20-license?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=47616242))
+
+## Cybersecurity
+
+* [New Rowhammer attacks give complete control of machines running Nvidia GPUs](https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/) ([Comments](https://news.ycombinator.com/item?id=47624317))
+
+* [World's smallest QR code, smaller than bacteria, could store data for centuries](https://soylentnews.org/article.pl?sid=26/03/31/1354212&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/31/1354212&amp;from=rss))
+
+## Renewable Energy
+
+* [Renewables Reached Nearly 50% of Global Electricity Capacity Last Year](https://hardware.slashdot.org/story/26/04/02/2323220/renewables-reached-nearly-50-of-global-electricity-capacity-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://hardware.slashdot.org/story/26/04/02/2323220/renewables-reached-nearly-50-of-global-electricity-capacity-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+## Science and Space
+
+* [NASA Launches Artemis II Astronauts Around the Moon](https://science.slashdot.org/story/26/04/01/2250202/nasa-launches-artemis-ii-astronauts-around-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://science.slashdot.org/story/26/04/01/2250202/nasa-launches-artemis-ii-astronauts-around-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Artemis II's toilet is a moon mission milestone](https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/) ([Comments](https://news.ycombinator.com/item?id=47609356))
+
+* [SpaceX Files To Go Public](https://slashdot.org/story/26/04/01/2043248/spacex-files-to-go-public?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://slashdot.org/story/26/04/01/2043248/spacex-files-to-go-public?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Water Has a Newfound 'Critical Point' That May Help Explain its Quirks](https://soylentnews.org/article.pl?sid=26/03/29/1329244&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/29/1329244&amp;from=rss))
+
+## Environment and Technology
+
+* [Rapid Snow Melt-Off In American West Stuns Scientists](https://news.slashdot.org/story/26/04/02/0329240/rapid-snow-melt-off-in-american-west-stuns-scientists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.slashdot.org/story/26/04/02/0329240/rapid-snow-melt-off-in-american-west-stuns-scientists))
+
+* [The Drone Swarm is Coming, and NATO Air Defenses Are Too Expensive to Cope](https://soylentnews.org/article.pl?sid=26/03/28/0354240&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/28/0354240&amp;from=rss))
+
+## Historical and Cultural Insights
+
+* [Ancient Alphabets, New Insights: Researchers Uncover Hidden Links Among the Letters](https://soylentnews.org/article.pl?sid=26/03/31/1431219&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/31/1431219&amp;from=rss))
+
+* [How Graphene Oxide Kills Bacteria While Sparing Human Cells](https://soylentnews.org/article.pl?sid=26/03/30/1513241&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/30/1513241&amp;from=rss))
 
 ---
 
@@ -53,22 +93,27 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-04-03, 10:01:50](https://news.ycombinator.com/item?id=47624879) - [Switzerland hosts &apos;CERN of semiconductor research&apos;](https://www.swissinfo.ch/eng/swiss-ai/switzerland-hosts-cern-of-semiconductor-research/91015332)
+* [2026-04-03, 09:53:22](https://lobste.rs/s/kltbuq/adobe_wrote_my_hosts_file) - [Adobe wrote to my hosts file](https://www.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/)
+* [2026-04-03, 09:52:11](https://lobste.rs/s/unme8t/ssh_certificates_better_ssh_experience) - [SSH certificates: the better SSH experience](https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/)
+* [2026-04-03, 09:37:24](https://news.ycombinator.com/item?id=47624741) - [Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps](https://only-eu.eu/en/)
+* [2026-04-03, 09:36:33](https://news.ycombinator.com/item?id=47624736) - [NHS staff refusing to use FDP over Palantir ethical concerns](https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272)
+* [2026-04-03, 09:35:16](https://news.ycombinator.com/item?id=47624731) - [April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini](https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5)
+* [2026-04-03, 09:15:34](https://news.ycombinator.com/item?id=47624645) - [Show HN: Apfel – The free AI already on your Mac](https://apfel.franzai.com)
+* [2026-04-03, 08:59:45](https://news.ycombinator.com/item?id=47624558) - [Proton Meet Isn&apos;t What They Told You It Was](https://www.sambent.com/proton-meet-isnt-what-they-told-you/)
+* [2026-04-03, 08:29:40](https://lobste.rs/s/yy4uyc/800_rust_terminal_projects_3_years) - [800 Rust terminal projects in 3 years](https://blog.orhun.dev/800-rust-projects/)
+* [2026-04-03, 08:15:12](https://news.ycombinator.com/item?id=47624317) - [New Rowhammer attacks give complete control of machines running Nvidia GPUs](https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/)
 * [2026-04-03, 07:17:00](https://soylentnews.org/article.pl?sid=26/03/31/1439256&amp;from=rss) - [Wikipedia Has Banned AI-Generated Articles](https://soylentnews.org/article.pl?sid=26/03/31/1439256&amp;from=rss)
 * [2026-04-03, 07:00:00](https://hardware.slashdot.org/story/26/04/02/2323220/renewables-reached-nearly-50-of-global-electricity-capacity-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Renewables Reached Nearly 50% of Global Electricity Capacity Last Year](https://hardware.slashdot.org/story/26/04/02/2323220/renewables-reached-nearly-50-of-global-electricity-capacity-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-03, 05:01:26](https://lobste.rs/s/cwzmdl/offensive_cybersecurity_time_horizons) - [Offensive Cybersecurity Time Horizons](https://lyptusresearch.org/research/offensive-cyber-time-horizons)
 * [2026-04-03, 04:54:13](https://lobste.rs/s/1jf9b5/1subml_experimental_ml_like_programming) - [1SubMl: experimental ML-like programming language with a unified module and value language, and more](https://github.com/Storyyeller/1subml?tab=readme-ov-file)
+* [2026-04-03, 04:09:50](https://news.ycombinator.com/item?id=47623101) - [A Rave Review of Superpowers (For Claude Code)](https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/)
 * [2026-04-03, 03:30:00](https://yro.slashdot.org/story/26/04/02/2310255/epa-flags-microplastics-pharmaceuticals-as-contaminants-in-drinking-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EPA Flags Microplastics, Pharmaceuticals As Contaminants In Drinking Water](https://yro.slashdot.org/story/26/04/02/2310255/epa-flags-microplastics-pharmaceuticals-as-contaminants-in-drinking-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-03, 02:31:00](https://soylentnews.org/article.pl?sid=26/03/31/1431219&amp;from=rss) - [Ancient Alphabets, New Insights: Researchers Uncover Hidden Links Among the Letters](https://soylentnews.org/article.pl?sid=26/03/31/1431219&amp;from=rss)
 * [2026-04-03, 02:14:29](https://lobste.rs/s/6rq90r/css_engine_ocaml) - [A CSS Engine in OCaml](https://gazagnaire.org/blog/2026-04-02-cascade.html)
-* [2026-04-03, 00:59:37](https://lobste.rs/s/x1mejy/samply_command_line_sampling_profiler) - [samply: Command-line sampling profiler for macOS, Linux, and Windows](https://github.com/mstange/samply)
-* [2026-04-03, 00:00:19](https://news.ycombinator.com/item?id=47621792) - [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636)
 * [2026-04-02, 23:49:34](https://lobste.rs/s/hp00yw/gentoo_gnu_hurd) - [Gentoo GNU/Hurd](https://www.gentoo.org/news/2026/04/01/gentoo-hurd.html)
 * [2026-04-02, 23:39:55](https://lobste.rs/s/1urnpv/openbsd_on_motorola_88000_processors) - [OpenBSD on Motorola 88000 processors](http://miod.online.fr/software/openbsd/stories/m88k.html)
-* [2026-04-02, 23:26:01](https://news.ycombinator.com/item?id=47621518) - [Tor Alva: The Tallest 3D-Printed Building in the World](https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/)
-* [2026-04-02, 23:17:26](https://news.ycombinator.com/item?id=47621448) - [A Few Good Magazines From the 70s and 80s](https://www.bi6.us/CO/MG.HTML)
 * [2026-04-02, 23:16:05](https://news.ycombinator.com/item?id=47621438) - [Show HN: Made a little Artemis II tracker](https://artemis-ii-tracker.com/)
 * [2026-04-02, 23:00:00](https://news.slashdot.org/story/26/04/02/2113218/mount-everest-climbers-poisoned-by-guides-in-insurance-fraud-scheme?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mount Everest Climbers &apos;Poisoned&apos; By Guides In Insurance Fraud Scheme](https://news.slashdot.org/story/26/04/02/2113218/mount-everest-climbers-poisoned-by-guides-in-insurance-fraud-scheme?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-02, 22:21:24](https://news.ycombinator.com/item?id=47620933) - [Memo: A language that remembers only the last 12 lines of code](https://danieltemkin.com/Esolangs/Memo/)
 * [2026-04-02, 22:13:03](https://news.ycombinator.com/item?id=47620857) - [ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust)](https://paradedb.notion.site/)
 * [2026-04-02, 22:05:05](https://lobste.rs/s/veyrwi/rave_review_superpowers_for_claude_code) - [A Rave Review of Superpowers (for Claude Code)](https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/)
 * [2026-04-02, 22:00:00](https://tech.slashdot.org/story/26/04/02/211202/openai-acquires-popular-tech-industry-talk-show-tbpn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Acquires Popular Tech-Industry Talk Show TBPN](https://tech.slashdot.org/story/26/04/02/211202/openai-acquires-popular-tech-industry-talk-show-tbpn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -94,8 +139,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-02, 16:00:27](https://news.ycombinator.com/item?id=47616242) - [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion)
 * [2026-04-02, 16:00:00](https://tech.slashdot.org/story/26/04/02/042250/nvidia-rolls-out-its-fix-for-pc-gamings-compiling-shaders-wait-times?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nvidia Rolls Out Its Fix For PC Gaming&apos;s &apos;Compiling Shaders&apos; Wait Times](https://tech.slashdot.org/story/26/04/02/042250/nvidia-rolls-out-its-fix-for-pc-gamings-compiling-shaders-wait-times?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-02, 15:59:49](https://lobste.rs/s/jtey8e/euro_office_onlyoffice_their_licensing) - [Euro-Office, ONLYOFFICE, and their licensing dispute](https://blog.ensko.at/2026/04/02/euro-office/)
-* [2026-04-02, 15:32:34](https://lobste.rs/s/yoq0e6/validating_hare_s_sort_module_using) - [Validating Hare’s Sort Module using Symbolic Execution](https://notes.8pit.net/notes/y7n8.html)
-* [2026-04-02, 15:08:45](https://news.ycombinator.com/item?id=47615490) - [Artemis computer running two instances of MS outlook; they can&apos;t figure out why](https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25)
 * [2026-04-02, 15:00:00](https://linux.slashdot.org/story/26/04/02/0350211/steam-on-linux-use-skyrocketed-above-5-in-march?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Steam On Linux Use Skyrocketed Above 5% In March](https://linux.slashdot.org/story/26/04/02/0350211/steam-on-linux-use-skyrocketed-above-5-in-march?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-02, 14:55:39](https://lobste.rs/s/yk91rd/i_may_have_solved_long_standing_problem) - [I may have solved a long standing problem with Object Oriented systems](https://blog.mempko.com/an-abject-horror/)
 * [2026-04-02, 14:28:52](https://news.ycombinator.com/item?id=47615002) - [Qwen3.6-Plus: Towards real world agents](https://qwen.ai/blog?id=qwen3.6)
@@ -106,9 +149,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-02, 12:22:29](https://lobste.rs/s/ad1syc/evolving_node_js_release_schedule) - [Evolving the Node.js Release Schedule](https://nodejs.org/en/blog/announcements/evolving-the-nodejs-release-schedule)
 * [2026-04-02, 11:58:52](https://lobste.rs/s/j6uemk/every_dependency_you_add_is_supply_chain) - [Every dependency you add is a supply chain attack waiting to happen](https://benhoyt.com/writings/dependencies/)
 * [2026-04-02, 11:40:41](https://news.ycombinator.com/item?id=47613078) - [Inside Nepal&apos;s Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket)
-* [2026-04-02, 11:04:51](https://news.ycombinator.com/item?id=47612724) - [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai)
 * [2026-04-02, 11:00:00](https://news.slashdot.org/story/26/04/02/0345206/group-pushing-age-verification-requirements-for-ai-sneakily-backed-by-openai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Group Pushing Age Verification Requirements For AI Sneakily Backed By OpenAI](https://news.slashdot.org/story/26/04/02/0345206/group-pushing-age-verification-requirements-for-ai-sneakily-backed-by-openai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-02, 10:50:00](https://news.ycombinator.com/item?id=47612601) - [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/)
 * [2026-04-02, 08:24:11](https://lobste.rs/s/thfvnd/pgenie_sql_first_code_generator_for) - [pGenie – SQL-first code generator for PostgreSQL (Haskell, Rust, Java)](https://pgenie.io/)
 * [2026-04-02, 08:21:40](https://lobste.rs/s/idoeyr/running_out_disk_space_production) - [Running out of Disk Space in Production](https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html)
 * [2026-04-02, 08:13:00](https://soylentnews.org/article.pl?sid=26/03/31/1354212&amp;from=rss) - [World&apos;s smallest QR code, smaller than bacteria, could store data for centuries  ](https://soylentnews.org/article.pl?sid=26/03/31/1354212&amp;from=rss)
@@ -129,7 +170,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-01, 03:44:00](https://soylentnews.org/article.pl?sid=26/03/30/151240&amp;from=rss) - [Ranked: The World’s Most Surveilled Cities](https://soylentnews.org/article.pl?sid=26/03/30/151240&amp;from=rss)
 * [2026-03-31, 23:01:00](https://soylentnews.org/article.pl?sid=26/03/30/1458237&amp;from=rss) - [China&apos;s Not Thrilled its AI Experts Want to Leave the Country](https://soylentnews.org/article.pl?sid=26/03/30/1458237&amp;from=rss)
 * [2026-03-31, 21:43:15](https://news.ycombinator.com/item?id=47593861) - [Maze Algorithms (1997)](https://www.astrolog.org/labyrnth/algrithm.htm)
-* [2026-03-31, 19:57:05](https://news.ycombinator.com/item?id=47592614) - [Prefer do notation over Applicative operators when assembling records (2024)](https://haskellforall.com/2024/05/prefer-do-notation-over-applicative)
 * [2026-03-31, 18:13:00](https://soylentnews.org/article.pl?sid=26/03/30/1454213&amp;from=rss) - [Number of AI Chatbots Ignoring Human Instructions is Increasing  ](https://soylentnews.org/article.pl?sid=26/03/30/1454213&amp;from=rss)
 * [2026-03-31, 11:25:00](https://soylentnews.org/article.pl?sid=26/03/30/0239206&amp;from=rss) - [Court Temporarily Blocks US Government From Labeling Anthropic as a &apos;Supply Chain Risk&apos;](https://soylentnews.org/article.pl?sid=26/03/30/0239206&amp;from=rss)
 * [2026-03-31, 06:42:00](https://soylentnews.org/article.pl?sid=26/03/30/0233201&amp;from=rss) - [Touchscreens, Long Nails, and an Experimental Polish](https://soylentnews.org/article.pl?sid=26/03/30/0233201&amp;from=rss)
@@ -137,6 +177,5 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-03-30, 21:12:00](https://soylentnews.org/article.pl?sid=26/03/29/1333211&amp;from=rss) - [Over Half of UK Businesses Have No Idea How Fast They Could Stop AI in a Crisis](https://soylentnews.org/article.pl?sid=26/03/29/1333211&amp;from=rss)
 * [2026-03-30, 16:25:00](https://soylentnews.org/article.pl?sid=26/03/29/1329244&amp;from=rss) - [Water Has a Newfound ‘Critical Point’ That May Help Explain its Quirks](https://soylentnews.org/article.pl?sid=26/03/29/1329244&amp;from=rss)
 * [2026-03-30, 11:40:00](https://soylentnews.org/article.pl?sid=26/03/29/1321221&amp;from=rss) - [I Decompiled the White House&apos;s New App](https://soylentnews.org/article.pl?sid=26/03/29/1321221&amp;from=rss)
-* [2026-03-30, 09:38:38](https://news.ycombinator.com/item?id=47572288) - [JSON Canvas Spec (2024)](https://jsoncanvas.org/spec/1.0/)
 * [2026-03-30, 06:50:00](https://soylentnews.org/article.pl?sid=26/03/28/0354240&amp;from=rss) - [The Drone Swarm is Coming, and NATO Air Defenses Are Too Expensive to Cope](https://soylentnews.org/article.pl?sid=26/03/28/0354240&amp;from=rss)
 * [2026-03-30, 02:07:00](https://soylentnews.org/article.pl?sid=26/03/28/0349246&amp;from=rss) - [Google Unveils TurboQuant, a New AI Memory Compression Algorithm](https://soylentnews.org/article.pl?sid=26/03/28/0349246&amp;from=rss)
