@@ -1,64 +1,70 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advancements and Challenges in Technology
+## Technology and Software Development
 
-* [Days Since Openclaw CVE](https://days-since-openclaw-cve.com/) - A tracking website that monitors the time elapsed since the discovery of the Openclaw CVE, emphasizing the importance of addressing software vulnerabilities. [Comments](https://lobste.rs/s/b3vgkb/days_since_openclaw_cve)
+* [Show HN: TurboQuant-WASM – Google&apos;s vector quantization in the browser](https://github.com/teamchong/turboquant-wasm) ([Comments](https://news.ycombinator.com/item?id=47639567))
 
-* [Embarrassingly Simple Self-Distillation Improves Code Generation](https://arxiv.org/abs/2604.01193) - A research paper discussing a simple yet effective self-distillation technique for improving code generation in artificial intelligence models. [Comments](https://lobste.rs/s/bor4wy/embarrassingly_simple_self)
+* [Functional Algorithms, Verified](https://www21.in.tum.de/teaching/fds/SS21/assets/book-draft.pdf) ([Comments](https://lobste.rs/s/lqthae/functional_algorithms_verified))
 
-* [github to Use User Data for AI Training by Default](https://soylentnews.org/article.pl?sid=26/04/02/0226234&from=rss) - GitHub's controversial change to utilize user-contributed data for artificial intelligence training by default. [Comments](https://soylentnews.org/article.pl?sid=26/04/02/0226234&from=rss)
+* [Absurd In Production](https://lucumr.pocoo.org/2026/4/4/absurd-in-production/) ([Comments](https://lobste.rs/s/xqttxu/absurd_production))
 
-* [Artemis II Astronauts Pass 100,000 Miles From Earth On Voyage To the Moon](https://science.slashdot.org/story/26/04/03/2326236/artemis-ii-astronauts-pass-100000-miles-from-earth-on-voyage-to-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A landmark update on the Artemis II moon mission, as astronauts reach a major milestone in their journey. [Comments](https://science.slashdot.org/story/26/04/03/2326236/artemis-ii-astronauts-pass-100000-miles-from-earth-on-voyage-to-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [c89cc.sh - standalone C89/ELF64 compiler in pure portable shell](https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19) ([Comments](https://lobste.rs/s/59wywf/c89cc_sh_standalone_c89_elf64_compiler))
+
+* [Rails on the BEAM](https://intertwingly.net/blog/2026/04/02/Rails-on-the-BEAM.html) ([Comments](https://lobste.rs/s/mksk9n/rails_on_beam))
+
+* [Signals, the push-pull based algorithm](https://willybrauner.com/journal/signal-the-push-pull-based-algorithm) ([Comments](https://lobste.rs/s/4vcjwj/signals_push_pull_based_algorithm))
+
+* [Lisette — Rust syntax, Go runtime](https://lisette.run) ([Comments](https://lobste.rs/s/rw62j7/lisette_rust_syntax_go_runtime))
 
 ## Artificial Intelligence and Machine Learning
 
-* [Functional Algorithms, Verified](https://www21.in.tum.de/teaching/fds/SS21/assets/book-draft.pdf) - A comprehensive draft exploring verified functional algorithms, offering insights for computer science enthusiasts. [Comments](https://lobste.rs/s/lqthae/functional_algorithms_verified)
+* [&apos;Cognitive Surrender&apos; Leads AI Users To Abandon Logical Thinking, Research Finds](https://science.slashdot.org/story/26/04/03/2334204/cognitive-surrender-leads-ai-users-to-abandon-logical-thinking-research-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=47639199))
 
-* [Some Unusual Trees](https://thoughts.wyounas.com/p/some-unusual-trees) - Highlights unconventional and fascinating structures of algorithmics through tree data structures. [Comments](https://news.ycombinator.com/item?id=47637287)
+* [GitHub to Use User Data for AI Training by Default](https://soylentnews.org/article.pl?sid=26/04/02/0226234&amp;from=rss) ([Comments](https://news.ycombinator.com/item?id=47634690))
 
-* [Why Lean?](https://leodemoura.github.io/blog/2026-4-2-why-lean/) - An explanation behind the benefits and motivations for using the Lean theorem prover. [Comments](https://lobste.rs/s/063ldo/why_lean)
+* [Components of a Coding Agent](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent) ([Comments](https://news.ycombinator.com/item?id=47638810))
 
-* [Simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193) - Research showcasing how straightforward distillation techniques can enhance coding tasks. [Comments](https://news.ycombinator.com/item?id=47637757)
+* [Claude Code Found a Linux Vulnerability Hidden for 23 Years](https://mtlynch.io/claude-code-found-linux-vulnerability/) ([Comments](https://lobste.rs/s/lh9rmv/claude_code_found_linux_vulnerability))
 
-## Corporate Developments and Industry Trends
+* [Every dependency you add is a supply chain attack waiting to happen](https://benhoyt.com/writings/dependencies/) ([Comments](https://lobste.rs/s/j6uemk/every_dependency_you_add_is_supply_chain))
 
-* [Sony Shuts Down Nearly Its Entire Memory Card Business Due to Flash Shortage](https://soylentnews.org/article.pl?sid=26/04/03/0327238&from=rss) - A major shift in Sony's business strategy due to supply chain challenges. [Comments](https://soylentnews.org/article.pl?sid=26/04/03/0327238&from=rss)
+* [Training mRNA Language Models Across 25 Species for $165](https://news.ycombinator.com/item?id=47606244) ([Comments](https://news.ycombinator.com/item?id=47606244))
 
-* [Jack Dorsey says Block employees now bring prototypes, not slides, to meetings](https://www.businessinsider.com/block-ceo-jack-dorsey-bring-prototypes-not-slide-decks-meetings-2026-4) - Jack Dorsey's unique approach to innovation within Block. [Comments](https://news.ycombinator.com/item?id=47638246)
+## Society, Policy, and Ethics
 
-* [Netflix Must Refund Customers For Years of Price Hikes, Italian Court Rules](https://yro.slashdot.org/story/26/04/03/197223/netflix-must-refund-customers-for-years-of-price-hikes-italian-court-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A significant legal ruling against Netflix regarding unfair price increases. [Comments](https://yro.slashdot.org/story/26/04/03/197223/netflix-must-refund-customers-for-years-of-price-hikes-italian-court-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [German men 18-45 need military permit to leave country for longer than 3 months](https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677) ([Comments](https://news.ycombinator.com/item?id=47639976))
 
-* [Microsoft To Invest $10 Billion In Japan For AI, Cyber Defense Expansion](https://slashdot.org/story/26/04/03/1914243/microsoft-to-invest-10-billion-in-japan-for-ai-cyber-defense-expansion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Microsoft's substantial financial commitment to technology and security in Japan. [Comments](https://slashdot.org/story/26/04/03/1914243/microsoft-to-invest-10-billion-in-japan-for-ai-cyber-defense-expansion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Author of \\&quot;Careless People\\&quot; banned from saying anything negative about Meta](https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf) ([Comments](https://news.ycombinator.com/item?id=47639524))
 
-## Fascinating Discoveries
+* [Tech Companies Are Trying To Neuter Colorado&apos;s Landmark Right-to-Repair Law](https://yro.slashdot.org/story/26/04/03/1845258/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=47636240))
 
-* [Scientists Just Spotted a Black Hole Collision That Defies All Odds](https://soylentnews.org/article.pl?sid=26/04/02/0220210&from=rss) - Discovering a rare cosmic event that's reshaping our understanding of black hole behavior. [Comments](https://soylentnews.org/article.pl?sid=26/04/02/0220210&from=rss)
+* [Netflix Must Refund Customers For Years of Price Hikes, Italian Court Rules](https://yro.slashdot.org/story/26/04/03/197223/netflix-must-refund-customers-for-years-of-price-hikes-italian-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=47635160))
 
-* [Python Blood Could Hold the Secret To Healthy Weight Loss](https://science.slashdot.org/story/26/04/02/2316241/python-blood-could-hold-the-secret-to-healthy-weight-loss?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Research suggesting python blood could reveal groundbreaking weight loss solutions. [Comments](https://science.slashdot.org/story/26/04/02/2316241/python-blood-could-hold-the-secret-to-healthy-weight-loss?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Why Nobody Can Verify What Booted Your Server](https://unmitigatedrisk.com/?p=1231) ([Comments](https://lobste.rs/s/uagdwq/why_nobody_can_verify_what_booted_your))
 
-* [Ancient Alphabets, New Insights: Researchers Uncover Hidden Links Among the Letters](https://soylentnews.org/article.pl?sid=26/03/31/1431219&from=rss) - Fascinating findings on the historical interconnectedness of ancient scripts. [Comments](https://soylentnews.org/article.pl?sid=26/03/31/1431219&from=rss)
+* [Court Temporarily Blocks US Government From Labeling Anthropic as a &apos;Supply Chain Risk&apos;](https://soylentnews.org/article.pl?sid=26/03/30/0239206&amp;from=rss) ([Comments](https://lobste.rs/s/v7uipj/court_blocks_us_supply_chain_risk_label))
 
-* [Ranked: The World’s Most Surveilled Cities](https://soylentnews.org/article.pl?sid=26/03/30/151240&from=rss) - A thought-provoking ranking of global surveillance cities. [Comments](https://soylentnews.org/article.pl?sid=26/03/30/151240&from=rss)
+## Space Exploration
 
-## Security and Privacy Evolution
+* [Artemis II Astronauts Pass 100,000 Miles From Earth On Voyage To the Moon](https://science.slashdot.org/story/26/04/03/2326236/artemis-ii-astronauts-pass-100000-miles-from-earth-on-voyage-to-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=47637209))
 
-* [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396) - Changes impacting the use of OpenClaw with Claude Code's functionality. [Comments](https://news.ycombinator.com/item?id=47633396)
+* [Artemis II crew take “spectacular” image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o) ([Comments](https://news.ycombinator.com/item?id=47631118))
 
-* [OpenClaw privilege escalation vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2026-33579) - Details about a critical security vulnerability in the OpenClaw software. [Comments](https://news.ycombinator.com/item?id=47628608)
+* [Scientists Just Spotted a Black Hole Collision That Defies All Odds](https://soylentnews.org/article.pl?sid=26/04/02/0220210&amp;from=rss) ([Comments](https://news.ycombinator.com/item?id=47627432))
 
-* [Iran Strikes Leave Amazon Availability Zones 'Hard Down' In Bahrain and Dubai](https://tech.slashdot.org/story/26/04/03/2238241/iran-strikes-leave-amazon-availability-zones-hard-down-in-bahrain-and-dubai?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A report on infrastructure disruption caused by geopolitical tensions. [Comments](https://tech.slashdot.org/story/26/04/03/2238241/iran-strikes-leave-amazon-availability-zones-hard-down-in-bahrain-and-dubai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Artemis II Mission is About to Fly Humans to the Moon — Here&apos;s the Science They&apos;ll Do](https://soylentnews.org/article.pl?sid=26/04/01/1726213&amp;from=rss) ([Comments](https://news.ycombinator.com/item?id=47616372))
 
-* [Every dependency you add is a supply chain attack waiting to happen](https://benhoyt.com/writings/dependencies/) - Analysis of the hidden risks within software dependencies faced by teams. [Comments](https://lobste.rs/s/j6uemk/every_dependency_you_add_is_supply_chain)
+## Historical and Cultural Insights
 
-## Interesting Takes and Anecdotes
+* [The Indie Internet Index – submit your favorite sites](https://iii.social) ([Comments](https://news.ycombinator.com/item?id=47639291))
 
-* [Legibility is Ruining You](https://jimmyhmiller.com/legibility-is-ruining-you) - A provocative essay discussing the impact of legibility on creativity and individualism. [Comments](https://lobste.rs/s/exmliu/legibility_is_ruining_you)
+* [I used AI. It worked. I hated it](https://taggart-tech.com/reckoning/) ([Comments](https://lobste.rs/s/7d8dxv/i_used_ai_it_worked_i_hated_it))
 
-* [Build your own Dial-up ISP with a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/) - Bringing legacy technology back to life with modern DIY ingenuity. [Comments](https://lobste.rs/s/s04of3/build_your_own_dial_up_isp_with_raspberry)
+* [Ancient Alphabets, New Insights: Researchers Uncover Hidden Links Among the Letters](https://soylentnews.org/article.pl?sid=26/03/31/1431219&amp;from=rss) ([Comments](https://lobste.rs/s/7foxbn/ancient_alphabets_new_insights_researchers))
 
-* [Running DOOM Over DNS Queries](https://soylentnews.org/article.pl?sid=26/03/30/154227&from=rss) - Ingenious use of uncommon protocols to play DOOM over DNS queries. [Comments](https://soylentnews.org/article.pl?sid=26/03/30/154227&from=rss)
+* [The Cathedral, the Bazaar, and the Winchester Mystery House](https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html) ([Comments](https://news.ycombinator.com/item?id=47601194))
 
-* [Adobe wrote to my hosts file](https://www.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/) - An unusual observation on Adobe's interference with a user's hosts file. [Comments](https://lobste.rs/s/kltbuq/adobe_wrote_my_hosts_file)
+* [The Technocracy Movement of the 1930s](https://donotresearch.substack.com/p/welcome-to-the-technocracy) ([Comments](https://news.ycombinator.com/item?id=47622616))
 
 ---
 
@@ -85,12 +91,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-04-04, 13:38:41](https://lobste.rs/s/b3vgkb/days_since_openclaw_cve) - [Days Since Openclaw CVE](https://days-since-openclaw-cve.com/)
+* [2026-04-04, 15:42:27](https://lobste.rs/s/v7r423/where_can_i_find_old_internet) - [Where can I find the old internet?](https://lobste.rs/s/v7r423/where_can_i_find_old_internet)
+* [2026-04-04, 15:39:10](https://news.ycombinator.com/item?id=47639976) - [German men 18-45 need military permit to leave country for longer than 3 months](https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677)
+* [2026-04-04, 14:53:16](https://news.ycombinator.com/item?id=47639567) - [Show HN: TurboQuant-WASM – Google&apos;s vector quantization in the browser](https://github.com/teamchong/turboquant-wasm)
+* [2026-04-04, 14:48:26](https://news.ycombinator.com/item?id=47639524) - [Author of \&quot;Careless People\&quot; banned from saying anything negative about Meta](https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf)
+* [2026-04-04, 14:18:06](https://news.ycombinator.com/item?id=47639291) - [The Indie Internet Index – submit your favorite sites](https://iii.social)
+* [2026-04-04, 14:08:09](https://news.ycombinator.com/item?id=47639199) - [No One at Waffle House Remembers FEMA Official Who Says He Teleported In](https://www.nytimes.com/2026/04/03/us/fema-gregg-phillips-waffle-house-teleportation.html)
+* [2026-04-04, 14:00:00](https://science.slashdot.org/story/26/04/03/2334204/cognitive-surrender-leads-ai-users-to-abandon-logical-thinking-research-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Cognitive Surrender&apos; Leads AI Users To Abandon Logical Thinking, Research Finds](https://science.slashdot.org/story/26/04/03/2334204/cognitive-surrender-leads-ai-users-to-abandon-logical-thinking-research-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-04, 13:34:43](https://lobste.rs/s/bor4wy/embarrassingly_simple_self) - [Embarrassingly Simple Self-Distillation Improves Code Generation](https://arxiv.org/abs/2604.01193)
+* [2026-04-04, 13:16:33](https://news.ycombinator.com/item?id=47638810) - [Components of a Coding Agent](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent)
 * [2026-04-04, 12:00:38](https://news.ycombinator.com/item?id=47638270) - [Mbodi AI (YC P25) Is Hiring](https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls)
-* [2026-04-04, 11:57:14](https://news.ycombinator.com/item?id=47638246) - [Jack Dorsey says Block employees now bring prototypes, not slides, to meetings](https://www.businessinsider.com/block-ceo-jack-dorsey-bring-prototypes-not-slide-decks-meetings-2026-4)
 * [2026-04-04, 11:46:00](https://soylentnews.org/article.pl?sid=26/04/03/0327238&amp;from=rss) - [Sony Shuts Down Nearly Its Entire Memory Card Business Due to Flash Shortage](https://soylentnews.org/article.pl?sid=26/04/03/0327238&amp;from=rss)
-* [2026-04-04, 11:24:30](https://news.ycombinator.com/item?id=47638075) - [The CMS is dead. Long live the CMS](https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms)
+* [2026-04-04, 11:28:31](https://lobste.rs/s/xqttxu/absurd_production) - [Absurd In Production](https://lucumr.pocoo.org/2026/4/4/absurd-in-production/)
 * [2026-04-04, 11:00:00](https://tech.slashdot.org/story/26/04/03/207238/colorados-new-speed-camera-system-makes-waze-nearly-useless?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Colorado&apos;s New Speed Camera System Makes Waze Nearly Useless](https://tech.slashdot.org/story/26/04/03/207238/colorados-new-speed-camera-system-makes-waze-nearly-useless?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-04, 10:26:21](https://news.ycombinator.com/item?id=47637757) - [Simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193)
 * [2026-04-04, 09:21:44](https://lobste.rs/s/063ldo/why_lean) - [Why Lean?](https://leodemoura.github.io/blog/2026-4-2-why-lean/)
@@ -104,14 +116,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-04, 02:10:13](https://lobste.rs/s/lqthae/functional_algorithms_verified) - [Functional Algorithms, Verified](https://www21.in.tum.de/teaching/fds/SS21/assets/book-draft.pdf)
 * [2026-04-04, 01:40:11](https://lobste.rs/s/exmliu/legibility_is_ruining_you) - [Legibility is Ruining You](https://jimmyhmiller.com/legibility-is-ruining-you)
 * [2026-04-04, 01:37:02](https://news.ycombinator.com/item?id=47634690) - [Delve removed from Y Combinator](https://www.ycombinator.com/companies/delve)
-* [2026-04-03, 23:56:32](https://news.ycombinator.com/item?id=47633947) - [The FAA’s flight restriction for drones is an attempt to criminalize filming ICE](https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice)
 * [2026-04-03, 23:55:14](https://lobste.rs/s/59wywf/c89cc_sh_standalone_c89_elf64_compiler) - [c89cc.sh - standalone C89/ELF64 compiler in pure portable shell](https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19)
 * [2026-04-03, 23:46:51](https://news.ycombinator.com/item?id=47633855) - [Claude Code Found a Linux Vulnerability Hidden for 23 Years](https://mtlynch.io/claude-code-found-linux-vulnerability/)
 * [2026-04-03, 23:00:00](https://tech.slashdot.org/story/26/04/03/2238241/iran-strikes-leave-amazon-availability-zones-hard-down-in-bahrain-and-dubai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Iran Strikes Leave Amazon Availability Zones &apos;Hard Down&apos; In Bahrain and Dubai](https://tech.slashdot.org/story/26/04/03/2238241/iran-strikes-leave-amazon-availability-zones-hard-down-in-bahrain-and-dubai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-03, 22:55:24](https://news.ycombinator.com/item?id=47633396) - [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396)
-* [2026-04-03, 22:26:38](https://news.ycombinator.com/item?id=47633157) - [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans)
 * [2026-04-03, 22:23:55](https://news.ycombinator.com/item?id=47633131) - [Run Linux containers on Android, no root required](https://github.com/ExTV/Podroid)
-* [2026-04-03, 22:22:18](https://news.ycombinator.com/item?id=47633116) - [The house is a work of art: Frank Lloyd Wright](https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition)
 * [2026-04-03, 22:00:00](https://slashdot.org/story/26/04/03/1914243/microsoft-to-invest-10-billion-in-japan-for-ai-cyber-defense-expansion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft To Invest $10 Billion In Japan For AI, Cyber Defense Expansion](https://slashdot.org/story/26/04/03/1914243/microsoft-to-invest-10-billion-in-japan-for-ai-cyber-defense-expansion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-03, 21:44:29](https://lobste.rs/s/mksk9n/rails_on_beam) - [Rails on the BEAM](https://intertwingly.net/blog/2026/04/02/Rails-on-the-BEAM.html)
 * [2026-04-03, 21:35:00](https://soylentnews.org/article.pl?sid=26/04/02/0220210&amp;from=rss) - [Scientists Just Spotted a Black Hole Collision That Defies All Odds](https://soylentnews.org/article.pl?sid=26/04/02/0220210&amp;from=rss)
@@ -120,8 +129,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-03, 20:00:00](https://tech.slashdot.org/story/26/04/03/1859232/fan-fiction-website-ao3-exits-beta-after-17-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fan Fiction Website AO3 Exits Beta After 17 Years](https://tech.slashdot.org/story/26/04/03/1859232/fan-fiction-website-ao3-exits-beta-after-17-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-03, 19:35:02](https://news.ycombinator.com/item?id=47631118) - [Artemis II crew take “spectacular” image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o)
 * [2026-04-03, 19:00:00](https://yro.slashdot.org/story/26/04/03/1845258/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tech Companies Are Trying To Neuter Colorado&apos;s Landmark Right-to-Repair Law](https://yro.slashdot.org/story/26/04/03/1845258/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-03, 18:54:11](https://news.ycombinator.com/item?id=47630576) - [How to make a sliding, self-locking, and predator-proof chicken coop door (2020)](https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/)
-* [2026-04-03, 18:03:10](https://news.ycombinator.com/item?id=47629903) - [Why are we still using Markdown?](https://bgslabs.org/blog/why-are-we-using-markdown/)
 * [2026-04-03, 18:00:00](https://it.slashdot.org/story/26/04/03/1629207/college-student-cat-meme-helped-crack-massive-botnet-case?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [College Student, Cat Meme Helped Crack Massive Botnet Case](https://it.slashdot.org/story/26/04/03/1629207/college-student-cat-meme-helped-crack-massive-botnet-case?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-03, 17:36:21](https://lobste.rs/s/vintrg/making_type_checker_lsp_for_nix) - [Making a Type Checker/LSP for Nix](https://johns.codes/blog/making-a-type-checker-lsp-for-nix)
 * [2026-04-03, 17:22:20](https://news.ycombinator.com/item?id=47629433) - [iNaturalist](https://www.inaturalist.org/)
@@ -139,7 +146,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-03, 14:50:47](https://lobste.rs/s/lh9rmv/claude_code_found_linux_vulnerability) - [Claude Code Found a Linux Vulnerability Hidden for 23 Years](https://mtlynch.io/claude-code-found-linux-vulnerability/)
 * [2026-04-03, 14:30:48](https://lobste.rs/s/3fprl8/slap_functional_concatenative_language) - [Slap: Functional Concatenative Language... with a Borrow Checker?](https://taylor.town/slap-000)
 * [2026-04-03, 13:28:58](https://news.ycombinator.com/item?id=47626462) - [Big-Endian Testing with QEMU](https://www.hanshq.net/big-endian-qemu.html)
-* [2026-04-03, 12:29:22](https://lobste.rs/s/rsarce/apfel_free_ai_already_on_your_mac) - [apfel: Free AI already on your Mac](https://apfel.franzai.com)
 * [2026-04-03, 12:17:43](https://lobste.rs/s/rw62j7/lisette_rust_syntax_go_runtime) - [Lisette — Rust syntax, Go runtime](https://lisette.run)
 * [2026-04-03, 12:00:00](https://soylentnews.org/article.pl?sid=26/03/31/1458218&amp;from=rss) - [Attorney Hit With Historic Fine for Citing AI-Generated Cases](https://soylentnews.org/article.pl?sid=26/03/31/1458218&amp;from=rss)
 * [2026-04-03, 11:18:16](https://lobste.rs/s/v5xax7/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/v5xax7/what_are_you_doing_this_weekend)
@@ -150,7 +156,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-03, 08:29:40](https://lobste.rs/s/yy4uyc/800_rust_terminal_projects_3_years) - [800 Rust terminal projects in 3 years](https://blog.orhun.dev/800-rust-projects/)
 * [2026-04-03, 07:17:00](https://soylentnews.org/article.pl?sid=26/03/31/1439256&amp;from=rss) - [Wikipedia Has Banned AI-Generated Articles](https://soylentnews.org/article.pl?sid=26/03/31/1439256&amp;from=rss)
 * [2026-04-03, 07:00:00](https://hardware.slashdot.org/story/26/04/02/2323220/renewables-reached-nearly-50-of-global-electricity-capacity-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Renewables Reached Nearly 50% of Global Electricity Capacity Last Year](https://hardware.slashdot.org/story/26/04/02/2323220/renewables-reached-nearly-50-of-global-electricity-capacity-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-03, 03:30:00](https://yro.slashdot.org/story/26/04/02/2310255/epa-flags-microplastics-pharmaceuticals-as-contaminants-in-drinking-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EPA Flags Microplastics, Pharmaceuticals As Contaminants In Drinking Water](https://yro.slashdot.org/story/26/04/02/2310255/epa-flags-microplastics-pharmaceuticals-as-contaminants-in-drinking-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-03, 02:31:00](https://soylentnews.org/article.pl?sid=26/03/31/1431219&amp;from=rss) - [Ancient Alphabets, New Insights: Researchers Uncover Hidden Links Among the Letters](https://soylentnews.org/article.pl?sid=26/03/31/1431219&amp;from=rss)
 * [2026-04-03, 02:29:22](https://news.ycombinator.com/item?id=47622616) - [The Technocracy Movement of the 1930s](https://donotresearch.substack.com/p/welcome-to-the-technocracy)
 * [2026-04-02, 21:41:00](https://soylentnews.org/article.pl?sid=26/03/31/1413235&amp;from=rss) - [Why October 1, 2026, Could be the Day SSL/TLS Certificates &apos;Break the Internet&apos;](https://soylentnews.org/article.pl?sid=26/03/31/1413235&amp;from=rss)
@@ -161,10 +166,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-02, 11:58:52](https://lobste.rs/s/j6uemk/every_dependency_you_add_is_supply_chain) - [Every dependency you add is a supply chain attack waiting to happen](https://benhoyt.com/writings/dependencies/)
 * [2026-04-02, 08:13:00](https://soylentnews.org/article.pl?sid=26/03/31/1354212&amp;from=rss) - [World&apos;s smallest QR code, smaller than bacteria, could store data for centuries  ](https://soylentnews.org/article.pl?sid=26/03/31/1354212&amp;from=rss)
 * [2026-04-02, 03:09:00](https://soylentnews.org/article.pl?sid=26/03/31/1352230&amp;from=rss) - [Google Won&apos;t Block Loading Unverified Apps, but Adds Friction to the Process](https://soylentnews.org/article.pl?sid=26/03/31/1352230&amp;from=rss)
+* [2026-04-02, 00:39:53](https://news.ycombinator.com/item?id=47608604) - [Why LLM-Generated Passwords Are Dangerously Insecure](https://www.irregular.com/publications/vibe-password-generation)
 * [2026-04-01, 22:34:00](https://soylentnews.org/article.pl?sid=26/03/30/1515244&amp;from=rss) - [Tails Linux 7.6 Released: Introduces Automatic Tor Bridges to Bypass Censorship](https://soylentnews.org/article.pl?sid=26/03/30/1515244&amp;from=rss)
-* [2026-04-01, 19:30:34](https://news.ycombinator.com/item?id=47605425) - [Sequential Optimal Packing for PCB Placement](https://blog.autorouting.com/p/sequential-optimal-packing-for-pcb)
+* [2026-04-01, 20:38:24](https://news.ycombinator.com/item?id=47606244) - [Training mRNA Language Models Across 25 Species for $165](https://news.ycombinator.com/item?id=47606244)
 * [2026-04-01, 17:53:00](https://soylentnews.org/article.pl?sid=26/03/30/1513241&amp;from=rss) - [How Graphene Oxide Kills Bacteria While Sparing Human Cells](https://soylentnews.org/article.pl?sid=26/03/30/1513241&amp;from=rss)
 * [2026-04-01, 17:32:00](https://soylentnews.org/article.pl?sid=26/04/01/1726213&amp;from=rss) - [Artemis II Mission is About to Fly Humans to the Moon — Here&apos;s the Science They&apos;ll Do](https://soylentnews.org/article.pl?sid=26/04/01/1726213&amp;from=rss)
+* [2026-04-01, 15:12:24](https://news.ycombinator.com/item?id=47601992) - [The smallest ELF executable (2021)](https://nathanotterness.com/2021/10/tiny_elf_modernized.html)
 * [2026-04-01, 14:13:34](https://news.ycombinator.com/item?id=47601194) - [The Cathedral, the Bazaar, and the Winchester Mystery House](https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html)
 * [2026-04-01, 13:12:00](https://soylentnews.org/article.pl?sid=26/03/30/159237&amp;from=rss) - [US Foreign Router Ban Criticized for Being ‘Industrial Policy Disguised as Cybersecurity’](https://soylentnews.org/article.pl?sid=26/03/30/159237&amp;from=rss)
 * [2026-04-01, 08:32:00](https://soylentnews.org/article.pl?sid=26/03/30/154227&amp;from=rss) - [Running DOOM Over DNS Queries](https://soylentnews.org/article.pl?sid=26/03/30/154227&amp;from=rss)
@@ -172,7 +179,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-01, 05:28:59](https://news.ycombinator.com/item?id=47597159) - [Improving my focus by giving up my big monitor](https://ounapuu.ee/posts/2026/04/01/focus/)
 * [2026-04-01, 03:44:00](https://soylentnews.org/article.pl?sid=26/03/30/151240&amp;from=rss) - [Ranked: The World’s Most Surveilled Cities](https://soylentnews.org/article.pl?sid=26/03/30/151240&amp;from=rss)
 * [2026-03-31, 23:01:00](https://soylentnews.org/article.pl?sid=26/03/30/1458237&amp;from=rss) - [China&apos;s Not Thrilled its AI Experts Want to Leave the Country](https://soylentnews.org/article.pl?sid=26/03/30/1458237&amp;from=rss)
-* [2026-03-31, 19:12:54](https://news.ycombinator.com/item?id=47592068) - [Why Inventing Color TV Was So Difficult [video]](https://www.youtube.com/watch?v=hyjCmIbRRvs)
 * [2026-03-31, 18:13:00](https://soylentnews.org/article.pl?sid=26/03/30/1454213&amp;from=rss) - [Number of AI Chatbots Ignoring Human Instructions is Increasing  ](https://soylentnews.org/article.pl?sid=26/03/30/1454213&amp;from=rss)
 * [2026-03-31, 13:13:20](https://news.ycombinator.com/item?id=47586885) - [What changes when you turn a Linux box into a router](https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/)
 * [2026-03-31, 11:25:00](https://soylentnews.org/article.pl?sid=26/03/30/0239206&amp;from=rss) - [Court Temporarily Blocks US Government From Labeling Anthropic as a &apos;Supply Chain Risk&apos;](https://soylentnews.org/article.pl?sid=26/03/30/0239206&amp;from=rss)
