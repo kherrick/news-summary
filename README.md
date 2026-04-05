@@ -1,56 +1,66 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Machine Learning
+## Emerging Technologies and AI
 
-* [AGI Is Here](https://breaking-changes.blog/agi-is-here/) - A fascinating insight into the present and future of Artificial General Intelligence and its implications. [Comments](https://news.ycombinator.com/item?id=47645810)
+* [Applying machine learning to identify unrecognized Covid-19 deaths in the US](https://www.science.org/doi/10.1126/sciadv.aef5697) ([comments](https://news.ycombinator.com/item?id=47646241))
 
-* [Writing Lisp Is AI Resistant and I'm Sad](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/) - A developer's thoughts on why writing Lisp code is likely resistant to automation by AI, and why this is both a curse and a blessing. [Comments](https://news.ycombinator.com/item?id=47645468)
+* [Introduction to Computer Music [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf) ([comments](https://news.ycombinator.com/item?id=47645432))
 
-* [Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function) - Exploring how large language models process and use emotion concepts in their functionality. [Comments](https://news.ycombinator.com/item?id=47636435)
+* [Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust](https://contrapunk.com/) ([comments](https://news.ycombinator.com/item?id=47645025))
 
-* [Cognitive Surrender Leads AI Users to Abandon Logical Thinking, Research Finds](https://science.slashdot.org/story/26/04/03/2334204/cognitive-surrender-leads-ai-users-to-abandon-logical-thinking-research-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Research investigates how reliance on AI impacts human reasoning. [Comments](https://science.slashdot.org/story/26/04/03/2334204/cognitive-surrender-leads-ai-users-to-abandon-logical-thinking-research-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function) ([comments](https://news.ycombinator.com/item?id=47636435))
 
-## Technology and Engineering
+* [LLM Wiki – example of an 2idea file2](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) ([comments](https://news.ycombinator.com/item?id=47640875))
 
-* [Investigating 3D-Printed Metals for Aeronautical Engineering](https://soylentnews.org/article.pl?sid=26/04/03/0357220&from=rss) - Research into the use of 3D-printed metals for advanced aeronautics. [Comments](https://soylentnews.org/article.pl?sid=26/04/03/0357220&from=rss)
+## Artificial Intelligence and Ethics
 
-* [Apple approves driver that lets Nvidia eGPUs work with Arm Macs](https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs) - Apple gives the green light to Nvidia eGPUs on Arm-based Macs with an approved driver. [Comments](https://news.ycombinator.com/item?id=47640380)
+* [AI that copied musical artist files copyright claim against that artist](https://twitter.com/VladTheInflator/status/2039577001531768906) ([comments](https://news.ycombinator.com/item?id=47645976))
 
-* [The nvim-treesitter repository was archived](https://github.com/nvim-treesitter/nvim-treesitter) - A significant development for Neovim users as the nvim-treesitter repository is archived. [Comments](https://lobste.rs/s/jr4acs/nvim_treesitter_repository_was_archived)
+* [Cognitive Surrender Leads AI Users To Abandon Logical Thinking, Research Finds](https://science.slashdot.org/story/26/04/03/2334204/cognitive-surrender-leads-ai-users-to-abandon-logical-thinking-research-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47639291))
 
-* [Build your own Dial-up ISP with a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/) - A guide to creating your own ISP using a Raspberry Pi, offering a nostalgic tech throwback. [Comments](https://lobste.rs/s/s04of3/build_your_own_dial_up_isp_with_raspberry)
+* [GitHub to Use User Data for AI Training by Default](https://soylentnews.org/article.pl?sid=26/04/02/0226234&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/02/0226234&amp;from=rss))
 
-## Tool Development and Software
+## Programming and Development
 
-* [Show HN: mailtrim – find what's actually filling your Gmail inbox](https://news.ycombinator.com/item?id=47645719) - A new tool designed to analyze and declutter your Gmail inbox. [Comments](https://news.ycombinator.com/item?id=47645719)
+* [Writing Lisp is AI Resistant and I&apos;m Sad — Dan&apos;s Musings](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/) ([comments](https://lobste.rs/s/hfwu86/writing_lisp_is_ai_resistant_i_m_sad_dan_s))
 
-* [Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust](https://contrapunk.com/) - Innovative software that creates real-time counterpoint harmony from guitar input. [Comments](https://news.ycombinator.com/item?id=47645025)
+* [Show HN: I made open source, zero power PCB hackathon badges](https://github.com/KaiPereira/Overglade-Badges) ([comments](https://news.ycombinator.com/item?id=47639303))
 
-* [Show HN: sllm – Split a GPU node with other developers, unlimited tokens](https://sllm.cloud) - A platform that allows developers to share GPU nodes for project use. [Comments](https://news.ycombinator.com/item?id=47639779)
+* [Build your own Dial-up ISP with a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/) ([comments](https://lobste.rs/s/s04of3/build_your_own_dial_up_isp_with_raspberry))
 
-* [Rails on the BEAM](https://intertwingly.net/blog/2026/04/02/Rails-on-the-BEAM.html) - Exploring the combination of Ruby on Rails with the BEAM virtual machine used by Erlang for scalable systems. [Comments](https://lobste.rs/s/mksk9n/rails_on_beam)
+* [Making a Type Checker/LSP for Nix](https://johns.codes/blog/making-a-type-checker-lsp-for-nix) ([comments](https://lobste.rs/s/vintrg/making_type_checker_lsp_for_nix))
 
-## Space and Science
+* [Lisette — Rust syntax, Go runtime](https://lisette.run) ([comments](https://lobste.rs/s/rw62j7/lisette_rust_syntax_go_runtime))
 
-* [Artemis II Astronauts Pass 100,000 Miles From Earth On Voyage To the Moon](https://science.slashdot.org/story/26/04/03/2326236/artemis-ii-astronauts-pass-100000-miles-from-earth-on-voyage-to-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Updates on Artemis II's milestone in space exploration. [Comments](https://science.slashdot.org/story/26/04/03/2326236/artemis-ii-astronauts-pass-100000-miles-from-earth-on-voyage-to-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Software and Hardware
 
-* [Ancient Alphabets, New Insights: Researchers Uncover Hidden Links Among the Letters](https://soylentnews.org/article.pl?sid=26/03/31/1431219&from=rss) - Researchers reveal fascinating connections among ancient alphabets. [Comments](https://soylentnews.org/article.pl?sid=26/03/31/1431219&from=rss)
+* [AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy](https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop) ([comments](https://news.ycombinator.com/item?id=47644864))
 
-* [Scientists Just Spotted a Black Hole Collision That Defies All Odds](https://soylentnews.org/article.pl?sid=26/04/02/0220210&from=rss) - An extraordinary discovery of a black hole collision challenging scientific predictions. [Comments](https://soylentnews.org/article.pl?sid=26/04/02/0220210&from=rss)
+* [Microsoft Pulls Then Re-Issues Windows 11 Preview Update. Also Begins Force-Updating Windows 11](https://tech.slashdot.org/story/26/04/05/001246/microsoft-pulls-then-re-issues-windows-11-preview-update-also-begins-force-updating-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47645168))
 
-## Privacy and Ethics
+## Cybersecurity and Controversies
 
-* [Apple Requires Device-Level Age Verification in the UK Now. Could the US Be Next?](https://soylentnews.org/article.pl?sid=26/04/03/0351210&from=rss) - Exploring the implications of Apple's strict device-level age verification requirements. [Comments](https://soylentnews.org/article.pl?sid=26/04/03/0351210&from=rss)
+* [Top NPM Maintainers Targeted with AI Deepfakes in Massive Supply-Chain Attack, Axios Briefly Compromised](https://it.slashdot.org/story/26/04/05/0316250/top-npm-maintainers-targeted-with-ai-deepfakes-in-massive-supply-chain-attack-axios-briefly-compromised?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47645168))
 
-* [Are Employers Using Your Data To Figure Out the Lowest Salary You'll Accept?](https://it.slashdot.org/story/26/04/04/0420240/are-employers-using-your-data-to-figure-out-the-lowest-salary-you-ll-accept?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A concerning look at how employers might use data to determine acceptable compensation levels. [Comments](https://it.slashdot.org/story/26/04/04/0420240/are-employers-using-your-data-to-figure-out-the-lowest-salary-you-ll-accept?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [America&apos;s CIA Recruited Iran&apos;s Nuclear Scientists - By Threatening To Kill Them](https://news.slashdot.org/story/26/04/04/2055256/americas-cia-recruited-irans-nuclear-scientists---by-threatening-to-kill-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/04/04/2055256/americas-cia-recruited-irans-nuclear-scientists---by-threatening-to-kill-them))
 
-## Innovations and Hacks
+## Science and Engineering Innovations
 
-* [Show HN: TurboQuant-WASM – Google's vector quantization in the browser](https://github.com/teamchong/turboquant-wasm) - A novel WASM project implementing Google's vector quantization in a browser environment. [Comments](https://news.ycombinator.com/item?id=47639567)
+* [Investigating 3D-Printed Metals for Aeronautical Engineering](https://soylentnews.org/article.pl?sid=26/04/03/0357220&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/03/0357220&amp;from=rss))
 
-* [Show HN: I made open source, zero power PCB hackathon badges](https://github.com/KaiPereira/Overglade-Badges) - Open source zero-power PCB badges designed for hackathons. [Comments](https://news.ycombinator.com/item?id=47639303)
+* [How Graphene Oxide Kills Bacteria While Sparing Human Cells](https://soylentnews.org/article.pl?sid=26/03/30/1513241) ([comments](https://soylentnews.org/article.pl?sid=26/03/30/1513241&amp;from=rss))
 
-* [Running DOOM Over DNS Queries](https://soylentnews.org/article.pl?sid=26/03/30/154227&from=rss) - A creative implementation of running the iconic DOOM game via DNS queries. [Comments](https://soylentnews.org/article.pl?sid=26/03/30/154227&from=rss)
+* [Artemis II Astronauts Pass 100,000 Miles From Earth On Voyage To the Moon](https://science.slashdot.org/story/26/04/03/2326236/artemis-ii-astronauts-pass-100000-miles-from-earth-on-voyage-to-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/04/03/2326236/artemis-ii-astronauts-pass-100000-miles-from-earth-on-voyage-to-the-moon))
+
+## Cultural and Societal Insights
+
+* [Advice to young people, the lies I tell myself (2024)](https://jxnl.co/writing/2024/06/01/advice-to-young-people/) ([comments](https://news.ycombinator.com/item?id=47644566))
+
+* [Before Webcomics: Selling Political Cartoons On BBSes In 1992](https://tech.slashdot.org/story/26/04/04/0547259/before-webcomics-selling-political-cartoons-on-bbses-in-1992?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/04/04/0547259/before-webcomics-selling-political-cartoons-on-bbses-in-1992))
+
+* [Making Gamedev Tooling For Windows 3.1 in Turbo C++](https://www.youtube.com/watch?v=-7mc-D5V4L8) ([comments](https://lobste.rs/s/gx4ato/making_gamedev_tooling_for_windows_3_1))
+
+* [Why Lean?](https://leodemoura.github.io/blog/2026-4-2-why-lean/) ([comments](https://lobste.rs/s/063ldo/why_lean))
 
 ---
 
@@ -77,19 +87,22 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-04-05, 03:15:20](https://news.ycombinator.com/item?id=47645810) - [AGI Is Here](https://breaking-changes.blog/agi-is-here/)
-* [2026-04-05, 02:53:21](https://news.ycombinator.com/item?id=47645719) - [Show HN: mailtrim – find what&apos;s actually filling your Gmail inbox](https://news.ycombinator.com/item?id=47645719)
+* [2026-04-05, 05:00:34](https://news.ycombinator.com/item?id=47646241) - [Applying machine learning to identify unrecognized Covid-19 deaths in the US](https://www.science.org/doi/10.1126/sciadv.aef5697)
+* [2026-04-05, 04:36:01](https://lobste.rs/s/hfwu86/writing_lisp_is_ai_resistant_i_m_sad_dan_s) - [Writing Lisp is AI Resistant and I&apos;m Sad — Dan&apos;s Musings](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
+* [2026-04-05, 04:18:56](https://news.ycombinator.com/item?id=47646065) - [What if the browser built the UI for you?](https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/)
+* [2026-04-05, 03:55:10](https://news.ycombinator.com/item?id=47645976) - [AI that copied musical artist files copyright claim against that artist](https://twitter.com/VladTheInflator/status/2039577001531768906)
+* [2026-04-05, 03:47:51](https://lobste.rs/s/05o8yu/if_you_thought_speed_writing_code_was_your) - [If you thought the speed of writing code was your problem - you have bigger problems](https://debuggingleadership.com/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems)
+* [2026-04-05, 03:34:00](https://it.slashdot.org/story/26/04/05/0316250/top-npm-maintainers-targeted-with-ai-deepfakes-in-massive-supply-chain-attack-axios-briefly-compromised?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Top NPM Maintainers Targeted with AI Deepfakes in Massive Supply-Chain Attack, Axios Briefly Compromised](https://it.slashdot.org/story/26/04/05/0316250/top-npm-maintainers-targeted-with-ai-deepfakes-in-massive-supply-chain-attack-axios-briefly-compromised?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-05, 02:02:00](https://soylentnews.org/article.pl?sid=26/04/03/0357220&amp;from=rss) - [Investigating 3D-Printed Metals for Aeronautical Engineering](https://soylentnews.org/article.pl?sid=26/04/03/0357220&amp;from=rss)
-* [2026-04-05, 02:01:31](https://news.ycombinator.com/item?id=47645468) - [Writing Lisp Is AI Resistant and I&apos;m Sad](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
+* [2026-04-05, 02:01:31](https://news.ycombinator.com/item?id=47645468) - [Writing Lisp is AI resistant and I&apos;m sad](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
 * [2026-04-05, 01:54:29](https://news.ycombinator.com/item?id=47645432) - [Introduction to Computer Music [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf)
 * [2026-04-05, 01:53:07](https://lobste.rs/s/uai6zz/setting_up_atkey_pro_usb_fingerprint) - [setting up the atkey.pro usb fingerprint reader in linux -- this should also work for any fido2 u2p usb fingerprint reader; maybe even those $20 ones](https://gist.github.com/charmparticle/a3f3ccb804f9f79115e9d88892363e7f)
 * [2026-04-05, 01:34:00](https://tech.slashdot.org/story/26/04/05/001246/microsoft-pulls-then-re-issues-windows-11-preview-update-also-begins-force-updating-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Pulls Then Re-Issues Windows 11 Preview Update.  Also Begins Force-Updating Windows 11](https://tech.slashdot.org/story/26/04/05/001246/microsoft-pulls-then-re-issues-windows-11-preview-update-also-begins-force-updating-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-05, 01:22:36](https://lobste.rs/s/uvd41y/what_are_senders_good_for_anyway_2024) - [What are Senders Good For, Anyway? (2024)](https://ericniebler.com/2024/02/04/what-are-senders-good-for-anyway/)
 * [2026-04-05, 01:05:19](https://news.ycombinator.com/item?id=47645168) - [Isseven](https://isseven.app/)
-* [2026-04-05, 00:42:42](https://news.ycombinator.com/item?id=47645037) - [Shooting down ideas is not a skill](https://scottlawsonbc.com/post/shooting-down-ideas)
 * [2026-04-05, 00:40:18](https://news.ycombinator.com/item?id=47645025) - [Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust](https://contrapunk.com/)
 * [2026-04-05, 00:13:55](https://news.ycombinator.com/item?id=47644864) - [AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy](https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop)
-* [2026-04-04, 23:18:54](https://news.ycombinator.com/item?id=47644566) - [Advice to Young People, the Lies I Tell Myself (2024)](https://jxnl.co/writing/2024/06/01/advice-to-young-people/)
+* [2026-04-04, 23:18:54](https://news.ycombinator.com/item?id=47644566) - [Advice to young people, the lies I tell myself (2024)](https://jxnl.co/writing/2024/06/01/advice-to-young-people/)
 * [2026-04-04, 22:36:09](https://lobste.rs/s/gx4ato/making_gamedev_tooling_for_windows_3_1) - [Making Gamedev Tooling For Windows 3.1 in Turbo C++](https://www.youtube.com/watch?v=-7mc-D5V4L8)
 * [2026-04-04, 22:34:00](https://news.slashdot.org/story/26/04/04/2055256/americas-cia-recruited-irans-nuclear-scientists---by-threatening-to-kill-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America&apos;s CIA Recruited Iran&apos;s Nuclear Scientists - By Threatening To Kill Them](https://news.slashdot.org/story/26/04/04/2055256/americas-cia-recruited-irans-nuclear-scientists---by-threatening-to-kill-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-04, 21:34:00](https://tech.slashdot.org/story/26/04/04/0547259/before-webcomics-selling-political-cartoons-on-bbses-in-1992?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Before Webcomics: Selling Political Cartoons On BBSes In 1992](https://tech.slashdot.org/story/26/04/04/0547259/before-webcomics-selling-political-cartoons-on-bbses-in-1992?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -123,7 +136,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-04, 11:00:00](https://tech.slashdot.org/story/26/04/03/207238/colorados-new-speed-camera-system-makes-waze-nearly-useless?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Colorado&apos;s New Speed Camera System Makes Waze Nearly Useless](https://tech.slashdot.org/story/26/04/03/207238/colorados-new-speed-camera-system-makes-waze-nearly-useless?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-04, 10:26:21](https://news.ycombinator.com/item?id=47637757) - [Embarrassingly simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193)
 * [2026-04-04, 09:21:44](https://lobste.rs/s/063ldo/why_lean) - [Why Lean?](https://leodemoura.github.io/blog/2026-4-2-why-lean/)
-* [2026-04-04, 09:04:19](https://news.ycombinator.com/item?id=47637287) - [Some Unusual Trees](https://thoughts.wyounas.com/p/some-unusual-trees)
 * [2026-04-04, 07:04:00](https://soylentnews.org/article.pl?sid=26/04/02/0226234&amp;from=rss) - [GitHub to Use User Data for AI Training by Default](https://soylentnews.org/article.pl?sid=26/04/02/0226234&amp;from=rss)
 * [2026-04-04, 07:00:00](https://science.slashdot.org/story/26/04/03/2326236/artemis-ii-astronauts-pass-100000-miles-from-earth-on-voyage-to-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Artemis II Astronauts Pass 100,000 Miles From Earth On Voyage To the Moon](https://science.slashdot.org/story/26/04/03/2326236/artemis-ii-astronauts-pass-100000-miles-from-earth-on-voyage-to-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-04, 06:30:25](https://news.ycombinator.com/item?id=47636435) - [Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function)
@@ -134,9 +146,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-04, 01:40:11](https://lobste.rs/s/exmliu/legibility_is_ruining_you) - [Legibility is Ruining You](https://jimmyhmiller.com/legibility-is-ruining-you)
 * [2026-04-03, 23:00:00](https://tech.slashdot.org/story/26/04/03/2238241/iran-strikes-leave-amazon-availability-zones-hard-down-in-bahrain-and-dubai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Iran Strikes Leave Amazon Availability Zones &apos;Hard Down&apos; In Bahrain and Dubai](https://tech.slashdot.org/story/26/04/03/2238241/iran-strikes-leave-amazon-availability-zones-hard-down-in-bahrain-and-dubai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-03, 22:00:00](https://slashdot.org/story/26/04/03/1914243/microsoft-to-invest-10-billion-in-japan-for-ai-cyber-defense-expansion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft To Invest $10 Billion In Japan For AI, Cyber Defense Expansion](https://slashdot.org/story/26/04/03/1914243/microsoft-to-invest-10-billion-in-japan-for-ai-cyber-defense-expansion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-03, 21:44:29](https://lobste.rs/s/mksk9n/rails_on_beam) - [Rails on the BEAM](https://intertwingly.net/blog/2026/04/02/Rails-on-the-BEAM.html)
 * [2026-04-03, 21:35:00](https://soylentnews.org/article.pl?sid=26/04/02/0220210&amp;from=rss) - [Scientists Just Spotted a Black Hole Collision That Defies All Odds](https://soylentnews.org/article.pl?sid=26/04/02/0220210&amp;from=rss)
-* [2026-04-03, 21:00:00](https://yro.slashdot.org/story/26/04/03/197223/netflix-must-refund-customers-for-years-of-price-hikes-italian-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Netflix Must Refund Customers For Years of Price Hikes, Italian Court Rules](https://yro.slashdot.org/story/26/04/03/197223/netflix-must-refund-customers-for-years-of-price-hikes-italian-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-03, 20:49:12](https://lobste.rs/s/uagdwq/why_nobody_can_verify_what_booted_your) - [Why Nobody Can Verify What Booted Your Server](https://unmitigatedrisk.com/?p=1231)
 * [2026-04-03, 17:36:21](https://lobste.rs/s/vintrg/making_type_checker_lsp_for_nix) - [Making a Type Checker/LSP for Nix](https://johns.codes/blog/making-a-type-checker-lsp-for-nix)
 * [2026-04-03, 17:27:41](https://news.ycombinator.com/item?id=47629485) - [A case study in testing with 100+ Claude agents in parallel](https://imbue.com/product/mngr_part_2/)
@@ -147,7 +157,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-03, 14:30:48](https://lobste.rs/s/3fprl8/slap_functional_concatenative_language) - [Slap: Functional Concatenative Language... with a Borrow Checker?](https://taylor.town/slap-000)
 * [2026-04-03, 12:17:43](https://lobste.rs/s/rw62j7/lisette_rust_syntax_go_runtime) - [Lisette — Rust syntax, Go runtime](https://lisette.run)
 * [2026-04-03, 12:00:00](https://soylentnews.org/article.pl?sid=26/03/31/1458218&amp;from=rss) - [Attorney Hit With Historic Fine for Citing AI-Generated Cases](https://soylentnews.org/article.pl?sid=26/03/31/1458218&amp;from=rss)
-* [2026-04-03, 11:08:54](https://lobste.rs/s/vtqfx7/idiomatic_lisp_nbody_benchmark) - [Idiomatic Lisp and the nbody benchmark](https://www.stylewarning.com/posts/nbody/)
 * [2026-04-03, 09:53:22](https://lobste.rs/s/kltbuq/adobe_wrote_my_hosts_file) - [Adobe wrote to my hosts file](https://www.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/)
 * [2026-04-03, 09:52:11](https://lobste.rs/s/unme8t/ssh_certificates_better_ssh_experience) - [SSH certificates: the better SSH experience](https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/)
 * [2026-04-03, 07:17:00](https://soylentnews.org/article.pl?sid=26/03/31/1439256&amp;from=rss) - [Wikipedia Has Banned AI-Generated Articles](https://soylentnews.org/article.pl?sid=26/03/31/1439256&amp;from=rss)
@@ -156,15 +165,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-02, 17:00:00](https://soylentnews.org/article.pl?sid=26/03/31/140207&amp;from=rss) - [Ubuntu MATE Founder Martin Wimpress Steps Back After 12 Years](https://soylentnews.org/article.pl?sid=26/03/31/140207&amp;from=rss)
 * [2026-04-02, 13:54:12](https://news.ycombinator.com/item?id=47614532) - [Ruckus: Racket for iOS](https://ruckus.defn.io/)
 * [2026-04-02, 12:42:00](https://soylentnews.org/article.pl?sid=26/03/31/147230&amp;from=rss) - [Euro-Office is a Free, Open-Source Alternative to Microsoft 365 and Google Docs](https://soylentnews.org/article.pl?sid=26/03/31/147230&amp;from=rss)
+* [2026-04-02, 11:44:01](https://news.ycombinator.com/item?id=47613118) - [Show HN: I built a small app for FSI German Course](https://detawk.com/)
 * [2026-04-02, 09:24:07](https://news.ycombinator.com/item?id=47611993) - [VR Realizes the Cyberspace Metaphor](https://yadin.com/notes/vr-disrupts/)
 * [2026-04-02, 08:13:00](https://soylentnews.org/article.pl?sid=26/03/31/1354212&amp;from=rss) - [World&apos;s smallest QR code, smaller than bacteria, could store data for centuries  ](https://soylentnews.org/article.pl?sid=26/03/31/1354212&amp;from=rss)
 * [2026-04-02, 03:09:00](https://soylentnews.org/article.pl?sid=26/03/31/1352230&amp;from=rss) - [Google Won&apos;t Block Loading Unverified Apps, but Adds Friction to the Process](https://soylentnews.org/article.pl?sid=26/03/31/1352230&amp;from=rss)
 * [2026-04-01, 22:34:00](https://soylentnews.org/article.pl?sid=26/03/30/1515244&amp;from=rss) - [Tails Linux 7.6 Released: Introduces Automatic Tor Bridges to Bypass Censorship](https://soylentnews.org/article.pl?sid=26/03/30/1515244&amp;from=rss)
-* [2026-04-01, 20:38:24](https://news.ycombinator.com/item?id=47606244) - [Training mRNA Language Models Across 25 Species for $165](https://news.ycombinator.com/item?id=47606244)
-* [2026-04-01, 18:32:05](https://news.ycombinator.com/item?id=47604698) - [Functional programming accellerates agentic feature development](https://cyrusradfar.com/thoughts/functional-programming-is-the-only-way-to-scale-with-ai)
+* [2026-04-01, 18:47:48](https://news.ycombinator.com/item?id=47604887) - [Electrical transformer manufacturing is throttling the electrified future](https://www.bloomberg.com/features/2025-bottlenecks-transformers/)
 * [2026-04-01, 17:53:00](https://soylentnews.org/article.pl?sid=26/03/30/1513241&amp;from=rss) - [How Graphene Oxide Kills Bacteria While Sparing Human Cells](https://soylentnews.org/article.pl?sid=26/03/30/1513241&amp;from=rss)
 * [2026-04-01, 17:32:00](https://soylentnews.org/article.pl?sid=26/04/01/1726213&amp;from=rss) - [Artemis II Mission is About to Fly Humans to the Moon — Here&apos;s the Science They&apos;ll Do](https://soylentnews.org/article.pl?sid=26/04/01/1726213&amp;from=rss)
 * [2026-04-01, 13:12:00](https://soylentnews.org/article.pl?sid=26/03/30/159237&amp;from=rss) - [US Foreign Router Ban Criticized for Being ‘Industrial Policy Disguised as Cybersecurity’](https://soylentnews.org/article.pl?sid=26/03/30/159237&amp;from=rss)
+* [2026-04-01, 09:54:18](https://news.ycombinator.com/item?id=47598835) - [Rubysyn: Clarifying Ruby&apos;s Syntax and Semantics](https://github.com/squadette/rubysyn/blob/master/README.md)
 * [2026-04-01, 08:32:00](https://soylentnews.org/article.pl?sid=26/03/30/154227&amp;from=rss) - [Running DOOM Over DNS Queries](https://soylentnews.org/article.pl?sid=26/03/30/154227&amp;from=rss)
 * [2026-04-01, 03:44:00](https://soylentnews.org/article.pl?sid=26/03/30/151240&amp;from=rss) - [Ranked: The World’s Most Surveilled Cities](https://soylentnews.org/article.pl?sid=26/03/30/151240&amp;from=rss)
 * [2026-04-01, 01:31:46](https://news.ycombinator.com/item?id=47595695) - [OpenScreen is an open-source alternative to Screen Studio](https://github.com/siddharthvaddem/openscreen)
