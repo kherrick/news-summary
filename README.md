@@ -1,24 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Innovations and Discoveries
+## AI Innovations and Impacts
 
-* [Using Discord on Plan 9](https://pmikkelsen.com/plan9/discord) - A guide on using the popular chat platform Discord seamlessly on the niche Plan 9 operating system. [Comments](https://lobste.rs/s/qiva5o/using_discord_on_plan_9)
+* [AI Singer Now Occupies Eleven Spots on iTunes Singles Chart](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive) - [Showcasing the rise of AI-generated music dominating mainstream platforms.](https://news.ycombinator.com/item?id=47662596)
 
-* [An Elm-inspired language that compiles to Go, Hindley-Milner types, server-driven UI, single binary output](https://github.com/anzellai/sky) - Introduction to a new programming language combining the elegance of Elm and the robustness of Go. [Comments](https://lobste.rs/s/hxiivt/elm_inspired_language_compiles_go)
+* [When Virality Is the Message: The New Age of AI Propaganda](https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/) - [Examines how AI amplifies propaganda through viral content online.](https://news.ycombinator.com/item?id=47661231)
 
-* [Introducing profiling-explorer](https://adamj.eu/tech/2026/04/03/python-introducing-profiling-explorer/) - A new Python tool for profiling and optimizing code. [Comments](https://lobste.rs/s/jgvhjn/introducing_profiling_explorer)
+* [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm) - [An open-source initiative to better understand the workings of language models.](https://news.ycombinator.com/item?id=47655408)
 
-* [Make your own ColecoVision at home, part 5](https://www.leadedsolder.com/2026/03/24/colecovision-diy-part-5.html) - A retro DIY guide to creating your own ColecoVision console. [Comments](https://lobste.rs/s/omgusm/make_your_own_colecovision_at_home_part_5)
+## Technology and Digital Privacy
 
-* [Fossils Reveal Many Complex Animals Existed Before the Cambrian Explosion](https://soylentnews.org/article.pl?sid=26/04/05/0214222&from=rss) - Cutting-edge research unveiling pre-Cambrian complex life. [Comments](https://soylentnews.org/article.pl?sid=26/04/05/0214222&from=rss)
+* [Copilot Is 'For Entertainment Purposes Only,' According To Microsoft's ToS](https://slashdot.org/story/26/04/06/046228/copilot-is-for-entertainment-purposes-only-according-to-microsofts-tos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Discussion on Microsoft's peculiar stance on its AI-assisted coding platform.](https://news.ycombinator.com/item?id=47662658)
 
-## AI and Data Insights
+* [Someone at BrowserStack is Leaking Users' Email Address](https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/) - [Concerns raised over potential security vulnerabilities at BrowserStack.](https://lobste.rs/s/7qqnze/someone_at_browserstack_is_leaking_users)
 
-* [France pulls last gold held in US for $15B gain](https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/) - France successfully repatriates gold reserves from the US amidst economic motivations. [Comments](https://news.ycombinator.com/item?id=47658146)
+## Tech and Society
 
-* [Employers use your personal data to figure out the lowest salary you&apos;ll accept](https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb) - Critical insights into how companies analyze data to determine minimum salaries. [Comments](https://news.ycombinator.com/item?id=47655466)
+* [81yo Dodgers fan can no longer get tickets because he doesn't have a smartphone](https://twitter.com/Suzierizzo1/status/2040864617467924865) - [Technological access barriers impacting inclusivity.](https://news.ycombinator.com/item?id=47662857)
 
-* [Claude Code Leak Reveals a &apos;Stealth&apos; Mode for GenAI Code Contributions - and a &apos;Frustration Words&apos; Regex](https://developers.slashdot.org/story/26/04/05/2339243/claude-code-leak-reveals-a-stealth-mode-for-genai-code-contributions---and-a-frustration-words-regex?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Analyzing recent revelations about Claude's AI privacy and security. [Comments](https://developers.slashdot.org/story/26/04/05/2339243/claude-code-leak)
+* [The machines are fine. I'm worried about us](https://ergosphere.blog/posts/the-machines-are-fine/) - [A thought-provoking perspective on humanity and technology.](https://lobste.rs/s/3w0o3y/machines_are_fine_i_m_worried_about_us)
+
+## Software and Technical Developments
+
+* [sc-im Spreadsheets in Your Terminal](https://github.com/andmarti1424/sc-im) - [A lightweight alternative to traditional spreadsheet tools.](https://news.ycombinator.com/item?id=47662658)
+
+* [OverlayFS for RedoxOS](https://scientiac.space/blog/redox-overlayfs/) - [Enhancing RedoxOS with overlay file system support.](https://lobste.rs/s/dltblc/overlayfs_for_redoxos)
+
+* [Using Discord on Plan 9](https://pmikkelsen.com/plan9/discord) - [A deep dive into using modern tools on unconventional operating systems.](https://lobste.rs/s/qiva5o/using_discord_on_plan_9)
+
+## Space and Astronomy Discoveries
+
+* [Artemis Astronauts Enter Moon's Gravitational Pull, Catch First Glimpses of Far Side](https://science.slashdot.org/story/26/04/06/0228229/artemis-astronauts-enter-moons-gravitational-pull-catch-first-glimpses-of-far-side?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New milestones for NASA's Artemis mission to explore the Moon.](https://news.ycombinator.com/item?id=47673746)
+
+## Historical Discoveries and Fascinations
+
+* [Fossils Reveal Many Complex Animals Existed Before the Cambrian Explosion](https://soylentnews.org/article.pl?sid=26/04/05/0214222&amp;from=rss) - [Challenging previous assumptions about the timeline of Earth’s evolution.](https://soylentnews.org/article.pl?sid=26/04/05/0214222&amp;from=rss)
+
+## Surprising Developments in Science and Engineering
+
+* [Scientists Engineer a Plant to Produce 5 Different Psychedelics at Once](https://science.slashdot.org/story/26/04/04/021228/scientists-engineered-a-plant-to-produce-5-different-psychedelics-at-once?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Revolutionizing the pharmaceutical industry through engineered plants.](https://science.slashdot.org/story/26/04/04/021228/scientists-engineered-a-plant-to-produce-5-different-psychedelics-at-once?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [An open-source 240-antenna array to bounce signals off the Moon](https://moonrf.com/) - [Innovative space exploration technology unveiled.](https://news.ycombinator.com/item?id=47656622)
+
+* [Linux Finally Starts Removing Support for Intel's 37-Year-Old i486 Processor](https://linux.slashdot.org/story/26/04/06/0358212/linux-finally-starts-removing-support-for-intels-37-year-old-i486-processor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Marking the end of an era for computing legacy hardware.](https://linux.slashdot.org/story/26/04/06/0358212/linux-finally-starts-removing-support-for-intels-37-year-old-i486-processor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
 ---
 
@@ -45,19 +69,31 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-04-06, 16:15:41](https://news.ycombinator.com/item?id=47662857) - [81yo Dodgers fan can no longer get tickets because he doesn&apos;t have a smartphone](https://twitter.com/Suzierizzo1/status/2040864617467924865)
+* [2026-04-06, 16:00:29](https://news.ycombinator.com/item?id=47662658) - [sc-im Spreadsheets in Your Terminal](https://github.com/andmarti1424/sc-im)
+* [2026-04-06, 16:00:20](https://lobste.rs/s/dltblc/overlayfs_for_redoxos) - [OverlayFS for RedoxOS](https://scientiac.space/blog/redox-overlayfs/)
+* [2026-04-06, 16:00:00](https://news.slashdot.org/story/26/04/06/0412251/peter-thiel-is-betting-big-on-solar-powered-cow-collars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Peter Thiel Is Betting Big On Solar-Powered Cow Collars](https://news.slashdot.org/story/26/04/06/0412251/peter-thiel-is-betting-big-on-solar-powered-cow-collars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-06, 15:57:07](https://news.ycombinator.com/item?id=47662596) - [AI Singer Now Occupies Eleven Spots on iTunes Singles Chart](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
+* [2026-04-06, 15:46:56](https://news.ycombinator.com/item?id=47662442) - [More Americans Are Breaking into the Upper Middle Class](https://www.wsj.com/economy/more-americans-are-breaking-into-the-upper-middle-class-bf8b7cb2)
+* [2026-04-06, 15:40:49](https://news.ycombinator.com/item?id=47662350) - [Anthropic is burning more and more dev goodwill](https://twitter.com/GergelyOrosz/status/2041133254586122605)
+* [2026-04-06, 15:00:00](https://slashdot.org/story/26/04/06/046228/copilot-is-for-entertainment-purposes-only-according-to-microsofts-tos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Copilot Is &apos;For Entertainment Purposes Only,&apos; According To Microsoft&apos;s ToS](https://slashdot.org/story/26/04/06/046228/copilot-is-for-entertainment-purposes-only-according-to-microsofts-tos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-06, 14:31:29](https://news.ycombinator.com/item?id=47661439) - [I Won&apos;t Download Your App. The Web Version Is A-OK](https://www.0xsid.com/blog/wont-download-your-app)
+* [2026-04-06, 14:18:47](https://lobste.rs/s/uud7zb/i_tried_vibing_rss_reader_my_dreams_did_not) - [I Tried Vibing an RSS Reader and My Dreams Did Not Come True](https://blog.jim-nielsen.com/2026/vibe-dreams-didnt-come-true/)
+* [2026-04-06, 14:16:35](https://news.ycombinator.com/item?id=47661231) - [When Virality Is the Message: The New Age of AI Propaganda](https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/)
+* [2026-04-06, 13:52:37](https://news.ycombinator.com/item?id=47660954) - [Germany Doxes \&quot;UNKN,\&quot; Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
+* [2026-04-06, 13:50:35](https://news.ycombinator.com/item?id=47660925) - [Claude Code is unusable for complex engineering tasks with the Feb updates](https://github.com/anthropics/claude-code/issues/42796)
+* [2026-04-06, 13:44:01](https://news.ycombinator.com/item?id=47660853) - [Book Review: There Is No Antimemetics Division](https://www.stephendiehl.com/posts/no_antimimetics/)
 * [2026-04-06, 13:21:35](https://lobste.rs/s/qiva5o/using_discord_on_plan_9) - [Using Discord on Plan 9](https://pmikkelsen.com/plan9/discord)
+* [2026-04-06, 13:21:04](https://lobste.rs/s/p8mdic/building_diy_openclaw) - [Building a DIY OpenClaw](https://ben.page/claude-mac)
 * [2026-04-06, 12:59:33](https://news.ycombinator.com/item?id=47660343) - [PostHog (YC W20) Is Hiring](https://news.ycombinator.com/item?id=47660343)
 * [2026-04-06, 12:53:58](https://lobste.rs/s/h1yxwk/real_world_case_property_based) - [A real-world case of property-based verification](https://ochagavia.nl/blog/a-real-world-case-of-property-based-verification/)
 * [2026-04-06, 12:53:41](https://news.ycombinator.com/item?id=47660286) - [What Being Ripped Off Taught Me](https://belief.horse/notes/what-being-ripped-off-taught-me/)
 * [2026-04-06, 12:20:29](https://lobste.rs/s/6hrzg5/growing_yggdrasil_world_tree_with_ash) - [Growing Yggdrasil, the World Tree, with Ash](https://www.newresalhaider.com/post/yggdrasil/)
 * [2026-04-06, 12:08:46](https://lobste.rs/s/3w0o3y/machines_are_fine_i_m_worried_about_us) - [The machines are fine. I&apos;m worried about us](https://ergosphere.blog/posts/the-machines-are-fine/)
-* [2026-04-06, 11:39:03](https://news.ycombinator.com/item?id=47659609) - [Tiny Corp&apos;s Exabox](https://twitter.com/__tinygrad__/status/2040944508402360592)
 * [2026-04-06, 11:34:00](https://linux.slashdot.org/story/26/04/06/0358212/linux-finally-starts-removing-support-for-intels-37-year-old-i486-processor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linux Finally Starts Removing Support for Intel&apos;s 37-Year-Old i486 Processor](https://linux.slashdot.org/story/26/04/06/0358212/linux-finally-starts-removing-support-for-intels-37-year-old-i486-processor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-06, 11:23:00](https://soylentnews.org/article.pl?sid=26/04/05/0214222&amp;from=rss) - [Fossils Reveal Many Complex Animals Existed Before the Cambrian Explosion](https://soylentnews.org/article.pl?sid=26/04/05/0214222&amp;from=rss)
-* [2026-04-06, 10:54:11](https://news.ycombinator.com/item?id=47659252) - [Is Germany&apos;s gold safe in New York ?](https://www.dw.com/en/is-germanys-gold-safe-in-new-york/video-75766873)
 * [2026-04-06, 10:46:03](https://lobste.rs/s/jgvhjn/introducing_profiling_explorer) - [Introducing profiling-explorer](https://adamj.eu/tech/2026/04/03/python-introducing-profiling-explorer/)
 * [2026-04-06, 10:20:56](https://lobste.rs/s/7qqnze/someone_at_browserstack_is_leaking_users) - [Someone at BrowserStack is Leaking Users&apos; Email Address](https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/)
-* [2026-04-06, 09:39:17](https://news.ycombinator.com/item?id=47658743) - [Number in man page titles e.g. sleep(3)](https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/)
 * [2026-04-06, 08:12:51](https://lobste.rs/s/hxiivt/elm_inspired_language_compiles_go) - [An Elm-inspired language that compiles to Go, Hindley-Milner types, server-driven UI, single binary output](https://github.com/anzellai/sky)
 * [2026-04-06, 08:03:43](https://news.ycombinator.com/item?id=47658146) - [France pulls last gold held in US for $15B gain](https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/)
 * [2026-04-06, 07:34:00](https://tech.slashdot.org/story/26/04/06/033247/russias-vpn-crackdown-caused-bank-outages-telegram-founder-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Russia&apos;s VPN Crackdown Caused Bank Outages, Telegram Founder Says](https://tech.slashdot.org/story/26/04/06/033247/russias-vpn-crackdown-caused-bank-outages-telegram-founder-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -65,9 +101,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-06, 07:03:43](https://lobste.rs/s/nnh9qk/easters_adventofcode_like_challenge_for) - [Easters - an adventofcode-like challenge for easter](https://easters.dev/)
 * [2026-04-06, 06:35:00](https://soylentnews.org/article.pl?sid=26/04/05/026223&amp;from=rss) - [AMD&apos;s New Desktop CPU Oozes Cache Out of All 16 Cores](https://soylentnews.org/article.pl?sid=26/04/05/026223&amp;from=rss)
 * [2026-04-06, 06:13:31](https://lobste.rs/s/dpkqgr/dev_css_tiny_simple_classless_css) - [dev.css: tiny, simple, classless CSS framework inspired by new.css](https://tangled.org/devins.page/dev.css)
+* [2026-04-06, 05:01:47](https://lobste.rs/s/miurfk/packaging_init_systems) - [Packaging and Init Systems](https://s3kshun8.games/blog/flatpak-won/)
 * [2026-04-06, 04:41:00](https://science.slashdot.org/story/26/04/06/0228229/artemis-astronauts-enter-moons-gravitational-pull-catch-first-glimpses-of-far-side?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Artemis Astronauts Enter Moon&apos;s Gravitational Pull, Catch First Glimpses of Far Side](https://science.slashdot.org/story/26/04/06/0228229/artemis-astronauts-enter-moons-gravitational-pull-catch-first-glimpses-of-far-side?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-06, 04:24:49](https://news.ycombinator.com/item?id=47656981) - [Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair](https://drop.com/)
-* [2026-04-06, 03:44:40](https://lobste.rs/s/omgusm/make_your_own_colecovision_at_home_part_5) - [Make your own ColecoVision at home, part 5](https://www.leadedsolder.com/2026/03/24/colecovision-diy-part-5.html)
 * [2026-04-06, 03:22:42](https://news.ycombinator.com/item?id=47656622) - [An open-source 240-antenna array to bounce signals off the Moon](https://moonrf.com/)
 * [2026-04-06, 03:12:39](https://lobste.rs/s/cwbgnf/size_matters_even_on_very_fast) - [Size matters, even on very fast connections](https://maurycyz.com/misc/13kb/)
 * [2026-04-06, 03:03:22](https://news.ycombinator.com/item?id=47656501) - [The 1987 game “The Last Ninja” was 40 kilobytes](https://twitter.com/exQUIZitely/status/2040777977521398151)
@@ -76,17 +112,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-06, 02:07:55](https://lobste.rs/s/g0kwsq/endian_wars_anti_portability) - [Endian wars and anti-portability](https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/)
 * [2026-04-06, 01:54:00](https://soylentnews.org/article.pl?sid=26/04/05/021235&amp;from=rss) - [The &apos;Engineering of Addiction&apos;  - 3 Ways Meta and YouTube Are Claimed to Have Harmed  Users](https://soylentnews.org/article.pl?sid=26/04/05/021235&amp;from=rss)
 * [2026-04-06, 01:34:00](https://it.slashdot.org/story/26/04/06/0113254/internet-bug-bounty-pauses-payouts-citing-expanding-discovery-from-ai-assisted-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Internet Bug Bounty Pauses Payouts, Citing &apos;Expanding Discovery&apos; From AI-Assisted Research](https://it.slashdot.org/story/26/04/06/0113254/internet-bug-bounty-pauses-payouts-citing-expanding-discovery-from-ai-assisted-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-06, 01:33:00](https://news.ycombinator.com/item?id=47655905) - [Usenet Archives](https://usenetarchives.com)
-* [2026-04-06, 00:29:08](https://news.ycombinator.com/item?id=47655466) - [Employers use your personal data to figure out the lowest salary you&apos;ll accept](https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb)
 * [2026-04-06, 00:20:12](https://news.ycombinator.com/item?id=47655408) - [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm)
 * [2026-04-06, 00:18:26](https://news.ycombinator.com/item?id=47655392) - [Show HN: I made a YouTube search form with advanced filters](https://playlists.at/youtube/search/)
 * [2026-04-06, 00:14:37](https://news.ycombinator.com/item?id=47655367) - [Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud](https://github.com/kessler/gemma-gem)
-* [2026-04-05, 23:59:10](https://news.ycombinator.com/item?id=47655268) - [Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf](https://github.com/mohshomis/modo)
 * [2026-04-05, 23:41:00](https://developers.slashdot.org/story/26/04/05/2339243/claude-code-leak-reveals-a-stealth-mode-for-genai-code-contributions---and-a-frustration-words-regex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Claude Code Leak Reveals a &apos;Stealth&apos; Mode for GenAI Code Contributions - and a &apos;Frustration Words&apos; Regex](https://developers.slashdot.org/story/26/04/05/2339243/claude-code-leak-reveals-a-stealth-mode-for-genai-code-contributions---and-a-frustration-words-regex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-05, 22:39:00](https://entertainment.slashdot.org/story/26/04/05/2236255/hundreds-of-theatres-show-apocalyptic-yet-optimistic-new-movie-the-ai-doc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hundreds of Theatres Show Apocalyptic-Yet-Optimistic New Movie, &apos;The AI Doc&apos; ](https://entertainment.slashdot.org/story/26/04/05/2236255/hundreds-of-theatres-show-apocalyptic-yet-optimistic-new-movie-the-ai-doc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-05, 21:22:00](https://news.slashdot.org/story/26/04/05/2119210/will-ai-assisted-journalists-bring-errors-and-retractions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Will &apos;AI-Assisted&apos; Journalists Bring Errors and Retractions?](https://news.slashdot.org/story/26/04/05/2119210/will-ai-assisted-journalists-bring-errors-and-retractions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-05, 21:04:00](https://soylentnews.org/article.pl?sid=26/04/04/0231228&amp;from=rss) - [‘Shockingly Bad’: Nissan Leaf Drivers Voice Anger Over App Shutdown](https://soylentnews.org/article.pl?sid=26/04/04/0231228&amp;from=rss)
-* [2026-04-05, 19:52:41](https://lobste.rs/s/z4zroy/parsing_asciidoc_prolog) - [Parsing AsciiDoc in Prolog](https://github.com/alexpdp7/prolog-asciidoc/blob/main/parsing-asciidoc-in-prolog.adoc)
 * [2026-04-05, 19:47:13](https://lobste.rs/s/avubpi/can_we_measure_software_slop_experiment) - [Can We Measure Software Slop? An Experiment](https://pscanf.com/s/352/)
 * [2026-04-05, 19:36:05](https://lobste.rs/s/itmyc4/unnix_reproducible_nix_environments) - [unnix: Reproducible Nix environments without installing Nix](https://github.com/figsoda/unnix)
 * [2026-04-05, 18:45:53](https://news.ycombinator.com/item?id=47652561) - [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)
@@ -101,24 +133,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-05, 16:59:29](https://lobste.rs/s/faksz1/stamp_it_all_programs_must_report_their) - [Stamp It! All Programs Must Report Their Version](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/)
 * [2026-04-05, 16:34:00](https://slashdot.org/story/26/04/05/0031201/chrome-148-will-start-lazy-loading-video-and-audio-to-improve-performance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chrome 148 Will Start &apos;Lazy Loading&apos; Video and Audio to Improve Performance](https://slashdot.org/story/26/04/05/0031201/chrome-148-will-start-lazy-loading-video-and-audio-to-improve-performance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-05, 16:13:00](https://soylentnews.org/article.pl?sid=26/04/04/0228218&amp;from=rss) - [Data Centers Causing Huge Temperature Spikes for Miles Around Them, Study Suggests](https://soylentnews.org/article.pl?sid=26/04/04/0228218&amp;from=rss)
-* [2026-04-05, 15:38:18](https://news.ycombinator.com/item?id=47650502) - [Computational Physics (2nd Edition) (2025)](https://websites.umich.edu/~mejn/cp2/)
 * [2026-04-05, 15:34:00](https://science.slashdot.org/story/26/04/04/021228/scientists-engineered-a-plant-to-produce-5-different-psychedelics-at-once?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Engineered a Plant To Produce 5 Different Psychedelics At Once](https://science.slashdot.org/story/26/04/04/021228/scientists-engineered-a-plant-to-produce-5-different-psychedelics-at-once?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-05, 15:18:01](https://news.ycombinator.com/item?id=47650312) - [A tail-call interpreter in (nightly) Rust](https://www.mattkeeter.com/blog/2026-04-05-tailcall/)
 * [2026-04-05, 15:12:55](https://lobste.rs/s/gpqkcx/eight_years_wanting_three_months) - [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/)
-* [2026-04-05, 14:25:45](https://lobste.rs/s/dmdvje/dpi_bypass_using_ebpf_sock_ops_fake_tls) - [DPI bypass using eBPF sock_ops and fake TLS ClientHello injection](https://github.com/boratanrikulu/gecit)
 * [2026-04-05, 13:19:50](https://lobste.rs/s/ektobz/tail_call_interpreter_nightly_rust) - [A tail-call interpreter in (nightly) Rust](https://www.mattkeeter.com/blog/2026-04-05-tailcall/)
-* [2026-04-05, 12:43:47](https://news.ycombinator.com/item?id=47648828) - [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/)
 * [2026-04-05, 11:41:00](https://soylentnews.org/article.pl?sid=26/04/04/0223207&amp;from=rss) - [Security Researchers Scoured the Web and Found Hundreds of Valid API Keys](https://soylentnews.org/article.pl?sid=26/04/04/0223207&amp;from=rss)
 * [2026-04-05, 11:34:00](https://news.slashdot.org/story/26/04/04/2158228/does-ubuntu-now-require-more-ram-than-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Does Ubuntu Now Require More RAM Than Windows 11?](https://news.slashdot.org/story/26/04/04/2158228/does-ubuntu-now-require-more-ram-than-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-05, 09:42:46](https://lobste.rs/s/8o6hst/roogle_rust_api_search_engine) - [Roogle: A Rust API search engine](https://github.com/roogle-rs/roogle)
-* [2026-04-05, 08:56:18](https://news.ycombinator.com/item?id=47647455) - [Caveman: Why use many token when few token do trick](https://github.com/JuliusBrussee/caveman)
 * [2026-04-05, 07:34:00](https://apple.slashdot.org/story/26/04/05/0628250/apples-first-50-years-celebrated---including-how-steve-jobs-finally-accepted-an-open-app-store?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s First 50 Years Celebrated - Including How Steve Jobs Finally Accepted an &apos;Open&apos; App Store](https://apple.slashdot.org/story/26/04/05/0628250/apples-first-50-years-celebrated---including-how-steve-jobs-finally-accepted-an-open-app-store?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-05, 06:49:00](https://soylentnews.org/article.pl?sid=26/04/03/040255&amp;from=rss) - [VitruvianOS 0.3 Debuts as Haiku-Inspired Linux OS Without X11 or Wayland](https://soylentnews.org/article.pl?sid=26/04/03/040255&amp;from=rss)
 * [2026-04-05, 05:37:00](https://soylentnews.org/breakingnews/article.pl?sid=26/04/05/0541233&amp;from=rss) - [2nd Crew Member of F15E Has Been Rescued.](https://soylentnews.org/breakingnews/article.pl?sid=26/04/05/0541233&amp;from=rss)
 * [2026-04-05, 03:47:51](https://lobste.rs/s/05o8yu/if_you_thought_speed_writing_code_was_your) - [If you thought the speed of writing code was your problem - you have bigger problems](https://debuggingleadership.com/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems)
-* [2026-04-05, 03:34:00](https://it.slashdot.org/story/26/04/05/0316250/top-npm-maintainers-targeted-with-ai-deepfakes-in-massive-supply-chain-attack-axios-briefly-compromised?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Top NPM Maintainers Targeted with AI Deepfakes in Massive Supply-Chain Attack, Axios Briefly Compromised](https://it.slashdot.org/story/26/04/05/0316250/top-npm-maintainers-targeted-with-ai-deepfakes-in-massive-supply-chain-attack-axios-briefly-compromised?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-05, 02:02:00](https://soylentnews.org/article.pl?sid=26/04/03/0357220&amp;from=rss) - [Investigating 3D-Printed Metals for Aeronautical Engineering](https://soylentnews.org/article.pl?sid=26/04/03/0357220&amp;from=rss)
-* [2026-04-05, 01:34:00](https://tech.slashdot.org/story/26/04/05/001246/microsoft-pulls-then-re-issues-windows-11-preview-update-also-begins-force-updating-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Pulls Then Re-Issues Windows 11 Preview Update.  Also Begins Force-Updating Windows 11](https://tech.slashdot.org/story/26/04/05/001246/microsoft-pulls-then-re-issues-windows-11-preview-update-also-begins-force-updating-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-04, 21:18:00](https://soylentnews.org/article.pl?sid=26/04/03/0351210&amp;from=rss) - [Apple Requires Device-Level Age Verification in the UK Now. Could the US Be Next?](https://soylentnews.org/article.pl?sid=26/04/03/0351210&amp;from=rss)
 * [2026-04-04, 18:36:53](https://lobste.rs/s/jr4acs/nvim_treesitter_repository_was_archived) - [The nvim-treesitter repository was archived](https://github.com/nvim-treesitter/nvim-treesitter)
 * [2026-04-04, 16:34:00](https://soylentnews.org/article.pl?sid=26/04/03/0343222&amp;from=rss) - [Artemis 2 - Roundup](https://soylentnews.org/article.pl?sid=26/04/03/0343222&amp;from=rss)
