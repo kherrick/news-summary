@@ -1,34 +1,66 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological and Software Innovations
+## Technology and Cybersecurity
 
-* [Russia's VPN Crackdown Caused Bank Outages, Telegram Founder Says](https://tech.slashdot.org/story/26/04/06/033247/russias-vpn-crackdown-caused-bank-outages-telegram-founder-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Pavel Durov claims Russia's efforts to stifle VPN usage led to disruptions in financial systems, shedding light on the broader implications of internet restrictions. [Comments](https://tech.slashdot.org/story/26/04/06/033247/russias-vpn-crackdown-caused-bank-outages-telegram-founder-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Russia&apos;s VPN Crackdown Caused Bank Outages, Telegram Founder Says](https://tech.slashdot.org/story/26/04/06/033247/russias-vpn-crackdown-caused-bank-outages-telegram-founder-says?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [SideX – A Tauri-based port of Visual Studio Code](https://github.com/Sidenai/sidex) - A new implementation of a lightweight code editor using Tauri promises efficient performance for developers. [Comments](https://news.ycombinator.com/item?id=47657699)
+* [Top NPM Maintainers Targeted with AI Deepfakes in Massive Supply-Chain Attack, Axios Briefly Compromised](https://it.slashdot.org/story/26/04/05/0316250/top-npm-maintainers-targeted-with-ai-deepfakes-in-massive-supply-chain-attack-axios-briefly-compromised?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Should developer tooling be reinvented for AI-assisted programming?](https://lobste.rs/s/das5h0/should_developer_tooling_be_reinvented) - A thought-provoking discussion on whether new tools are needed to complement AI's role in software development. [Comments](https://lobste.rs/s/das5h0/should_developer_tooling_be_reinvented)
+* [Someone at BrowserStack is Leaking Users&apos; Email Address](https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/)
 
-* [dev.css: tiny, simple, classless CSS framework inspired by new.css](https://tangled.org/devins.page/dev.css) - A new minimalist CSS framework offering simplicity and adaptability for web developers. [Comments](https://lobste.rs/s/dpkqgr/dev_css_tiny_simple_classless_css)
+* [Internet Bug Bounty Pauses Payouts, Citing &apos;Expanding Discovery&apos; From AI-Assisted Research](https://it.slashdot.org/story/26/04/06/0113254/internet-bug-bounty-pauses-payouts-citing-expanding-discovery-from-ai-assisted-research?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice](https://github.com/mikf/gallery-dl/discussions/9304) - A popular open-source tool shifts platforms due to legal challenges, highlighting the challenges developers face. [Comments](https://news.ycombinator.com/item?id=47656659)
+* [Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice](https://github.com/mikf/gallery-dl/discussions/9304)
 
-## Astronomy and Space Exploration
+## Artificial Intelligence and Automation
 
-* [Artemis Astronauts Enter Moon's Gravitational Pull, Catch First Glimpses of Far Side](https://science.slashdot.org/story/26/04/06/0228229/artemis-astronauts-enter-moons-gravitational-pull-catch-first-glimpses-of-far-side?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NASA's Artemis mission achieves a historic milestone while exploring the Moon's far side. [Comments](https://science.slashdot.org/story/26/04/06/0228229/artemis-astronauts-enter-moons-gravitational-pull-catch-first-glimpses-of-far-side?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [An Elm-inspired language that compiles to Go, Hindley-Milner types, server-driven UI, single binary output](https://github.com/anzellai/sky)
 
-* [An open-source 240-antenna array to bounce signals off the Moon](https://moonrf.com/) - An innovative project leverages open-source technology to enhance lunar communication and observation. [Comments](https://news.ycombinator.com/item?id=47656622)
+* [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm)
 
-## AI Integration and Ethics
+* [Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud](https://github.com/kessler/gemma-gem)
 
-* [Internet Bug Bounty Pauses Payouts, Citing 'Expanding Discovery' From AI-Assisted Research](https://it.slashdot.org/story/26/04/06/0113254/internet-bug-bounty-pauses-payouts-citing-expanding-discovery-from-ai-assisted-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The rise of AI in vulnerability discovery creates new challenges for traditional bug bounty programs. [Comments](https://it.slashdot.org/story/26/04/06/0113254/internet-bug-bounty-pauses-payouts-citing-expanding-discovery-from-ai-assisted-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Hundreds of Theatres Show Apocalyptic-Yet-Optimistic New Movie, &apos;The AI Doc&apos; ](https://entertainment.slashdot.org/story/26/04/05/2236255/hundreds-of-theatres-show-apocalyptic-yet-optimistic-new-movie-the-ai-doc?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Gabe Newell Is Shitting Yacht Money into Flatpak and You're Still Arguing about Init Systems](https://s3kshun8.games/blog/flatpak-won/) - A critique on tech debates and the rise of Flatpak in modern software packaging. [Comments](https://lobste.rs/s/miurfk/gabe_newell_is_shitting_yacht_money_into)
+* [Will &apos;AI-Assisted&apos; Journalists Bring Errors and Retractions?](https://news.slashdot.org/story/26/04/05/2119210/will-ai-assisted-journalists-bring-errors-and-retractions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Security and Privacy
+* [Claude Code Leak Reveals a &apos;Stealth&apos; Mode for GenAI Code Contributions - and a &apos;Frustration Words&apos; Regex](https://developers.slashdot.org/story/26/04/05/2339243/claude-code-leak-reveals-a-stealth-mode-for-genai-code-contributions---and-a-frustration-words-regex?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Top NPM Maintainers Targeted with AI Deepfakes in Massive Supply-Chain Attack, Axios Briefly Compromised](https://it.slashdot.org/story/26/04/05/0316250/top-npm-maintainers-targeted-with-ai-deepfakes-in-massive-supply-chain-attack-axios-briefly-compromised?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A sophisticated cyber attack highlights vulnerabilities in software supply chains through AI deepfake tactics. [Comments](https://it.slashdot.org/story/26/04/05/0316250/top-npm-maintainers-targeted-with-ai-deepfakes-in-massive-supply-chain-attack-axios-briefly-compromised?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Space Exploration and Astronomy
 
-* [Employers use your personal data to figure out the lowest salary you'll accept](https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb) - A concerning look at how companies leverage personal data to determine employee compensation. [Comments](https://news.ycombinator.com/item?id=47655466)
+* [Artemis Astronauts Enter Moon&apos;s Gravitational Pull, Catch First Glimpses of Far Side](https://science.slashdot.org/story/26/04/06/0228229/artemis-astronauts-enter-moons-gravitational-pull-catch-first-glimpses-of-far-side?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [France pulls last gold held in US for $15B gain](https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/)
+
+* [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo)
+
+* [Scientists Just Spotted a Black Hole Collision That Defies All Odds](https://soylentnews.org/article.pl?sid=26/04/02/0220210&from=rss)
+
+## Privacy and Ethical Concerns
+
+* [Employers use your personal data to figure out the lowest salary you&apos;ll accept](https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb)
+
+* [The &apos;Engineering of Addiction&apos;  - 3 Ways Meta and YouTube Are Claimed to Have Harmed  Users](https://soylentnews.org/article.pl?sid=26/04/05/021235&from=rss)
+
+* [Github to use user data for AI Training by Default](https://soylentnews.org/article.pl?sid=26/04/02/0226234&from=rss)
+
+## Science and Engineering Advancements
+
+* [Scientists Engineered a Plant To Produce 5 Different Psychedelics At Once](https://science.slashdot.org/story/26/04/04/021228/scientists-engineered-a-plant-to-produce-5-different-psychedelics-at-once?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [Investigating 3D-Printed Metals for Aeronautical Engineering](https://soylentnews.org/article.pl?sid=26/04/03/0357220&from=rss)
+
+## Open Source and Development
+
+* [Roogle: A Rust API search engine](https://github.com/roogle-rs/roogle)
+
+* [Easters - an adventofcode-like challenge for easter](https://easters.dev/)
+
+* [Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair](https://drop.com/)
+
+* [The nvim-treesitter repository was archived](https://github.com/nvim-treesitter/nvim-treesitter)
+
+* [GitHub to Use User Data for AI Training by Default](https://soylentnews.org/article.pl?sid=26/04/02/0226234&from=rss)
 
 ---
 
@@ -55,26 +87,28 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-04-06, 10:20:56](https://lobste.rs/s/7qqnze/someone_at_browserstack_is_leaking_users) - [Someone at BrowserStack is Leaking Users&apos; Email Address](https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/)
+* [2026-04-06, 08:12:51](https://lobste.rs/s/hxiivt/elm_inspired_language_compiles_go) - [An Elm-inspired language that compiles to Go, Hindley-Milner types, server-driven UI, single binary output](https://github.com/anzellai/sky)
+* [2026-04-06, 08:03:43](https://news.ycombinator.com/item?id=47658146) - [France pulls last gold held in US for $15B gain](https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/)
 * [2026-04-06, 07:34:00](https://tech.slashdot.org/story/26/04/06/033247/russias-vpn-crackdown-caused-bank-outages-telegram-founder-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Russia&apos;s VPN Crackdown Caused Bank Outages, Telegram Founder Says](https://tech.slashdot.org/story/26/04/06/033247/russias-vpn-crackdown-caused-bank-outages-telegram-founder-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-06, 07:08:17](https://lobste.rs/s/qzvvbv/free_market_lie_why_switzerland_has_25) - [The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn&apos;t](https://sschueller.github.io/posts/the-free-market-lie/)
 * [2026-04-06, 07:03:43](https://lobste.rs/s/nnh9qk/easters_adventofcode_like_challenge_for) - [Easters - an adventofcode-like challenge for easter](https://easters.dev/)
-* [2026-04-06, 06:49:42](https://news.ycombinator.com/item?id=47657699) - [SideX – A Tauri-based port of Visual Studio Code](https://github.com/Sidenai/sidex)
 * [2026-04-06, 06:35:00](https://soylentnews.org/article.pl?sid=26/04/05/026223&amp;from=rss) - [AMD&apos;s New Desktop CPU Oozes Cache Out of All 16 Cores](https://soylentnews.org/article.pl?sid=26/04/05/026223&amp;from=rss)
 * [2026-04-06, 06:31:02](https://lobste.rs/s/kimmfm/it_has_never_been_about_code) - [It has never been about code](https://www.ufried.com/blog/never_been_about_code/)
 * [2026-04-06, 06:13:31](https://lobste.rs/s/dpkqgr/dev_css_tiny_simple_classless_css) - [dev.css: tiny, simple, classless CSS framework inspired by new.css](https://tangled.org/devins.page/dev.css)
-* [2026-04-06, 05:35:46](https://lobste.rs/s/das5h0/should_developer_tooling_be_reinvented) - [Should developer tooling be reinvented for AI-assisted programming?](https://lobste.rs/s/das5h0/should_developer_tooling_be_reinvented)
 * [2026-04-06, 05:01:47](https://lobste.rs/s/miurfk/gabe_newell_is_shitting_yacht_money_into) - [Gabe Newell Is Shitting Yacht Money into Flatpak and You&apos;re Still Arguing about Init Systems](https://s3kshun8.games/blog/flatpak-won/)
 * [2026-04-06, 04:41:00](https://science.slashdot.org/story/26/04/06/0228229/artemis-astronauts-enter-moons-gravitational-pull-catch-first-glimpses-of-far-side?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Artemis Astronauts Enter Moon&apos;s Gravitational Pull, Catch First Glimpses of Far Side](https://science.slashdot.org/story/26/04/06/0228229/artemis-astronauts-enter-moons-gravitational-pull-catch-first-glimpses-of-far-side?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-06, 04:24:49](https://news.ycombinator.com/item?id=47656981) - [Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair](https://drop.com/)
+* [2026-04-06, 03:45:07](https://news.ycombinator.com/item?id=47656758) - [Make your own ColecoVision at home, part 5](https://www.leadedsolder.com/2026/03/24/colecovision-diy-part-5.html)
 * [2026-04-06, 03:44:40](https://lobste.rs/s/omgusm/make_your_own_colecovision_at_home_part_5) - [Make your own ColecoVision at home, part 5](https://www.leadedsolder.com/2026/03/24/colecovision-diy-part-5.html)
-* [2026-04-06, 03:32:23](https://news.ycombinator.com/item?id=47656682) - [Winners of the 2026 Kokuyo Design Awards](https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/)
 * [2026-04-06, 03:28:04](https://news.ycombinator.com/item?id=47656659) - [Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice](https://github.com/mikf/gallery-dl/discussions/9304)
 * [2026-04-06, 03:22:42](https://news.ycombinator.com/item?id=47656622) - [An open-source 240-antenna array to bounce signals off the Moon](https://moonrf.com/)
 * [2026-04-06, 03:12:39](https://lobste.rs/s/cwbgnf/size_matters_even_on_very_fast) - [Size matters, even on very fast connections](https://maurycyz.com/misc/13kb/)
 * [2026-04-06, 03:03:22](https://news.ycombinator.com/item?id=47656501) - [The 1987 game “The Last Ninja” was 40 kilobytes](https://twitter.com/exQUIZitely/status/2040777977521398151)
+* [2026-04-06, 02:33:21](https://news.ycombinator.com/item?id=47656335) - [Does coding with LLMs mean more microservices?](https://ben.page/microservices)
 * [2026-04-06, 02:28:40](https://news.ycombinator.com/item?id=47656303) - [Case study: recovery of a corrupted 12 TB multi-device pool](https://github.com/kdave/btrfs-progs/issues/1107)
 * [2026-04-06, 02:24:30](https://lobste.rs/s/ufd7j8/best_paper_awards_computer_science_over) - [Best Paper Awards in Computer Science over the past 30 years](https://jeffhuang.com/best_paper_awards/)
 * [2026-04-06, 02:07:55](https://lobste.rs/s/g0kwsq/endian_wars_anti_portability) - [Endian wars and anti-portability](https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/)
-* [2026-04-06, 01:57:59](https://news.ycombinator.com/item?id=47656114) - [We replaced Node.js with Bun for 5x throughput](https://trigger.dev/blog/firebun)
 * [2026-04-06, 01:54:00](https://soylentnews.org/article.pl?sid=26/04/05/021235&amp;from=rss) - [The &apos;Engineering of Addiction&apos;  - 3 Ways Meta and YouTube Are Claimed to Have Harmed  Users](https://soylentnews.org/article.pl?sid=26/04/05/021235&amp;from=rss)
 * [2026-04-06, 01:34:00](https://it.slashdot.org/story/26/04/06/0113254/internet-bug-bounty-pauses-payouts-citing-expanding-discovery-from-ai-assisted-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Internet Bug Bounty Pauses Payouts, Citing &apos;Expanding Discovery&apos; From AI-Assisted Research](https://it.slashdot.org/story/26/04/06/0113254/internet-bug-bounty-pauses-payouts-citing-expanding-discovery-from-ai-assisted-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-06, 01:33:00](https://news.ycombinator.com/item?id=47655905) - [Usenet Archives](https://usenetarchives.com)
@@ -83,11 +117,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-06, 00:18:26](https://news.ycombinator.com/item?id=47655392) - [Show HN: I made a YouTube search form with advanced filters](https://playlists.at/youtube/search/)
 * [2026-04-06, 00:14:37](https://news.ycombinator.com/item?id=47655367) - [Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud](https://github.com/kessler/gemma-gem)
 * [2026-04-05, 23:59:10](https://news.ycombinator.com/item?id=47655268) - [Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf](https://github.com/mohshomis/modo)
-* [2026-04-05, 23:47:57](https://lobste.rs/s/cwpulr/turn_based_collaboration_ai_agents_with) - [Turn-Based Collaboration: AI Agents with Multiple Personalities](https://alnewkirk.com/projects/tbc)
 * [2026-04-05, 23:41:00](https://developers.slashdot.org/story/26/04/05/2339243/claude-code-leak-reveals-a-stealth-mode-for-genai-code-contributions---and-a-frustration-words-regex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Claude Code Leak Reveals a &apos;Stealth&apos; Mode for GenAI Code Contributions - and a &apos;Frustration Words&apos; Regex](https://developers.slashdot.org/story/26/04/05/2339243/claude-code-leak-reveals-a-stealth-mode-for-genai-code-contributions---and-a-frustration-words-regex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-05, 22:39:00](https://entertainment.slashdot.org/story/26/04/05/2236255/hundreds-of-theatres-show-apocalyptic-yet-optimistic-new-movie-the-ai-doc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hundreds of Theatres Show Apocalyptic-Yet-Optimistic New Movie, &apos;The AI Doc&apos; ](https://entertainment.slashdot.org/story/26/04/05/2236255/hundreds-of-theatres-show-apocalyptic-yet-optimistic-new-movie-the-ai-doc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-05, 22:31:16](https://news.ycombinator.com/item?id=47654620) - [In Japan, the robot isn&apos;t coming for your job; it&apos;s filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/)
-* [2026-04-05, 21:42:01](https://news.ycombinator.com/item?id=47654171) - [The Mechanics of Steins Gate (2023) [pdf]](https://github.com/Votuko/steins-gate-mechanics/blob/main/The%20Mechanics%20of%20Steins%20Gate%20v1.0.3.pdf)
 * [2026-04-05, 21:22:00](https://news.slashdot.org/story/26/04/05/2119210/will-ai-assisted-journalists-bring-errors-and-retractions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Will &apos;AI-Assisted&apos; Journalists Bring Errors and Retractions?](https://news.slashdot.org/story/26/04/05/2119210/will-ai-assisted-journalists-bring-errors-and-retractions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-05, 21:04:00](https://soylentnews.org/article.pl?sid=26/04/04/0231228&amp;from=rss) - [‘Shockingly Bad’: Nissan Leaf Drivers Voice Anger Over App Shutdown](https://soylentnews.org/article.pl?sid=26/04/04/0231228&amp;from=rss)
 * [2026-04-05, 19:52:41](https://lobste.rs/s/z4zroy/parsing_asciidoc_prolog) - [Parsing AsciiDoc in Prolog](https://github.com/alexpdp7/prolog-asciidoc/blob/main/parsing-asciidoc-in-prolog.adoc)
@@ -112,12 +143,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-05, 15:12:55](https://lobste.rs/s/gpqkcx/eight_years_wanting_three_months) - [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/)
 * [2026-04-05, 15:00:50](https://lobste.rs/s/7sgdhv/building_dry_run_mode_for_opentelemetry) - [Building a dry-run mode for the OpenTelemetry Collector](https://simme.dev/posts/building-a-dry-run-mode-for-the-opentelemetry-collector/)
 * [2026-04-05, 14:25:45](https://lobste.rs/s/dmdvje/dpi_bypass_using_ebpf_sock_ops_fake_tls) - [DPI bypass using eBPF sock_ops and fake TLS ClientHello injection](https://github.com/boratanrikulu/gecit)
+* [2026-04-05, 14:21:17](https://news.ycombinator.com/item?id=47649742) - [Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs](https://github.com/salmanmohammadi/nanocode/discussions/1)
 * [2026-04-05, 14:18:12](https://news.ycombinator.com/item?id=47649721) - [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo)
 * [2026-04-05, 13:19:50](https://lobste.rs/s/ektobz/tail_call_interpreter_nightly_rust) - [A tail-call interpreter in (nightly) Rust](https://www.mattkeeter.com/blog/2026-04-05-tailcall/)
 * [2026-04-05, 12:43:47](https://news.ycombinator.com/item?id=47648828) - [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/)
 * [2026-04-05, 11:41:00](https://soylentnews.org/article.pl?sid=26/04/04/0223207&amp;from=rss) - [Security Researchers Scoured the Web and Found Hundreds of Valid API Keys](https://soylentnews.org/article.pl?sid=26/04/04/0223207&amp;from=rss)
 * [2026-04-05, 11:34:00](https://news.slashdot.org/story/26/04/04/2158228/does-ubuntu-now-require-more-ram-than-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Does Ubuntu Now Require More RAM Than Windows 11?](https://news.slashdot.org/story/26/04/04/2158228/does-ubuntu-now-require-more-ram-than-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-05, 09:42:46](https://lobste.rs/s/8o6hst/roogle_rust_api_search_engine) - [Roogle: A Rust API search engine](https://github.com/roogle-rs/roogle)
+* [2026-04-05, 08:56:18](https://news.ycombinator.com/item?id=47647455) - [Caveman: Why use many token when few token do trick](https://github.com/JuliusBrussee/caveman)
 * [2026-04-05, 07:56:24](https://lobste.rs/s/zmevgd/sam_text_editor_tips) - [Sam text editor tips](https://9lab.org/plan9/sam/)
 * [2026-04-05, 07:34:00](https://apple.slashdot.org/story/26/04/05/0628250/apples-first-50-years-celebrated---including-how-steve-jobs-finally-accepted-an-open-app-store?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s First 50 Years Celebrated - Including How Steve Jobs Finally Accepted an &apos;Open&apos; App Store](https://apple.slashdot.org/story/26/04/05/0628250/apples-first-50-years-celebrated---including-how-steve-jobs-finally-accepted-an-open-app-store?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-05, 06:49:00](https://soylentnews.org/article.pl?sid=26/04/03/040255&amp;from=rss) - [VitruvianOS 0.3 Debuts as Haiku-Inspired Linux OS Without X11 or Wayland](https://soylentnews.org/article.pl?sid=26/04/03/040255&amp;from=rss)
@@ -131,7 +164,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-04, 18:36:53](https://lobste.rs/s/jr4acs/nvim_treesitter_repository_was_archived) - [The nvim-treesitter repository was archived](https://github.com/nvim-treesitter/nvim-treesitter)
 * [2026-04-04, 16:34:00](https://soylentnews.org/article.pl?sid=26/04/03/0343222&amp;from=rss) - [Artemis 2 - Roundup](https://soylentnews.org/article.pl?sid=26/04/03/0343222&amp;from=rss)
 * [2026-04-04, 11:46:00](https://soylentnews.org/article.pl?sid=26/04/03/0327238&amp;from=rss) - [Sony Shuts Down Nearly Its Entire Memory Card Business Due to Flash Shortage](https://soylentnews.org/article.pl?sid=26/04/03/0327238&amp;from=rss)
-* [2026-04-04, 11:18:44](https://news.ycombinator.com/item?id=47638043) - [Rendering arbitrary-scale emojis using the Slug algorithm](https://leduyquang753.name.vn/blog/2026/4/4/rendering-arbitrary-scale-emojis-using-the-slug-algorithm)
 * [2026-04-04, 09:20:34](https://news.ycombinator.com/item?id=47637377) - [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love)
 * [2026-04-04, 08:31:20](https://news.ycombinator.com/item?id=47637116) - [Signals, the push-pull based algorithm](https://willybrauner.com/journal/signal-the-push-pull-based-algorithm)
 * [2026-04-04, 07:04:00](https://soylentnews.org/article.pl?sid=26/04/02/0226234&amp;from=rss) - [GitHub to Use User Data for AI Training by Default](https://soylentnews.org/article.pl?sid=26/04/02/0226234&amp;from=rss)
