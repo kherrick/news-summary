@@ -1,48 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Innovations
+## Artificial Intelligence Developments
 
-* [Agentic coding at Clickhouse](https://clickhouse.com/blog/agentic-coding) - Provides insight into how Clickhouse leverages agentic coding for enhancing performance and functionality. [Comments](https://lobste.rs/s/xtaigx/agentic_coding_at_clickhouse)
+* [Apex Protocol – An open MCP-based standard for AI agent trading](https://apexstandard.org/) ([Comments](https://news.ycombinator.com/item?id=47655618))
 
-* [Can We Measure Software Slop? An Experiment](https://pscanf.com/s/352/) - A fascinating investigation into quantifying inefficiencies in software and how to measure 'software slop'. [Comments](https://lobste.rs/s/avubpi/can_we_measure_software_slop_experiment)
+* [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm) ([Comments](https://news.ycombinator.com/item?id=47655408))
 
-* [DPI bypass using eBPF sock_ops and fake TLS ClientHello injection](https://github.com/boratanrikulu/gecit) - An innovative use of eBPF for bypassing Deep Packet Inspection firewalls, showcasing a unique technique. [Comments](https://lobste.rs/s/dmdvje/dpi_bypass_using_ebpf_sock_ops_fake_tls)
+* [Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud](https://github.com/kessler/gemma-gem) ([Comments](https://news.ycombinator.com/item?id=47655367))
 
-* [Roogle: A Rust API search engine](https://github.com/roogle-rs/roogle) - Announcing a search engine specifically for Rust APIs, designed to streamline development processes. [Comments](https://lobste.rs/s/8o6hst/roogle_rust_api_search_engine)
+* [Turn-Based Collaboration: AI Agents with Multiple Personalities](https://alnewkirk.com/projects/tbc) ([Comments](https://lobste.rs/s/cwpulr/turn_based_collaboration_ai_agents_with))
 
-* [Computational Physics (2nd Edition)](https://websites.umich.edu/~mejn/cp2/) - Explore the latest edition of this comprehensive resource on computational physics concepts. [Comments](https://news.ycombinator.com/item?id=47650502)
+* [Copilot is 'for entertainment purposes only', per Microsoft&apos;s terms of use](https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/) ([Comments](https://news.ycombinator.com/item?id=47655329))
 
-* [unnix: Reproducible Nix environments without installing Nix](https://github.com/figsoda/unnix) - Access and manage Nix environments effortlessly with this tool, bypassing installation needs. [Comments](https://lobste.rs/s/itmyc4/unnix_reproducible_nix_environments)
+* [OpenAI&apos;s fall from grace as investors race to Anthropic](https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic) ([Comments](https://news.ycombinator.com/item?id=47655058))
 
-## Artificial Intelligence and Machine Learning
+* [Claude Code Leak Reveals a &apos;Stealth&apos; Mode for GenAI Code Contributions - and a &apos;Frustration Words&apos; Regex](https://developers.slashdot.org/story/26/04/05/2339243/claude-code-leak-reveals-a-stealth-mode-for-genai-code-contributions---and-a-frustration-words-regex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://developers.slashdot.org/story/26/04/05/2339243/claude-code-leak-reveals-a-stealth-mode-for-genai-code-contributions---and-a-frustration-words-regex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Policy on adding AI generated content to my software projects](https://joeyh.name/blog/entry/policy_on_adding_AI_generated_content_to_my_software_projects/) - Discusses considerations and personal policies on incorporating AI-generated content into development. [Comments](https://news.ycombinator.com/item?id=47653954)
+## Technology and Software Innovation
 
-* [Will 'AI-Assisted' Journalists Bring Errors and Retractions?](https://news.slashdot.org/story/26/04/05/2119210/will-ai-assisted-journalists-bring-errors-and-retractions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Examines the potential pitfalls and challenges posed by AI in journalism. [Comments](https://news.slashdot.org/story/26/04/05/2119210/will-ai-assisted-journalists-bring-errors-and-retractions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Show HN: YouTube search barely works, I made a search form with advanced filters](https://playlists.at/youtube/search/) ([Comments](https://news.ycombinator.com/item?id=47655392))
 
-* [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/) - Chronicles the journey of using AI tools to rapidly execute a long-standing software idea. [Comments](https://lobste.rs/s/gpqkcx/eight_years_wanting_three_months)
+* [neomd: A minimal email TUI where you read with Markdown and write in Neovim](https://github.com/ssp-data/neomd) ([Comments](https://lobste.rs/s/vw7mod/neomd_minimal_email_tui_where_you_read))
 
-* [Top NPM Maintainers Targeted with AI Deepfakes in Massive Supply-Chain Attack, Axios Briefly Compromised](https://it.slashdot.org/story/26/04/05/0316250/top-npm-maintainers-targeted-with-ai-deepfakes-in-massive-supply-chain-attack-axios-briefly-compromised?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Investigates the use of AI-generated deepfakes to compromise NPM maintainers in a supply-chain attack. [Comments](https://it.slashdot.org/story/26/04/05/0316250/top-npm-maintainers-targeted-with-ai-deepfakes-in-massive-supply-chain-attack-axios-briefly-compromised?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Roogle: A Rust API search engine](https://github.com/roogle-rs/roogle) ([Comments](https://lobste.rs/s/8o6hst/roogle_rust_api_search_engine))
 
-* [Music for Programming](https://musicforprogramming.net) - A curated collection of music designed to enhance focus and productivity for developers. [Comments](https://news.ycombinator.com/item?id=47652322)
+* [Parsing AsciiDoc in Prolog](https://github.com/alexpdp7/prolog-asciidoc/blob/main/parsing-asciidoc-in-prolog.adoc) ([Comments](https://lobste.rs/s/z4zroy/parsing_asciidoc_prolog))
 
-## Science and Health Discoveries
+* [unnix: Reproducible Nix environments without installing Nix](https://github.com/figsoda/unnix) ([Comments](https://lobste.rs/s/itmyc4/unnix_reproducible_nix_environments))
 
-* [Scientists Engineered a Plant To Produce 5 Different Psychedelics At Once](https://science.slashdot.org/story/26/04/04/021228/scientists-engineered-a-plant-to-produce-5-different-psychedelics-at-once?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Researchers develop a groundbreaking bioengineering feat by creating a plant that produces multiple psychedelics. [Comments](https://science.slashdot.org/story/26/04/04/021228/scientists-engineered-a-plant-to-produce-5-different-psychedelics-at-once?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Insights and Experiments
 
-* [Bacteria found in the human intestine capable of improving muscle strength](https://www.ugr.es/en/about/news/bacteria-found-human-intestine-capable-improving-muscle-strength) - A new discovery in microbiology that identifies gut bacteria which can enhance muscle strength. [Comments](https://news.ycombinator.com/item?id=47652726)
+* [Scientists Engineered a Plant To Produce 5 Different Psychedelics At Once](https://science.slashdot.org/story/26/04/04/021228/scientists-engineered-a-plant-to-produce-5-different-psychedelics-at-once?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://www.theregister.co.uk/SCIENTISTS_PSYCHADELIC_PLANT))
 
-## Space Exploration
+* [Finnish sauna heat exposure induces stronger immune cell than cytokine responses](https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract) ([Comments](https://news.ycombinator.com/item?id=47649113))
 
-* [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo) - Witness the breathtaking images captured by the Artemis II crew during their lunar exploration mission. [Comments](https://news.ycombinator.com/item?id=47649721)
+* [Why October 1, 2026, Could be the Day SSL/TLS Certificates Break the Internet](https://soylentnews.org/article.pl?sid=26/03/31/1413235&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/03/31/1413235))
 
-## Culture and Social Issues
+* [Investigating 3D-Printed Metals for Aeronautical Engineering](https://soylentnews.org/article.pl?sid=26/04/03/0357220&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/04/03/0357220&amp;from=rss))
 
-* [Crooks Behind $27M in 'Refund' Scams Busted By YouTube Pranksters After Being Lured to Fake Funeral](https://yro.slashdot.org/story/26/04/05/182224/crooks-behind-27m-in-refund-scams-busted-by-youtube-pranksters-after-being-lured-to-fake-funeral?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An unconventional method by YouTubers led to the arrest of scammers behind a massive fraud operation. [Comments](https://news.ycombinator.com/item?id=47652324)
+## Economic and Cultural Perspectives
 
-* [America's CIA Recruited Iran's Nuclear Scientists - By Threatening To Kill Them](https://news.slashdot.org/story/26/04/04/2055256/americas-cia-recruited-irans-nuclear-scientists---by-threatening-to-kill-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A look into covert methods used by the CIA to recruit foreign scientists. [Comments](https://news.slashdot.org/story/26/04/04/2055256/americas-cia-recruited-irans-nuclear-scientists---by-threatening-to-kill-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Employers use your personal data to figure out the lowest salary you&apos;ll accept](https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb) ([Comments](https://news.ycombinator.com/item?id=47655466))
 
-* [Where can I find the old internet?](https://lobste.rs/s/v7r423/where_can_i_find_old_internet) - Addresses the nostalgia for the simpler, less commercialized internet of the past. [Comments](https://lobste.rs/s/v7r423/where_can_i_find_old_internet)
+* [Hundreds of Theatres Show Apocalyptic-Yet-Optimistic New Movie, &apos;The AI Doc&apos; ](https://entertainment.slashdot.org/story/26/04/05/2236255/hundreds-of-theatres-show-apocalyptic-yet-optimistic-new-movie-the-ai-doc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://entertainment.slashdot.org/story/26/04/05/2236255/hundreds-of-theatres-show-apocalyptic-yet-optimistic-new-movie-the-ai-doc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Why Switzerland has 25 Gbit internet and America doesn&apos;t](https://sschueller.github.io/posts/the-free-market-lie/) ([Comments](https://news.ycombinator.com/item?id=47652400))
 
 ---
 
@@ -69,31 +71,42 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-04-06, 00:50:32](https://news.ycombinator.com/item?id=47655618) - [Apex Protocol – An open MCP-based standard for AI agent trading](https://apexstandard.org/)
+* [2026-04-06, 00:29:08](https://news.ycombinator.com/item?id=47655466) - [Employers use your personal data to figure out the lowest salary you&apos;ll accept](https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb)
+* [2026-04-06, 00:20:12](https://news.ycombinator.com/item?id=47655408) - [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm)
+* [2026-04-06, 00:18:26](https://news.ycombinator.com/item?id=47655392) - [Show HN: YouTube search barely works, I made a search form with advanced filters](https://playlists.at/youtube/search/)
+* [2026-04-06, 00:14:37](https://news.ycombinator.com/item?id=47655367) - [Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud](https://github.com/kessler/gemma-gem)
+* [2026-04-06, 00:09:14](https://news.ycombinator.com/item?id=47655335) - [Recall – local multimodal semantic search for your files](https://github.com/aayu22809/Recall)
+* [2026-04-06, 00:07:54](https://news.ycombinator.com/item?id=47655329) - [Copilot is &apos;for entertainment purposes only&apos;, per Microsoft&apos;s terms of use](https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/)
+* [2026-04-05, 23:59:10](https://news.ycombinator.com/item?id=47655268) - [Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf](https://github.com/mohshomis/modo)
+* [2026-04-05, 23:47:57](https://lobste.rs/s/cwpulr/turn_based_collaboration_ai_agents_with) - [Turn-Based Collaboration: AI Agents with Multiple Personalities](https://alnewkirk.com/projects/tbc)
+* [2026-04-05, 23:41:00](https://developers.slashdot.org/story/26/04/05/2339243/claude-code-leak-reveals-a-stealth-mode-for-genai-code-contributions---and-a-frustration-words-regex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Claude Code Leak Reveals a &apos;Stealth&apos; Mode for GenAI Code Contributions - and a &apos;Frustration Words&apos; Regex](https://developers.slashdot.org/story/26/04/05/2339243/claude-code-leak-reveals-a-stealth-mode-for-genai-code-contributions---and-a-frustration-words-regex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-05, 23:35:59](https://news.ycombinator.com/item?id=47655078) - [Show HN: Mdarena – Benchmark your Claude.md against your own PRs](https://github.com/HudsonGri/mdarena)
+* [2026-04-05, 23:33:01](https://news.ycombinator.com/item?id=47655058) - [OpenAI&apos;s fall from grace as investors race to Anthropic](https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic)
+* [2026-04-05, 22:39:00](https://entertainment.slashdot.org/story/26/04/05/2236255/hundreds-of-theatres-show-apocalyptic-yet-optimistic-new-movie-the-ai-doc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hundreds of Theatres Show Apocalyptic-Yet-Optimistic New Movie, &apos;The AI Doc&apos; ](https://entertainment.slashdot.org/story/26/04/05/2236255/hundreds-of-theatres-show-apocalyptic-yet-optimistic-new-movie-the-ai-doc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-05, 22:31:16](https://news.ycombinator.com/item?id=47654620) - [In Japan, the robot isn&apos;t coming for your job; it&apos;s filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/)
+* [2026-04-05, 21:42:01](https://news.ycombinator.com/item?id=47654171) - [The Mechanics of Steins Gate (2023) [pdf]](https://github.com/Votuko/steins-gate-mechanics/blob/main/The%20Mechanics%20of%20Steins%20Gate%20v1.0.3.pdf)
 * [2026-04-05, 21:37:38](https://lobste.rs/s/xtaigx/agentic_coding_at_clickhouse) - [Agentic coding at Clickhouse](https://clickhouse.com/blog/agentic-coding)
 * [2026-04-05, 21:22:00](https://news.slashdot.org/story/26/04/05/2119210/will-ai-assisted-journalists-bring-errors-and-retractions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Will &apos;AI-Assisted&apos; Journalists Bring Errors and Retractions?](https://news.slashdot.org/story/26/04/05/2119210/will-ai-assisted-journalists-bring-errors-and-retractions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-05, 21:14:40](https://news.ycombinator.com/item?id=47653954) - [Policy on adding AI generated content to my software projects](https://joeyh.name/blog/entry/policy_on_adding_AI_generated_content_to_my_software_projects/)
 * [2026-04-05, 21:04:00](https://soylentnews.org/article.pl?sid=26/04/04/0231228&amp;from=rss) - [‘Shockingly Bad’: Nissan Leaf Drivers Voice Anger Over App Shutdown](https://soylentnews.org/article.pl?sid=26/04/04/0231228&amp;from=rss)
-* [2026-04-05, 20:59:52](https://news.ycombinator.com/item?id=47653816) - [UK intelligence censored report on global warming and homeland security](https://theoryofchange1.substack.com/p/from-global-warming-to-homeland-security)
-* [2026-04-05, 20:19:11](https://news.ycombinator.com/item?id=47653471) - [Musician says AI company is cloning her music, filing claims against her](https://twitter.com/i/status/2040577536136974444)
 * [2026-04-05, 19:52:41](https://lobste.rs/s/z4zroy/parsing_asciidoc_prolog) - [Parsing AsciiDoc in Prolog](https://github.com/alexpdp7/prolog-asciidoc/blob/main/parsing-asciidoc-in-prolog.adoc)
 * [2026-04-05, 19:47:13](https://lobste.rs/s/avubpi/can_we_measure_software_slop_experiment) - [Can We Measure Software Slop? An Experiment](https://pscanf.com/s/352/)
 * [2026-04-05, 19:36:05](https://lobste.rs/s/itmyc4/unnix_reproducible_nix_environments) - [unnix: Reproducible Nix environments without installing Nix](https://github.com/figsoda/unnix)
-* [2026-04-05, 19:01:55](https://news.ycombinator.com/item?id=47652726) - [Bacteria found in the human intestine capable of improving muscle strength](https://www.ugr.es/en/about/news/bacteria-found-human-intestine-capable-improving-muscle-strength)
 * [2026-04-05, 18:45:53](https://news.ycombinator.com/item?id=47652561) - [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)
 * [2026-04-05, 18:34:00](https://yro.slashdot.org/story/26/04/05/182224/crooks-behind-27m-in-refund-scams-busted-by-youtube-pranksters-after-being-lured-to-fake-funeral?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Crooks Behind $27M in &apos;Refund&apos; Scams Busted By YouTube Pranksters After Being Lured to Fake Funeral](https://yro.slashdot.org/story/26/04/05/182224/crooks-behind-27m-in-refund-scams-busted-by-youtube-pranksters-after-being-lured-to-fake-funeral?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-05, 18:29:47](https://news.ycombinator.com/item?id=47652400) - [The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn&apos;t](https://sschueller.github.io/posts/the-free-market-lie/)
-* [2026-04-05, 18:23:14](https://news.ycombinator.com/item?id=47652324) - [LibreOffice – Let&apos;s put an end to the speculation](https://blog.documentfoundation.org/blog/2026/04/05/lets-put-an-end-to-the-speculation/)
+* [2026-04-05, 18:33:38](https://news.ycombinator.com/item?id=47652442) - [OpenJDK: Panama](https://openjdk.org/projects/panama/)
+* [2026-04-05, 18:29:47](https://news.ycombinator.com/item?id=47652400) - [Why Switzerland has 25 Gbit internet and America doesn&apos;t](https://sschueller.github.io/posts/the-free-market-lie/)
 * [2026-04-05, 18:23:08](https://news.ycombinator.com/item?id=47652322) - [Music for Programming](https://musicforprogramming.net)
 * [2026-04-05, 17:49:21](https://lobste.rs/s/vw7mod/neomd_minimal_email_tui_where_you_read) - [neomd: A minimal email TUI where you read with Markdown and write in Neovim](https://github.com/ssp-data/neomd)
 * [2026-04-05, 17:34:00](https://apple.slashdot.org/story/26/04/05/0120236/apple-brings-device-level-age-verification-to-two-more-countries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Brings Device-Level Age Verification to Two More Countries](https://apple.slashdot.org/story/26/04/05/0120236/apple-brings-device-level-age-verification-to-two-more-countries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-05, 17:27:41](https://news.ycombinator.com/item?id=47651703) - [Microsoft hasn&apos;t had a coherent GUI strategy since Petzold](https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/)
 * [2026-04-05, 17:13:51](https://news.ycombinator.com/item?id=47651540) - [Running Gemma 4 locally with LM Studio&apos;s new headless CLI and Claude Code](https://ai.georgeliu.com/p/running-google-gemma-4-locally-with)
-* [2026-04-05, 17:08:55](https://news.ycombinator.com/item?id=47651479) - [From birds to brains: My path to the fusiform face area (2024)](https://www.kavliprize.org/nancy-kanwisher-autobiography)
 * [2026-04-05, 16:59:29](https://lobste.rs/s/faksz1/stamp_it_all_programs_must_report_their) - [Stamp It! All Programs Must Report Their Version](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/)
 * [2026-04-05, 16:34:00](https://slashdot.org/story/26/04/05/0031201/chrome-148-will-start-lazy-loading-video-and-audio-to-improve-performance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chrome 148 Will Start &apos;Lazy Loading&apos; Video and Audio to Improve Performance](https://slashdot.org/story/26/04/05/0031201/chrome-148-will-start-lazy-loading-video-and-audio-to-improve-performance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-05, 16:16:35](https://lobste.rs/s/teftmt/components_coding_agent) - [Components of A Coding Agent](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent)
 * [2026-04-05, 16:13:00](https://soylentnews.org/article.pl?sid=26/04/04/0228218&amp;from=rss) - [Data Centers Causing Huge Temperature Spikes for Miles Around Them, Study Suggests](https://soylentnews.org/article.pl?sid=26/04/04/0228218&amp;from=rss)
 * [2026-04-05, 16:07:30](https://lobste.rs/s/vw1uir/mvidia_game_where_you_build_gpu) - [Mvidia: A game where you build a GPU](https://jaso1024.com/mvidia/)
-* [2026-04-05, 15:38:18](https://news.ycombinator.com/item?id=47650502) - [Computational Physics (2nd Edition)](https://websites.umich.edu/~mejn/cp2/)
+* [2026-04-05, 15:38:18](https://news.ycombinator.com/item?id=47650502) - [Computational Physics (2nd Edition) (2025)](https://websites.umich.edu/~mejn/cp2/)
 * [2026-04-05, 15:34:00](https://science.slashdot.org/story/26/04/04/021228/scientists-engineered-a-plant-to-produce-5-different-psychedelics-at-once?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Engineered a Plant To Produce 5 Different Psychedelics At Once](https://science.slashdot.org/story/26/04/04/021228/scientists-engineered-a-plant-to-produce-5-different-psychedelics-at-once?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-05, 15:18:01](https://news.ycombinator.com/item?id=47650312) - [A tail-call interpreter in (nightly) Rust](https://www.mattkeeter.com/blog/2026-04-05-tailcall/)
 * [2026-04-05, 15:12:55](https://lobste.rs/s/gpqkcx/eight_years_wanting_three_months) - [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/)
@@ -101,21 +114,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-05, 14:25:45](https://lobste.rs/s/dmdvje/dpi_bypass_using_ebpf_sock_ops_fake_tls) - [DPI bypass using eBPF sock_ops and fake TLS ClientHello injection](https://github.com/boratanrikulu/gecit)
 * [2026-04-05, 14:21:17](https://news.ycombinator.com/item?id=47649742) - [Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs](https://github.com/salmanmohammadi/nanocode/discussions/1)
 * [2026-04-05, 14:18:12](https://news.ycombinator.com/item?id=47649721) - [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo)
-* [2026-04-05, 14:16:28](https://news.ycombinator.com/item?id=47649701) - [Perfmon – Consolidate your favorite CLI monitoring tools into a single TUI](https://github.com/sumant1122/Perfmon)
 * [2026-04-05, 13:19:50](https://lobste.rs/s/ektobz/tail_call_interpreter_nightly_rust) - [A tail-call interpreter in (nightly) Rust](https://www.mattkeeter.com/blog/2026-04-05-tailcall/)
 * [2026-04-05, 13:14:36](https://news.ycombinator.com/item?id=47649113) - [Finnish sauna heat exposure induces stronger immune cell than cytokine responses](https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract)
 * [2026-04-05, 12:58:46](https://lobste.rs/s/uffroj/building_slogbox) - [Building slogbox](https://alexrios.me/blog/slogbox-devlog/)
 * [2026-04-05, 12:43:47](https://news.ycombinator.com/item?id=47648828) - [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/)
-* [2026-04-05, 12:03:17](https://news.ycombinator.com/item?id=47648499) - [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers#open-positions)
 * [2026-04-05, 11:41:00](https://soylentnews.org/article.pl?sid=26/04/04/0223207&amp;from=rss) - [Security Researchers Scoured the Web and Found Hundreds of Valid API Keys](https://soylentnews.org/article.pl?sid=26/04/04/0223207&amp;from=rss)
 * [2026-04-05, 11:34:00](https://news.slashdot.org/story/26/04/04/2158228/does-ubuntu-now-require-more-ram-than-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Does Ubuntu Now Require More RAM Than Windows 11?](https://news.slashdot.org/story/26/04/04/2158228/does-ubuntu-now-require-more-ram-than-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-05, 10:41:06](https://news.ycombinator.com/item?id=47648048) - [Friendica – A Decentralized Social Network](https://friendi.ca/)
-* [2026-04-05, 09:57:25](https://news.ycombinator.com/item?id=47647788) - [The threat is comfortable drift toward not understanding what you&apos;re doing](https://ergosphere.blog/posts/the-machines-are-fine/)
 * [2026-04-05, 09:42:46](https://lobste.rs/s/8o6hst/roogle_rust_api_search_engine) - [Roogle: A Rust API search engine](https://github.com/roogle-rs/roogle)
 * [2026-04-05, 08:56:18](https://news.ycombinator.com/item?id=47647455) - [Caveman: Why use many token when few token do trick](https://github.com/JuliusBrussee/caveman)
 * [2026-04-05, 07:56:24](https://lobste.rs/s/zmevgd/sam_text_editor_tips) - [Sam text editor tips](https://9lab.org/plan9/sam/)
 * [2026-04-05, 07:34:00](https://apple.slashdot.org/story/26/04/05/0628250/apples-first-50-years-celebrated---including-how-steve-jobs-finally-accepted-an-open-app-store?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s First 50 Years Celebrated - Including How Steve Jobs Finally Accepted an &apos;Open&apos; App Store](https://apple.slashdot.org/story/26/04/05/0628250/apples-first-50-years-celebrated---including-how-steve-jobs-finally-accepted-an-open-app-store?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-05, 06:57:19](https://news.ycombinator.com/item?id=47646843) - [Lisette a little language inspired by Rust that compiles to Go](https://lisette.run/)
 * [2026-04-05, 06:49:00](https://soylentnews.org/article.pl?sid=26/04/03/040255&amp;from=rss) - [VitruvianOS 0.3 Debuts as Haiku-Inspired Linux OS Without X11 or Wayland](https://soylentnews.org/article.pl?sid=26/04/03/040255&amp;from=rss)
 * [2026-04-05, 05:37:00](https://soylentnews.org/breakingnews/article.pl?sid=26/04/05/0541233&amp;from=rss) - [2nd Crew Member of F15E Has Been Rescued.](https://soylentnews.org/breakingnews/article.pl?sid=26/04/05/0541233&amp;from=rss)
 * [2026-04-05, 04:36:01](https://lobste.rs/s/hfwu86/writing_lisp_is_ai_resistant_i_m_sad) - [Writing Lisp is AI Resistant and I&apos;m Sad](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
@@ -124,7 +133,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-05, 02:02:00](https://soylentnews.org/article.pl?sid=26/04/03/0357220&amp;from=rss) - [Investigating 3D-Printed Metals for Aeronautical Engineering](https://soylentnews.org/article.pl?sid=26/04/03/0357220&amp;from=rss)
 * [2026-04-05, 01:53:07](https://lobste.rs/s/uai6zz/setting_up_atkey_pro_usb_fingerprint) - [setting up the atkey.pro usb fingerprint reader in linux](https://gist.github.com/charmparticle/a3f3ccb804f9f79115e9d88892363e7f)
 * [2026-04-05, 01:34:00](https://tech.slashdot.org/story/26/04/05/001246/microsoft-pulls-then-re-issues-windows-11-preview-update-also-begins-force-updating-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Pulls Then Re-Issues Windows 11 Preview Update.  Also Begins Force-Updating Windows 11](https://tech.slashdot.org/story/26/04/05/001246/microsoft-pulls-then-re-issues-windows-11-preview-update-also-begins-force-updating-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-05, 00:40:18](https://news.ycombinator.com/item?id=47645025) - [Show HN: Contrapunk – Real-time counterpoint harmony from guitar input](https://contrapunk.com/)
 * [2026-04-04, 22:36:09](https://lobste.rs/s/gx4ato/making_gamedev_tooling_for_windows_3_1) - [Making Gamedev Tooling For Windows 3.1 in Turbo C++](https://www.youtube.com/watch?v=-7mc-D5V4L8)
 * [2026-04-04, 22:34:00](https://news.slashdot.org/story/26/04/04/2055256/americas-cia-recruited-irans-nuclear-scientists---by-threatening-to-kill-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America&apos;s CIA Recruited Iran&apos;s Nuclear Scientists - By Threatening To Kill Them](https://news.slashdot.org/story/26/04/04/2055256/americas-cia-recruited-irans-nuclear-scientists---by-threatening-to-kill-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-04, 21:34:00](https://tech.slashdot.org/story/26/04/04/0547259/before-webcomics-selling-political-cartoons-on-bbses-in-1992?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Before Webcomics: Selling Political Cartoons On BBSes In 1992](https://tech.slashdot.org/story/26/04/04/0547259/before-webcomics-selling-political-cartoons-on-bbses-in-1992?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -133,36 +141,23 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-04, 20:34:00](https://it.slashdot.org/story/26/04/04/0420240/are-employers-using-your-data-to-figure-out-the-lowest-salary-youll-accept?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Are Employers Using Your Data To Figure Out the Lowest Salary You&apos;ll Accept?](https://it.slashdot.org/story/26/04/04/0420240/are-employers-using-your-data-to-figure-out-the-lowest-salary-youll-accept?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-04, 19:34:00](https://slashdot.org/story/26/04/04/1919236/anthropic-announces-claude-subscribers-must-now-pay-extra-to-use-openclaw?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Announces Claude Subscribers Must Now Pay Extra to Use OpenClaw](https://slashdot.org/story/26/04/04/1919236/anthropic-announces-claude-subscribers-must-now-pay-extra-to-use-openclaw?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-04, 18:36:53](https://lobste.rs/s/jr4acs/nvim_treesitter_repository_was_archived) - [The nvim-treesitter repository was archived](https://github.com/nvim-treesitter/nvim-treesitter)
-* [2026-04-04, 18:34:00](https://slashdot.org/story/26/04/04/0535221/no-amd-is-not-buying-intel?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [No, AMD Is Not Buying Intel](https://slashdot.org/story/26/04/04/0535221/no-amd-is-not-buying-intel?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-04, 17:34:00](https://it.slashdot.org/story/26/04/04/0638246/amazon-must-negotiate-with-first-warehouse-workers-union-us-labor-board-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Must Negotiate With First Warehouse Workers Union, US Labor Board Rules](https://it.slashdot.org/story/26/04/04/0638246/amazon-must-negotiate-with-first-warehouse-workers-union-us-labor-board-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-04, 16:34:00](https://soylentnews.org/article.pl?sid=26/04/03/0343222&amp;from=rss) - [Artemis 2 - Roundup](https://soylentnews.org/article.pl?sid=26/04/03/0343222&amp;from=rss)
 * [2026-04-04, 15:42:27](https://lobste.rs/s/v7r423/where_can_i_find_old_internet) - [Where can I find the old internet?](https://lobste.rs/s/v7r423/where_can_i_find_old_internet)
 * [2026-04-04, 11:46:00](https://soylentnews.org/article.pl?sid=26/04/03/0327238&amp;from=rss) - [Sony Shuts Down Nearly Its Entire Memory Card Business Due to Flash Shortage](https://soylentnews.org/article.pl?sid=26/04/03/0327238&amp;from=rss)
 * [2026-04-04, 09:20:34](https://news.ycombinator.com/item?id=47637377) - [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love)
+* [2026-04-04, 07:29:41](https://news.ycombinator.com/item?id=47636765) - [Endian wars and anti-portability: this again?](https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/)
 * [2026-04-04, 07:04:00](https://soylentnews.org/article.pl?sid=26/04/02/0226234&amp;from=rss) - [GitHub to Use User Data for AI Training by Default](https://soylentnews.org/article.pl?sid=26/04/02/0226234&amp;from=rss)
+* [2026-04-04, 06:34:12](https://news.ycombinator.com/item?id=47636456) - [Sheets Spreadsheets in Your Terminal](https://github.com/maaslalani/sheets)
 * [2026-04-04, 05:01:33](https://lobste.rs/s/8sqd2j/feature_has_never_worked_broken_auto_live) - [The Feature That Has Never Worked · A broken auto-live poller, and what perceived urgency does to Claude Code](https://christophermeiklejohn.com/ai/zabriskie/reliability/2026/04/03/the-feature-that-has-never-worked.html)
 * [2026-04-04, 04:18:54](https://lobste.rs/s/wdq10i/your_code_is_worthless) - [Your code is worthless](https://nathanielfishel.substack.com/p/your-code-is-worthless)
 * [2026-04-04, 02:11:00](https://soylentnews.org/article.pl?sid=26/04/02/0224235&amp;from=rss) - [Quo Vadis, Humanitas?](https://soylentnews.org/article.pl?sid=26/04/02/0224235&amp;from=rss)
-* [2026-04-03, 22:19:57](https://news.ycombinator.com/item?id=47633086) - [Just &apos;English with Hanzi&apos;](https://www.oldnorthwhale.com/p/why-modern-chinese-is-just-english)
 * [2026-04-03, 21:35:00](https://soylentnews.org/article.pl?sid=26/04/02/0220210&amp;from=rss) - [Scientists Just Spotted a Black Hole Collision That Defies All Odds](https://soylentnews.org/article.pl?sid=26/04/02/0220210&amp;from=rss)
 * [2026-04-03, 16:43:00](https://soylentnews.org/article.pl?sid=26/04/02/0214254&amp;from=rss) - [Google Has a Secret Reference Desk. Here&apos;s How to Use It.](https://soylentnews.org/article.pl?sid=26/04/02/0214254&amp;from=rss)
-* [2026-04-03, 14:50:47](https://lobste.rs/s/lh9rmv/claude_code_found_linux_vulnerability) - [Claude Code Found a Linux Vulnerability Hidden for 23 Years](https://mtlynch.io/claude-code-found-linux-vulnerability/)
 * [2026-04-03, 12:00:00](https://soylentnews.org/article.pl?sid=26/03/31/1458218&amp;from=rss) - [Attorney Hit With Historic Fine for Citing AI-Generated Cases](https://soylentnews.org/article.pl?sid=26/03/31/1458218&amp;from=rss)
 * [2026-04-03, 07:17:00](https://soylentnews.org/article.pl?sid=26/03/31/1439256&amp;from=rss) - [Wikipedia Has Banned AI-Generated Articles](https://soylentnews.org/article.pl?sid=26/03/31/1439256&amp;from=rss)
 * [2026-04-03, 02:31:00](https://soylentnews.org/article.pl?sid=26/03/31/1431219&amp;from=rss) - [Ancient Alphabets, New Insights: Researchers Uncover Hidden Links Among the Letters](https://soylentnews.org/article.pl?sid=26/03/31/1431219&amp;from=rss)
 * [2026-04-02, 21:41:00](https://soylentnews.org/article.pl?sid=26/03/31/1413235&amp;from=rss) - [Why October 1, 2026, Could be the Day SSL/TLS Certificates &apos;Break the Internet&apos;](https://soylentnews.org/article.pl?sid=26/03/31/1413235&amp;from=rss)
-* [2026-04-02, 17:15:33](https://news.ycombinator.com/item?id=47617233) - [The Enigma of Gertrude Stein](https://www.thenation.com/article/culture/gertrude-stein-afterlife-wade-review/)
 * [2026-04-02, 17:00:00](https://soylentnews.org/article.pl?sid=26/03/31/140207&amp;from=rss) - [Ubuntu MATE Founder Martin Wimpress Steps Back After 12 Years](https://soylentnews.org/article.pl?sid=26/03/31/140207&amp;from=rss)
-* [2026-04-02, 14:28:57](https://news.ycombinator.com/item?id=47615003) - [The underrated benefits of always having oatmeal at lunch](https://hazn.com/oatmeal)
 * [2026-04-02, 12:42:00](https://soylentnews.org/article.pl?sid=26/03/31/147230&amp;from=rss) - [Euro-Office is a Free, Open-Source Alternative to Microsoft 365 and Google Docs](https://soylentnews.org/article.pl?sid=26/03/31/147230&amp;from=rss)
-* [2026-04-02, 12:01:27](https://news.ycombinator.com/item?id=47613272) - [Tracing Goroutines in Realtime with eBPF](https://sazak.io/articles/tracing-goroutines-in-realtime-with-ebpf-2026-03-31)
-* [2026-04-02, 10:11:16](https://news.ycombinator.com/item?id=47612331) - [Baby&apos;s Second Garbage Collector](https://www.matheusmoreira.com/articles/babys-second-garbage-collector)
 * [2026-04-02, 08:13:00](https://soylentnews.org/article.pl?sid=26/03/31/1354212&amp;from=rss) - [World&apos;s smallest QR code, smaller than bacteria, could store data for centuries  ](https://soylentnews.org/article.pl?sid=26/03/31/1354212&amp;from=rss)
 * [2026-04-02, 03:09:00](https://soylentnews.org/article.pl?sid=26/03/31/1352230&amp;from=rss) - [Google Won&apos;t Block Loading Unverified Apps, but Adds Friction to the Process](https://soylentnews.org/article.pl?sid=26/03/31/1352230&amp;from=rss)
-* [2026-04-01, 22:34:00](https://soylentnews.org/article.pl?sid=26/03/30/1515244&amp;from=rss) - [Tails Linux 7.6 Released: Introduces Automatic Tor Bridges to Bypass Censorship](https://soylentnews.org/article.pl?sid=26/03/30/1515244&amp;from=rss)
-* [2026-04-01, 22:33:54](https://news.ycombinator.com/item?id=47607408) - [Scientists Figured Out How Eels Reproduce (2022)](https://www.intelligentliving.co/scientists-finally-figured-out-how-eels-reproduce/)
-* [2026-04-01, 17:53:00](https://soylentnews.org/article.pl?sid=26/03/30/1513241&amp;from=rss) - [How Graphene Oxide Kills Bacteria While Sparing Human Cells](https://soylentnews.org/article.pl?sid=26/03/30/1513241&amp;from=rss)
-* [2026-04-01, 17:32:00](https://soylentnews.org/article.pl?sid=26/04/01/1726213&amp;from=rss) - [Artemis II Mission is About to Fly Humans to the Moon — Here&apos;s the Science They&apos;ll Do](https://soylentnews.org/article.pl?sid=26/04/01/1726213&amp;from=rss)
-* [2026-04-01, 13:12:00](https://soylentnews.org/article.pl?sid=26/03/30/159237&amp;from=rss) - [US Foreign Router Ban Criticized for Being ‘Industrial Policy Disguised as Cybersecurity’](https://soylentnews.org/article.pl?sid=26/03/30/159237&amp;from=rss)
-* [2026-04-01, 08:32:00](https://soylentnews.org/article.pl?sid=26/03/30/154227&amp;from=rss) - [Running DOOM Over DNS Queries](https://soylentnews.org/article.pl?sid=26/03/30/154227&amp;from=rss)
-* [2026-04-01, 03:44:00](https://soylentnews.org/article.pl?sid=26/03/30/151240&amp;from=rss) - [Ranked: The World’s Most Surveilled Cities](https://soylentnews.org/article.pl?sid=26/03/30/151240&amp;from=rss)
