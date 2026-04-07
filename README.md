@@ -1,54 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Innovations and Advancements
+## Advancements in Technology
 
-* [China Flies World's First Megawatt-Class Hydrogen Turboprop Engine](https://tech.slashdot.org/story/26/04/06/2242242/china-flies-worlds-first-megawatt-class-hydrogen-turboprop-engine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/04/06/2242242/china-flies-worlds-first-megawatt-class-hydrogen-turboprop-engine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [OpenSSH begins warning for non-PQC key exchanges](https://www.openssh.com/pq.html) - OpenSSH has started issuing warnings for non-Post Quantum Cryptography (PQC) key exchanges, addressing future cryptographic vulnerabilities. [Comments](https://lobste.rs/s/edkm8d/openssh_begins_warning_for_non_pqc_key).
 
-* [Anthropic expands partnership with Google and Broadcom for next-gen compute](https://www.anthropic.com/news/google-broadcom-partnership-compute) ([comments](https://news.ycombinator.com/item?id=47667717))
+* [China Flies World's First Megawatt-Class Hydrogen Turboprop Engine](https://tech.slashdot.org/story/26/04/06/2242242/china-flies-worlds-first-megawatt-class-hydrogen-turboprop-engine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A Chinese-developed megawatt-class hydrogen turboprop engine successfully achieves its first test flight. [Comments](https://tech.slashdot.org/story/26/04/06/2242242/china-flies-worlds-first-megawatt-class-hydrogen-turboprop-engine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Artemis II Astronauts Break Apollo Record For Farthest Distance Humans Have Traveled From Earth](https://science.slashdot.org/story/26/04/06/1924227/artemis-ii-astronauts-break-apollo-record-for-farthest-distance-humans-have-traveled-from-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/04/06/1924227/artemis-ii-astronauts-break-apollo-record-for-farthest-distance-humans-have-traveled-from-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [clmystery: A command-line murder mystery](https://github.com/veltman/clmystery) - An innovative game that allows players to solve murder mysteries using only the command line. [Comments](https://lobste.rs/s/yhyshg/clmystery_command_line_murder_mystery).
 
-* [AI singer now occupies eleven spots on iTunes singles chart](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive) ([comments](https://news.ycombinator.com/item?id=47662596))
+* [Battle for Wesnoth: open-source, turn-based strategy game](https://www.wesnoth.org) - The classic game remains a prominent staple for gamers, offering endless replayability. [Comments](https://news.ycombinator.com/item?id=47664186).
 
-## Technology Challenges and Issues
+## AI and Quantum Computing
 
-* [BrowserStack local leaking private key](https://infosec.exchange/@badkeys/116359377342260172) ([comments](https://lobste.rs/s/exqgps/browserstack_local_leaking_private_key))
+* [The pinnacle of enshittification, or Large Language Models](https://blogs.gentoo.org/mgorny/2026/04/05/the-pinnacle-of-enshittification-or-large-language-models/) - A deep dive into the complexities and criticisms of large language models in the tech industry. [Comments](https://lobste.rs/s/9gitce/pinnacle_enshittification_large).
 
-* [Samsung's Messages App Is Shutting Down](https://mobile.slashdot.org/story/26/04/06/1651243/samsungs-messages-app-is-shutting-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://mobile.slashdot.org/story/26/04/06/1651243/samsungs-messages-app-is-shutting-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Multi-agentic Software Development is a Distributed Systems Problem (AGI can't save you)](https://kirancodes.me/posts/log-distributed-llms.html) - Analysis on the intersection of AGI limitations and distributed systems architecture. [Comments](https://lobste.rs/s/vjcymq/multi_agentic_software_development_is).
 
-* [We Found a Ticking Time Bomb in macOS TCP Networking — It Detonates After Exactly 49 Days](https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking) ([comments](https://lobste.rs/s/hjei19/we_found_ticking_time_bomb_macos_tcp))
+* [AI singer now occupies eleven spots on iTunes singles chart](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive) - A fictional AI artist dominates the music charts, raising ethical and artistic questions. [Comments](https://news.ycombinator.com/item?id=47662596).
 
-* [Linux Finally Starts Removing Support for Intel's 37-Year-Old i486 Processor](https://linux.slashdot.org/story/26/04/06/0358212/linux-finally-starts-removing-support-for-intels-37-year-old-i486-processor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://linux.slashdot.org/story/26/04/06/0358212/linux-finally-starts-removing-support-for-intels-37-year-old-i486-processor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Show HN: Hippo, biologically inspired memory for AI agents](https://github.com/kitfunso/hippo-memory) - A biologically-inspired framework for memory within AI systems. [Comments](https://news.ycombinator.com/item?id=47667672).
 
-## AI, Ethics, and Industry Trends
+## Space Exploration
 
-* [OpenAI Calls For Robot Taxes, Public Wealth Fund, and 4-Day Workweek To Tackle AI Disruption](https://yro.slashdot.org/story/26/04/06/2154206/openai-calls-for-robot-taxes-public-wealth-fund-and-4-day-workweek-to-tackle-ai-disruption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/04/06/2154206/openai-calls-for-robot-taxes-public-wealth-fund-and-4-day-workweek-to-tackle-ai-disruption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Artemis II Astronauts Break Apollo Record For Farthest Distance Humans Have Traveled From Earth](https://science.slashdot.org/story/26/04/06/1924227/artemis-ii-astronauts-break-apollo-record-for-farthest-distance-humans-have-traveled-from-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Artemis II crewmembers outpace Apollo astronauts by reaching record distances from Earth. [Comments](https://science.slashdot.org/story/26/04/06/1924227/artemis-ii-astronauts-break-apollo-record-for-farthest-distance-humans-have-traveled-from-earth?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Sam Altman may control our future – can he be trusted?](https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted) ([comments](https://news.ycombinator.com/item?id=47659135))
+* [Artemis Astronauts Enter Moon's Gravitational Pull, Catch First Glimpses of Far Side](https://science.slashdot.org/story/26/04/06/0228229/artemis-astronauts-enter-moons-gravitational-pull-catch-first-glimpses-of-far-side?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Artemis program astronauts report their first detailed view of the Moon's far side during their lunar orbit mission. [Comments](https://science.slashdot.org/story/26/04/06/0228229/artemis-astronauts-enter-moons-gravitational-pull-catch-first-glimpses-of-far-side?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [AI singer now occupies eleven spots on iTunes singles chart](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive) ([comments](https://news.ycombinator.com/item?id=47662596))
+## Cybersecurity and Privacy
 
-* [Anthropic expands partnership with Google and Broadcom for next-gen compute](https://www.anthropic.com/news/google-broadcom-partnership-compute) ([comments](https://news.ycombinator.com/item?id=47667717))
+* [We Found a Ticking Time Bomb in macOS TCP Networking — It Detonates After Exactly 49 Days](https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking) - Report on a critical macOS issue linked to TCP networking that causes a problem after 49 days of uptime. [Comments](https://lobste.rs/s/hjei19/we_found_ticking_time_bomb_macos_tcp).
 
-## Data Protection and Cybersecurity
+* [BrowserStack local leaking private key](https://infosec.exchange/@badkeys/116359377342260172) - A critical security leak in BrowserStack's local service results in the exposure of private keys. [Comments](https://lobste.rs/s/exqgps/browserstack_local_leaking_private_key).
 
-* [Security Researchers Scoured the Web and Found Hundreds of Valid API Keys](https://soylentnews.org/article.pl?sid=26/04/04/0223207&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/04/0223207&amp;from=rss))
+## Emerging Trends and Insights
 
-* [Someone at BrowserStack is Leaking Users' Email Address](https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/) ([comments](https://lobste.rs/s/7qqnze/someone_at_browserstack_is_leaking_users))
+* [The Cult Of Vibe Coding Is Insane](https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane) - A critique exploring the trend of 'vibe coding' in modern software development. [Comments](https://lobste.rs/s/qfcxc6/cult_vibe_coding_is_insane).
 
-* [Claude Source Code Leaked?  But Watch Out for What You Might be Downloading](https://soylentnews.org/article.pl?sid=26/04/05/0226201&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/05/0226201&amp;from=rss))
+* [Sam Altman may control our future – can he be trusted?](https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted) - Examination of Sam Altman's influence on technology and society. [Comments](https://news.ycombinator.com/item?id=47659135).
 
-* [Germany Doxes 'UNKN,' Head of RU Ransomware Gangs REvil, GandCrab](https://yro.slashdot.org/story/26/04/06/1644212/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/04/06/1644212/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-## Miscellaneous Highlights
-
-* [Oatmeal - The Seed Beneath the Snow](https://eli.li/the-seed-beneath-the-snow) ([comments](https://lobste.rs/s/fibtuz/oatmeal_seed_beneath_snow))
-
-* [clmystery: A command-line murder mystery](https://github.com/veltman/clmystery) ([comments](https://lobste.rs/s/yhyshg/clmystery_command_line_murder_mystery))
-
-* [The Last Quiet Thing](https://www.terrygodier.com/the-last-quiet-thing) ([comments](https://news.ycombinator.com/item?id=47637010))
-
-* [Solod – A subset of Go that translates to C](https://github.com/solod-dev/solod) ([comments](https://news.ycombinator.com/item?id=47669337))
+* [Someone good at CSS help, my website design is dying](https://ahti.space/~nortti/writeups/my-website-design-is-dying.html) - An introspective post detailing a developer’s struggle with modern CSS practices. [Comments](https://lobste.rs/s/aqaobg/someone_good_at_css_help_my_website_design).
 
 ---
 
@@ -75,7 +65,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-04-07, 07:58:04](https://lobste.rs/s/fibtuz/oatmeal_seed_beneath_snow) - [Oatmeal - The Seed Beneath the Snow](https://eli.li/the-seed-beneath-the-snow)
+* [2026-04-07, 09:44:46](https://lobste.rs/s/edkm8d/openssh_begins_warning_for_non_pqc_key) - [OpenSSH begins warning for non-PQC key exchanges](https://www.openssh.com/pq.html)
+* [2026-04-07, 09:36:02](https://lobste.rs/s/qfcxc6/cult_vibe_coding_is_insane) - [The Cult Of Vibe Coding Is Insane](https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane)
+* [2026-04-07, 08:38:17](https://news.ycombinator.com/item?id=47672295) - [Every GPU That Mattered](https://sheets.works/data-viz/every-gpu)
+* [2026-04-07, 08:26:07](https://lobste.rs/s/9gitce/pinnacle_enshittification_large) - [The pinnacle of enshittification, or Large Language Models](https://blogs.gentoo.org/mgorny/2026/04/05/the-pinnacle-of-enshittification-or-large-language-models/)
+* [2026-04-07, 07:58:04](https://lobste.rs/s/fibtuz/seed_beneath_snow) - [The Seed Beneath the Snow](https://eli.li/the-seed-beneath-the-snow)
 * [2026-04-07, 07:00:00](https://tech.slashdot.org/story/26/04/06/2242242/china-flies-worlds-first-megawatt-class-hydrogen-turboprop-engine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Flies World&apos;s First Megawatt-Class Hydrogen Turboprop Engine](https://tech.slashdot.org/story/26/04/06/2242242/china-flies-worlds-first-megawatt-class-hydrogen-turboprop-engine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-07, 06:45:08](https://news.ycombinator.com/item?id=47671527) - [Some iPhone Apps Receive Mysterious Update &apos;From Apple&apos;](https://www.macrumors.com/2026/04/06/iphone-apps-from-apple-update/)
 * [2026-04-07, 06:18:00](https://soylentnews.org/article.pl?sid=26/04/05/0849255&amp;from=rss) - [The Brain Uses Eye Movements to See in 3D](https://soylentnews.org/article.pl?sid=26/04/05/0849255&amp;from=rss)
@@ -83,9 +77,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-07, 05:12:25](https://news.ycombinator.com/item?id=47670981) - [Three hundred synths, 3 hardware projects, and one app](https://midi.guide/blog/three-hunded-synths-one-app/)
 * [2026-04-07, 04:07:39](https://lobste.rs/s/mvfdga/clojure_on_fennel_part_one_persistent) - [Clojure on Fennel part one: Persistent Data Structures](https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/)
 * [2026-04-07, 03:30:00](https://yro.slashdot.org/story/26/04/06/2214217/new-jersey-cannot-regulate-kalshis-prediction-market-us-appeals-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Jersey Cannot Regulate Kalshi&apos;s Prediction Market, US Appeals Court Rules](https://yro.slashdot.org/story/26/04/06/2214217/new-jersey-cannot-regulate-kalshis-prediction-market-us-appeals-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-07, 01:42:40](https://news.ycombinator.com/item?id=47669749) - [Dear Heroku: Uhh What&apos;s Going On?](https://judoscale.com/blog/heroku-whats-going-on)
 * [2026-04-07, 01:33:00](https://soylentnews.org/article.pl?sid=26/04/05/0335237&amp;from=rss) - [RIP Mac Pro: Apple Officially Kills its Tower Computer](https://soylentnews.org/article.pl?sid=26/04/05/0335237&amp;from=rss)
 * [2026-04-07, 00:48:01](https://news.ycombinator.com/item?id=47669337) - [Solod – A subset of Go that translates to C](https://github.com/solod-dev/solod)
-* [2026-04-06, 23:23:28](https://news.ycombinator.com/item?id=47668727) - [After 20 years I turned off Google Adsense for my websites (2025)](https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm)
 * [2026-04-06, 23:00:00](https://yro.slashdot.org/story/26/04/06/2154206/openai-calls-for-robot-taxes-public-wealth-fund-and-4-day-workweek-to-tackle-ai-disruption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Calls For Robot Taxes, Public Wealth Fund, and 4-Day Workweek To Tackle AI Disruption](https://yro.slashdot.org/story/26/04/06/2154206/openai-calls-for-robot-taxes-public-wealth-fund-and-4-day-workweek-to-tackle-ai-disruption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-06, 22:00:00](https://mobile.slashdot.org/story/26/04/06/2142225/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Teardown of Unreleased LG Rollable Shows Why Rollable Phones Aren&apos;t a Thing](https://mobile.slashdot.org/story/26/04/06/2142225/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-06, 21:52:08](https://news.ycombinator.com/item?id=47667717) - [Anthropic expands partnership with Google and Broadcom for next-gen compute](https://www.anthropic.com/news/google-broadcom-partnership-compute)
@@ -102,7 +96,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-06, 19:21:34](https://lobste.rs/s/jxw4nj/downfall_enshittification_microsoft) - [The Downfall and Enshittification of Microsoft in 2026](https://caio.ca/blog/the-downfall-and-enshittification-of-microsoft.html)
 * [2026-04-06, 19:20:23](https://lobste.rs/s/exqgps/browserstack_local_leaking_private_key) - [BrowserStack local leaking private key](https://infosec.exchange/@badkeys/116359377342260172)
 * [2026-04-06, 19:00:00](https://mobile.slashdot.org/story/26/04/06/1651243/samsungs-messages-app-is-shutting-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Samsung&apos;s Messages App Is Shutting Down](https://mobile.slashdot.org/story/26/04/06/1651243/samsungs-messages-app-is-shutting-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-06, 18:31:03](https://news.ycombinator.com/item?id=47664912) - [The cult of vibe coding is dogfooding run amok](https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane)
 * [2026-04-06, 18:00:00](https://yro.slashdot.org/story/26/04/06/1644212/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Germany Doxes &apos;UNKN,&apos; Head of RU Ransomware Gangs REvil, GandCrab](https://yro.slashdot.org/story/26/04/06/1644212/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-06, 17:53:46](https://lobste.rs/s/xvz6m7/git_s_magic_files) - [Git’s Magic Files](https://nesbitt.io/2026/02/05/git-magic-files.html)
 * [2026-04-06, 17:37:38](https://news.ycombinator.com/item?id=47664186) - [Battle for Wesnoth: open-source, turn-based strategy game](https://www.wesnoth.org)
@@ -130,7 +123,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-06, 11:23:00](https://soylentnews.org/article.pl?sid=26/04/05/0214222&amp;from=rss) - [Fossils Reveal Many Complex Animals Existed Before the Cambrian Explosion](https://soylentnews.org/article.pl?sid=26/04/05/0214222&amp;from=rss)
 * [2026-04-06, 10:36:57](https://news.ycombinator.com/item?id=47659135) - [Sam Altman may control our future – can he be trusted?](https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted)
 * [2026-04-06, 10:20:56](https://lobste.rs/s/7qqnze/someone_at_browserstack_is_leaking_users) - [Someone at BrowserStack is Leaking Users&apos; Email Address](https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/)
-* [2026-04-06, 08:12:51](https://lobste.rs/s/hxiivt/elm_inspired_language_compiles_go) - [An Elm-inspired language that compiles to Go, Hindley-Milner types, server-driven UI, single binary output](https://github.com/anzellai/sky)
 * [2026-04-06, 07:34:00](https://tech.slashdot.org/story/26/04/06/033247/russias-vpn-crackdown-caused-bank-outages-telegram-founder-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Russia&apos;s VPN Crackdown Caused Bank Outages, Telegram Founder Says](https://tech.slashdot.org/story/26/04/06/033247/russias-vpn-crackdown-caused-bank-outages-telegram-founder-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-06, 07:08:17](https://lobste.rs/s/qzvvbv/free_market_lie_why_switzerland_has_25) - [The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn&apos;t](https://sschueller.github.io/posts/the-free-market-lie/)
 * [2026-04-06, 06:35:00](https://soylentnews.org/article.pl?sid=26/04/05/026223&amp;from=rss) - [AMD&apos;s New Desktop CPU Oozes Cache Out of All 16 Cores](https://soylentnews.org/article.pl?sid=26/04/05/026223&amp;from=rss)
@@ -138,22 +130,20 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-06, 04:41:00](https://science.slashdot.org/story/26/04/06/0228229/artemis-astronauts-enter-moons-gravitational-pull-catch-first-glimpses-of-far-side?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Artemis Astronauts Enter Moon&apos;s Gravitational Pull, Catch First Glimpses of Far Side](https://science.slashdot.org/story/26/04/06/0228229/artemis-astronauts-enter-moons-gravitational-pull-catch-first-glimpses-of-far-side?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-06, 03:12:39](https://lobste.rs/s/cwbgnf/size_matters_even_on_very_fast) - [Size matters, even on very fast connections](https://maurycyz.com/misc/13kb/)
 * [2026-04-06, 02:24:30](https://lobste.rs/s/ufd7j8/best_paper_awards_computer_science_over) - [Best Paper Awards in Computer Science over the past 30 years](https://jeffhuang.com/best_paper_awards/)
-* [2026-04-06, 02:07:55](https://lobste.rs/s/g0kwsq/endian_wars_anti_portability) - [Endian wars and anti-portability](https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/)
 * [2026-04-06, 01:54:00](https://soylentnews.org/article.pl?sid=26/04/05/021235&amp;from=rss) - [The &apos;Engineering of Addiction&apos;  - 3 Ways Meta and YouTube Are Claimed to Have Harmed  Users](https://soylentnews.org/article.pl?sid=26/04/05/021235&amp;from=rss)
 * [2026-04-06, 01:34:00](https://it.slashdot.org/story/26/04/06/0113254/internet-bug-bounty-pauses-payouts-citing-expanding-discovery-from-ai-assisted-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Internet Bug Bounty Pauses Payouts, Citing &apos;Expanding Discovery&apos; From AI-Assisted Research](https://it.slashdot.org/story/26/04/06/0113254/internet-bug-bounty-pauses-payouts-citing-expanding-discovery-from-ai-assisted-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-05, 21:04:00](https://soylentnews.org/article.pl?sid=26/04/04/0231228&amp;from=rss) - [‘Shockingly Bad’: Nissan Leaf Drivers Voice Anger Over App Shutdown](https://soylentnews.org/article.pl?sid=26/04/04/0231228&amp;from=rss)
 * [2026-04-05, 16:59:29](https://lobste.rs/s/faksz1/stamp_it_all_programs_must_report_their) - [Stamp It! All Programs Must Report Their Version](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/)
 * [2026-04-05, 16:13:00](https://soylentnews.org/article.pl?sid=26/04/04/0228218&amp;from=rss) - [Data Centers Causing Huge Temperature Spikes for Miles Around Them, Study Suggests](https://soylentnews.org/article.pl?sid=26/04/04/0228218&amp;from=rss)
-* [2026-04-05, 15:12:55](https://lobste.rs/s/gpqkcx/eight_years_wanting_three_months) - [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/)
 * [2026-04-05, 11:41:00](https://soylentnews.org/article.pl?sid=26/04/04/0223207&amp;from=rss) - [Security Researchers Scoured the Web and Found Hundreds of Valid API Keys](https://soylentnews.org/article.pl?sid=26/04/04/0223207&amp;from=rss)
 * [2026-04-05, 08:43:18](https://news.ycombinator.com/item?id=47647397) - [Build web apps for smart glasses](https://hub.evenrealities.com/docs/getting-started/overview)
 * [2026-04-05, 06:49:00](https://soylentnews.org/article.pl?sid=26/04/03/040255&amp;from=rss) - [VitruvianOS 0.3 Debuts as Haiku-Inspired Linux OS Without X11 or Wayland](https://soylentnews.org/article.pl?sid=26/04/03/040255&amp;from=rss)
 * [2026-04-05, 05:37:00](https://soylentnews.org/breakingnews/article.pl?sid=26/04/05/0541233&amp;from=rss) - [2nd Crew Member of F15E Has Been Rescued.](https://soylentnews.org/breakingnews/article.pl?sid=26/04/05/0541233&amp;from=rss)
 * [2026-04-05, 02:02:00](https://soylentnews.org/article.pl?sid=26/04/03/0357220&amp;from=rss) - [Investigating 3D-Printed Metals for Aeronautical Engineering](https://soylentnews.org/article.pl?sid=26/04/03/0357220&amp;from=rss)
 * [2026-04-04, 21:18:00](https://soylentnews.org/article.pl?sid=26/04/03/0351210&amp;from=rss) - [Apple Requires Device-Level Age Verification in the UK Now. Could the US Be Next?](https://soylentnews.org/article.pl?sid=26/04/03/0351210&amp;from=rss)
-* [2026-04-04, 19:00:01](https://news.ycombinator.com/item?id=47642125) - [Linux extreme performance H1 load generator](https://www.gcannon.org/)
 * [2026-04-04, 17:58:55](https://news.ycombinator.com/item?id=47641528) - [Apollo Guidance Computer restoration videos](https://www.curiousmarc.com/space/apollo-guidance-computer)
 * [2026-04-04, 16:34:00](https://soylentnews.org/article.pl?sid=26/04/03/0343222&amp;from=rss) - [Artemis 2 - Roundup](https://soylentnews.org/article.pl?sid=26/04/03/0343222&amp;from=rss)
+* [2026-04-04, 12:33:14](https://news.ycombinator.com/item?id=47638498) - [Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11](https://adashape.com)
 * [2026-04-04, 11:46:00](https://soylentnews.org/article.pl?sid=26/04/03/0327238&amp;from=rss) - [Sony Shuts Down Nearly Its Entire Memory Card Business Due to Flash Shortage](https://soylentnews.org/article.pl?sid=26/04/03/0327238&amp;from=rss)
 * [2026-04-04, 10:39:32](https://news.ycombinator.com/item?id=47637828) - [Show HN: Tusk for macOS and Gnome](https://shapemachine.xyz/tusk/)
 * [2026-04-04, 08:14:53](https://news.ycombinator.com/item?id=47637010) - [The Last Quiet Thing](https://www.terrygodier.com/the-last-quiet-thing)
@@ -163,7 +153,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-03, 21:35:00](https://soylentnews.org/article.pl?sid=26/04/02/0220210&amp;from=rss) - [Scientists Just Spotted a Black Hole Collision That Defies All Odds](https://soylentnews.org/article.pl?sid=26/04/02/0220210&amp;from=rss)
 * [2026-04-03, 16:43:00](https://soylentnews.org/article.pl?sid=26/04/02/0214254&amp;from=rss) - [Google Has a Secret Reference Desk. Here&apos;s How to Use It.](https://soylentnews.org/article.pl?sid=26/04/02/0214254&amp;from=rss)
 * [2026-04-03, 15:38:53](https://news.ycombinator.com/item?id=47627998) - [VOID: Video Object and Interaction Deletion](https://github.com/Netflix/void-model)
-* [2026-04-03, 14:55:25](https://news.ycombinator.com/item?id=47627361) - [Graph-go – zero config, full visibility](https://github.com/guilherme-grimm/graph-go)
+* [2026-04-03, 13:06:27](https://news.ycombinator.com/item?id=47626242) - [Second Revision of 6502 Laptop](https://codeberg.org/TechPaula/LT6502b)
 * [2026-04-03, 12:00:00](https://soylentnews.org/article.pl?sid=26/03/31/1458218&amp;from=rss) - [Attorney Hit With Historic Fine for Citing AI-Generated Cases](https://soylentnews.org/article.pl?sid=26/03/31/1458218&amp;from=rss)
 * [2026-04-03, 07:17:00](https://soylentnews.org/article.pl?sid=26/03/31/1439256&amp;from=rss) - [Wikipedia Has Banned AI-Generated Articles](https://soylentnews.org/article.pl?sid=26/03/31/1439256&amp;from=rss)
 * [2026-04-03, 02:31:00](https://soylentnews.org/article.pl?sid=26/03/31/1431219&amp;from=rss) - [Ancient Alphabets, New Insights: Researchers Uncover Hidden Links Among the Letters](https://soylentnews.org/article.pl?sid=26/03/31/1431219&amp;from=rss)
