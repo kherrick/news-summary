@@ -1,72 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Machine Learning
+## Cybersecurity and Technology Advances
 
-* [OpenAI says its new model GPT-2 is too dangerous to release (2019)](https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html) ([comments](https://news.ycombinator.com/item?id=47684326))
+* [Russian Government Hackers Broke Into Thousands of Home Routers To Steal Passwords](https://it.slashdot.org/story/26/04/07/2326240/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A disturbing report reveals that Russian government-backed hackers have infiltrated thousands of private home routers to harvest passwords and sensitive information on a large scale. [Comments](https://it.slashdot.org/story/26/04/07/2326240/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Anthropic Unveils 'Claude Mythos', Powerful AI With Major Cyber Implications](https://it.slashdot.org/story/26/04/07/2115208/anthropic-unveils-claude-mythos-powerful-ai-with-major-cyber-implications?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/26/04/07/2115208/anthropic-unveils-claude-mythos-powerful-ai-with-major-cyber-implications?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Anthropic Unveils 'Claude Mythos', Powerful AI With Major Cyber Implications](https://it.slashdot.org/story/26/04/07/2115208/anthropic-unveils-claude-mythos-powerful-ai-with-major-cyber-implications?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Anthropic announces 'Claude Mythos,' a groundbreaking AI system with controversial implications for cybersecurity. [Comments](https://it.slashdot.org/story/26/04/07/2115208/anthropic-unveils-claude-mythos-powerful-ai-with-major-cyber-implications?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Google's New Compression Drastically Shrinks AI Memory Use While Quietly Speeding Up Performance](https://soylentnews.org/article.pl?sid=26/04/05/0859242&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/05/0859242&from=rss))
+* [Cloudflare targets 2029 for full post-quantum security](https://blog.cloudflare.com/post-quantum-roadmap/) - Cloudflare shares its ambitious plan to transition fully to post-quantum security standards by 2029. [Comments](https://news.ycombinator.com/item?id=47675625)
 
-* [Testing Suggests Google's AI Overviews Tells Millions of Lies Per Hour](https://tech.slashdot.org/story/26/04/07/1717240/testing-suggests-googles-ai-overviews-tells-millions-of-lies-per-hour?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/04/07/1717240/testing-suggests-googles-ai-overviews-tells-millions-of-lies-per-hour?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [OpenSSH begins warning for non-PQC key exchanges](https://www.openssh.com/pq.html) - OpenSSH takes measures to improve security, now issuing warnings for non-post-quantum cryptographic key exchanges. [Comments](https://lobste.rs/s/edkm8d/openssh_begins_warning_for_non_pqc_key)
 
-* [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing) ([comments](https://news.ycombinator.com/item?id=47679121))
+* [LinkedIn Faces Spying Allegations Over Browser Extension Scanning](https://yro.slashdot.org/story/26/04/06/2227247/linkedin-faces-spying-allegations-over-browser-extension-scanning?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - LinkedIn comes under scrutiny regarding claims of scanning browser extensions used by their platform's users. [Comments](https://yro.slashdot.org/story/26/04/06/2227247/linkedin-faces-spying-allegations-over-browser-extension-scanning?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [AI helps add 10k more photos to OldNYC](https://www.danvk.org/2026/03/08/oldnyc-updates.html) ([comments](https://news.ycombinator.com/item?id=47664836))
+## Innovations and Breakthrough Technologies
 
-## Cybersecurity and Quantum Developments
+* [China Flies World&apos;s First Megawatt-Class Hydrogen Turboprop Engine](https://tech.slashdot.org/story/26/04/06/2242242/china-flies-worlds-first-megawatt-class-hydrogen-turboprop-engine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - China showcases its advancement in clean energy technology with the successful test flight of a megawatt-class hydrogen turboprop engine. [Comments](https://tech.slashdot.org/story/26/04/06/2242242/china-flies-worlds-first-megawatt-class-hydrogen-turboprop-engine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Nix security advisory: Privilege escalation via symlink following during FOD output registration](https://discourse.nixos.org/t/nix-security-advisory-privilege-escalation-via-symlink-following-during-fod-output-registration/76900) ([comments](https://lobste.rs/s/lwdzn1/nix_security_advisory_privilege))
+* [Google&apos;s New Compression Drastically Shrinks AI Memory Use While Quietly Speeding Up Performance](https://soylentnews.org/article.pl?sid=26/04/05/0859242&amp;from=rss) - Google introduces cutting-edge compression techniques that significantly reduce the memory load of AI applications while enhancing their performance. [Comments](https://soylentnews.org/article.pl?sid=26/04/05/0859242&amp;from=rss)
 
-* [Cloudflare targets 2029 for full post-quantum security](https://blog.cloudflare.com/post-quantum-roadmap/) ([comments](https://lobste.rs/s/csxbgu/cloudflare_targets_2029_for_full_post))
+* [The Brain Uses Eye Movements to See in 3D](https://soylentnews.org/article.pl?sid=26/04/05/0849255&amp;from=rss) - A fascinating study shows how the brain employs eye movement to create three-dimensional visual perception. [Comments](https://soylentnews.org/article.pl?sid=26/04/05/0849255&amp;from=rss)
 
-* [Assessing Claude Mythos Preview’s cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/) ([comments](https://lobste.rs/s/aw2jr4/assessing_claude_mythos_preview_s))
+* [A truck driver spent 20 years making a scale model of every building in NYC](https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/) - Incredible dedication brought to life: a truck driver achieves an astonishing 20-year project by creating a scale model of every NYC building. [Comments](https://news.ycombinator.com/item?id=47657268)
 
-* [LinkedIn Faces Spying Allegations Over Browser Extension Scanning](https://yro.slashdot.org/story/26/04/06/2227247/linkedin-faces-spying-allegations-over-browser-extension-scanning?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/04/06/2227247/linkedin-faces-spying-allegations-over-browser-extension-scanning?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Space and Astronomy
 
-## Astronomy and Science
+* [Astronomers Say Recent Rash of Meteor Sightings ‘Warrants Serious Investigation’](https://soylentnews.org/article.pl?sid=26/04/06/2246200&amp;from=rss) - An unusual series of meteor sightings prompts scientists to call for an immediate and thorough investigation. [Comments](https://soylentnews.org/article.pl?sid=26/04/06/2246200&amp;from=rss)
 
-* [Astronomers Say Recent Rash of Meteor Sightings ‘Warrants Serious Investigation’](https://soylentnews.org/article.pl?sid=26/04/06/2246200&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/06/2246200&from=rss))
+* [Lunar Flyby](https://www.nasa.gov/gallery/lunar-flyby/) - A gallery featuring stunning visuals from research missions around the moon. [Comments](https://news.ycombinator.com/item?id=47676509)
 
-* [The Brain Uses Eye Movements to See in 3D](https://soylentnews.org/article.pl?sid=26/04/05/0849255&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/05/0849255&from=rss))
+* [Artemis 2 - Roundup](https://soylentnews.org/article.pl?sid=26/04/03/0343222&amp;from=rss) - A comprehensive update on NASA's ambitious Artemis 2 project aiming to expand human space exploration. [Comments](https://soylentnews.org/article.pl?sid=26/04/03/0343222&amp;from=rss)
 
-* [Fossils Reveal Many Complex Animals Existed Before the Cambrian Explosion](https://soylentnews.org/article.pl?sid=26/04/05/0214222&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/05/0214222&from=rss))
+## Unique and Niche Stories
 
-* [China Flies World's First Megawatt-Class Hydrogen Turboprop Engine](https://tech.slashdot.org/story/26/04/06/2242242/china-flies-worlds-first-megawatt-class-hydrogen-turboprop-engine?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/04/06/2242242/china-flies-worlds-first-megawatt-class-hydrogen-turboprop-engine?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Cambodia unveils statue to honour famous landmine-sniffing rat](https://www.bbc.com/news/articles/c0rx7xzd10xo) - Cambodia celebrates the service of a heroic landmine-sniffing rat by unveiling a dedicated statue. [Comments](https://news.ycombinator.com/item?id=47678573)
 
-## Technology and Innovations
+* [A blind man made it possible for others with low vision to build Lego sets](https://apnews.com/article/lego-bricks-for-blind-audio-braille-instructions-5a2a27de4354a0b1443171c3f24f29e4) - An inspiring story about a blind man enabling accessibility for creating Lego sets. [Comments](https://news.ycombinator.com/item?id=47675893)
 
-* [Chrome Is Finally Getting Vertical Tabs](https://tech.slashdot.org/story/26/04/07/2018212/chrome-is-finally-getting-vertical-tabs?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/04/07/2018212/chrome-is-finally-getting-vertical-tabs?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [JSIR: A High-Level IR for JavaScript](https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456) ([comments](https://news.ycombinator.com/item?id=47683376))
-
-* [Show HN: An interactive map of Tolkien's Middle-earth](https://middle-earth-interactive-map.web.app/) ([comments](https://news.ycombinator.com/item?id=47681112))
-
-* [Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP](https://printervention.app/details) ([comments](https://news.ycombinator.com/item?id=47677885))
-
-## Environmental Issues
-
-* [Data Centers Causing Huge Temperature Spikes for Miles Around Them, Study Suggests](https://soylentnews.org/article.pl?sid=26/04/04/0228218&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/04/0228218&from=rss))
-
-* [When Earth's Magnetic Field Took its Time Flipping](https://soylentnews.org/article.pl?sid=26/04/05/0854218&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/05/0854218&from=rss))
-
-## Intriguing Human Endeavors
-
-* [A truck driver spent 20 years making a scale model of every building in NYC](https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/) ([comments](https://news.ycombinator.com/item?id=47657268))
-
-* [Cambodia unveils statue to honour famous landmine-sniffing rat](https://www.bbc.com/news/articles/c0rx7xzd10xo) ([comments](https://news.ycombinator.com/item?id=47678573))
-
-## Culture and Society
-
-* [A blind man made it possible for others with low vision to build Lego sets](https://apnews.com/article/lego-bricks-for-blind-audio-braille-instructions-5a2a27de4354a0b1443171c3f24f29e4) ([comments](https://news.ycombinator.com/item?id=47675893))
-
-* [New Jersey Cannot Regulate Kalshi's Prediction Market, US Appeals Court Rules](https://yro.slashdot.org/story/26/04/06/2214217/new-jersey-cannot-regulate-kalshis-prediction-market-us-appeals-court-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/04/06/2214217/new-jersey-cannot-regulate-kalshis-prediction-market-us-appeals-court-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-## Corporate and Market Trends
-
-* [Apple Faces 'Massive Dilemma' With Success of the MacBook Neo](https://hardware.slashdot.org/story/26/04/07/2157238/apple-faces-massive-dilemma-with-success-of-the-macbook-neo?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/04/07/2157238/apple-faces-massive-dilemma-with-success-of-the-macbook-neo?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [New Revelations Reignite Crypto Scandal Involving Argentina's President Milei](https://news.slashdot.org/story/26/04/06/230222/new-revelations-reignite-crypto-scandal-involving-argentinas-president-milei?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/04/06/230222/new-revelations-reignite-crypto-scandal-involving-argentinas-president-milei?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [A whole boss fight in 256 bytes](https://hellmood.111mb.de//A_whole_boss_fight_in_256_bytes.html) - The art of compression shines with a fully interactive boss fight squeezed into just 256 bytes. [Comments](https://news.ycombinator.com/item?id=47654626)
 
 ---
 
@@ -93,7 +63,9 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-04-08, 02:41:12](https://news.ycombinator.com/item?id=47684326) - [OpenAI says its new model GPT-2 is too dangerous to release (2019)](https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html)
+* [2026-04-08, 03:30:00](https://it.slashdot.org/story/26/04/07/2326240/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Russian Government Hackers Broke Into Thousands of Home Routers To Steal Passwords](https://it.slashdot.org/story/26/04/07/2326240/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-08, 03:03:33](https://news.ycombinator.com/item?id=47684514) - [Protect Your Shed](https://dylanbutler.dev/blog/protect-your-shed/)
+* [2026-04-08, 03:02:56](https://news.ycombinator.com/item?id=47684506) - [LLM scraper bots are overloading acme.com&apos;s HTTPS server](http://acme.com/updates/archive/229.html)
 * [2026-04-08, 01:12:00](https://soylentnews.org/article.pl?sid=26/04/06/2246200&amp;from=rss) - [Astronomers Say Recent Rash of Meteor Sightings ‘Warrants Serious Investigation’](https://soylentnews.org/article.pl?sid=26/04/06/2246200&amp;from=rss)
 * [2026-04-08, 00:59:05](https://news.ycombinator.com/item?id=47683376) - [JSIR: A High-Level IR for JavaScript](https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456)
 * [2026-04-07, 23:36:15](https://news.ycombinator.com/item?id=47682719) - [Xilem – An experimental Rust native UI framework](https://github.com/linebender/xilem)
@@ -102,7 +74,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-07, 22:41:02](https://news.ycombinator.com/item?id=47682276) - [US and Iran agree to provisional ceasefire](https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire)
 * [2026-04-07, 22:00:00](https://it.slashdot.org/story/26/04/07/2115208/anthropic-unveils-claude-mythos-powerful-ai-with-major-cyber-implications?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Unveils &apos;Claude Mythos&apos;, Powerful AI With Major Cyber Implications](https://it.slashdot.org/story/26/04/07/2115208/anthropic-unveils-claude-mythos-powerful-ai-with-major-cyber-implications?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-07, 21:58:48](https://lobste.rs/s/khf0ye/all_string_types) - [All of the String types](https://lambdalemon.gay/posts/string-types)
-* [2026-04-07, 21:04:53](https://news.ycombinator.com/item?id=47681361) - [Move Detroit](https://www.movedetroit.com/program)
 * [2026-04-07, 21:00:00](https://tech.slashdot.org/story/26/04/07/2018212/chrome-is-finally-getting-vertical-tabs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chrome Is Finally Getting Vertical Tabs](https://tech.slashdot.org/story/26/04/07/2018212/chrome-is-finally-getting-vertical-tabs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-07, 20:56:23](https://news.ycombinator.com/item?id=47681274) - [Bitcoin and quantum computing](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
 * [2026-04-07, 20:42:37](https://news.ycombinator.com/item?id=47681112) - [Show HN: An interactive map of Tolkien&apos;s Middle-earth](https://middle-earth-interactive-map.web.app/)
@@ -135,7 +106,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-07, 14:40:14](https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for) - [What text editor (cli or gui) are you using for writing non-code?](https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for)
 * [2026-04-07, 14:24:30](https://news.ycombinator.com/item?id=47675893) - [A blind man made it possible for others with low vision to build Lego sets](https://apnews.com/article/lego-bricks-for-blind-audio-braille-instructions-5a2a27de4354a0b1443171c3f24f29e4)
 * [2026-04-07, 14:07:34](https://news.ycombinator.com/item?id=47675625) - [Cloudflare targets 2029 for full post-quantum security](https://blog.cloudflare.com/post-quantum-roadmap/)
-* [2026-04-07, 13:50:27](https://news.ycombinator.com/item?id=47675372) - [Has electricity decoupled from natural gas prices in Germany?](https://has-electricity-decoupled-yet.strommarktberatung.de)
 * [2026-04-07, 13:39:15](https://news.ycombinator.com/item?id=47675213) - [Google open-sources experimental agent orchestration testbed Scion](https://www.infoq.com/news/2026/04/google-agent-testbed-scion/)
 * [2026-04-07, 13:25:06](https://lobste.rs/s/sibep0/value_performance_oracle) - [the value of a performance oracle](https://wingolog.org/archives/2026/04/07/the-value-of-a-performance-oracle)
 * [2026-04-07, 11:29:59](https://lobste.rs/s/fxmqsf/plan_9_is_uniquely_complete_operating) - [Plan 9 is a Uniquely Complete Operating System](https://posixcafe.org/blogs/2024/07/27/0/)
@@ -155,10 +125,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-07, 01:33:00](https://soylentnews.org/article.pl?sid=26/04/05/0335237&amp;from=rss) - [RIP Mac Pro: Apple Officially Kills its Tower Computer](https://soylentnews.org/article.pl?sid=26/04/05/0335237&amp;from=rss)
 * [2026-04-06, 23:00:00](https://yro.slashdot.org/story/26/04/06/2154206/openai-calls-for-robot-taxes-public-wealth-fund-and-4-day-workweek-to-tackle-ai-disruption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Calls For Robot Taxes, Public Wealth Fund, and 4-Day Workweek To Tackle AI Disruption](https://yro.slashdot.org/story/26/04/06/2154206/openai-calls-for-robot-taxes-public-wealth-fund-and-4-day-workweek-to-tackle-ai-disruption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-06, 22:00:00](https://mobile.slashdot.org/story/26/04/06/2142225/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Teardown of Unreleased LG Rollable Shows Why Rollable Phones Aren&apos;t a Thing](https://mobile.slashdot.org/story/26/04/06/2142225/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-06, 21:00:00](https://news.slashdot.org/story/26/04/06/1730207/ap-offers-buyouts-as-part-of-pivot-away-from-newspaper-journalism?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AP Offers Buyouts As Part of Pivot Away From Newspaper Journalism](https://news.slashdot.org/story/26/04/06/1730207/ap-offers-buyouts-as-part-of-pivot-away-from-newspaper-journalism?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-06, 20:52:00](https://soylentnews.org/article.pl?sid=26/04/05/0233233&amp;from=rss) - [Pentagon Formalizes Palantir&apos;s Maven AI as a Core Military System With Multi-Year Funding](https://soylentnews.org/article.pl?sid=26/04/05/0233233&amp;from=rss)
 * [2026-04-06, 19:21:34](https://lobste.rs/s/jxw4nj/downfall_enshittification_microsoft) - [The Downfall and Enshittification of Microsoft in 2026](https://caio.ca/blog/the-downfall-and-enshittification-of-microsoft.html)
-* [2026-04-06, 18:24:32](https://news.ycombinator.com/item?id=47664836) - [AI helps add 10k more photos to OldNYC](https://www.danvk.org/2026/03/08/oldnyc-updates.html)
 * [2026-04-06, 16:23:07](https://lobste.rs/s/aqaobg/someone_good_at_css_help_my_website_design) - [Someone good at CSS help, my website design is dying](https://ahti.space/~nortti/writeups/my-website-design-is-dying.html)
 * [2026-04-06, 16:20:54](https://lobste.rs/s/pfoohx/cryptography_engineer_s_perspective_on) - [A Cryptography Engineer’s Perspective on Quantum Computing Timelines](https://words.filippo.io/crqc-timeline/)
 * [2026-04-06, 16:11:00](https://soylentnews.org/article.pl?sid=26/04/05/0226201&amp;from=rss) - [Claude Source Code Leaked?  But Watch Out for What You Might be Downloading](https://soylentnews.org/article.pl?sid=26/04/05/0226201&amp;from=rss)
@@ -176,9 +144,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-05, 06:49:00](https://soylentnews.org/article.pl?sid=26/04/03/040255&amp;from=rss) - [VitruvianOS 0.3 Debuts as Haiku-Inspired Linux OS Without X11 or Wayland](https://soylentnews.org/article.pl?sid=26/04/03/040255&amp;from=rss)
 * [2026-04-05, 05:37:00](https://soylentnews.org/breakingnews/article.pl?sid=26/04/05/0541233&amp;from=rss) - [2nd Crew Member of F15E Has Been Rescued.](https://soylentnews.org/breakingnews/article.pl?sid=26/04/05/0541233&amp;from=rss)
 * [2026-04-05, 02:02:00](https://soylentnews.org/article.pl?sid=26/04/03/0357220&amp;from=rss) - [Investigating 3D-Printed Metals for Aeronautical Engineering](https://soylentnews.org/article.pl?sid=26/04/03/0357220&amp;from=rss)
+* [2026-04-04, 21:44:55](https://news.ycombinator.com/item?id=47643779) - [ACE on a USB→HDMI Adapter](https://blazelight.dev/blog/ms2160.mdx)
 * [2026-04-04, 21:18:00](https://soylentnews.org/article.pl?sid=26/04/03/0351210&amp;from=rss) - [Apple Requires Device-Level Age Verification in the UK Now. Could the US Be Next?](https://soylentnews.org/article.pl?sid=26/04/03/0351210&amp;from=rss)
 * [2026-04-04, 16:34:00](https://soylentnews.org/article.pl?sid=26/04/03/0343222&amp;from=rss) - [Artemis 2 - Roundup](https://soylentnews.org/article.pl?sid=26/04/03/0343222&amp;from=rss)
 * [2026-04-04, 11:46:00](https://soylentnews.org/article.pl?sid=26/04/03/0327238&amp;from=rss) - [Sony Shuts Down Nearly Its Entire Memory Card Business Due to Flash Shortage](https://soylentnews.org/article.pl?sid=26/04/03/0327238&amp;from=rss)
 * [2026-04-04, 10:08:31](https://news.ycombinator.com/item?id=47637665) - [The Clock](https://blog.senko.net/the-clock)
 * [2026-04-04, 07:04:00](https://soylentnews.org/article.pl?sid=26/04/02/0226234&amp;from=rss) - [GitHub to Use User Data for AI Training by Default](https://soylentnews.org/article.pl?sid=26/04/02/0226234&amp;from=rss)
 * [2026-04-04, 02:11:00](https://soylentnews.org/article.pl?sid=26/04/02/0224235&amp;from=rss) - [Quo Vadis, Humanitas?](https://soylentnews.org/article.pl?sid=26/04/02/0224235&amp;from=rss)
+* [2026-04-04, 00:59:08](https://news.ycombinator.com/item?id=47634422) - [Native Americans had dice 12,000 years ago](https://www.nbcnews.com/science/science-news/native-americans-dice-games-probability-study-rcna266426)
