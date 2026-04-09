@@ -1,58 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Machine Learning Advances
+## Technology Advancements and Innovations
 
-* [The AI Great Leap Forward](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/) ([comments](https://lobste.rs/s/nmhkdl/ai_great_leap_forward))
+* [How Much Linear Memory Access Is Enough?](https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/) - A deep dive into optimizing linear memory access for computational efficiency. [Comments](https://lobste.rs/s/4ipmr0/how_much_linear_memory_access_is_enough)
 
-* [Giving LLMs a Formal Reasoning Engine for Code Analysis](https://yogthos.net/posts/2026-04-08-neurosymbolic-mcp.html) ([comments](https://lobste.rs/s/fu9wcm/giving_llms_formal_reasoning_engine_for))
+* [Apple's Foldable iPhone Is 'On Track' To Launch In September](https://apple.slashdot.org/story/26/04/09/0017250/apples-foldable-iphone-is-on-track-to-launch-in-september) - The anticipated foldable iPhone from Apple is set for release later this year. [Comments](https://apple.slashdot.org/story/26/04/09/0017250/apples-foldable-iphone-is-on-track-to-launch-in-september?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Meta Debuts 'Muse Spark', First AI Model Under Alexandr Wang](https://tech.slashdot.org/story/26/04/08/1731245/meta-debuts-muse-spark-first-ai-model-under-alexandr-wang?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47692043))
+* [WikiMapped – 1.3M geolocated Wikipedia articles on an interactive world map](https://wikimapped.mukul-mehta.in/) - Explore geographical data with millions of Wikipedia articles via an interactive map. [Comments](https://lobste.rs/s/w6bwob/wikimapped_1_3m_geolocated_wikipedia)
 
-* [MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU](https://arxiv.org/abs/2604.05091) ([comments](https://news.ycombinator.com/item?id=47689174))
+* [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html) - A popular Mac application for network monitoring and filtering is now available for Linux. [Comments](https://news.ycombinator.com/item?id=47697870)
 
-## Privacy and Security
+## Artificial Intelligence and Security
 
-* [Flatpak: Complete Sandbox Escape](https://github.com/flatpak/flatpak/security/advisories/GHSA-cc2q-qc34-jprg) ([comments](https://lobste.rs/s/cjbxsj/flatpak_complete_sandbox_escape))
+* [Big Tech Knows New AI Models Ripe For Cyberattacks — But Plans To Release Them Anyway](https://soylentnews.org/article.pl?sid=26/04/07/2126219&amp;from=rss) - Concerns arise as tech companies proceed with deploying vulnerable AI models. [Comments](https://soylentnews.org/article.pl?sid=26/04/07/2126219&amp;from=rss)
 
-* [OkCupid Gave 3M Users’ Photos to AI Firm, FTC Says](https://soylentnews.org/article.pl?sid=26/04/07/2124219&amp;from=rss) ([comments](https://news.ycombinator.com/item?id=47698082))
+* [The AI Great Leap Forward](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/) - Analysis of recent developments in artificial intelligence and their impacts. [Comments](https://lobste.rs/s/nmhkdl/ai_great_leap_forward)
 
-* [Iran-Linked Hackers Disrupted US Oil, Gas, Water Sites](https://it.slashdot.org/story/26/04/08/2139228/iran-linked-hackers-disrupted-us-oil-gas-water-sites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47696562))
+* [Flatpak: Complete Sandbox Escape](https://github.com/flatpak/flatpak/security/advisories/GHSA-cc2q-qc34-jprg) - A critical vulnerability discovered in Flatpak allows complete sandbox escapes. [Comments](https://lobste.rs/s/cjbxsj/flatpak_complete_sandbox_escape)
 
-* [Russian Government Hackers Broke Into Thousands of Home Routers To Steal Passwords](https://it.slashdot.org/story/26/04/07/2326240/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47687320))
+## Consumer Rights and Industry Practices
 
-## Right-to-Repair Movement
+* [John Deere To Pay $99 Million In Monumental Right-To-Repair Settlement](https://yro.slashdot.org/story/26/04/08/2156254/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement) - A major settlement underscores the significance of right-to-repair movement. [Comments](https://yro.slashdot.org/story/26/04/08/2156254/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [John Deere To Pay $99 Million In Monumental Right-To-Repair Settlement](https://yro.slashdot.org/story/26/04/08/2156254/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47696035))
+* [OkCupid Gave 3M Users’ Photos to AI Firm, FTC Says](https://soylentnews.org/article.pl?sid=26/04/07/2124219&amp;from=rss) - FTC reveals that OkCupid shared millions of user photos with an AI company. [Comments](https://soylentnews.org/article.pl?sid=26/04/07/2124219&amp;from=rss)
 
-* [Apple and Lenovo Have the Least Repairable Laptops, Analysis Finds](https://hardware.slashdot.org/story/26/04/08/0543217/apple-and-lenovo-have-the-least-repairable-laptops-analysis-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47691730))
+## Historical and Technical Explorations
 
-## Coding and Development Tools
+* [How Pizza Tycoon simulated traffic on a 25 MHz CPU](https://pizzalegacy.nl/blog/traffic-system.html) - An in-depth look at how an old game handled complex traffic simulations. [Comments](https://lobste.rs/s/9gzcnv/how_pizza_tycoon_simulated_traffic_on_25)
 
-* [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html) ([comments](https://lobste.rs/s/2zrhn4/little_snitch_for_linux))
+* [Understanding Traceroute](https://tech.stonecharioteer.com/posts/2026/traceroute/) - A technical explanation of how traceroute works to troubleshoot networking issues. [Comments](https://lobste.rs/s/nwpcjt/understanding_traceroute)
 
-* [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/) ([comments](https://news.ycombinator.com/item?id=47695012))
+## Unique and Niche Topics
 
-* [Porting Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) ([comments](https://news.ycombinator.com/item?id=47691730))
+* [Haunted Paper Toys](http://ravensblight.com/papertoys.html) - Create creepy paper crafts with this collection of haunted-themed templates. [Comments](https://news.ycombinator.com/item?id=47658950)
 
-* [Under the hood of MDN's new frontend](https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/) ([comments](https://lobste.rs/s/kz6rvd/under_hood_mdn_s_new_frontend))
-
-## Business and Technology
-
-* [Amazon Is Ending Support For Older Kindles](https://news.slashdot.org/story/26/04/08/1751257/amazon-is-ending-support-for-older-kindles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47692000))
-
-* [Iran Demands Bitcoin For Ships Passing Hormuz During Ceasefire](https://slashdot.org/story/26/04/08/1746237/iran-demands-bitcoin-for-ships-passing-hormuz-during-ceasefire?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47695001))
-
-* [NYT Claims Adam Back Is Bitcoin Creator Satoshi Nakamoto](https://slashdot.org/story/26/04/08/213203/nyt-claims-adam-back-is-bitcoin-creator-satoshi-nakamoto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47685320))
-
-* [Newly created Polymarket accounts win big on well-timed Iran ceasefire bets](https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire) ([comments](https://news.ycombinator.com/item?id=47698082))
-
-## Scientific and Historical Insights
-
-* [The Brain Uses Eye Movements to See in 3D](https://soylentnews.org/article.pl?sid=26/04/05/0849255&amp;from=rss) ([comments](https://news.ycombinator.com/item?id=47684000))
-
-* [Democracy Was Not Just a Greco-Roman Affair in the Ancient World](https://soylentnews.org/article.pl?sid=26/04/06/2247253&amp;from=rss) ([comments](https://news.ycombinator.com/item?id=47685300))
-
-* [Fossils Reveal Many Complex Animals Existed Before the Cambrian Explosion](https://soylentnews.org/article.pl?sid=26/04/05/0214222&amp;from=rss) ([comments](https://news.ycombinator.com/item?id=47661297))
+* [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) - A fascinating project details the challenges of adapting macOS for a gaming console. [Comments](https://lobste.rs/s/i0vvrs/porting_mac_os_x_nintendo_wii)
 
 ---
 
@@ -79,8 +61,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-04-09, 07:28:26](https://lobste.rs/s/4ipmr0/how_much_linear_memory_access_is_enough) - [How Much Linear Memory Access Is Enough?](https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/)
+* [2026-04-09, 07:00:00](https://apple.slashdot.org/story/26/04/09/0017250/apples-foldable-iphone-is-on-track-to-launch-in-september?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple&apos;s Foldable iPhone Is &apos;On Track&apos; To Launch In September](https://apple.slashdot.org/story/26/04/09/0017250/apples-foldable-iphone-is-on-track-to-launch-in-september?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-09, 06:18:12](https://lobste.rs/s/nwpcjt/understanding_traceroute) - [Understanding Traceroute](https://tech.stonecharioteer.com/posts/2026/traceroute/)
+* [2026-04-09, 06:01:08](https://lobste.rs/s/w6bwob/wikimapped_1_3m_geolocated_wikipedia) - [WikiMapped – 1.3M geolocated Wikipedia articles on an interactive world map](https://wikimapped.mukul-mehta.in/)
+* [2026-04-09, 06:00:55](https://news.ycombinator.com/item?id=47699814) - [Process Manager for Autonomous AI Agents](https://botctl.dev/)
+* [2026-04-09, 05:38:00](https://soylentnews.org/article.pl?sid=26/04/07/2126219&amp;from=rss) - [Big Tech Knows New AI Models Ripe For Cyberattacks — But Plans To Release Them Anyway](https://soylentnews.org/article.pl?sid=26/04/07/2126219&amp;from=rss)
 * [2026-04-09, 04:43:58](https://lobste.rs/s/nmhkdl/ai_great_leap_forward) - [The AI Great Leap Forward](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
-* [2026-04-09, 04:42:00](https://lobste.rs/s/zuakfg/keychron_s_hardware_source) - [Keychron’s hardware source](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/tree/main)
 * [2026-04-09, 04:11:55](https://news.ycombinator.com/item?id=47699181) - [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral)
 * [2026-04-09, 03:30:00](https://yro.slashdot.org/story/26/04/08/2156254/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [John Deere To Pay $99 Million In Monumental Right-To-Repair Settlement](https://yro.slashdot.org/story/26/04/08/2156254/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-09, 02:21:46](https://lobste.rs/s/cjbxsj/flatpak_complete_sandbox_escape) - [Flatpak: Complete Sandbox Escape](https://github.com/flatpak/flatpak/security/advisories/GHSA-cc2q-qc34-jprg)
@@ -133,20 +120,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-08, 07:40:46](https://lobste.rs/s/ejaimk/applying_programming_without_pointers) - [Applying \&quot;Programming Without Pointers\&quot; to an mbox indexer using Zig](https://simonhartcher.com/posts/2026-04-08-applying-programming-without-pointers-to-an-mbox-indexer-using-zig)
 * [2026-04-08, 07:23:39](https://news.ycombinator.com/item?id=47686549) - [Veracrypt project update](https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/)
 * [2026-04-08, 07:00:00](https://tech.slashdot.org/story/26/04/08/0145220/planet-labs-tests-ai-powered-object-detection-on-satellite?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Planet Labs Tests AI-Powered Object Detection On Satellite](https://tech.slashdot.org/story/26/04/08/0145220/planet-labs-tests-ai-powered-object-detection-on-satellite?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-08, 06:01:00](https://news.ycombinator.com/item?id=47685945) - [We moved Railway&apos;s frontend off Next.js. Builds went from 10+ mins to under 2](https://blog.railway.com/p/moving-railways-frontend-off-nextjs)
 * [2026-04-08, 05:56:00](https://soylentnews.org/article.pl?sid=26/04/06/2247253&amp;from=rss) - [Democracy Was Not Just a Greco-Roman Affair in the Ancient World](https://soylentnews.org/article.pl?sid=26/04/06/2247253&amp;from=rss)
 * [2026-04-08, 04:37:57](https://news.ycombinator.com/item?id=47685320) - [Who is Satoshi Nakamoto? My quest to unmask Bitcoin&apos;s creator](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 * [2026-04-08, 03:30:00](https://it.slashdot.org/story/26/04/07/2326240/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Russian Government Hackers Broke Into Thousands of Home Routers To Steal Passwords](https://it.slashdot.org/story/26/04/07/2326240/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-08, 01:12:00](https://soylentnews.org/article.pl?sid=26/04/06/2246200&amp;from=rss) - [Astronomers Say Recent Rash of Meteor Sightings ‘Warrants Serious Investigation’](https://soylentnews.org/article.pl?sid=26/04/06/2246200&amp;from=rss)
 * [2026-04-07, 23:00:00](https://hardware.slashdot.org/story/26/04/07/2157238/apple-faces-massive-dilemma-with-success-of-the-macbook-neo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Faces &apos;Massive Dilemma&apos; With Success of the MacBook Neo](https://hardware.slashdot.org/story/26/04/07/2157238/apple-faces-massive-dilemma-with-success-of-the-macbook-neo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-07, 22:41:54](https://lobste.rs/s/lwdzn1/nix_security_advisory_privilege) - [Nix security advisory: Privilege escalation via symlink following during FOD output registration](https://discourse.nixos.org/t/nix-security-advisory-privilege-escalation-via-symlink-following-during-fod-output-registration/76900)
-* [2026-04-07, 22:00:00](https://it.slashdot.org/story/26/04/07/2115208/anthropic-unveils-claude-mythos-powerful-ai-with-major-cyber-implications?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Unveils &apos;Claude Mythos&apos;, Powerful AI With Major Cyber Implications](https://it.slashdot.org/story/26/04/07/2115208/anthropic-unveils-claude-mythos-powerful-ai-with-major-cyber-implications?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-07, 21:58:48](https://lobste.rs/s/khf0ye/all_string_types) - [All of the String types](https://lambdalemon.gay/posts/string-types)
 * [2026-04-07, 20:28:00](https://soylentnews.org/article.pl?sid=26/04/05/0859242&amp;from=rss) - [Google&apos;s New Compression Drastically Shrinks AI Memory Use While Quietly Speeding Up Performance](https://soylentnews.org/article.pl?sid=26/04/05/0859242&amp;from=rss)
 * [2026-04-07, 19:19:09](https://lobste.rs/s/enkaal/last_quiet_thing) - [The Last Quiet Thing](https://www.terrygodier.com/the-last-quiet-thing)
 * [2026-04-07, 18:21:32](https://lobste.rs/s/aw2jr4/assessing_claude_mythos_preview_s) - [Assessing Claude Mythos Preview’s cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/)
 * [2026-04-07, 17:34:13](https://news.ycombinator.com/item?id=47678690) - [Six (and a half) intuitions for KL divergence](https://www.perfectlynormal.co.uk/blog-kl-divergence)
 * [2026-04-07, 15:43:00](https://soylentnews.org/article.pl?sid=26/04/05/0854218&amp;from=rss) - [When Earth&apos;s Magnetic Field Took its Time Flipping](https://soylentnews.org/article.pl?sid=26/04/05/0854218&amp;from=rss)
+* [2026-04-07, 15:07:45](https://news.ycombinator.com/item?id=47676561) - [Teardown of unreleased LG Rollable shows why rollable phones aren&apos;t a thing](https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/)
 * [2026-04-07, 13:55:14](https://news.ycombinator.com/item?id=47675446) - [Audio Reactive LED Strips Are Diabolically Hard](https://scottlawsonbc.com/post/audio-led)
 * [2026-04-07, 11:01:00](https://soylentnews.org/article.pl?sid=26/04/05/0852233&amp;from=rss) - [$500 Fiber Optic HDMI Cable Delivers Flawless 48 Gbps Performance Across a Staggering 990 Feet](https://soylentnews.org/article.pl?sid=26/04/05/0852233&amp;from=rss)
 * [2026-04-07, 06:18:00](https://soylentnews.org/article.pl?sid=26/04/05/0849255&amp;from=rss) - [The Brain Uses Eye Movements to See in 3D](https://soylentnews.org/article.pl?sid=26/04/05/0849255&amp;from=rss)
@@ -155,11 +139,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-06, 20:33:03](https://news.ycombinator.com/item?id=47666639) - [The Importance of Being Idle](https://theamericanscholar.org/the-importance-of-being-idle/)
 * [2026-04-06, 20:14:16](https://news.ycombinator.com/item?id=47666398) - [Show HN: A (marginally) useful x86-64 ELF executable in 301 bytes](https://github.com/meribold/btry)
 * [2026-04-06, 16:11:00](https://soylentnews.org/article.pl?sid=26/04/05/0226201&amp;from=rss) - [Claude Source Code Leaked?  But Watch Out for What You Might be Downloading](https://soylentnews.org/article.pl?sid=26/04/05/0226201&amp;from=rss)
-* [2026-04-06, 14:22:51](https://news.ycombinator.com/item?id=47661297) - [What does it mean to “write like you talk”?](https://arjunpanickssery.substack.com/p/what-does-it-mean-to-write-like-you)
 * [2026-04-06, 11:23:00](https://soylentnews.org/article.pl?sid=26/04/05/0214222&amp;from=rss) - [Fossils Reveal Many Complex Animals Existed Before the Cambrian Explosion](https://soylentnews.org/article.pl?sid=26/04/05/0214222&amp;from=rss)
+* [2026-04-06, 10:09:00](https://news.ycombinator.com/item?id=47658950) - [Haunted Paper Toys](http://ravensblight.com/papertoys.html)
 * [2026-04-06, 06:35:00](https://soylentnews.org/article.pl?sid=26/04/05/026223&amp;from=rss) - [AMD&apos;s New Desktop CPU Oozes Cache Out of All 16 Cores](https://soylentnews.org/article.pl?sid=26/04/05/026223&amp;from=rss)
 * [2026-04-06, 03:40:31](https://news.ycombinator.com/item?id=47656730) - [Understanding Traceroute](https://tech.stonecharioteer.com/posts/2026/traceroute/)
-* [2026-04-06, 03:32:23](https://news.ycombinator.com/item?id=47656682) - [Winners of the 2026 Kokuyo Design Awards](https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/)
 * [2026-04-06, 01:54:00](https://soylentnews.org/article.pl?sid=26/04/05/021235&amp;from=rss) - [The &apos;Engineering of Addiction&apos;  - 3 Ways Meta and YouTube Are Claimed to Have Harmed  Users](https://soylentnews.org/article.pl?sid=26/04/05/021235&amp;from=rss)
 * [2026-04-05, 21:30:19](https://news.ycombinator.com/item?id=47654062) - [Ask HN: Any interesting niche hobbies?](https://news.ycombinator.com/item?id=47654062)
 * [2026-04-05, 21:04:00](https://soylentnews.org/article.pl?sid=26/04/04/0231228&amp;from=rss) - [‘Shockingly Bad’: Nissan Leaf Drivers Voice Anger Over App Shutdown](https://soylentnews.org/article.pl?sid=26/04/04/0231228&amp;from=rss)
