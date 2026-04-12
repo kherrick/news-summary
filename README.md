@@ -1,52 +1,54 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Advancements and Innovations
+## Advancements in Technology
 
-* [Hisense's New Backlit RGB LED TV 'a Shot Against OLED's Bow', and Includes a DP Port](https://hardware.slashdot.org/story/26/04/12/1854206/hisenses-new-backlit-rgb-led-tv-a-shot-against-oleds-bow-and-includes-a-dp-port?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Discussion](https://hardware.slashdot.org/story/26/04/12/1854206/hisenses-new-backlit-rgb-led-tv-a-shot-against-oleds-bow-and-includes-a-dp-port?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [How Good is Windows on Arm With Snapdragon X?](https://hardware.slashdot.org/story/26/04/12/2149242/how-good-is-windows-on-arm-with-snapdragon-x?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A close look at the performance of Windows on Arm systems powered by Snapdragon X.
 
-* [Neuroscientist's AI-Powered Startup Aims To Transform Human Cognition With Perfect, Infinite Memory](https://hardware.slashdot.org/story/26/04/12/0640253/neuroscientist-ai-powered-startup-aims-to-transform-human-cognition-with-perfect-infinite-memory?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Discussion](https://hardware.slashdot.org/story/26/04/12/0640253/neuroscientist-ai-powered-startup-aims-to-transform-human-cognition-with-perfect-infinite-memory?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Hisense's New Backlit RGB LED TV 'a Shot Against OLED's Bow', and Includes a DP Port](https://hardware.slashdot.org/story/26/04/12/1854206/hisenses-new-backlit-rgb-led-tv-a-shot-against-oleds-bow-and-includes-a-dp-port?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Hisense reveals a groundbreaking RGB LED TV as a competitor to OLED displays.
 
-* [DOOM, played over cURL](https://github.com/xsawyerx/curl-doom) - [Discussion](https://lobste.rs/s/apczke/doom_played_over_curl)
+* [Neuroscientist's AI-Powered Startup Aims To Transform Human Cognition With Perfect, Infinite Memory](https://hardware.slashdot.org/story/26/04/12/0640253/neuroscientists-ai-powered-startup-aims-to-transform-human-cognition-with-perfect-infinite-memory?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An AI startup is promising to enhance human cognition with an innovative infinite memory system.
 
-* [AI That Bankrupted a Vending Machine is Now Running a Store in San Francisco](https://slashdot.org/story/26/04/12/0447236/ai-that-bankrupted-a-vending-machine-is-now-running-a-store-in-san-francisco?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Discussion](https://slashdot.org/story/26/04/12/0447236/ai-that-bankrupted-a-vending-machine-is-now-running-a-store-in-san-francisco?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [DNA-Level Encryption Developed by Researchers to Protect the Secrets of Bioengineered Cells](https://science.slashdot.org/story/26/04/12/0511204/dna-level-encryption-developed-by-researchers-to-protect-the-secrets-of-bioengineered-cells?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Scientists unveil a method to encrypt genetic information at the DNA level to secure bioengineered cells.
 
-* [DNA-Level Encryption Developed by Researchers to Protect the Secrets of Bioengineered Cells](https://science.slashdot.org/story/26/04/12/0511204/dna-level-encryption-developed-by-researchers-to-protect-the-secrets-of-bioengineered-cells?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Discussion](https://science.slashdot.org/story/26/04/12/0511204/dna-level-encryption-developed-by-researchers-to-protect-the-secrets-of-bioengineered-cells?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Space and Science Innovations
 
-## Artificial Intelligence and Job Market
+* [An undocumented bug in the Apollo 11 guidance computer code](https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/) - Exploring a historical bug found in the Apollo 11 guidance computer code.
 
-* [Tech Industry Lays Off Nearly 80,000 Employees in the First Quarter of 2026 (Almost 50% Due to AI)](https://soylentnews.org/article.pl?sid=26/04/11/0313203&from=rss) - [Discussion](https://soylentnews.org/article.pl?sid=26/04/11/0313203&from=rss)
+* [Oxygen Made From Moon Dust For First Time](https://science.slashdot.org/story/26/04/11/2250208/oxygen-made-from-moon-dust-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Scientists successfully produce oxygen from lunar soil, a potential leap for lunar exploration.
 
-* [First US Newsroom Strike For AI Protections Staged by ProPublica's Journalists](https://news.slashdot.org/story/26/04/11/0354220/first-us-newsroom-strike-for-ai-protections-staged-by-propublicas-journalists?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Discussion](https://news.slashdot.org/story/26/04/11/0354220/first-us-newsroom-strike-for-ai-protections-staged-by-propublicas-journalists?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Standard Model of Particle Physics Verified to One Trillionth Accuracy](https://soylentnews.org/article.pl?sid=26/04/10/0256206&amp;from=rss) - Landmark study achieves unprecedented precision in verifying the Standard Model of particle physics.
 
-* [Bouncer: Block 'crypto', 'rage politics', and more from your X feed using AI](https://github.com/imbue-ai/bouncer) - [Discussion](https://news.ycombinator.com/item?id=47741531)
+## Cultural Shifts and Lifestyle
 
-## Education and Innovation
+* ['Super Mario Galaxy Movie' and 'Project Hail Mary' Combine for Best Box Office in 7 Years](https://entertainment.slashdot.org/story/26/04/12/2010229/super-mario-galaxy-movie-and-project-hail-mary-combine-for-best-box-office-in-7-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A video game-inspired movie collaboration smashes records at the box office.
 
-* [Speeding up access to OpenStreetMap vector tiles](https://www.openstreetmap.org/user/SomeoneElse/diary/408501) - [Discussion](https://lobste.rs/s/hkmwlc/speeding_up_access_openstreetmap_vector)
+* [Phyphox – Physical Experiments Using a Smartphone](https://phyphox.org/) - Introducing a versatile app that allows smartphone users to conduct various physical experiments.
 
-* [Reading Is Magic](https://samkriss.substack.com/p/reading-is-magic) - [Discussion](https://news.ycombinator.com/item?id=47742002)
+* [DIY Soft Drinks](https://blinry.org/diy-soft-drinks/) - A guide to crafting your own soft drinks at home.
 
-* [Sweden Goes Back to Basics, Swapping Screens for Books in the Classroom](https://soylentnews.org/article.pl?sid=26/04/06/234206&from=rss) - [Discussion](https://soylentnews.org/article.pl?sid=26/04/06/234206&from=rss)
+## Technology and Ethical Concerns
 
-## Unusual Developments & Concepts
+* [Tech Industry Lays Off Nearly 80,000 Employees in the First Quarter of 2026 (Almost 50% Due to AI)](https://soylentnews.org/article.pl?sid=26/04/11/0313203&amp;from=rss) - Examining the widespread layoffs in the tech industry, with nearly half attributed to advancements in AI.
 
-* [Oxygen Made From Moon Dust For First Time](https://science.slashdot.org/story/26/04/11/2250208/oxygen-made-from-moon-dust-for-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Discussion](https://science.slashdot.org/story/26/04/11/2250208/oxygen-made-from-moon-dust-for-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Federal Cyber Experts Called Microsoft's Cloud a “Pile of Sh*T,” Approved It Anyway](https://soylentnews.org/article.pl?sid=26/04/11/0256207&amp;from=rss) - Allegations surface about federal approval of Microsoft Cloud despite security concerns.
 
-* [Eternity in six hours: Intergalactic spreading of intelligent life (2013)](https://www.researchgate.net/publication/256935390_Eternity_in_six_hours_Intergalactic_spreading_of_intelligent_life_and_sharpening_the_Fermi_paradox) - [Discussion](https://news.ycombinator.com/item?id=47740315)
+* [Judge Pauses Arizona's Prosecution of Kalshi, Bars Arizona from Regulating Prediction Markets](https://yro.slashdot.org/story/26/04/12/025259/judge-pauses-arizonas-prosecution-of-kalshi-bars-arizona-from-regulating-prediction-markets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A judge halts Arizona's legal action against Kalshi and makes a ruling on prediction market regulation.
 
-* [The Physics of GPS](https://perthirtysix.com/how-does-gps-work) - [Discussion](https://news.ycombinator.com/item?id=47738343)
+* [EFF is Leaving X](https://soylentnews.org/article.pl?sid=26/04/10/0259257&amp;from=rss) - The Electronic Frontier Foundation announces it's ending its presence on X, citing major concerns.
 
-* [The End of Eleventy](https://brennan.day/the-end-of-eleventy/) - [Discussion](https://lobste.rs/s/s8znzv/end_eleventy)
+## Historical and Uncommon Insights
 
-## Economic and Policy Implications
+* [Latin America's Central Banks Establish Digital Payments Used By Hundreds of Millions](https://news.slashdot.org/story/26/04/12/0053202/latin-americas-central-banks-establish-digital-payments-used-by-hundreds-of-millions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The formation of a digital currency system connecting millions in Latin America sparks innovation.
 
-* [Judge Pauses Arizona's Prosecution of Kalshi, Bars Arizona from Regulating Prediction Markets](https://yro.slashdot.org/story/26/04/12/025259/judge-pauses-arizonas-prosecution-of-kalshi-bars-arizona-from-regulating-prediction-markets?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Discussion](https://yro.slashdot.org/story/26/04/12/025259/judge-pauses-arizonas-prosecution-of-kalshi-bars-arizona-from-regulating-prediction-markets?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Amazon Luna Ends Its Support for Purchased Games and Third-Party Subscriptions](https://games.slashdot.org/story/26/04/11/2130243/amazon-luna-ends-its-support-for-purchased-games-and-third-party-subscriptions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Amazon Luna makes an unexpected shift away from supporting purchased games.
 
-* [Standard Model of Particle Physics Verified to One Trillionth Accuracy](https://soylentnews.org/article.pl?sid=26/04/10/0256206&from=rss) - [Discussion](https://soylentnews.org/article.pl?sid=26/04/10/0256206&from=rss)
+* [Seven countries now generate 100% of their electricity from renewable energy](https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html) - Could the all-renewable energy models of seven nations serve as a template for the world?
 
-* [Seven Countries Now Generate 100% of Their Electricity from Renewable Energy](https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html) - [Discussion](https://news.ycombinator.com/item?id=47739313)
+## Creative and Unconventional Projects
 
-* [Botched IT Upgrade Ended Liquor Sales for the Entire State of Mississippi](https://news.slashdot.org/story/26/04/12/1728224/botched-it-upgrade-ended-liquor-sales-for-the-entire-state-of-mississippi?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Discussion](https://news.slashdot.org/story/26/04/12/1728224/botched-it-upgrade-ended-liquor-sales-for-the-entire-state-of-mississippi?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [DOOM, played over cURL](https://github.com/xsawyerx/curl-doom) - A novel way to experience the iconic DOOM game via cURL demonstrates creative coding.
+
+* [I gave every train in New York an instrument](https://www.trainjazz.com/) - A unique project turns New York City subway trains into instruments for a symphony of transit.
 
 ---
 
@@ -73,6 +75,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-04-12, 21:52:00](https://hardware.slashdot.org/story/26/04/12/2149242/how-good-is-windows-on-arm-with-snapdragon-x?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Good is Windows on Arm With Snapdragon X?](https://hardware.slashdot.org/story/26/04/12/2149242/how-good-is-windows-on-arm-with-snapdragon-x?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-12, 21:34:10](https://lobste.rs/s/pel3uq/undocumented_bug_apollo_11_guidance) - [An undocumented bug in the Apollo 11 guidance computer code](https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/)
+* [2026-04-12, 21:19:55](https://lobste.rs/s/kulbhu/mark_s_magic_multiply) - [Mark’s Magic Multiply](https://wren.wtf/shower-thoughts/marks-magic-multiply/)
+* [2026-04-12, 21:16:45](https://news.ycombinator.com/item?id=47744598) - [Inventors Who Didn&apos;t Invent What They Are Famous for Inventing](https://www.wsj.com/tech/us-famous-inventions-inventors-wrong-3d5b0a0f)
+* [2026-04-12, 20:50:50](https://lobste.rs/s/tphqlg/i_want_better_build_action_graph) - [I want a better [build] action graph serialization](https://jyn.dev/i-want-a-better-action-graph-serialization/)
+* [2026-04-12, 20:31:59](https://lobste.rs/s/9ihinj/business_case_for_vanilla_js) - [The Business Case for Vanilla JS](https://lewiscampbell.tech/blog/250430.html)
+* [2026-04-12, 20:13:00](https://entertainment.slashdot.org/story/26/04/12/2010229/super-mario-galaxy-movie-and-project-hail-mary-combine-for-best-box-office-in-7-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Super Mario Galaxy Movie&apos; and &apos;Project Hail Mary&apos; Combine for Best Box Office in 7 Years](https://entertainment.slashdot.org/story/26/04/12/2010229/super-mario-galaxy-movie-and-project-hail-mary-combine-for-best-box-office-in-7-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-12, 19:53:57](https://lobste.rs/s/7fhahl/48_hours_ago_lobste_rs_surpassed_20_000) - [48 hours ago lobste.rs surpassed 20,000 users](https://lobste.rs/s/7fhahl/48_hours_ago_lobste_rs_surpassed_20_000)
+* [2026-04-12, 19:53:08](https://news.ycombinator.com/item?id=47743730) - [Google removes \&quot;Doki Doki Literature Club\&quot; from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t)
+* [2026-04-12, 19:51:06](https://news.ycombinator.com/item?id=47743700) - [European AI. A playbook to own it](https://europe.mistral.ai/)
+* [2026-04-12, 19:44:40](https://news.ycombinator.com/item?id=47743628) - [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)
 * [2026-04-12, 19:17:36](https://lobste.rs/s/tmddcs/peril_laziness_lost) - [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)
 * [2026-04-12, 19:02:00](https://soylentnews.org/article.pl?sid=26/04/11/0313203&amp;from=rss) - [Tech Industry Lays Off Nearly 80,000 Employees in the First Quarter of 2026 (Almost 50% Due to AI)](https://soylentnews.org/article.pl?sid=26/04/11/0313203&amp;from=rss)
 * [2026-04-12, 19:01:46](https://lobste.rs/s/o2b59m/forgejo_monthly_report_march_2026) - [Forgejo monthly report - March 2026](https://forgejo.org/2026-03-monthly-report/)
@@ -82,14 +95,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-12, 17:56:19](https://lobste.rs/s/hkmwlc/speeding_up_access_openstreetmap_vector) - [Speeding up access to OpenStreetMap vector tiles](https://www.openstreetmap.org/user/SomeoneElse/diary/408501)
 * [2026-04-12, 17:34:00](https://news.slashdot.org/story/26/04/12/1728224/botched-it-upgrade-ended-liquor-sales-for-the-entire-state-of-mississippi?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Botched IT Upgrade Ended Liquor Sales for the Entire State of Mississippi](https://news.slashdot.org/story/26/04/12/1728224/botched-it-upgrade-ended-liquor-sales-for-the-entire-state-of-mississippi?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-12, 17:25:44](https://news.ycombinator.com/item?id=47742200) - [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/)
-* [2026-04-12, 17:15:32](https://lobste.rs/s/8uzwtc/introduction_icon_animation_techniques) - [An Introduction to Icon Animation Techniques (2016)](https://www.androiddesignpatterns.com/2016/11/introduction-to-icon-animation-techniques.html)
-* [2026-04-12, 17:06:31](https://news.ycombinator.com/item?id=47742002) - [Reading Is Magic](https://samkriss.substack.com/p/reading-is-magic)
 * [2026-04-12, 17:01:26](https://news.ycombinator.com/item?id=47741953) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2026-04-12, 16:55:20](https://news.ycombinator.com/item?id=47741889) - [Show HN: Claudraband – Claude Code for the Power User](https://github.com/halfwhey/claudraband)
 * [2026-04-12, 16:38:43](https://news.ycombinator.com/item?id=47741701) - [DIY Soft Drinks](https://blinry.org/diy-soft-drinks/)
-* [2026-04-12, 16:34:00](https://hardware.slashdot.org/story/26/04/12/0640253/neuroscientist-ai-powered-startup-aims-to-transform-human-cognition-with-perfect-infinite-memory?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Neuroscientist&apos; AI-Powered Startup AIms To Transform Human Cognition With Perfect, Infinite Memory](https://hardware.slashdot.org/story/26/04/12/0640253/neuroscientist-ai-powered-startup-aims-to-transform-human-cognition-with-perfect-infinite-memory?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-12, 16:33:19](https://news.ycombinator.com/item?id=47741634) - [Building a SaaS in 2026 Using Only EU Infrastructure](https://eualternative.eu/guides/building-saas-eu-stack/)
-* [2026-04-12, 16:24:46](https://news.ycombinator.com/item?id=47741531) - [Bouncer: Block \&quot;crypto\&quot;, \&quot;rage politics\&quot;, and more from your X feed using AI](https://github.com/imbue-ai/bouncer)
+* [2026-04-12, 16:34:00](https://hardware.slashdot.org/story/26/04/12/0640253/neuroscientists-ai-powered-startup-aims-to-transform-human-cognition-with-perfect-infinite-memory?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Neuroscientist&apos;s AI-Powered Startup Aims To Transform Human Cognition With Perfect, Infinite Memory](https://hardware.slashdot.org/story/26/04/12/0640253/neuroscientists-ai-powered-startup-aims-to-transform-human-cognition-with-perfect-infinite-memory?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-12, 16:24:43](https://news.ycombinator.com/item?id=47741527) - [Ask HN: What Are You Working On? (April 2026)](https://news.ycombinator.com/item?id=47741527)
 * [2026-04-12, 16:19:15](https://lobste.rs/s/5ywxzh/bring_back_idiomatic_design) - [Bring Back Idiomatic Design](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design)
 * [2026-04-12, 16:17:59](https://news.ycombinator.com/item?id=47741460) - [Investigating How Long-Distance Couples Use Digital Games to Facilitate Intimacy](https://arxiv.org/abs/2505.09509)
@@ -97,7 +106,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-12, 15:53:24](https://lobste.rs/s/gptqt7/how_i_run_multiple_10k_mrr_companies_on_20) - [How I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack)
 * [2026-04-12, 15:34:00](https://science.slashdot.org/story/26/04/12/0511204/dna-level-encryption-developed-by-researchers-to-protect-the-secrets-of-bioengineered-cells?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DNA-Level Encryption Developed by Researchers to Protect the Secrets of Bioengineered Cells](https://science.slashdot.org/story/26/04/12/0511204/dna-level-encryption-developed-by-researchers-to-protect-the-secrets-of-bioengineered-cells?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-12, 14:56:18](https://lobste.rs/s/ogz2ro/what_is_property) - [What is a property?](https://alperenkeles.com/posts/what-is-a-property/)
-* [2026-04-12, 14:43:23](https://news.ycombinator.com/item?id=47740315) - [Eternity in six hours: Intergalactic spreading of intelligent life (2013)](https://www.researchgate.net/publication/256935390_Eternity_in_six_hours_Intergalactic_spreading_of_intelligent_life_and_sharpening_the_Fermi_paradox)
 * [2026-04-12, 14:34:00](https://linux.slashdot.org/story/26/04/12/063252/greg-kroah-hartman-tests-new-clanker-t1000-fuzzing-tool-for-linux-patches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Greg Kroah-Hartman Tests New &apos;Clanker T1000&apos; Fuzzing Tool for Linux Patches](https://linux.slashdot.org/story/26/04/12/063252/greg-kroah-hartman-tests-new-clanker-t1000-fuzzing-tool-for-linux-patches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-12, 14:15:00](https://soylentnews.org/article.pl?sid=26/04/11/037238&amp;from=rss) - [Dad Stuck in Support Nightmare After Teen Lied About Age on Discord](https://soylentnews.org/article.pl?sid=26/04/11/037238&amp;from=rss)
 * [2026-04-12, 13:21:39](https://news.ycombinator.com/item?id=47739313) - [Seven countries now generate 100% of their electricity from renewable energy](https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html)
@@ -108,7 +116,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-12, 11:10:18](https://news.ycombinator.com/item?id=47738343) - [The Physics of GPS](https://perthirtysix.com/how-does-gps-work)
 * [2026-04-12, 10:34:00](https://news.slashdot.org/story/26/04/11/2331242/crypto-billionaire-pardoned-in-prison-by-trump-just-wrote-a-memoir?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Crypto Billionaire Pardoned In Prison By Trump Just Wrote a Memoir](https://news.slashdot.org/story/26/04/11/2331242/crypto-billionaire-pardoned-in-prison-by-trump-just-wrote-a-memoir?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-12, 10:29:26](https://news.ycombinator.com/item?id=47738094) - [JVM Options Explorer](https://chriswhocodes.com/vm-options-explorer.html)
-* [2026-04-12, 10:24:23](https://lobste.rs/s/oh3snl/what_ios_lockdown_mode_actually_does) - [What iOS Lockdown mode actually does](https://www.youtube.com/watch?v=5D3lWDUEJA8)
 * [2026-04-12, 10:04:37](https://lobste.rs/s/apczke/doom_played_over_curl) - [DOOM, played over cURL](https://github.com/xsawyerx/curl-doom)
 * [2026-04-12, 10:01:54](https://news.ycombinator.com/item?id=47737876) - [Doom, Played over Curl](https://github.com/xsawyerx/curl-doom)
 * [2026-04-12, 09:33:00](https://soylentnews.org/article.pl?sid=26/04/11/0256207&amp;from=rss) - [Federal Cyber Experts Called Microsoft&apos;s Cloud a “Pile of Sh*T,” Approved It Anyway](https://soylentnews.org/article.pl?sid=26/04/11/0256207&amp;from=rss)
@@ -122,7 +129,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-12, 05:45:52](https://news.ycombinator.com/item?id=47736476) - [Anthropic downgraded cache TTL on March 6th](https://github.com/anthropics/claude-code/issues/46829)
 * [2026-04-12, 04:44:00](https://soylentnews.org/article.pl?sid=26/04/11/0245252&amp;from=rss) - [3D Printing a Motor--Some First Steps](https://soylentnews.org/article.pl?sid=26/04/11/0245252&amp;from=rss)
 * [2026-04-12, 04:07:00](https://news.slashdot.org/story/26/04/12/0053202/latin-americas-central-banks-establish-digital-payments-used-by-hundreds-of-millions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Latin America&apos;s Central Banks Establish Digital Payments Used By Hundreds of Millions](https://news.slashdot.org/story/26/04/12/0053202/latin-americas-central-banks-establish-digital-payments-used-by-hundreds-of-millions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-12, 02:15:08](https://lobste.rs/s/xwxhuz/how_gran_turismo_s_creator_snuck_sim_into) - [How Gran Turismo&apos;s Creator Snuck a Sim Into a Mario Kart Rival to Persuade Sony Execs](https://www.thedrive.com/features/how-gran-turismos-creator-snuck-a-sim-into-a-mario-kart-rival-to-persuade-sony-execs)
 * [2026-04-12, 02:07:00](https://yro.slashdot.org/story/26/04/12/025259/judge-pauses-arizonas-prosecution-of-kalshi-bars-arizona-from-regulating-prediction-markets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Judge Pauses Arizona&apos;s Prosecution of Kalshi, Bars Arizona from Regulating Prediction Markets](https://yro.slashdot.org/story/26/04/12/025259/judge-pauses-arizonas-prosecution-of-kalshi-bars-arizona-from-regulating-prediction-markets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-12, 00:10:54](https://lobste.rs/s/66gclj/surely_there_must_be_way_make_container) - [Surely there must be a way to make container secrets less dangerous?](https://dalmatian.life/2026/04/11/surely-there-must-be-a-way-to-make-container-secrets-less-dangerous/)
 * [2026-04-12, 00:03:00](https://soylentnews.org/article.pl?sid=26/04/11/0242235&amp;from=rss) - [This New &apos;Laughing Rat&apos; Malware Will Steal Your Data, Hack Your Systems, and Laugh at You](https://soylentnews.org/article.pl?sid=26/04/11/0242235&amp;from=rss)
@@ -135,21 +141,18 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-11, 19:18:00](https://soylentnews.org/article.pl?sid=26/04/10/0259257&amp;from=rss) - [EFF is Leaving X](https://soylentnews.org/article.pl?sid=26/04/10/0259257&amp;from=rss)
 * [2026-04-11, 19:17:47](https://lobste.rs/s/dbm3sa/writing_design_docs) - [Writing design docs](https://blog.ceejbot.com/posts/design-docs/)
 * [2026-04-11, 19:15:56](https://news.ycombinator.com/item?id=47733217) - [Exploiting the most prominent AI agent benchmarks](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
-* [2026-04-11, 19:00:34](https://lobste.rs/s/wbdjkp/bringing_rust_pixel_baseband) - [Bringing Rust to the Pixel Baseband](https://security.googleblog.com/2026/04/bringing-rust-to-pixel-baseband.html)
-* [2026-04-11, 18:34:00](https://news.slashdot.org/story/26/04/11/0354220/first-us-newsroom-strike-for-ai-protections-staged-by-propublicas-journalists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [First US Newsroom Strike For AI Protections Staged by ProPublica&apos;s Journalists](https://news.slashdot.org/story/26/04/11/0354220/first-us-newsroom-strike-for-ai-protections-staged-by-propublicas-journalists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-11, 17:34:00](https://hardware.slashdot.org/story/26/04/11/0539235/the-ai-ram-shortage-is-also-driving-up-ssd-prices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The AI RAM Shortage is Also Driving Up SSD Prices](https://hardware.slashdot.org/story/26/04/11/0539235/the-ai-ram-shortage-is-also-driving-up-ssd-prices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-11, 14:35:00](https://soylentnews.org/article.pl?sid=26/04/10/0256206&amp;from=rss) - [Standard Model of Particle Physics Verified to One Trillionth Accuracy](https://soylentnews.org/article.pl?sid=26/04/10/0256206&amp;from=rss)
 * [2026-04-11, 13:05:45](https://lobste.rs/s/2urycz/git_fixup_is_magic_magit_is_too) - [Git fixup is magic (and Magit is too)](https://arialdomartini.github.io/git-fixup)
 * [2026-04-11, 11:18:56](https://lobste.rs/s/sqsb24/sqlite_3_53_0) - [SQLite 3.53.0](https://sqlite.org/releaselog/3_53_0.html)
 * [2026-04-11, 09:58:56](https://lobste.rs/s/t1uxjh/i_just_want_simple_s3) - [I Just Want Simple S3](https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/)
 * [2026-04-11, 09:50:00](https://soylentnews.org/article.pl?sid=26/04/10/0254231&amp;from=rss) - [Toward Cheaper, Cleaner Hydrogen Production](https://soylentnews.org/article.pl?sid=26/04/10/0254231&amp;from=rss)
 * [2026-04-11, 09:03:34](https://news.ycombinator.com/item?id=47728879) - [Mark&apos;s Magic Multiply](https://wren.wtf/shower-thoughts/marks-magic-multiply/)
-* [2026-04-11, 06:57:36](https://lobste.rs/s/lynvme/20_years_on_aws_never_not_my_job) - [20 Years on AWS and Never Not My Job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html)
 * [2026-04-11, 05:09:00](https://soylentnews.org/article.pl?sid=26/04/10/0250211&amp;from=rss) - [Honda Hits Brakes On EV Rollout Amid Rising Losses](https://soylentnews.org/article.pl?sid=26/04/10/0250211&amp;from=rss)
 * [2026-04-11, 00:27:00](https://soylentnews.org/article.pl?sid=26/04/10/0248230&amp;from=rss) - [Ancient Rocks Reveal Evidence of the First Continents and Crust Recycling Processes on Earth](https://soylentnews.org/article.pl?sid=26/04/10/0248230&amp;from=rss)
 * [2026-04-10, 19:36:00](https://soylentnews.org/article.pl?sid=26/04/09/067240&amp;from=rss) - [Adobe Secretly Modifies Your Hosts File for the Stupidest Reason](https://soylentnews.org/article.pl?sid=26/04/09/067240&amp;from=rss)
 * [2026-04-10, 15:21:07](https://news.ycombinator.com/item?id=47719490) - [I gave every train in New York an instrument](https://www.trainjazz.com/)
 * [2026-04-10, 14:53:00](https://soylentnews.org/article.pl?sid=26/04/09/065206&amp;from=rss) - [Debian’s APT 3.2 Released with History, Undo, Redo, and Rollback Support](https://soylentnews.org/article.pl?sid=26/04/09/065206&amp;from=rss)
+* [2026-04-10, 13:16:12](https://news.ycombinator.com/item?id=47717690) - [Cooperative Vectors Introduction](https://www.evolvebenchmark.com/blog-posts/cooperative-vectors-introduction)
 * [2026-04-10, 10:07:00](https://soylentnews.org/article.pl?sid=26/04/08/1917256&amp;from=rss) - [Researchers Discover How to Dampen Electronic Noise Using Nanowires](https://soylentnews.org/article.pl?sid=26/04/08/1917256&amp;from=rss)
 * [2026-04-10, 05:23:00](https://soylentnews.org/article.pl?sid=26/04/08/1916208&amp;from=rss) - [White House Seeks Deep NASA Cuts as Artemis II Breaks Spaceflight Record](https://soylentnews.org/article.pl?sid=26/04/08/1916208&amp;from=rss)
 * [2026-04-10, 00:37:00](https://soylentnews.org/article.pl?sid=26/04/08/1912232&amp;from=rss) - [&apos;Voorhees Law&apos; Explains Why the Slower Car Often Catches up](https://soylentnews.org/article.pl?sid=26/04/08/1912232&amp;from=rss)
