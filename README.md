@@ -1,52 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Legal and Regulatory Changes
+## Technological Innovations and Challenges
 
-* [US appeals court declares 158-year-old home distilling ban unconstitutional](https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional) ([comments](https://news.ycombinator.com/item?id=47736298))
+* [AI That Bankrupted a Vending Machine is Now Running a Store in San Francisco](https://slashdot.org/story/26/04/12/0447236/ai-that-bankrupted-a-vending-machine-is-now-running-a-store-in-san-francisco?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Comments](https://slashdot.org/story/26/04/12/0447236/ai-that-bankrupted-a-vending-machine-is-now-running-a-store-in-san-francisco?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Judge Pauses Arizona's Prosecution of Kalshi, Bars Arizona from Regulating Prediction Markets](https://yro.slashdot.org/story/26/04/12/025259/judge-pauses-arizonas-prosecution-of-kalshi-bars-arizona-from-regulating-prediction-markets?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47735581))
+* [How a dancer with ALS used brainwaves to perform live](https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/) - [Comments](https://news.ycombinator.com/item?id=47735581)
 
-* [US Demands Reddit Unmask ICE Critic, Summons Firm To Grand Jury](https://yro.slashdot.org/story/26/04/11/0114251/us-demands-reddit-unmask-ice-critic-summons-firm-to-grand-jury?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47730194))
+* [Researchers Build a Talking Robot Guide Dog to Help Visually Impaired People Navigate](https://hardware.slashdot.org/story/26/04/11/0437259/researchers-build-a-talking-robot-guide-dog-to-help-visually-impaired-people-navigate?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Comments](https://hardware.slashdot.org/story/26/04/11/0437259/researchers-build-a-talking-robot-guide-dog-to-help-visually-impaired-people-navigate?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Technology and Innovation
+* [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269) - [Comments](https://news.ycombinator.com/item?id=47733561)
 
-* [3D Printing a Motor--Some First Steps](https://soylentnews.org/article.pl?sid=26/04/11/0245252&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/11/0245252&from=rss))
+## Legal and Political Developments
 
-* [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269) ([comments](https://news.ycombinator.com/item?id=47733561))
+* [US appeals court declares 158-year-old home distilling ban unconstitutional](https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional) - [Comments](https://news.ycombinator.com/item?id=47736298)
 
-* [Researchers Build a Talking Robot Guide Dog to Help Visually Impaired People Navigate](https://hardware.slashdot.org/story/26/04/11/0437259/researchers-build-a-talking-robot-guide-dog-to-help-visually-impaired-people-navigate?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/04/11/0437259/researchers-build-a-talking-robot-guide-dog-to-help-visually-impaired-people-navigate?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Judge Pauses Arizona's Prosecution of Kalshi, Bars Arizona from Regulating Prediction Markets](https://yro.slashdot.org/story/26/04/12/025259/judge-pauses-arizonas-prosecution-of-kalshi-bars-arizona-from-regulating-prediction-markets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Comments](https://yro.slashdot.org/story/26/04/12/025259/judge-pauses-arizonas-prosecution-of-kalshi-bars-arizona-from-regulating-prediction-markets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets](https://arxiv.org/abs/2604.07902) ([comments](https://lobste.rs/s/wm1uxw/optimization_32_bit_unsigned_division_by))
+* [US Demands Reddit Unmask ICE Critic, Summons Firm To Grand Jury](https://yro.slashdot.org/story/26/04/11/0114251/us-demands-reddit-unmask-ice-critic-summons-firm-to-grand-jury?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Comments](https://yro.slashdot.org/story/26/04/11/0114251/us-demands-reddit-unmask-ice-critic-summons-firm-to-grand-jury?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Society and Culture
+## Scientific Advances and Discoveries
 
-* [How a dancer with ALS used brainwaves to perform live](https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/) ([comments](https://news.ycombinator.com/item?id=47735581))
+* [Oxygen Made From Moon Dust For First Time](https://science.slashdot.org/story/26/04/11/2250208/oxygen-made-from-moon-dust-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Comments](https://science.slashdot.org/story/26/04/11/2250208/oxygen-made-from-moon-dust-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Two-Week Social Media 'Detox' Erases a Decade of Age-Related Decline, Study Finds](https://tech.slashdot.org/story/26/04/11/0149225/two-week-social-media-detox-erases-a-decade-of-age-related-decline-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/04/11/0149225/two-week-social-media-detox-erases-a-decade-of-age-related-decline-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Standard Model of Particle Physics Verified to One Trillionth Accuracy](https://soylentnews.org/article.pl?sid=26/04/10/0256206&amp;from=rss) - [Comments](https://soylentnews.org/article.pl?sid=26/04/10/0256206&amp;from=rss)
 
-## Economic Trends and Business
+* [Ancient Rocks Reveal Evidence of the First Continents and Crust Recycling Processes on Earth](https://soylentnews.org/article.pl?sid=26/04/10/0248230&amp;from=rss) - [Comments](https://soylentnews.org/article.pl?sid=26/04/10/0248230&amp;from=rss)
 
-* [Latin America's Central Banks Establish Digital Payments Used By Hundreds of Millions](https://news.slashdot.org/story/26/04/12/0053202/latin-americas-central-banks-establish-digital-payments-used-by-hundreds-of-millions?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/04/12/0053202/latin-americas-central-banks-establish-digital-payments-used-by-hundreds-of-millions?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Cybersecurity and Privacy Issues
 
-* [EFF is Leaving X](https://soylentnews.org/article.pl?sid=26/04/10/0259257&from=rss) ([comments](https://lobste.rs/s/dbm3sa/writing_design_docs))
+* [This New 'Laughing Rat' Malware Will Steal Your Data, Hack Your Systems, and Laugh at You](https://soylentnews.org/article.pl?sid=26/04/11/0242235&amp;from=rss) - [Comments](https://soylentnews.org/article.pl?sid=26/04/11/0242235&amp;from=rss)
 
-* [Social Media is Virtually Useless for Publishers to Attract Readers](https://soylentnews.org/article.pl?sid=26/04/08/197218&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/08/197218&from=rss))
+* [Windows Defender is being used to hack Windows](https://hackingpassion.com/bluehammer-windows-defender-zero-day/) - [Comments](https://lobste.rs/s/hihcnv/windows_defender_is_being_used_hack)
 
-## Space and Science
+* [CPUID Site Hijacked To Serve Malware Instead of HWMonitor Downloads](https://it.slashdot.org/story/26/04/11/012218/cpuid-site-hijacked-to-serve-malware-instead-of-hwmonitor-downloads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Comments](https://it.slashdot.org/story/26/04/11/012218/cpuid-site-hijacked-to-serve-malware-instead-of-hwmonitor-downloads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Oxygen Made From Moon Dust For First Time](https://science.slashdot.org/story/26/04/11/2250208/oxygen-made-from-moon-dust-for-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/04/11/2250208/oxygen-made-from-moon-dust-for-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Historical and Cultural Retrospectives
 
-* [Artemis II Astronauts Splash Down Off California's Coast](https://science.slashdot.org/story/26/04/11/0052229/artemis-ii-astronauts-splash-down-off-californias-coast?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/04/11/0052229/artemis-ii-astronauts-splash-down-off-californias-coast?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Software Preservation Group: C++ History Collection](https://softwarepreservation.computerhistory.org/c_plus_plus/) - [Comments](https://news.ycombinator.com/item?id=47735405)
 
-* [Standard Model of Particle Physics Verified to One Trillionth Accuracy](https://soylentnews.org/article.pl?sid=26/04/10/0256206&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/10/0256206&from=rss))
-
-## Security and Privacy
-
-* [Windows Defender is being used to hack Windows](https://hackingpassion.com/bluehammer-windows-defender-zero-day/) ([comments](https://lobste.rs/s/hihcnv/windows_defender_is_being_used_hack))
-
-* [Big Tech Knows New AI Models Ripe For Cyberattacks — But Plans To Release Them Anyway](https://soylentnews.org/article.pl?sid=26/04/07/2126219&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/07/2126219&from=rss))
-
-* [Linux Kernel AI Coding Assistants Policy](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst) ([comments](https://lobste.rs/s/buppqa/linux_kernel_ai_coding_assistants_policy))
+* [The APL programming language source code (2012)](https://computerhistory.org/blog/the-apl-programming-language-source-code/) - [Comments](https://news.ycombinator.com/item?id=47732402)
 
 ---
 
@@ -73,22 +65,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-04-12, 07:40:27](https://lobste.rs/s/ipqq90/quest_for_perfect_2d_sprite_pipeline) - [The quest for the perfect 2D sprite pipeline](https://www.coldbytesgames.com/blog/sprite_pipeline/)
+* [2026-04-12, 07:34:00](https://slashdot.org/story/26/04/12/0447236/ai-that-bankrupted-a-vending-machine-is-now-running-a-store-in-san-francisco?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI That Bankrupted a Vending Machine is Now Running a Store in San Francisco](https://slashdot.org/story/26/04/12/0447236/ai-that-bankrupted-a-vending-machine-is-now-running-a-store-in-san-francisco?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-12, 07:25:13](https://lobste.rs/s/xkayyn/how_build_git_diff_driver) - [How to build a git diff driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
+* [2026-04-12, 05:56:33](https://lobste.rs/s/s8znzv/end_eleventy) - [The End of Eleventy](https://brennan.day/the-end-of-eleventy/)
+* [2026-04-12, 05:51:20](https://lobste.rs/s/uahlqe/why_i_m_building_database_engine_c) - [Why I&apos;m Building a Database Engine in C#](https://nockawa.github.io/blog/why-building-database-engine-in-csharp/)
 * [2026-04-12, 05:08:03](https://news.ycombinator.com/item?id=47736298) - [US appeals court declares 158-year-old home distilling ban unconstitutional](https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional)
-* [2026-04-12, 04:49:33](https://news.ycombinator.com/item?id=47736235) - [US – Iran negotiations end with no deal reached](https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan)
 * [2026-04-12, 04:44:00](https://soylentnews.org/article.pl?sid=26/04/11/0245252&amp;from=rss) - [3D Printing a Motor--Some First Steps](https://soylentnews.org/article.pl?sid=26/04/11/0245252&amp;from=rss)
-* [2026-04-12, 04:31:13](https://news.ycombinator.com/item?id=47736172) - [The Brainrot Industrial Complex](https://jshamsul.com/essays/2026-04-12-brainrot-industrial-complex)
 * [2026-04-12, 04:07:00](https://news.slashdot.org/story/26/04/12/0053202/latin-americas-central-banks-establish-digital-payments-used-by-hundreds-of-millions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Latin America&apos;s Central Banks Establish Digital Payments Used By Hundreds of Millions](https://news.slashdot.org/story/26/04/12/0053202/latin-americas-central-banks-establish-digital-payments-used-by-hundreds-of-millions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-12, 03:34:13](https://news.ycombinator.com/item?id=47735927) - [Excellence Is a Habit](https://www.flyingbarron.com/2026/04/excellence-is-habit.html)
 * [2026-04-12, 03:04:05](https://news.ycombinator.com/item?id=47735810) - [Why meaningful days look like nothing while you are living them](https://pilgrima.ge/p/the-grand-line)
 * [2026-04-12, 02:57:24](https://news.ycombinator.com/item?id=47735779) - [Building a Z-Machine in the worst possible language – Whitebeard&apos;s Realm](https://whitebeard.blog/posts/building-a-z-machine-in-elm/)
 * [2026-04-12, 02:09:13](https://news.ycombinator.com/item?id=47735581) - [How a dancer with ALS used brainwaves to perform live](https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/)
 * [2026-04-12, 02:07:00](https://yro.slashdot.org/story/26/04/12/025259/judge-pauses-arizonas-prosecution-of-kalshi-bars-arizona-from-regulating-prediction-markets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Judge Pauses Arizona&apos;s Prosecution of Kalshi, Bars Arizona from Regulating Prediction Markets](https://yro.slashdot.org/story/26/04/12/025259/judge-pauses-arizonas-prosecution-of-kalshi-bars-arizona-from-regulating-prediction-markets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-12, 01:55:48](https://news.ycombinator.com/item?id=47735535) - [The End of Eleventy](https://brennan.day/the-end-of-eleventy/)
-* [2026-04-12, 01:47:07](https://news.ycombinator.com/item?id=47735507) - [Used Graphify to turn incidents into a queryable knowledge graph](https://github.com/Rootly-AI-Labs/rootly-graphify-importer)
 * [2026-04-12, 01:24:25](https://news.ycombinator.com/item?id=47735405) - [Software Preservation Group: C++ History Collection](https://softwarepreservation.computerhistory.org/c_plus_plus/)
 * [2026-04-12, 00:10:54](https://lobste.rs/s/66gclj/surely_there_must_be_way_make_container) - [Surely there must be a way to make container secrets less dangerous?](https://dalmatian.life/2026/04/11/surely-there-must-be-a-way-to-make-container-secrets-less-dangerous/)
 * [2026-04-12, 00:03:00](https://soylentnews.org/article.pl?sid=26/04/11/0242235&amp;from=rss) - [This New &apos;Laughing Rat&apos; Malware Will Steal Your Data, Hack Your Systems, and Laugh at You](https://soylentnews.org/article.pl?sid=26/04/11/0242235&amp;from=rss)
-* [2026-04-11, 23:37:43](https://news.ycombinator.com/item?id=47734912) - [Midnight Captain – A midnight commander inspired file manager](https://github.com/duguyue100/midnight-captain)
+* [2026-04-11, 23:30:40](https://news.ycombinator.com/item?id=47734878) - [High-Level Rust: Getting 80% of the Benefits with 20% of the Pain](https://hamy.xyz/blog/2026-01_high-level-rust)
 * [2026-04-11, 22:52:00](https://science.slashdot.org/story/26/04/11/2250208/oxygen-made-from-moon-dust-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Oxygen Made From Moon Dust For First Time](https://science.slashdot.org/story/26/04/11/2250208/oxygen-made-from-moon-dust-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-11, 22:25:07](https://lobste.rs/s/wm1uxw/optimization_32_bit_unsigned_division_by) - [Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets](https://arxiv.org/abs/2604.07902)
 * [2026-04-11, 21:34:00](https://games.slashdot.org/story/26/04/11/2130243/amazon-luna-ends-its-support-for-purchased-games-and-third-party-subscriptions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Luna Ends Its Support for Purchased Games and Third-Party Subscriptions](https://games.slashdot.org/story/26/04/11/2130243/amazon-luna-ends-its-support-for-purchased-games-and-third-party-subscriptions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -103,8 +96,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-11, 19:17:47](https://lobste.rs/s/dbm3sa/writing_design_docs) - [Writing design docs](https://blog.ceejbot.com/posts/design-docs/)
 * [2026-04-11, 19:15:56](https://news.ycombinator.com/item?id=47733217) - [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
 * [2026-04-11, 19:00:34](https://lobste.rs/s/wbdjkp/bringing_rust_pixel_baseband) - [Bringing Rust to the Pixel Baseband](https://security.googleblog.com/2026/04/bringing-rust-to-pixel-baseband.html)
+* [2026-04-11, 18:55:43](https://news.ycombinator.com/item?id=47733066) - [New synthesis of astronomical measurements shows Hubble tension is real](https://noirlab.edu/public/news/noirlab2611/?nocache=true&amp;lang=en)
 * [2026-04-11, 18:34:00](https://news.slashdot.org/story/26/04/11/0354220/first-us-newsroom-strike-for-ai-protections-staged-by-propublicas-journalists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [First US Newsroom Strike For AI Protections Staged by ProPublica&apos;s Journalists](https://news.slashdot.org/story/26/04/11/0354220/first-us-newsroom-strike-for-ai-protections-staged-by-propublicas-journalists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-11, 18:07:49](https://news.ycombinator.com/item?id=47732697) - [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
+* [2026-04-11, 17:34:10](https://news.ycombinator.com/item?id=47732402) - [The APL programming language source code (2012)](https://computerhistory.org/blog/the-apl-programming-language-source-code/)
 * [2026-04-11, 17:34:00](https://hardware.slashdot.org/story/26/04/11/0539235/the-ai-ram-shortage-is-also-driving-up-ssd-prices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The AI RAM Shortage is Also Driving Up SSD Prices](https://hardware.slashdot.org/story/26/04/11/0539235/the-ai-ram-shortage-is-also-driving-up-ssd-prices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-11, 16:47:28](https://news.ycombinator.com/item?id=47732020) - [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
 * [2026-04-11, 16:34:00](https://tech.slashdot.org/story/26/04/11/0149225/two-week-social-media-detox-erases-a-decade-of-age-related-decline-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Two-Week Social Media &apos;Detox&apos; Erases a Decade of Age-Related Decline, Study Finds](https://tech.slashdot.org/story/26/04/11/0149225/two-week-social-media-detox-erases-a-decade-of-age-related-decline-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -115,16 +110,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-11, 15:32:38](https://lobste.rs/s/b4z82c/investigating_split_locks_on_x86_64) - [Investigating Split Locks on x86-64](https://chipsandcheese.com/p/investigating-split-locks-on-x86)
 * [2026-04-11, 14:35:00](https://soylentnews.org/article.pl?sid=26/04/10/0256206&amp;from=rss) - [Standard Model of Particle Physics Verified to One Trillionth Accuracy](https://soylentnews.org/article.pl?sid=26/04/10/0256206&amp;from=rss)
 * [2026-04-11, 14:34:00](https://entertainment.slashdot.org/story/26/04/11/0024212/the-end-of-star-trek-every-single-series-now-cancelled?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The End of &apos;Star Trek&apos;?  Every Single Series Now Cancelled](https://entertainment.slashdot.org/story/26/04/11/0024212/the-end-of-star-trek-every-single-series-now-cancelled?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-11, 14:03:03](https://news.ycombinator.com/item?id=47730712) - [The Problem That Built an Industry](https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/)
 * [2026-04-11, 13:18:19](https://lobste.rs/s/ubqgew/high_level_rust_getting_80_benefits_with) - [High-Level Rust: Getting 80% of the Benefits with 20% of the Pain](https://hamy.xyz/blog/2026-01_high-level-rust)
 * [2026-04-11, 13:05:45](https://lobste.rs/s/2urycz/git_fixup_is_magic_magit_is_too) - [Git fixup is magic (and Magit is too)](https://arialdomartini.github.io/git-fixup)
 * [2026-04-11, 13:01:34](https://news.ycombinator.com/item?id=47730194) - [Cirrus Labs to join OpenAI](https://cirruslabs.org/)
-* [2026-04-11, 11:58:54](https://lobste.rs/s/mr6zro/analyzing_kde_project_health_with_git) - [Analyzing KDE Project Health With git](https://pointieststick.com/2026/04/10/analyzing-kde-project-health-with-git/)
 * [2026-04-11, 11:32:24](https://lobste.rs/s/gvg4lv/how_passive_radar_works) - [How passive radar works](https://www.passiveradar.com/how-passive-radar-works/)
 * [2026-04-11, 11:18:56](https://lobste.rs/s/sqsb24/sqlite_3_53_0) - [SQLite 3.53.0](https://sqlite.org/releaselog/3_53_0.html)
 * [2026-04-11, 11:00:00](https://yro.slashdot.org/story/26/04/11/0114251/us-demands-reddit-unmask-ice-critic-summons-firm-to-grand-jury?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Demands Reddit Unmask ICE Critic, Summons Firm To Grand Jury](https://yro.slashdot.org/story/26/04/11/0114251/us-demands-reddit-unmask-ice-critic-summons-firm-to-grand-jury?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-11, 10:53:58](https://lobste.rs/s/hihcnv/windows_defender_is_being_used_hack) - [Windows Defender is being used to hack Windows](https://hackingpassion.com/bluehammer-windows-defender-zero-day/)
 * [2026-04-11, 09:58:56](https://lobste.rs/s/t1uxjh/i_just_want_simple_s3) - [I Just Want Simple S3](https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/)
-* [2026-04-11, 09:56:23](https://lobste.rs/s/hxmlaf/why_do_we_tell_ourselves_scary_stories) - [Why Do We Tell Ourselves Scary Stories About AI?](https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/)
 * [2026-04-11, 09:54:15](https://lobste.rs/s/buppqa/linux_kernel_ai_coding_assistants_policy) - [Linux Kernel AI Coding Assistants Policy](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
 * [2026-04-11, 09:50:00](https://soylentnews.org/article.pl?sid=26/04/10/0254231&amp;from=rss) - [Toward Cheaper, Cleaner Hydrogen Production](https://soylentnews.org/article.pl?sid=26/04/10/0254231&amp;from=rss)
 * [2026-04-11, 07:09:41](https://lobste.rs/s/1areqp/how_rust_is_susceptible_supply_chain) - [How Rust is susceptible to supply chain attacks and what we can do to mitigate the inevitable](https://kerkour.com/rust-supply-chain-nightmare)
@@ -136,13 +130,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-11, 05:05:11](https://lobste.rs/s/yysxis/advanced_mac_substitute) - [Advanced Mac Substitute](https://www.v68k.org/advanced-mac-substitute/)
 * [2026-04-11, 03:30:00](https://games.slashdot.org/story/26/04/10/219202/to-fill-air-traffic-controller-shortage-faa-turns-to-gamers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [To Fill Air Traffic Controller Shortage, FAA Turns To Gamers](https://games.slashdot.org/story/26/04/10/219202/to-fill-air-traffic-controller-shortage-faa-turns-to-gamers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-11, 01:13:34](https://lobste.rs/s/sxvq6g/bet_on_whether_ml_kem_768_x25519_will_break) - [A bet on whether ML-KEM-768 or X25519 will break first](https://github.com/FiloSottile/ecc-vs-lattices-long-bet)
-* [2026-04-11, 01:00:00](https://science.slashdot.org/story/26/04/11/0052229/artemis-ii-astronauts-splash-down-off-californias-coast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Artemis II Astronauts Splash Down Off California&apos;s Coast](https://science.slashdot.org/story/26/04/11/0052229/artemis-ii-astronauts-splash-down-off-californias-coast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-11, 00:27:00](https://soylentnews.org/article.pl?sid=26/04/10/0248230&amp;from=rss) - [Ancient Rocks Reveal Evidence of the First Continents and Crust Recycling Processes on Earth](https://soylentnews.org/article.pl?sid=26/04/10/0248230&amp;from=rss)
 * [2026-04-10, 19:36:00](https://soylentnews.org/article.pl?sid=26/04/09/067240&amp;from=rss) - [Adobe Secretly Modifies Your Hosts File for the Stupidest Reason](https://soylentnews.org/article.pl?sid=26/04/09/067240&amp;from=rss)
 * [2026-04-10, 17:32:45](https://lobste.rs/s/ggum7f/put_your_ssh_keys_your_tpm_chip) - [Put your SSH keys in your TPM chip](https://raymii.org/s/tutorials/Put_your_SSH_keys_in_your_TPM_chip.html)
-* [2026-04-10, 17:30:35](https://lobste.rs/s/cwxvlh/meet_kiki_array_language) - [Meet Kiki - an array language](https://eli.li/kiki)
 * [2026-04-10, 14:53:00](https://soylentnews.org/article.pl?sid=26/04/09/065206&amp;from=rss) - [Debian’s APT 3.2 Released with History, Undo, Redo, and Rollback Support](https://soylentnews.org/article.pl?sid=26/04/09/065206&amp;from=rss)
-* [2026-04-10, 13:34:03](https://lobste.rs/s/xfbwic/why_aren_t_we_uv_yet) - [Why Aren&apos;t We uv Yet?](https://aleyan.com/blog/2026-why-arent-we-uv-yet)
 * [2026-04-10, 10:07:00](https://soylentnews.org/article.pl?sid=26/04/08/1917256&amp;from=rss) - [Researchers Discover How to Dampen Electronic Noise Using Nanowires](https://soylentnews.org/article.pl?sid=26/04/08/1917256&amp;from=rss)
 * [2026-04-10, 05:23:00](https://soylentnews.org/article.pl?sid=26/04/08/1916208&amp;from=rss) - [White House Seeks Deep NASA Cuts as Artemis II Breaks Spaceflight Record](https://soylentnews.org/article.pl?sid=26/04/08/1916208&amp;from=rss)
 * [2026-04-10, 00:37:00](https://soylentnews.org/article.pl?sid=26/04/08/1912232&amp;from=rss) - [&apos;Voorhees Law&apos; Explains Why the Slower Car Often Catches up](https://soylentnews.org/article.pl?sid=26/04/08/1912232&amp;from=rss)
