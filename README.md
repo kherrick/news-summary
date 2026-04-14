@@ -1,38 +1,58 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Emerging Technology and Innovations
+## Security and Cyber Threats
 
-* [The Shinkansen](https://www.worksinprogress.news/p/the-secret-behind-japans-railways) - This article explores the secrets and advanced features behind Japan's world-renowned Shinkansen railway system. [Comments](https://news.ycombinator.com/item?id=47762060)
+* [Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It](https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025) ([comments](https://news.ycombinator.com/item?id=47762994))
 
-* [Startup Secures $30 Million Contract to 3D Print Jet Engines for the USAF](https://soylentnews.org/article.pl?sid=26/04/12/170200&from=rss) - A startup lands a $30 million deal with the U.S. Air Force to revolutionize jet engine manufacturing through 3D printing. [Comments](https://soylentnews.org/article.pl?sid=26/04/12/170200&from=rss)
+* [Someone bought 30 WordPress plugins and planted a backdoor in all of them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/) ([comments](https://news.ycombinator.com/item?id=47755629))
 
-* [Can Claude Fly a Plane?](https://so.long.thanks.fish/can-claude-fly-a-plane/) - An exploration into the capabilities of artificial intelligence robots such as Claude in handling complex real-world tasks like flying a plane. [Comments](https://news.ycombinator.com/item?id=47762006)
+* [OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters](https://soylentnews.org/article.pl?sid=26/04/12/1522257&amp;from=rss) ([comments](https://soylentnews.org/comments.pl?sid=26/04/12/1522257&amp;cid=0))
 
-## Artificial Intelligence and Machine Learning
+* [A new spam policy for “back button hijacking”](https://developers.google.com/search/blog/2026/04/back-button-hijacking) ([comments](https://news.ycombinator.com/item?id=47760764))
 
-* [AI Insiders vs. the World](https://slashdot.org/story/26/04/14/0038207/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Stanford's report highlights the growing disconnect between AI insiders and the larger global society about the risks and opportunities AI presents. [Comments](https://news.ycombinator.com/item?id=47761997)
+## Technology and AI Developments
 
-* [Roblox Developers Face Subscription Fees](https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166) - Roblox changes its publishing requirements, charging developers a subscription to share their games freely. [Comments](https://news.ycombinator.com/item?id=47761825)
+* [Introspective Diffusion Language Models](https://introspective-diffusion.github.io/) ([comments](https://news.ycombinator.com/item?id=47762641))
 
-* [Microsoft Exec Suggests AI Agents Need Software Licenses](https://www.businessinsider.com/microsoft-executive-suggests-ai-agents-buy-software-licenses-seats-2026-4) - Microsoft executives propose that AI agents operating in companies might require software licenses akin to employees. [Comments](https://lobste.rs/s/ucjode/microsoft_exec_suggests_ai_agents_will)
+* [Claude Code's Source: 3,167-Line Function, Regex Sentiment](https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude) ([comments](https://lobste.rs/s/fsudf4/claude_code_s_source_3_167_line_function))
 
-## Cybersecurity and Digital Threats
+* [Our evaluation of Claude Mythos Preview’s cyber capabilities](https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities) ([comments](https://lobste.rs/s/9b3iu5/our_evaluation_claude_mythos_preview_s))
 
-* [WordPress Plugin Backdoor Scandal](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/) - Individuals purchased 30 WordPress plugins and embedded malicious backdoors, uncovering significant cybersecurity risks. [Comments](https://news.ycombinator.com/item?id=47760764)
+* [Stanford Report Highlights Growing Disconnect Between AI Insiders and Everyone Else](https://slashdot.org/story/26/04/14/0038207/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/26/04/14/0038207/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [A New Spam Policy for "Back Button Hijacking"](https://developers.google.com/search/blog/2026/04/back-button-hijacking) - Google introduces a new policy to deter unscrupulous practices like back button hijacking on websites. [Comments](https://news.ycombinator.com/item?id=47760764)
+* [Anthropic Asks Christian Leaders for Help Steering Claude's Spiritual Development](https://slashdot.org/story/26/04/13/0156227/anthropic-asks-christian-leaders-for-help-steering-claudes-spiritual-development?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/26/04/13/0156227/anthropic-asks-christian-leaders-for-help-steering-claudes-spiritual-development?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Academic and Theoretical Breakthroughs
+## Notable Technological Releases and Innovations
 
-* [Math and the Genius of Srinivasa Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/) - Discover the profound mathematical contributions of Ramanujan and how math is still deciphering his theorems. [Comments](https://news.ycombinator.com/item?id=47761310)
+* [Linux Kernel Maintainers Are Following Through on Removing Intel 486 Support](https://soylentnews.org/article.pl?sid=26/04/12/170258&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/12/170258&amp;from=rss))
 
-* [Little LaTeX Pearls](https://ionathan.ch/2026/04/08/LaTeX.html) - A whimsical deep dive into the charming world of LaTeX and its lesser-known features, called 'pearls.' [Comments](https://lobste.rs/s/xcurde/little_latex_pearls)
+* [MoonBit 0.9: Introducing First-Class Formal Verification](https://www.moonbitlang.com/blog/moonbit-0-9-release) ([comments](https://lobste.rs/s/qqfsfo/moonbit_0_9_introducing_first_class))
 
-## Environmental and Space Exploration
+* [Servo 0.1.0 (first LTS version) is now available on crates.io](https://servo.org/blog/2026/04/13/servo-0.1.0-release/) ([comments](https://lobste.rs/s/f8vyzy/servo_0_1_0_first_lts_version_is_now))
 
-* [Pixel-Wise Earth Observation Model](https://geotessera.org) - Learn about TESSERA, a new foundation model for detailed earth observation and analysis. [Comments](https://lobste.rs/s/0hmccr/tessera_pixel_wise_earth_observation)
+## Scientific Discoveries and Advancements
 
-* [Tech Layoffs and the Rise of AI](https://soylentnews.org/article.pl?sid=26/04/11/0313203&from=rss) - The tech industry reported nearly 80,000 layoffs in 2026, with nearly half attributed to artificial intelligence interventions. [Comments](https://soylentnews.org/article.pl?sid=26/04/11/0313203&from=rss)
+* [Standard Model of Particle Physics Verified to One Trillionth Accuracy](https://soylentnews.org/article.pl?sid=26/04/10/0256206&amp;from=rss) ([comments](https://soylentnews.org/comments.pl?sid=26/04/10/0256206&amp;cid=0))
+
+* [Radical 20-Year Study Reveals Genetic Cloning Hits a Limit](https://soylentnews.org/article.pl?sid=26/04/11/0321245&amp;from=rss) ([comments](https://soylentnews.org/comments.pl?sid=26/04/11/0321245&amp;cid=0))
+
+* [Ancient Rocks Reveal Evidence of the First Continents and Crust Recycling Processes on Earth](https://soylentnews.org/article.pl?sid=26/04/10/0248230&amp;from=rss) ([comments](https://soylentnews.org/comments.pl?sid=26/04/10/0248230&amp;cid=0))
+
+* [Researchers Discover How to Dampen Electronic Noise Using Nanowires](https://soylentnews.org/article.pl?sid=26/04/08/1917256&amp;from=rss) ([comments](https://soylentnews.org/comments.pl?sid=26/04/08/1917256&amp;cid=0))
+
+## AI and Machine Learning Challenges
+
+* [Lean proved this program was correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html) ([comments](https://news.ycombinator.com/item?id=47759709))
+
+* [An AI Vibe Coding Horror Story](https://www.tobru.ch/an-ai-vibe-coding-horror-story/) ([comments](https://news.ycombinator.com/item?id=47762901))
+
+* [N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?](https://ndaybench.winfunc.com) ([comments](https://news.ycombinator.com/item?id=47758347))
+
+## Miscellaneous Highlights
+
+* [WeatherBug Data Says October 8 Is the Real Perfect Date](https://news.slashdot.org/story/26/04/14/0044242/weatherbug-data-says-october-8-is-the-real-perfect-date?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/04/14/0044242/weatherbug-data-says-october-8-is-the-real-perfect-date?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Robot Birds Deployed by Park to Attract Real Birds - Built By High School Students](https://news.slashdot.org/story/26/04/13/0115243/robot-birds-deployed-by-park-to-attract-real-birds---built-by-high-school-students?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/04/13/0115243/robot-birds-deployed-by-park-to-attract-real-birds---built-by-high-school-students?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
 ---
 
@@ -59,22 +79,27 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-04-14, 06:41:01](https://news.ycombinator.com/item?id=47762060) - [The Shinkansen](https://www.worksinprogress.news/p/the-secret-behind-japans-railways)
-* [2026-04-14, 06:32:45](https://news.ycombinator.com/item?id=47762006) - [Can Claude Fly a Plane?](https://so.long.thanks.fish/can-claude-fly-a-plane/)
+* [2026-04-14, 09:12:00](https://soylentnews.org/article.pl?sid=26/04/12/170258&amp;from=rss) - [Linux Kernel Maintainers Are Following Through on Removing Intel 486 Support](https://soylentnews.org/article.pl?sid=26/04/12/170258&amp;from=rss)
+* [2026-04-14, 09:08:18](https://lobste.rs/s/fsudf4/claude_code_s_source_3_167_line_function) - [Claude Code&apos;s Source: 3,167-Line Function, Regex Sentiment](https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude)
+* [2026-04-14, 08:52:12](https://news.ycombinator.com/item?id=47762994) - [Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It](https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025)
+* [2026-04-14, 08:35:45](https://news.ycombinator.com/item?id=47762901) - [An AI Vibe Coding Horror Story](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
+* [2026-04-14, 08:30:27](https://news.ycombinator.com/item?id=47762864) - [Backblaze has stopped backing up your data](https://rareese.com/posts/backblaze/)
+* [2026-04-14, 07:57:33](https://news.ycombinator.com/item?id=47762641) - [Introspective Diffusion Language Models](https://introspective-diffusion.github.io/)
+* [2026-04-14, 07:40:30](https://lobste.rs/s/fj8fzm/5nf_database_design) - [5NF and Database Design](https://kb.databasedesignbook.com/posts/5nf/)
+* [2026-04-14, 07:30:48](https://lobste.rs/s/9b3iu5/our_evaluation_claude_mythos_preview_s) - [Our evaluation of Claude Mythos Preview’s cyber capabilities](https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities)
+* [2026-04-14, 07:27:57](https://lobste.rs/s/iiykct/razor1911_razor1911) - [Razor1911 – Razor1911](https://www.youtube.com/watch?v=2AnbYNudAyM)
+* [2026-04-14, 07:00:00](https://news.slashdot.org/story/26/04/14/0044242/weatherbug-data-says-october-8-is-the-real-perfect-date?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [WeatherBug Data Says October 8 Is the Real Perfect Date](https://news.slashdot.org/story/26/04/14/0044242/weatherbug-data-says-october-8-is-the-real-perfect-date?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-14, 06:41:01](https://news.ycombinator.com/item?id=47762060) - [The secrets of the Shinkansen](https://www.worksinprogress.news/p/the-secret-behind-japans-railways)
 * [2026-04-14, 06:31:44](https://news.ycombinator.com/item?id=47761997) - [Distributed DuckDB Instance](https://github.com/citguru/openduck)
-* [2026-04-14, 06:25:48](https://lobste.rs/s/0hmccr/tessera_pixel_wise_earth_observation) - [TESSERA — A pixel-wise earth observation foundation model](https://geotessera.org)
-* [2026-04-14, 06:04:31](https://news.ycombinator.com/item?id=47761825) - [Roblox devs now need a subscription to share their games freely](https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166)
+* [2026-04-14, 05:46:49](https://news.ycombinator.com/item?id=47761723) - [MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres](https://github.com/lasect/pg_6502)
 * [2026-04-14, 05:32:48](https://news.ycombinator.com/item?id=47761625) - [Multi-Agentic Software Development Is a Distributed Systems Problem](https://kirancodes.me/posts/log-distributed-llms.html)
-* [2026-04-14, 05:29:30](https://news.ycombinator.com/item?id=47761613) - [UpDown: Efficient Manycore based on Many Threading &amp; Scalable Memory Parallelism](https://people.cs.uchicago.edu/~aachien/lssg/research/10x10/ics26-single-chip-updown.pdf)
 * [2026-04-14, 05:28:51](https://news.ycombinator.com/item?id=47761609) - [TanStack Start Now Support React Server Components](https://tanstack.com/blog/react-server-components)
 * [2026-04-14, 05:24:38](https://lobste.rs/s/qqfsfo/moonbit_0_9_introducing_first_class) - [MoonBit 0.9: Introducing First-Class Formal Verification](https://www.moonbitlang.com/blog/moonbit-0-9-release)
-* [2026-04-14, 04:39:11](https://news.ycombinator.com/item?id=47761310) - [Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan (2024)](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
 * [2026-04-14, 04:29:00](https://soylentnews.org/article.pl?sid=26/04/12/170200&amp;from=rss) - [Startup Secures $30 Million Contract to 3D Print Jet Engines for the USAF](https://soylentnews.org/article.pl?sid=26/04/12/170200&amp;from=rss)
-* [2026-04-14, 04:04:29](https://lobste.rs/s/okihff/someone_bought_30_wordpress_plugins) - [Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/)
 * [2026-04-14, 03:30:00](https://slashdot.org/story/26/04/14/0038207/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Stanford Report Highlights Growing Disconnect Between AI Insiders and Everyone Else](https://slashdot.org/story/26/04/14/0038207/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-14, 03:06:27](https://news.ycombinator.com/item?id=47760764) - [A new spam policy for \&quot;back button hijacking\&quot;](https://developers.google.com/search/blog/2026/04/back-button-hijacking)
+* [2026-04-14, 03:06:27](https://news.ycombinator.com/item?id=47760764) - [A new spam policy for “back button hijacking”](https://developers.google.com/search/blog/2026/04/back-button-hijacking)
 * [2026-04-14, 02:31:46](https://lobste.rs/s/gvgrij/no_one_can_force_me_have_secure_website) - [No one can force me to have a secure website](https://tom7.org/httpv/httpv.pdf)
-* [2026-04-14, 02:25:15](https://news.ycombinator.com/item?id=47760529) - [DaVinci Resolve releases Photo Editor](https://www.blackmagicdesign.com/products/davinciresolve/photo)
+* [2026-04-14, 02:25:15](https://news.ycombinator.com/item?id=47760529) - [DaVinci Resolve – Photo](https://www.blackmagicdesign.com/products/davinciresolve/photo)
 * [2026-04-14, 00:25:08](https://news.ycombinator.com/item?id=47759709) - [Lean proved this program correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
 * [2026-04-13, 23:44:00](https://soylentnews.org/article.pl?sid=26/04/12/1524251&amp;from=rss) - [Human Echolocation Works Step by Step](https://soylentnews.org/article.pl?sid=26/04/12/1524251&amp;from=rss)
 * [2026-04-13, 23:33:18](https://news.ycombinator.com/item?id=47759341) - [WiiFin – Jellyfin Client for Nintendo Wii](https://github.com/fabienmillet/WiiFin)
@@ -103,7 +128,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-13, 16:00:00](https://yro.slashdot.org/story/26/04/13/0335254/maine-set-to-become-first-state-with-data-center-ban?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Maine Set To Become First State With Data Center Ban](https://yro.slashdot.org/story/26/04/13/0335254/maine-set-to-become-first-state-with-data-center-ban?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-13, 15:44:02](https://news.ycombinator.com/item?id=47753689) - [Building a CLI for all of Cloudflare](https://blog.cloudflare.com/cf-cli-local-explorer/)
 * [2026-04-13, 15:31:06](https://news.ycombinator.com/item?id=47753472) - [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens)
-* [2026-04-13, 15:28:32](https://lobste.rs/s/v30zok/autoscaling_forgejo_runner) - [Autoscaling Forgejo Runner](https://aahlenst.dev/blog/autoscaling-forgejo-runner/)
 * [2026-04-13, 15:12:52](https://lobste.rs/s/pvawq1/configuration_flags_are_where_software) - [Configuration flags are where software goes to rot](https://00f.net/2026/04/11/config-flags/)
 * [2026-04-13, 15:00:00](https://slashdot.org/story/26/04/13/0330204/californians-sue-over-ai-tool-that-records-doctor-visits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Californians Sue Over AI Tool That Records Doctor Visits](https://slashdot.org/story/26/04/13/0330204/californians-sue-over-ai-tool-that-records-doctor-visits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-13, 14:48:55](https://news.ycombinator.com/item?id=47752819) - [Make tmux pretty and usable (2024)](https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
@@ -117,14 +141,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-13, 11:34:00](https://developers.slashdot.org/story/26/04/12/2225245/will-some-programmers-become-ai-babysitters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Will Some Programmers Become &apos;AI Babysitters&apos;?](https://developers.slashdot.org/story/26/04/12/2225245/will-some-programmers-become-ai-babysitters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-13, 10:30:59](https://lobste.rs/s/rnx6fh/all_elementary_functions_from_single) - [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
 * [2026-04-13, 09:24:00](https://soylentnews.org/article.pl?sid=26/04/12/1147250&amp;from=rss) - [Cloudflare and GoDaddy Team Up to Curb AI Bot Brigades](https://soylentnews.org/article.pl?sid=26/04/12/1147250&amp;from=rss)
-* [2026-04-13, 07:47:03](https://lobste.rs/s/c1tlxi/dumb_introduction_z3) - [A Dumb Introduction to z3](https://ar-ms.me/thoughts/a-gentle-introduction-to-z3/)
 * [2026-04-13, 07:34:00](https://slashdot.org/story/26/04/13/0156227/anthropic-asks-christian-leaders-for-help-steering-claudes-spiritual-development?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Asks Christian Leaders for Help Steering Claude&apos;s Spiritual Development](https://slashdot.org/story/26/04/13/0156227/anthropic-asks-christian-leaders-for-help-steering-claudes-spiritual-development?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-13, 05:53:07](https://lobste.rs/s/eqawpx/did_you_notice_command_error_exit_shell) - [Did you notice the command error exit in the shell?](https://monzool.net/blog/2026/04/10/error-banner-in-shell/)
 * [2026-04-13, 04:35:00](https://soylentnews.org/article.pl?sid=26/04/11/0355254&amp;from=rss) - [Little Snitch for Linux Released!](https://soylentnews.org/article.pl?sid=26/04/11/0355254&amp;from=rss)
 * [2026-04-13, 03:34:00](https://yro.slashdot.org/story/26/04/13/0219250/sam-altmans-home-targeted-a-second-time-two-suspects-arrested?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sam Altman&apos;s Home Targeted a Second Time, Two Suspects Arrested](https://yro.slashdot.org/story/26/04/13/0219250/sam-altmans-home-targeted-a-second-time-two-suspects-arrested?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-13, 01:34:00](https://news.slashdot.org/story/26/04/13/0115243/robot-birds-deployed-by-park-to-attract-real-birds---built-by-high-school-students?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Robot Birds Deployed by Park to Attract Real Birds - Built By High School Students](https://news.slashdot.org/story/26/04/13/0115243/robot-birds-deployed-by-park-to-attract-real-birds---built-by-high-school-students?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-12, 23:48:00](https://soylentnews.org/article.pl?sid=26/04/11/0321245&amp;from=rss) - [&apos;Dead End&apos;: Radical 20-Year Study Reveals Genetic Cloning Hits a Limit](https://soylentnews.org/article.pl?sid=26/04/11/0321245&amp;from=rss)
-* [2026-04-12, 23:32:00](https://developers.slashdot.org/story/26/04/12/2329229/has-the-rust-programming-languages-popularity-reached-its-plateau?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Has the Rust Programming Language&apos;s Popularity Reached Its Plateau?](https://developers.slashdot.org/story/26/04/12/2329229/has-the-rust-programming-languages-popularity-reached-its-plateau?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-12, 19:53:57](https://lobste.rs/s/7fhahl/48_hours_ago_lobste_rs_surpassed_20_000) - [48 hours ago lobste.rs surpassed 20,000 users](https://lobste.rs/s/7fhahl/48_hours_ago_lobste_rs_surpassed_20_000)
 * [2026-04-12, 19:17:36](https://lobste.rs/s/tmddcs/peril_laziness_lost) - [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)
 * [2026-04-12, 19:02:00](https://soylentnews.org/article.pl?sid=26/04/11/0313203&amp;from=rss) - [Tech Industry Lays Off Nearly 80,000 Employees in the First Quarter of 2026 (Almost 50% Due to AI)](https://soylentnews.org/article.pl?sid=26/04/11/0313203&amp;from=rss)
@@ -136,16 +158,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-11, 14:35:00](https://soylentnews.org/article.pl?sid=26/04/10/0256206&amp;from=rss) - [Standard Model of Particle Physics Verified to One Trillionth Accuracy](https://soylentnews.org/article.pl?sid=26/04/10/0256206&amp;from=rss)
 * [2026-04-11, 10:36:15](https://news.ycombinator.com/item?id=47729350) - [I just want simple S3](https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/)
 * [2026-04-11, 09:50:00](https://soylentnews.org/article.pl?sid=26/04/10/0254231&amp;from=rss) - [Toward Cheaper, Cleaner Hydrogen Production](https://soylentnews.org/article.pl?sid=26/04/10/0254231&amp;from=rss)
-* [2026-04-11, 09:32:17](https://news.ycombinator.com/item?id=47729046) - [Air Powered Segment Display? [video]](https://www.youtube.com/watch?v=E1BLGpE5zH0)
 * [2026-04-11, 09:20:45](https://news.ycombinator.com/item?id=47728970) - [Write less code, be more responsible](https://blog.orhun.dev/code-responsibly/)
 * [2026-04-11, 05:09:00](https://soylentnews.org/article.pl?sid=26/04/10/0250211&amp;from=rss) - [Honda Hits Brakes On EV Rollout Amid Rising Losses](https://soylentnews.org/article.pl?sid=26/04/10/0250211&amp;from=rss)
 * [2026-04-11, 00:27:00](https://soylentnews.org/article.pl?sid=26/04/10/0248230&amp;from=rss) - [Ancient Rocks Reveal Evidence of the First Continents and Crust Recycling Processes on Earth](https://soylentnews.org/article.pl?sid=26/04/10/0248230&amp;from=rss)
 * [2026-04-10, 19:36:00](https://soylentnews.org/article.pl?sid=26/04/09/067240&amp;from=rss) - [Adobe Secretly Modifies Your Hosts File for the Stupidest Reason](https://soylentnews.org/article.pl?sid=26/04/09/067240&amp;from=rss)
+* [2026-04-10, 19:33:08](https://news.ycombinator.com/item?id=47722629) - [Franklin&apos;s bad ads for Apple ][ clones and the beloved impersonator they depict](https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/)
 * [2026-04-10, 14:53:00](https://soylentnews.org/article.pl?sid=26/04/09/065206&amp;from=rss) - [Debian’s APT 3.2 Released with History, Undo, Redo, and Rollback Support](https://soylentnews.org/article.pl?sid=26/04/09/065206&amp;from=rss)
 * [2026-04-10, 13:59:26](https://news.ycombinator.com/item?id=47718284) - [Design and implementation of DuckDB internals](https://duckdb.org/library/design-and-implementation-of-duckdb-internals/)
 * [2026-04-10, 12:03:16](https://news.ycombinator.com/item?id=47716805) - [Anastasia (1997) live action reference material](https://lostmediawiki.com/Anastasia_(partially_found_live-action_reference_material_for_Don_Bluth_animated_film;_1997))
-* [2026-04-10, 11:20:38](https://news.ycombinator.com/item?id=47716409) - [A name is succession, legacy and celebration in Japan&apos;s Kabuki theater](https://apnews.com/article/kabuki-name-succession-japan-tradition-theater-d1e9621bc91385498314f36e1481b6fd)
 * [2026-04-10, 10:07:00](https://soylentnews.org/article.pl?sid=26/04/08/1917256&amp;from=rss) - [Researchers Discover How to Dampen Electronic Noise Using Nanowires](https://soylentnews.org/article.pl?sid=26/04/08/1917256&amp;from=rss)
-* [2026-04-10, 09:01:05](https://news.ycombinator.com/item?id=47715389) - [I shipped a transaction bug, so I built a linter](https://leonh.fr/posts/go-transaction-linter/)
 * [2026-04-10, 05:23:00](https://soylentnews.org/article.pl?sid=26/04/08/1916208&amp;from=rss) - [White House Seeks Deep NASA Cuts as Artemis II Breaks Spaceflight Record](https://soylentnews.org/article.pl?sid=26/04/08/1916208&amp;from=rss)
 * [2026-04-10, 00:37:00](https://soylentnews.org/article.pl?sid=26/04/08/1912232&amp;from=rss) - [&apos;Voorhees Law&apos; Explains Why the Slower Car Often Catches up](https://soylentnews.org/article.pl?sid=26/04/08/1912232&amp;from=rss)
