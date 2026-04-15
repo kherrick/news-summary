@@ -1,60 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Industry Innovations and Challenges
+## Technological Innovations and AI
 
-* [OpenAI's $852B valuation faces investor scrutiny amid strategy shift, FT reports](https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/) ([comments](https://news.ycombinator.com/item?id=47773640))
+* [The AI Great Leap Forward](https://soylentnews.org/article.pl?sid=26/04/14/043205&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/14/043205&amp;from=rss)): Explores significant advancements within artificial intelligence, hinting at transformative societal shifts.
 
-* [Microsoft Reveals Major Price Increase For All Surface PCs](https://news.slashdot.org/story/26/04/14/2021208/microsoft-reveals-major-price-increase-for-all-surface-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47772012))
+* [Turn your best AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/) ([comments](https://news.ycombinator.com/item?id=47768339)): Google allows Chrome users to convert AI prompts into repeatable skills through one-click tools.
 
-* [Chrome Now Lets You Turn AI Prompts Into Repeatable 'Skills'](https://features.slashdot.org/story/26/04/14/1734204/chrome-now-lets-you-turn-ai-prompts-into-repeatable-skills?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47768339))
+* [Stanford Report Highlights Growing Disconnect Between AI Insiders and Everyone Else](https://slashdot.org/story/26/04/14/0038207/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47760764)): Research focuses on the widening knowledge gap between AI experts and the general public.
 
-* [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/) ([comments](https://news.ycombinator.com/item?id=47770770))
+## Emerging Tech and Software
 
-* [A New Computer Chip Could Finally Withstand The Hellscape of Venus](https://science.slashdot.org/story/26/04/14/0356227/a-new-computer-chip-could-finally-withstand-the-hellscape-of-venus?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47766370))
+* [TruffleRuby 34: full Ruby 3.4 compatibility, up to 23% faster parsing, and a new Prism-based Ripper with 20x speedups](https://truffleruby.dev/blog/truffleruby-34-is-released) ([comments](https://lobste.rs/s/krdjnf/truffleruby_34_full_ruby_3_4)): A notable release in the Ruby landscape with improved performance and parsing.
 
-* [Audit Finds Google, Microsoft, and Meta Still Tracking Users After Opt-Out](https://tech.slashdot.org/story/26/04/14/1955224/audit-finds-google-microsoft-and-meta-still-tracking-users-after-opt-out?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47768750))
+* [Chrome Now Lets You Turn AI Prompts Into Repeatable 'Skills'](https://features.slashdot.org/story/26/04/14/1734204/chrome-now-lets-you-turn-ai-prompts-into-repeatable-skills?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47768339)): Chrome introduces a unique capability to create reusable AI workflows directly from user-generated prompts.
 
-## Open Source and Development Platforms
+* [Microsoft Reveals Major Price Increase For All Surface PCs](https://news.slashdot.org/story/26/04/14/2021208/microsoft-reveals-major-price-increase-for-all-surface-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/04/14/2021208/microsoft-reveals-major-price-increase-for-all-surface-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): Major price hikes announced for Surface PCs which could impact consumers.
 
-* [Release OpenSSL 4.0.0](https://github.com/openssl/openssl/releases/tag/openssl-4.0.0) ([comments](https://news.ycombinator.com/item?id=47768788))
+* [Release OpenSSL 4.0.0](https://github.com/openssl/openssl/releases/tag/openssl-4.0.0) ([comments](https://lobste.rs/s/l79aep/release_openssl_4_0_0)): OpenSSL launches its latest iteration with new improvements in cryptographic protocols.
 
-* [Show HN: Plain – The full-stack Python framework designed for humans and agents](https://github.com/dropseed/plain) ([comments](https://news.ycombinator.com/item?id=47768750))
+## Society and Cultural Topics
 
-* [Zig 0.16.0 Release Notes](https://ziglang.org/download/0.16.0/release-notes.html) ([comments](https://lobste.rs/s/4vvozb/zig_0_16_0_release_notes))
+* [Don&apos;t feel like exercising? Maybe it&apos;s the wrong time of day for you](https://www.bbc.com/news/articles/cd6lzpxwx50o) ([comments](https://news.ycombinator.com/item?id=47773168)): A study explores how time of day affects exercise performance and motivation.
 
-* [What happened to Metalink?](https://lobste.rs/s/guy1vp/what_happened_metalink) ([comments](https://lobste.rs/s/guy1vp/what_happened_metalink))
+* [Tea: A Stimulant That Made the Modern World](https://soylentnews.org/article.pl?sid=26/04/12/173259&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/12/173259&amp;from=rss)): A deep dive into how tea shaped modern history and civilizations.
 
-* [Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html) ([comments](https://lobste.rs/s/zubxux/saying_goodbye_agile))
+## Recent Controversies and Policy Changes
 
-* [5NF and Database Design](https://kb.databasedesignbook.com/posts/5nf/) ([comments](https://lobste.rs/s/fj8fzm/5nf_database_design))
+* [Audit Finds Google, Microsoft, and Meta Still Tracking Users After Opt-Out](https://tech.slashdot.org/story/26/04/14/1955224/audit-finds-google-microsoft-and-meta-still-tracking-users-after-opt-out?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/04/14/1955224/audit-finds-google-microsoft-and-meta-still-tracking-users-after-opt-out?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): Continued tracking by tech giants sparks renewed debate on user privacy violations.
 
-## Privacy and Security Concerns
+* [FCC Grants Netgear Conditional Approval For Routers](https://mobile.slashdot.org/story/26/04/14/234246/fcc-grants-netgear-conditional-approval-for-routers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://mobile.slashdot.org/story/26/04/14/234246/fcc-grants-netgear-conditional-approval-for-routers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): The FCC greenlights router technology under conditional guidelines.
 
-* [The FCC just saved Netgear from its router ban for no obvious reason](https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval) ([comments](https://news.ycombinator.com/item?id=47773448))
+* [California Ghost-Gun Bill Wants 3D Printers To Play Cop, EFF Says](https://hardware.slashdot.org/story/26/04/14/209219/california-ghost-gun-bill-wants-3d-printers-to-play-cop-eff-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47759420)): Controversial bill proposes placing monitoring responsibilities on 3D printer manufacturers.
 
-* [Tell HN: Fiverr left customer files public and searchable](https://news.ycombinator.com/item?id=47769796)
+## Unique and Fascinating Discoveries
 
-* [Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others](https://rareese.com/posts/backblaze/) ([comments](https://news.ycombinator.com/item?id=47762864))
+* [WeatherBug Data Says October 8 Is the Real Perfect Date](https://news.slashdot.org/story/26/04/14/0044242/weatherbug-data-says-october-8-is-the-real-perfect-date?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47768339)): Analysis reveals surprising signs of perfection in seasonal weather.
 
-* [Stop Flock](https://stopflock.com) ([comments](https://news.ycombinator.com/item?id=47772012))
-
-* [A new spam policy for “back button hijacking”](https://developers.google.com/search/blog/2026/04/back-button-hijacking) ([comments](https://news.ycombinator.com/item?id=47760764))
-
-* [Dependency cooldowns turn you into a free-rider](https://calpaterson.com/deps.html) ([comments](https://lobste.rs/s/dl4jb6/dependency_cooldowns_turn_you_into_free))
-
-## Social and Cultural Impacts
-
-* [Hollywood Stars Sign Open Letter Protesting Paramount-Warner Bros Merger](https://slashdot.org/story/26/04/13/2056254/hollywood-stars-sign-open-letter-protesting-paramount-warner-bros-merger?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47758870))
-
-* [Air Force Pushed Out UFO Investigator](https://entertainment.slashdot.org/story/26/04/14/013232/air-force-pushed-out-ufo-investigator?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://lobste.rs/s/hedf1w/rust_should_have_stable_tail_calls))
-
-* [The dangers of California's legislation to censor 3D printing](https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing) ([comments](https://news.ycombinator.com/item?id=47759420))
-
-* [Thousands of Rare Concert Recordings Are Landing On the Internet Archive](https://hardware.slashdot.org/story/26/04/14/1722231/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://lobste.rs/s/xr9g5d/github_stacked_prs))
-
-* [Tea: A Stimulant That Made the Modern World](https://soylentnews.org/article.pl?sid=26/04/12/173259&from=rss) ([comments](https://news.ycombinator.com/item?id=47760764))
-
-* [Human Echolocation Works Step by Step](https://soylentnews.org/article.pl?sid=26/04/12/1524251&from=rss) ([comments](https://yro.slashdot.org/story?s/hedf1w/jemalloc))
+* [Picasso&apos;s Guernica (Gigapixel)](https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59) ([comments](https://news.ycombinator.com/item?id=47728662)): Discover Guernica's secrets in ultra high-definition, providing a deeper look at Picasso's masterpiece.
 
 ---
 
@@ -81,20 +63,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-04-15, 01:36:22](https://news.ycombinator.com/item?id=47773640) - [OpenAI&apos;s $852B valuation faces investor scrutiny amid strategy shift, FT reports](https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/)
-* [2026-04-15, 01:07:19](https://news.ycombinator.com/item?id=47773448) - [The FCC just saved Netgear from its router ban for no obvious reason](https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval)
+* [2026-04-15, 04:22:00](https://soylentnews.org/article.pl?sid=26/04/14/043205&amp;from=rss) - [The AI Great Leap Forward](https://soylentnews.org/article.pl?sid=26/04/14/043205&amp;from=rss)
+* [2026-04-15, 03:43:06](https://lobste.rs/s/vb70md/i_don_t_care_it_s_x_times_faster) - [I don&apos;t care that it&apos;s X times faster](https://tinkering.xyz/faster/)
+* [2026-04-15, 03:30:00](https://entertainment.slashdot.org/story/26/04/14/2213204/sony-is-removing-many-popular-features-from-its-free-ota-tv-options?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sony Is Removing Many Popular Features From Its Free OTA TV Options](https://entertainment.slashdot.org/story/26/04/14/2213204/sony-is-removing-many-popular-features-from-its-free-ota-tv-options?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-15, 02:03:12](https://news.ycombinator.com/item?id=47773812) - [Dependency cooldowns turn you into a free-rider](https://calpaterson.com/deps.html)
+* [2026-04-15, 01:59:18](https://news.ycombinator.com/item?id=47773788) - [Not all elementary functions can be expressed with exp-minus-log](https://www.stylewarning.com/posts/not-all-elementary/)
+* [2026-04-15, 00:20:58](https://news.ycombinator.com/item?id=47773168) - [Don&apos;t feel like exercising? Maybe it&apos;s the wrong time of day for you](https://www.bbc.com/news/articles/cd6lzpxwx50o)
 * [2026-04-14, 23:43:14](https://lobste.rs/s/zubxux/saying_goodbye_agile) - [Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html)
 * [2026-04-14, 23:41:43](https://news.ycombinator.com/item?id=47772906) - [Apple App Store threatened to remove Grok over deepfakes: Letter](https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677)
 * [2026-04-14, 23:35:00](https://soylentnews.org/article.pl?sid=26/04/14/0256247&amp;from=rss) - [Missouri Town Fires Half its City Council Over Data Center Deal](https://soylentnews.org/article.pl?sid=26/04/14/0256247&amp;from=rss)
+* [2026-04-14, 23:12:51](https://lobste.rs/s/fwvw1q/single_module_lambda_calculus_from) - [Single Module Lambda Calculus from Simply Typed to Martin Lof Type Theory](https://github.com/solomon-b/lambda-calculus-hs)
 * [2026-04-14, 23:06:00](https://mobile.slashdot.org/story/26/04/14/234246/fcc-grants-netgear-conditional-approval-for-routers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FCC Grants Netgear Conditional Approval For Routers](https://mobile.slashdot.org/story/26/04/14/234246/fcc-grants-netgear-conditional-approval-for-routers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-14, 23:04:55](https://lobste.rs/s/guy1vp/what_happened_metalink) - [What happened to Metalink?](https://lobste.rs/s/guy1vp/what_happened_metalink)
 * [2026-04-14, 22:05:23](https://lobste.rs/s/krdjnf/truffleruby_34_full_ruby_3_4) - [TruffleRuby 34: full Ruby 3.4 compatibility, up to 23% faster parsing, and a new Prism-based Ripper with 20x speedups](https://truffleruby.dev/blog/truffleruby-34-is-released)
-* [2026-04-14, 22:00:11](https://news.ycombinator.com/item?id=47772048) - [Fuck the cloud (2009)](https://ascii.textfiles.com/archives/1717)
 * [2026-04-14, 22:00:00](https://news.slashdot.org/story/26/04/14/2021208/microsoft-reveals-major-price-increase-for-all-surface-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Reveals Major Price Increase For All Surface PCs](https://news.slashdot.org/story/26/04/14/2021208/microsoft-reveals-major-price-increase-for-all-surface-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-14, 21:56:05](https://news.ycombinator.com/item?id=47772012) - [Stop Flock](https://stopflock.com)
 * [2026-04-14, 21:00:00](https://hardware.slashdot.org/story/26/04/14/209219/california-ghost-gun-bill-wants-3d-printers-to-play-cop-eff-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [California Ghost-Gun Bill Wants 3D Printers To Play Cop, EFF Says](https://hardware.slashdot.org/story/26/04/14/209219/california-ghost-gun-bill-wants-3d-printers-to-play-cop-eff-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-14, 20:42:21](https://news.ycombinator.com/item?id=47771220) - [Free, fast diagnostic tools for DNS, email authentication, and network security](https://mrdns.com/)
-* [2026-04-14, 20:22:31](https://lobste.rs/s/uaipwe/quiche_browser_beautifully) - [Quiche Browser — Beautifully customizable web browser](https://quiche.industries/browser/)
 * [2026-04-14, 20:07:20](https://news.ycombinator.com/item?id=47770770) - [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/)
 * [2026-04-14, 20:00:00](https://tech.slashdot.org/story/26/04/14/1955224/audit-finds-google-microsoft-and-meta-still-tracking-users-after-opt-out?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Audit Finds Google, Microsoft, and Meta Still Tracking Users After Opt-Out](https://tech.slashdot.org/story/26/04/14/1955224/audit-finds-google-microsoft-and-meta-still-tracking-users-after-opt-out?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-14, 19:46:52](https://lobste.rs/s/l79aep/release_openssl_4_0_0) - [Release OpenSSL 4.0.0](https://github.com/openssl/openssl/releases/tag/openssl-4.0.0)
@@ -117,7 +102,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-14, 16:15:51](https://lobste.rs/s/4vvozb/zig_0_16_0_release_notes) - [Zig 0.16.0 Release Notes](https://ziglang.org/download/0.16.0/release-notes.html)
 * [2026-04-14, 16:13:26](https://lobste.rs/s/ko3ur4/faith_based_computing_versus_unnatural) - [Faith-based computing versus the unnatural science](https://queue.acm.org/detail.cfm?id=3806209)
 * [2026-04-14, 16:00:00](https://yro.slashdot.org/story/26/04/14/048209/google-faces-mass-arbitration-by-advertisers-seeking-billions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Faces Mass Arbitration By Advertisers Seeking Billions](https://yro.slashdot.org/story/26/04/14/048209/google-faces-mass-arbitration-by-advertisers-seeking-billions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-14, 15:10:25](https://lobste.rs/s/1fwhvf/ark_vcs_version_control_for_games) - [Ark VCS - Version Control For Games](https://ark-vcs.com/)
 * [2026-04-14, 15:00:00](https://science.slashdot.org/story/26/04/14/0356227/a-new-computer-chip-could-finally-withstand-the-hellscape-of-venus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A New Computer Chip Could Finally Withstand The Hellscape of Venus](https://science.slashdot.org/story/26/04/14/0356227/a-new-computer-chip-could-finally-withstand-the-hellscape-of-venus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-14, 14:48:46](https://news.ycombinator.com/item?id=47766370) - [Show HN: LangAlpha – what if Claude Code was built for Wall Street?](https://github.com/ginlix-ai/langalpha)
 * [2026-04-14, 14:02:00](https://soylentnews.org/article.pl?sid=26/04/12/173259&amp;from=rss) - [Tea: A Stimulant That Made the Modern World ](https://soylentnews.org/article.pl?sid=26/04/12/173259&amp;from=rss)
@@ -128,7 +112,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-14, 11:04:21](https://lobste.rs/s/hedf1w/rust_should_have_stable_tail_calls) - [Rust should have stable tail calls](https://trifectatech.org/blog/tail-calls-project-goal/)
 * [2026-04-14, 11:00:00](https://entertainment.slashdot.org/story/26/04/14/013232/air-force-pushed-out-ufo-investigator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Air Force Pushed Out UFO Investigator](https://entertainment.slashdot.org/story/26/04/14/013232/air-force-pushed-out-ufo-investigator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-14, 10:56:57](https://lobste.rs/s/bvuhnp/120_icons_counting) - [120+ Icons and Counting](https://blog.jimmac.eu/posts/app-icon-requests/)
-* [2026-04-14, 10:33:39](https://news.ycombinator.com/item?id=47763759) - [jj – the CLI for Jujutsu](https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html)
 * [2026-04-14, 09:12:00](https://soylentnews.org/article.pl?sid=26/04/12/170258&amp;from=rss) - [Linux Kernel Maintainers Are Following Through on Removing Intel 486 Support](https://soylentnews.org/article.pl?sid=26/04/12/170258&amp;from=rss)
 * [2026-04-14, 09:08:18](https://lobste.rs/s/fsudf4/claude_code_s_source_3_167_line_function) - [Claude Code&apos;s Source: 3,167-Line Function, Regex Sentiment](https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude)
 * [2026-04-14, 08:30:27](https://news.ycombinator.com/item?id=47762864) - [Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others](https://rareese.com/posts/backblaze/)
@@ -147,7 +130,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-13, 22:41:19](https://news.ycombinator.com/item?id=47758870) - [Let&apos;s talk space toilets](https://mceglowski.substack.com/p/lets-talk-space-toilets)
 * [2026-04-13, 22:00:00](https://slashdot.org/story/26/04/13/2056254/hollywood-stars-sign-open-letter-protesting-paramount-warner-bros-merger?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hollywood Stars Sign Open Letter Protesting Paramount-Warner Bros Merger](https://slashdot.org/story/26/04/13/2056254/hollywood-stars-sign-open-letter-protesting-paramount-warner-bros-merger?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-13, 21:05:39](https://lobste.rs/s/xr9g5d/github_stacked_prs) - [GitHub Stacked PRs](https://github.github.com/gh-stack/)
-* [2026-04-13, 21:00:00](https://yro.slashdot.org/story/26/04/13/2037240/fbi-raids-texas-home-of-man-suspected-of-firebombing-sam-altmans-sf-mansion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FBI Raids Texas Home of Man Suspected of Firebombing Sam Altman&apos;s SF Mansion](https://yro.slashdot.org/story/26/04/13/2037240/fbi-raids-texas-home-of-man-suspected-of-firebombing-sam-altmans-sf-mansion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-13, 18:54:00](https://soylentnews.org/article.pl?sid=26/04/12/1522257&amp;from=rss) - [OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters](https://soylentnews.org/article.pl?sid=26/04/12/1522257&amp;from=rss)
 * [2026-04-13, 16:04:27](https://lobste.rs/s/wwr6zu/lean_proved_this_program_was_correct_then) - [Lean proved this program was correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
 * [2026-04-13, 14:11:00](https://soylentnews.org/article.pl?sid=26/04/12/1154237&amp;from=rss) - [Intel Introduces its Own Neural Compression Technology With a Fallback Mode That Works on All GPUs](https://soylentnews.org/article.pl?sid=26/04/12/1154237&amp;from=rss)
@@ -164,8 +146,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-11, 19:18:00](https://soylentnews.org/article.pl?sid=26/04/10/0259257&amp;from=rss) - [EFF is Leaving X](https://soylentnews.org/article.pl?sid=26/04/10/0259257&amp;from=rss)
 * [2026-04-11, 17:48:02](https://news.ycombinator.com/item?id=47732535) - [The Orange Pi 6 Plus](https://taoofmac.com/space/reviews/2026/04/11/1900)
 * [2026-04-11, 14:35:00](https://soylentnews.org/article.pl?sid=26/04/10/0256206&amp;from=rss) - [Standard Model of Particle Physics Verified to One Trillionth Accuracy](https://soylentnews.org/article.pl?sid=26/04/10/0256206&amp;from=rss)
-* [2026-04-11, 10:31:51](https://news.ycombinator.com/item?id=47729327) - [Ask HN: Easiest UX for Seniors](https://news.ycombinator.com/item?id=47729327)
 * [2026-04-11, 09:50:00](https://soylentnews.org/article.pl?sid=26/04/10/0254231&amp;from=rss) - [Toward Cheaper, Cleaner Hydrogen Production](https://soylentnews.org/article.pl?sid=26/04/10/0254231&amp;from=rss)
 * [2026-04-11, 08:27:06](https://news.ycombinator.com/item?id=47728662) - [Picasso&apos;s Guernica (Gigapixel)](https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59)
 * [2026-04-11, 05:09:00](https://soylentnews.org/article.pl?sid=26/04/10/0250211&amp;from=rss) - [Honda Hits Brakes On EV Rollout Amid Rising Losses](https://soylentnews.org/article.pl?sid=26/04/10/0250211&amp;from=rss)
+* [2026-04-11, 00:47:06](https://news.ycombinator.com/item?id=47725897) - [Installing OpenBSD on the Pomera DM250 Writerdeck](https://jcs.org/2026/04/09/openbsd-dm250)
 * [2026-04-11, 00:27:00](https://soylentnews.org/article.pl?sid=26/04/10/0248230&amp;from=rss) - [Ancient Rocks Reveal Evidence of the First Continents and Crust Recycling Processes on Earth](https://soylentnews.org/article.pl?sid=26/04/10/0248230&amp;from=rss)
