@@ -1,40 +1,54 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Emerging Technologies and AI
 
-* Intel's new Core Series 3 challenges the MacBook Neo. [Read more](https://apple.slashdot.org/story/26/04/17/0336256/intels-new-core-series-3-is-its-answer-to-the-macbook-neo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) and [comments](https://apple.slashdot.org/story/26/04/17/0336256/intels-new-core-series-3-is-its-answer-to-the-macbook-neo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [Collaborative Autoresearch on a Peer-to-Peer Network](https://community.computer) - An exploration and proposal of a P2P network fostering autoresearch as a collaborative endeavor. Relevant community feedback can be found [here](https://lobste.rs/s/fsryww/collaborative_autoresearch_on_peer_peer).
 
-* Playdate's handheld innovation changes how Duke University approaches game design. [Details here](https://news.play.date/news/duke-playdate-education/) and join the [discussion](https://news.ycombinator.com/item?id=47798176).
+* [Anthropic Rolls Out Claude Opus 4.7, an AI Model That Is Less Risky Than Mythos](https://slashdot.org/story/26/04/16/1658237/anthropic-rolls-out-claude-opus-47-an-ai-model-that-is-less-risky-than-mythos?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A safer AI model development that aims to address the risks posed by its predecessors. Discuss more [here](https://news.ycombinator.com/item?id=47792764).
 
-* Substrate AI seeks developers for harness engineering roles. [Learn more](https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer) and [discuss](https://news.ycombinator.com/item?id=47802016).
+* [Google, Pentagon Discuss Classified AI Deal](https://yro.slashdot.org/story/26/04/16/184240/google-pentagon-discuss-classified-ai-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The discussion highlights the intersection of AI advancements with national security interests. Feedback is available [here](https://news.ycombinator.com/item?id=47796469).
 
-* Boston Dynamics' robot dog enhances utility with new analytical features like reading gauges and spotting spills. Learn how [here](https://hardware.slashdot.org/story/26/04/15/2143237/boston-dynamics-robot-dog-can-now-read-gauges-spot-spills-and-reason?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) and join the conversation [here](https://hardware.slashdot.org/story/26/04/15/2143237/boston-dynamics-robot-dog-can-now-read-gauges-spot-spills-and-reason?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [Substrate AI Is Hiring Harness Engineers](https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer) - A job listing for individuals interested in creating novel AI solutions. Join the discussion [here](https://news.ycombinator.com/item?id=47802016).
 
-## Artificial Intelligence and Automation
+* [OpenAI's Big Codex Update Is a Direct Shot at Claude Code](https://developers.slashdot.org/story/26/04/16/2040206/openais-big-codex-update-is-a-direct-shot-at-claude-code?utm_source=rss1.0mainlinkanon&utm_medium=feed) - OpenAI's update highlights a competitive streak in the AI software industry as it seeks to outdo alternatives like Claude Code. Comments are ongoing [here](https://developers.slashdot.org/story/26/04/16/2040206/openais-big-codex-update-is-a-direct-shot-at-claude-code?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* OpenAI launches a significant Codex update to challenge Claude Code. [Explore the update](https://developers.slashdot.org/story/26/04/16/2040206/openais-big-codex-update-is-a-direct-shot-at-claude-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) and [comments](https://developers.slashdot.org/story/26/04/16/2040206/openais-big-codex-update-is-a-direct-shot-at-claude-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+## Tech Industry Critiques and Developments
 
-* Ukraine's military embraces a robot surge to mitigate drone risks. [Read more](https://soylentnews.org/article.pl?sid=26/04/15/1723257&amp;from=rss) and [comments](https://soylentnews.org/article.pl?sid=26/04/15/1723257&amp;from=rss).
+* [How Big Tech wrote secrecy into EU law to hide data centres' environmental toll](https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint) - This article exposes the strategies employed by tech giants to obscure environmental costs. Find the discussion [here](https://news.ycombinator.com/item?id=47803745).
 
-* Discover the Qwen3.6-35B-A3B AI coding model. [Learn more](https://qwen.ai/blog?id=qwen3.6-35b-a3b) and join the [discussion](https://news.ycombinator.com/item?id=47792764).
+* [The age of snarky UI](https://thoughtbot.com/blog/the-age-of-snarky-ui) - A thought-provoking look at how user interfaces have become increasingly sarcastic or condescending, raising questions about UX design. Read more reactions [here](https://lobste.rs/s/sbtemt/age_snarky_ui).
 
-* Anthropic unveils Claude Opus 4.7, a safer AI alternative to Mythos. [Details here](https://slashdot.org/story/26/04/16/1658237/anthropic-rolls-out-claude-opus-47-an-ai-model-that-is-less-risky-than-mythos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) and [comments](https://slashdot.org/story/26/04/16/1658237/anthropic-rolls-out-claude-opus-47-an-ai-model-that-is-less-risky-than-mythos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [Okay, what actually uses Rust](https://blog.goose.love/posts/what-actually-uses-rust/) - A dive into practical applications of the Rust programming language in various tech sectors. Discuss further [here](https://lobste.rs/s/dlxlvj/okay_what_actually_uses_rust).
 
-## Legal and Regulatory Developments
+* [Announcing Rust 1.95.0](https://blog.rust-lang.org/2026/04/16/Rust-1.95.0/) - The latest release of Rust is here, introducing new features that enhance the language's usability and performance. Join the conversation [here](https://lobste.rs/s/pmxhem/announcing_rust_1_95_0).
 
-* A US bill mandates on-device age verification to improve online safety. [Details here](https://reclaimthenet.org/us-bill-mandates-on-device-age-verification) and read the [discussion](https://news.ycombinator.com/item?id=47801991).
+* [Meta Zuckerberg Becomes the New Clippy](https://soylentnews.org/article.pl?sid=26/04/15/1727239&from=rss) - A satirical take on Zuckerberg's approach to tech innovation as a modern-day 'Clippy'. Comments are available [here](https://soylentnews.org/article.pl?sid=26/04/15/1727239&from=rss).
 
-* US Appeals Court overturns a 158-year-old ban on home distilling, declaring it unconstitutional. [Read more here](https://soylentnews.org/article.pl?sid=26/04/15/1535223&amp;from=rss) and [comments](https://soylentnews.org/article.pl?sid=26/04/15/1535223&amp;from=rss).
+## Scientific Discoveries and Environmental Issues
 
-* California AG accuses Amazon of price-fixing tactics following release of unsealed records. [More info](https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit) and join [discussion](https://news.ycombinator.com/item?id=47800166).
+* [Sperm Whales' Communication Closely Parallels Human Language, Study Finds](https://science.slashdot.org/story/26/04/17/0143228/sperm-whales-communication-closely-parallels-human-language-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Groundbreaking research showing similarities between human communication and that of whales. Share your thoughts [here](https://science.slashdot.org/story/26/04/17/0143228/sperm-whales-communication-closely-parallels-human-language-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-## Science and Environment
+* [Ukraine's Military Robot Surge Aims to Offset Drone Risks to Humans](https://soylentnews.org/article.pl?sid=26/04/15/1723257&from=rss) - Ukraine's innovative approach to reducing threats to human lives via military robotics. Dive into feedback [here](https://soylentnews.org/article.pl?sid=26/04/15/1723257&from=rss).
 
-* Sperm whales' communication patterns show similarities to human language. [Read about the study](https://science.slashdot.org/story/26/04/17/0143228/sperm-whales-communication-closely-parallels-human-language-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) and join the [discussion](https://science.slashdot.org/story/26/04/17/0143228/sperm-whales-communication-closely-parallels-human-language-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [Nature Is Still Molding Human Genes, Study Finds](https://news.slashdot.org/story/26/04/16/007258/nature-is-still-molding-human-genes-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Newly uncovered evidence suggesting ongoing genetic evolution in humans. Detailed discussions are ongoing [here](https://news.slashdot.org/story/26/04/16/007258/nature-is-still-molding-human-genes-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* Efforts by researchers reveal electrode technology achieving 86% CO₂-to-plastic efficiency. [Learn more here](https://soylentnews.org/article.pl?sid=26/04/14/0413241&amp;from=rss) and explore the [discussion](https://soylentnews.org/article.pl?sid=26/04/14/0413241&amp;from=rss).
+## Open Source Projects and Innovations
 
-* Nature is still actively molding human genes, as shown in a recent study. [Read more](https://news.slashdot.org/story/26/04/16/007258/nature-is-still-molding-human-genes-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) and see related [comments](https://news.slashdot.org/story/26/04/16/007258/nature-is-still-molding-human-genes-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [git-kv: Key-value store attached to git commits using Git notes](https://github.com/sebastien/git-kv) - A clever tool for developers to add context using Git notes. Check feedback [here](https://lobste.rs/s/ygjm5d/git_kv_key_value_store_attached_git).
+
+* [Discourse Is Not Going Closed Source](https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/) - Discourse reassures its community of its commitment to remaining open source. Join the discussion [here](https://news.ycombinator.com/item?id=47802233).
+
+* [Clojure: The Documentary](https://www.youtube.com/watch?v=Y24vK_QDLFg) - A detailed overview of Clojure, exploring its rise and use cases. Share more insights [here](https://lobste.rs/s/nvzsa5/clojure_documentary).
+
+* [A history of teapots and UNIX](https://discuss.systems/@thalia/116417242648384997) - An unconventional exploration of UNIX history through the lens of teapots. Feedback is welcome [here](https://lobste.rs/s/ql5jpq/history_teapots_unix).
+
+* [A Git helper tool that breaks large merges into parallelizable tasks](https://github.com/mwallner/mergetopus) - Streamlining Git workflows with this handy tool. See community viewpoints [here](https://news.ycombinator.com/item?id=47748733).
+
+## Security and Legal Implications in Tech
+
+* [TotalRecall Reloaded Tool Finds a Side Entrance To Windows 11 Recall Database](https://yro.slashdot.org/story/26/04/16/2052224/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11-recall-database?utm_source=rss1.0mainlinkanon&utm_medium=feed) - New revelations about security gaps in Windows 11 raise questions on privacy concerns. Participate in the discussion [here](https://yro.slashdot.org/story/26/04/16/2052224/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11-recall-database?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+
+* [US Appeals Court Declares 158-Year-Old Home Distilling Ban Unconstitutional](https://soylentnews.org/article.pl?sid=26/04/15/1535223&from=rss) - Landmark legal ruling overturns a century-old federal ban on home distilling capabilities. Comments are available [here](https://soylentnews.org/article.pl?sid=26/04/15/1535223&from=rss).
 
 ---
 
@@ -61,8 +75,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-04-17, 09:09:48](https://lobste.rs/s/fsryww/collaborative_autoresearch_on_peer_peer) - [Collaborative Autoresearch on a Peer-to-Peer Network](https://community.computer)
+* [2026-04-17, 08:51:38](https://news.ycombinator.com/item?id=47803844) - [Ada, Its Design, and the Language That Built the Languages](https://www.iqiipi.com/the-quiet-colossus.html)
+* [2026-04-17, 08:36:00](https://soylentnews.org/article.pl?sid=26/04/15/1727239&amp;from=rss) - [Meta Zuckerberg Becomes the New Clippy](https://soylentnews.org/article.pl?sid=26/04/15/1727239&amp;from=rss)
+* [2026-04-17, 08:32:54](https://news.ycombinator.com/item?id=47803745) - [How Big Tech wrote secrecy into EU law to hide data centres&apos; environmental toll](https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint)
+* [2026-04-17, 07:54:45](https://lobste.rs/s/vbid4k/early_look_at_tailscale_rs_tsnet_library) - [An early look at tailscale-rs, a tsnet library in Rust](https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview)
 * [2026-04-17, 07:20:46](https://news.ycombinator.com/item?id=47803323) - [FIM – Linux framebuffer image viewer](https://www.nongnu.org/fbi-improved/)
+* [2026-04-17, 07:15:22](https://lobste.rs/s/lcjbr0/demystifying_assemblers) - [Demystifying assemblers](https://briancallahan.net/blog/20210408.html)
 * [2026-04-17, 07:00:00](https://apple.slashdot.org/story/26/04/17/0336256/intels-new-core-series-3-is-its-answer-to-the-macbook-neo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Intel&apos;s New Core Series 3 Is Its Answer To the MacBook Neo](https://apple.slashdot.org/story/26/04/17/0336256/intels-new-core-series-3-is-its-answer-to-the-macbook-neo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-17, 06:53:27](https://lobste.rs/s/ql5jpq/history_teapots_unix) - [A history of teapots and UNIX](https://discuss.systems/@thalia/116417242648384997)
 * [2026-04-17, 06:19:45](https://news.ycombinator.com/item?id=47802971) - [PROBoter – Open-source platform for automated PCB analysis](https://www.schutzwerk.com/en/blog/proboter-01/)
 * [2026-04-17, 05:43:07](https://lobste.rs/s/yr2mcf/folk_computer) - [Folk Computer](https://folk.computer/start)
 * [2026-04-17, 04:11:13](https://lobste.rs/s/ygjm5d/git_kv_key_value_store_attached_git) - [git-kv: Key-value store attached to git commits using Git notes](https://github.com/sebastien/git-kv)
@@ -74,10 +95,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-17, 02:53:16](https://news.ycombinator.com/item?id=47802016) - [Substrate AI Is Hiring Harness Engineers](https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer)
 * [2026-04-17, 02:50:02](https://news.ycombinator.com/item?id=47801991) - [US Bill Mandates On-Device Age Verification](https://reclaimthenet.org/us-bill-mandates-on-device-age-verification)
 * [2026-04-17, 00:37:47](https://news.ycombinator.com/item?id=47801255) - [Show HN: SPICE simulation → oscilloscope → verification with Claude Code](https://lucasgerads.com/blog/lecroy-mcp-spice-demo/)
-* [2026-04-16, 23:15:33](https://news.ycombinator.com/item?id=47800738) - [Everything we like is a psyop?](https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/)
 * [2026-04-16, 23:07:00](https://soylentnews.org/article.pl?sid=26/04/15/1539246&amp;from=rss) - [The Entity That Has Been Watching Bitcoin for 14 Years](https://soylentnews.org/article.pl?sid=26/04/15/1539246&amp;from=rss)
 * [2026-04-16, 23:00:00](https://yro.slashdot.org/story/26/04/16/2052224/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11-recall-database?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;TotalRecall Reloaded&apos; Tool Finds a Side Entrance To Windows 11 Recall Database](https://yro.slashdot.org/story/26/04/16/2052224/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11-recall-database?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-16, 22:08:53](https://news.ycombinator.com/item?id=47800166) - [New unsealed records reveal Amazon&apos;s price-fixing tactics, California AG claims](https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit)
 * [2026-04-16, 22:00:00](https://developers.slashdot.org/story/26/04/16/2040206/openais-big-codex-update-is-a-direct-shot-at-claude-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI&apos;s Big Codex Update Is a Direct Shot At Claude Code](https://developers.slashdot.org/story/26/04/16/2040206/openais-big-codex-update-is-a-direct-shot-at-claude-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-16, 21:56:37](https://news.ycombinator.com/item?id=47800033) - [Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine](https://github.com/gainsec/autoprober)
 * [2026-04-16, 21:14:02](https://news.ycombinator.com/item?id=47799573) - [A Better R Programming Experience Thanks to Tree-sitter](https://ropensci.org/blog/2026/04/02/tree-sitter-overview/)
@@ -94,20 +113,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-16, 18:39:59](https://news.ycombinator.com/item?id=47797665) - [Android CLI: Build Android apps 3x faster using any agent](https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html)
 * [2026-04-16, 18:20:00](https://soylentnews.org/article.pl?sid=26/04/15/1535223&amp;from=rss) - [US Appeals Court Declares 158-Year-Old Home Distilling Ban Unconstitutional](https://soylentnews.org/article.pl?sid=26/04/15/1535223&amp;from=rss)
 * [2026-04-16, 18:00:00](https://tech.slashdot.org/story/26/04/16/1718230/ipv6-usage-reaches-historic-50-across-google-services?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [IPv6 Usage Reaches Historic 50% Across Google Services](https://tech.slashdot.org/story/26/04/16/1718230/ipv6-usage-reaches-historic-50-across-google-services?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-16, 17:37:20](https://news.ycombinator.com/item?id=47796830) - [Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/)
 * [2026-04-16, 17:34:44](https://lobste.rs/s/myzsbg/stop_using_jwts_2019) - [Stop using JWTs (2019)](https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452)
 * [2026-04-16, 17:12:19](https://news.ycombinator.com/item?id=47796469) - [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/)
 * [2026-04-16, 17:00:00](https://slashdot.org/story/26/04/16/1658237/anthropic-rolls-out-claude-opus-47-an-ai-model-that-is-less-risky-than-mythos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Rolls Out Claude Opus 4.7, an AI Model That Is Less Risky Than Mythos](https://slashdot.org/story/26/04/16/1658237/anthropic-rolls-out-claude-opus-47-an-ai-model-that-is-less-risky-than-mythos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-16, 16:00:00](https://yro.slashdot.org/story/26/04/16/0717208/eu-age-verification-app-announced-to-protect-children-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EU Age Verification App Announced To Protect Children Online](https://yro.slashdot.org/story/26/04/16/0717208/eu-age-verification-app-announced-to-protect-children-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-16, 15:32:52](https://lobste.rs/s/kvf7u1/from_five_optional_fields_discriminated) - [From five optional fields to a discriminated union: CLI parsing with Optique 1.0](https://hackers.pub/@hongminhee/2026/optique-10-discriminated-unions-for-cli)
-* [2026-04-16, 15:19:54](https://news.ycombinator.com/item?id=47794514) - [Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs](https://www.zatanna.ai/kampala)
 * [2026-04-16, 15:14:10](https://lobste.rs/s/pmxhem/announcing_rust_1_95_0) - [Announcing Rust 1.95.0](https://blog.rust-lang.org/2026/04/16/Rust-1.95.0/)
 * [2026-04-16, 15:00:00](https://tech.slashdot.org/story/26/04/16/079216/researchers-induce-smells-with-ultrasound-no-chemical-cartridges-required?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Researchers Induce Smells With Ultrasound, No Chemical Cartridges Required](https://tech.slashdot.org/story/26/04/16/079216/researchers-induce-smells-with-ultrasound-no-chemical-cartridges-required?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-16, 14:42:07](https://lobste.rs/s/ebltpu/detecting_dosbox_from_within_box) - [Detecting DOSBox from within the Box](http://datagirl.xyz/posts/dos_inside_the_box.html)
 * [2026-04-16, 14:23:50](https://news.ycombinator.com/item?id=47793411) - [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
 * [2026-04-16, 14:10:16](https://lobste.rs/s/ouzdjl/time_travel_debugger_for_webassembly) - [A time travel debugger for WebAssembly](https://github.com/friendlymatthew/gabagool/tree/main/gabagool-debug-adapter#gabagool-debug-adapter)
 * [2026-04-16, 14:01:20](https://lobste.rs/s/yhbjpt/future_everything_is_lies_i_guess_where_do) - [The Future of Everything is Lies, I Guess: Where Do We Go From Here?](https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here)
-* [2026-04-16, 13:56:48](https://lobste.rs/s/fzwy8c/esonatlangs_bring_complexity_natural) - [EsoNatLangs Bring the Complexity of Natural Language into Code](https://esoteric.codes/blog/five-esonatlangs)
 * [2026-04-16, 13:36:27](https://news.ycombinator.com/item?id=47792764) - [Qwen3.6-35B-A3B: Agentic coding power, now open to all](https://qwen.ai/blog?id=qwen3.6-35b-a3b)
 * [2026-04-16, 13:36:00](https://soylentnews.org/article.pl?sid=26/04/15/0217209&amp;from=rss) - [AI Token Freeloaders Manipulating Customer Support Bots](https://soylentnews.org/article.pl?sid=26/04/15/0217209&amp;from=rss)
 * [2026-04-16, 13:32:13](https://news.ycombinator.com/item?id=47792718) - [The future of everything is lies, I guess: Where do we go from here?](https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here)
@@ -129,16 +144,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-15, 23:00:00](https://hardware.slashdot.org/story/26/04/15/2143237/boston-dynamics-robot-dog-can-now-read-gauges-spot-spills-and-reason?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Boston Dynamics&apos; Robot Dog Can Now Read Gauges, Spot Spills, and Reason](https://hardware.slashdot.org/story/26/04/15/2143237/boston-dynamics-robot-dog-can-now-read-gauges-spot-spills-and-reason?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-15, 19:59:39](https://lobste.rs/s/nihbc8/you_cannot_use_gnu_gpl_take_software) - [You cannot use the GNU (A)GPL to take software freedom away](https://www.fsf.org/blogs/licensing/agpl-is-not-a-tool-for-taking-freedom-away)
 * [2026-04-15, 18:37:00](https://soylentnews.org/article.pl?sid=26/04/15/0158227&amp;from=rss) - [South Korea&apos;s Telecom Giants Surprise 7 Million Users With Unlimited, Universal Internet](https://soylentnews.org/article.pl?sid=26/04/15/0158227&amp;from=rss)
-* [2026-04-15, 18:12:33](https://lobste.rs/s/r4dspa/ai_assistance_reduces_persistence_hurts) - [AI Assistance Reduces Persistence and Hurts Independent Performance](https://arxiv.org/pdf/2604.04721)
 * [2026-04-15, 13:52:00](https://soylentnews.org/article.pl?sid=26/04/14/0413241&amp;from=rss) - [Electrode Technology Achieves 86% Efficiency for Converting CO₂ Into Plastic Precursors](https://soylentnews.org/article.pl?sid=26/04/14/0413241&amp;from=rss)
 * [2026-04-15, 12:57:28](https://lobste.rs/s/otzxqs/things_you_didn_t_know_about_indexes) - [Things you didn&apos;t know about indexes](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html)
-* [2026-04-15, 11:57:24](https://lobste.rs/s/q6j2fu/retrofitting_jit_compilers_into_c) - [Retrofitting JIT Compilers into C Interpreters](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html)
 * [2026-04-15, 09:07:00](https://soylentnews.org/article.pl?sid=26/04/14/049220&amp;from=rss) - [Linux Lays Down the Law on AI-Generated Code](https://soylentnews.org/article.pl?sid=26/04/14/049220&amp;from=rss)
 * [2026-04-15, 04:22:00](https://soylentnews.org/article.pl?sid=26/04/14/043205&amp;from=rss) - [The AI Great Leap Forward](https://soylentnews.org/article.pl?sid=26/04/14/043205&amp;from=rss)
 * [2026-04-14, 23:35:00](https://soylentnews.org/article.pl?sid=26/04/14/0256247&amp;from=rss) - [Missouri Town Fires Half its City Council Over Data Center Deal](https://soylentnews.org/article.pl?sid=26/04/14/0256247&amp;from=rss)
 * [2026-04-14, 23:20:39](https://news.ycombinator.com/item?id=47772725) - [CadQuery is an open-source Python library for building 3D CAD models](https://cadquery.github.io/)
 * [2026-04-14, 18:53:00](https://soylentnews.org/article.pl?sid=26/04/14/0235214&amp;from=rss) - [Original Task Manager Was Only 80KB So It Could Run Smoothly on 90s Computers](https://soylentnews.org/article.pl?sid=26/04/14/0235214&amp;from=rss)
 * [2026-04-14, 14:02:00](https://soylentnews.org/article.pl?sid=26/04/12/173259&amp;from=rss) - [Tea: A Stimulant That Made the Modern World ](https://soylentnews.org/article.pl?sid=26/04/12/173259&amp;from=rss)
+* [2026-04-14, 11:21:17](https://news.ycombinator.com/item?id=47764116) - [Rubens Menin&apos;s 150 Years \&quot;Old\&quot; Port Wine](https://neofeed.com.br/finde/o-vinho-do-porto-very-very-old-de-rubens-menin/en/)
 * [2026-04-14, 09:12:00](https://soylentnews.org/article.pl?sid=26/04/12/170258&amp;from=rss) - [Linux Kernel Maintainers Are Following Through on Removing Intel 486 Support](https://soylentnews.org/article.pl?sid=26/04/12/170258&amp;from=rss)
 * [2026-04-14, 04:29:00](https://soylentnews.org/article.pl?sid=26/04/12/170200&amp;from=rss) - [Startup Secures $30 Million Contract to 3D Print Jet Engines for the USAF](https://soylentnews.org/article.pl?sid=26/04/12/170200&amp;from=rss)
 * [2026-04-13, 23:45:58](https://news.ycombinator.com/item?id=47759436) - [30 Years of HPC: many hardware advances, little adoption of new languages](https://chapel-lang.org/blog/posts/30years/)
@@ -146,6 +160,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-13, 18:54:00](https://soylentnews.org/article.pl?sid=26/04/12/1522257&amp;from=rss) - [OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters](https://soylentnews.org/article.pl?sid=26/04/12/1522257&amp;from=rss)
 * [2026-04-13, 18:42:29](https://news.ycombinator.com/item?id=47756239) - [Building a Web Page That Edits Itself](https://www.patrickweaver.net/blog/one-pager-self-editing-html/)
 * [2026-04-13, 17:25:50](https://news.ycombinator.com/item?id=47755261) - [A Python Interpreter Written in Python](https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
+* [2026-04-13, 14:36:57](https://news.ycombinator.com/item?id=47752639) - [Precision over perception: Why architecture matters in benchmarking](https://www.redhat.com/en/blog/precision-over-perception-why-architecture-matters-benchmarking)
 * [2026-04-13, 14:11:00](https://soylentnews.org/article.pl?sid=26/04/12/1154237&amp;from=rss) - [Intel Introduces its Own Neural Compression Technology With a Fallback Mode That Works on All GPUs](https://soylentnews.org/article.pl?sid=26/04/12/1154237&amp;from=rss)
 * [2026-04-13, 11:39:12](https://news.ycombinator.com/item?id=47750600) - [ReBot-DevArm: open-source Robotic Arm](https://github.com/Seeed-Projects/reBot-DevArm)
 * [2026-04-13, 11:09:09](https://news.ycombinator.com/item?id=47750364) - [Century-bandwidth antenna reinvented,patented after 18 yrs with decade bandwidth](https://ieeexplore.ieee.org/document/1715264)
