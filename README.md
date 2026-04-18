@@ -1,90 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Programming Innovations
+## Technological Advancements and Innovations
+
+* [How GitHub uses eBPF to improve deployment safety](https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/) ([comments](https://lobste.rs/s/9xgleb/how_github_uses_ebpf_improve_deployment))
+
+* [Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/) ([comments](https://news.ycombinator.com/item?id=47812341))
+
+* [Show HN: Smol machines – subsecond coldstart, portable virtual machines](https://github.com/smol-machines/smolvm) ([comments](https://news.ycombinator.com/item?id=47808268))
+
+* [Mozilla 'Thunderbolt' Is an Open-Source AI Client Focused On Control and Self-Hosting](https://tech.slashdot.org/story/26/04/17/1850251/mozilla-thunderbolt-is-an-open-source-ai-client-focused-on-control-and-self-hosting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47808609))
+
+## Space Exploration
+
+* [NASA Restarts Work To Support Europe's Uncrewed Trip To Mars After Years of Setbacks](https://science.slashdot.org/story/26/04/18/0051201/nasa-restarts-work-to-support-europes-uncrewed-trip-to-mars-after-years-of-setbacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47813742))
+
+* [Meet Orpheus—a Hopper Mission Built to Hunt for Life in Martian Volcanoes](https://soylentnews.org/article.pl?sid=26/04/17/0326235&amp;from=rss) ([comments](https://news.ycombinator.com/comments.pl?sid=26/04/17/0326235))
+
+## Environmental Changes and Challenges
+
+* [Critical Atlantic Current Significantly More Likely To Collapse Than Thought](https://science.slashdot.org/story/26/04/18/0056244/critical-atlantic-current-significantly-more-likely-to-collapse-than-thought?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47813139))
+
+## Insights into Computer Science and Software Development
 
 * [The Complete C Programming Roadmap for Beginners (2026) — From Zero to Confident Programmer](https://medium.com/@suyashnagane438/the-complete-c-programming-roadmap-for-beginners-2026-from-zero-to-confident-programmer-a9f13e255f2a) ([comments](https://lobste.rs/s/wwdso3/complete_c_programming_roadmap_for))
-
-* [Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/) ([comments](https://news.ycombinator.com/item?id=47813668))
-
-* [Why is IPv6 so complicated?](https://github.com/becarpenter/misc/blob/main/why6why.md) ([comments 1](https://news.ycombinator.com/item?id=47813631), [comments 2](https://lobste.rs/s/m0c78b/why_is_ipv6_so_complicated))
 
 * [Lenses in Rust and My Solution](https://lambdalemon.gay/posts/grist-lens) ([comments](https://lobste.rs/s/i0tuyd/lenses_rust_my_solution))
 
 * [Building ezli.me, a link shortener in Rust](https://rustunit.com/blog/2026/04-17-ezlime-link-shortener-in-rust/) ([comments](https://lobste.rs/s/tyxxnd/building_ezli_me_link_shortener_rust))
 
-* [Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/) ([comments](https://news.ycombinator.com/item?id=47812341))
+## Critical Developments in Cybersecurity
 
-* [Folk Computer](https://folk.computer/start) ([comments](https://lobste.rs/s/yr2mcf/folk_computer))
+* [It is incorrect to "normalize" // in HTTP URL paths](https://runxiyu.org/comp/doubleslash/) ([comments](https://news.ycombinator.com/item?id=47813454))
 
-* [An early look at tailscale-rs, a tsnet library in Rust](https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview) ([comments](https://lobste.rs/s/vbid4k/early_look_at_tailscale_rs_tsnet_library))
+* [HTTP desync in Discord's media proxy: Spying on a whole platform](https://tmctmt.com/posts/http-desync-in-discord/) ([comments](https://lobste.rs/s/zxgmfx/http_desync_discord_s_media_proxy_spying))
 
-* [Isaac Asimov: The Last Question (1956)](https://hex.ooo/library/last_question.html) ([comments](https://news.ycombinator.com/item?id=47804965))
+* [NIST Limits CVE Enrichment After 263% Surge In Vulnerability Submissions](https://it.slashdot.org/story/26/04/17/2127243/nist-limits-cve-enrichment-after-263-surge-in-vulnerability-submissions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47806777))
 
-* [tangled newsletter 01 — hello](https://blog.tangled.org/newsletter-01/) ([comments](https://lobste.rs/s/y8jlwv/tangled_newsletter_01_hello))
-
-* [Rewriting Every Syscall in a Linux Binary at Load Time](https://amitlimaye1.substack.com/p/rewriting-every-syscall-in-a-linux) ([comments](https://news.ycombinator.com/item?id=47760135))
-
-## Science and Space Exploration
-
-* [NASA Restarts Work To Support Europe&apos;s Uncrewed Trip To Mars After Years of Setbacks](https://science.slashdot.org/story/26/04/18/0051201/nasa-restarts-work-to-support-europes-uncrewed-trip-to-mars-after-years-of-setbacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/04/18/0051201/nasa-restarts-work-to-support-europes-uncrewed-trip-to-mars-after-years-of-setbacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [Critical Atlantic Current Significantly More Likely To Collapse Than Thought](https://science.slashdot.org/story/26/04/18/0056244/critical-atlantic-current-significantly-more-likely-to-collapse-than-thought?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/04/18/0056244/critical-atlantic-current-significantly-more-likely-to-collapse-than-thought?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [Sperm Whales&apos; Communication Closely Parallels Human Language, Study Finds](https://science.slashdot.org/story/26/04/17/0143228/sperm-whales-communication-closely-parallels-human-language-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/04/17/0143228/sperm-whales-communication-closely-parallels-human-language-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [Ukraine&apos;s Military Robot Surge Aims to Offset Drone Risks to Humans](https://soylentnews.org/article.pl?sid=26/04/15/1723257&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/15/1723257&amp;from=rss))
-
-* [Landmark ancient-genome study shows surprise acceleration of human evolution](https://www.nature.com/articles/d41586-026-01204-5) ([comments](https://news.ycombinator.com/item?id=47811283))
-
-* [Physicists Think They&apos;ve Resolved the Proton Size Puzzle](https://soylentnews.org/article.pl?sid=26/04/16/1137236&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/16/1137236&amp;from=rss))
-
-## Internet and Cybersecurity
-
-* [It is incorrect to \\"normalize\\" // in HTTP URL paths](https://runxiyu.org/comp/doubleslash/) ([comments](https://news.ycombinator.com/item?id=47813454))
-
-* [HTTP desync in Discord&apos;s media proxy: Spying on a whole platform](https://tmctmt.com/posts/http-desync-in-discord/) ([comments](https://lobste.rs/s/zxgmfx/http_desync_discord_s_media_proxy_spying))
-
-* [Back Button Hijacking to be Penalised in Google Crackdown](https://soylentnews.org/article.pl?sid=26/04/16/1142203&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/16/1142203&amp;from=rss))
-
-* [NIST Limits CVE Enrichment After 263% Surge In Vulnerability Submissions](https://it.slashdot.org/story/26/04/17/2127243/nist-limits-cve-enrichment-after-263-surge-in-vulnerability-submissions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/26/04/17/2127243/nist-limits-cve-enrichment-after-263-surge-in-vulnerability-submissions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [zmx - run local code agents on remote machines](https://bower.sh/zmx-ai-portal) ([comments](https://lobste.rs/s/oozbdu/zmx_run_local_code_agents_on_remote))
-
-* [Stop using JWTs (2019)](https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452) ([comments](https://lobste.rs/s/myzsbg/stop_using_jwts_2019))
-
-## Environment and Regulatory Changes
-
-* [What the EU Battery Passport Means for Your Devices](https://holdmybill.com/blog/eu-battery-passport-explained-2027) ([comments](https://news.ycombinator.com/item?id=47813223))
-
-* [US Appeals Court Declares 158-Year-Old Home Distilling Ban Unconstitutional](https://soylentnews.org/article.pl?sid=26/04/15/1535223&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/15/1535223&amp;from=rss))
-
-* [Linux Kernel Maintainers Are Following Through on Removing Intel 486 Support](https://soylentnews.org/article.pl?sid=26/04/12/170258&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/12/170258&amp;from=rss))
-
-* [Electrode Technology Achieves 86% Efficiency for Converting CO₂ Into Plastic Precursors](https://soylentnews.org/article.pl?sid=26/04/14/0413241&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/14/0413241&amp;from=rss))
-
-* [Taking action: It Is Time to Ban the Sale of Precise Geolocation Data](https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation) ([comments](https://lobste.rs/s/a6ztsz/it_is_time_ban_sale_precise_geolocation))
-
-## Artificial Intelligence Developments
-
-* [Mozilla &apos;Thunderbolt&apos; Is an Open-Source AI Client Focused On Control and Self-Hosting](https://tech.slashdot.org/story/26/04/17/1850251/mozilla-thunderbolt-is-an-open-source-ai-client-focused-on-control-and-self-hosting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/04/17/1850251/mozilla-thunderbolt-is-an-open-source-ai-client-focused-on-control-and-self-hosting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [OpenAI Starts Offering a Biology-Tuned LLM](https://science.slashdot.org/story/26/04/17/1721205/openai-starts-offering-a-biology-tuned-llm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/04/17/1721205/openai-starts-offering-a-biology-tuned-llm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [AI Token Freeloaders Manipulating Customer Support Bots](https://soylentnews.org/article.pl?sid=26/04/15/0217209&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/15/0217209&amp;from=rss))
-
-* [Meta Zuckerberg Becomes the New Clippy](https://soylentnews.org/article.pl?sid=26/04/15/1727239&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/15/1727239&amp;from=rss))
-
-## Cultural and Historical Insights
-
-* [Terminator: The Story of the 6502 Code You See Onscreen](https://www.youtube.com/watch?v=NebvccLHutQ) ([comments](https://lobste.rs/s/mrgqmz/terminator_story_6502_code_you_see))
-
-* [Middle schooler finds coin from Troy in Berlin](https://www.thehistoryblog.com/archives/75848) ([comments](https://news.ycombinator.com/item?id=47806484))
+## Tech History and Retrospectives
 
 * [The lost thesis of Dennis Ritchie](https://archive.computerhistory.org/resources/access/text/2020/05/102790971/Ritchie_dissertation.pdf) ([comments](https://lobste.rs/s/my3lu9/lost_thesis_dennis_ritchie))
 
-* [Clojure: The Documentary](https://www.youtube.com/watch?v=Y24vK_QDLFg) ([comments](https://lobste.rs/s/nvzsa5/clojure_documentary))
+* [Reflections on 30 Years of HPC Programming: So many hardware advances, so little adoption of new languages](https://chapel-lang.org/blog/posts/30years/) ([comments](https://lobste.rs/s/b75v6m/reflections_on_30_years_hpc_programming))
 
-* [Missouri Town Fires Half its City Council Over Data Center Deal](https://soylentnews.org/article.pl?sid=26/04/14/0256247&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/14/0256247&amp;from=rss))
+* [Original Task Manager Was Only 80KB So It Could Run Smoothly on 90s Computers](https://soylentnews.org/article.pl?sid=26/04/14/0235214&amp;from=rss) ([comments](https://soylentnews.org/comments.pl?sid=26/04/14/0235214))
 
 ---
 
@@ -111,13 +69,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-04-18, 09:17:46](https://lobste.rs/s/9xgleb/how_github_uses_ebpf_improve_deployment) - [How GitHub uses eBPF to improve deployment safety](https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/)
+* [2026-04-18, 08:12:00](https://soylentnews.org/article.pl?sid=26/04/17/0326235&amp;from=rss) - [Meet Orpheus—a Hopper Mission Built to Hunt for Life in Martian Volcanoes](https://soylentnews.org/article.pl?sid=26/04/17/0326235&amp;from=rss)
+* [2026-04-18, 07:56:18](https://news.ycombinator.com/item?id=47814073) - [America Lost the Mandate of Heaven](https://geohot.github.io//blog/jekyll/update/2026/04/18/america-mandate-of-heaven.html)
 * [2026-04-18, 07:21:31](https://lobste.rs/s/wwdso3/complete_c_programming_roadmap_for) - [The Complete C Programming Roadmap for Beginners (2026) — From Zero to Confident Programmer](https://medium.com/@suyashnagane438/the-complete-c-programming-roadmap-for-beginners-2026-from-zero-to-confident-programmer-a9f13e255f2a)
 * [2026-04-18, 07:00:00](https://science.slashdot.org/story/26/04/18/0051201/nasa-restarts-work-to-support-europes-uncrewed-trip-to-mars-after-years-of-setbacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Restarts Work To Support Europe&apos;s Uncrewed Trip To Mars After Years of Setbacks](https://science.slashdot.org/story/26/04/18/0051201/nasa-restarts-work-to-support-europes-uncrewed-trip-to-mars-after-years-of-setbacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-18, 06:40:47](https://news.ycombinator.com/item?id=47813668) - [Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/)
-* [2026-04-18, 06:33:29](https://news.ycombinator.com/item?id=47813631) - [Why is IPv6 so complicated?](https://github.com/becarpenter/misc/blob/main/why6why.md)
 * [2026-04-18, 06:20:04](https://news.ycombinator.com/item?id=47813566) - [Amiga Graphics](https://amiga.lychesis.net/)
 * [2026-04-18, 05:47:10](https://news.ycombinator.com/item?id=47813454) - [It is incorrect to \&quot;normalize\&quot; // in HTTP URL paths](https://runxiyu.org/comp/doubleslash/)
-* [2026-04-18, 04:49:38](https://news.ycombinator.com/item?id=47813223) - [What the EU Battery Passport Means for Your Devices](https://holdmybill.com/blog/eu-battery-passport-explained-2027)
+* [2026-04-18, 03:44:54](https://news.ycombinator.com/item?id=47812964) - [Show HN: Sfsym – Export Apple SF Symbols as Vector SVG/PDF/PNG](https://github.com/yapstudios/sfsym)
 * [2026-04-18, 03:30:00](https://science.slashdot.org/story/26/04/18/0056244/critical-atlantic-current-significantly-more-likely-to-collapse-than-thought?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Critical Atlantic Current Significantly More Likely To Collapse Than Thought](https://science.slashdot.org/story/26/04/18/0056244/critical-atlantic-current-significantly-more-likely-to-collapse-than-thought?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-18, 03:30:00](https://soylentnews.org/article.pl?sid=26/04/17/0318245&amp;from=rss) - [IPv6 Adoption Reaches 50% - The Long Journey Toward Internet&apos;s Next Generation](https://soylentnews.org/article.pl?sid=26/04/17/0318245&amp;from=rss)
 * [2026-04-18, 02:42:46](https://lobste.rs/s/i0tuyd/lenses_rust_my_solution) - [Lenses in Rust and My Solution](https://lambdalemon.gay/posts/grist-lens)
@@ -129,11 +89,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-17, 22:50:00](https://soylentnews.org/article.pl?sid=26/04/16/1142203&amp;from=rss) - [Back Button Hijacking to be Penalised in Google Crackdown](https://soylentnews.org/article.pl?sid=26/04/16/1142203&amp;from=rss)
 * [2026-04-17, 22:30:28](https://news.ycombinator.com/item?id=47811283) - [Landmark ancient-genome study shows surprise acceleration of human evolution](https://www.nature.com/articles/d41586-026-01204-5)
 * [2026-04-17, 22:00:00](https://it.slashdot.org/story/26/04/17/2127243/nist-limits-cve-enrichment-after-263-surge-in-vulnerability-submissions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NIST Limits CVE Enrichment After 263% Surge In Vulnerability Submissions](https://it.slashdot.org/story/26/04/17/2127243/nist-limits-cve-enrichment-after-263-surge-in-vulnerability-submissions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-17, 21:55:38](https://lobste.rs/s/mrgqmz/terminator_story_6502_code_you_see) - [Terminator: The Story of the 6502 Code You See Onscreen](https://www.youtube.com/watch?v=NebvccLHutQ)
 * [2026-04-17, 21:38:20](https://news.ycombinator.com/item?id=47810872) - [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)
 * [2026-04-17, 21:33:13](https://lobste.rs/s/tyxxnd/building_ezli_me_link_shortener_rust) - [Building ezli.me, a link shortener in Rust](https://rustunit.com/blog/2026/04-17-ezlime-link-shortener-in-rust/)
 * [2026-04-17, 21:00:34](https://lobste.rs/s/m0c78b/why_is_ipv6_so_complicated) - [Why is IPv6 so complicated?](https://github.com/becarpenter/misc/blob/main/why6why.md)
-* [2026-04-17, 21:00:08](https://news.ycombinator.com/item?id=47810507) - [Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4](https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead)
 * [2026-04-17, 21:00:00](https://yro.slashdot.org/story/26/04/17/2115258/gazing-into-sam-altmans-orb-could-solve-ticket-scalping?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Gazing Into Sam Altman&apos;s Orb Could Solve Ticket Scalping](https://yro.slashdot.org/story/26/04/17/2115258/gazing-into-sam-altmans-orb-could-solve-ticket-scalping?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-17, 20:27:16](https://lobste.rs/s/rp1yrv/simplified_model_fil_c) - [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)
 * [2026-04-17, 20:01:54](https://lobste.rs/s/u1fill/apparmor_s_experimental_permissions) - [AppArmor&apos;s experimental permissions prompting (2024)](https://discourse.ubuntu.com/t/ubuntu-desktop-s-24-10-dev-cycle-part-5-introducing-permissions-prompting/47963)
@@ -164,15 +122,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-17, 13:20:00](https://soylentnews.org/article.pl?sid=26/04/15/1730255&amp;from=rss) - [Claude Mythos Preview Has Officially Frightened the British](https://soylentnews.org/article.pl?sid=26/04/15/1730255&amp;from=rss)
 * [2026-04-17, 13:02:52](https://lobste.rs/s/y8jlwv/tangled_newsletter_01_hello) - [tangled newsletter 01 — hello](https://blog.tangled.org/newsletter-01/)
 * [2026-04-17, 12:22:14](https://lobste.rs/s/oozbdu/zmx_run_local_code_agents_on_remote) - [zmx - run local code agents on remote machines](https://bower.sh/zmx-ai-portal)
-* [2026-04-17, 12:01:19](https://news.ycombinator.com/item?id=47804965) - [Isaac Asimov: The Last Question (1956)](https://hex.ooo/library/last_question.html)
 * [2026-04-17, 11:59:40](https://lobste.rs/s/zxgmfx/http_desync_discord_s_media_proxy_spying) - [HTTP desync in Discord&apos;s media proxy: Spying on a whole platform](https://tmctmt.com/posts/http-desync-in-discord/)
-* [2026-04-17, 11:50:11](https://lobste.rs/s/ku8hlz/discourse_is_not_going_closed_source) - [Discourse is Not Going Closed Source](https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/)
 * [2026-04-17, 11:37:05](https://lobste.rs/s/tbvl30/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/tbvl30/what_are_you_doing_this_weekend)
 * [2026-04-17, 11:00:00](https://news.slashdot.org/story/26/04/17/0325238/reed-hastings-is-leaving-netflix-after-29-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Reed Hastings Is Leaving Netflix After 29 Years](https://news.slashdot.org/story/26/04/17/0325238/reed-hastings-is-leaving-netflix-after-29-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-17, 08:36:00](https://soylentnews.org/article.pl?sid=26/04/15/1727239&amp;from=rss) - [Meta Zuckerberg Becomes the New Clippy](https://soylentnews.org/article.pl?sid=26/04/15/1727239&amp;from=rss)
 * [2026-04-17, 07:54:45](https://lobste.rs/s/vbid4k/early_look_at_tailscale_rs_tsnet_library) - [An early look at tailscale-rs, a tsnet library in Rust](https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview)
 * [2026-04-17, 07:00:00](https://apple.slashdot.org/story/26/04/17/0336256/intels-new-core-series-3-is-its-answer-to-the-macbook-neo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Intel&apos;s New Core Series 3 Is Its Answer To the MacBook Neo](https://apple.slashdot.org/story/26/04/17/0336256/intels-new-core-series-3-is-its-answer-to-the-macbook-neo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-17, 05:43:07](https://lobste.rs/s/yr2mcf/folk_computer) - [Folk Computer](https://folk.computer/start)
+* [2026-04-17, 04:11:13](https://lobste.rs/s/ygjm5d/git_kv_key_value_store_attached_git) - [git-kv: Key-value store attached to git commits using Git notes](https://github.com/sebastien/git-kv)
 * [2026-04-17, 03:52:00](https://soylentnews.org/article.pl?sid=26/04/15/1723257&amp;from=rss) - [Ukraine&apos;s Military Robot Surge Aims to Offset Drone Risks to Humans](https://soylentnews.org/article.pl?sid=26/04/15/1723257&amp;from=rss)
 * [2026-04-17, 03:30:00](https://science.slashdot.org/story/26/04/17/0143228/sperm-whales-communication-closely-parallels-human-language-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sperm Whales&apos; Communication Closely Parallels Human Language, Study Finds](https://science.slashdot.org/story/26/04/17/0143228/sperm-whales-communication-closely-parallels-human-language-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-16, 23:07:00](https://soylentnews.org/article.pl?sid=26/04/15/1539246&amp;from=rss) - [The Entity That Has Been Watching Bitcoin for 14 Years](https://soylentnews.org/article.pl?sid=26/04/15/1539246&amp;from=rss)
@@ -189,12 +146,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-16, 03:09:50](https://news.ycombinator.com/item?id=47788207) - [The simple geometry behind any road](https://sandboxspirit.com/blog/simple-geometry-of-roads/)
 * [2026-04-15, 23:20:00](https://soylentnews.org/article.pl?sid=26/04/15/021231&amp;from=rss) - [Blaming Kids for Poor Security](https://soylentnews.org/article.pl?sid=26/04/15/021231&amp;from=rss)
 * [2026-04-15, 18:37:00](https://soylentnews.org/article.pl?sid=26/04/15/0158227&amp;from=rss) - [South Korea&apos;s Telecom Giants Surprise 7 Million Users With Unlimited, Universal Internet](https://soylentnews.org/article.pl?sid=26/04/15/0158227&amp;from=rss)
-* [2026-04-15, 14:14:31](https://news.ycombinator.com/item?id=47779274) - [Making Wax Sealed Letters at Scale](https://waxletter.com/)
+* [2026-04-15, 18:07:46](https://news.ycombinator.com/item?id=47782925) - [Michael Rabin Has Died](https://en.wikipedia.org/wiki/Michael_O._Rabin)
+* [2026-04-15, 16:59:08](https://news.ycombinator.com/item?id=47781889) - [Introducing: ShaderPad](https://rileyjshaw.com/blog/introducing-shaderpad/)
 * [2026-04-15, 13:52:00](https://soylentnews.org/article.pl?sid=26/04/14/0413241&amp;from=rss) - [Electrode Technology Achieves 86% Efficiency for Converting CO₂ Into Plastic Precursors](https://soylentnews.org/article.pl?sid=26/04/14/0413241&amp;from=rss)
 * [2026-04-15, 13:49:15](https://news.ycombinator.com/item?id=47778938) - [Towards trust in Emacs](https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html)
 * [2026-04-15, 13:47:58](https://news.ycombinator.com/item?id=47778922) - [Are the costs of AI agents also rising exponentially? (2025)](https://www.tobyord.com/writing/hourly-costs-for-ai-agents)
 * [2026-04-15, 09:07:00](https://soylentnews.org/article.pl?sid=26/04/14/049220&amp;from=rss) - [Linux Lays Down the Law on AI-Generated Code](https://soylentnews.org/article.pl?sid=26/04/14/049220&amp;from=rss)
 * [2026-04-15, 04:22:00](https://soylentnews.org/article.pl?sid=26/04/14/043205&amp;from=rss) - [The AI Great Leap Forward](https://soylentnews.org/article.pl?sid=26/04/14/043205&amp;from=rss)
+* [2026-04-15, 01:47:46](https://news.ycombinator.com/item?id=47773722) - [The GNU libc atanh is correctly rounded](https://inria.hal.science/hal-05591661)
 * [2026-04-14, 23:35:00](https://soylentnews.org/article.pl?sid=26/04/14/0256247&amp;from=rss) - [Missouri Town Fires Half its City Council Over Data Center Deal](https://soylentnews.org/article.pl?sid=26/04/14/0256247&amp;from=rss)
 * [2026-04-14, 18:53:00](https://soylentnews.org/article.pl?sid=26/04/14/0235214&amp;from=rss) - [Original Task Manager Was Only 80KB So It Could Run Smoothly on 90s Computers](https://soylentnews.org/article.pl?sid=26/04/14/0235214&amp;from=rss)
 * [2026-04-14, 14:02:00](https://soylentnews.org/article.pl?sid=26/04/12/173259&amp;from=rss) - [Tea: A Stimulant That Made the Modern World ](https://soylentnews.org/article.pl?sid=26/04/12/173259&amp;from=rss)
