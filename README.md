@@ -2,101 +2,53 @@
 
 ## Technology and Innovation
 
-* [Anduril, Palantir and SpaceX are changing how America wages war](https://www.economist.com/business/2026/04/20/anduril-palantir-and-spacex-are-changing-how-america-wages-war) ([comments](https://news.ycombinator.com/item?id=47838930))
+* [Jujutsu Megamerges for Fun and Profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit) - A detailed exploration of an innovative software engineering approach for managing large-scale code challenges discussed in a technical blog. [Comments](https://news.ycombinator.com/item?id=47841129)
 
-* [Journey in optimising Elixir application](https://hauleth.dev/post/things-about-elixir-you-probably-will-never-need/) ([comments](https://lobste.rs/s/7mqzck/journey_optimising_elixir_application))
+* [Docker Compose for VMs](https://github.com/zeroecco/holos) - A project showcasing a tool that extends the functionality of Docker Compose to virtual machines. [Comments](https://news.ycombinator.com/item?id=47840851)
 
-* [Transpiling from Python into Lisp](https://github.com/naver/lispe/wiki/6.22-Transpiling-Python-into-LispE) ([comments](https://lobste.rs/s/xeb6yb/transpiling_from_python_into_lisp))
+* [Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys](https://words.filippo.io/128-bits/) - A technical blog debunks myths around quantum computing compromising widely-used encryption standards. [Comments](https://lobste.rs/s/ea0xug/quantum_computers_are_not_threat_128_bit)
 
-* [Obelisk 0.37: JavaScript, Deployments, Cron](https://obeli.sk/blog/announcing-obelisk-0-37/) ([comments](https://lobste.rs/s/1akblt/obelisk_0_37_javascript_deployments_cron))
+* [WebUSB Extension for Firefox](https://github.com/ArcaneNibble/awawausb) - A tool enabling easy USB device access from the Firefox browser. [Comments](https://news.ycombinator.com/item?id=47832969)
 
-* [Kimi K2.6: Advancing Open-Source Coding](https://www.kimi.com/blog/kimi-k2-6) ([comments](https://news.ycombinator.com/item?id=47835735))
+* [Robots Beat Human Records At Beijing Half-Marathon](https://hardware.slashdot.org/story/26/04/20/0346215/robots-beat-human-records-at-beijing-half-marathon?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Robots outperform humans in a competitive race, marking a milestone in robotics endurance.
 
-* [418 I'm a teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/418) ([comments](https://lobste.rs/s/41tx1p/418_i_m_teapot))
+## Artificial Intelligence Developments
 
-* [WebUSB extension for Firefox](https://github.com/ArcaneNibble/awawausb) ([comments 1](https://lobste.rs/s/hagsaq/webusb_extension_for_firefox), [comments 2](https://news.ycombinator.com/item?id=47832969))
+* [OpenAI ad partner now selling ChatGPT ad placements based on "prompt relevance"](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/) - OpenAI's advertising strategy evolves with targeted ad placements. [Comments](https://news.ycombinator.com/item?id=47840980)
 
-* [How LLVM optimizes power sums (2019)](https://kristerw.blogspot.com/2019/04/how-llvm-optimizes-geometric-sums.html) ([comments](https://lobste.rs/s/b5klfi/how_llvm_optimizes_power_sums_2019))
+* [Deezer Says 44% of Songs Uploaded To Its Platform Daily Are AI-Generated](https://entertainment.slashdot.org/story/26/04/20/1947211/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An increasing reliance on AI-driven music highlights its impact on the musical industry.
 
-* [Modern Frontend Complexity: essential or accidental?](https://binaryigor.com/modern-frontend-complexity.html) ([comments](https://lobste.rs/s/y5nowq/modern_frontend_complexity_essential))
+* [Atlassian enables default data collection to train AI](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8) - The development of AI at Atlassian hinges on comprehensive data collection processes. [Comments](https://news.ycombinator.com/item?id=47833247)
 
-* [Videos Catch Amazon Delivery Drones Dropping Packages From 10 Feet in the Air](https://tech.slashdot.org/story/26/04/20/0729233/videos-catch-amazon-delivery-drones-dropping-packages-from-10-feet-in-the-air?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/04/20/0729233/videos-catch-amazon-delivery-drones-dropping-packages-from-10-feet-in-the-air?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Noteworthy Leadership and Policy Changes
 
-* [This Memory Chip Survives Temperatures Hotter Than Lava](https://soylentnews.org/article.pl?sid=26/04/15/028227&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/15/028227&amp;from=rss))
+* [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/) - A major leadership transition is coming as John Ternus is set to lead Apple while Tim Cook steps into a new role. [Comments](https://news.ycombinator.com/item?id=47840219)
 
-* [Focused microwaves allow 3D printers to fuse circuits onto almost anything](https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/) ([comments](https://news.ycombinator.com/item?id=47810531))
+* [Former Palantir Employee Running For Congress Unveils 'AI Dividend' Plan](https://yro.slashdot.org/story/26/04/20/204204/former-palantir-employee-running-for-congress-unveils-ai-dividend-plan?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An intriguing political proposal linking AI advancements and citizen dividends.
 
-* [Ukraine's Military Robot Surge Aims to Offset Drone Risks to Humans](https://soylentnews.org/article.pl?sid=26/04/15/1723257&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/15/1723257&amp;from=rss))
+## Corporate Strategies and Market Trends
 
-## Artificial Intelligence
+* [Allbirds' Move To AI Has Echoes of the Dot-Com Frenzy](https://slashdot.org/story/26/04/20/1647258/allbirds-move-to-ai-has-echoes-of-the-dot-com-frenzy?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The footwear company Allbirds pivots towards AI, drawing parallels to the early 2000s tech boom. [Comments](https://news.ycombinator.com/item?id=47837176)
 
-* [How Much Does Chatbot Bias Influence Users? A Lot, It Turns Out](https://soylentnews.org/article.pl?sid=26/04/19/1147228&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/19/1147228&amp;from=rss))
-
-* [I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs](https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic) ([comments](https://news.ycombinator.com/item?id=47835646))
-
-* [Claude Desktop installs undocumented browser extensions for Chrome and other browsers](https://www.thatprivacyguy.com/blog/anthropic-spyware/) ([comments](https://lobste.rs/s/pfqxak/claude_desktop_installs_undocumented))
-
-* [Deezer says 44% of songs uploaded to its platform daily are AI-generated](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/) ([comments](https://news.ycombinator.com/item?id=47835928))
-
-* [Allbirds' Move To AI Has Echoes of the Dot-Com Frenzy](https://slashdot.org/story/26/04/20/1647258/allbirds-move-to-ai-has-echoes-of-the-dot-com-frenzy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/26/04/20/1647258/allbirds-move-to-ai-has-echoes-of-the-dot-com-frenzy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [Zoom Partners With Sam Altman's Iris-Scanning Company To Offer Callers Verifications of Humanness](https://it.slashdot.org/story/26/04/20/066225/zoom-partners-with-sam-altmans-iris-scanning-company-to-offer-callers-verifications-of-humanness?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/26/04/20/066225/zoom-partners-with-sam-altmans-iris-scanning-company-to-offer-callers-verifications-of-humanness?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-## Cybersecurity and Privacy
-
-* [Russia Hits European Thermal Power Plant in Attempted ‘Destructive’ Cyberattack](https://soylentnews.org/article.pl?sid=26/04/19/000236&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/19/000236&amp;from=rss))
-
-* [NSA Using Anthropic's Mythos Despite Blacklist](https://yro.slashdot.org/story/26/04/20/0353220/nsa-using-anthropics-mythos-despite-blacklist?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/04/20/0353220/nsa-using-anthropics-mythos-despite-blacklist?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [Atlassian enables default data collection to train AI](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8) ([comments](https://news.ycombinator.com/item?id=47833247))
-
-* [We accepted surveillance as default](https://vivianvoss.net/blog/why-we-accepted-surveillance) ([comments](https://news.ycombinator.com/item?id=47836730))
+* [GitHub's fake star economy](https://awesomeagents.ai/news/github-fake-stars-investigation/) - An investigation into manipulated star metrics on GitHub reveals artificial popularity in open-source projects. [Comments](https://news.ycombinator.com/item?id=47831621)
 
 ## Space and Science
 
-* [The Theory of Interstellar Trade [pdf] (1978)](https://www.princeton.edu/~pkrugman/interstellar.pdf) ([comments](https://news.ycombinator.com/item?id=47837105))
+* [Blue Origin Rocket Launches, Successfully Reuses Booster - But Loses Satellite](https://science.slashdot.org/story/26/04/20/0248201/blue-origin-rocket-launches-successfully-reuses-booster---but-loses-satellite?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Notable advancements in space travel marred by an unexpected satellite loss.
 
-* [Pancreatic Cancer MRNA Vaccine Shows Lasting Results In Early Trial](https://science.slashdot.org/story/26/04/19/1553211/pancreatic-cancer-mrna-vaccine-shows-lasting-results-in-early-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/04/19/1553211/pancreatic-cancer-mrna-vaccine-shows-lasting-results-in-early-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Voyager 1 is Running Out of Power. NASA Just Switched Part of It Off](https://science.slashdot.org/story/26/04/19/2346255/voyager-1-is-running-out-of-power-nasa-just-switched-part-of-it-off) - NASA makes tough decisions to extend the life of the historic Voyager 1 spacecraft.
 
-* [M 7.4 earthquake – 100 km ENE of Miyako, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/) ([comments](https://news.ycombinator.com/item?id=47832248))
+## Cybersecurity and Privacy
 
-* [Blue Origin Rocket Launches, Successfully Reuses Booster - But Loses Satellite](https://science.slashdot.org/story/26/04/20/0248201/blue-origin-rocket-launches-successfully-reuses-booster---but-loses-satellite?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/04/20/0248201/blue-origin-rocket-launches-successfully-reuses-booster---but-loses-satellite?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Brussels launched an age checking app. Hackers took 2 minutes to break it](https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it) - A security vulnerability exposes flaws in a newly launched age verification app. [Comments](https://news.ycombinator.com/item?id=47831742)
 
-## Policy and Society
+* [Claude Desktop installs undocumented browser extensions for Chrome and other browsers](https://www.thatprivacyguy.com/blog/anthropic-spyware/) - Undisclosed browser extensions raise privacy and ethical concerns regarding Claude Desktop. [Comments](https://lobste.rs/s/pfqxak/claude_desktop_installs_undocumented)
 
-* [All phones sold in the EU to have replaceable batteries from 2027](https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/) ([comments](https://news.ycombinator.com/item?id=47834195))
+## Other Highlights
 
-* [Trump Administration Begins Refunding $166 Billion In Tariffs](https://news.slashdot.org/story/26/04/20/1711231/trump-administration-begins-refunding-166-billion-in-tariffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/04/20/1711231/trump-administration-begins-refunding-166-billion-in-tariffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Ireland Bog Plant Revives Ancient Remedy as a New Weapon Vs Superbugs](https://soylentnews.org/article.pl?sid=26/04/18/1847221&from=rss) - Researchers rediscover potential treatments for superbugs through historical remedies.
 
-* [Nevada Police Can Now Track Cellphones Without a Warrant](https://news.slashdot.org/story/26/04/18/1926216/nevada-police-can-now-track-cellphones-without-a-warrant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/04/18/1926216/nevada-police-can-now-track-cellphones-without-a-warrant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [US Appeals Court Declares 158-Year-Old Home Distilling Ban Unconstitutional](https://soylentnews.org/article.pl?sid=26/04/15/1535223&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/15/1535223&amp;from=rss))
-
-## Business Developments
-
-* [Rumor: Anthropic is going to buy Atlassian?](https://old.reddit.com/r/atlassian/comments/1sob1s2/atlassian_anthropic/) ([comments](https://news.ycombinator.com/item?id=47839283))
-
-* [Bloom (YC P26) Is Hiring](https://www.ycombinator.com/companies/trybloom/jobs) ([comments](https://news.ycombinator.com/item?id=47837176))
-
-* [Brave Browser Introduces 'Origin', a Pay-Once 'Minimalist' Browser](https://slashdot.org/story/26/04/20/0423212/brave-browser-introduces-origin-a-pay-once-minimalist-browser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/26/04/20/0423212/brave-browser-introduces-origin-a-pay-once-minimalist-browser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [GitHub's Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/) ([comments](https://news.ycombinator.com/item?id=47831621))
-
-## Miscellaneous
-
-* [Chernobyl's last wedding](https://www.bbc.com/news/articles/c0q92lx8q75o) ([comments](https://news.ycombinator.com/item?id=47822066))
-
-* [The 'Passive Income' Trap Ate a Generation of Entrepreneurs](https://soylentnews.org/article.pl?sid=26/04/18/192211&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/18/192211&amp;from=rss))
-
-* [InfoWars is ours](https://theonion.com/at-long-last-infowars-is-ours/) ([comments](https://news.ycombinator.com/item?id=47837611))
-
-* [Why the Phrase 'Super El Niño' Makes Australian Climate Scientists Roll Their Eyes](https://soylentnews.org/article.pl?sid=26/04/18/1855201&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/18/1855201&amp;from=rss))
-
-* [Nobel Prize-Winning Physicist Predicts Humankind Won't Survive Another 50 Years](https://tech.slashdot.org/story/26/04/19/2154219/nobel-prize-winning-physicist-predicts-humankind-wont-survive-another-50-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/04/19/2154219/nobel-prize-winning-physicist-predicts-humankind-wont-survive-another-50-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [Sauna effect on heart rate](https://tryterra.co/research/sauna-effect-on-heart-rate) ([comments](https://news.ycombinator.com/item?id=47834184))
-
-* [Larry Tesler: A Personal History of Modeless Text Editing and Cut/Copy-Paste (2012)](https://dl.acm.org/doi/epdf/10.1145/2212877.2212896) ([comments](https://news.ycombinator.com/item?id=47805632))
+* [All phones sold in the EU to have replaceable batteries from 2027](https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/) - A significant step towards sustainable electronics as the EU mandates replaceable batteries. [Comments](https://news.ycombinator.com/item?id=47834195)
 
 ---
 
@@ -123,17 +75,25 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-04-20, 19:24:11](https://news.ycombinator.com/item?id=47839283) - [Rumor: Anthropic is going to buy Atlassian?](https://old.reddit.com/r/atlassian/comments/1sob1s2/atlassian_anthropic/)
+* [2026-04-20, 21:32:10](https://news.ycombinator.com/item?id=47841129) - [Jujutsu Megamerges for Fun and Profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
+* [2026-04-20, 21:20:52](https://news.ycombinator.com/item?id=47840980) - [OpenAI ad partner now selling ChatGPT ad placements based on \&quot;prompt relevance\&quot;](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/)
+* [2026-04-20, 21:13:49](https://news.ycombinator.com/item?id=47840851) - [Show HN: Docker Compose for VM&apos;s](https://github.com/zeroecco/holos)
+* [2026-04-20, 21:00:00](https://yro.slashdot.org/story/26/04/20/204204/former-palantir-employee-running-for-congress-unveils-ai-dividend-plan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Former Palantir Employee Running For Congress Unveils &apos;AI Dividend&apos; Plan](https://yro.slashdot.org/story/26/04/20/204204/former-palantir-employee-running-for-congress-unveils-ai-dividend-plan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-20, 20:54:37](https://lobste.rs/s/47iclr/stalwart_v0_16_new_foundation_stalwart) - [Stalwart v0.16: A New Foundation | Stalwart Labs](https://stalw.art/blog/stalwart-0-16)
+* [2026-04-20, 20:39:32](https://news.ycombinator.com/item?id=47840219) - [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
+* [2026-04-20, 20:19:13](https://news.ycombinator.com/item?id=47839951) - [AI Resistance: some recent anti-AI stuff that’s worth discussing](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
+* [2026-04-20, 20:07:35](https://news.ycombinator.com/item?id=47839835) - [F-35 is built for the wrong war](https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/)
+* [2026-04-20, 20:00:00](https://entertainment.slashdot.org/story/26/04/20/1947211/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Deezer Says 44% of Songs Uploaded To Its Platform Daily Are AI-Generated](https://entertainment.slashdot.org/story/26/04/20/1947211/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-20, 19:51:07](https://news.ycombinator.com/item?id=47839645) - [Soul Player C64 – A real transformer running on a 1 MHz Commodore 64](https://github.com/gizmo64k/soulplayer-c64)
 * [2026-04-20, 19:00:00](https://news.slashdot.org/story/26/04/20/1711231/trump-administration-begins-refunding-166-billion-in-tariffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Administration Begins Refunding $166 Billion In Tariffs](https://news.slashdot.org/story/26/04/20/1711231/trump-administration-begins-refunding-166-billion-in-tariffs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-20, 18:55:44](https://news.ycombinator.com/item?id=47838930) - [Anduril, Palantir and SpaceX are changing how America wages war](https://www.economist.com/business/2026/04/20/anduril-palantir-and-spacex-are-changing-how-america-wages-war)
+* [2026-04-20, 18:46:22](https://news.ycombinator.com/item?id=47838788) - [We got 207 tok/s with Qwen3.5-27B on an RTX 3090](https://github.com/Luce-Org/lucebox-hub)
 * [2026-04-20, 18:40:55](https://lobste.rs/s/ea0xug/quantum_computers_are_not_threat_128_bit) - [Quantum Computers Are Not a Threat to 128-bit Symmetric Keys](https://words.filippo.io/128-bits/)
+* [2026-04-20, 18:39:53](https://news.ycombinator.com/item?id=47838703) - [Kimi vendor verifier – verify accuracy of inference providers](https://www.kimi.com/blog/kimi-vendor-verifier)
 * [2026-04-20, 18:00:00](https://tech.slashdot.org/story/26/04/20/1654212/palantir-posts-bond-villain-manifesto-on-x?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Palantir Posts Bond Villain Manifesto On X](https://tech.slashdot.org/story/26/04/20/1654212/palantir-posts-bond-villain-manifesto-on-x?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-20, 17:23:58](https://news.ycombinator.com/item?id=47837611) - [At long last, InfoWars is ours](https://theonion.com/at-long-last-infowars-is-ours/)
 * [2026-04-20, 17:16:00](https://soylentnews.org/article.pl?sid=26/04/19/1147228&amp;from=rss) - [How Much Does Chatbot Bias Influence Users? A Lot, It Turns Out](https://soylentnews.org/article.pl?sid=26/04/19/1147228&amp;from=rss)
 * [2026-04-20, 17:07:22](https://lobste.rs/s/7mqzck/journey_optimising_elixir_application) - [Journey in optimising Elixir application](https://hauleth.dev/post/things-about-elixir-you-probably-will-never-need/)
 * [2026-04-20, 17:00:45](https://news.ycombinator.com/item?id=47837176) - [Bloom (YC P26) Is Hiring](https://www.ycombinator.com/companies/trybloom/jobs)
 * [2026-04-20, 17:00:00](https://slashdot.org/story/26/04/20/1647258/allbirds-move-to-ai-has-echoes-of-the-dot-com-frenzy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Allbirds&apos; Move To AI Has Echoes of the Dot-Com Frenzy](https://slashdot.org/story/26/04/20/1647258/allbirds-move-to-ai-has-echoes-of-the-dot-com-frenzy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-20, 16:57:10](https://news.ycombinator.com/item?id=47837105) - [The Theory of Interstellar Trade [pdf] (1978)](https://www.princeton.edu/~pkrugman/interstellar.pdf)
 * [2026-04-20, 16:37:48](https://news.ycombinator.com/item?id=47836784) - [Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys](https://words.filippo.io/128-bits/)
 * [2026-04-20, 16:34:25](https://news.ycombinator.com/item?id=47836730) - [We accepted surveillance as default](https://vivianvoss.net/blog/why-we-accepted-surveillance)
 * [2026-04-20, 16:16:54](https://lobste.rs/s/ky2eoq/effectful_recursion_schemes) - [Effectful Recursion Schemes](https://effekt-lang.org/blog/recursion-schemes/)
@@ -142,14 +102,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-20, 15:53:24](https://lobste.rs/s/xeb6yb/transpiling_from_python_into_lisp) - [Transpiling from Python into Lisp](https://github.com/naver/lispe/wiki/6.22-Transpiling-Python-into-LispE)
 * [2026-04-20, 15:41:02](https://news.ycombinator.com/item?id=47835928) - [Deezer says 44% of songs uploaded to its platform daily are AI-generated](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
 * [2026-04-20, 15:32:47](https://lobste.rs/s/tf7ngv/ggsql_grammar_graphics_for_sql) - [ggsql: A grammar of graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/)
-* [2026-04-20, 15:30:17](https://news.ycombinator.com/item?id=47835775) - [I&apos;m never buying another Kindle](https://www.androidauthority.com/amazon-kindle-2026-3657863/)
-* [2026-04-20, 15:28:13](https://news.ycombinator.com/item?id=47835735) - [Kimi K2.6: Advancing Open-Source Coding](https://www.kimi.com/blog/kimi-k2-6)
-* [2026-04-20, 15:22:01](https://news.ycombinator.com/item?id=47835646) - [I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs](https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic)
-* [2026-04-20, 15:18:57](https://news.ycombinator.com/item?id=47835599) - [Show HN: Alien – Self-hosting with remote management (written in Rust)](https://news.ycombinator.com/item?id=47835599)
+* [2026-04-20, 15:28:13](https://news.ycombinator.com/item?id=47835735) - [Kimi K2.6: Advancing open-source coding](https://www.kimi.com/blog/kimi-k2-6)
 * [2026-04-20, 15:00:00](https://hardware.slashdot.org/story/26/04/20/0346215/robots-beat-human-records-at-beijing-half-marathon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Robots Beat Human Records At Beijing Half-Marathon](https://hardware.slashdot.org/story/26/04/20/0346215/robots-beat-human-records-at-beijing-half-marathon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-20, 14:18:56](https://lobste.rs/s/hqfiqi/building_opnsense_router) - [Building an OPNsense router](https://clintonboys.com/projects/homelab/04-router/)
 * [2026-04-20, 14:05:34](https://news.ycombinator.com/item?id=47834565) - [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview)
-* [2026-04-20, 13:42:37](https://news.ycombinator.com/item?id=47834213) - [Ask HN: How to solve the cold start problem for a two-sided marketplace?](https://news.ycombinator.com/item?id=47834213)
 * [2026-04-20, 13:41:25](https://news.ycombinator.com/item?id=47834195) - [All phones sold in the EU to have replaceable batteries from 2027](https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/)
 * [2026-04-20, 13:40:28](https://news.ycombinator.com/item?id=47834184) - [Sauna effect on heart rate](https://tryterra.co/research/sauna-effect-on-heart-rate)
 * [2026-04-20, 13:06:15](https://lobste.rs/s/uxkvmr/forgejo_v15_0_is_available) - [Forgejo v15.0 is available](https://forgejo.org/2026-04-release-v15-0/)
@@ -164,13 +120,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-20, 11:34:00](https://tech.slashdot.org/story/26/04/20/0729233/videos-catch-amazon-delivery-drones-dropping-packages-from-10-feet-in-the-air?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Videos Catch Amazon Delivery Drones Dropping Packages From 10 Feet in the Air](https://tech.slashdot.org/story/26/04/20/0729233/videos-catch-amazon-delivery-drones-dropping-packages-from-10-feet-in-the-air?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-20, 11:05:54](https://lobste.rs/s/cjbxjv/your_engineering_team_looks_healthy_it) - [Your engineering team looks healthy. It probably isn&apos;t](https://dbarabashh.com/thoughts-and-experience/your-engineering-team-looks-healthy)
 * [2026-04-20, 10:04:40](https://news.ycombinator.com/item?id=47832248) - [M 7.4 earthquake – 100 km ENE of Miyako, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/)
-* [2026-04-20, 10:00:35](https://news.ycombinator.com/item?id=47832222) - [NSA is using Anthropic&apos;s Mythos despite blacklist](https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon)
 * [2026-04-20, 09:16:49](https://lobste.rs/s/4p1oys/diagnosing_random_mariadb_freezes) - [Diagnosing Random MariaDB Freezes](https://frappe.io/blog/frappe-cloud/diagnosing-random-mariadb-freezes-on-frappe-cloud)
 * [2026-04-20, 09:07:49](https://lobste.rs/s/y5nowq/modern_frontend_complexity_essential) - [Modern Frontend Complexity: essential or accidental?](https://binaryigor.com/modern-frontend-complexity.html)
-* [2026-04-20, 08:26:52](https://news.ycombinator.com/item?id=47831621) - [GitHub&apos;s Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/)
+* [2026-04-20, 08:49:22](https://news.ycombinator.com/item?id=47831742) - [Brussels launched an age checking app. Hackers took 2 minutes to break it](https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/)
+* [2026-04-20, 08:26:52](https://news.ycombinator.com/item?id=47831621) - [GitHub&apos;s fake star economy](https://awesomeagents.ai/news/github-fake-stars-investigation/)
 * [2026-04-20, 08:17:56](https://lobste.rs/s/1akblt/obelisk_0_37_javascript_deployments_cron) - [Obelisk 0.37: JavaScript, Deployments, Cron](https://obeli.sk/blog/announcing-obelisk-0-37/)
 * [2026-04-20, 08:08:15](https://lobste.rs/s/hqvxoj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/hqvxoj/what_are_you_doing_this_week)
-* [2026-04-20, 07:49:48](https://news.ycombinator.com/item?id=47831437) - [OpenClaw isn&apos;t fooling me. I remember MS-DOS](https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/)
 * [2026-04-20, 07:43:00](https://soylentnews.org/article.pl?sid=26/04/18/2354201&amp;from=rss) - [How Two Motorola Transistors Became the World&apos;s Default NPNs](https://soylentnews.org/article.pl?sid=26/04/18/2354201&amp;from=rss)
 * [2026-04-20, 07:34:00](https://it.slashdot.org/story/26/04/20/066225/zoom-partners-with-sam-altmans-iris-scanning-company-to-offer-callers-verifications-of-humanness?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Zoom Partners With Sam Altman&apos;s Iris-Scanning Company To Offer Callers Verifications of Humanness](https://it.slashdot.org/story/26/04/20/066225/zoom-partners-with-sam-altmans-iris-scanning-company-to-offer-callers-verifications-of-humanness?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-20, 04:34:00](https://slashdot.org/story/26/04/20/0423212/brave-browser-introduces-origin-a-pay-once-minimalist-browser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Brave Browser Introduces &apos;Origin&apos;, a Pay-Once &apos;Minimalist&apos; Browser](https://slashdot.org/story/26/04/20/0423212/brave-browser-introduces-origin-a-pay-once-minimalist-browser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -180,23 +135,21 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-20, 00:43:12](https://lobste.rs/s/dfe90i/theseus_static_windows_emulator) - [Theseus, a static Windows emulator](https://neugierig.org/software/blog/2026/04/theseus.html)
 * [2026-04-20, 00:35:58](https://lobste.rs/s/7ovybf/this_week_plasma_per_screen_virtual) - [This Week in Plasma: Per-Screen Virtual Desktops and Wayland Session Restore](https://blogs.kde.org/2026/04/18/this-week-in-plasma-per-screen-virtual-desktops-and-wayland-session-restore/)
 * [2026-04-19, 23:49:00](https://science.slashdot.org/story/26/04/19/2346255/voyager-1-is-running-out-of-power-nasa-just-switched-part-of-it-off?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Voyager 1 is Running Out of Power.  NASA Just Switched Part of It Off](https://science.slashdot.org/story/26/04/19/2346255/voyager-1-is-running-out-of-power-nasa-just-switched-part-of-it-off?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-19, 23:47:02](https://lobste.rs/s/0wq9ns/high_performance_2d_graphics_rendering) - [High-performance 2D graphics rendering on the CPU using sparse strips](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-pls/plf-dam/documents/StudentProjects/MasterTheses/2025-Laurenz-Thesis.pdf)
 * [2026-04-19, 22:16:00](https://soylentnews.org/article.pl?sid=26/04/18/2348241&amp;from=rss) - [“TotalRecall Reloaded” Tool Finds a Side Entrance to the Windows 11 Recall Database](https://soylentnews.org/article.pl?sid=26/04/18/2348241&amp;from=rss)
 * [2026-04-19, 21:57:00](https://tech.slashdot.org/story/26/04/19/2154219/nobel-prize-winning-physicist-predicts-humankind-wont-survive-another-50-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nobel Prize-Winning Physicist Predicts Humankind Won&apos;t Survive Another 50 Years](https://tech.slashdot.org/story/26/04/19/2154219/nobel-prize-winning-physicist-predicts-humankind-wont-survive-another-50-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-19, 19:34:00](https://hardware.slashdot.org/story/26/04/19/1836219/is-the-iran-war-driving-a-surge-of-interest-in-electric-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is the Iran War Driving a Surge of Interest in Electric Cars?](https://hardware.slashdot.org/story/26/04/19/1836219/is-the-iran-war-driving-a-surge-of-interest-in-electric-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-19, 19:19:48](https://news.ycombinator.com/item?id=47826839) - [10 years ago, someone wrote a test for Servo that included an expiry in 2026](https://mastodon.social/@jdm_/116429380667467307)
-* [2026-04-19, 18:34:00](https://science.slashdot.org/story/26/04/19/1553211/pancreatic-cancer-mrna-vaccine-shows-lasting-results-in-early-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Pancreatic Cancer MRNA Vaccine Shows Lasting Results In Early Trial](https://science.slashdot.org/story/26/04/19/1553211/pancreatic-cancer-mrna-vaccine-shows-lasting-results-in-early-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-19, 18:34:00](https://science.slashdot.org/story/26/04/19/1553211/pancreatic-cancer-mrna-vaccine-shows-lasting-results-in-early-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Pancreatic Cancer mRNA Vaccine Shows Lasting Results In Early Trial](https://science.slashdot.org/story/26/04/19/1553211/pancreatic-cancer-mrna-vaccine-shows-lasting-results-in-early-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-19, 18:06:29](https://lobste.rs/s/uevqfc/introducing_glyph_protocol_for) - [Introducing Glyph Protocol for Terminals](https://rapha.land/introducing-glyph-protocol-for-terminals/)
-* [2026-04-19, 17:34:00](https://tech.slashdot.org/story/26/04/19/1457207/motorola-sues-social-media-platforms-and-creators-in-india?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Motorola Sues Social Media Platforms and Creators in India](https://tech.slashdot.org/story/26/04/19/1457207/motorola-sues-social-media-platforms-and-creators-in-india?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-19, 17:34:00](https://soylentnews.org/article.pl?sid=26/04/18/195238&amp;from=rss) - [Pentagon Reportedly Asks Detroit to Use More Car Factories as Arms Factories](https://soylentnews.org/article.pl?sid=26/04/18/195238&amp;from=rss)
-* [2026-04-19, 16:34:00](https://news.slashdot.org/story/26/04/18/1926216/nevada-police-can-now-track-cellphones-without-a-warrant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nevada Police Can Now Track Cellphones Without a Warrant](https://news.slashdot.org/story/26/04/18/1926216/nevada-police-can-now-track-cellphones-without-a-warrant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-19, 15:27:10](https://lobste.rs/s/ktmwly/what_we_once_had_at_height_xmpp_era) - [What we once had (at the height of the XMPP era of the Internet) (2023)](https://www.kirsle.net/what-we-once-had-at-the-height-of-the-xmpp-era-of-the-internet)
 * [2026-04-19, 14:16:08](https://lobste.rs/s/vt2fxe/waves_particles) - [waves &amp; particles](https://taylor.town/waves)
 * [2026-04-19, 12:51:00](https://soylentnews.org/article.pl?sid=26/04/18/192211&amp;from=rss) - [The \&quot;Passive Income\&quot; Trap Ate a Generation of Entrepreneurs](https://soylentnews.org/article.pl?sid=26/04/18/192211&amp;from=rss)
+* [2026-04-19, 10:09:56](https://news.ycombinator.com/item?id=47823153) - [The Work Runs on Different Maps](https://yusufaytas.com/the-work-runs-on-different-maps)
+* [2026-04-19, 09:50:44](https://news.ycombinator.com/item?id=47823080) - [Anatomy of High-Performance Matrix Multiplication (2008) [pdf]](https://www.cs.utexas.edu/~flame/pubs/GotoTOMS_revision.pdf)
 * [2026-04-19, 08:03:00](https://soylentnews.org/article.pl?sid=26/04/18/1855201&amp;from=rss) - [Why the Phrase &apos;Super El Niño&apos; Makes Australian Climate Scientists Roll Their Eyes](https://soylentnews.org/article.pl?sid=26/04/18/1855201&amp;from=rss)
 * [2026-04-19, 07:54:11](https://news.ycombinator.com/item?id=47822549) - [Modern Rendering Culling Techniques](https://krupitskas.com/posts/modern_culling_techniques/)
 * [2026-04-19, 07:32:29](https://lobste.rs/s/na7cxg/yojam_macos_default_browser_shim_routes) - [Yojam: a macOS default-browser shim that routes URLs through a rule engine](https://github.com/fluffypony/yojam)
-* [2026-04-19, 05:42:48](https://news.ycombinator.com/item?id=47822066) - [Chernobyl&apos;s last wedding](https://www.bbc.com/news/articles/c0q92lx8q75o)
 * [2026-04-19, 03:14:00](https://soylentnews.org/article.pl?sid=26/04/18/1847221&amp;from=rss) - [Irish Bog Plant Revives Ancient Remedy as a New Weapon Vs Superbugs](https://soylentnews.org/article.pl?sid=26/04/18/1847221&amp;from=rss)
 * [2026-04-18, 22:26:00](https://soylentnews.org/article.pl?sid=26/04/17/0348237&amp;from=rss) - [Netgear Routers Seemingly Won&apos;t be Banned in the US After All](https://soylentnews.org/article.pl?sid=26/04/17/0348237&amp;from=rss)
 * [2026-04-18, 17:42:00](https://soylentnews.org/article.pl?sid=26/04/17/0337240&amp;from=rss) - [Scientists Invented a Fake Disease. AI Told People It Was Real](https://soylentnews.org/article.pl?sid=26/04/17/0337240&amp;from=rss)
@@ -205,10 +158,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-18, 03:30:00](https://soylentnews.org/article.pl?sid=26/04/17/0318245&amp;from=rss) - [IPv6 Adoption Reaches 50% - The Long Journey Toward Internet&apos;s Next Generation](https://soylentnews.org/article.pl?sid=26/04/17/0318245&amp;from=rss)
 * [2026-04-17, 22:50:00](https://soylentnews.org/article.pl?sid=26/04/16/1142203&amp;from=rss) - [Back Button Hijacking to be Penalised in Google Crackdown](https://soylentnews.org/article.pl?sid=26/04/16/1142203&amp;from=rss)
 * [2026-04-17, 22:12:59](https://news.ycombinator.com/item?id=47811154) - [Kefir C17/C23 Compiler](https://sr.ht/~jprotopopov/kefir/)
-* [2026-04-17, 21:03:09](https://news.ycombinator.com/item?id=47810531) - [Focused microwaves allow 3D printers to fuse circuits onto almost anything](https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/)
-* [2026-04-17, 20:14:30](https://news.ycombinator.com/item?id=47810101) - [Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery](https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977)
 * [2026-04-17, 18:06:00](https://soylentnews.org/article.pl?sid=26/04/16/1137236&amp;from=rss) - [Physicists Think They&apos;ve Resolved the Proton Size Puzzle](https://soylentnews.org/article.pl?sid=26/04/16/1137236&amp;from=rss)
-* [2026-04-17, 13:20:31](https://news.ycombinator.com/item?id=47805632) - [Larry Tesler: A Personal History of Modeless Text Editing and Cut/Copy-Paste (2012)](https://dl.acm.org/doi/epdf/10.1145/2212877.2212896)
+* [2026-04-17, 16:22:36](https://news.ycombinator.com/item?id=47807609) - [Writing string.h functions using string instructions in asm x86-64](https://pmasschelier.github.io/x86_64_strings/)
 * [2026-04-17, 13:20:00](https://soylentnews.org/article.pl?sid=26/04/15/1730255&amp;from=rss) - [Claude Mythos Preview Has Officially Frightened the British](https://soylentnews.org/article.pl?sid=26/04/15/1730255&amp;from=rss)
 * [2026-04-17, 08:36:00](https://soylentnews.org/article.pl?sid=26/04/15/1727239&amp;from=rss) - [Meta Zuckerberg Becomes the New Clippy](https://soylentnews.org/article.pl?sid=26/04/15/1727239&amp;from=rss)
 * [2026-04-17, 03:52:00](https://soylentnews.org/article.pl?sid=26/04/15/1723257&amp;from=rss) - [Ukraine&apos;s Military Robot Surge Aims to Offset Drone Risks to Humans](https://soylentnews.org/article.pl?sid=26/04/15/1723257&amp;from=rss)
@@ -216,4 +167,5 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-16, 18:20:00](https://soylentnews.org/article.pl?sid=26/04/15/1535223&amp;from=rss) - [US Appeals Court Declares 158-Year-Old Home Distilling Ban Unconstitutional](https://soylentnews.org/article.pl?sid=26/04/15/1535223&amp;from=rss)
 * [2026-04-16, 13:36:00](https://soylentnews.org/article.pl?sid=26/04/15/0217209&amp;from=rss) - [AI Token Freeloaders Manipulating Customer Support Bots](https://soylentnews.org/article.pl?sid=26/04/15/0217209&amp;from=rss)
 * [2026-04-16, 08:52:00](https://soylentnews.org/communityreviews/article.pl?sid=26/04/15/0214204&amp;from=rss) - [OpenAI Says Elon Musk is ‘Injecting Chaos’ With Recent Legal Maneuver](https://soylentnews.org/communityreviews/article.pl?sid=26/04/15/0214204&amp;from=rss)
+* [2026-04-16, 07:59:34](https://news.ycombinator.com/item?id=47790041) - [I learned Unity the wrong way](https://darkounity.com/blog/how-i-learned-unity-the-wrong-way)
 * [2026-04-16, 04:05:00](https://soylentnews.org/article.pl?sid=26/04/15/028227&amp;from=rss) - [This Memory Chip Survives Temperatures Hotter Than Lava](https://soylentnews.org/article.pl?sid=26/04/15/028227&amp;from=rss)
