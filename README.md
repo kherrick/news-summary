@@ -1,46 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Investigations and Scientific Discoveries
+## Tech Innovations and Scientific Discoveries
 
-* [FBI Looks Into Dead or Missing Scientists Tied To Sensitive US Research](https://yro.slashdot.org/story/26/04/22/0348204/fbi-looks-into-dead-or-missing-scientists-tied-to-sensitive-us-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The FBI investigates the disappearance or deaths of scientists connected to classified U.S. research projects.
+* [Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456) - A fascinating tool that integrates classic Windows 9x systems into a Linux environment for seamless operation. [Comments](https://news.ycombinator.com/item?id=47861270)
 
-* [FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX](https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/) - Concerns rise over missing or deceased researchers associated with major aerospace companies.
+* [Fusion Power Plant Simulator](https://www.fusionenergybase.com/fusion-power-plant-simulator) - Explore cutting-edge simulation technologies for fusion energy systems with this immersive tool. [Comments](https://news.ycombinator.com/item?id=47849315)
 
-* [Diverse organic molecules on Mars revealed by the first SAM TMAH experiment](https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/) - NASA's Curiosity rover uncovers long-preserved organic compounds on Mars through groundbreaking analysis.
+* [Diverse organic molecules on Mars revealed by the first SAM TMAH experiment](https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/) - NASA's ground-breaking experiment detects organic compounds on Mars, expanding possibilities for extraterrestrial life studies. [Comments](https://news.ycombinator.com/item?id=47846861)
 
-## Corporate Moves and Technology Developments
+* [Meet Orpheus—a Hopper Mission Built to Hunt for Life in Martian Volcanoes](https://soylentnews.org/article.pl?sid=26/04/17/0326235&amp;from=rss) - Highlights an innovative project to explore Mars and the possibility of life in volcanic terrains.
 
-* [SpaceX Strikes Deal With Coding Startup Cursor For $60 Billion](https://developers.slashdot.org/story/26/04/21/2343219/spacex-strikes-deal-with-coding-startup-cursor-for-60-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - SpaceX announces a significant acquisition agreement with a thriving coding startup.
+## AI and Tech Company Dynamics
 
-* [Florida Launches Criminal Investigation Into ChatGPT Over School Shooting](https://yro.slashdot.org/story/26/04/21/2039235/florida-launches-criminal-investigation-into-chatgpt-over-school-shooting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - State authorities in Florida probe ChatGPT's alleged role in a school shooting incident.
+* [Meta to start capturing employee mouse movements, keystrokes for AI training](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/) - A controversial AI-training protocol at Meta raises data privacy concerns. [Comments](https://news.ycombinator.com/item?id=47851948)
 
-* [Meta To Start Capturing Employee Mouse Movements, Keystrokes For AI Training Data](https://tech.slashdot.org/story/26/04/21/1849217/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Meta plans to utilize employee mouse and keyboard data to enhance AI learning models.
+* [Google's Internal Politics Leave It Playing Catch-Up On AI Coding](https://developers.slashdot.org/story/26/04/21/1655253/googles-internal-politics-leave-it-playing-catch-up-on-ai-coding?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Here’s how company politics might be holding Google back in the AI race.
 
-## Innovative Discoveries and Products
+* [Mozilla Uses Anthropic's Mythos To Fix 271 Bugs In Firefox](https://news.slashdot.org/story/26/04/21/2028206/mozilla-uses-anthropics-mythos-to-fix-271-bugs-in-firefox?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Mozilla integrates AI for debugging and achieves impressive results.
 
-* [Framework Laptop 13 Pro Is a Major Overhaul For the Modular, Upgradeable Laptop](https://hardware.slashdot.org/story/26/04/21/2019256/framework-laptop-13-pro-is-a-major-overhaul-for-the-modular-upgradeable-laptop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A next-generation modular laptop design with enhanced upgradeability hits the market.
+* [SpaceX Strikes Deal With Coding Startup Cursor For $60 Billion](https://developers.slashdot.org/story/26/04/21/2343219/spacex-strikes-deal-with-coding-startup-cursor-for-60-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - SpaceX invests heavily in AI-focused software companies for space exploration advances. [Comments](https://news.ycombinator.com/item?id=47855293)
 
-* [Fusion Power Plant Simulator](https://www.fusionenergybase.com/fusion-power-plant-simulator) - A new simulator provides an interactive tool for understanding fusion power plant operations.
+## Technology in Everyday Life
 
-* [Meet Orpheus—a Hopper Mission Built to Hunt for Life in Martian Volcanoes](https://soylentnews.org/article.pl?sid=26/04/17/0326235&amp;from=rss) - NASA develops a specialized mission to search for life in the extreme environments of Mars' volcanoes.
+* [Framework Laptop 13 Pro Is a Major Overhaul For the Modular, Upgradeable Laptop](https://hardware.slashdot.org/story/26/04/21/2019256/framework-laptop-13-pro-is-a-major-overhaul-for-the-modular-upgradeable-laptop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Framework offers a significant upgrade for users favoring modular hardware design.
 
-## Cultural and Historical Insights
+* [Cal.diy: open-source community edition of cal.com](https://github.com/calcom/cal.diy) - A new, open-source scheduling tool promotes collaboration and accessibility. [Comments](https://news.ycombinator.com/item?id=47852155)
 
-* [Running a Minecraft Server and more on a 1960s UNIVAC Computer](https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer) - An exploration of running modern applications on a vintage 1960s mainframe computer.
+* [CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production](https://www.brex.com/crabtrap) - A unique tool to ensure security for machine learning agents utilizing large language models. [Comments](https://news.ycombinator.com/item?id=47850212)
 
-* [Irish Bog Plant Revives Ancient Remedy as a New Weapon Vs Superbugs](https://soylentnews.org/article.pl?sid=26/04/18/1847221&amp;from=rss) - A medieval plant remedy shows potential as a modern antibiotic solution.
+## Advancing Science, Environment, and Society
 
-## Regulatory and Ethical Challenges
+* [Total Solar Eclipse Led to Seismic Quiet for Cities Within its Path](https://soylentnews.org/article.pl?sid=26/04/20/0228241&amp;from=rss) - New findings reveal how solar eclipses influence seismic activities.
 
-* [In the Face of Rampant AI, is ‘Data Poisoning’ a New Form of Civil Disobedience?](https://soylentnews.org/article.pl?sid=26/04/19/120245&amp;from=rss) - Examining the use of corrupting AI systems as a form of modern protest against unethical AI practices.
+* [Global Growth In Solar 'the Largest Ever Observed For Any Source'](https://hardware.slashdot.org/story/26/04/21/1549243/global-growth-in-solar-the-largest-ever-observed-for-any-source?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Solar energy achieves unprecedented global scales of adoption.
 
-* [Maryland Becomes First State To Pass Bill Banning 'Surveillance Pricing'](https://yro.slashdot.org/story/26/04/21/0115210/maryland-becomes-first-state-to-pass-bill-banning-surveillance-pricing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A groundbreaking law prohibits companies from manipulating prices based on consumer data.
+## Security, Privacy, and Surveillance Issues
 
-## Miscellaneous Science and Technology Updates
+* [Maryland Becomes First State To Pass Bill Banning 'Surveillance Pricing'](https://yro.slashdot.org/story/26/04/21/0115210/maryland-becomes-first-state-to-pass-bill-banning-surveillance-pricing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Maryland takes a stand against consumer data exploitation in retail.
 
-* [Total Solar Eclipse Led to Seismic Quiet for Cities Within its Path](https://soylentnews.org/article.pl?sid=26/04/20/0228241&amp;from=rss) - Research shows how a rare solar eclipse led to reduced seismic activity on Earth.
+* [Irony as Meta staff unhappy about running surveillance software on work PCs](https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/) - Employees push back against their company’s surveillance practices. [Comments](https://news.ycombinator.com/item?id=47860742)
 
-* [Chinese Carmaker Patents Voice-Controlled 'in-Vehicle Toilet'](https://soylentnews.org/article.pl?sid=26/04/19/125219&amp;from=rss) - A car manufacturer in China introduces a peculiar patent for built-in car toilets controlled by voice.
+## Historical Reflections and Cultural Insights
+
+* [Soviet CDs and CD Players Existed, and They Were Strange](https://soylentnews.org/article.pl?sid=26/04/19/1333258&amp;from=rss) - A deep dive into the unique quirks of Soviet-era technology.
+
+* [Irish Bog Plant Revives Ancient Remedy as a New Weapon Vs Superbugs](https://soylentnews.org/article.pl?sid=26/04/18/1847221&amp;from=rss) - The rediscovery of an ancient remedy in Irish bogs could revolutionize modern medicine.
 
 ---
 
@@ -67,18 +71,20 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-04-22, 09:52:52](https://news.ycombinator.com/item?id=47861270) - [Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456)
+* [2026-04-22, 09:22:05](https://news.ycombinator.com/item?id=47861087) - [How the Heck Does GPS Work?](https://perthirtysix.com/how-the-heck-does-gps-work)
+* [2026-04-22, 09:02:46](https://news.ycombinator.com/item?id=47860961) - [Meta employees are up in arms over a mandatory program to train AI on their](https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4)
+* [2026-04-22, 08:33:17](https://news.ycombinator.com/item?id=47860742) - [Irony as Meta staff unhappy about running surveillance software on work PCs](https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/)
+* [2026-04-22, 07:27:00](https://soylentnews.org/article.pl?sid=26/04/20/0227209&amp;from=rss) - [The Friction We Forgot](https://soylentnews.org/article.pl?sid=26/04/20/0227209&amp;from=rss)
 * [2026-04-22, 07:00:00](https://yro.slashdot.org/story/26/04/22/0348204/fbi-looks-into-dead-or-missing-scientists-tied-to-sensitive-us-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FBI Looks Into Dead or Missing Scientists Tied To Sensitive US Research](https://yro.slashdot.org/story/26/04/22/0348204/fbi-looks-into-dead-or-missing-scientists-tied-to-sensitive-us-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-22, 06:38:05](https://news.ycombinator.com/item?id=47859861) - [XOR&apos;ing a register with itself is the idiom for zeroing it out. Why not sub?](https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247)
+* [2026-04-22, 05:28:58](https://news.ycombinator.com/item?id=47859442) - [What Async Promised and What It Delivered](https://causality.blog/essays/what-async-promised/)
 * [2026-04-22, 03:30:00](https://developers.slashdot.org/story/26/04/21/2343219/spacex-strikes-deal-with-coding-startup-cursor-for-60-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SpaceX Strikes Deal With Coding Startup Cursor For $60 Billion](https://developers.slashdot.org/story/26/04/21/2343219/spacex-strikes-deal-with-coding-startup-cursor-for-60-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-22, 02:49:40](https://news.ycombinator.com/item?id=47858246) - [FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX](https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/)
 * [2026-04-22, 02:34:00](https://soylentnews.org/article.pl?sid=26/04/20/0228241&amp;from=rss) - [Total Solar Eclipse Led to Seismic Quiet for Cities Within its Path](https://soylentnews.org/article.pl?sid=26/04/20/0228241&amp;from=rss)
 * [2026-04-22, 02:15:38](https://news.ycombinator.com/item?id=47857964) - [Kuri – Zig based agent-browser alternative](https://github.com/justrach/kuri)
-* [2026-04-21, 23:53:45](https://news.ycombinator.com/item?id=47856535) - [Drunk post: Things I&apos;ve learned as a senior engineer (2021)](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as)
 * [2026-04-21, 23:00:00](https://yro.slashdot.org/story/26/04/21/2039235/florida-launches-criminal-investigation-into-chatgpt-over-school-shooting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Florida Launches Criminal Investigation Into ChatGPT Over School Shooting](https://yro.slashdot.org/story/26/04/21/2039235/florida-launches-criminal-investigation-into-chatgpt-over-school-shooting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-21, 22:13:18](https://news.ycombinator.com/item?id=47855293) - [SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374)
 * [2026-04-21, 22:00:00](https://news.slashdot.org/story/26/04/21/2028206/mozilla-uses-anthropics-mythos-to-fix-271-bugs-in-firefox?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mozilla Uses Anthropic&apos;s Mythos To Fix 271 Bugs In Firefox](https://news.slashdot.org/story/26/04/21/2028206/mozilla-uses-anthropics-mythos-to-fix-271-bugs-in-firefox?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-21, 21:50:00](https://soylentnews.org/article.pl?sid=26/04/19/1341258&amp;from=rss) - [A Fresh Scar on the Moon: Newly Discovered Crater Reveals Recent Impact](https://soylentnews.org/article.pl?sid=26/04/19/1341258&amp;from=rss)
-* [2026-04-21, 21:03:04](https://news.ycombinator.com/item?id=47854477) - [Claude Code to be removed from Anthropic&apos;s Pro plan?](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a)
 * [2026-04-21, 21:00:00](https://hardware.slashdot.org/story/26/04/21/2019256/framework-laptop-13-pro-is-a-major-overhaul-for-the-modular-upgradeable-laptop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Framework Laptop 13 Pro Is a Major Overhaul For the Modular, Upgradeable Laptop](https://hardware.slashdot.org/story/26/04/21/2019256/framework-laptop-13-pro-is-a-major-overhaul-for-the-modular-upgradeable-laptop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-21, 20:00:00](https://news.slashdot.org/story/26/04/21/194240/job-cuts-driven-by-ai-are-rising-on-wall-street?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Job Cuts Driven By AI Are Rising On Wall Street](https://news.slashdot.org/story/26/04/21/194240/job-cuts-driven-by-ai-are-rising-on-wall-street?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-21, 19:00:00](https://tech.slashdot.org/story/26/04/21/1849217/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta To Start Capturing Employee Mouse Movements, Keystrokes For AI Training Data](https://tech.slashdot.org/story/26/04/21/1849217/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -96,7 +102,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-21, 15:00:00](https://yro.slashdot.org/story/26/04/21/0115210/maryland-becomes-first-state-to-pass-bill-banning-surveillance-pricing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Maryland Becomes First State To Pass Bill Banning &apos;Surveillance Pricing&apos;](https://yro.slashdot.org/story/26/04/21/0115210/maryland-becomes-first-state-to-pass-bill-banning-surveillance-pricing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-21, 14:26:52](https://news.ycombinator.com/item?id=47849315) - [Fusion Power Plant Simulator](https://www.fusionenergybase.com/fusion-power-plant-simulator)
 * [2026-04-21, 12:19:00](https://soylentnews.org/article.pl?sid=26/04/19/1333258&amp;from=rss) - [Soviet CDs and CD Players Existed, and They Were Strange](https://soylentnews.org/article.pl?sid=26/04/19/1333258&amp;from=rss)
-* [2026-04-21, 11:58:16](https://news.ycombinator.com/item?id=47847558) - [Show HN: VidStudio, a browser based video editor that doesn&apos;t upload your files](https://vidstudio.app/video-editor)
 * [2026-04-21, 11:04:56](https://news.ycombinator.com/item?id=47847179) - [Laws of Software Engineering](https://lawsofsoftwareengineering.com)
 * [2026-04-21, 11:00:00](https://slashdot.org/story/26/04/21/014228/amazon-to-invest-up-to-another-25-billion-in-anthropic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon To Invest Up To Another $25 Billion In Anthropic](https://slashdot.org/story/26/04/21/014228/amazon-to-invest-up-to-another-25-billion-in-anthropic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-21, 10:19:49](https://news.ycombinator.com/item?id=47846861) - [Diverse organic molecules on Mars revealed by the first SAM TMAH experiment](https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/)
@@ -112,24 +117,24 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-20, 15:34:45](https://news.ycombinator.com/item?id=47835837) - [A printing press for biological data](https://www.owlposting.com/p/the-printing-press-for-biological)
 * [2026-04-20, 15:21:16](https://news.ycombinator.com/item?id=47835635) - [Acetaminophen vs. ibuprofen](https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet)
 * [2026-04-20, 12:29:00](https://soylentnews.org/article.pl?sid=26/04/19/000236&amp;from=rss) - [Russia Hits European Thermal Power Plant in Attempted ‘Destructive’ Cyberattack](https://soylentnews.org/article.pl?sid=26/04/19/000236&amp;from=rss)
+* [2026-04-20, 11:18:57](https://news.ycombinator.com/item?id=47832720) - [All your agents are going async](https://zknill.io/posts/all-your-agents-are-going-async/)
 * [2026-04-20, 07:43:00](https://soylentnews.org/article.pl?sid=26/04/18/2354201&amp;from=rss) - [How Two Motorola Transistors Became the World&apos;s Default NPNs](https://soylentnews.org/article.pl?sid=26/04/18/2354201&amp;from=rss)
 * [2026-04-20, 05:21:12](https://news.ycombinator.com/item?id=47830633) - [Rock carving facts – Tanum Sweden](https://www.tanumworldheritage.se/rock-carving-facts/?lang=en)
 * [2026-04-20, 03:01:00](https://soylentnews.org/article.pl?sid=26/04/18/2352244&amp;from=rss) - [10 Math Books That Sharpen Your Thinking](https://soylentnews.org/article.pl?sid=26/04/18/2352244&amp;from=rss)
 * [2026-04-19, 22:16:00](https://soylentnews.org/article.pl?sid=26/04/18/2348241&amp;from=rss) - [“TotalRecall Reloaded” Tool Finds a Side Entrance to the Windows 11 Recall Database](https://soylentnews.org/article.pl?sid=26/04/18/2348241&amp;from=rss)
-* [2026-04-19, 21:57:25](https://news.ycombinator.com/item?id=47827991) - [Hunting a 34 year old pointer bug in EtherSlip](https://www.brutman.com/Adventures_In_Code/EtherSlip_ARP/EtherSlip_ARP.html)
 * [2026-04-19, 17:34:00](https://soylentnews.org/article.pl?sid=26/04/18/195238&amp;from=rss) - [Pentagon Reportedly Asks Detroit to Use More Car Factories as Arms Factories](https://soylentnews.org/article.pl?sid=26/04/18/195238&amp;from=rss)
-* [2026-04-19, 17:19:32](https://news.ycombinator.com/item?id=47825888) - [Some secret management belongs in your HTTP proxy](https://blog.exe.dev/http-proxy-secrets)
 * [2026-04-19, 12:51:00](https://soylentnews.org/article.pl?sid=26/04/18/192211&amp;from=rss) - [The \&quot;Passive Income\&quot; Trap Ate a Generation of Entrepreneurs](https://soylentnews.org/article.pl?sid=26/04/18/192211&amp;from=rss)
+* [2026-04-19, 12:29:35](https://news.ycombinator.com/item?id=47823814) - [Context Is Software, Weights Are Hardware](https://www.aravindjayendran.com/writing/context-is-not-learning)
 * [2026-04-19, 11:53:31](https://news.ycombinator.com/item?id=47823654) - [Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma](https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics)
 * [2026-04-19, 09:26:04](https://news.ycombinator.com/item?id=47822978) - [Edit store price tags using Flipper Zero](https://github.com/i12bp8/TagTinker)
 * [2026-04-19, 08:03:00](https://soylentnews.org/article.pl?sid=26/04/18/1855201&amp;from=rss) - [Why the Phrase &apos;Super El Niño&apos; Makes Australian Climate Scientists Roll Their Eyes](https://soylentnews.org/article.pl?sid=26/04/18/1855201&amp;from=rss)
 * [2026-04-19, 04:41:59](https://news.ycombinator.com/item?id=47821853) - [Garbage Collection Without Unsafe Code](https://fitzgen.com/2024/02/06/safe-gc.html)
 * [2026-04-19, 04:28:31](https://news.ycombinator.com/item?id=47821801) - [Windows Server 2025 Runs Better on ARM](https://jasoneckert.github.io/myblog/server-2025-arm64/)
 * [2026-04-19, 03:14:00](https://soylentnews.org/article.pl?sid=26/04/18/1847221&amp;from=rss) - [Irish Bog Plant Revives Ancient Remedy as a New Weapon Vs Superbugs](https://soylentnews.org/article.pl?sid=26/04/18/1847221&amp;from=rss)
+* [2026-04-19, 00:34:11](https://news.ycombinator.com/item?id=47820791) - [MuJoCo – Advanced Physics Simulation](https://github.com/google-deepmind/mujoco)
 * [2026-04-18, 22:26:00](https://soylentnews.org/article.pl?sid=26/04/17/0348237&amp;from=rss) - [Netgear Routers Seemingly Won&apos;t be Banned in the US After All](https://soylentnews.org/article.pl?sid=26/04/17/0348237&amp;from=rss)
 * [2026-04-18, 17:42:00](https://soylentnews.org/article.pl?sid=26/04/17/0337240&amp;from=rss) - [Scientists Invented a Fake Disease. AI Told People It Was Real](https://soylentnews.org/article.pl?sid=26/04/17/0337240&amp;from=rss)
 * [2026-04-18, 12:54:00](https://soylentnews.org/article.pl?sid=26/04/17/0336248&amp;from=rss) - [Online Response to the Attack on Sam Altman&apos;s House Shows a Generational Divide](https://soylentnews.org/article.pl?sid=26/04/17/0336248&amp;from=rss)
-* [2026-04-18, 12:41:00](https://news.ycombinator.com/item?id=47815462) - [Running a Minecraft Server and more on a 1960s UNIVAC Computer](https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer)
 * [2026-04-18, 10:53:42](https://news.ycombinator.com/item?id=47814874) - [Stephen&apos;s Sausage Roll remains one of the most influential puzzle games](https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/)
 * [2026-04-18, 08:12:00](https://soylentnews.org/article.pl?sid=26/04/17/0326235&amp;from=rss) - [Meet Orpheus—a Hopper Mission Built to Hunt for Life in Martian Volcanoes](https://soylentnews.org/article.pl?sid=26/04/17/0326235&amp;from=rss)
 * [2026-04-18, 03:30:00](https://soylentnews.org/article.pl?sid=26/04/17/0318245&amp;from=rss) - [IPv6 Adoption Reaches 50% - The Long Journey Toward Internet&apos;s Next Generation](https://soylentnews.org/article.pl?sid=26/04/17/0318245&amp;from=rss)
