@@ -2,59 +2,37 @@
 
 ## Technology and Innovations
 
-* * [Trustworthy Technology](https://trustworthy.technology/) - [Comments](https://lobste.rs/s/nbxmlr/trustworthy_technology): Exploration of ethical technology development.
+* [Intel Lands Tesla As First Major Customer For 14A Chip Technology](https://hardware.slashdot.org/story/26/04/23/0442209/intel-lands-tesla-as-first-major-customer-for-14a-chip-technology?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* * [Raylib v6.0](https://github.com/raysan5/raylib/releases/tag/6.0) - [Comments](https://news.ycombinator.com/item?id=47874854): Announcement of Raylib v6.0 with enhancements for graphics and game development.
+* [Your Phone's Next Speed Boost May Come From Magnetic Chips](https://tech.slashdot.org/story/26/04/22/2314218/your-phones-next-speed-boost-may-come-from-magnetic-chips?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* * [Single-pass palette refinement and ordered dithering](https://30fps.net/pages/bayer-order-online-kmeans/) - [Comments](https://lobste.rs/s/tzws72/single_pass_palette_refinement_ordered): A new method for single-pass palette refinement combined with ordered dithering.
+* [Ping-Pong Robot Makes History By Beating Top-Level Human Players](https://hardware.slashdot.org/story/26/04/22/2138211/ping-pong-robot-makes-history-by-beating-top-level-human-players?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* * [An overview of NVMe and its support on Maestro](https://blog.lenot.re/a/nvme) - [Comments](https://lobste.rs/s/u16jsm/overview_nvme_its_support_on_maestro): Insights into NVMe's integration with Maestro for improved storage technologies.
+* [China's CATL Reveals 621-Mile EV Battery, Under-7-Minute Charging](https://hardware.slashdot.org/story/26/04/22/0422252/chinas-catl-reveals-621-mile-ev-battery-under-7-minute-charging?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* * [Your Phone's Next Speed Boost May Come From Magnetic Chips](https://tech.slashdot.org/story/26/04/22/2314218/your-phones-next-speed-boost-may-come-from-magnetic-chips?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://tech.slashdot.org/story/26/04/22/2314218/your-phones-next-speed-boost-may-come-from-magnetic-chips?utm_source=rss1.0mainlinkanon&utm_medium=feed): Analysis of the magnetic chip technology to improve phone performance.
+## Legal and Regulatory Developments
 
-* * [Gecko: a fast GLR parser with automatic syntax error recovery](https://vnmakarov.github.io/parsing/compilers/c/open-source/2026/04/22/gecko-glr.html) - [Comments](https://lobste.rs/s/chsbgc/gecko_fast_glr_parser_with_automatic): Introduction of Gecko, a fast and modern GLR parser.
+* [New York Sues Coinbase and Gemini, Seeking To Halt Unlicensed Prediction Market Businesses](https://yro.slashdot.org/story/26/04/23/1611254/new-york-sues-coinbase-and-gemini-seeking-to-halt-unlicensed-prediction-market-businesses?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* * [How The Heck Does Shazam Work?](https://perthirtysix.com/how-the-heck-does-shazam-work) - [Comments](https://lobste.rs/s/t04nvc/how_heck_does_shazam_work): Detailed explanation of the technology behind Shazam's music recognition capabilities.
+* [Billionaire Backer Sues Trump Family's Crypto Firm Over Alleged Extortion](https://yro.slashdot.org/story/26/04/22/2146235/billionaire-backer-sues-trump-familys-crypto-firm-over-alleged-extortion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* * [Modern rendering culling techniques](https://krupitskas.com/posts/modern_culling_techniques/) - [Comments](https://lobste.rs/s/qvfr0h/modern_rendering_culling_techniques): Overview of advancements in rendering and culling for computer graphics.
+## Surveillance and Privacy
 
-* * [wsl9x: Windows 9x subsystem for Linux](https://codeberg.org/hails/wsl9x) - [Comments](https://lobste.rs/s/ipyknz/wsl9x_windows_9x_subsystem_for_linux): Overview of an innovative project creating a Windows 9x subsystem for Linux.
+* [Investigation uncovers two sophisticated telecom surveillance campaigns](https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/)
 
-* * [Highlights from Git 2.54](https://github.blog/open-source/git/highlights-from-git-2-54/) - [Comments](https://news.ycombinator.com/item?id=47837698): Key updates and features in the latest Git release, version 2.54.
+* [We Found a Stable Firefox Identifier Linking All Your Private Tor Identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/)
 
-## Science and Environment
+## Science and Research
 
-* * [Mars Rover Detects Never-Before-Seen Organic Compounds In New Experiment](https://science.slashdot.org/story/26/04/22/0357247/mars-rover-detects-never-before-seen-organic-compounds-in-new-experiment?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://science.slashdot.org/story/26/04/22/0357247/mars-rover-detects-never-before-seen-organic-compounds-in-new-experiment?utm_source=rss1.0mainlinkanon&utm_medium=feed): Report on groundbreaking findings from the Mars rover's latest analysis.
+* [Mars Rover Detects Never-Before-Seen Organic Compounds In New Experiment](https://science.slashdot.org/story/26/04/22/0357247/mars-rover-detects-never-before-seen-organic-compounds-in-new-experiment?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* * [Nearly Half of US Children Are Breathing Dangerous Levels of Air Pollution](https://news.slashdot.org/story/26/04/22/2345209/nearly-half-of-us-children-are-breathing-dangerous-levels-of-air-pollution?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://news.slashdot.org/story/26/04/22/2345209/nearly-half-of-us-children-are-breathing-dangerous-levels-of-air-pollution?utm_source=rss1.0mainlinkanon&utm_medium=feed): Alarming news on the poor air quality experienced by children in the U.S.
+* [How Museums Can Use Biomolecular Archaeology to Bring Ancient Scents to Life](https://soylentnews.org/article.pl?sid=26/04/21/2350253&from=rss)
 
-* * [How Museums Can Use Biomolecular Archaeology to Bring Ancient Scents to Life](https://soylentnews.org/article.pl?sid=26/04/21/2350253&from=rss) - [Comments](https://soylentnews.org/article.pl?sid=26/04/21/2350253&from=rss): Insights into how ancient scents are being recreated using modern archaeological techniques.
+## Unique Insights and Entertainment
 
-* * [The Friction We Forgot](https://soylentnews.org/article.pl?sid=26/04/20/0227209&from=rss) - [Comments](https://soylentnews.org/article.pl?sid=26/04/20/0227209&from=rss): Exploring friction's role in physics and engineering and why it's becoming overlooked.
+* [How The Heck Does Shazam Work?](https://perthirtysix.com/how-the-heck-does-shazam-work)
 
-* * [Chinese Carmaker Patents Voice-Controlled 'in-Vehicle Toilet'](https://soylentnews.org/article.pl?sid=26/04/19/125219&from=rss) - [Comments](https://soylentnews.org/article.pl?sid=26/04/19/125219&from=rss): Overview of a unique technology for driver convenience.
-
-* * [Irish Bog Plant Revives Ancient Remedy as a New Weapon Vs Superbugs](https://soylentnews.org/article.pl?sid=26/04/18/1847221&from=rss) - [Comments](https://soylentnews.org/article.pl?sid=26/04/18/1847221&from=rss): Study finds a rare Irish bog plant showing promise in combating superbug infections.
-
-## Social Impacts and Policies
-
-* * [US Department of Justice has officially reclassified cannabis as less dangerous](https://www.bbc.com/news/articles/cdxd0xxp0jko) - [Comments](https://news.ycombinator.com/item?id=47875629): Milestone in drug policy reform as cannabis is downgraded in danger classification.
-
-* * [WebinarTV’s Rampant Scraping of Online Meetings](https://soylentnews.org/article.pl?sid=26/04/21/2355256&from=rss) - [Comments](https://soylentnews.org/article.pl?sid=26/04/21/2355256&from=rss): Investigation into unethical data scraping practices of virtual meetings.
-
-* * [AI Tool Rips Off Open Source Software Without Violating Copyright](https://news.slashdot.org/story/26/04/22/1631212/ai-tool-rips-off-open-source-software-without-violating-copyright?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://news.slashdot.org/story/26/04/22/1631212/ai-tool-rips-off-open-source-software-without-violating-copyright?utm_source=rss1.0mainlinkanon&utm_medium=feed): Examination of AI’s impact on intellectual property and open-source software.
-
-* * [Tech Companies Are Trying to Neuter Colorado's Landmark Right-to-Repair Law](https://soylentnews.org/article.pl?sid=26/04/20/0241235&from=rss) - [Comments](https://soylentnews.org/article.pl?sid=26/04/20/0241235&from=rss): Details on recent industry opposition to a crucial consumer rights law.
-
-## Industry and Corporate Affairs
-
-* * [Billionaire Backer Sues Trump Family's Crypto Firm Over Alleged Extortion](https://yro.slashdot.org/story/26/04/22/2146235/billionaire-backer-sues-trump-familys-crypto-firm-over-alleged-extortion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://yro.slashdot.org/story/26/04/22/2146235/billionaire-backer-sues-trump-familys-crypto-firm-over-alleged-extortion?utm_source=rss1.0mainlinkanon&utm_medium=feed): Legal developments surrounding a lawsuit involving a crypto company.
-
-* * [Gates Foundation To Cut 20% of Staff, Review Epstein Ties](https://slashdot.org/story/26/04/22/195209/gates-foundation-to-cut-20-of-staff-review-epstein-ties?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://slashdot.org/story/26/04/22/195209/gates-foundation-to-cut-20-of-staff-review-epstein-ties?utm_source=rss1.0mainlinkanon&utm_medium=feed): Decisions within the Gates Foundation relating to internal and ethical matters.
-
-* * [SpaceX Strikes Deal With Coding Startup Cursor For $60 Billion](https://developers.slashdot.org/story/26/04/21/2343219/spacex-strikes-deal-with-coding-startup-cursor-for-60-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://developers.slashdot.org/story/26/04/21/2343219/spacex-strikes-deal-with-coding-startup-cursor-for-60-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed): Major collaboration between SpaceX and a coding startup with a multi-billion dollar valuation.
-
-* * [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/) - [Comments](https://news.ycombinator.com/item?id=47868867): Apple addresses a security vulnerability exploited by law enforcement.
+* [Writing a C Compiler, in Zig (2025)](https://ar-ms.me/thoughts/c-compiler-1-zig/)
 
 ---
 
@@ -81,6 +59,8 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-04-23, 16:15:00](https://yro.slashdot.org/story/26/04/23/1611254/new-york-sues-coinbase-and-gemini-seeking-to-halt-unlicensed-prediction-market-businesses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New York Sues Coinbase and Gemini, Seeking To Halt Unlicensed Prediction Market Businesses](https://yro.slashdot.org/story/26/04/23/1611254/new-york-sues-coinbase-and-gemini-seeking-to-halt-unlicensed-prediction-market-businesses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-23, 15:00:00](https://hardware.slashdot.org/story/26/04/23/0442209/intel-lands-tesla-as-first-major-customer-for-14a-chip-technology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Intel Lands Tesla As First Major Customer For 14A Chip Technology](https://hardware.slashdot.org/story/26/04/23/0442209/intel-lands-tesla-as-first-major-customer-for-14a-chip-technology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-23, 13:43:02](https://lobste.rs/s/nbxmlr/trustworthy_technology) - [Trustworthy Technology](https://trustworthy.technology/)
 * [2026-04-23, 13:37:48](https://news.ycombinator.com/item?id=47875629) - [US Department of Justice has officially reclassified cannabis as less dangerous](https://www.bbc.com/news/articles/cdxd0xxp0jko)
 * [2026-04-23, 13:17:55](https://news.ycombinator.com/item?id=47875420) - [The end of responsive images](https://piccalil.li/blog/the-end-of-responsive-images/)
@@ -142,9 +122,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-22, 11:34:24](https://lobste.rs/s/cs4kew/ai_as_fascist_artifact) - [AI as a Fascist Artifact](https://tante.cc/2026/04/21/ai-as-a-fascist-artifact/)
 * [2026-04-22, 11:00:00](https://science.slashdot.org/story/26/04/22/0357247/mars-rover-detects-never-before-seen-organic-compounds-in-new-experiment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mars Rover Detects Never-Before-Seen Organic Compounds In New Experiment](https://science.slashdot.org/story/26/04/22/0357247/mars-rover-detects-never-before-seen-organic-compounds-in-new-experiment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-22, 07:27:00](https://soylentnews.org/article.pl?sid=26/04/20/0227209&amp;from=rss) - [The Friction We Forgot](https://soylentnews.org/article.pl?sid=26/04/20/0227209&amp;from=rss)
-* [2026-04-22, 07:00:00](https://yro.slashdot.org/story/26/04/22/0348204/fbi-looks-into-dead-or-missing-scientists-tied-to-sensitive-us-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FBI Looks Into Dead or Missing Scientists Tied To Sensitive US Research](https://yro.slashdot.org/story/26/04/22/0348204/fbi-looks-into-dead-or-missing-scientists-tied-to-sensitive-us-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-22, 06:33:53](https://lobste.rs/s/ipyknz/wsl9x_windows_9x_subsystem_for_linux) - [wsl9x: Windows 9x subsystem for Linux](https://codeberg.org/hails/wsl9x)
-* [2026-04-22, 03:30:00](https://developers.slashdot.org/story/26/04/21/2343219/spacex-strikes-deal-with-coding-startup-cursor-for-60-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SpaceX Strikes Deal With Coding Startup Cursor For $60 Billion](https://developers.slashdot.org/story/26/04/21/2343219/spacex-strikes-deal-with-coding-startup-cursor-for-60-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-22, 02:57:34](https://lobste.rs/s/0qdgc0/is_claude_code_going_cost_100_month) - [Is Claude Code going to cost $100/month? Probably not—it’s all very confusing](https://simonwillison.net/2026/Apr/22/claude-code-confusion/)
 * [2026-04-22, 02:34:00](https://soylentnews.org/article.pl?sid=26/04/20/0228241&amp;from=rss) - [Total Solar Eclipse Led to Seismic Quiet for Cities Within its Path](https://soylentnews.org/article.pl?sid=26/04/20/0228241&amp;from=rss)
 * [2026-04-21, 21:50:00](https://soylentnews.org/article.pl?sid=26/04/19/1341258&amp;from=rss) - [A Fresh Scar on the Moon: Newly Discovered Crater Reveals Recent Impact](https://soylentnews.org/article.pl?sid=26/04/19/1341258&amp;from=rss)
