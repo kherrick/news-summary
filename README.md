@@ -1,38 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Development
+## Technology & AI Developments
 
-* [FCC's Foreign-Made Router Ban Expands To Portable Wi-Fi Hotspot Devices](https://mobile.slashdot.org/story/26/04/24/0617244/fccs-foreign-made-router-ban-expands-to-portable-wi-fi-hotspot-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://mobile.slashdot.org/story/26/04/24/0617244/fccs-foreign-made-router-ban-expands-to-portable-wi-fi-hotspot-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Sloppy Copies](https://www.markround.com/blog/2026/04/19/sloppy-copies/) explores the messy drafts and iterations often behind polished writing and projects. [Comments](https://lobste.rs/s/qtytfe/sloppy_copies)
 
-* [NASA Inspector Fears New Spacesuits Won't be Ready for Moon Landing](https://soylentnews.org/article.pl?sid=26/04/23/1139251&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/23/1139251&from=rss))
+* [Composition Shouldn&apos;t be this Hard](https://cambra.dev/blog/announcement/) highlights complexities in composing code and potential solutions for developers. [Comments](https://lobste.rs/s/qswdiq/composition_shouldn_t_be_this_hard)
 
-* [Shibuya – Haskell Data Pipelines](https://github.com/shinzui/shibuya) ([comments](https://lobste.rs/s/oyj3nd/shibuya_haskell_data_pipelines))
+* [Spinel: Ruby AOT Native Compiler](https://github.com/matz/spinel) introduces an ahead-of-time compiler for Ruby, promising increased performance for Ruby applications. [Comments](https://news.ycombinator.com/item?id=47887334)
 
-* [DeepSeek v4](https://api-docs.deepseek.com/) ([comments](https://news.ycombinator.com/item?id=47884971))
+* [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975) blends Haskell's functional programming with Rust-inspired borrowing mechanisms. [Comments](https://lobste.rs/s/esidgp/pure_borrow_linear_haskell_meets_rust)
 
-* [Linux 7.1 Will Have an Optional New NTFS Driver](https://soylentnews.org/article.pl?sid=26/04/23/1118227&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/23/1118227&from=rss))
+* [Shibuya – Haskell Data Pipelines](https://github.com/shinzui/shibuya) offers a new way to manage data pipelines using Haskell. [Comments](https://lobste.rs/s/oyj3nd/shibuya_haskell_data_pipelines)
 
-## Environmental and Industrial Impact
+* [Show HN: How LLMs Work – Interactive visual guide based on Karpathy&apos;s lecture](https://ynarwal.github.io/how-llms-work/) makes understanding complex machine learning concepts intuitive and engaging. [Comments](https://news.ycombinator.com/item?id=47886517)
 
-* [New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Entire Nations](https://hardware.slashdot.org/story/26/04/23/2110220/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/04/23/2110220/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Show HN: Gova – The declarative GUI framework for Go](https://github.com/NV404/gova) introduces a new declarative framework for building GUIs in Go. [Comments](https://news.ycombinator.com/item?id=47886272)
 
-* [Europe's EV Sales Jump 51% as Iran War Sends Gasoline Prices Soaring](https://soylentnews.org/article.pl?sid=26/04/22/0215210&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/22/0215210&from=rss))
+* [Ubuntu 26.04 LTS Release](https://documentation.ubuntu.com/release-notes/26.04/) details the newest features and improvements in the latest long-term support release. [Comments](https://lobste.rs/s/2mpjlh/ubuntu_26_04_lts_release)
 
-* [Astronomers find the edge of the Milky Way](https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/) ([comments](https://news.ycombinator.com/item?id=47879239))
+* [raylib v6.0](https://github.com/raysan5/raylib/releases/tag/6.0) highlights updates and features in the latest release of this popular game development library. [Comments](https://lobste.rs/s/eiwtub/raylib_v6_0)
 
-## Programming and Development Tools
+## AI and Space Discoveries
 
-* [Show HN: Gova – The declarative GUI framework for Go](https://github.com/NV404/gova) ([comments](https://news.ycombinator.com/item?id=47886272))
+* [NASA Inspector Fears New Spacesuits Won&apos;t be Ready for Moon Landing](https://soylentnews.org/article.pl?sid=26/04/23/1139251&amp;from=rss) focuses on concerns around readiness for upcoming lunar missions. [Comments](https://soylentnews.org/article.pl?sid=26/04/23/1139251&amp;from=rss)
 
-* [Vibin' with Erlang](https://blog.whenhen.com/posts/vibin-with-erlang.html) ([comments](https://lobste.rs/s/crspm5/vibin_with_erlang))
+* [Astronomers find the edge of the Milky Way](https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/) explores breakthroughs in understanding the limits of our galaxy. [Comments](https://news.ycombinator.com/item?id=47879239)
 
-* [How Hard Is It To Open a File?](https://blog.sebastianwick.net/posts/how-hard-is-it-to-open-a-file/) ([comments](https://lobste.rs/s/fbfu56/how_hard_is_it_open_file))
+* [Sperm Whales Speak With a Complex Alphabet and Even Have ‘Vowels,’ Study Finds](https://soylentnews.org/article.pl?sid=26/04/20/0233208&amp;from=rss) uncovers fascinating new research on whale communication. [Comments](https://soylentnews.org/article.pl?sid=26/04/20/0233208&amp;from=rss)
 
-## Corporate Actions and Industry Dynamics
+* [Scientists Load Quantum Computer With First Complete Genome to Crack Biology&apos;s &apos;Impossible&apos; Puzzle](https://soylentnews.org/article.pl?sid=26/04/23/1112242&amp;from=rss) demonstrates quantum computing's groundbreaking applications. [Comments](https://soylentnews.org/article.pl?sid=26/04/23/1112242&amp;from=rss)
 
-* [Meta Is Laying Off 10% of Its Workforce](https://meta.slashdot.org/story/26/04/23/1917223/meta-is-laying-off-10-of-its-workforce?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=47879986))
+## Environmental and Societal Issues
 
-* [Microsoft Plans First-Ever Voluntary Employee Buyout](https://slashdot.org/story/26/04/23/1628235/microsoft-plans-first-ever-voluntary-employee-buyout?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/26/04/23/1628235/microsoft-plans-first-ever-voluntary-employee-buyout?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Entire Nations](https://hardware.slashdot.org/story/26/04/23/2110220/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) examines the environmental concerns surrounding new data center energy sources. [Comments](https://hardware.slashdot.org/story/26/04/23/2110220/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [Meta Is Laying Off 10% of Its Workforce](https://meta.slashdot.org/story/26/04/23/1917223/meta-is-laying-off-10-of-its-workforce?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) focuses on the latest workforce reduction by the social media giant. [Comments](https://news.ycombinator.com/item?id=47879986)
+
+* [53 Nations Gather To Plan a Fossil Fuel Phaseout](https://news.slashdot.org/story/26/04/23/0432254/53-nations-gather-to-plan-a-fossil-fuel-phaseout?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) details international efforts to combat climate change. [Comments](https://news.slashdot.org/story/26/04/23/0432254/53-nations-gather-to-plan-a-fossil-fuel-phaseout?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [Chinese Carmaker Patents Voice-Controlled &apos;in-Vehicle Toilet&apos;](https://soylentnews.org/article.pl?sid=26/04/19/125219&amp;from=rss) explores an innovative, albeit unconventional, automotive development. [Comments](https://soylentnews.org/article.pl?sid=26/04/19/125219&amp;from=rss)
+
+## Historical and Retrospective Analyses
+
+* [Why I Write (1946)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/) revisits George Orwell’s classic essay on his motivations for writing. [Comments](https://news.ycombinator.com/item?id=47884768)
+
+* [How The Heck Does Shazam Work?](https://perthirtysix.com/how-the-heck-does-shazam-work) demystifies the technology behind music recognition. [Comments](https://lobste.rs/s/t04nvc/how_heck_does_shazam_work)
 
 ---
 
@@ -59,11 +71,16 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-04-24, 10:02:19](https://lobste.rs/s/qtytfe/sloppy_copies) - [Sloppy Copies](https://www.markround.com/blog/2026/04/19/sloppy-copies/)
+* [2026-04-24, 09:17:57](https://news.ycombinator.com/item?id=47887683) - [S. Korea police arrest man over AI image of runaway wolf that misled authorities](https://www.bbc.com/news/articles/c4gx1n0dl9no)
+* [2026-04-24, 09:03:26](https://lobste.rs/s/qswdiq/composition_shouldn_t_be_this_hard) - [Composition Shouldn&apos;t be this Hard](https://cambra.dev/blog/announcement/)
+* [2026-04-24, 08:28:47](https://news.ycombinator.com/item?id=47887334) - [Spinel: Ruby AOT Native Compiler](https://github.com/matz/spinel)
 * [2026-04-24, 08:15:21](https://lobste.rs/s/oyj3nd/shibuya_haskell_data_pipelines) - [Shibuya – Haskell Data Pipelines](https://github.com/shinzui/shibuya)
 * [2026-04-24, 07:22:31](https://news.ycombinator.com/item?id=47886773) - [Composition Shouldn&apos;t be this Hard](https://www.cambra.dev/blog/announcement/)
 * [2026-04-24, 07:01:08](https://lobste.rs/s/esidgp/pure_borrow_linear_haskell_meets_rust) - [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975)
 * [2026-04-24, 07:00:00](https://mobile.slashdot.org/story/26/04/24/0617244/fccs-foreign-made-router-ban-expands-to-portable-wi-fi-hotspot-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FCC&apos;s Foreign-Made Router Ban Expands To Portable Wi-Fi Hotspot Devices](https://mobile.slashdot.org/story/26/04/24/0617244/fccs-foreign-made-router-ban-expands-to-portable-wi-fi-hotspot-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-24, 06:51:00](https://soylentnews.org/article.pl?sid=26/04/23/1139251&amp;from=rss) - [NASA Inspector Fears New Spacesuits Won&apos;t be Ready for Moon Landing](https://soylentnews.org/article.pl?sid=26/04/23/1139251&amp;from=rss)
+* [2026-04-24, 06:48:53](https://news.ycombinator.com/item?id=47886517) - [Show HN: How LLMs Work – Interactive visual guide based on Karpathy&apos;s lecture](https://ynarwal.github.io/how-llms-work/)
 * [2026-04-24, 06:16:47](https://news.ycombinator.com/item?id=47886272) - [Show HN: Gova – The declarative GUI framework for Go](https://github.com/NV404/gova)
 * [2026-04-24, 05:01:10](https://news.ycombinator.com/item?id=47885739) - [Why Not Venus?](https://mceglowski.substack.com/p/why-not-venus)
 * [2026-04-24, 04:48:54](https://news.ycombinator.com/item?id=47885668) - [Familiarity is the enemy: On why Enterprise systems have failed for 60 years](https://felixbarbalet.com/familiarity-is-the-enemy/)
@@ -82,7 +99,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-23, 22:01:59](https://news.ycombinator.com/item?id=47882697) - [Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases](https://github.com/refactoringhq/tolaria)
 * [2026-04-23, 22:00:00](https://entertainment.slashdot.org/story/26/04/23/1940241/warner-bros-shareholders-approve-paramounts-81-billion-takeover?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Warner Bros Shareholders Approve Paramount&apos;s $81 Billion Takeover](https://entertainment.slashdot.org/story/26/04/23/1940241/warner-bros-shareholders-approve-paramounts-81-billion-takeover?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-23, 21:56:15](https://news.ycombinator.com/item?id=47882645) - [US special forces soldier arrested after allegedly winning $400k on Maduro raid](https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade)
-* [2026-04-23, 21:47:13](https://lobste.rs/s/wx9ozr/using_perfetto_zjit) - [Using Perfetto in ZJIT](https://railsatscale.com/2026-03-27-using-perfetto-in-zjit/)
 * [2026-04-23, 21:21:00](https://soylentnews.org/article.pl?sid=26/04/23/1112242&amp;from=rss) - [Scientists Load Quantum Computer With First Complete Genome to Crack Biology&apos;s &apos;Impossible&apos; Puzzle](https://soylentnews.org/article.pl?sid=26/04/23/1112242&amp;from=rss)
 * [2026-04-23, 21:00:00](https://slashdot.org/story/26/04/23/1931220/openai-says-its-new-gpt-55-model-is-more-efficient-and-better-at-coding?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Says Its New GPT-5.5 Model Is More Efficient and Better At Coding](https://slashdot.org/story/26/04/23/1931220/openai-says-its-new-gpt-55-model-is-more-efficient-and-better-at-coding?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-23, 20:58:32](https://lobste.rs/s/9csbvp/configuring_firefox) - [Configuring Firefox](https://sciops.net/information/technology/firefox)
@@ -107,7 +123,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-23, 16:21:55](https://news.ycombinator.com/item?id=47877644) - [Incident with multple GitHub services](https://www.githubstatus.com/incidents/myrbk7jvvs6p)
 * [2026-04-23, 16:15:00](https://yro.slashdot.org/story/26/04/23/1611254/new-york-sues-coinbase-and-gemini-seeking-to-halt-unlicensed-prediction-market-businesses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New York Sues Coinbase and Gemini, Seeking To Halt Unlicensed Prediction Market Businesses](https://yro.slashdot.org/story/26/04/23/1611254/new-york-sues-coinbase-and-gemini-seeking-to-halt-unlicensed-prediction-market-businesses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-23, 16:13:36](https://lobste.rs/s/izqocw/meshcore_io_why_split) - [Meshcore.io - Why The Split?](https://blog.meshcore.io/2026/04/23/the-split)
-* [2026-04-23, 15:59:55](https://news.ycombinator.com/item?id=47877366) - [French government agency confirms breach as hacker offers to sell data](https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/)
 * [2026-04-23, 15:26:22](https://lobste.rs/s/x79usb/bitwarden_cli_compromised_ongoing) - [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain](https://socket.dev/blog/bitwarden-cli-compromised)
 * [2026-04-23, 15:00:00](https://hardware.slashdot.org/story/26/04/23/0442209/intel-lands-tesla-as-first-major-customer-for-14a-chip-technology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Intel Lands Tesla As First Major Customer For 14A Chip Technology](https://hardware.slashdot.org/story/26/04/23/0442209/intel-lands-tesla-as-first-major-customer-for-14a-chip-technology?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-23, 14:17:08](https://news.ycombinator.com/item?id=47876043) - [Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign](https://socket.dev/blog/bitwarden-cli-compromised)
@@ -123,8 +138,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-23, 08:22:39](https://lobste.rs/s/l4eo1q/linux_desktop_x86_64_assembly) - [A Linux desktop in x86_64 Assembly](https://isene.org/2026/04/MyTools.html)
 * [2026-04-23, 07:07:00](https://soylentnews.org/article.pl?sid=26/04/21/2358226&amp;from=rss) - [The NAND Gate of Continuous Math](https://soylentnews.org/article.pl?sid=26/04/21/2358226&amp;from=rss)
 * [2026-04-23, 07:00:00](https://tech.slashdot.org/story/26/04/22/2314218/your-phones-next-speed-boost-may-come-from-magnetic-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Your Phone&apos;s Next Speed Boost May Come From Magnetic Chips](https://tech.slashdot.org/story/26/04/22/2314218/your-phones-next-speed-boost-may-come-from-magnetic-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-23, 06:18:22](https://lobste.rs/s/chsbgc/gecko_fast_glr_parser_with_automatic) - [Gecko: a fast GLR parser with automatic syntax error recovery](https://vnmakarov.github.io/parsing/compilers/c/open-source/2026/04/22/gecko-glr.html)
-* [2026-04-23, 04:44:19](https://news.ycombinator.com/item?id=47872324) - [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
 * [2026-04-23, 04:04:05](https://lobste.rs/s/t04nvc/how_heck_does_shazam_work) - [How The Heck Does Shazam Work?](https://perthirtysix.com/how-the-heck-does-shazam-work)
 * [2026-04-23, 03:30:00](https://news.slashdot.org/story/26/04/22/2345209/nearly-half-of-us-children-are-breathing-dangerous-levels-of-air-pollution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nearly Half of US Children Are Breathing Dangerous Levels of Air Pollution](https://news.slashdot.org/story/26/04/22/2345209/nearly-half-of-us-children-are-breathing-dangerous-levels-of-air-pollution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-23, 02:53:48](https://lobste.rs/s/5jkwmc/borrow_checking_without_type_checking) - [Borrow-checking without type-checking](https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/)
@@ -141,7 +154,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-21, 21:50:00](https://soylentnews.org/article.pl?sid=26/04/19/1341258&amp;from=rss) - [A Fresh Scar on the Moon: Newly Discovered Crater Reveals Recent Impact](https://soylentnews.org/article.pl?sid=26/04/19/1341258&amp;from=rss)
 * [2026-04-21, 17:05:00](https://soylentnews.org/article.pl?sid=26/04/19/1338217&amp;from=rss) - [Europol Launches Operation PowerOFF — Warns 75,000 DDoS Users and Takes Down 53 Domains](https://soylentnews.org/article.pl?sid=26/04/19/1338217&amp;from=rss)
 * [2026-04-21, 12:19:00](https://soylentnews.org/article.pl?sid=26/04/19/1333258&amp;from=rss) - [Soviet CDs and CD Players Existed, and They Were Strange](https://soylentnews.org/article.pl?sid=26/04/19/1333258&amp;from=rss)
-* [2026-04-21, 09:52:09](https://news.ycombinator.com/item?id=47846688) - [Your hex editor should color-code bytes](https://simonomi.dev/blog/color-code-your-bytes/)
 * [2026-04-21, 08:52:33](https://news.ycombinator.com/item?id=47846307) - [A programmable watch you can actually wear](https://www.hackster.io/news/a-diy-watch-you-can-actually-wear-8f91c2dac682)
 * [2026-04-21, 07:32:00](https://soylentnews.org/article.pl?sid=26/04/19/125219&amp;from=rss) - [Chinese Carmaker Patents Voice-Controlled &apos;in-Vehicle Toilet&apos;](https://soylentnews.org/article.pl?sid=26/04/19/125219&amp;from=rss)
 * [2026-04-21, 03:17:10](https://news.ycombinator.com/item?id=47844085) - [Used La Marzocco machines are coveted by cafe owners and collectors](https://www.nytimes.com/2026/04/20/dining/la-marzocco-espresso-machine.html)
