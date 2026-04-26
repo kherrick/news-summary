@@ -1,68 +1,60 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advancements in Technology
+## Technology and Innovation
 
-* [Why C Remains the Gold Standard for Cryptographic Software](https://www.wolfssl.com/why-c-remains-the-gold-standard-for-cryptographic-software/) ([Comments](https://lobste.rs/s/lb065m/why_c_remains_gold_standard_for))
+* [Raiders of the lost hard drive: reinstalling QNX on a CBM 900](https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5479-raiders-of-the-lost-hard-drive/) – A fascinating deep dive into the process of reinstalling the QNX operating system on the rare retro computing platform, the Commodore CBM 900.
 
-* [A breakthrough in C/C++ dependency management](https://lcamtuf.substack.com/p/a-breakthrough-in-cc-dependency-management) ([Comments](https://lobste.rs/s/cn89rt/breakthrough_c_c_dependency_management))
+* [Amateur armed with ChatGPT solves an Erdős problem](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/) – Highlighting a remarkable use case of ChatGPT assisting an amateur in solving a 60-year-old mathematical problem posed by Paul Erdős.
 
-* [Optimizing Datalog for the GPU](https://dl.acm.org/doi/10.1145/3669940.3707274) ([Comments](https://news.ycombinator.com/item?id=47875597))
+* [Open Source Developer Brings Linux to Windows 95, Windows 98, and Windows ME](https://tech.slashdot.org/story/26/04/25/179232/open-source-developer-brings-linux-to-windows-95-windows-98-and-windows-me?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) – An open-source effort brings modern functionality to vintage operating systems like Windows 95, 98, and ME.
 
-* [Linux May Drop Old Network Drivers Now That AI-Driven Bug Reports Are Causing A Burden](https://www.phoronix.com/news/Linux-Old-Network-AI) ([Comments](https://lobste.rs/s/88pksu/linux_may_drop_old_network_drivers_now_ai))
+* [I Left Port 22 Open on the Internet for 54 Days. Here's Who Showed Up](https://arman-bd.hashnode.dev/i-left-port-22-open-on-the-internet-for-54-days-here-s-who-showed-up) – A cybersecurity experiment reveals intriguing insights into the types of access attempts when an open port is left unmonitored.
 
-* [Linux Drops ISDN Subsystem and Other Old Network Drivers](https://linux.slashdot.org/story/26/04/25/0757219/linux-drops-isdn-subsystem-and-other-old-network-drivers?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=47903126))
+* [Eden AI – European Alternative to OpenRouter](https://www.edenai.co) – A new European AI platform positions itself as an alternative to existing options, promising better protections and innovation.
 
-## Artificial Intelligence and Cryptography
+* [Comparing compression tools](https://www.arp242.net/cmp-compress.html) – A detailed analysis of various compression tools, providing valuable insights for software developers and engineers.
 
-* [Eden AI – European Alternative to OpenRouter](https://www.edenai.co) ([Comments](https://news.ycombinator.com/item?id=47908433))
+* [Sperm Whales Speak With a Complex Alphabet and Even Have 'Vowels,' Study Finds](https://soylentnews.org/article.pl?sid=26/04/20/0233208&amp;from=rss) – A fascinating biological study reveals that sperm whales use a complex language with patterns akin to a human alphabet and vowels.
 
-* [Is AI Cannibalizing Human Intelligence? A Neuroscientist's Way to Stop It](https://news.slashdot.org/story/26/04/26/0356234/is-ai-cannibalizing-human-intelligence-a-neuroscientists-way-to-stop-it?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.slashdot.org/story/26/04/26/0356234/is-ai-cannibalizing-human-intelligence-a-neuroscientists-way-to-stop-it?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Privacy, Security, and Surveillance
 
-* [Amateur armed with ChatGPT solves an Erdős problem](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/) ([Comments](https://news.ycombinator.com/item?id=47903126))
+* [At least 10 people tied to sensitive US research have died or disappeared](https://www.cnn.com/2026/04/21/us/deaths-disappearances-scientists-investigation) – An investigation into the mysterious deaths and disappearances of researchers linked to sensitive U.S. projects.
 
-* [GnuPG – post-quantum crypto landing in mainline](https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html) ([Comments](https://news.ycombinator.com/item?id=47907018))
+* [EU Age Control: The trojan horse for digital IDs](https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/) – A critical take on EU's age verification measures and their potential to act as a Trojan horse for digital identity systems.
 
-## Human Progress and Geopolitics
+* [Privacy Advocate Accuses US Government of Investing in AI-Powered Mass Surveillance](https://yro.slashdot.org/story/26/04/26/0541202/privacy-advocate-accuses-us-government-of-investing-in-ai-powered-mass-surveillance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) – Allegations surface regarding U.S. government investment in AI-driven surveillance technologies.
 
-* [40 Years After the Chernobyl Disaster, More Countries Are Turning To Nuclear Power](https://hardware.slashdot.org/story/26/04/25/0928252/40-years-after-the-chernobyl-disaster-more-countries-are-turning-to-nuclear-power?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://hardware.slashdot.org/story/26/04/25/0928252/40-years-after-the-chernobyl-disaster-more-countries-are-turning-to-nuclear-power?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [The West forgot how to make things, now it’s forgetting how to code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things) – A critical piece examining the decline of manufacturing and coding knowledge in Western nations.
 
-* [The West Forgot How to Make Things. Now It's Forgetting How to Code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things) ([Comments](https://news.ycombinator.com/item?id=47907879))
+* [European Civil Servants Are Being Forced Off WhatsApp](https://soylentnews.org/article.pl?sid=26/04/24/1241239&amp;from=rss) – Due to concerns over privacy and security, European civil servants are being urged to switch to alternative messaging services.
 
-* [US Wants Rare Earth Independence From China — but Can DARPA Actually Make It Work?](https://soylentnews.org/article.pl?sid=26/04/24/1234243&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/04/24/1234243&from=rss))
+## AI and Ethics
 
-* [Europe's EV Sales Jump 51% as Iran War Sends Gasoline Prices Soaring](https://soylentnews.org/article.pl?sid=26/04/22/0215210&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/04/22/0215210&from=rss))
+* [Is AI Cannibalizing Human Intelligence? A Neuroscientist's Way to Stop It](https://news.slashdot.org/story/26/04/26/0356234/is-ai-cannibalizing-human-intelligence-a-neuroscientists-way-to-stop-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) – A neuroscientist examines the impact of artificial intelligence on human cognitive abilities and how to counteract potential downsides.
 
-* [FDA Gives Green Light To the First Gene Therapy For Deafness](https://science.slashdot.org/story/26/04/24/2042247/fda-gives-green-light-to-the-first-gene-therapy-for-deafness?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://science.slashdot.org/story/26/04/24/2042247/fda-gives-green-light-to-the-first-gene-therapy-for-deafness?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Free Software Foundation Says 'Responsible AI' Licenses Which Restrict Harmful Uses are Unethical and Nonfree](https://news.slashdot.org/story/26/04/25/079207/free-software-foundation-says-responsible-ai-licenses-which-restrict-harmful-uses-are-unethical-and-nonfree?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) – The Free Software Foundation weighs in on the controversy surrounding licenses designed to restrict harmful uses of AI technologies.
 
-## Tech Culture and Ethical Discussions
+## Scientific Breakthroughs
 
-* [Tell HN: An app is silently installing itself on my iPhone every day](https://news.ycombinator.com/item?id=47906253) ([Comments](https://news.ycombinator.com/item?id=47906253))
+* [Physicists Witness Pinpricks of Darkness Moving Faster Than the Speed of Light](https://soylentnews.org/article.pl?sid=26/04/24/1220209&amp;from=rss) – A remarkable study witnesses phenomena that appear to move faster than light, potentially revolutionizing our understanding of physics.
 
-* [The Dumbest Hack of the Year Exposed a Very Real Problem](https://soylentnews.org/article.pl?sid=26/04/24/1238217&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/04/24/1238217&from=rss))
+* [FDA Gives Green Light To the First Gene Therapy For Deafness](https://science.slashdot.org/story/26/04/24/2042247/fda-gives-green-light-to-the-first-gene-therapy-for-deafness?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) – A groundbreaking FDA approval for the first gene therapy targeting deafness, heralding new hope for many patients.
 
-* [Npm Slop & Wonky Software Supply Chains](https://simonramstedt.com/blog/2026-04-09-npm-slop-and-wonky-software-supply-chains/) ([Comments](https://lobste.rs/s/hllfeo/npm_slop_wonky_software_supply_chains))
+* [Scientists Load Quantum Computer With First Complete Genome to Crack Biology's 'Impossible' Puzzle](https://soylentnews.org/article.pl?sid=26/04/23/1112242&amp;from=rss) – Researchers make strides in unlocking complex biological mechanisms by using quantum computing to analyze a full genome.
 
-* [With Navigating Nematodes, Scientists Map Out How Brains Implement Behaviors](https://soylentnews.org/article.pl?sid=26/04/24/0051247&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/04/24/0051247&from=rss))
+## Sustainability and Environment
 
-## Innovative Science and Discoveries
+* [40 Years After the Chernobyl Disaster, More Countries Are Turning To Nuclear Power ](https://hardware.slashdot.org/story/26/04/25/0928252/40-years-after-the-chernobyl-disaster-more-countries-are-turning-to-nuclear-power?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) – Despite its contentious history, nuclear power is gaining traction globally as nations seek cleaner energy alternatives.
 
-* [Physicists Witness Pinpricks of Darkness Moving Faster Than the Speed of Light](https://soylentnews.org/article.pl?sid=26/04/24/1220209&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/04/24/1220209&from=rss))
+* [A New Liquid Battery Stores Solar Heat for Weeks](https://soylentnews.org/article.pl?sid=26/04/24/1514234&amp;from=rss) – A cutting-edge liquid battery technology capable of storing solar energy for extended periods offers exciting renewable energy possibilities.
 
-* [Scientists Load Quantum Computer With First Complete Genome to Crack Biology's 'Impossible' Puzzle](https://soylentnews.org/article.pl?sid=26/04/23/1112242&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/04/23/1112242&from=rss))
+## Geopolitics
 
-* [Sperm Whales Speak With a Complex Alphabet and Even Have ‘Vowels,’ Study Finds](https://soylentnews.org/article.pl?sid=26/04/20/0233208&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/04/20/0233208&from=rss))
+* [Trump Fires All 24 Members of America's National Science Board](https://news.slashdot.org/story/26/04/26/0044212/trump-fires-all-24-members-of-americas-national-science-board?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) – A significant upheaval in U.S. science policymaking as all members of America's National Science Board are dismissed.
 
-* [Total Solar Eclipse Led to Seismic Quiet for Cities Within its Path](https://soylentnews.org/article.pl?sid=26/04/20/0228241&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/04/20/0228241&from=rss))
+## Historical Connections
 
-## Historical Context and Culture
-
-* [Hokusai and Tesselations](https://dl.ndl.go.jp/pid/1899550/1/11/) ([Comments](https://news.ycombinator.com/item?id=47902993))
-
-* [The route from Prussian military headquarters to Gary Gygax’s basement](https://asteriskmag.com/issues/14/shall-we-play-a-game) ([Comments](https://news.ycombinator.com/item?id=47877811))
-
-* [Mahjong: A Visual Guide](https://themahjong.guide) ([Comments](https://news.ycombinator.com/item?id=47885239))
-
-* [Martin Galway's music assembly player from Commodore 64 games](https://github.com/MartinGalway/C64_music) ([Comments](https://lobste.rs/s/9exagw/martin_galway_s_music_assembly_player))
+* [The route from Prussian military headquarters to Gary Gygax's basement](https://asteriskmag.com/issues/14/shall-we-play-a-game) – An intriguing exploration of the historical lineage that connects military strategy planning to the creation of tabletop role-playing games like Dungeons & Dragons.
 
 ---
 
@@ -89,18 +81,24 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-04-26, 12:55:26](https://news.ycombinator.com/item?id=47909942) - [At least 10 people tied to sensitive US research have died or disappeared](https://www.cnn.com/2026/04/21/us/deaths-disappearances-scientists-investigation)
+* [2026-04-26, 12:13:41](https://lobste.rs/s/gbzdnm/nightmare_javascript_optimization) - [Nightmare of the Javascript Optimization](https://blog.reg.rip/exploiting-the-ladybird-browser.html#funny-section)
+* [2026-04-26, 12:10:21](https://lobste.rs/s/bzrow5/asahi_linux_progress_report_linux_7_0) - [Asahi Linux Progress Report: Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/)
+* [2026-04-26, 11:34:00](https://yro.slashdot.org/story/26/04/26/0541202/privacy-advocate-accuses-us-government-of-investing-in-ai-powered-mass-surveillance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Privacy Advocate Accuses US Government of Investing in AI-Powered Mass Surveillance](https://yro.slashdot.org/story/26/04/26/0541202/privacy-advocate-accuses-us-government-of-investing-in-ai-powered-mass-surveillance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-26, 11:05:00](https://soylentnews.org/article.pl?sid=26/04/24/1514234&amp;from=rss) - [A New Liquid Battery Stores Solar Heat for Weeks](https://soylentnews.org/article.pl?sid=26/04/24/1514234&amp;from=rss)
+* [2026-04-26, 10:57:44](https://lobste.rs/s/rdcc8o/raiders_lost_hard_drive_reinstalling_qnx) - [Raiders of the lost hard drive: reinstalling QNX on a CBM 900](https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5479-raiders-of-the-lost-hard-drive/)
+* [2026-04-26, 10:50:32](https://news.ycombinator.com/item?id=47909226) - [Asahi Linux Progress Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/)
+* [2026-04-26, 10:47:45](https://lobste.rs/s/diksad/event_sourcing_explained_using_football) - [Event Sourcing Explained using Football - YouTube](https://www.youtube.com/watch?v=xPmQxYIi5fA&amp;list=PLCl5BUbK0jXt5l18S5UNAoUc4eQ2PJDye)
 * [2026-04-26, 09:38:21](https://lobste.rs/s/lb065m/why_c_remains_gold_standard_for) - [Why C Remains the Gold Standard for Cryptographic Software](https://www.wolfssl.com/why-c-remains-the-gold-standard-for-cryptographic-software/)
 * [2026-04-26, 09:32:22](https://news.ycombinator.com/item?id=47908833) - [Statecharts: hierarchical state machines](https://statecharts.dev/)
 * [2026-04-26, 08:49:42](https://lobste.rs/s/cpu221/i_left_port_22_open_on_internet_for_54_days) - [I Left Port 22 Open on the Internet for 54 Days. Here&apos;s Who Showed Up](https://arman-bd.hashnode.dev/i-left-port-22-open-on-the-internet-for-54-days-here-s-who-showed-up)
 * [2026-04-26, 08:18:09](https://news.ycombinator.com/item?id=47908433) - [Eden AI – European Alternative to OpenRouter](https://www.edenai.co)
 * [2026-04-26, 07:34:00](https://hardware.slashdot.org/story/26/04/25/0928252/40-years-after-the-chernobyl-disaster-more-countries-are-turning-to-nuclear-power?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [40 Years After the Chernobyl Disaster, More Countries Are Turning To Nuclear Power ](https://hardware.slashdot.org/story/26/04/25/0928252/40-years-after-the-chernobyl-disaster-more-countries-are-turning-to-nuclear-power?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-26, 07:24:07](https://news.ycombinator.com/item?id=47908166) - [APL is more French than English](https://www.jsoftware.com/papers/perlis78.htm)
-* [2026-04-26, 07:22:22](https://news.ycombinator.com/item?id=47908158) - [The Knight Programming Language](https://github.com/knight-lang/knight-lang/tree/master)
 * [2026-04-26, 07:19:20](https://news.ycombinator.com/item?id=47908139) - [Exposing Floating Point – Bartosz Ciechanowski (2019)](https://ciechanow.ski/exposing-floating-point/)
-* [2026-04-26, 07:13:08](https://news.ycombinator.com/item?id=47908105) - [Tip: Web requests should not be measured in Hz [Hertz]](https://mastodon.catgirl.cloud/@sophie/116467789133733136)
 * [2026-04-26, 07:00:10](https://news.ycombinator.com/item?id=47908047) - [Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)](https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health)
 * [2026-04-26, 06:51:36](https://lobste.rs/s/plertt/i_have_officially_retired_from_emacs) - [I have officially retired from Emacs](https://nullprogram.com/blog/2026/04/26/)
-* [2026-04-26, 06:24:42](https://news.ycombinator.com/item?id=47907879) - [The West Forgot How to Make Things. Now It&apos;s Forgetting How to Code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things)
+* [2026-04-26, 06:24:42](https://news.ycombinator.com/item?id=47907879) - [The West forgot how to make things, now it’s forgetting how to code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things)
 * [2026-04-26, 06:20:00](https://soylentnews.org/article.pl?sid=26/04/24/1241239&amp;from=rss) - [European Civil Servants Are Being Forced Off WhatsApp](https://soylentnews.org/article.pl?sid=26/04/24/1241239&amp;from=rss)
 * [2026-04-26, 04:34:00](https://news.slashdot.org/story/26/04/26/0356234/is-ai-cannibalizing-human-intelligence-a-neuroscientists-way-to-stop-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is AI Cannibalizing Human Intelligence? A Neuroscientist&apos;s Way to Stop It](https://news.slashdot.org/story/26/04/26/0356234/is-ai-cannibalizing-human-intelligence-a-neuroscientists-way-to-stop-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-26, 03:44:28](https://news.ycombinator.com/item?id=47907130) - [EU Age Control: The trojan horse for digital IDs](https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/)
@@ -129,23 +127,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-25, 17:55:22](https://lobste.rs/s/8xd0x7/mac_app_gold_rush_age_vibe_coding) - [The Mac App Gold Rush in the Age of Vibe Coding](https://caio.ca/blog/ai-vibe-coded-mac-apps.html)
 * [2026-04-25, 17:40:38](https://news.ycombinator.com/item?id=47903126) - [Amateur armed with ChatGPT solves an Erdős problem](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/)
 * [2026-04-25, 17:34:00](https://linux.slashdot.org/story/26/04/25/0757219/linux-drops-isdn-subsystem-and-other-old-network-drivers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linux  Drops ISDN Subsystem and Other Old Network Drivers](https://linux.slashdot.org/story/26/04/25/0757219/linux-drops-isdn-subsystem-and-other-old-network-drivers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-25, 17:21:22](https://news.ycombinator.com/item?id=47902993) - [Hokusai and Tesselations](https://dl.ndl.go.jp/pid/1899550/1/11/)
-* [2026-04-25, 17:20:34](https://news.ycombinator.com/item?id=47902987) - [Simulacrum of Knowledge Work](https://blog.happyfellow.dev/simulacrum-of-knowledge-work/)
 * [2026-04-25, 16:34:00](https://yro.slashdot.org/story/26/04/25/0348249/white-house-pushed-out-new-ai-official-after-just-four-days-on-the-job?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [White House Pushed Out New AI Official After Just Four Days on the Job](https://yro.slashdot.org/story/26/04/25/0348249/white-house-pushed-out-new-ai-official-after-just-four-days-on-the-job?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-25, 16:22:30](https://lobste.rs/s/9exagw/martin_galway_s_music_assembly_player) - [Martin Galway&apos;s music assembly player from Commodore 64 games](https://github.com/MartinGalway/C64_music)
 * [2026-04-25, 16:11:50](https://news.ycombinator.com/item?id=47902525) - [Using coding assistance tools to revive projects you never were going to finish](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/)
 * [2026-04-25, 16:08:00](https://soylentnews.org/article.pl?sid=26/04/24/1232232&amp;from=rss) - [Contrary to Popular Superstition, AES 128 is Just Fine in a Post](https://soylentnews.org/article.pl?sid=26/04/24/1232232&amp;from=rss)
 * [2026-04-25, 15:34:00](https://news.slashdot.org/story/26/04/25/079207/free-software-foundation-says-responsible-ai-licenses-which-restrict-harmful-uses-are-unethical-and-nonfree?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Free Software Foundation Says &apos;Responsible AI&apos; Licenses Which Restrict Harmful Uses are Unethical and Nonfree](https://news.slashdot.org/story/26/04/25/079207/free-software-foundation-says-responsible-ai-licenses-which-restrict-harmful-uses-are-unethical-and-nonfree?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-25, 15:13:01](https://lobste.rs/s/vkngyl/removing_auicgp_instruction) - [Removing the AUICGP instruction](https://cheriot.org/isa/toolchain/2026/03/23/removing-auicgp.html)
 * [2026-04-25, 14:45:09](https://lobste.rs/s/o45fm1/you_don_t_want_long_lived_keys) - [You don&apos;t want long-lived keys](https://argemma.com/blog/long-lived-keys/)
 * [2026-04-25, 14:34:00](https://slashdot.org/story/26/04/25/091254/intels-stock-soars-24-friday-its-biggest-one-day-gain-since-1987?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Intel&apos;s Stock Soars 24% Friday, Its Biggest One-Day Gain Since 1987](https://slashdot.org/story/26/04/25/091254/intels-stock-soars-24-friday-its-biggest-one-day-gain-since-1987?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-25, 14:15:56](https://lobste.rs/s/syfxqg/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/syfxqg/what_are_you_doing_this_weekend)
-* [2026-04-25, 13:46:27](https://lobste.rs/s/u0pix1/build_yourself_flowers) - [Build yourself flowers](https://vickiboykis.com/2026/04/20/build-yourself-flowers/)
 * [2026-04-25, 13:07:04](https://lobste.rs/s/2jvgsq/your_cpu_has_more_registers_than_you_d) - [Your CPU Has More Registers Than You&apos;d Think](https://fp32.org/register_renaming.html)
 * [2026-04-25, 12:17:49](https://lobste.rs/s/qqahyp/comparing_compression_tools) - [Comparing compression tools](https://www.arp242.net/cmp-compress.html)
 * [2026-04-25, 11:22:00](https://soylentnews.org/article.pl?sid=26/04/24/1227222&amp;from=rss) - [France Keeps Breaking the Internet to Stop Piracy, Even Though It&apos;s Not Working](https://soylentnews.org/article.pl?sid=26/04/24/1227222&amp;from=rss)
 * [2026-04-25, 11:00:00](https://science.slashdot.org/story/26/04/25/005216/physicists-revive-1990s-laser-concept-to-propose-a-next-generation-atomic-clock?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Physicists Revive 1990s Laser Concept To Propose a Next-Generation Atomic Clock](https://science.slashdot.org/story/26/04/25/005216/physicists-revive-1990s-laser-concept-to-propose-a-next-generation-atomic-clock?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-25, 10:36:28](https://lobste.rs/s/bvh1dq/why_i_m_done_making_desktop_applications) - [Why I’m Done Making Desktop Applications (2009)](https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/)
 * [2026-04-25, 10:05:46](https://lobste.rs/s/gikmcc/avoid_shipping_your_org_chart) - [Avoid Shipping Your Org Chart](https://chronicbuildfailure.co/how-to-avoid-shipping-your-org-chart-c086effe751c)
 * [2026-04-25, 09:17:19](https://lobste.rs/s/rd9x6c/gmail_bringing_easy_end_end_encryption) - [Gmail: Bringing easy end-to-end encryption to all businesses](https://workspace.google.com/blog/identity-and-security/gmail-easy-end-to-end-encryption-all-businesses)
 * [2026-04-25, 07:00:00](https://science.slashdot.org/story/26/04/24/2042247/fda-gives-green-light-to-the-first-gene-therapy-for-deafness?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FDA Gives Green Light To the First Gene Therapy For Deafness](https://science.slashdot.org/story/26/04/24/2042247/fda-gives-green-light-to-the-first-gene-therapy-for-deafness?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -154,12 +146,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-25, 04:31:14](https://news.ycombinator.com/item?id=47898660) - [Quirks of Human Anatomy](https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm)
 * [2026-04-25, 03:00:00](https://yro.slashdot.org/story/26/04/24/2357254/maine-governor-vetoes-data-center-moratorium-bill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Maine Governor Vetoes Data Center Moratorium Bill](https://yro.slashdot.org/story/26/04/24/2357254/maine-governor-vetoes-data-center-moratorium-bill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-25, 01:56:00](https://soylentnews.org/article.pl?sid=26/04/24/0247228&amp;from=rss) - [Linux Mint Plans for Longer Development Cycle](https://soylentnews.org/article.pl?sid=26/04/24/0247228&amp;from=rss)
-* [2026-04-24, 23:00:00](https://tech.slashdot.org/story/26/04/24/2055244/bmw-is-one-step-closer-to-selling-you-a-color-changing-car?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [BMW Is One Step Closer To Selling You a Color-Changing Car](https://tech.slashdot.org/story/26/04/24/2055244/bmw-is-one-step-closer-to-selling-you-a-color-changing-car?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-24, 22:53:25](https://lobste.rs/s/gp02rx/people_do_not_yearn_for_automation) - [The people do not yearn for automation](https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation)
 * [2026-04-24, 21:08:00](https://soylentnews.org/article.pl?sid=26/04/24/0051247&amp;from=rss) - [With Navigating Nematodes, Scientists Map Out How Brains Implement Behaviors](https://soylentnews.org/article.pl?sid=26/04/24/0051247&amp;from=rss)
+* [2026-04-24, 18:24:42](https://news.ycombinator.com/item?id=47894014) - [Mine, a Coalton and Common Lisp IDE](https://coalton-lang.github.io/20260424-mine/)
 * [2026-04-24, 16:22:00](https://soylentnews.org/article.pl?sid=26/04/24/0045252&amp;from=rss) - [They Built the ‘Cursor for Hardware.’ Now, Anthropic Wants in](https://soylentnews.org/article.pl?sid=26/04/24/0045252&amp;from=rss)
 * [2026-04-24, 11:32:00](https://soylentnews.org/article.pl?sid=26/04/23/1143221&amp;from=rss) - [This Pasta Sauce Wants to Record Your Family](https://soylentnews.org/article.pl?sid=26/04/23/1143221&amp;from=rss)
 * [2026-04-24, 06:51:00](https://soylentnews.org/article.pl?sid=26/04/23/1139251&amp;from=rss) - [NASA Inspector Fears New Spacesuits Won&apos;t be Ready for Moon Landing](https://soylentnews.org/article.pl?sid=26/04/23/1139251&amp;from=rss)
+* [2026-04-24, 06:00:14](https://news.ycombinator.com/item?id=47886157) - [My .config Ship of Theseus](https://shift1w.com/blog/config-of-theseus/)
 * [2026-04-24, 03:41:09](https://news.ycombinator.com/item?id=47885239) - [Mahjong: A Visual Guide](https://themahjong.guide/)
 * [2026-04-24, 02:05:00](https://soylentnews.org/article.pl?sid=26/04/23/1118227&amp;from=rss) - [Linux 7.1 Will Have an Optional New NTFS Driver](https://soylentnews.org/article.pl?sid=26/04/23/1118227&amp;from=rss)
 * [2026-04-23, 21:21:00](https://soylentnews.org/article.pl?sid=26/04/23/1112242&amp;from=rss) - [Scientists Load Quantum Computer With First Complete Genome to Crack Biology&apos;s &apos;Impossible&apos; Puzzle](https://soylentnews.org/article.pl?sid=26/04/23/1112242&amp;from=rss)
@@ -168,7 +161,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-23, 15:53:22](https://news.ycombinator.com/item?id=47877277) - [I spent 6 years building my Kanban as I hated how managers run the boards](https://www.npmjs.com/package/ooko)
 * [2026-04-23, 15:29:50](https://news.ycombinator.com/item?id=47876930) - [Math Is Hard – OpenBSD Stories](http://miod.online.fr/software/openbsd/stories/vaxfp.html)
 * [2026-04-23, 14:18:52](https://news.ycombinator.com/item?id=47876071) - [Show HN: Turning a Gaussian Splat into a videogame](https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/)
-* [2026-04-23, 13:34:47](https://news.ycombinator.com/item?id=47875597) - [Optimizing Datalog for the GPU](https://dl.acm.org/doi/10.1145/3669940.3707274)
 * [2026-04-23, 11:50:00](https://soylentnews.org/article.pl?sid=26/04/22/023218&amp;from=rss) - [Bluetooth Tracker Hidden in a Postcard and Mailed to a Warship Exposed its Location](https://soylentnews.org/article.pl?sid=26/04/22/023218&amp;from=rss)
 * [2026-04-23, 07:07:00](https://soylentnews.org/article.pl?sid=26/04/21/2358226&amp;from=rss) - [The NAND Gate of Continuous Math](https://soylentnews.org/article.pl?sid=26/04/21/2358226&amp;from=rss)
 * [2026-04-23, 02:22:00](https://soylentnews.org/article.pl?sid=26/04/21/2355256&amp;from=rss) - [WebinarTV’s Rampant Scraping of Online Meetings ](https://soylentnews.org/article.pl?sid=26/04/21/2355256&amp;from=rss)
@@ -177,6 +169,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-22, 18:34:21](https://news.ycombinator.com/item?id=47867473) - [Flickr: The first and last great photo platform](https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/)
 * [2026-04-22, 16:53:00](https://soylentnews.org/article.pl?sid=26/04/20/0241235&amp;from=rss) - [Tech Companies Are Trying to Neuter Colorado&apos;s Landmark Right-to-Repair Law](https://soylentnews.org/article.pl?sid=26/04/20/0241235&amp;from=rss)
 * [2026-04-22, 16:50:27](https://news.ycombinator.com/item?id=47866127) - [The Joy of Folding Bikes](https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes)
+* [2026-04-22, 13:12:57](https://news.ycombinator.com/item?id=47863103) - [Cheating at Tetris](https://chalkdustmagazine.com/features/cheating-at-tetris/)
 * [2026-04-22, 12:09:00](https://soylentnews.org/article.pl?sid=26/04/20/0233208&amp;from=rss) - [Sperm Whales Speak With a Complex Alphabet and Even Have ‘Vowels,’ Study Finds](https://soylentnews.org/article.pl?sid=26/04/20/0233208&amp;from=rss)
 * [2026-04-22, 07:27:00](https://soylentnews.org/article.pl?sid=26/04/20/0227209&amp;from=rss) - [The Friction We Forgot](https://soylentnews.org/article.pl?sid=26/04/20/0227209&amp;from=rss)
 * [2026-04-22, 07:20:23](https://news.ycombinator.com/item?id=47860198) - [The Free Universal Construction Kit](https://fffff.at/free-universal-construction-kit/)
