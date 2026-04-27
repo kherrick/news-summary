@@ -1,52 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Development
+## Retro Tech and Computing Innovations
 
-* [Mixing numeric attributes into text search for better first-stage relevance](https://turbopuffer.com/blog/rank-by-attribute) - A new approach combines numeric attributes with text search for improved search relevance, enhancing the accuracy of first-stage ranking in large-scale search systems. [Article](https://lobste.rs/s/b4lu09/mixing_numeric_attributes_into_text) | [Comments](https://lobste.rs/s/b4lu09/mixing_numeric_attributes_into_text)
+* [Compu-Global-Hyper-Mega-Net: A Retro Internet for Retro Computers (LFNW 2026)](https://www.youtube.com/watch?v=cSJsGNIDjtc) - Exploring an initiative to create a retro internet for vintage computers, reviving nostalgia and extending functionality to earlier models. [Comments](https://lobste.rs/s/hphnx4/compu_global_hyper_mega_net_retro)
 
-* [Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards](https://github.com/Hanqaqa/Easyduino) - Explore free KiCad layouts for creating prototypes with popular microcontroller boards. [Comments](https://news.ycombinator.com/item?id=47924813)
+* [Hacking the last Z80 computer ever, the Cidco Mailstation](https://fosdem.org/2026/schedule/event/FEHLHY-hacking_the_last_z80_computer_ever_made/) - A deep dive into hacking the Cidco Mailstation, one of the last Z80-based computers. [Comments](https://lobste.rs/s/qnle9l/hacking_last_z80_computer_ever_cidco)
 
-* [How Rust Compiles (2025)](https://www.youtube.com/watch?v=G1g6Me1FHmE) - A video explanation shedding light on the compilation process of the Rust programming language in detail. [Article](https://lobste.rs/s/wtgh6b/how_rust_compiles_2025)
+* [From Milliseconds to 26 Nanoseconds: How a $20 eBay SFP Module Beat My Entire NTP Setup](https://austinsnerdythings.com/2026/04/26/ptp-osa5401-26-nanoseconds-raspberry-pi/) - A fascinating look at how a $20 eBay SFP module dramatically improved NTP accuracy for a tech setup. [Comments](https://lobste.rs/s/trap9p/from_milliseconds_26_nanoseconds_how_20)
 
-* [HTML written only using the C preprocessor](https://chaos.social/@citizen428/116138240021584394) - Discover a unique way to generate HTML content through the use of only the C preprocessor. [Comments](https://lobste.rs/s/5wxd5b/html_written_only_using_c_preprocessor)
+* [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/) - Delving into the highly optimized code behind the classic game RollerCoaster Tycoon. [Comments](https://lobste.rs/s/99jbw2/gold_standard_optimization_look_under)
 
-* [Wasm is not quite a stack machine](https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/) - A deep dive into why WebAssembly (Wasm) does not fully conform to the definition of a traditional stack machine. [Comments](https://lobste.rs/s/h8hlp7/wasm_is_not_quite_stack_machine)
+## Artificial Intelligence Developments and Challenges
 
-* [Running the Gauntlet: a tiny nodejs test runner](https://robey.lag.net/2026/04/26/running-gauntlet.html) - An overview of a lightweight and simplistic Node.js test runner called 'Gauntlet.' [Comments](https://lobste.rs/s/mytuvk/running_gauntlet_tiny_nodejs_test_runner)
+* [GitHub Copilot Is Moving To Usage-Based Billing](https://developers.slashdot.org/story/26/04/27/1717232/github-copilot-is-moving-to-usage-based-billing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - GitHub announces a shift to usage-based billing for its AI coding assistant, Copilot. [Comments](https://news.ycombinator.com/item?id=47923357)
 
-## Artificial Intelligence and Machine Learning
+* [How Rust Compiles (2025)](https://www.youtube.com/watch?v=G1g6Me1FHmE) - An in-depth presentation on the compilation process of Rust, ideal for developers and enthusiasts. [Comments](https://lobste.rs/s/wtgh6b/how_rust_compiles_2025)
 
-* [GitHub Copilot Is Moving To Usage-Based Billing](https://developers.slashdot.org/story/26/04/27/1717232/github-copilot-is-moving-to-usage-based-billing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - GitHub Copilot switches to a usage-based billing model to address concerns about fairness and sustainability. [Article](https://news.ycombinator.com/item?id=47924181) | [Comments](https://news.ycombinator.com/item?id=47923357)
+* [China Blocks Meta&apos;s $2 Billion Takeover of AI Startup Manus](https://tech.slashdot.org/story/26/04/27/2046252/china-blocks-metas-2-billion-takeover-of-ai-startup-manus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - China halts Meta's acquisition of an AI startup, signaling growing scrutiny over global tech mergers. [Comments](https://news.ycombinator.com/item?id=47920315)
 
-* [Decoupled DiLoCo: Resilient, Distributed AI Training at Scale](https://deepmind.google/blog/decoupled-diloco/) - Learn about DeepMind's innovative approach to distributed AI training for unparalleled scalability. [Comments](https://news.ycombinator.com/item?id=47924181)
+## Privacy and Security Concerns
 
-* [DeepSeek V4 Arrives With Near State-of-the-Art Intelligence At 1/6th the Cost](https://news.slashdot.org/story/26/04/27/0328257/deepseek-v4-arrives-with-near-state-of-the-art-intelligence-at-16th-the-cost?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The latest DeepSeek V4 offers cutting-edge AI capabilities at a fraction of the cost, making AI more accessible. [Comments](https://news.slashdot.org/story/26/04/27/0328257/deepseek-v4-arrives-with-near-state-of-the-art-intelligence-at-16th-the-cost?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Surveillance Pricing Set to be Banned in Maryland. Could This be the End of the Predatory Retail?](https://soylentnews.org/article.pl?sid=26/04/25/1736211&amp;from=rss) - Maryland moves to ban surveillance-based pricing in retail. [Comments](https://news.ycombinator.com/item?id=47922940)
 
-## Programming Tools and Innovations
+* [4TB of voice samples just stolen from 40k AI contractors at Mercor](https://app.oravys.com/blog/mercor-breach-2026) - A major breach compromises 4TB of voice data, raising questions about contractor security protocols. [Comments](https://news.ycombinator.com/item?id=47919630)
 
-* [Show HN: Utilyze – an open source GPU monitoring tool more accurate than nvtop](https://www.systalyze.com/utilyze) - Introducing Utilyze, an open-source tool aimed at providing more precise GPU monitoring compared to existing solutions. [Comments](https://news.ycombinator.com/item?id=47921626)
+* [Google Studies Prompt Injection Attacks Against AI Agents Browsing the Web](https://it.slashdot.org/story/26/04/26/2345211/google-studies-prompt-injection-attacks-against-ai-agents-browsing-the-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google explores the risks of prompt injection on AI agents and its potential impact. [Comments](https://lobste.rs/s/5dbg0u/hardenedbsd_is_now_officially_on_radicle)
 
-* [Tendril – a self-extending agent that builds and registers its own tools](https://github.com/serverless-dna/tendril) - Dive into Tendril, an autonomous, self-extending system for building and organizing tools. [Comments](https://news.ycombinator.com/item?id=47921377)
+## Supreme Court Cases and Government Interventions
 
-* [Let's Build the Terminal Pt. 1](https://chauhankiran.blogspot.com/2026/04/lets-build-terminal-pt-1.html) - A tutorial on constructing a terminal emulator from scratch. [Comments](https://lobste.rs/s/9ckz9x/let_s_build_terminal_pt_1)
+* [Supreme Court Reviews Police Use of Cell Location Data To Find Criminals](https://yro.slashdot.org/story/26/04/27/1721238/supreme-court-reviews-police-use-of-cell-location-data-to-find-criminals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The Supreme Court considers legal questions about cell location data in criminal investigations. [Comments](https://news.ycombinator.com/item?id=47922940)
 
-## Science and Innovation
+* [Supreme Court to hear arguments in landmark Roundup weedkiller case](https://www.nytimes.com/2026/04/26/climate/supreme-court-bayer-monsanto-roundup-glyphosate.html) - A significant case on the health risks and legal accountability of Roundup weedkiller. [Comments](https://news.ycombinator.com/item?id=47923121)
 
-* [FDA approves first gene therapy for treatment of genetic hearing loss](https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher) - Groundbreaking progress: The FDA grants approval for a gene therapy to treat genetic hearing loss. [Comments](https://news.ycombinator.com/item?id=47919733)
+* [Bank Robber Challenges Conviction Based on His Cellphone&apos;s Location Data](https://yro.slashdot.org/story/26/04/27/0113209/bank-robber-challenges-conviction-based-on-his-cellphones-location-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Legal implications of using cellphone data as evidence against a bank robber. [Comments](https://news.ycombinator.com/item?id=47922940)
 
-* [NASA's Curiosity Rover Found Promising Organic Chemicals on Mars](https://soylentnews.org/article.pl?sid=26/04/25/1727249&amp;from=rss) - Significant discovery by NASA's Curiosity Rover reveals organic compounds on Mars, sparking scientific interest. [Comments](https://soylentnews.org/article.pl?sid=26/04/25/1727249&amp;from=rss)
+## Healthcare and Scientific Breakthroughs
 
-## Policy and Regulation Developments
+* [FDA approves first gene therapy for treatment of genetic hearing loss](https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher) - A groundbreaking gene therapy for treating genetic hearing loss receives FDA approval. [Comments](https://news.ycombinator.com/item?id=47919733)
 
-* [US Supreme Court reviews police use of cell location data](https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html) - A pivotal legal case as the U.S. Supreme Court assesses the implications of police access to cell phone location data. [Comments](https://news.ycombinator.com/item?id=47922940)
+* [NASA&apos;s Curiosity Rover Found Promising Organic Chemicals on Mars](https://soylentnews.org/article.pl?sid=26/04/25/1727249&amp;from=rss) - Curiosity Rover's discovery of organic chemicals boosts hopes for signs of life on Mars. [Comments](https://soylentnews.org/article.pl?sid=26/04/25/1727249&amp;from=rss)
 
-* [Surveillance Pricing Set to be Banned in Maryland. Could This be the End of the Predatory Retail?](https://soylentnews.org/article.pl?sid=26/04/25/1736211&amp;from=rss) - Maryland is taking steps to outlaw surveillance pricing, tackling unfair retail practices. [Comments](https://soylentnews.org/article.pl?sid=26/04/25/1736211&amp;from=rss)
+## Innovations and Resourceful Projects
 
-## Miscellaneous Highlights
+* [FreeBSD Device Driver Book](https://github.com/ebrandi/FDD-book) - A comprehensive guide to developing device drivers in FreeBSD, available as an open-source resource. [Comments](https://lobste.rs/s/bwm12z/freebsd_device_driver_book)
 
-* [From Milliseconds to 26 Nanoseconds: How a $20 eBay SFP Module Beat My Entire NTP Setup](https://austinsnerdythings.com/2026/04/26/ptp-osa5401-26-nanoseconds-raspberry-pi/) - A unique experiment demonstrates how a $20 eBay SFP module outperformed a comprehensive NTP setup. [Comments](https://lobste.rs/s/trap9p/from_milliseconds_26_nanoseconds_how_20)
+* [Mixing numeric attributes into text search for better first-stage relevance](https://turbopuffer.com/blog/rank-by-attribute) - Techniques to enhance text search through the integration of numerical attributes. [Comments](https://lobste.rs/s/b4lu09/mixing_numeric_attributes_into_text)
 
-* [Men who stare at walls](https://www.alexselimov.com/posts/men_who_stare_at_walls/) - A contemplative essay analyzing human psychology and the act of introspection through the allegory of staring at walls. [Comments](https://news.ycombinator.com/item?id=47920074)
+* [Super ZSNES – GPU Powered SNES Emulator](https://zsnes.com/) - A new GPU-powered emulator revives the iconic SNES gaming experience. [Comments](https://news.ycombinator.com/item?id=47924877)
 
 ---
 
@@ -73,36 +73,44 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-04-27, 22:02:17](https://lobste.rs/s/hphnx4/compu_global_hyper_mega_net_retro) - [Compu-Global-Hyper-Mega-Net: A Retro Internet for Retro Computers (LFNW 2026)](https://www.youtube.com/watch?v=cSJsGNIDjtc)
+* [2026-04-27, 22:00:00](https://tech.slashdot.org/story/26/04/27/2113232/eu-tells-google-to-open-up-ai-on-android-google-says-thats-unwarranted-intervention?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EU Tells Google To Open Up AI On Android; Google Says That&apos;s &apos;Unwarranted Intervention&apos;](https://tech.slashdot.org/story/26/04/27/2113232/eu-tells-google-to-open-up-ai-on-android-google-says-thats-unwarranted-intervention?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-27, 21:26:25](https://news.ycombinator.com/item?id=47927526) - [NPM Website Is Down](https://status.npmjs.org)
+* [2026-04-27, 21:20:00](https://apple.slashdot.org/story/26/04/27/2055217/notepad-finally-lands-on-macos-as-a-native-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Notepad++ Finally Lands On macOS as a Native App](https://apple.slashdot.org/story/26/04/27/2055217/notepad-finally-lands-on-macos-as-a-native-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-27, 20:44:16](https://news.ycombinator.com/item?id=47927070) - [Three men are facing 44 charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/)
+* [2026-04-27, 20:24:33](https://news.ycombinator.com/item?id=47926861) - [Is my blue your blue?](https://ismy.blue/)
+* [2026-04-27, 20:20:00](https://soylentnews.org/politics/article.pl?sid=26/04/26/0032224&amp;from=rss) - [Big Tech Group Jumps The Gun On Unreleased Bill, Raising Questions About Cozy Ties With Lawmakers](https://soylentnews.org/politics/article.pl?sid=26/04/26/0032224&amp;from=rss)
+* [2026-04-27, 20:00:00](https://tech.slashdot.org/story/26/04/27/2046252/china-blocks-metas-2-billion-takeover-of-ai-startup-manus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Blocks Meta&apos;s $2 Billion Takeover of AI Startup Manus](https://tech.slashdot.org/story/26/04/27/2046252/china-blocks-metas-2-billion-takeover-of-ai-startup-manus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-27, 19:53:29](https://news.ycombinator.com/item?id=47926480) - [L123: A Lotus 1-2-3–style terminal spreadsheet with modern Excel compatibility](https://github.com/duane1024/l123)
+* [2026-04-27, 19:00:00](https://yro.slashdot.org/story/26/04/27/1721238/supreme-court-reviews-police-use-of-cell-location-data-to-find-criminals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Supreme Court Reviews Police Use of Cell Location Data To Find Criminals](https://yro.slashdot.org/story/26/04/27/1721238/supreme-court-reviews-police-use-of-cell-location-data-to-find-criminals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-27, 18:55:06](https://news.ycombinator.com/item?id=47925679) - [Our principles](https://openai.com/index/our-principles/)
 * [2026-04-27, 18:24:51](https://lobste.rs/s/b4lu09/mixing_numeric_attributes_into_text) - [Mixing numeric attributes into text search for better first-stage relevance](https://turbopuffer.com/blog/rank-by-attribute)
 * [2026-04-27, 18:00:00](https://developers.slashdot.org/story/26/04/27/1717232/github-copilot-is-moving-to-usage-based-billing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GitHub Copilot Is Moving To Usage-Based Billing](https://developers.slashdot.org/story/26/04/27/1717232/github-copilot-is-moving-to-usage-based-billing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-27, 17:50:10](https://news.ycombinator.com/item?id=47924877) - [Super ZSNES – GPU Powered SNES Emulator](https://zsnes.com/)
-* [2026-04-27, 17:45:02](https://news.ycombinator.com/item?id=47924813) - [Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards](https://github.com/Hanqaqa/Easyduino)
-* [2026-04-27, 17:42:19](https://news.ycombinator.com/item?id=47924775) - [GitHub is having issues now](https://www.githubstatus.com)
+* [2026-04-27, 17:45:02](https://news.ycombinator.com/item?id=47924813) - [Easyduino: Open Source PCB Devboards for KiCad](https://github.com/Hanqaqa/Easyduino)
+* [2026-04-27, 17:11:35](https://lobste.rs/s/qnle9l/hacking_last_z80_computer_ever_cidco) - [Hacking the last Z80 computer ever, the Cidco Mailstation](https://fosdem.org/2026/schedule/event/FEHLHY-hacking_the_last_z80_computer_ever_made/)
 * [2026-04-27, 17:04:19](https://lobste.rs/s/wtgh6b/how_rust_compiles_2025) - [How Rust Compiles (2025)](https://www.youtube.com/watch?v=G1g6Me1FHmE)
 * [2026-04-27, 17:00:00](https://slashdot.org/story/26/04/27/1657250/microsoft-to-stop-sharing-revenue-with-openai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft To Stop Sharing Revenue With OpenAI](https://slashdot.org/story/26/04/27/1657250/microsoft-to-stop-sharing-revenue-with-openai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-27, 16:58:01](https://news.ycombinator.com/item?id=47924188) - [Canada&apos;s first sovereign wealth fund](https://www.cbc.ca/news/politics/sovereign-wealth-fund-carney-major-projects-9.7178238)
 * [2026-04-27, 16:57:34](https://news.ycombinator.com/item?id=47924181) - [Decoupled DiLoCo: Resilient, Distributed AI Training at Scale](https://deepmind.google/blog/decoupled-diloco/)
 * [2026-04-27, 16:42:24](https://lobste.rs/s/d27llp/why_not_just_use_lean) - [\&quot;Why not just use Lean?\&quot;](https://lawrencecpaulson.github.io/2026/04/23/Why_not_Lean.html)
 * [2026-04-27, 16:03:08](https://news.ycombinator.com/item?id=47923357) - [GitHub Copilot is moving to usage-based billing](https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/)
 * [2026-04-27, 16:00:00](https://news.slashdot.org/story/26/04/27/0335242/californias-billionaire-tax-has-the-signatures-to-make-the-ballot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [California&apos;s Billionaire Tax Has the Signatures to Make the Ballot](https://news.slashdot.org/story/26/04/27/0335242/californias-billionaire-tax-has-the-signatures-to-make-the-ballot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-27, 15:47:31](https://lobste.rs/s/kxnxyv/i_won_my_foia_against_twelve_south_open_up) - [I won my FOIA against Twelve South to open up the electrical information for the PlugBug 120W](https://archive.org/details/pb120-us)
-* [2026-04-27, 15:45:13](https://news.ycombinator.com/item?id=47923121) - [Supreme Court to Hear Arguments in Landmark Roundup Weedkiller Case](https://www.nytimes.com/2026/04/26/climate/supreme-court-bayer-monsanto-roundup-glyphosate.html)
+* [2026-04-27, 15:45:13](https://news.ycombinator.com/item?id=47923121) - [Supreme Court to hear arguments in landmark Roundup weedkiller case](https://www.nytimes.com/2026/04/26/climate/supreme-court-bayer-monsanto-roundup-glyphosate.html)
 * [2026-04-27, 15:36:12](https://news.ycombinator.com/item?id=47923010) - [Networking changes coming in macOS 27](https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/)
 * [2026-04-27, 15:33:00](https://soylentnews.org/article.pl?sid=26/04/26/0029226&amp;from=rss) - [Privacy Email Service Tuta Now Also Has Cloud Storage with Quantum-Resistant Encryption](https://soylentnews.org/article.pl?sid=26/04/26/0029226&amp;from=rss)
 * [2026-04-27, 15:31:36](https://news.ycombinator.com/item?id=47922957) - [The woes of sanitizing SVGs](https://muffin.ink/blog/scratch-svg-sanitization/)
 * [2026-04-27, 15:29:41](https://news.ycombinator.com/item?id=47922940) - [US Supreme Court reviews police use of cell location data](https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html)
-* [2026-04-27, 15:12:41](https://news.ycombinator.com/item?id=47922712) - [Dutch central bank ditches AWS and chooses Lidl for European Cloud](https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/)
 * [2026-04-27, 15:00:00](https://news.slashdot.org/story/26/04/27/0328257/deepseek-v4-arrives-with-near-state-of-the-art-intelligence-at-16th-the-cost?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DeepSeek V4 Arrives With Near State-of-the-Art Intelligence At 1/6th the Cost](https://news.slashdot.org/story/26/04/27/0328257/deepseek-v4-arrives-with-near-state-of-the-art-intelligence-at-16th-the-cost?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-27, 14:38:12](https://lobste.rs/s/5wxd5b/html_written_only_using_c_preprocessor) - [HTML written only using the C preprocessor](https://chaos.social/@citizen428/116138240021584394)
 * [2026-04-27, 14:25:42](https://lobste.rs/s/nmnp96/voice_modems) - [voice modems](https://computer.rip/2026-04-26-voice-modems.html)
 * [2026-04-27, 14:24:53](https://news.ycombinator.com/item?id=47922079) - [“Why not just use Lean?”](https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html)
 * [2026-04-27, 14:01:00](https://lobste.rs/s/esrk11/email_is_crazy) - [Email is crazy](https://samkhawase.com/blog/email-is-crazy/)
 * [2026-04-27, 13:55:43](https://news.ycombinator.com/item?id=47921626) - [Show HN: Utilyze – an open source GPU monitoring tool more accurate than nvtop](https://www.systalyze.com/utilyze)
-* [2026-04-27, 13:34:48](https://news.ycombinator.com/item?id=47921377) - [Tendril – a self-extending agent that builds and registers its own tools](https://github.com/serverless-dna/tendril)
 * [2026-04-27, 13:22:42](https://news.ycombinator.com/item?id=47921248) - [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai)
 * [2026-04-27, 12:50:05](https://lobste.rs/s/bwm12z/freebsd_device_driver_book) - [FreeBSD Device Driver Book](https://github.com/ebrandi/FDD-book)
 * [2026-04-27, 12:35:55](https://news.ycombinator.com/item?id=47920787) - [Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview](https://github.com/dirac-run/dirac)
-* [2026-04-27, 11:39:49](https://news.ycombinator.com/item?id=47920289) - [Show HN: A terminal spreadsheet editor with Vim keybindings](https://github.com/garritfra/cell)
+* [2026-04-27, 11:43:59](https://news.ycombinator.com/item?id=47920315) - [China blocks Meta&apos;s acquisition of AI startup Manus](https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html)
 * [2026-04-27, 11:14:00](https://news.slashdot.org/story/26/04/27/052242/america-now-has-70-more-bookstores-than-in-2020-says-bookshoporg-founder?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America Now Has 70% More Bookstores Than in 2020, Says Bookshop.org Founder](https://news.slashdot.org/story/26/04/27/052242/america-now-has-70-more-bookstores-than-in-2020-says-bookshoporg-founder?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-27, 11:08:26](https://news.ycombinator.com/item?id=47920074) - [Men who stare at walls](https://www.alexselimov.com/posts/men_who_stare_at_walls/)
 * [2026-04-27, 10:56:34](https://news.ycombinator.com/item?id=47919997) - [Pgbackrest is no longer being maintained](https://github.com/pgbackrest/pgbackrest)
@@ -128,35 +136,28 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-26, 23:28:05](https://lobste.rs/s/5dbg0u/hardenedbsd_is_now_officially_on_radicle) - [HardenedBSD Is Now Officially on Radicle](https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle)
 * [2026-04-26, 21:59:00](https://news.slashdot.org/story/26/04/26/2155259/elon-musk-vies-to-turn-x-into-super-app-with-banking-tool-near-launch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Elon Musk Vies to Turn X Into Super App With Banking Tool Near Launch](https://news.slashdot.org/story/26/04/26/2155259/elon-musk-vies-to-turn-x-into-super-app-with-banking-tool-near-launch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-26, 20:54:00](https://tech.slashdot.org/story/26/04/26/2038235/remembering-the-1984-unix-pc-why-did-it-fail-so-hard?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Remembering The 1984 Unix PC. Why Did It Fail So Hard?](https://tech.slashdot.org/story/26/04/26/2038235/remembering-the-1984-unix-pc-why-did-it-fail-so-hard?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-26, 20:41:06](https://news.ycombinator.com/item?id=47914165) - [I bought Friendster for $30k – Here&apos;s what I&apos;m doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d)
 * [2026-04-26, 20:34:00](https://soylentnews.org/article.pl?sid=26/04/25/1336233&amp;from=rss) - [Chinese Scientists Aim to Save Moore&apos;s Law by Mass-Growing 2D Materials That &apos;Outclass Silicon&apos;](https://soylentnews.org/article.pl?sid=26/04/25/1336233&amp;from=rss)
-* [2026-04-26, 20:03:12](https://news.ycombinator.com/item?id=47913650) - [AI should elevate your thinking, not replace it](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
-* [2026-04-26, 19:54:00](https://apple.slashdot.org/story/26/04/26/1951219/how-will-apple-change-under-its-new-ceo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Will Apple Change Under Its New CEO?](https://apple.slashdot.org/story/26/04/26/1951219/how-will-apple-change-under-its-new-ceo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-26, 19:35:38](https://lobste.rs/s/b2tvhe/why_future_doesn_t_need_us_bill_joy_2000) - [Why the Future Doesn&apos;t Need Us (Bill Joy, 2000)](https://web.archive.org/web/20160210081017/https://www.wired.com/2000/04/joy-2/)
 * [2026-04-26, 18:31:47](https://lobste.rs/s/fyev5y/smolwebifying_my_site) - [Smolwebifying my site](https://akselmo.dev/posts/smolwebifying-my-site/)
-* [2026-04-26, 18:06:00](https://linux.slashdot.org/story/26/04/26/184253/linux-version-of-frameworks-laptop-13-pro-is-outselling-its-windows-variant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linux Version of Framework&apos;s Laptop 13 Pro is Outselling Its Windows Variant](https://linux.slashdot.org/story/26/04/26/184253/linux-version-of-frameworks-laptop-13-pro-is-outselling-its-windows-variant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-26, 16:45:45](https://lobste.rs/s/v247np/dillo_release_3_3_0) - [Dillo release 3.3.0](https://dillo-browser.org/release/3.3.0/)
-* [2026-04-26, 16:34:00](https://science.slashdot.org/story/26/04/26/0815214/new-problem-for-nasas-lunar-gateway-corrosion-in-two-modules-caused-by-supplier?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Problem for NASA&apos;s &apos;Lunar Gateway&apos;:  Corrosion in Two Modules Caused by Supplier](https://science.slashdot.org/story/26/04/26/0815214/new-problem-for-nasas-lunar-gateway-corrosion-in-two-modules-caused-by-supplier?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-26, 15:53:00](https://soylentnews.org/article.pl?sid=26/04/25/1332245&amp;from=rss) - [The Surprising Origin of 4 Features That Superglue Kids and Adults to Screens](https://soylentnews.org/article.pl?sid=26/04/25/1332245&amp;from=rss)
-* [2026-04-26, 15:34:00](https://news.slashdot.org/story/26/04/25/066224/how-teachers-fight-students-shortening-attention-spans-shorter-activities-hands-on-projects-and-meditation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Teachers Fight Students&apos; Shortening Attention Spans  Shorter Activities, Hands-On Projects, and Meditation](https://news.slashdot.org/story/26/04/25/066224/how-teachers-fight-students-shortening-attention-spans-shorter-activities-hands-on-projects-and-meditation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-26, 14:22:59](https://lobste.rs/s/ukar7d/lua_can_be_really_cool_html_templating) - [Lua can be a really cool HTML templating engine](https://riki.house/lua-html)
 * [2026-04-26, 13:01:54](https://lobste.rs/s/viax22/fastest_linux_timestamps) - [The fastest Linux timestamps](https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/)
 * [2026-04-26, 12:10:21](https://lobste.rs/s/bzrow5/asahi_linux_progress_report_linux_7_0) - [Asahi Linux Progress Report: Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/)
 * [2026-04-26, 11:05:00](https://soylentnews.org/article.pl?sid=26/04/24/1514234&amp;from=rss) - [A New Liquid Battery Stores Solar Heat for Weeks](https://soylentnews.org/article.pl?sid=26/04/24/1514234&amp;from=rss)
-* [2026-04-26, 08:49:42](https://lobste.rs/s/cpu221/i_left_port_22_open_on_internet_for_54_days) - [I Left Port 22 Open on the Internet for 54 Days. Here&apos;s Who Showed Up](https://arman-bd.hashnode.dev/i-left-port-22-open-on-the-internet-for-54-days-here-s-who-showed-up)
+* [2026-04-26, 10:56:24](https://news.ycombinator.com/item?id=47909252) - [The Secret Life of NaN](https://anniecherkaev.com/the-secret-life-of-nan)
 * [2026-04-26, 06:20:00](https://soylentnews.org/article.pl?sid=26/04/24/1241239&amp;from=rss) - [European Civil Servants Are Being Forced Off WhatsApp](https://soylentnews.org/article.pl?sid=26/04/24/1241239&amp;from=rss)
+* [2026-04-26, 03:52:43](https://news.ycombinator.com/item?id=47907175) - [Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar](https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar)
 * [2026-04-26, 01:36:00](https://soylentnews.org/article.pl?sid=26/04/24/1238217&amp;from=rss) - [The Dumbest Hack of the Year Exposed a Very Real Problem](https://soylentnews.org/article.pl?sid=26/04/24/1238217&amp;from=rss)
+* [2026-04-25, 21:17:02](https://news.ycombinator.com/item?id=47904615) - [Magic by return of post: How mail order delivered the occult](https://publicdomainreview.org/essay/magic-by-return-of-post/)
 * [2026-04-25, 20:54:00](https://soylentnews.org/article.pl?sid=26/04/24/1234243&amp;from=rss) - [US Wants Rare Earth Independence From China — but Can DARPA Actually Make It Work?](https://soylentnews.org/article.pl?sid=26/04/24/1234243&amp;from=rss)
 * [2026-04-25, 19:53:41](https://news.ycombinator.com/item?id=47904053) - [Adding a team was the wrong strategic decision](https://learnings.aleixmorgadas.dev/p/adding-a-team-was-the-wrong-strategic)
-* [2026-04-25, 18:25:54](https://news.ycombinator.com/item?id=47903439) - [The Quiet Resurgence of RF Engineering](https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/)
+* [2026-04-25, 18:25:54](https://news.ycombinator.com/item?id=47903439) - [The quiet resurgence of RF engineering](https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/)
 * [2026-04-25, 16:08:00](https://soylentnews.org/article.pl?sid=26/04/24/1232232&amp;from=rss) - [Contrary to Popular Superstition, AES 128 is Just Fine in a Post](https://soylentnews.org/article.pl?sid=26/04/24/1232232&amp;from=rss)
 * [2026-04-25, 13:28:29](https://news.ycombinator.com/item?id=47901433) - [Fully Featured Audio DSP Firmware for the Raspberry Pi Pico](https://github.com/WeebLabs/DSPi)
 * [2026-04-25, 11:22:00](https://soylentnews.org/article.pl?sid=26/04/24/1227222&amp;from=rss) - [France Keeps Breaking the Internet to Stop Piracy, Even Though It&apos;s Not Working](https://soylentnews.org/article.pl?sid=26/04/24/1227222&amp;from=rss)
-* [2026-04-25, 07:11:55](https://news.ycombinator.com/item?id=47899399) - [Managing the Unmanaged Switch](https://watchmysys.com/blog/2026/03/managing-the-unmanaged-switch/)
 * [2026-04-25, 06:38:00](https://soylentnews.org/article.pl?sid=26/04/24/1220209&amp;from=rss) - [Physicists Witness Pinpricks of Darkness Moving Faster Than the Speed of Light ‪](https://soylentnews.org/article.pl?sid=26/04/24/1220209&amp;from=rss)
 * [2026-04-25, 01:56:00](https://soylentnews.org/article.pl?sid=26/04/24/0247228&amp;from=rss) - [Linux Mint Plans for Longer Development Cycle](https://soylentnews.org/article.pl?sid=26/04/24/0247228&amp;from=rss)
 * [2026-04-24, 21:08:00](https://soylentnews.org/article.pl?sid=26/04/24/0051247&amp;from=rss) - [With Navigating Nematodes, Scientists Map Out How Brains Implement Behaviors](https://soylentnews.org/article.pl?sid=26/04/24/0051247&amp;from=rss)
-* [2026-04-24, 17:45:52](https://news.ycombinator.com/item?id=47893516) - [Den stora Älgvandringen – The great moose migration (live)](https://www.svtplay.se/video/jXv3A5G/den-stora-algvandringen/idag-00-00)
 * [2026-04-24, 16:22:00](https://soylentnews.org/article.pl?sid=26/04/24/0045252&amp;from=rss) - [They Built the ‘Cursor for Hardware.’ Now, Anthropic Wants in](https://soylentnews.org/article.pl?sid=26/04/24/0045252&amp;from=rss)
 * [2026-04-24, 11:32:00](https://soylentnews.org/article.pl?sid=26/04/23/1143221&amp;from=rss) - [This Pasta Sauce Wants to Record Your Family](https://soylentnews.org/article.pl?sid=26/04/23/1143221&amp;from=rss)
 * [2026-04-24, 06:51:00](https://soylentnews.org/article.pl?sid=26/04/23/1139251&amp;from=rss) - [NASA Inspector Fears New Spacesuits Won&apos;t be Ready for Moon Landing](https://soylentnews.org/article.pl?sid=26/04/23/1139251&amp;from=rss)
