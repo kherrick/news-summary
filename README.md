@@ -1,54 +1,54 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Exploration and Discovery
+## Technology and Security
 
-* [Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar](https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar) - This fascinating find uncovers a rich history beneath the Bay of Gibraltar, with archaeologists discovering an array of ancient shipwrecks that bring light to the maritime history of the region.
+* [Bypassing DPI with eBPF, no VPN or proxy needed](https://bora.sh/bypassing-dpi-with-ebpf/) - Explore how eBPF, a powerful Linux kernel tool, can bypass Deep Packet Inspection without relying on VPNs or proxy services. [Comments](https://lobste.rs/s/mhflmp/bypassing_dpi_with_ebpf_no_vpn_proxy).
 
-## Science and Technology Breakthroughs
+* [How I Broke the Anti-Bot Behind Nike, Kick, and Twitch](https://emro.cat/blog/how-i-broke-the-anti-bot-behind-nike-kick-and-twitch/) - A detailed walkthrough of breaking an anti-bot system used by major platforms like Nike and Twitch. [Comments](https://lobste.rs/s/jpohft/how_i_broke_anti_bot_behind_nike_kick).
 
-* [Electric Field Tunes Vibrations to Ease Heat Transfer](https://soylentnews.org/article.pl?sid=26/04/26/1727213&amp;from=rss) - Scientists have unveiled a new technique where electric fields are used to tune vibrations, offering a novel way to improve thermal conductivity, potentially revolutionizing thermal management technologies.
+* [GTFOBins](https://gtfobins.org/) - Discover a curated list of Unix binaries that can be exploited by attackers to bypass security restrictions. [Comments](https://lobste.rs/s/5wj0a2/gtfobins).
 
-* [NASA's Curiosity Rover Found Promising Organic Chemicals on Mars](https://soylentnews.org/article.pl?sid=26/04/25/1727249&amp;from=rss) - In a significant leap for space exploration, NASA's Curiosity Rover has discovered organic compounds on Mars that may offer fresh leads in the search for extraterrestrial life.
+* [The woes of sanitizing SVGs](https://muffin.ink/blog/scratch-svg-sanitization/) - Challenges and lessons from sanitizing SVGs for security and preventing malicious attacks. [Comments](https://lobste.rs/s/foxx1z/woes_sanitizing_svgs).
 
-* [A Sun is Not Required to Generate Conditions Suitable for Life on Exoplanet Moons](https://soylentnews.org/article.pl?sid=26/04/26/1740233&amp;from=rss) - A compelling study suggests that life may thrive in extraterrestrial environments without the need for a sun, focusing on habitable moons around distant planets.
+## Scientific Discoveries and Innovations
 
-## Open Source and Development
+* [A Sun is Not Required to Generate Conditions Suitable for Life on Exoplanet Moons](https://soylentnews.org/article.pl?sid=26/04/26/1740233&amp;from=rss) - A groundbreaking study suggests that moons can develop life-sustaining conditions without the need for a parent star. [Comments](https://soylentnews.org/article.pl?sid=26/04/26/1740233&amp;from=rss).
 
-* [Donating to open source](https://entropicthoughts.com/open-source-donation) - A thoughtful look at the importance of financial contributions to open source projects and how it can sustain and benefit the community.
+* [The Silent Frequency That Makes Old Buildings Feel Haunted](https://science.slashdot.org/story/26/04/28/0413216/the-silent-frequency-that-makes-old-buildings-feel-haunted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Researchers explore the phenomenon of inaudible frequencies that could contribute to claims of haunted buildings. [Comments](https://science.slashdot.org/story/26/04/28/0413216/the-silent-frequency-that-makes-old-buildings-feel-haunted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Easyduino: Open Source PCB Devboards for KiCad](https://github.com/Hanqaqa/Easyduino) - Introducing a new initiative to simplify the process of creating open-source PCB development boards using KiCad.
+* [Electric Field Tunes Vibrations to Ease Heat Transfer](https://soylentnews.org/article.pl?sid=26/04/26/1727213&amp;from=rss) - Learn how adjusting electric fields can enhance heat transfer mechanisms in materials. [Comments](https://soylentnews.org/article.pl?sid=26/04/26/1727213&amp;from=rss).
 
-* [Pgrx: Build Postgres Extensions with Rust](https://github.com/pgcentralfoundation/pgrx) - A project that allows developers to build first-class Postgres extensions using Rust programming language, bridging traditional database systems with modern development tools.
+* [Physicists Witness Pinpricks of Darkness Moving Faster Than the Speed of Light](https://soylentnews.org/article.pl?sid=26/04/24/1220209&amp;from=rss) - A novel phenomenon has been observed by physicists that challenges established notions of light speed. [Comments](https://soylentnews.org/article.pl?sid=26/04/24/1220209&amp;from=rss).
 
-## Tech Insights and Developments
+## Programming, Tools, and Development
 
-* [How I Broke the Anti-Bot Behind Nike, Kick, and Twitch](https://emro.cat/blog/how-i-broke-the-anti-bot-behind-nike-kick-and-twitch/) - A deep dive into a developer's journey of bypassing anti-bot systems used by major platforms like Nike and Twitch, revealing a fascinating perspective on cybersecurity loopholes.
+* [High Performance Git](https://gitperf.com/) - Dive into Git performance optimization techniques and tools for power users. [Comments](https://lobste.rs/s/ub60jl/high_performance_git).
 
-* [GitHub Actions is the weakest link](https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html) - A detailed critique on the vulnerabilities and challenges within GitHub Actions, raising significant concerns about security and process.
+* [WASM is not quite a stack machine](https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/) - Explaining why WebAssembly doesn't completely fit the definition of a traditional stack machine. [Comments](https://lobste.rs/s/h8hlp7/wasm_is_not_quite_stack_machine).
 
-## Cultural and Social Dynamics
+* [HTML written only using the C preprocessor](https://chaos.social/@citizen428/116138240021584394) - A unique approach to using C preprocessor directives for writing HTML templates. [Comments](https://lobste.rs/s/5wxd5b/html_written_only_using_c_preprocessor).
 
-* [The Social Edge of Intelligence: Individual Gain, Collective Loss](https://www.theideasletter.org/essay/the-social-edge-of-intelligence/) - A thought-provoking essay examining the societal consequences of intelligence being used for individual advantage at the expense of collective benefit.
+* [LingBot-Map: Streaming 3D reconstruction with geometric context transformer](https://technology.robbyant.com/lingbot-map) - Presentation of a novel AI-driven method for real-time 3D environment mapping and analysis. [Comments](https://news.ycombinator.com/item?id=47930170).
 
-* [In Kannauj, perfumers have been making monsoon-infused mitti attar for centuries](https://www.atlasobscura.com/articles/smell-of-rain-kannauj-perfume-mitti-attar-india) - A fascinating story of the traditional craft of creating 'mitti attar,' a scent capturing the essence of rain, which has been preserved through generations in Kannauj, India.
+## Business and Tech Policy
 
-## Emerging Technologies and Innovations
+* [Trump Administration Will Pay More Energy Firms to Cancel Wind Farms](https://hardware.slashdot.org/story/26/04/28/041256/trump-administration-will-pay-more-energy-firms-to-cancel-wind-farms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A contentious policy change causes backlash over the decision to pay energy firms to cancel renewable projects. [Comments](https://hardware.slashdot.org/story/26/04/28/041256/trump-administration-will-pay-more-energy-firms-to-cancel-wind-farms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [LingBot-Map: Streaming 3D reconstruction with geometric context transformer](https://technology.robbyant.com/lingbot-map) - Discover the capabilities of LingBot-Map, a new tool utilizing cutting-edge geometric context transformers to perform real-time three-dimensional reconstruction.
+* [EU Tells Google To Open Up AI On Android; Google Says That's 'Unwarranted Intervention'](https://tech.slashdot.org/story/26/04/27/2113232/eu-tells-google-to-open-up-ai-on-android-google-says-thats-unwarranted-intervention?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Regulatory tensions arise as the EU seeks greater access to Google's AI capabilities. [Comments](https://tech.slashdot.org/story/26/04/27/2113232/eu-tells-google-to-open-up-ai-on-android-google-says-thats-unwarranted-intervention?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Building a threadiverse community platform](https://fedify.dev/tutorial/threadiverse) - An effort to create a user-oriented and decentralized community platform, blending aspects of online forums with modern technology.
+* [Big Tech Group Jumps The Gun On Unreleased Bill](https://soylentnews.org/politics/article.pl?sid=26/04/26/0032224&amp;from=rss) - Concerns mount over the cozy relationship between Big Tech and lawmakers following a preemptive action on an unpassed bill. [Comments](https://soylentnews.org/politics/article.pl?sid=26/04/26/0032224&amp;from=rss).
 
-* [4TB of voice samples just stolen from 40k AI contractors at Mercor](https://app.oravys.com/blog/mercor-breach-2026) - A critical security incident revealing the theft of a massive database of voice samples, raising alarms about data privacy and cybersecurity among AI models.
+* [Microsoft To Stop Sharing Revenue With OpenAI](https://slashdot.org/story/26/04/27/1657250/microsoft-to-stop-sharing-revenue-with-openai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Major partnership shift reveals Microsoft's decision to end its revenue-sharing agreement with OpenAI. [Comments](https://slashdot.org/story/26/04/27/1657250/microsoft-to-stop-sharing-revenue-with-openai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-## Policy and Legal Issues
+## Environmental and Space Insights
 
-* [Supreme Court Reviews Police Use of Cell Location Data To Find Criminals](https://yro.slashdot.org/story/26/04/27/1721238/supreme-court-reviews-police-use-of-cell-location-data-to-find-criminals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A reflective case examining how law enforcement's use of cell location data intersects with privacy rights and justice.
+* [NASA's Curiosity Rover Found Promising Organic Chemicals on Mars](https://soylentnews.org/article.pl?sid=26/04/25/1727249&amp;from=rss) - New discoveries fuel the quest for evidence of life on the red planet, with intriguing organic chemicals found. [Comments](https://soylentnews.org/article.pl?sid=26/04/25/1727249&amp;from=rss).
 
-* [Big Tech Group Jumps The Gun On Unreleased Bill, Raising Questions About Cozy Ties With Lawmakers](https://soylentnews.org/politics/article.pl?sid=26/04/26/0032224&amp;from=rss) - A provocative revelation of influential organizations showing advanced knowledge of unreleased legislation, sparking concerns about political lobbying.
+* [A New Liquid Battery Stores Solar Heat for Weeks](https://soylentnews.org/article.pl?sid=26/04/24/1514234&amp;from=rss) - This innovative liquid battery aims to revolutionize renewable energy storage by storing solar energy for weeks. [Comments](https://soylentnews.org/article.pl?sid=26/04/24/1514234&amp;from=rss).
 
-## Unusual and Quirky
+* [Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar](https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar) - Researchers uncover ancient shipwrecks that unveil secrets of maritime history. [Comments](https://news.ycombinator.com/item?id=47907175).
 
-* [The Silent Frequency That Makes Old Buildings Feel Haunted](https://science.slashdot.org/story/26/04/28/0413216/the-silent-frequency-that-makes-old-buildings-feel-haunted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Unravel the science behind the eerie sensations experienced in ancient buildings, attributed to low-frequency sounds that play tricks on our minds and bodies.
+* [Two Hot Climate Tech Startups Just Raised $1 Billion+ in IPOs](https://news.slashdot.org/story/26/04/27/0437225/two-hot-climate-tech-startups-just-raised-1-billion-in-ipos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Significant investment highlights the booming interest and innovation in climate technology solutions. [Comments](https://news.slashdot.org/story/26/04/27/0437225/two-hot-climate-tech-startups-just-raised-1-billion-in-ipos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
 ---
 
@@ -75,6 +75,9 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-04-28, 12:34:00](https://lobste.rs/s/mhflmp/bypassing_dpi_with_ebpf_no_vpn_proxy) - [Bypassing DPI with eBPF, no VPN or proxy needed](https://bora.sh/bypassing-dpi-with-ebpf/)
+* [2026-04-28, 11:21:35](https://lobste.rs/s/omgaso/hal_by_any_other_name) - [HAL by any other name](https://www.zarl.dev/posts/hal-by-any-other-name)
+* [2026-04-28, 11:20:06](https://lobste.rs/s/tknct7/update_on_github_availability) - [An update on GitHub availability](https://github.blog/news-insights/company-news/an-update-on-github-availability/)
 * [2026-04-28, 11:00:00](https://science.slashdot.org/story/26/04/28/0413216/the-silent-frequency-that-makes-old-buildings-feel-haunted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Silent Frequency That Makes Old Buildings Feel Haunted](https://science.slashdot.org/story/26/04/28/0413216/the-silent-frequency-that-makes-old-buildings-feel-haunted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-28, 10:50:00](https://lobste.rs/s/ngogon/github_actions_is_weakest_link) - [GitHub Actions is the weakest link](https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html)
 * [2026-04-28, 10:21:43](https://lobste.rs/s/tchcjd/fosdem_2026_all_fosdem_2026_videos_are) - [FOSDEM 2026 - All FOSDEM 2026 videos are online](https://fosdem.org/2026/news/2026-04-26-all-videos-published/)
@@ -128,7 +131,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-27, 10:56:34](https://news.ycombinator.com/item?id=47919997) - [Pgbackrest is no longer being maintained](https://github.com/pgbackrest/pgbackrest)
 * [2026-04-27, 10:51:27](https://lobste.rs/s/uf38bg/niri_v26_04) - [Niri v26.04](https://github.com/niri-wm/niri/releases/tag/v26.04)
 * [2026-04-27, 10:49:00](https://soylentnews.org/article.pl?sid=26/04/25/1736211&amp;from=rss) - [Surveillance Pricing Set to be Banned in Maryland. Could This be the End of the Predatory Retail?](https://soylentnews.org/article.pl?sid=26/04/25/1736211&amp;from=rss)
-* [2026-04-27, 10:43:00](https://lobste.rs/s/kjk44q/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kjk44q/what_are_you_doing_this_week)
 * [2026-04-27, 10:32:05](https://lobste.rs/s/00eboi/httpxyz_one_month) - [httpxyz one month in](https://tildeweb.nl/~michiel/httpxyz-one-month-in.html)
 * [2026-04-27, 10:15:17](https://news.ycombinator.com/item?id=47919733) - [FDA approves first gene therapy for treatment of genetic hearing loss](https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher)
 * [2026-04-27, 09:57:10](https://news.ycombinator.com/item?id=47919630) - [4TB of voice samples just stolen from 40k AI contractors at Mercor](https://app.oravys.com/blog/mercor-breach-2026)
@@ -140,10 +142,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-27, 06:04:00](https://soylentnews.org/article.pl?sid=26/04/25/1727249&amp;from=rss) - [NASA&apos;s Curiosity Rover Found Promising Organic Chemicals on Mars](https://soylentnews.org/article.pl?sid=26/04/25/1727249&amp;from=rss)
 * [2026-04-27, 03:34:00](https://news.slashdot.org/story/26/04/27/0210243/right-to-repair-laws-gain-political-momentum-across-america?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Right-to-Repair Laws Gain Political Momentum Across America](https://news.slashdot.org/story/26/04/27/0210243/right-to-repair-laws-gain-political-momentum-across-america?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-27, 01:20:00](https://soylentnews.org/article.pl?sid=26/04/25/1722204&amp;from=rss) - [The Newest Influencer Health Hack? Nicotine](https://soylentnews.org/article.pl?sid=26/04/25/1722204&amp;from=rss)
-* [2026-04-26, 23:28:05](https://lobste.rs/s/5dbg0u/hardenedbsd_is_now_officially_on_radicle) - [HardenedBSD Is Now Officially on Radicle](https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle)
 * [2026-04-26, 20:37:19](https://news.ycombinator.com/item?id=47914118) - [In Kannauj, perfumers have been making monsoon-infused mitti attar for centuries](https://www.atlasobscura.com/articles/smell-of-rain-kannauj-perfume-mitti-attar-india)
 * [2026-04-26, 20:34:00](https://soylentnews.org/article.pl?sid=26/04/25/1336233&amp;from=rss) - [Chinese Scientists Aim to Save Moore&apos;s Law by Mass-Growing 2D Materials That &apos;Outclass Silicon&apos;](https://soylentnews.org/article.pl?sid=26/04/25/1336233&amp;from=rss)
-* [2026-04-26, 18:31:47](https://lobste.rs/s/fyev5y/smolwebifying_my_site) - [Smolwebifying my site](https://akselmo.dev/posts/smolwebifying-my-site/)
 * [2026-04-26, 15:53:00](https://soylentnews.org/article.pl?sid=26/04/25/1332245&amp;from=rss) - [The Surprising Origin of 4 Features That Superglue Kids and Adults to Screens](https://soylentnews.org/article.pl?sid=26/04/25/1332245&amp;from=rss)
 * [2026-04-26, 14:22:59](https://lobste.rs/s/ukar7d/lua_can_be_really_cool_html_templating) - [Lua can be a really cool HTML templating engine](https://riki.house/lua-html)
 * [2026-04-26, 11:05:00](https://soylentnews.org/article.pl?sid=26/04/24/1514234&amp;from=rss) - [A New Liquid Battery Stores Solar Heat for Weeks](https://soylentnews.org/article.pl?sid=26/04/24/1514234&amp;from=rss)
