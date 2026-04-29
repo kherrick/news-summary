@@ -1,64 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and AI
+## Cybersecurity and Exploits
 
-* [An AI agent just deleted a company’s entire database during routine task](https://www.independent.co.uk/tech/claude-ai-agent-deletes-startup-anthropic-b2966176.html) - An AI mishap leads to devastating consequences as a company’s entire database is wiped out by an AI agent during a supposed routine task.
+* [RIPE NCC RPKI exploit chain](https://mxsasha.eu/posts/ripe-ncc-rpki-exploit-chain/) - Explores a chain of vulnerabilities in the RIPE NCC RPKI infrastructure with potential consequences for internet infrastructure. [Comments](https://lobste.rs/s/ewwdm4/ripe_ncc_rpki_exploit_chain)
 
-* [How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/) - Insightful analysis on how ChatGPT integrates advertisement models within its conversational AI interface.
+* [Github RCE Vulnerability: CVE-2026-3854 Breakdown](https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854) - A detailed breakdown of a recently disclosed remote code execution vulnerability in GitHub Actions and its implications. [Comments](https://news.ycombinator.com/item?id=47936479)
 
-* [Musk Testifies OpenAI Was Created As Nonprofit To Counter Google](https://yro.slashdot.org/story/26/04/29/0311202/musk-testifies-openai-was-created-as-nonprofit-to-counter-google?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Elon Musk discusses the foundational philosophy behind OpenAI as a countermeasure to Google’s potential AI dominance.
+## Technology and Development
 
-* [New Report Finds Some Babies Spend Up To Eight Hours a Day on Screens](https://mobile.slashdot.org/story/26/04/29/0334222/new-report-finds-some-babies-spend-up-to-eight-hours-a-day-on-screens?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A concerning study highlights the extensive screen time among babies and the implications for early childhood development.
+* [Warp is now open-source](https://www.warp.dev/blog/warp-is-now-open-source) - Warp, a terminal reinvented for modern workloads, is now open-sourced to encourage collaboration and customization. [Comments](https://lobste.rs/s/ccbjxb/warp_is_now_open_source)
 
-* [The Bloomberg Terminal Is Getting an AI Makeover](https://news.slashdot.org/story/26/04/28/1832202/the-bloomberg-terminal-is-getting-an-ai-makeover?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The renowned Bloomberg Terminal enters the AI era with new advancements to boost analytics and user experience.
+* [Soft launch of open-source code platform for government](https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/) - A new initiative launched to support governmental use of open-source tools. [Comments](https://news.ycombinator.com/item?id=47945918)
 
-## Programming and Open Source
+## Ethics, Platforms, and Content
 
-* [Warp is now open-source](https://www.warp.dev/blog/warp-is-now-open-source) - The Warp terminal, celebrated for its modern developer-focused features, is now open source, inviting further innovations from the community.
+* [Github banned me for no understandable reason](https://blog.hellbeast.eu.org/Github%20banned%20me%20for%20no%20understandable%20reason) - Personal recount of unexplained GitHub account suspension written by a user. [Comments](https://lobste.rs/s/tz1ra7/github_banned_me_for_no_understandable)
 
-* [GitHub RCE Vulnerability: CVE-2026-3854 Breakdown](https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854) - A deep dive into the recent GitHub remote code execution vulnerability, providing insights and prevention measures.
+* [Who Owns the Code Claude Wrote?](https://legallayer.substack.com/p/who-owns-the-claude-code-wrote) - Delves into legal implications surrounding ownership of AI-generated code. [Comments](https://news.ycombinator.com/item?id=47932937)
 
-* [Bugs Rust won’t catch](https://corrode.dev/blog/bugs-rust-wont-catch/) - Examines the limitations of the Rust programming language in addressing certain categories of software bugs.
+## Innovative Use of Technology
 
-* [Illegal vs Unwanted States](https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/) - Explores programming paradigms and the distinction between illegal and unwanted states in software logic.
+* [Apple Vision Pro Used In World-First Cataract Surgery](https://science.slashdot.org/story/26/04/28/1923255/apple-vision-pro-used-in-world-first-cataract-surgery?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Apple’s Vision Pro headset was used as an assistive tool in revolutionary cataract surgery. [Comments](https://science.slashdot.org/story/26/04/28/1923255/apple-vision-pro-used-in-world-first-cataract-surgery?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation](https://dl.acm.org/doi/abs/10.1145/3767295.3803591) - Technical insights into reducing compilation costs through efficient register allocation in LLVM-based systems.
+* [Using a 1978 terminal in 2026 (DEC VT-100)](https://nikhiljha.com/posts/vt100/) - A surprising exploration of how a 45-year-old terminal can be repurposed for modern-day use. [Comments](https://lobste.rs/s/nrbfzz/using_1978_terminal_2026_dec_vt_100)
 
-## Privacy and Cybersecurity
+## Social Impacts of Technology
 
-* [Firefox Has Quietly Integrated Brave’s Adblock Engine](https://soylentnews.org/article.pl?sid=26/04/28/0551255&from=rss) - In a surprising integration, Firefox has adopted key features of Brave browser's ad-blocking engine.
+* [New Report Finds Some Babies Spend Up To Eight Hours a Day on Screens](https://mobile.slashdot.org/story/26/04/29/0334222/new-report-finds-some-babies-spend-up-to-eight-hours-a-day-on-screens?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A concerning report sheds light on extended screen time and its implications for early childhood development. [Comments](https://mobile.slashdot.org/story/26/04/29/0334222/new-report-finds-some-babies-spend-up-to-eight-hours-a-day-on-screens?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [HardenedBSD Is Now Officially on Radicle](https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle) - A milestone for the security-focused platform HardenedBSD as it joins the decentralized code collaboration network, Radicle.
+* [The Surprising Origin of 4 Features That Superglue Kids and Adults to Screens](https://soylentnews.org/article.pl?sid=26/04/25/1332245&amp;from=rss) - Investigates features in technology that create strong psychological pulls for constant use. [Comments](https://soylentnews.org/article.pl?sid=26/04/25/1332245&amp;from=rss)
 
-* [Ditching GitHub](https://lonami.dev/blog/ditching-github/) - A developer shares their reasoning and journey behind moving away from GitHub for alternatives.
+## Environmental Science and Space
 
-* [Update on GitHub availability](https://github.blog/news-insights/company-news/an-update-on-github-availability/) - GitHub provides a status update on its availability and reliability after a recent incident.
+* [NASA Shut Down Voyager 1 Science Instrument After Unexpected Power Drop](https://soylentnews.org/article.pl?sid=26/04/28/0547234&amp;from=rss) - NASA takes steps to preserve the Voyager 1 mission amid an unexplained energy loss. [Comments](https://soylentnews.org/article.pl?sid=26/04/28/0547234&amp;from=rss)
 
-* [Donating to open source](https://entropicthoughts.com/open-source-donation) - Delving into the ethics and methods of supporting the open-source community monetarily.
+* [NASA's Curiosity Rover Found Promising Organic Chemicals on Mars](https://soylentnews.org/article.pl?sid=26/04/25/1727249&amp;from=rss) - The Curiosity Rover uncovers new clues about potential signs of life on Mars. [Comments](https://soylentnews.org/article.pl?sid=26/04/25/1727249&amp;from=rss)
 
-## Science and Innovation
+## Cultural and Digital History
 
-* [NASA Shut Down Voyager 1 Science Instrument After Unexpected Power Drop](https://soylentnews.org/article.pl?sid=26/04/28/0547234&from=rss) - NASA makes critical adjustments to Voyager 1 as power availability decreases, ensuring its legacy in space exploration continues.
+* [When the Internet Was a Place](https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/) - A nostalgic reflection on how online space has transformed over the years. [Comments](https://news.ycombinator.com/item?id=47943190)
 
-* [A New Liquid Battery Stores Solar Heat for Weeks](https://soylentnews.org/article.pl?sid=26/04/24/1514234&from=rss) - Innovators develop a liquid battery capable of storing solar energy long-term, paving the way for sustainable energy evolution.
-
-* [Gallium oxide electronics withstand extreme cold](https://discovery.kaust.edu.sa/en/article/26858/gallium-oxide-electronics-withstand-extreme-cold/) - Gallium oxide-based electronics push the limits by operating efficiently in extreme cold environments, with potential applications in space and polar research.
-
-* [Electric Field Tunes Vibrations to Ease Heat Transfer](https://soylentnews.org/article.pl?sid=26/04/26/1727213&from=rss) - Discovering how manipulating vibrations with electric fields can revolutionize heat transfer technologies.
-
-* [Someone Made a Windows 95 Subsystem for Linux](https://soylentnews.org/article.pl?sid=26/04/26/1853229&from=rss) - A quirky integration of vintage Windows systems onto modern Linux platforms sparks both nostalgia and innovation discussions.
-
-## Cultural and Historical Perspectives
-
-* [When the Internet Was a Place](https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/) - Reflecting nostalgically on the early days of the internet as a communal and explorative space.
-
-* [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/) - A look at the landscape of code sharing and collaboration before the advent of GitHub.
-
-* [I won a championship that doesn’t exist](https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/) - A whimsical recounting of a mythic, imaginary championship and its intriguing implications.
-
-* [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie) - Introducing an anachronistic language model concept – blending modern technology with vintage aesthetics.
-
-* [The Day I Logged 1 In Every 2000 Public IPv4: Visualizing The AI Scraper DDoS](https://vulpinecitrus.info/blog/one-in-every-2000-ipv4-visualizing-ddos-ai-web-scrapers/) - A vivid exploration of the dramatic effects of AI-driven web scrapers and distributed denial-of-service attacks.
+* [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/) - An essay chronicling the history of version control and software collaboration before GitHub's era. [Comments](https://lobste.rs/s/bui1eh/before_github)
 
 ---
 
@@ -85,8 +67,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-04-29, 10:16:11](https://lobste.rs/s/ewwdm4/ripe_ncc_rpki_exploit_chain) - [RIPE NCC RPKI exploit chain](https://mxsasha.eu/posts/ripe-ncc-rpki-exploit-chain/)
+* [2026-04-29, 10:06:32](https://lobste.rs/s/tz1ra7/github_banned_me_for_no_understandable) - [Github banned me for no understandable reason](https://blog.hellbeast.eu.org/Github%20banned%20me%20for%20no%20understandable%20reason)
+* [2026-04-29, 09:21:32](https://news.ycombinator.com/item?id=47945955) - [Show HN: Rip.so – a graveyard for dead internet things](https://rip.so)
+* [2026-04-29, 09:14:37](https://news.ycombinator.com/item?id=47945918) - [Soft launch of open-source code platform for government](https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/)
+* [2026-04-29, 09:03:31](https://news.ycombinator.com/item?id=47945861) - [Why Law Is Law-Shaped](https://lawvm.org/why-law-is-law-shaped/)
+* [2026-04-29, 08:43:45](https://lobste.rs/s/tzqafn/why_i_still_reach_for_lisp_scheme_instead) - [Why I Still Reach for Lisp (&amp; Scheme) Instead of Haskell](https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html)
+* [2026-04-29, 08:16:37](https://news.ycombinator.com/item?id=47945522) - [Tell HN: An update from the new Tindie team](https://news.ycombinator.com/item?id=47945522)
 * [2026-04-29, 08:07:16](https://lobste.rs/s/9bkq7o/day_i_logged_1_every_2000_public_ipv4) - [The Day I Logged 1 In Every 2000 Public IPv4: Visualizing The AI Scraper DDoS](https://vulpinecitrus.info/blog/one-in-every-2000-ipv4-visualizing-ddos-ai-web-scrapers/)
-* [2026-04-29, 07:31:00](https://news.ycombinator.com/item?id=47945192) - [Wire to Replace Signal as Standard in the Bundestag](https://www.heise.de/en/news/Digital-Sovereignty-Wire-to-Replace-Signal-as-Standard-in-the-Bundestag-11275755.html)
 * [2026-04-29, 07:00:00](https://mobile.slashdot.org/story/26/04/29/0334222/new-report-finds-some-babies-spend-up-to-eight-hours-a-day-on-screens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Report Finds Some Babies Spend Up To Eight Hours a Day on Screens](https://mobile.slashdot.org/story/26/04/29/0334222/new-report-finds-some-babies-spend-up-to-eight-hours-a-day-on-screens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-29, 06:47:53](https://news.ycombinator.com/item?id=47944931) - [Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation](https://dl.acm.org/doi/abs/10.1145/3767295.3803591)
 * [2026-04-29, 06:38:44](https://news.ycombinator.com/item?id=47944864) - [HardenedBSD Is Now Officially on Radicle](https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle)
@@ -98,7 +86,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-29, 01:36:52](https://news.ycombinator.com/item?id=47943190) - [When the Internet Was a Place](https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/)
 * [2026-04-29, 01:26:00](https://soylentnews.org/article.pl?sid=26/04/28/0547234&amp;from=rss) - [NASA Shut Down Voyager 1 Science Instrument After Unexpected Power Drop](https://soylentnews.org/article.pl?sid=26/04/28/0547234&amp;from=rss)
 * [2026-04-29, 01:11:54](https://lobste.rs/s/a50exb/code_golfing_riki_s_html_templating) - [Code-golfing riki&apos;s HTML templating engine in Julia](https://gist.github.com/OTDE/96584a4a83c73fb02e463eef83170cc3)
-* [2026-04-29, 00:04:13](https://lobste.rs/s/ontr2p/ai_agent_just_deleted_company_s_entire) - [An AI agent just deleted a company’s entire database during routine task](https://www.independent.co.uk/tech/claude-ai-agent-deletes-startup-anthropic-b2966176.html)
 * [2026-04-28, 23:59:57](https://news.ycombinator.com/item?id=47942492) - [Regression: malware reminder on every read still causes subagent refusals](https://github.com/anthropics/claude-code/issues/49363)
 * [2026-04-28, 23:54:14](https://news.ycombinator.com/item?id=47942437) - [How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)
 * [2026-04-28, 23:43:53](https://news.ycombinator.com/item?id=47942353) - [Apple CMF (Color-Matching Functions) 2026](https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results)
@@ -117,9 +104,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-28, 19:44:52](https://news.ycombinator.com/item?id=47939579) - [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
 * [2026-04-28, 19:24:43](https://news.ycombinator.com/item?id=47939320) - [OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs](https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/)
 * [2026-04-28, 19:19:50](https://lobste.rs/s/nrbfzz/using_1978_terminal_2026_dec_vt_100) - [Using a 1978 terminal in 2026 (DEC VT-100)](https://nikhiljha.com/posts/vt100/)
-* [2026-04-28, 19:10:14](https://news.ycombinator.com/item?id=47939105) - [CJIT: C, Just in Time](https://dyne.org/cjit/)
 * [2026-04-28, 19:00:00](https://news.slashdot.org/story/26/04/28/1832202/the-bloomberg-terminal-is-getting-an-ai-makeover?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Bloomberg Terminal Is Getting an AI Makeover](https://news.slashdot.org/story/26/04/28/1832202/the-bloomberg-terminal-is-getting-an-ai-makeover?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-28, 18:57:56](https://lobste.rs/s/8fxgx7/github_rce_vulnerability_cve_2026_3854) - [GitHub RCE Vulnerability: CVE-2026-3854 Breakdown](https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854)
 * [2026-04-28, 18:40:00](https://soylentnews.org/article.pl?sid=26/04/26/1853229&amp;from=rss) - [Someone Made a Windows 95 Subsystem for Linux](https://soylentnews.org/article.pl?sid=26/04/26/1853229&amp;from=rss)
 * [2026-04-28, 18:00:00](https://tech.slashdot.org/story/26/04/28/1634227/google-and-pentagon-reportedly-agree-on-deal-for-any-lawful-use-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google and Pentagon Reportedly Agree On Deal For &apos;Any Lawful&apos; Use of AI](https://tech.slashdot.org/story/26/04/28/1634227/google-and-pentagon-reportedly-agree-on-deal-for-any-lawful-use-of-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-28, 17:12:30](https://news.ycombinator.com/item?id=47937380) - [Show HN: Auto-Architecture: Karpathy&apos;s Loop, pointed at a CPU](https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md)
@@ -145,7 +130,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-28, 11:00:00](https://science.slashdot.org/story/26/04/28/0413216/the-silent-frequency-that-makes-old-buildings-feel-haunted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Silent Frequency That Makes Old Buildings Feel Haunted](https://science.slashdot.org/story/26/04/28/0413216/the-silent-frequency-that-makes-old-buildings-feel-haunted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-28, 10:50:00](https://lobste.rs/s/ngogon/github_actions_is_weakest_link) - [GitHub Actions is the weakest link](https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html)
 * [2026-04-28, 10:21:43](https://lobste.rs/s/tchcjd/fosdem_2026_all_fosdem_2026_videos_are) - [FOSDEM 2026 - All FOSDEM 2026 videos are online](https://fosdem.org/2026/news/2026-04-26-all-videos-published/)
-* [2026-04-28, 10:05:03](https://news.ycombinator.com/item?id=47932422) - [An update on GitHub availability](https://github.blog/news-insights/company-news/an-update-on-github-availability/)
 * [2026-04-28, 09:43:40](https://lobste.rs/s/exlogg/jjj) - [jjj](https://oppi.li/posts/jjj/)
 * [2026-04-28, 09:22:00](https://soylentnews.org/article.pl?sid=26/04/26/1740233&amp;from=rss) - [A Sun is Not Required to Generate Conditions Suitable for Life on Exoplanet Moons](https://soylentnews.org/article.pl?sid=26/04/26/1740233&amp;from=rss)
 * [2026-04-28, 07:00:00](https://hardware.slashdot.org/story/26/04/28/041256/trump-administration-will-pay-more-energy-firms-to-cancel-wind-farms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Administration Will Pay More Energy Firms to Cancel Wind Farms](https://hardware.slashdot.org/story/26/04/28/041256/trump-administration-will-pay-more-energy-firms-to-cancel-wind-farms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -158,7 +142,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-27, 20:20:00](https://soylentnews.org/politics/article.pl?sid=26/04/26/0032224&amp;from=rss) - [Big Tech Group Jumps The Gun On Unreleased Bill, Raising Questions About Cozy Ties With Lawmakers](https://soylentnews.org/politics/article.pl?sid=26/04/26/0032224&amp;from=rss)
 * [2026-04-27, 19:27:47](https://news.ycombinator.com/item?id=47926148) - [Withnail&apos;s Coat and I](https://ontherow.substack.com/p/withnails-coat-and-i)
 * [2026-04-27, 15:33:00](https://soylentnews.org/article.pl?sid=26/04/26/0029226&amp;from=rss) - [Privacy Email Service Tuta Now Also Has Cloud Storage with Quantum-Resistant Encryption](https://soylentnews.org/article.pl?sid=26/04/26/0029226&amp;from=rss)
-* [2026-04-27, 14:01:00](https://lobste.rs/s/esrk11/email_is_crazy) - [Email is crazy](https://samkhawase.com/blog/email-is-crazy/)
 * [2026-04-27, 13:54:47](https://news.ycombinator.com/item?id=47921610) - [Behavioral timescale synaptic plasticity rewires the brain after an experience](https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/)
 * [2026-04-27, 12:17:19](https://news.ycombinator.com/item?id=47920599) - [We still don&apos;t have a more precise value for \&quot;Big G\&quot;](https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/)
 * [2026-04-27, 11:31:20](https://news.ycombinator.com/item?id=47920214) - [Gallium oxide electronics withstand extreme cold](https://discovery.kaust.edu.sa/en/article/26858/gallium-oxide-electronics-withstand-extreme-cold/)
@@ -169,7 +152,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-26, 15:53:00](https://soylentnews.org/article.pl?sid=26/04/25/1332245&amp;from=rss) - [The Surprising Origin of 4 Features That Superglue Kids and Adults to Screens](https://soylentnews.org/article.pl?sid=26/04/25/1332245&amp;from=rss)
 * [2026-04-26, 11:05:00](https://soylentnews.org/article.pl?sid=26/04/24/1514234&amp;from=rss) - [A New Liquid Battery Stores Solar Heat for Weeks](https://soylentnews.org/article.pl?sid=26/04/24/1514234&amp;from=rss)
 * [2026-04-26, 06:20:00](https://soylentnews.org/article.pl?sid=26/04/24/1241239&amp;from=rss) - [European Civil Servants Are Being Forced Off WhatsApp](https://soylentnews.org/article.pl?sid=26/04/24/1241239&amp;from=rss)
-* [2026-04-26, 02:12:13](https://news.ycombinator.com/item?id=47906651) - [I have officially retired from Emacs](https://nullprogram.com/blog/2026/04/26/)
 * [2026-04-26, 01:36:00](https://soylentnews.org/article.pl?sid=26/04/24/1238217&amp;from=rss) - [The Dumbest Hack of the Year Exposed a Very Real Problem](https://soylentnews.org/article.pl?sid=26/04/24/1238217&amp;from=rss)
 * [2026-04-25, 20:54:00](https://soylentnews.org/article.pl?sid=26/04/24/1234243&amp;from=rss) - [US Wants Rare Earth Independence From China — but Can DARPA Actually Make It Work?](https://soylentnews.org/article.pl?sid=26/04/24/1234243&amp;from=rss)
 * [2026-04-25, 16:08:00](https://soylentnews.org/article.pl?sid=26/04/24/1232232&amp;from=rss) - [Contrary to Popular Superstition, AES 128 is Just Fine in a Post](https://soylentnews.org/article.pl?sid=26/04/24/1232232&amp;from=rss)
