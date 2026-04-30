@@ -1,36 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Advances
+## Technological Innovations and Developments
 
-* [NASAs Incredible New Telescope Will Offer an Atlas of the Universe](https://soylentnews.org/article.pl?sid=26/04/28/0620241&amp;from=rss) - NASA is working on a groundbreaking telescope promising to provide an extensive atlas of the universe with advanced observation capabilities. [Comments](https://soylentnews.org/article.pl?sid=26/04/28/0620241&amp;from=rss)
+* [I aggregated 28 US Government auction sites into one search](https://bidprowl.com) ([comments](https://news.ycombinator.com/item?id=47961378))
 
-* [Granite 4.1: IBM&apos;s 8B Model Matching 32B MoE](https://firethering.com/granite-4-1-ibm-open-source-model-family/) - IBM introduces Granite 4.1, an 8B model claimed to match 32B Mixture of Experts models in performance. [Comments](https://news.ycombinator.com/item?id=47960507)
+* [1.4 GW: battery storage at former Grohnde nuclear power plant](https://www.heise.de/en/news/1-4-GW-Huge-battery-storage-at-former-Grohnde-nuclear-power-plant-11277367.html) ([comments](https://news.ycombinator.com/item?id=47960778))
 
-* [First Tesla Semi Rolls Off High-Volume Production Line](https://tech.slashdot.org/story/26/04/30/0514236/first-tesla-semi-rolls-off-high-volume-production-line?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Tesla achieves a milestone as its first Semi truck rolls off the high-volume production line. [Comments](https://tech.slashdot.org/story/26/04/30/0514236/first-tesla-semi-rolls-off-high-volume-production-line?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Granite 4.1: IBM&apos;s 8B Model Matching 32B MoE](https://firethering.com/granite-4-1-ibm-open-source-model-family/) ([comments](https://news.ycombinator.com/item?id=47960507))
 
-## Software and Programming Updates
+* [Microsoft Reportedly Looking at Rebasing Azure Linux on Fedora](https://soylentnews.org/article.pl?sid=26/04/28/0613243&amp;from=rss) ([comments](https://yro.slashdot.org/story/26/04/30/0533223/doj-sues-cloudera-for-deliberately-excluding-american-workers-from-tech-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Amber-Lang 0.6.0 - New release, check what&apos;s new](https://docs.amber-lang.com/getting_started/whats_new) - Check out the latest release of Amber Language, featuring noteworthy updates and advancements. [Comments](https://lobste.rs/s/heoyfd/amber_lang_0_6_0_new_release_check_what_s_new)
+* [NASA's Incredible New Telescope Will Offer an Atlas of the Universe](https://soylentnews.org/article.pl?sid=26/04/28/0620241&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/28/0620241&amp;from=rss))
 
-* [C++26: string and string_view improvements](https://www.sandordargo.com/blog/2026/04/29/cpp26-string-string_view-improvements) - Examine upcoming improvements in `string` and `string_view` for C++26, highlighting strides in performance and usability. [Comments](https://lobste.rs/s/tgu1zo/c_26_string_string_view_improvements)
+## Environmental and Energy News
 
-* [Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code) - A study reveals unintended consequences in fine-tuning language models, causing them to recall and reproduce copyrighted material. [Comments](https://news.ycombinator.com/item?id=47957627)
+* [Belgium stops decommissioning nuclear power plants](https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/) ([comments](https://news.ycombinator.com/item?id=47961319))
 
-## Artificial Intelligence Developments
+* [The Day I Logged 1 In Every 2000 Public IPv4: Visualizing The AI Scraper DDoS](https://vulpinecitrus.info/blog/one-in-every-2000-ipv4-visualizing-ddos-ai-web-scrapers/) ([comments](https://lobste.rs/s/9bkq7o/day_i_logged_1_every_2000_public_ipv4))
 
-* [China&apos;s Biggest Streaming Platform Wants Most of its New Films to be AI-Generated](https://soylentnews.org/article.pl?sid=26/04/28/0610224&amp;from=rss) - China's largest streaming platform ambitiously plans to use AI-generated content for most of its new films. [Comments](https://soylentnews.org/article.pl?sid=26/04/28/0610224&amp;from=rss)
+## Scientific Discoveries
 
-* [The Zig project&apos;s rationale for their anti-AI contribution policy](https://simonwillison.net/2026/Apr/30/zig-anti-ai/) - Learn about Zig's stance on AI contribution policies in open source software. [Comments](https://news.ycombinator.com/item?id=47957294)
+* [A Sun is Not Required to Generate Conditions Suitable for Life on Exoplanet Moons](https://soylentnews.org/article.pl?sid=26/04/26/1740233&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/26/1740233&amp;from=rss))
 
-* [Mike: open-source legal AI](https://mikeoss.com/) - Introducing Mike, a groundbreaking AI legal assistant utilizing open-source technologies to expand access to legal insight. [Comments](https://news.ycombinator.com/item?id=47956739)
+* [Electric Field Tunes Vibrations to Ease Heat Transfer](https://soylentnews.org/article.pl?sid=26/04/26/1727213&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/26/1727213&amp;from=rss))
 
-## Miscellaneous Science and Innovation
+## Cultural and Societal Shifts
 
-* [Biology is a Burrito: A text- and visual-based journey through a living cell](https://burrito.bio/essays/biology-is-a-burrito) - Dive into an innovative exploration linking biological structures to a burrito through interactive visuals. [Comments](https://news.ycombinator.com/item?id=47957714)
+* [For the first time in history, more Americans are moving to EU than vice versa](https://twitter.com/benbawan/status/2049303326999609846) ([comments](https://news.ycombinator.com/item?id=47960953))
 
-* [Raccoons Solve Puzzles for the Fun of It](https://soylentnews.org/article.pl?sid=26/04/26/1758257&amp;from=rss) - Researchers uncover that raccoons exhibit problem-solving behavior just for playful enjoyment. [Comments](https://soylentnews.org/article.pl?sid=26/04/26/1758257&amp;from=rss)
+* [Craig Venter has died](https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79) ([comments](https://news.ycombinator.com/item?id=47957101))
 
-* [A grounded conceptual model for ownership types in Rust](https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/) - Explore a conceptual model that clarifies Rust's complex ownership types for programming reference. [Comments](https://news.ycombinator.com/item?id=47957116)
+## Programming and Software Trends
+
+* [Amber-Lang 0.6.0 - New release, check what&apos;s new](https://docs.amber-lang.com/getting_started/whats_new) ([comments](https://lobste.rs/s/heoyfd/amber_lang_0_6_0_new_release_check_what_s_new))
+
+* [C++26: string and string_view improvements](https://www.sandordargo.com/blog/2026/04/29/cpp26-string-string_view-improvements) ([comments](https://lobste.rs/s/tgu1zo/c_26_string_string_view_improvements))
 
 ---
 
@@ -57,35 +61,38 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-04-30, 12:24:53](https://news.ycombinator.com/item?id=47961378) - [I aggregated 28 US Government auction sites into one search](https://bidprowl.com)
+* [2026-04-30, 12:17:14](https://news.ycombinator.com/item?id=47961319) - [Belgium stops decommissioning nuclear power plants](https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/)
+* [2026-04-30, 11:40:13](https://news.ycombinator.com/item?id=47961004) - [GCC 16 has been released](https://gcc.gnu.org/gcc-16/changes.html)
+* [2026-04-30, 11:31:27](https://news.ycombinator.com/item?id=47960953) - [For the first time in history, more Americans are moving to EU than vice versa](https://twitter.com/benbawan/status/2049303326999609846)
+* [2026-04-30, 11:08:34](https://news.ycombinator.com/item?id=47960778) - [1.4 GW: battery storage at former Grohnde nuclear power plant](https://www.heise.de/en/news/1-4-GW-Huge-battery-storage-at-former-Grohnde-nuclear-power-plant-11277367.html)
 * [2026-04-30, 11:00:00](https://yro.slashdot.org/story/26/04/30/0533223/doj-sues-cloudera-for-deliberately-excluding-american-workers-from-tech-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DOJ Sues Cloudera For Deliberately Excluding American Workers From Tech Jobs](https://yro.slashdot.org/story/26/04/30/0533223/doj-sues-cloudera-for-deliberately-excluding-american-workers-from-tech-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-30, 10:49:18](https://news.ycombinator.com/item?id=47960643) - [How to Disable Firefox&apos;s New Emoji Picker](https://emsh.cat/en/how-to-disable-firefoxs-emoji-picker/)
 * [2026-04-30, 10:38:00](https://soylentnews.org/article.pl?sid=26/04/28/0620241&amp;from=rss) - [NASAs Incredible New Telescope Will Offer an Atlas of the Universe](https://soylentnews.org/article.pl?sid=26/04/28/0620241&amp;from=rss)
 * [2026-04-30, 10:31:17](https://news.ycombinator.com/item?id=47960507) - [Granite 4.1: IBM&apos;s 8B Model Matching 32B MoE](https://firethering.com/granite-4-1-ibm-open-source-model-family/)
 * [2026-04-30, 09:30:52](https://lobste.rs/s/pcymmp/mozilla_s_position_on_prompt_api) - [Mozilla&apos;s position on the Prompt API](https://mastodon.social/@firefoxwebdevs/116492853483021978)
 * [2026-04-30, 09:20:06](https://lobste.rs/s/tgu1zo/c_26_string_string_view_improvements) - [C++26: string and string_view improvements](https://www.sandordargo.com/blog/2026/04/29/cpp26-string-string_view-improvements)
 * [2026-04-30, 09:00:30](https://lobste.rs/s/heoyfd/amber_lang_0_6_0_new_release_check_what_s_new) - [Amber-Lang 0.6.0 - New release, check what&apos;s new](https://docs.amber-lang.com/getting_started/whats_new)
+* [2026-04-30, 08:51:00](https://lobste.rs/s/ijkf8e/march_servo_keyboard_navigation_better) - [March in Servo: keyboard navigation, better debugging, FreeBSD support, and more](https://servo.org/blog/2026/04/30/march-in-servo/)
 * [2026-04-30, 08:09:07](https://lobste.rs/s/b9vrje/text_editor_as_user_interface) - [A text editor as a user interface](https://ratfactor.com/cards/text-editor-as-ui)
 * [2026-04-30, 07:52:12](https://news.ycombinator.com/item?id=47959513) - [DataCenter.FM – background noise app featuring the sound of the AI bubble](https://datacenter.fm/)
 * [2026-04-30, 07:43:55](https://news.ycombinator.com/item?id=47959463) - [Mozilla&apos;s Opposition to Chrome&apos;s Prompt API](https://github.com/mozilla/standards-positions/issues/1213)
 * [2026-04-30, 07:00:00](https://tech.slashdot.org/story/26/04/30/0514236/first-tesla-semi-rolls-off-high-volume-production-line?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [First Tesla Semi Rolls Off High-Volume Production Line](https://tech.slashdot.org/story/26/04/30/0514236/first-tesla-semi-rolls-off-high-volume-production-line?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-30, 05:53:00](https://soylentnews.org/article.pl?sid=26/04/28/0613243&amp;from=rss) - [Microsoft Reportedly Looking at Rebasing Azure Linux on Fedora](https://soylentnews.org/article.pl?sid=26/04/28/0613243&amp;from=rss)
 * [2026-04-30, 04:28:07](https://news.ycombinator.com/item?id=47958106) - [Monad Tutorials Timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
+* [2026-04-30, 04:12:10](https://lobste.rs/s/wedwdu/breaking_ten_years_c_api_compatibility) - [Breaking ten years of C API compatibility in Futhark](https://futhark-lang.org/blog/2026-04-29-breaking-api-compatibility.html)
 * [2026-04-30, 03:30:00](https://yro.slashdot.org/story/26/04/30/0137225/elon-musk-says-openai-betrayed-him-clashes-with-companys-attorney?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Elon Musk Says OpenAI Betrayed Him, Clashes With Company&apos;s Attorney](https://yro.slashdot.org/story/26/04/30/0137225/elon-musk-says-openai-betrayed-him-clashes-with-companys-attorney?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-30, 03:24:41](https://news.ycombinator.com/item?id=47957714) - [Biology is a Burrito: A text- and visual-based journey through a living cell](https://burrito.bio/essays/biology-is-a-burrito)
 * [2026-04-30, 03:21:04](https://news.ycombinator.com/item?id=47957688) - [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/)
 * [2026-04-30, 03:11:51](https://news.ycombinator.com/item?id=47957627) - [Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code)
-* [2026-04-30, 03:11:33](https://news.ycombinator.com/item?id=47957624) - [Functional programmers need to take a look at Zig](https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html)
 * [2026-04-30, 02:15:47](https://news.ycombinator.com/item?id=47957294) - [The Zig project&apos;s rationale for their anti-AI contribution policy](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
-* [2026-04-30, 02:07:21](https://lobste.rs/s/7smldd/which_more_paths_are_charted_towards_code) - [in which more paths are charted towards code independence](https://technomancy.us/204)
-* [2026-04-30, 01:47:19](https://news.ycombinator.com/item?id=47957116) - [A grounded conceptual model for ownership types in Rust](https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/)
 * [2026-04-30, 01:44:56](https://news.ycombinator.com/item?id=47957101) - [Craig Venter has died](https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79)
 * [2026-04-30, 01:08:00](https://soylentnews.org/article.pl?sid=26/04/28/0610224&amp;from=rss) - [China&apos;s Biggest Streaming Platform Wants Most of its New Films to be AI-Generated](https://soylentnews.org/article.pl?sid=26/04/28/0610224&amp;from=rss)
 * [2026-04-30, 01:01:55](https://news.ycombinator.com/item?id=47956781) - [Joby kicks off NYC electric air taxi demos with historic JFK flight](https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/)
 * [2026-04-30, 00:56:23](https://news.ycombinator.com/item?id=47956739) - [Mike: open-source legal AI](https://mikeoss.com/)
-* [2026-04-30, 00:42:09](https://lobste.rs/s/ujihmj/github_is_sinking) - [GitHub is sinking](https://dbushell.com/2026/04/29/github-is-sinking/)
 * [2026-04-30, 00:41:09](https://lobste.rs/s/8wsxnj/your_clippy_config_should_be_stricter) - [Your Clippy Config Should Be Stricter](https://emschwartz.me/your-clippy-config-should-be-stricter/)
 * [2026-04-29, 23:00:00](https://yro.slashdot.org/story/26/04/29/1935254/new-sam-bankman-fried-trial-would-be-huge-waste-of-courts-time-judge-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Sam Bankman-Fried Trial Would Be Huge Waste of Court&apos;s Time, Judge Says](https://yro.slashdot.org/story/26/04/29/1935254/new-sam-bankman-fried-trial-would-be-huge-waste-of-courts-time-judge-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-29, 22:00:00](https://news.slashdot.org/story/26/04/29/197205/ubuntus-ai-plans-have-linux-users-looking-for-a-kill-switch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ubuntu&apos;s AI Plans Have Linux Users Looking For a &apos;Kill Switch&apos;](https://news.slashdot.org/story/26/04/29/197205/ubuntus-ai-plans-have-linux-users-looking-for-a-kill-switch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-29, 21:50:57](https://news.ycombinator.com/item?id=47955226) - [Gooseworks (YC W23) Is Hiring a Founding Growth Engineer](https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer)
 * [2026-04-29, 21:08:48](https://lobste.rs/s/eeifdc/copy_fail_732_bytes_root) - [Copy Fail — 732 Bytes to Root](https://copy.fail/)
 * [2026-04-29, 21:00:00](https://tech.slashdot.org/story/26/04/29/1917219/joby-demos-its-air-taxi-in-nyc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Joby Demos Its Air Taxi In NYC](https://tech.slashdot.org/story/26/04/29/1917219/joby-demos-its-air-taxi-in-nyc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-29, 20:30:57](https://lobste.rs/s/p4nlr3/how_linux_7_0_broke_postgresql_preemption) - [How Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained](https://read.thecoder.cafe/p/linux-broke-postgresql)
@@ -97,7 +104,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-29, 18:54:31](https://news.ycombinator.com/item?id=47952722) - [HERMES.md in commit messages causes requests to route to extra usage billing](https://github.com/anthropics/claude-code/issues/53262)
 * [2026-04-29, 18:13:53](https://news.ycombinator.com/item?id=47952181) - [Copy Fail](https://copy.fail/)
 * [2026-04-29, 18:00:00](https://news.slashdot.org/story/26/04/29/1621248/colorados-anti-repair-bill-is-dead?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Colorado&apos;s Anti-Repair Bill Is Dead](https://news.slashdot.org/story/26/04/29/1621248/colorados-anti-repair-bill-is-dead?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-29, 17:58:14](https://lobste.rs/s/wsmc8s/copy_fail_732_bytes_root_on_every_major) - [Copy Fail: 732 Bytes to Root on Every Major Linux Distributions](https://xint.io/blog/copy-fail-linux-distributions)
 * [2026-04-29, 17:27:20](https://lobste.rs/s/m6z3gm/fastcgi_30_years_old_still_better) - [FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies)
 * [2026-04-29, 17:03:12](https://lobste.rs/s/htkb9t/early_impressions_chrome_from_firefox) - [Early Impressions of Chrome from a Firefox User](https://www.abefehr.com/posts/early-impressions-of-chrome)
 * [2026-04-29, 17:00:00](https://games.slashdot.org/story/26/04/29/169218/github-no-longer-a-place-for-serious-work-says-hashicorp-co-founder?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GitHub &apos;No Longer a Place For Serious Work&apos;, Says Hashicorp Co-Founder](https://games.slashdot.org/story/26/04/29/169218/github-no-longer-a-place-for-serious-work-says-hashicorp-co-founder?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -128,15 +134,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-29, 03:01:06](https://lobste.rs/s/lpozc6/apple_wants_kill_your_time_capsule_they) - [Apple wants to kill your Time Capsule, but they run NetBSD so they can’t](https://www.osnews.com/story/144845/apple-wants-to-kill-your-time-capsule-but-they-run-netbsd-so-they-cant/)
 * [2026-04-29, 01:26:00](https://soylentnews.org/article.pl?sid=26/04/28/0547234&amp;from=rss) - [NASA Shut Down Voyager 1 Science Instrument After Unexpected Power Drop](https://soylentnews.org/article.pl?sid=26/04/28/0547234&amp;from=rss)
 * [2026-04-28, 22:52:22](https://news.ycombinator.com/item?id=47941931) - [London to Calcutta by Bus (2022)](https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html)
+* [2026-04-28, 21:18:39](https://lobste.rs/s/lm0mlt/i_built_my_own_hair_electrolysis_machine) - [I Built My Own Hair Electrolysis Machine](https://www.scd31.com/posts/diy-hair-electrolysis-machine)
 * [2026-04-28, 20:58:56](https://lobste.rs/s/swbkcl/carrot_disclosure_forgejo) - [Carrot disclosure: Forgejo](https://dustri.org/b/carrot-disclosure-forgejo.html)
 * [2026-04-28, 18:40:00](https://soylentnews.org/article.pl?sid=26/04/26/1853229&amp;from=rss) - [Someone Made a Windows 95 Subsystem for Linux](https://soylentnews.org/article.pl?sid=26/04/26/1853229&amp;from=rss)
-* [2026-04-28, 16:23:50](https://news.ycombinator.com/item?id=47936610) - [Creating a Color Palette from an Image](https://amandahinton.com/blog/creating-a-color-palette-from-an-image)
 * [2026-04-28, 14:00:00](https://soylentnews.org/article.pl?sid=26/04/26/1758257&amp;from=rss) - [Raccoons Solve Puzzles for the Fun of It](https://soylentnews.org/article.pl?sid=26/04/26/1758257&amp;from=rss)
 * [2026-04-28, 12:57:53](https://news.ycombinator.com/item?id=47933934) - [A Primer on Bézier Curves – So What Makes a Bézier Curve?](https://pomax.github.io/bezierinfo/)
 * [2026-04-28, 09:22:00](https://soylentnews.org/article.pl?sid=26/04/26/1740233&amp;from=rss) - [A Sun is Not Required to Generate Conditions Suitable for Life on Exoplanet Moons](https://soylentnews.org/article.pl?sid=26/04/26/1740233&amp;from=rss)
 * [2026-04-28, 05:46:00](https://soylentnews.org/article.pl?sid=26/04/26/1727213&amp;from=rss) - [Electric Field Tunes Vibrations to Ease Heat Transfer](https://soylentnews.org/article.pl?sid=26/04/26/1727213&amp;from=rss)
-* [2026-04-28, 02:55:49](https://news.ycombinator.com/item?id=47930003) - [Consequences of passing too few register parameters to a C function](https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271)
-* [2026-04-28, 01:11:23](https://news.ycombinator.com/item?id=47929354) - [Why isn&apos;t AMD&apos;s MI300X competitive?](https://newsletter.semianalysis.com/p/mi300x-vs-h100-vs-h200-benchmark-part-1-training)
 * [2026-04-28, 01:04:00](https://soylentnews.org/article.pl?sid=26/04/26/0035245&amp;from=rss) - [Why Do I Feel Like, Somebody&apos;s Watching Me?](https://soylentnews.org/article.pl?sid=26/04/26/0035245&amp;from=rss)
 * [2026-04-27, 21:35:07](https://news.ycombinator.com/item?id=47927627) - [Noctua releases official 3D CAD models for its cooling fans](https://www.noctua.at/en/3d-cad-models)
 * [2026-04-27, 20:20:00](https://soylentnews.org/politics/article.pl?sid=26/04/26/0032224&amp;from=rss) - [Big Tech Group Jumps The Gun On Unreleased Bill, Raising Questions About Cozy Ties With Lawmakers](https://soylentnews.org/politics/article.pl?sid=26/04/26/0032224&amp;from=rss)
