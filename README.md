@@ -1,58 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Innovations and Industry Updates
+## Technological Advances
 
-* [First Tesla Semi Rolls Off High-Volume Production Line](https://tech.slashdot.org/story/26/04/30/0514236/first-tesla-semi-rolls-off-high-volume-production-line?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Tesla has successfully produced its first semi-truck off a high-volume production line, signaling a milestone in sustainable freight transport.
+* [NASAs Incredible New Telescope Will Offer an Atlas of the Universe](https://soylentnews.org/article.pl?sid=26/04/28/0620241&amp;from=rss) - NASA is working on a groundbreaking telescope promising to provide an extensive atlas of the universe with advanced observation capabilities. [Comments](https://soylentnews.org/article.pl?sid=26/04/28/0620241&amp;from=rss)
 
-* [Microsoft Reportedly Looking at Rebasing Azure Linux on Fedora](https://soylentnews.org/article.pl?sid=26/04/28/0613243&amp;from=rss) - Microsoft may rebuild its Azure Linux distribution on Fedora, reflecting its deeper embrace of open-source technologies.
+* [Granite 4.1: IBM&apos;s 8B Model Matching 32B MoE](https://firethering.com/granite-4-1-ibm-open-source-model-family/) - IBM introduces Granite 4.1, an 8B model claimed to match 32B Mixture of Experts models in performance. [Comments](https://news.ycombinator.com/item?id=47960507)
 
-* [China's Biggest Streaming Platform Wants Most of its New Films to be AI-Generated](https://soylentnews.org/article.pl?sid=26/04/28/0610224&amp;from=rss) - A Chinese streaming company plans to leverage AI for producing a majority of its new film content, highlighting AI's growing role in creative industries.
+* [First Tesla Semi Rolls Off High-Volume Production Line](https://tech.slashdot.org/story/26/04/30/0514236/first-tesla-semi-rolls-off-high-volume-production-line?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Tesla achieves a milestone as its first Semi truck rolls off the high-volume production line. [Comments](https://tech.slashdot.org/story/26/04/30/0514236/first-tesla-semi-rolls-off-high-volume-production-line?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Joby kicks off NYC electric air taxi demos with historic JFK flight](https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/) - Joby Aviation showcases its electric air taxi technology with a demonstration flight, marking progress toward urban air mobility.
+## Software and Programming Updates
 
-* [NASA Shut Down Voyager 1 Science Instrument After Unexpected Power Drop](https://soylentnews.org/article.pl?sid=26/04/28/0547234&amp;from=rss) - NASA shut down an instrument aboard Voyager 1 to preserve energy for the probe, which has been exploring space since 1977.
+* [Amber-Lang 0.6.0 - New release, check what&apos;s new](https://docs.amber-lang.com/getting_started/whats_new) - Check out the latest release of Amber Language, featuring noteworthy updates and advancements. [Comments](https://lobste.rs/s/heoyfd/amber_lang_0_6_0_new_release_check_what_s_new)
 
-## AI and Programming Trends
+* [C++26: string and string_view improvements](https://www.sandordargo.com/blog/2026/04/29/cpp26-string-string_view-improvements) - Examine upcoming improvements in `string` and `string_view` for C++26, highlighting strides in performance and usability. [Comments](https://lobste.rs/s/tgu1zo/c_26_string_string_view_improvements)
 
-* [Scott Aaronson on quantum: “Will you heed my warnings NOW?”](https://scottaaronson.blog/?p=9718) - Prominent quantum computing expert Scott Aaronson discusses the potential implications of quantum advancements.
+* [Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code) - A study reveals unintended consequences in fine-tuning language models, causing them to recall and reproduce copyrighted material. [Comments](https://news.ycombinator.com/item?id=47957627)
 
-* [Biology is a Burrito: A text- and visual-based journey through a living cell](https://burrito.bio/essays/biology-is-a-burrito) - A novel and engaging exploration of cell biology through a creative burrito analogy.
+## Artificial Intelligence Developments
 
-* [Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code) - Examines the challenges posed by fine-tuning in large language models, leading to unintended consequences like recall of copyrighted materials.
+* [China&apos;s Biggest Streaming Platform Wants Most of its New Films to be AI-Generated](https://soylentnews.org/article.pl?sid=26/04/28/0610224&amp;from=rss) - China's largest streaming platform ambitiously plans to use AI-generated content for most of its new films. [Comments](https://soylentnews.org/article.pl?sid=26/04/28/0610224&amp;from=rss)
 
-* [Functional programmers need to take a look at Zig](https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html) - Advocates for functional programmers examining the Zig programming language as a versatile tool.
+* [The Zig project&apos;s rationale for their anti-AI contribution policy](https://simonwillison.net/2026/Apr/30/zig-anti-ai/) - Learn about Zig's stance on AI contribution policies in open source software. [Comments](https://news.ycombinator.com/item?id=47957294)
 
-* [The Zig project's rationale for their firm anti-AI contribution policy](https://simonwillison.net/2026/Apr/30/zig-anti-ai/) - Insights into the anti-AI policy adopted by the Zig project and its implications for open-source software.
+* [Mike: open-source legal AI](https://mikeoss.com/) - Introducing Mike, a groundbreaking AI legal assistant utilizing open-source technologies to expand access to legal insight. [Comments](https://news.ycombinator.com/item?id=47956739)
 
-## Environmental and Scientific Discoveries
+## Miscellaneous Science and Innovation
 
-* [Antarctica Just Saw the Fastest Glacier Collapse Ever Recorded](https://soylentnews.org/article.pl?sid=26/04/28/0558247&amp;from=rss) - A disturbing observation of unprecedented glacier collapse in Antarctica raises concerns over climate change.
+* [Biology is a Burrito: A text- and visual-based journey through a living cell](https://burrito.bio/essays/biology-is-a-burrito) - Dive into an innovative exploration linking biological structures to a burrito through interactive visuals. [Comments](https://news.ycombinator.com/item?id=47957714)
 
-* [Meta Signs Multibillion-Dollar Deal With Amazon to Use its CPU Chips for AI](https://soylentnews.org/article.pl?sid=26/04/28/0555211&amp;from=rss) - Meta partners with Amazon in a massive deal emphasizing the use of Amazon's chips for AI-centric innovations.
+* [Raccoons Solve Puzzles for the Fun of It](https://soylentnews.org/article.pl?sid=26/04/26/1758257&amp;from=rss) - Researchers uncover that raccoons exhibit problem-solving behavior just for playful enjoyment. [Comments](https://soylentnews.org/article.pl?sid=26/04/26/1758257&amp;from=rss)
 
-* [Surveillance Pricing Set to be Banned in Maryland. Could This be the End of the Predatory Retail?](https://soylentnews.org/article.pl?sid=26/04/25/1736211&amp;from=rss) - Maryland could set a precedent in retail ethics by banning surveillance-based pricing strategies.
-
-* [FDA Grants Quick Review For 3 Psychedelic Drug Trials](https://science.slashdot.org/story/26/04/29/0340243/fda-grants-quick-review-for-3-psychedelic-drug-trials?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Major advancements are on the table for psychedelic-assisted therapy as the FDA accelerates drug trial reviews.
-
-## Tech Business and Market Shifts
-
-* [Elon Musk Says OpenAI Betrayed Him, Clashes With Company's Attorney](https://yro.slashdot.org/story/26/04/30/0137225/elon-musk-says-openai-betrayed-him-clashes-with-companys-attorney?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Elon Musk accuses OpenAI of deviating from its original nonprofit intention, revealing the ongoing discord.
-
-* [Apple Gives Up On the Vision Pro After M5 Refresh Flop](https://apple.slashdot.org/story/26/04/29/1925205/apple-gives-up-on-the-vision-pro-after-m5-refresh-flop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Apple decides to discontinue its Vision Pro project following disappointing outcomes from the M5 refresh.
-
-* [GitHub 'No Longer a Place For Serious Work', Says Hashicorp Co-Founder](https://games.slashdot.org/story/26/04/29/169218/github-no-longer-a-place-for-serious-work-says-hashicorp-co-founder?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Criticism arises over GitHub's evolving dynamics, hinting at reduced favorability among key development communities.
-
-* [California High-Speed Rail Price Tag Jumps To $231 Billion](https://tech.slashdot.org/story/26/04/29/1627235/california-high-speed-rail-price-tag-jumps-to-231-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Estimates reveal California's high-speed rail project as one of the costliest infrastructure projects in history.
-
-## Miscellaneous Highlights
-
-* [Craig Venter has died](https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79) - Celebrating the life and work of J. Craig Venter, a genomics pioneer who passed away at 79.
-
-* [Raccoons Solve Puzzles for the Fun of It](https://soylentnews.org/article.pl?sid=26/04/26/1758257&amp;from=rss) - Research shows raccoons engaging in problem-solving purely for enjoyment, showcasing their intelligence.
-
-* [I Built My Own Hair Electrolysis Machine](https://www.scd31.com/posts/diy-hair-electrolysis-machine) - A DIY journey into designing a functional and cost-effective hair electrolysis machine.
-
-* [New Report Finds Some Babies Spend Up To Eight Hours a Day on Screens](https://mobile.slashdot.org/story/26/04/29/0334222/new-report-finds-some-babies-spend-up-to-eight-hours-a-day-on-screens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Alarming statistics show infants spending extensive daily hours on screen devices, prompting societal reflection.
+* [A grounded conceptual model for ownership types in Rust](https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/) - Explore a conceptual model that clarifies Rust's complex ownership types for programming reference. [Comments](https://news.ycombinator.com/item?id=47957116)
 
 ---
 
@@ -79,17 +57,24 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-04-30, 11:00:00](https://yro.slashdot.org/story/26/04/30/0533223/doj-sues-cloudera-for-deliberately-excluding-american-workers-from-tech-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DOJ Sues Cloudera For Deliberately Excluding American Workers From Tech Jobs](https://yro.slashdot.org/story/26/04/30/0533223/doj-sues-cloudera-for-deliberately-excluding-american-workers-from-tech-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-04-30, 10:38:00](https://soylentnews.org/article.pl?sid=26/04/28/0620241&amp;from=rss) - [NASAs Incredible New Telescope Will Offer an Atlas of the Universe](https://soylentnews.org/article.pl?sid=26/04/28/0620241&amp;from=rss)
+* [2026-04-30, 10:31:17](https://news.ycombinator.com/item?id=47960507) - [Granite 4.1: IBM&apos;s 8B Model Matching 32B MoE](https://firethering.com/granite-4-1-ibm-open-source-model-family/)
+* [2026-04-30, 09:30:52](https://lobste.rs/s/pcymmp/mozilla_s_position_on_prompt_api) - [Mozilla&apos;s position on the Prompt API](https://mastodon.social/@firefoxwebdevs/116492853483021978)
+* [2026-04-30, 09:20:06](https://lobste.rs/s/tgu1zo/c_26_string_string_view_improvements) - [C++26: string and string_view improvements](https://www.sandordargo.com/blog/2026/04/29/cpp26-string-string_view-improvements)
+* [2026-04-30, 09:00:30](https://lobste.rs/s/heoyfd/amber_lang_0_6_0_new_release_check_what_s_new) - [Amber-Lang 0.6.0 - New release, check what&apos;s new](https://docs.amber-lang.com/getting_started/whats_new)
+* [2026-04-30, 08:09:07](https://lobste.rs/s/b9vrje/text_editor_as_user_interface) - [A text editor as a user interface](https://ratfactor.com/cards/text-editor-as-ui)
+* [2026-04-30, 07:52:12](https://news.ycombinator.com/item?id=47959513) - [DataCenter.FM – background noise app featuring the sound of the AI bubble](https://datacenter.fm/)
+* [2026-04-30, 07:43:55](https://news.ycombinator.com/item?id=47959463) - [Mozilla&apos;s Opposition to Chrome&apos;s Prompt API](https://github.com/mozilla/standards-positions/issues/1213)
 * [2026-04-30, 07:00:00](https://tech.slashdot.org/story/26/04/30/0514236/first-tesla-semi-rolls-off-high-volume-production-line?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [First Tesla Semi Rolls Off High-Volume Production Line](https://tech.slashdot.org/story/26/04/30/0514236/first-tesla-semi-rolls-off-high-volume-production-line?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-04-30, 06:30:30](https://news.ycombinator.com/item?id=47958942) - [Scott Aaronson on quantum: \&quot;Will you heed my warnings NOW?\&quot;](https://scottaaronson.blog/?p=9718)
 * [2026-04-30, 05:53:00](https://soylentnews.org/article.pl?sid=26/04/28/0613243&amp;from=rss) - [Microsoft Reportedly Looking at Rebasing Azure Linux on Fedora](https://soylentnews.org/article.pl?sid=26/04/28/0613243&amp;from=rss)
 * [2026-04-30, 04:28:07](https://news.ycombinator.com/item?id=47958106) - [Monad Tutorials Timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
-* [2026-04-30, 04:12:10](https://lobste.rs/s/wedwdu/breaking_ten_years_c_api_compatibility) - [Breaking ten years of C API compatibility in Futhark](https://futhark-lang.org/blog/2026-04-29-breaking-api-compatibility.html)
 * [2026-04-30, 03:30:00](https://yro.slashdot.org/story/26/04/30/0137225/elon-musk-says-openai-betrayed-him-clashes-with-companys-attorney?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Elon Musk Says OpenAI Betrayed Him, Clashes With Company&apos;s Attorney](https://yro.slashdot.org/story/26/04/30/0137225/elon-musk-says-openai-betrayed-him-clashes-with-companys-attorney?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-30, 03:24:41](https://news.ycombinator.com/item?id=47957714) - [Biology is a Burrito: A text- and visual-based journey through a living cell](https://burrito.bio/essays/biology-is-a-burrito)
 * [2026-04-30, 03:21:04](https://news.ycombinator.com/item?id=47957688) - [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/)
 * [2026-04-30, 03:11:51](https://news.ycombinator.com/item?id=47957627) - [Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code)
 * [2026-04-30, 03:11:33](https://news.ycombinator.com/item?id=47957624) - [Functional programmers need to take a look at Zig](https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html)
-* [2026-04-30, 02:15:47](https://news.ycombinator.com/item?id=47957294) - [The Zig project&apos;s rationale for their firm anti-AI contribution policy](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
+* [2026-04-30, 02:15:47](https://news.ycombinator.com/item?id=47957294) - [The Zig project&apos;s rationale for their anti-AI contribution policy](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
 * [2026-04-30, 02:07:21](https://lobste.rs/s/7smldd/which_more_paths_are_charted_towards_code) - [in which more paths are charted towards code independence](https://technomancy.us/204)
 * [2026-04-30, 01:47:19](https://news.ycombinator.com/item?id=47957116) - [A grounded conceptual model for ownership types in Rust](https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/)
 * [2026-04-30, 01:44:56](https://news.ycombinator.com/item?id=47957101) - [Craig Venter has died](https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79)
@@ -101,7 +86,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-29, 23:00:00](https://yro.slashdot.org/story/26/04/29/1935254/new-sam-bankman-fried-trial-would-be-huge-waste-of-courts-time-judge-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Sam Bankman-Fried Trial Would Be Huge Waste of Court&apos;s Time, Judge Says](https://yro.slashdot.org/story/26/04/29/1935254/new-sam-bankman-fried-trial-would-be-huge-waste-of-courts-time-judge-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-29, 22:00:00](https://news.slashdot.org/story/26/04/29/197205/ubuntus-ai-plans-have-linux-users-looking-for-a-kill-switch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ubuntu&apos;s AI Plans Have Linux Users Looking For a &apos;Kill Switch&apos;](https://news.slashdot.org/story/26/04/29/197205/ubuntus-ai-plans-have-linux-users-looking-for-a-kill-switch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-29, 21:50:57](https://news.ycombinator.com/item?id=47955226) - [Gooseworks (YC W23) Is Hiring a Founding Growth Engineer](https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer)
-* [2026-04-29, 21:41:32](https://news.ycombinator.com/item?id=47955118) - [Vera: a programming language designed for machines to write](https://github.com/aallan/vera)
 * [2026-04-29, 21:08:48](https://lobste.rs/s/eeifdc/copy_fail_732_bytes_root) - [Copy Fail — 732 Bytes to Root](https://copy.fail/)
 * [2026-04-29, 21:00:00](https://tech.slashdot.org/story/26/04/29/1917219/joby-demos-its-air-taxi-in-nyc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Joby Demos Its Air Taxi In NYC](https://tech.slashdot.org/story/26/04/29/1917219/joby-demos-its-air-taxi-in-nyc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-29, 20:30:57](https://lobste.rs/s/p4nlr3/how_linux_7_0_broke_postgresql_preemption) - [How Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained](https://read.thecoder.cafe/p/linux-broke-postgresql)
@@ -120,7 +104,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-29, 16:58:13](https://news.ycombinator.com/item?id=47951137) - [Laws of UX](https://lawsofux.com/)
 * [2026-04-29, 16:16:39](https://news.ycombinator.com/item?id=47950510) - [FastCGI: 30 years old and still the better protocol for reverse proxies](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies)
 * [2026-04-29, 16:12:55](https://lobste.rs/s/ifcyr1/contributor_poker_zig_s_ai_ban) - [Contributor Poker and Zig&apos;s AI Ban](https://kristoff.it/blog/contributor-poker-and-ai/)
-* [2026-04-29, 16:08:37](https://lobste.rs/s/szqcwk/how_many_frames_per_second_do_you_need) - [How Many Frames Per Second Do You Need?](https://hooby.blog/posts/how-many-frames-per-second-do-you-need/)
 * [2026-04-29, 16:00:00](https://news.slashdot.org/story/26/04/29/0357216/should-schools-get-rid-of-homework?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Should Schools Get Rid of Homework?](https://news.slashdot.org/story/26/04/29/0357216/should-schools-get-rid-of-homework?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-29, 15:41:00](https://soylentnews.org/article.pl?sid=26/04/28/0558247&amp;from=rss) - [Antarctica Just Saw the Fastest Glacier Collapse Ever Recorded](https://soylentnews.org/article.pl?sid=26/04/28/0558247&amp;from=rss)
 * [2026-04-29, 15:39:43](https://news.ycombinator.com/item?id=47949939) - [Cursor Camp](https://neal.fun/cursor-camp/)
@@ -130,13 +113,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-29, 14:47:31](https://news.ycombinator.com/item?id=47949204) - [An open-source stethoscope that costs between $2.5 and $5 to produce](https://github.com/GliaX/Stethoscope)
 * [2026-04-29, 14:40:20](https://lobste.rs/s/ddrcj1/zed_is_1_0) - [Zed is 1.0](https://zed.dev/blog/zed-1-0)
 * [2026-04-29, 14:34:19](https://news.ycombinator.com/item?id=47949027) - [Zed 1.0](https://zed.dev/blog/zed-1-0)
-* [2026-04-29, 14:05:42](https://news.ycombinator.com/item?id=47948664) - [How to Build the Future: Demis Hassabis [video]](https://www.youtube.com/watch?v=JNyuX1zoOgU)
-* [2026-04-29, 14:00:59](https://news.ycombinator.com/item?id=47948603) - [We need a federation of forges](https://blog.tangled.org/federation/)
 * [2026-04-29, 13:36:08](https://lobste.rs/s/ghmidi/secure_signatures_without_private_key) - [Secure signatures without a private key](https://katexochen.aro.bz/posts/reproducible-secure-signatures/)
 * [2026-04-29, 12:24:02](https://lobste.rs/s/ejsrso/blessed_syntax_ergonomics) - [Blessed Syntax and Ergonomics](https://www.gingerbill.org/article/2026/04/29/blessed-syntax-and-ergonomics/)
 * [2026-04-29, 11:00:00](https://science.slashdot.org/story/26/04/29/0340243/fda-grants-quick-review-for-3-psychedelic-drug-trials?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FDA Grants Quick Review For 3 Psychedelic Drug Trials](https://science.slashdot.org/story/26/04/29/0340243/fda-grants-quick-review-for-3-psychedelic-drug-trials?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-29, 10:54:00](https://soylentnews.org/article.pl?sid=26/04/28/0555211&amp;from=rss) - [Meta Signs Multibillion-Dollar Deal With Amazon to Use its CPU Chips for AI](https://soylentnews.org/article.pl?sid=26/04/28/0555211&amp;from=rss)
-* [2026-04-29, 10:16:11](https://lobste.rs/s/ewwdm4/ripe_ncc_rpki_exploit_chain) - [RIPE NCC RPKI exploit chain](https://mxsasha.eu/posts/ripe-ncc-rpki-exploit-chain/)
 * [2026-04-29, 09:10:49](https://lobste.rs/s/fxwarz/stable_specialization_rust) - [Stable specialization in Rust](https://goldstein.lol/posts/stable-specialization/)
 * [2026-04-29, 08:43:45](https://lobste.rs/s/tzqafn/why_i_still_reach_for_lisp_scheme_instead) - [Why I Still Reach for Lisp (&amp; Scheme) Instead of Haskell](https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html)
 * [2026-04-29, 08:43:17](https://news.ycombinator.com/item?id=47945707) - [Why I still reach for Lisp and Scheme instead of Haskell](https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html)
@@ -147,21 +127,20 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-04-29, 03:30:00](https://yro.slashdot.org/story/26/04/29/0311202/musk-testifies-openai-was-created-as-nonprofit-to-counter-google?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Musk Testifies OpenAI Was Created As Nonprofit To Counter Google](https://yro.slashdot.org/story/26/04/29/0311202/musk-testifies-openai-was-created-as-nonprofit-to-counter-google?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-29, 03:01:06](https://lobste.rs/s/lpozc6/apple_wants_kill_your_time_capsule_they) - [Apple wants to kill your Time Capsule, but they run NetBSD so they can’t](https://www.osnews.com/story/144845/apple-wants-to-kill-your-time-capsule-but-they-run-netbsd-so-they-cant/)
 * [2026-04-29, 01:26:00](https://soylentnews.org/article.pl?sid=26/04/28/0547234&amp;from=rss) - [NASA Shut Down Voyager 1 Science Instrument After Unexpected Power Drop](https://soylentnews.org/article.pl?sid=26/04/28/0547234&amp;from=rss)
-* [2026-04-28, 23:00:00](https://developers.slashdot.org/story/26/04/28/1935206/electrical-current-might-be-the-key-to-a-better-cup-of-coffee?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Electrical Current Might Be the Key To a Better Cup of Coffee](https://developers.slashdot.org/story/26/04/28/1935206/electrical-current-might-be-the-key-to-a-better-cup-of-coffee?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-04-28, 22:52:22](https://news.ycombinator.com/item?id=47941931) - [London to Calcutta by Bus (2022)](https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html)
-* [2026-04-28, 21:18:39](https://lobste.rs/s/lm0mlt/i_built_my_own_hair_electrolysis_machine) - [I Built My Own Hair Electrolysis Machine](https://www.scd31.com/posts/diy-hair-electrolysis-machine)
 * [2026-04-28, 20:58:56](https://lobste.rs/s/swbkcl/carrot_disclosure_forgejo) - [Carrot disclosure: Forgejo](https://dustri.org/b/carrot-disclosure-forgejo.html)
 * [2026-04-28, 18:40:00](https://soylentnews.org/article.pl?sid=26/04/26/1853229&amp;from=rss) - [Someone Made a Windows 95 Subsystem for Linux](https://soylentnews.org/article.pl?sid=26/04/26/1853229&amp;from=rss)
 * [2026-04-28, 16:23:50](https://news.ycombinator.com/item?id=47936610) - [Creating a Color Palette from an Image](https://amandahinton.com/blog/creating-a-color-palette-from-an-image)
 * [2026-04-28, 14:00:00](https://soylentnews.org/article.pl?sid=26/04/26/1758257&amp;from=rss) - [Raccoons Solve Puzzles for the Fun of It](https://soylentnews.org/article.pl?sid=26/04/26/1758257&amp;from=rss)
-* [2026-04-28, 12:29:50](https://news.ycombinator.com/item?id=47933608) - [The Silent Frequency That Makes Old Buildings Feel Haunted](https://scienceblog.com/the-silent-frequency-that-makes-old-buildings-feel-haunted/)
+* [2026-04-28, 12:57:53](https://news.ycombinator.com/item?id=47933934) - [A Primer on Bézier Curves – So What Makes a Bézier Curve?](https://pomax.github.io/bezierinfo/)
 * [2026-04-28, 09:22:00](https://soylentnews.org/article.pl?sid=26/04/26/1740233&amp;from=rss) - [A Sun is Not Required to Generate Conditions Suitable for Life on Exoplanet Moons](https://soylentnews.org/article.pl?sid=26/04/26/1740233&amp;from=rss)
 * [2026-04-28, 05:46:00](https://soylentnews.org/article.pl?sid=26/04/26/1727213&amp;from=rss) - [Electric Field Tunes Vibrations to Ease Heat Transfer](https://soylentnews.org/article.pl?sid=26/04/26/1727213&amp;from=rss)
 * [2026-04-28, 02:55:49](https://news.ycombinator.com/item?id=47930003) - [Consequences of passing too few register parameters to a C function](https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271)
+* [2026-04-28, 01:11:23](https://news.ycombinator.com/item?id=47929354) - [Why isn&apos;t AMD&apos;s MI300X competitive?](https://newsletter.semianalysis.com/p/mi300x-vs-h100-vs-h200-benchmark-part-1-training)
 * [2026-04-28, 01:04:00](https://soylentnews.org/article.pl?sid=26/04/26/0035245&amp;from=rss) - [Why Do I Feel Like, Somebody&apos;s Watching Me?](https://soylentnews.org/article.pl?sid=26/04/26/0035245&amp;from=rss)
 * [2026-04-27, 21:35:07](https://news.ycombinator.com/item?id=47927627) - [Noctua releases official 3D CAD models for its cooling fans](https://www.noctua.at/en/3d-cad-models)
 * [2026-04-27, 20:20:00](https://soylentnews.org/politics/article.pl?sid=26/04/26/0032224&amp;from=rss) - [Big Tech Group Jumps The Gun On Unreleased Bill, Raising Questions About Cozy Ties With Lawmakers](https://soylentnews.org/politics/article.pl?sid=26/04/26/0032224&amp;from=rss)
-* [2026-04-27, 17:28:18](https://news.ycombinator.com/item?id=47924575) - [Who Is That Knocking at My (SSH) Door?](https://sheep.horse/2026/4/who_is_that_knocking_at_my_%28ssh%29_door.html)
+* [2026-04-27, 16:08:34](https://news.ycombinator.com/item?id=47923429) - [\&quot;Parse, don&apos;t validate\&quot; through the years with C++](https://derekrodriguez.dev/parse-dont-validate-through-the-years-with-c-/)
 * [2026-04-27, 15:33:00](https://soylentnews.org/article.pl?sid=26/04/26/0029226&amp;from=rss) - [Privacy Email Service Tuta Now Also Has Cloud Storage with Quantum-Resistant Encryption](https://soylentnews.org/article.pl?sid=26/04/26/0029226&amp;from=rss)
 * [2026-04-27, 10:49:00](https://soylentnews.org/article.pl?sid=26/04/25/1736211&amp;from=rss) - [Surveillance Pricing Set to be Banned in Maryland. Could This be the End of the Predatory Retail?](https://soylentnews.org/article.pl?sid=26/04/25/1736211&amp;from=rss)
 * [2026-04-27, 06:04:00](https://soylentnews.org/article.pl?sid=26/04/25/1727249&amp;from=rss) - [NASA&apos;s Curiosity Rover Found Promising Organic Chemicals on Mars](https://soylentnews.org/article.pl?sid=26/04/25/1727249&amp;from=rss)
