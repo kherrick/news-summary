@@ -1,54 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology Innovations
+## Technology Advancements and Innovations
 
-* [Can Investors Trust AI Sales Figures? Asks Wall Street Journal Opinion Piece](https://slashdot.org/story/26/05/03/1721250/can-investors-trust-ai-sales-figures-asks-wall-street-journal-opinion-piece?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An opinion piece raises concerns about the reliability of AI-generated sales figures and its broader impact on investor trust.
+* [Writing middlewares for Rust Lambda functions](https://loige.co/writing-middlewares-for-rust-lambda-functions/) - [Article](https://lobste.rs/s/pp5yza/writing_middlewares_for_rust_lambda) discusses creating middleware for serverless Rust applications using AWS Lambda.
 
-* [OpenAI Introduces AI-Generated Pets for Its Codex App](https://idle.slashdot.org/story/26/05/03/2354219/openai-introduces-ai-generated-pets-for-its-codex-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI has launched a new feature in its Codex app that allows users to create AI-generated pets, blending technology with personalized virtual companions.
+* [This Wasm interpreter fits in a QR code](https://purplesyringa.moe/blog/this-wasm-interpreter-fits-in-a-qr-code/) - [Lobsters](https://lobste.rs/s/bmhm7k/this_wasm_interpreter_fits_qr_code) explores a Wasm interpreter small enough to fit in a QR code.
 
-* [AI Cameras are Being Deployed Across the Western US for Early Detection of Wildfires](https://news.slashdot.org/story/26/05/03/2319207/ai-cameras-are-being-deployed-across-the-western-us-for-early-detection-of-wildfires?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The Western US has started deploying AI cameras to enhance wildfire detection and response systems.
+* [Native macOS app to track YouTube channels, no Google login required](https://github.com/agentcooper/Telik) - [Lobsters](https://lobste.rs/s/pjuxhr/native_macos_app_track_youtube_channels) highlights a YouTube channel tracking app for macOS that functions without the need for a Google account.
 
-* [NetHack 5.0 Released](https://games.slashdot.org/story/26/05/04/0137222/nethack-50-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The classic dungeon-crawling game NetHack has released its version 5.0, showcasing new features and updates.
+* [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135) - [Hacker News](https://news.ycombinator.com/item?id=47999636) showcases a new LoRa mesh radio technology that significantly increases bandwidth.
 
-* [NetHack 5.0.0](https://nethack.org/v500/release.html) - A Lobste.rs discussion of the latest release of the historic game NetHack, version 5.0.0.
+* [Humanoid Robot Actuators](https://www.firgelli.com/pages/humanoid-robot-actuators) - [Hacker News](https://news.ycombinator.com/item?id=48004380) provides insights into the advanced actuators powering humanoid robots.
 
-* [China's Biggest Streaming Platform Wants Most of its New Films to be AI-Generated](https://soylentnews.org/article.pl?sid=26/04/28/0610224&amp;from=rss) - China's leading streaming platform plans to have the majority of its new films created using AI technology.
+* [NetHack 5.0 Released](https://games.slashdot.org/story/26/05/04/0137222/nethack-50-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Slashdot](https://games.slashdot.org/story/26/05/04/0137222/nethack-50-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) introduces the latest version of the iconic roguelike game, NetHack 5.0.
 
-## Unusual Stories and Concepts
+## Corporate and Business Developments
 
-* [The Mushroom Making People Hallucinate Dozens of Tiny Humans](https://soylentnews.org/article.pl?sid=26/05/03/0223205&amp;from=rss) - A striking new hallucinogenic mushroom reportedly induces visions of miniature humanoids, raising curiosity and scientific investigation.
+* [GameStop makes $55.5B takeover offer for eBay](https://www.bbc.co.uk/news/articles/cn0p8yled1do) - [Hacker News](https://news.ycombinator.com/item?id=48006402) reports on GameStop's ambitious bid to acquire eBay.
 
-* [ChatGPT Became So Obsessed With Goblins That OpenAI Had to Intervene](https://slashdot.org/story/26/05/03/0627248/chatgpt-became-so-obsessed-with-goblins-that-openai-had-to-intervene?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI faced a surprising challenge when ChatGPT fixated on goblins, necessitating intervention to adjust its behavior.
+* [Roblox Blames Age-Verification Rollout for Lowered Growth. Stock Tumbles 22%](https://yro.slashdot.org/story/26/05/04/0217228/roblox-blames-age-verification-rollout-for-lowered-growth-stock-tumbles-22?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Slashdot](https://yro.slashdot.org/story/26/05/04/0217228/roblox-blames-age-verification-rollout-for-lowered-growth-stock-tumbles-22?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) discusses the challenges Roblox faced with its new age verification features and its impact on financial performance.
 
-* [This Wasm interpreter fits in a QR code](https://purplesyringa.moe/blog/this-wasm-interpreter-fits-in-a-qr-code/) - A creative project has managed to fit an entire WebAssembly interpreter inside a single QR code.
+* [Former Nintendo Executive Says Amazon Once Requested 'Illegal' Price Discounts](https://games.slashdot.org/story/26/05/03/1826206/former-nintendo-executive-says-amazon-once-requested-illegal-price-discounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Slashdot](https://games.slashdot.org/story/26/05/03/1826206/former-nintendo-executive-says-amazon-once-requested-illegal-price-discounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) reveals previously unreported allegations against Amazon by a former Nintendo executive.
 
-## Corporate and Policy Developments
+## Artificial Intelligence Developments
 
-* [Roblox Blames Age-Verification Rollout for Lowered Growth. Stock Tumbles 22%](https://yro.slashdot.org/story/26/05/04/0217228/roblox-blames-age-verification-rollout-for-lowered-growth-stock-tumbles-22?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The rollout of new age-verification measures is being cited by Roblox as the culprit for slower growth, as the company experiences a steep 22% drop in stock value.
+* [An Amateur Just Solved a 60-Year-Old Math Problem—by Asking AI](https://soylentnews.org/article.pl?sid=26/05/03/0232241&amp;from=rss) - [Soylent News](https://soylentnews.org/article.pl?sid=26/05/03/0232241&amp;from=rss) shares how AI assisted an amateur mathematician in solving a long-standing problem.
 
-* [South Africa's Draft AI Policy Withdrawn Due to 'Fictitious' AI-Generated Citations](https://yro.slashdot.org/story/26/05/03/0019210/south-africas-draft-ai-policy-withdrawn-due-to-fictitious-ai-generated-citations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The South African government has pulled back its draft AI policy following backlash over the inclusion of fabricated AI-generated citations.
+* [AI Cameras are Being Deployed Across the Western US for Early Detection of Wildfires](https://news.slashdot.org/story/26/05/03/2319207/ai-cameras-are-being-deployed-across-the-western-us-for-early-detection-of-wildfires?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Slashdot](https://news.slashdot.org/story/26/05/03/2319207/ai-cameras-are-being-deployed-across-the-western-us-for-early-detection-of-wildfires?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) covers the use of AI cameras to combat wildfires.
 
-## Cultural Impact and History
+* [OpenAI Introduces AI-Generated Pets for Its Codex App](https://idle.slashdot.org/story/26/05/03/2354219/openai-introduces-ai-generated-pets-for-its-codex-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Slashdot](https://idle.slashdot.org/story/26/05/03/2354219/openai-introduces-ai-generated-pets-for-its-codex-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) highlights OpenAI's new feature of creating AI-generated virtual pets.
 
-* [New statue in London, attributed to Banksy, of a suited man, blinded by a flag](https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/) - A provocative new statue in London, believed to be created by street artist Banksy, shows a suited man blinded by a flag and stepping off a ledge.
+## Cybersecurity and Legal Issues
 
-* [Continuing the story of early DOS development](https://opensource.microsoft.com/blog/2026/04/28/continuing-the-story-of-early-dos-development/) - Dive into the evolution and development history of DOS in this detailed retrospective.
+* [Fake Notepad++ for Mac](https://notepad-plus-plus.org/news/npp-trademark-infringement/) - [Hacker News](https://news.ycombinator.com/item?id=48006445) uncovers a trademark violation concerning a counterfeit Notepad++ app for macOS.
 
-## Open Source and Technology Projects
+* [How a Broken Bike Sync Led Me to Reverse Engineering My Wahoo’s Hidden Debug Mode](https://noahclements.com/Wahoo-Bolt-Hidden-Debug-Mode/) - [Lobsters](https://lobste.rs/s/222h0a/how_broken_bike_sync_led_me_reverse) details an exploration into discovering hidden debugging features in cycling technology.
 
-* [A GitHub for maintainers](https://nesbitt.io/2026/05/02/a-github-for-maintainers.html) - A tailored platform aimed at providing support and resources specifically for GitHub maintainers has been proposed.
+* [Linux Cryptographic Code Flaw Offers Fast Route to Root](https://soylentnews.org/article.pl?sid=26/05/01/0637252&amp;from=rss) - [Soylent News](https://soylentnews.org/article.pl?sid=26/05/01/0637252&amp;from=rss) addresses a critical vulnerability in Linux cryptographic systems granting attackers superuser access.
 
-* [How a Broken Bike Sync Led Me to Reverse Engineering My Wahoo’s Hidden Debug Mode](https://noahclements.com/Wahoo-Bolt-Hidden-Debug-Mode/) - An intriguing exploration of how a malfunctioning bike device encouraged a deeper dive into reverse engineering and uncovered hidden features.
+## Cultural and Artistic Corner
 
-* [PEP 661 – Sentinel Values, accepted 5 years later](https://peps.python.org/pep-0661/) - After five years of deliberation, Python developers have officially accepted PEP 661, which addresses sentinel values in the programming language.
+* [The Mushroom Making People Hallucinate Dozens of Tiny Humans](https://soylentnews.org/article.pl?sid=26/05/03/0223205&amp;from=rss) - [Soylent News](https://soylentnews.org/article.pl?sid=26/05/03/0223205&amp;from=rss) introduces a bizarre fungi that reportedly causes users to see tiny people hallucinations.
 
-## Environmental and Scientific Developments
+* [A treasure trove of fossils rewrites the story of early life](https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/) - [Hacker News](https://news.ycombinator.com/item?id=47976081) reports on a groundbreaking discovery of Cambrian fossils that may alter the understanding of early life on Earth.
 
-* [Robots Are Building Clay Homes In Texas Using Dirt From the Ground](https://hardware.slashdot.org/story/26/05/03/2055244/robots-are-building-clay-homes-in-texas-using-dirt-from-the-ground?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Innovative robots in Texas demonstrate the use of dirt to construct sustainable clay homes.
-
-* [Carbon Pollution Is Making Food Less Nutritious, Risking the Health of Billions](https://science.slashdot.org/story/26/05/03/2227240/carbon-pollution-is-making-food-less-nutritious-risking-the-health-of-billions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A significant concern arises as carbon pollution reportedly disrupts the nutritional value of food, posing health risks to billions globally.
-
-* [NASAs Incredible New Telescope Will Offer an Atlas of the Universe](https://soylentnews.org/article.pl?sid=26/04/28/0620241&amp;from=rss) - NASA is set to revolutionize astronomy with a groundbreaking telescope project aimed at creating a comprehensive atlas of the universe.
+* [New statue in London, attributed to Banksy, of a suited man, blinded by a flag](https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/) - [Hacker News](https://news.ycombinator.com/item?id=48000152) discusses a provocation in public art thought to be created by iconic street artist Banksy.
 
 ---
 
@@ -75,6 +71,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-05-04, 10:13:20](https://lobste.rs/s/pp5yza/writing_middlewares_for_rust_lambda) - [Writing middlewares for Rust Lambda functions](https://loige.co/writing-middlewares-for-rust-lambda-functions/)
+* [2026-05-04, 09:40:06](https://news.ycombinator.com/item?id=48006445) - [Trademark violation: Fake Notepad++ for Mac](https://notepad-plus-plus.org/news/npp-trademark-infringement/)
+* [2026-05-04, 09:39:00](https://soylentnews.org/article.pl?sid=26/05/03/0232241&amp;from=rss) - [An Amateur Just Solved a 60-Year-Old Math Problem—by Asking AI](https://soylentnews.org/article.pl?sid=26/05/03/0232241&amp;from=rss)
+* [2026-05-04, 09:31:12](https://news.ycombinator.com/item?id=48006402) - [GameStop makes $55.5B takeover offer for eBay](https://www.bbc.co.uk/news/articles/cn0p8yled1do)
+* [2026-05-04, 08:40:41](https://news.ycombinator.com/item?id=48006123) - [Over 8M Thermos jars and bottles recalled after 3 people lost vision](https://www.goodmorningamerica.com/living/story/8-million-thermos-jars-bottles-recalled-after-3-132568152)
+* [2026-05-04, 08:40:01](https://lobste.rs/s/abg2mj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/abg2mj/what_are_you_doing_this_week)
+* [2026-05-04, 08:16:03](https://lobste.rs/s/pjuxhr/native_macos_app_track_youtube_channels) - [Native macOS app to track YouTube channels, no Google login required](https://github.com/agentcooper/Telik)
 * [2026-05-04, 07:34:00](https://slashdot.org/story/26/05/03/1721250/can-investors-trust-ai-sales-figures-asks-wall-street-journal-opinion-piece?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Can Investors Trust AI Sales Figures? Asks Wall Street Journal Opinion Piece](https://slashdot.org/story/26/05/03/1721250/can-investors-trust-ai-sales-figures-asks-wall-street-journal-opinion-piece?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-04, 06:36:50](https://lobste.rs/s/6cmh6h/reminder_you_can_stitch_together_lots) - [Reminder: You Can Stitch Together Lots of Little HTML Pages With Navigations For Interactions](https://blog.jim-nielsen.com/2026/small-html-pages/)
 * [2026-05-04, 05:52:27](https://lobste.rs/s/rks8da/i_accidentally_made_law_enforcement_shut) - [I accidentally made law enforcement shut down their stresser honeypot](https://lina.sh/blog/ddos-honeypot)
@@ -87,12 +90,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-04, 00:30:55](https://lobste.rs/s/cqomz3/continuing_story_early_dos_development) - [Continuing the story of early DOS development](https://opensource.microsoft.com/blog/2026/04/28/continuing-the-story-of-early-dos-development/)
 * [2026-05-04, 00:29:00](https://idle.slashdot.org/story/26/05/03/2354219/openai-introduces-ai-generated-pets-for-its-codex-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Introduces AI-Generated Pets for Its Codex App](https://idle.slashdot.org/story/26/05/03/2354219/openai-introduces-ai-generated-pets-for-its-codex-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-04, 00:09:00](https://soylentnews.org/article.pl?sid=26/05/03/020241&amp;from=rss) - [Ask.com Closes](https://soylentnews.org/article.pl?sid=26/05/03/020241&amp;from=rss)
-* [2026-05-03, 23:59:02](https://news.ycombinator.com/item?id=48002938) - [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
+* [2026-05-03, 23:59:21](https://lobste.rs/s/0u4fin/on_not_using_cryptographic_hashes_for) - [On (not) using “cryptographic hashes” for hash table keys](https://runxiyu.org/comp/ch4ht/)
+* [2026-05-03, 23:45:50](https://news.ycombinator.com/item?id=48002839) - [Debunking the CIA&apos;s “magic” heartbeat sensor [video]](https://www.youtube.com/watch?v=SVTPv4sI_Jc)
 * [2026-05-03, 23:36:11](https://news.ycombinator.com/item?id=48002777) - [Let&apos;s Buy Spirit Air](https://letsbuyspiritair.com/)
 * [2026-05-03, 23:29:00](https://news.slashdot.org/story/26/05/03/2319207/ai-cameras-are-being-deployed-across-the-western-us-for-early-detection-of-wildfires?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Cameras are Being Deployed Across the Western US for Early Detection of Wildfires](https://news.slashdot.org/story/26/05/03/2319207/ai-cameras-are-being-deployed-across-the-western-us-for-early-detection-of-wildfires?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-03, 23:12:36](https://lobste.rs/s/gzosvk/blue_ridge_ruby_2026) - [Blue Ridge Ruby 2026](https://microblog.thomascannon.me/2026/05/03/blue-ridge-ruby.html)
 * [2026-05-03, 23:12:02](https://news.ycombinator.com/item?id=48002607) - [The &apos;Hidden&apos; Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions)
-* [2026-05-03, 23:03:32](https://lobste.rs/s/jwzowr/dithering_with_css) - [dithering with css](https://ikesau.co/blog/dithering-with-css/)
 * [2026-05-03, 22:52:54](https://lobste.rs/s/dyq1jw/agentic_coding_is_trap) - [Agentic Coding is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap)
 * [2026-05-03, 22:29:00](https://science.slashdot.org/story/26/05/03/2227240/carbon-pollution-is-making-food-less-nutritious-risking-the-health-of-billions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Carbon Pollution Is Making Food Less Nutritious, Risking the Health of Billions ](https://science.slashdot.org/story/26/05/03/2227240/carbon-pollution-is-making-food-less-nutritious-risking-the-health-of-billions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-03, 22:13:20](https://news.ycombinator.com/item?id=48002136) - [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro](https://github.com/aattaran/deepclaude)
@@ -102,27 +105,22 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-03, 19:41:00](https://tech.slashdot.org/story/26/05/03/1939253/its-goodbye-time-for-jeeves-and-askcom---relics-of-yesterdays-internet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [It&apos;s Goodbye Time for Jeeves and Ask.com - Relics of Yesterday&apos;s Internet](https://tech.slashdot.org/story/26/05/03/1939253/its-goodbye-time-for-jeeves-and-askcom---relics-of-yesterdays-internet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-03, 19:19:00](https://soylentnews.org/article.pl?sid=26/05/01/079248&amp;from=rss) - [The Linux Kernel Tree About to Hit 40 Million Lines, AMD Driver Above 6 Million Lines](https://soylentnews.org/article.pl?sid=26/05/01/079248&amp;from=rss)
 * [2026-05-03, 18:54:28](https://news.ycombinator.com/item?id=48000152) - [New statue in London, attributed to Banksy, of a suited man, blinded by a flag](https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/)
-* [2026-05-03, 18:42:28](https://news.ycombinator.com/item?id=48000028) - [Why TUIs are back](https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/)
 * [2026-05-03, 18:28:00](https://games.slashdot.org/story/26/05/03/1826206/former-nintendo-executive-says-amazon-once-requested-illegal-price-discounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Former Nintendo Executive Says Amazon Once Requested &apos;Illegal&apos; Price Discounts](https://games.slashdot.org/story/26/05/03/1826206/former-nintendo-executive-says-amazon-once-requested-illegal-price-discounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-03, 18:05:28](https://news.ycombinator.com/item?id=47999656) - [Show HN: Ableton Live MCP](https://github.com/bschoepke/ableton-live-mcp)
 * [2026-05-03, 18:03:14](https://news.ycombinator.com/item?id=47999636) - [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
 * [2026-05-03, 18:00:05](https://lobste.rs/s/bmhm7k/this_wasm_interpreter_fits_qr_code) - [This Wasm interpreter fits in a QR code](https://purplesyringa.moe/blog/this-wasm-interpreter-fits-in-a-qr-code/)
 * [2026-05-03, 17:45:47](https://news.ycombinator.com/item?id=47999460) - [I recreated the Apple Lisa computer inside an FPGA [video]](https://www.youtube.com/watch?v=8jNQDcpHc68)
 * [2026-05-03, 17:34:49](https://lobste.rs/s/xvtq0l/fake_notepad_for_mac) - [Fake Notepad++ for Mac](https://notepad-plus-plus.org/news/npp-trademark-infringement/)
 * [2026-05-03, 17:02:13](https://news.ycombinator.com/item?id=47998946) - [Southwest Headquarters Tour](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html)
-* [2026-05-03, 16:48:53](https://lobste.rs/s/mkwtsj/for_thirty_years_i_programmed_with_phish) - [For thirty years I programmed with Phish on, every day. In 2026, the music is out of phase with the work](https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html)
 * [2026-05-03, 16:47:03](https://lobste.rs/s/222h0a/how_broken_bike_sync_led_me_reverse) - [How a Broken Bike Sync Led Me to Reverse Engineering My Wahoo’s Hidden Debug Mode](https://noahclements.com/Wahoo-Bolt-Hidden-Debug-Mode/)
 * [2026-05-03, 16:34:00](https://slashdot.org/story/26/05/03/0627248/chatgpt-became-so-obsessed-with-goblins-that-openai-had-to-intervene?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ChatGPT Became So Obsessed With Goblins That OpenAI Had to Intervene](https://slashdot.org/story/26/05/03/0627248/chatgpt-became-so-obsessed-with-goblins-that-openai-had-to-intervene?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-03, 16:15:49](https://news.ycombinator.com/item?id=47998449) - [Bad Connection: Global telecom exploitation by covert surveillance actors](https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/)
 * [2026-05-03, 15:48:56](https://lobste.rs/s/bznmaf/your_container_is_not_sandbox) - [Your Container Is Not a Sandbox](https://emirb.github.io/blog/microvm-2026/)
 * [2026-05-03, 15:34:00](https://yro.slashdot.org/story/26/05/03/0019210/south-africas-draft-ai-policy-withdrawn-due-to-fictitious-ai-generated-citations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [South Africa&apos;s Draft AI Policy Withdrawn Due to &apos;Fictitious&apos; AI-Generated Citations](https://yro.slashdot.org/story/26/05/03/0019210/south-africas-draft-ai-policy-withdrawn-due-to-fictitious-ai-generated-citations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-03, 15:32:05](https://news.ycombinator.com/item?id=47997947) - [A desktop made for one](https://isene.org/2026/05/Audience-of-One.html)
-* [2026-05-03, 14:49:56](https://news.ycombinator.com/item?id=47997486) - [Security through obscurity is not bad](https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad/)
 * [2026-05-03, 14:49:25](https://lobste.rs/s/klw6bu/desktop_made_for_one) - [A desktop made for one](https://isene.org/2026/05/Audience-of-One.html)
 * [2026-05-03, 14:43:27](https://news.ycombinator.com/item?id=47997418) - [Mercedes-Benz commits to bringing back physical buttons](https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/)
 * [2026-05-03, 14:35:00](https://soylentnews.org/article.pl?sid=26/05/01/078213&amp;from=rss) - [There&apos;s a Good Reason Semi Trucks Don&apos;t Use V8s](https://soylentnews.org/article.pl?sid=26/05/01/078213&amp;from=rss)
 * [2026-05-03, 14:34:00](https://it.slashdot.org/story/26/05/02/234244/ransomware-is-getting-uglier-as-cybercriminals-fake-leaks-and-skip-encryption-entirely?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ransomware Is Getting Uglier As Cybercriminals Fake Leaks and Skip Encryption Entirely](https://it.slashdot.org/story/26/05/02/234244/ransomware-is-getting-uglier-as-cybercriminals-fake-leaks-and-skip-encryption-entirely?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-03, 13:59:30](https://lobste.rs/s/pwwn0j/git_async_web_demo_git_browser_browser) - [git-async web demo - A git browser in the browser](https://git-async.donk.systems/)
 * [2026-05-03, 12:43:53](https://lobste.rs/s/ffu7l8/my_favorite_device_is_chromebook_without) - [My favorite device is a Chromebook, without ChromeOS](https://kokada.dev/blog/my-favorite-device-is-a-chromebook-without-chromeos/)
 * [2026-05-03, 12:03:54](https://lobste.rs/s/ifbdw1/text_mode_lie_why_modern_tuis_are) - [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
 * [2026-05-03, 11:34:00](https://tech.slashdot.org/story/26/05/03/0558226/smuggled-starlink-terminals-are-beating-irans-internet-blackout?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Smuggled Starlink Terminals are Beating Iran&apos;s Internet Blackout](https://tech.slashdot.org/story/26/05/03/0558226/smuggled-starlink-terminals-are-beating-irans-internet-blackout?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -138,7 +136,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-03, 00:27:00](https://soylentnews.org/article.pl?sid=26/05/01/0648229&amp;from=rss) - [The Resurrected Commodore 64 is Getting a Facelift Like the Original](https://soylentnews.org/article.pl?sid=26/05/01/0648229&amp;from=rss)
 * [2026-05-02, 22:06:04](https://lobste.rs/s/rp1lti/open_source_does_not_imply_open_community) - [Open Source Does Not Imply Open Community](https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/)
 * [2026-05-02, 19:42:00](https://soylentnews.org/article.pl?sid=26/05/01/0645211&amp;from=rss) - [Drone Pilot Makes US Rescind No-Fly Zones Around Unmarked, Moving ICE Vehicles](https://soylentnews.org/article.pl?sid=26/05/01/0645211&amp;from=rss)
-* [2026-05-02, 18:13:57](https://lobste.rs/s/qp0vi5/nhs_goes_war_against_open_source) - [NHS Goes To War Against Open Source](https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/)
+* [2026-05-02, 18:04:28](https://news.ycombinator.com/item?id=47988781) - [World&apos;s biggest RC A380 [video]](https://www.youtube.com/watch?v=wr9YLGbhxng)
 * [2026-05-02, 17:26:59](https://lobste.rs/s/mi9xrw/pep_661_sentinel_values_accepted_5_years) - [PEP 661 – Sentinel Values, accepted 5 years later](https://peps.python.org/pep-0661/)
 * [2026-05-02, 17:05:19](https://lobste.rs/s/ncngka/what_fun_websites_do_you_know) - [What fun websites do you know?](https://lobste.rs/s/ncngka/what_fun_websites_do_you_know)
 * [2026-05-02, 14:56:00](https://soylentnews.org/article.pl?sid=26/05/01/0637252&amp;from=rss) - [Linux Cryptographic Code Flaw Offers Fast Route to Root](https://soylentnews.org/article.pl?sid=26/05/01/0637252&amp;from=rss)
@@ -147,9 +145,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-02, 05:21:00](https://soylentnews.org/article.pl?sid=26/04/30/1235210&amp;from=rss) - [Google and Pentagon Reportedly Agree on Deal for ‘Any Lawful’ Use of AI](https://soylentnews.org/article.pl?sid=26/04/30/1235210&amp;from=rss)
 * [2026-05-02, 04:34:40](https://news.ycombinator.com/item?id=47983333) - [Texico: Learn the principles of programming without even touching a computer](https://www3.nhk.or.jp/nhkworld/en/shows/texico/)
 * [2026-05-02, 00:38:00](https://soylentnews.org/article.pl?sid=26/04/30/1229213&amp;from=rss) - [How Linux 7.0 Broke PostgreSQL](https://soylentnews.org/article.pl?sid=26/04/30/1229213&amp;from=rss)
+* [2026-05-01, 22:28:04](https://news.ycombinator.com/item?id=47981227) - [The Road to a Billion-Token Context](https://cacm.acm.org/news/the-road-to-a-billion-token-context/)
 * [2026-05-01, 19:55:00](https://soylentnews.org/article.pl?sid=26/04/30/1227212&amp;from=rss) - [Colorado&apos;s Anti-Repair Bill is Dead](https://soylentnews.org/article.pl?sid=26/04/30/1227212&amp;from=rss)
 * [2026-05-01, 18:07:28](https://news.ycombinator.com/item?id=47977990) - [Using “underdrawings” for accurate text and numbers](https://samcollins.blog/underdrawings/)
-* [2026-05-01, 17:29:53](https://news.ycombinator.com/item?id=47977510) - [Roger Sweet, Creator of the He-Man Action Figure, Dies at 91](https://www.nytimes.com/2026/04/29/arts/roger-sweet-dead-he-man.html)
 * [2026-05-01, 15:42:32](https://news.ycombinator.com/item?id=47976081) - [A treasure trove of fossils rewrites the story of early life](https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/)
 * [2026-05-01, 15:11:00](https://soylentnews.org/article.pl?sid=26/04/30/0232227&amp;from=rss) - [Vibe Coding Will Break Your Company      ](https://soylentnews.org/article.pl?sid=26/04/30/0232227&amp;from=rss)
 * [2026-05-01, 14:24:27](https://news.ycombinator.com/item?id=47975166) - [Fun with polynomials and linear algebra; or, slight abstract nonsense](https://guille.site/posts/abstract-nonsense/)
