@@ -1,76 +1,84 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Cybersecurity and Data Privacy
+## AI and Machine Learning Developments
+
+* [Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit](https://www.coveragecat.com/careers/engineering/fractional-growth-engineer) ([comments](https://news.ycombinator.com/item?id=48035223))
+
+* [Programming Is Real Engineering, And AI Proves It](https://jerf.org/iri/post/2026/programming_is_engineering/) ([comments](https://lobste.rs/s/mvv0ch/programming_is_real_engineering_ai))
+
+* [Telus Uses AI to Alter Call-Agent Accents](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63) ([comments](https://news.ycombinator.com/item?id=48031109))
+
+* [Google DeepMind Workers Vote To Unionize Over Military AI Deals](https://tech.slashdot.org/story/26/05/05/1817252/google-deepmind-workers-vote-to-unionize-over-military-ai-deals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/05/05/1817252/google-deepmind-workers-vote-to-unionize-over-military-ai-deals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Claude Code is not making your product better](https://ethanding.substack.com/p/claude-code-is-not-making-your-product) ([comments](https://lobste.rs/s/kn0jwm/claude_code_is_not_making_your_product))
+
+## Security Insights and Breaches
 
 * [1000 third parties could have stolen RIPE NCC session tokens - by design](https://mxsasha.eu/posts/ripe-ncc-sso-cookie-exposure/) ([comments](https://lobste.rs/s/t9esuf/1000_third_parties_could_have_stolen_ripe))
 
-* [White House App Is a Terrifying Security Mess](https://it.slashdot.org/story/26/05/06/0424251/white-house-app-is-a-terrifying-security-mess?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/26/05/06/0424251/white-house-app-is-a-terrifying-security-mess?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [White House App Is a Terrifying Security Mess](https://it.slashdot.org/story/26/05/06/0424251/white-house-app-is-a-terrifying-security-mess?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/26/05/06/0424251/white-house-app-is-a-terrifying-security-mess?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Google Chrome silently installs a 4 GB AI model on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/) ([comments](https://news.ycombinator.com/item?id=48019219))
+* [Canonicals Ubuntu Servers Go Down as Hackers Demand Direct Talks](https://soylentnews.org/article.pl?sid=26/05/04/1434244&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/05/04/1434244&amp;from=rss))
 
-* [Podman rootless containers and the Copy Fail exploit](https://garrido.io/notes/podman-rootless-containers-copy-fail/) ([comments](https://lobste.rs/s/pdckk8/podman_rootless_containers_copy_fail))
+## Developer Tools and Techniques
 
-* [Linux Cryptographic Code Flaw Offers Fast Route to Root](https://soylentnews.org/article.pl?sid=26/05/01/0637252&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/05/01/0637252&from=rss))
+* [Solod v0.1: Go ergonomics, practical stdlib, native C interop](https://antonz.org/solod-v0-1/) ([comments](https://lobste.rs/s/otb6fk/solod_v0_1_go_ergonomics_practical_stdlib))
 
-## Artificial Intelligence Developments
-
-* [The AI operator: Biggest role in Silicon Valley](https://www.rishgupta.com/blog/the-ai-operator-biggest-role-in-silicon-valley) ([comments](https://news.ycombinator.com/item?id=48033952))
+* [Building the deployment tool I wish I had](https://ruuda.nl/2026/deptool) ([comments](https://lobste.rs/s/ze6pao/building_deployment_tool_i_wish_i_had))
 
 * [Principia Softwarica](https://principia-softwarica.org/) ([comments](https://lobste.rs/s/iswtil/principia_softwarica))
 
-* [How Microplastics Are Likely Helping To Heat Up the Planet](https://news.slashdot.org/story/26/05/05/0341243/how-microplastics-are-likely-helping-to-heat-up-the-planet?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/05/05/0341243/how-microplastics-are-likely-helping-to-heat-up-the-planet?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [krabby: making a fast Rust compiler](https://bal-e.org/speed/krabby/) ([comments](https://lobste.rs/s/zrnuhi/krabby_making_fast_rust_compiler))
 
-* [Three Inverse Laws of AI](https://susam.net/inverse-laws-of-robotics.html) ([comments](https://news.ycombinator.com/item?id=48023861))
+## Creative and Design Innovations
 
-* [Google and Pentagon Reportedly Agree on Deal for ‘Any Lawful’ Use of AI](https://soylentnews.org/article.pl?sid=26/04/30/1235210&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/30/1235210&from=rss))
+* [Scroll-Driven Animations](https://www.joshwcomeau.com/animation/scroll-driven-animations/) ([comments](https://lobste.rs/s/zn53g8/scroll_driven_animations))
 
-## Innovative Ideas and Technologies
+* [Multi-stroke text effect in CSS](https://yuanchuan.dev/multi-stroke-text-effect-in-css) ([comments](https://lobste.rs/s/9f2djs/multi_stroke_text_effect_css))
 
-* [Show HN: Red Squares – GitHub outages as contributions](https://red-squares.cian.lol/) ([comments](https://news.ycombinator.com/item?id=48034587))
+## Technology Disruptions and Engineering Breakthroughs
 
-* [Chinese EVs Can Now Project Movies From Their Headlights](https://soylentnews.org/article.pl?sid=26/05/05/1125244&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/05/05/1125244&from=rss))
+* [Astronomers May Have Detected an Atmosphere Around a Tiny, Icy World Past Pluto](https://science.slashdot.org/story/26/05/05/0320235/astronomers-may-have-detected-an-atmosphere-around-a-tiny-icy-world-past-pluto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/05/05/0320235/astronomers-may-have-detected-an-atmosphere-around-a-tiny-icy-world-past-pluto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Virtual violin produces realistic sounds](https://news.mit.edu/2026/mit-engineers-virtual-violin-produces-realistic-sounds-0429) ([comments](https://news.ycombinator.com/item?id=47996668))
+* [245TB Micron 6600 ION Data Center SSD Now Shipping](https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now) ([comments](https://news.ycombinator.com/item?id=48031867))
+
+* [A Simpler Parametrization for Modern Optimizers](https://jiha-kim.github.io/posts/a-simpler-parametrization-for-modern-optimizers/) ([comments](https://news.ycombinator.com/item?id=48008685))
+
+* [Reverse-engineering the 1998 Ultima Online demo server](https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html) ([comments](https://news.ycombinator.com/item?id=48032976))
+
+* [CARA 2.0 – “I Built a Better Robot Dog”](https://www.aaedmusa.com/projects/cara2) ([comments](https://news.ycombinator.com/item?id=48005432))
+
+## Environmental and Social Issues
+
+* [CO2 Levels In the Atmosphere Hit 'Depressing' New Record](https://news.slashdot.org/story/26/05/06/0416201/co2-levels-in-the-atmosphere-hit-depressing-new-record?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/05/06/0416201/co2-levels-in-the-atmosphere-hit-depressing-new-record?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [How Microplastics Are Likely Helping To Heat Up the Planet](https://news.slashdot.org/story/26/05/05/0341243/how-microplastics-are-likely-helping-to-heat-up-the-planet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/05/05/0341243/how-microplastics-are-likely-helping-to-heat-up-the-planet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Chinese EVs Can Now Project Movies From Their Headlights](https://soylentnews.org/article.pl?sid=26/05/05/1125244&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/05/05/1125244&amp;from=rss))
+
+## Unique Technological Experiments
 
 * [iPhone dumbphone](https://stopa.io/post/297) ([comments](https://lobste.rs/s/pzx24l/iphone_dumbphone))
 
-* [Batteries Not Included, or Required, for These Smart Home Sensors](https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors) ([comments](https://news.ycombinator.com/item?id=47998638))
+* [Someone Turned a PS5 Into a Linux Gaming PC, and It Actually Works](https://soylentnews.org/article.pl?sid=26/05/04/1443241&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/05/04/1443241&amp;from=rss))
 
-## Software and Development Insights
+* [Google Chrome silently installs a 4 GB AI model on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/) ([comments](https://news.ycombinator.com/item?id=48019219))
 
-* [Go is FIPS 140-3 certified](https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/5247) ([comments](https://lobste.rs/s/feqwqw/go_is_fips_140_3_certified))
+## Emerging Hardware and Devices
 
-* [Behavior-Oriented Concurrency for Python](https://microsoft.github.io/bocpy/) ([comments](https://news.ycombinator.com/item?id=48032617))
+* [StarFighter 16-Inch](https://us.starlabs.systems/pages/starfighter) ([comments](https://news.ycombinator.com/item?id=48031261))
 
-* [krabby: making a fast Rust compiler](https://bal-e.org/speed/krabby/) ([comments](https://lobste.rs/s/zrnuhi/krabby_making_fast_rust_compiler))
+* [245TB Micron 6600 ION Data Center SSD Now Shipping](https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now) ([comments](https://news.ycombinator.com/item?id=48031867))
 
-* [One week of view_types](https://scrabsha.dev/articles/one-week-of-view-types.html) ([comments](https://lobste.rs/s/opwgjp/one_week_view_types))
+* [The Resurrected Commodore 64 is Getting a Facelift Like the Original](https://soylentnews.org/article.pl?sid=26/05/01/0648229&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/05/01/0648229&amp;from=rss))
 
-* [How Linux 7.0 Broke PostgreSQL](https://soylentnews.org/article.pl?sid=26/04/30/1229213&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/04/30/1229213&from=rss))
+## Miscellaneous Topics of Interest
 
-## Environmental and Scientific Advances
+* [Knitting bullshit](https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/) ([comments](https://news.ycombinator.com/item?id=48032461))
 
-* [CO2 Levels In the Atmosphere Hit 'Depressing' New Record](https://news.slashdot.org/story/26/05/06/0416201/co2-levels-in-the-atmosphere-hit-depressing-new-record?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/05/06/0416201/co2-levels-in-the-atmosphere-hit-depressing-new-record?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Make some art with your phone sensors](https://tautme.github.io/phone-sensors/sensor-etch.html) ([comments](https://news.ycombinator.com/item?id=48003549))
 
-* [Astronomers May Have Detected an Atmosphere Around a Tiny, Icy World Past Pluto](https://science.slashdot.org/story/26/05/05/0320235/astronomers-may-have-detected-an-atmosphere-around-a-tiny-icy-world-past-pluto?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/05/05/0320235/astronomers-may-have-detected-an-atmosphere-around-a-tiny-icy-world-past-pluto?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [The Mushroom Making People Hallucinate Dozens of Tiny Humans](https://soylentnews.org/article.pl?sid=26/05/03/0223205&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/05/03/0223205&from=rss))
-
-* [New Report Highlights Fructose as a Key Driver of Metabolic Disease](https://soylentnews.org/article.pl?sid=26/05/04/1436227&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/05/04/1436227&from=rss))
-
-* [An Amateur Just Solved a 60-Year-Old Math Problem—by Asking AI](https://soylentnews.org/article.pl?sid=26/05/03/0232241&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/05/03/0232241&from=rss))
-
-## Social and Cultural Trends
-
-* [Oscars Bans AI Actors and Writing From Awards](https://entertainment.slashdot.org/story/26/05/05/045215/oscars-bans-ai-actors-and-writing-from-awards?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://entertainment.slashdot.org/story/26/05/05/045215/oscars-bans-ai-actors-and-writing-from-awards?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [Kids Bypass Age Verification With Fake Moustaches](https://tech.slashdot.org/story/26/05/05/1540226/kids-bypass-age-verification-with-fake-moustaches?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/05/05/1540226/kids-bypass-age-verification-with-fake-moustaches?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [Anthropic Secretly Installs Spyware When You Install Claude Desktop](https://soylentnews.org/article.pl?sid=26/05/04/1427214&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/05/04/1427214&from=rss))
-
-* [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026) ([comments](https://news.ycombinator.com/item?id=48028842))
-
-* [Brockman Rebuts Musk's Take On Startup's History, Recounts Secret Work For Tesla](https://yro.slashdot.org/story/26/05/05/2259238/brockman-rebuts-musks-take-on-startups-history-recounts-secret-work-for-tesla?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/05/05/2259238/brockman-rebuts-musks-take-on-startups-history-recounts-secret-work-for-tesla?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Kids Bypass Age Verification With Fake Moustaches](https://tech.slashdot.org/story/26/05/05/1540226/kids-bypass-age-verification-with-fake-moustaches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/05/05/1540226/kids-bypass-age-verification-with-fake-moustaches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
 ---
 
@@ -97,22 +105,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-05-06, 12:39:32](https://lobste.rs/s/otb6fk/solod_v0_1_go_ergonomics_practical_stdlib) - [Solod v0.1: Go ergonomics, practical stdlib, native C interop](https://antonz.org/solod-v0-1/)
+* [2026-05-06, 12:00:24](https://news.ycombinator.com/item?id=48035223) - [Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit](https://www.coveragecat.com/careers/engineering/fractional-growth-engineer)
+* [2026-05-06, 11:50:33](https://lobste.rs/s/ze6pao/building_deployment_tool_i_wish_i_had) - [Building the deployment tool I wish I had](https://ruuda.nl/2026/deptool)
+* [2026-05-06, 11:15:21](https://lobste.rs/s/zn53g8/scroll_driven_animations) - [Scroll-Driven Animations](https://www.joshwcomeau.com/animation/scroll-driven-animations/)
 * [2026-05-06, 11:08:33](https://lobste.rs/s/t9esuf/1000_third_parties_could_have_stolen_ripe) - [1000 third parties could have stolen RIPE NCC session tokens - by design](https://mxsasha.eu/posts/ripe-ncc-sso-cookie-exposure/)
 * [2026-05-06, 11:00:00](https://it.slashdot.org/story/26/05/06/0424251/white-house-app-is-a-terrifying-security-mess?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [White House App Is a Terrifying Security Mess](https://it.slashdot.org/story/26/05/06/0424251/white-house-app-is-a-terrifying-security-mess?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-06, 10:53:52](https://news.ycombinator.com/item?id=48034762) - [Setting up a Sun Ray server on OpenIndiana Hipster 2025.10](https://catstret.ch/202605/srss-hipster202510/)
 * [2026-05-06, 10:35:46](https://lobste.rs/s/9f2djs/multi_stroke_text_effect_css) - [Multi-stroke text effect in CSS](https://yuanchuan.dev/multi-stroke-text-effect-in-css)
 * [2026-05-06, 10:28:40](https://news.ycombinator.com/item?id=48034587) - [Show HN: Red Squares – GitHub outages as contributions](https://red-squares.cian.lol/)
-* [2026-05-06, 09:57:58](https://news.ycombinator.com/item?id=48034372) - [NZ Government to Disestablish the BSA](https://www.beehive.govt.nz/release/government-disestablish-bsa)
 * [2026-05-06, 09:18:32](https://lobste.rs/s/ixlzlj/emacs_completion_showcase_with_vompeccc) - [Emacs Completion Showcase with VOMPECCC (video)](https://www.chiply.dev/post-vompeccc-showcase)
 * [2026-05-06, 09:15:00](https://soylentnews.org/article.pl?sid=26/05/05/1125244&amp;from=rss) - [Chinese EVs Can Now Project Movies From Their Headlights](https://soylentnews.org/article.pl?sid=26/05/05/1125244&amp;from=rss)
 * [2026-05-06, 09:13:55](https://lobste.rs/s/mvv0ch/programming_is_real_engineering_ai) - [Programming Is Real Engineering, And AI Proves It](https://jerf.org/iri/post/2026/programming_is_engineering/)
-* [2026-05-06, 09:00:07](https://news.ycombinator.com/item?id=48033952) - [The AI operator: Biggest role in Silicon Valley](https://www.rishgupta.com/blog/the-ai-operator-biggest-role-in-silicon-valley)
-* [2026-05-06, 08:45:13](https://lobste.rs/s/1mecju/new_filesystem_for_pidfds) - [A new filesystem for pidfds](https://lwn.net/Articles/963749/)
-* [2026-05-06, 08:23:43](https://news.ycombinator.com/item?id=48033689) - [The Boring Internet](https://www.terrygodier.com/the-boring-internet)
+* [2026-05-06, 08:45:13](https://lobste.rs/s/1mecju/new_filesystem_for_pidfds_2024) - [A new filesystem for pidfds (2024)](https://lwn.net/Articles/963749/)
 * [2026-05-06, 07:19:31](https://lobste.rs/s/pzx24l/iphone_dumbphone) - [iPhone dumbphone](https://stopa.io/post/297)
 * [2026-05-06, 07:00:00](https://news.slashdot.org/story/26/05/06/0416201/co2-levels-in-the-atmosphere-hit-depressing-new-record?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [CO2 Levels In the Atmosphere Hit &apos;Depressing&apos; New Record](https://news.slashdot.org/story/26/05/06/0416201/co2-levels-in-the-atmosphere-hit-depressing-new-record?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-06, 06:31:29](https://news.ycombinator.com/item?id=48032976) - [Reverse-engineering the 1998 Ultima Online demo server](https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html)
 * [2026-05-06, 06:21:40](https://lobste.rs/s/bgjmvk/we_re_not_building_ai_features_for_money) - [We&apos;re Not Building AI Features for the Money](https://zed.dev/blog/not-building-ai-for-the-money)
-* [2026-05-06, 05:34:48](https://news.ycombinator.com/item?id=48032617) - [Behavior-Oriented Concurrency for Python](https://microsoft.github.io/bocpy/)
 * [2026-05-06, 05:13:58](https://news.ycombinator.com/item?id=48032461) - [Knitting bullshit](https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/)
 * [2026-05-06, 04:43:25](https://news.ycombinator.com/item?id=48032265) - [Multi-stroke text effect in CSS](https://yuanchuan.dev/multi-stroke-text-effect-in-css)
 * [2026-05-06, 04:42:18](https://lobste.rs/s/feqwqw/go_is_fips_140_3_certified) - [Go is FIPS 140-3 certified](https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/5247)
@@ -120,7 +129,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-06, 04:14:58](https://lobste.rs/s/iswtil/principia_softwarica) - [Principia Softwarica](https://principia-softwarica.org/)
 * [2026-05-06, 03:37:51](https://news.ycombinator.com/item?id=48031867) - [245TB Micron 6600 ION Data Center SSD Now Shipping](https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now)
 * [2026-05-06, 03:30:00](https://yro.slashdot.org/story/26/05/05/2259238/brockman-rebuts-musks-take-on-startups-history-recounts-secret-work-for-tesla?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Brockman Rebuts Musk&apos;s Take On Startup&apos;s History, Recounts Secret Work For Tesla](https://yro.slashdot.org/story/26/05/05/2259238/brockman-rebuts-musks-take-on-startups-history-recounts-secret-work-for-tesla?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-06, 03:24:49](https://news.ycombinator.com/item?id=48031769) - [Ombudsman column: The Pentagon is trying to silence me](https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html)
 * [2026-05-06, 03:10:33](https://news.ycombinator.com/item?id=48031684) - [Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/)
 * [2026-05-06, 02:03:44](https://news.ycombinator.com/item?id=48031261) - [StarFighter 16-Inch](https://us.starlabs.systems/pages/starfighter)
 * [2026-05-06, 01:38:44](https://news.ycombinator.com/item?id=48031109) - [Telus Uses AI to Alter Call-Agent Accents](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)
@@ -146,6 +154,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-05, 17:00:00](https://entertainment.slashdot.org/story/26/05/05/045215/oscars-bans-ai-actors-and-writing-from-awards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Oscars Bans AI Actors and Writing From Awards](https://entertainment.slashdot.org/story/26/05/05/045215/oscars-bans-ai-actors-and-writing-from-awards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-05, 16:34:48](https://news.ycombinator.com/item?id=48024859) - [Computer Use is 45x more expensive than structured APIs](https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/)
 * [2026-05-05, 16:14:17](https://news.ycombinator.com/item?id=48024540) - [Accelerating Gemma 4: faster inference with multi-token prediction drafters](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/)
+* [2026-05-05, 16:03:06](https://news.ycombinator.com/item?id=48024358) - [I&apos;m scared about biological computing](https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing)
 * [2026-05-05, 16:00:00](https://slashdot.org/story/26/05/05/0335220/vs-code-update-added-copilot-as-default-co-author-to-git-commits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [VS Code Update Added Copilot As Default Co-Author To Git Commits](https://slashdot.org/story/26/05/05/0335220/vs-code-update-added-copilot-as-default-co-author-to-git-commits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-05, 15:53:32](https://lobste.rs/s/opwgjp/one_week_view_types) - [One week of view_types](https://scrabsha.dev/articles/one-week-of-view-types.html)
 * [2026-05-05, 15:47:18](https://news.ycombinator.com/item?id=48024129) - [EEVblog: The 555 Timer is 55 years old [video]](https://www.youtube.com/watch?v=6JhK8iCQuqI)
@@ -155,7 +164,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-05, 14:46:08](https://lobste.rs/s/z0nkyf/rss_feeds_send_me_more_traffic_than_google) - [RSS Feeds Send Me More Traffic Than Google](https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/)
 * [2026-05-05, 14:08:00](https://soylentnews.org/article.pl?sid=26/05/04/1439238&amp;from=rss) - [Round Up of Latest OS and Software Releases](https://soylentnews.org/article.pl?sid=26/05/04/1439238&amp;from=rss)
 * [2026-05-05, 13:46:37](https://lobste.rs/s/yhk0mq/why_didn_t_ipv6_work_my_home_network) - [Why didn’t IPv6 work in my home network?](https://gowtham.dev/blog/ipv6-problems.html)
-* [2026-05-05, 13:28:42](https://lobste.rs/s/3c4ba9/tokens_dreams) - [Tokens and Dreams](https://charlesleifer.com/blog/tokens-and-dreams/)
 * [2026-05-05, 13:27:10](https://lobste.rs/s/kn0jwm/claude_code_is_not_making_your_product) - [claude code is not making your product better](https://ethanding.substack.com/p/claude-code-is-not-making-your-product)
 * [2026-05-05, 13:21:28](https://lobste.rs/s/rsj8sx/bidirectional_typechecking_puzzle) - [A bidirectional typechecking puzzle](https://haskellforall.com/2026/05/a-bidirectional-typechecking-puzzle)
 * [2026-05-05, 12:32:59](https://lobste.rs/s/z0ozbb/caddy_cert_expired_because_systemd) - [A Caddy Cert Expired Because systemd-resolved Was Selectively Broken](https://rant.mvh.dev/a-caddy-cert-expired-because-systemd-resolved-was-selectively-broken/)
@@ -166,12 +174,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-05, 07:00:00](https://science.slashdot.org/story/26/05/05/0320235/astronomers-may-have-detected-an-atmosphere-around-a-tiny-icy-world-past-pluto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Astronomers May Have Detected an Atmosphere Around a Tiny, Icy World Past Pluto](https://science.slashdot.org/story/26/05/05/0320235/astronomers-may-have-detected-an-atmosphere-around-a-tiny-icy-world-past-pluto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-05, 04:41:00](https://soylentnews.org/article.pl?sid=26/05/04/1434244&amp;from=rss) - [Canonical’s Ubuntu Servers Go Down as Hackers Demand Direct Talks](https://soylentnews.org/article.pl?sid=26/05/04/1434244&amp;from=rss)
 * [2026-05-05, 03:30:00](https://yro.slashdot.org/story/26/05/04/2247258/openai-president-discloses-his-stake-in-the-company-is-worth-30-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI President Discloses His Stake In the Company Is Worth $30 Billion](https://yro.slashdot.org/story/26/05/04/2247258/openai-president-discloses-his-stake-in-the-company-is-worth-30-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-05, 03:07:03](https://lobste.rs/s/otxkjw/bun_js_runtime_is_being_vibe_ported_from) - [Bun (the js runtime) is being vibe-ported from zig to rust](https://github.com/oven-sh/bun/blob/claude/phase-a-port/docs/PORTING.md)
 * [2026-05-04, 23:56:00](https://soylentnews.org/article.pl?sid=26/05/04/1427214&amp;from=rss) - [Anthropic Secretly Installs Spyware When You Install Claude Desktop](https://soylentnews.org/article.pl?sid=26/05/04/1427214&amp;from=rss)
-* [2026-05-04, 22:20:57](https://lobste.rs/s/pdckk8/podman_rootless_containers_copy_fail) - [Podman rootless containers and the Copy Fail exploit](https://garrido.io/notes/podman-rootless-containers-copy-fail/)
 * [2026-05-04, 19:07:00](https://soylentnews.org/article.pl?sid=26/05/03/0258243&amp;from=rss) - [NHS Goes to War Against Open Source](https://soylentnews.org/article.pl?sid=26/05/03/0258243&amp;from=rss)
 * [2026-05-04, 16:39:15](https://news.ycombinator.com/item?id=48011077) - [Wolfenstein 3D for Gameboy Color on custom cartridge (2016)](https://www.happydaze.se/wolf/)
 * [2026-05-04, 14:20:00](https://soylentnews.org/article.pl?sid=26/05/03/0252239&amp;from=rss) - [Zambia Cancels Global Digital Freedoms Conference Days Before Start](https://soylentnews.org/article.pl?sid=26/05/03/0252239&amp;from=rss)
+* [2026-05-04, 13:44:20](https://news.ycombinator.com/item?id=48008685) - [A Simpler Parametrization for Modern Optimizers](https://jiha-kim.github.io/posts/a-simpler-parametrization-for-modern-optimizers/)
+* [2026-05-04, 10:46:15](https://news.ycombinator.com/item?id=48006967) - [The bottleneck was never the code](https://www.thetypicalset.com/blog/thoughts-on-coding-agents)
 * [2026-05-04, 09:39:00](https://soylentnews.org/article.pl?sid=26/05/03/0232241&amp;from=rss) - [An Amateur Just Solved a 60-Year-Old Math Problem—by Asking AI](https://soylentnews.org/article.pl?sid=26/05/03/0232241&amp;from=rss)
 * [2026-05-04, 06:46:10](https://news.ycombinator.com/item?id=48005432) - [CARA 2.0 – “I Built a Better Robot Dog”](https://www.aaedmusa.com/projects/cara2)
 * [2026-05-04, 04:52:00](https://soylentnews.org/article.pl?sid=26/05/03/0223205&amp;from=rss) - [The Mushroom Making People Hallucinate Dozens of Tiny Humans](https://soylentnews.org/article.pl?sid=26/05/03/0223205&amp;from=rss)
