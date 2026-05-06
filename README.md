@@ -1,100 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advances in Technology and Innovation
+## AI and Technology Advancements
 
-* [krabby: making a fast Rust compiler](https://bal-e.org/speed/krabby/) ([Comments](https://lobste.rs/s/zrnuhi/krabby_making_fast_rust_compiler))
+* [Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say](https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32) - A revealing investigation uncovers allegations that Mark Zuckerberg personally approved of Meta's involvement in copyright infringement involving AI-generated content, as claimed by several publishers.
 
-* [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://arxiv.org/abs/2604.26752) ([Comments](https://news.ycombinator.com/item?id=48026021))
+* [VS Code Update Added Copilot As Default Co-Author To Git Commits](https://slashdot.org/story/26/05/05/0335220/vs-code-update-added-copilot-as-default-co-author-to-git-commits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft Visual Studio Code introduces a controversial feature: automatically adding GitHub Copilot as a default co-author to Git commits.
 
-* [Post-Quantum VPN Based on QUIC](https://github.com/quincy-rs/quincy) ([Comments](https://lobste.rs/s/ewpr4z/post_quantum_vpn_based_on_quic))
+* [Google Chrome silently installs a 4 GB AI model on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/) - Users express concerns as Google Chrome reportedly downloads a resource-intensive 4GB AI model onto devices without telling users.
 
-* [Writing software and sharing it for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026) ([Comments](https://news.ycombinator.com/item?id=48028842))
+* [Astronomers May Have Detected an Atmosphere Around a Tiny, Icy World Past Pluto](https://science.slashdot.org/story/26/05/05/0320235/astronomers-may-have-detected-an-atmosphere-around-a-tiny-icy-world-past-pluto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Scientists observe what may be an atmosphere surrounding a small celestial body located beyond Pluto, suggesting new insights into planetary formation and behavior.
 
-* [StarFighter 16-inch](https://us.starlabs.systems/pages/starfighter) ([Comments](https://lobste.rs/s/sywxsk/starfighter_16_inch))
+* [OpenAI, Google, and Microsoft Back Bill To Fund 'AI Literacy' In Schools](https://news.slashdot.org/story/26/05/04/1934208/openai-google-and-microsoft-back-bill-to-fund-ai-literacy-in-schools?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Leading AI companies throw their weight behind proposed legislation to improve AI literacy in educational institutions, reflecting the growing influence and importance of AI technology.
 
-* [Tokens and Dreams](https://charlesleifer.com/blog/tokens-and-dreams/) ([Comments](https://lobste.rs/s/3c4ba9/tokens_dreams))
+## Corporate Moves and Legal Controversies
 
-* [How Microplastics Are Likely Helping To Heat Up the Planet](https://news.slashdot.org/story/26/05/05/0341243/how-microplastics-are-likely-helping-to-heat-up-the-planet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=48021368))
+* [Apple Agrees To Pay iPhone Owners $250 Million For Not Delivering AI Siri](https://yro.slashdot.org/story/26/05/05/2244236/apple-agrees-to-pay-iphone-owners-250-million-for-not-delivering-ai-siri?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Apple agrees to a massive payout to settle with disgruntled users over allegations of failing to deliver on promised AI-based Siri features.
 
-* [MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble](https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/) ([Comments](https://lobste.rs/s/3dp42s/macbook_neo_deep_dive_benchmarks_wafer))
+* [Coinbase Lays Off Nearly 700 Workers In 'AI-Native' Restructuring](https://slashdot.org/story/26/05/05/1823200/coinbase-lays-off-nearly-700-workers-in-ai-native-restructuring?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Cryptocurrency exchange Coinbase announces a major layoff affecting hundreds of workers, citing a shift toward 'AI-native' operations.
 
-* [Astronomers May Have Detected an Atmosphere Around a Tiny, Icy World Past Pluto](https://science.slashdot.org/story/26/05/05/0320235/astronomers-may-have-detected-an-atmosphere-around-a-tiny-icy-world-past-pluto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Canonical’s Ubuntu Servers Go Down as Hackers Demand Direct Talks](https://soylentnews.org/article.pl?sid=26/05/04/1434244&amp;from=rss) - Cyberattacks targeting Canonical's Ubuntu servers lead to significant downtime, highlighting increasing vulnerabilities in digital infrastructure.
 
-* [Underwater robot tracks sperm whale conversations in real time](https://www.reuters.com/business/environment/underwater-robot-tracks-sperm-whale-conversations-real-time-2026-05-01/) ([Comments](https://news.ycombinator.com/item?id=47998664))
+* [Brockman Rebuts Musk's Take On Startup's History, Recounts Secret Work For Tesla](https://yro.slashdot.org/story/26/05/05/2259238/brockman-rebuts-musks-take-on-startups-history-recounts-secret-work-for-tesla?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A Tesla-related startup's journey gets a rare glimpse as Brockman counters Elon Musk's account, sharing details of the partnership.
 
-## AI Developments and Ethical Concerns
+* [White House Considers Vetting AI Models Before They Are Released](https://yro.slashdot.org/story/26/05/04/1954244/white-house-considers-vetting-ai-models-before-they-are-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The U.S. government debates implementing stringent reviews for artificial intelligence models before public release to address ethical concerns.
 
-* [Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say](https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32) ([Comments](https://news.ycombinator.com/item?id=48029334))
+## Innovations and Breakthroughs
 
-* [Oscars Bans AI Actors and Writing From Awards](https://entertainment.slashdot.org/story/26/05/05/045215/oscars-bans-ai-actors-and-writing-from-awards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=48025244))
+* [Someone Turned a PS5 Into a Linux Gaming PC, and It Actually Works](https://soylentnews.org/article.pl?sid=26/05/04/1443241&amp;from=rss) - A tech enthusiast has turned a PlayStation 5 into a functional Linux gaming PC, opening possibilities for multi-platform gaming.
 
-* [Google Chrome silently installs a 4 GB AI model on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/) ([Comments](https://news.ycombinator.com/item?id=48019219))
+* [Post-Quantum VPN Based on QUIC](https://github.com/quincy-rs/quincy) - Researchers introduce a VPN prototype built on QUIC technology designed to be secure against quantum-computing threats.
 
-* [Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement](https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/) ([Comments](https://news.ycombinator.com/item?id=48026207))
+* [Show HN: Explore color palettes inspired by 3000 master painter artworks](https://paletteinspiration.com/) - A fascinating web tool that allows users to find color inspiration from a collection of over 3,000 paintings by master artists.
 
-* [OpenAI President Discloses His Stake In the Company Is Worth $30 Billion](https://yro.slashdot.org/story/26/05/04/2247258/openai-president-discloses-his-stake-in-the-company-is-worth-30-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Science and Environment
 
-## Corporate and Financial Shifts
+* [How Microplastics Are Likely Helping To Heat Up the Planet](https://news.slashdot.org/story/26/05/05/0341243/how-microplastics-are-likely-helping-to-heat-up-the-planet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A study investigates the role of microplastics in exacerbating global warming, revealing unexpected environmental impacts.
 
-* [Coinbase Lays Off Nearly 700 Workers In 'AI-Native' Restructuring](https://slashdot.org/story/26/05/05/1823200/coinbase-lays-off-nearly-700-workers-in-ai-native-restructuring?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://slashdot.org/story/26/05/05/1823200/coinbase-lays-off-nearly-700-workers-in-ai-native-restructuring?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [California farmers to destroy 420k peach trees following Del Monte bankruptcy](https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php) - Economic and environmental implications emerge as California farmers face the reality of destroying peach orchards due to the financial fallout of Del Monte's bankruptcy.
 
-* [California farmers to destroy 420k peach trees following Del Monte bankruptcy](https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php) ([Comments](https://news.ycombinator.com/item?id=48026349))
-
-* [Google DeepMind Workers Vote To Unionize Over Military AI Deals](https://tech.slashdot.org/story/26/05/05/1817252/google-deepmind-workers-vote-to-unionize-over-military-ai-deals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=48028546))
-
-* [Microsoft Pushes Out Experienced American Talent to Fuel AI Ambitions](https://soylentnews.org/article.pl?sid=26/04/30/0224241&amp;from=rss) ([Comments](https://soylentnews.org/comment.pl?sid=26/04/30/0224241))
-
-## Cybersecurity Topics
-
-* [An exploitable integer overflow in Lix (CVE-2026-44028)](https://lix.systems/blog/2026-05-05-lix-unsigned-integer-overflow/) ([Comments](https://lobste.rs/s/ebv5qy/exploitable_integer_overflow_lix_cve))
-
-* [US Government Warns of Severe CopyFail Bug Affecting Major Versions of Linux](https://linux.slashdot.org/story/26/05/05/1535209/us-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://linux.slashdot.org/story/26/05/05/1535209/us-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [Quantum Key Distribution (QKD) and Quantum Cryptography (QC)](https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/) ([Comments](https://news.ycombinator.com/item?id=48025828))
-
-* [A Caddy Cert Expired Because systemd-resolved Was Selectively Broken](https://rant.mvh.dev/a-caddy-cert-expired-because-systemd-resolved-was-selectively-broken/) ([Comments](https://lobste.rs/s/z0ozbb/caddy_cert_expired_because_systemd))
-
-* [Security Advisory: Local privilege escalation in Lix and Nix](https://discourse.nixos.org/t/security-advisory-local-privilege-escalation-in-lix-and-nix/77407) ([Comments](https://lobste.rs/s/g0crsm/security_advisory_local_privilege))
-
-## Creative Projects and Insights
-
-* [Building my own Vi text editor in BASIC](https://leetusman.com/nosebook/yvi) ([Comments](https://lobste.rs/s/ib8cgq/building_my_own_vi_text_editor_basic))
-
-* [Explore color palettes inspired by 3000 master painter artworks](https://paletteinspiration.com/) ([Comments](https://news.ycombinator.com/item?id=48026342))
-
-* [EEVblog: The 555 Timer is 55 years old [video]](https://www.youtube.com/watch?v=6JhK8iCQuqI) ([Comments](https://news.ycombinator.com/item?id=48024129))
-
-* [I completed 100 Days of Java over 5 years and mapped the journey as a graph](https://mohibulsblog.netlify.app/java/100daysofjava/graph/) ([Comments](https://news.ycombinator.com/item?id=47996740))
-
-## Web and Internet Trends
-
-* [RSS Feeds Send Me More Traffic Than Google](https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/) ([Comments](https://lobste.rs/s/z0nkyf/rss_feeds_send_me_more_traffic_than_google))
-
-* [Why didn’t IPv6 work in my home network?](https://gowtham.dev/blog/ipv6-problems.html) ([Comments](https://lobste.rs/s/yhk0mq/why_didn_t_ipv6_work_my_home_network))
-
-* [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de) ([Comments](https://news.ycombinator.com/item?id=48027897))
-
-## Privacy and Security Controversies
-
-* [Anthropic Secretly Installs Spyware When You Install Claude Desktop](https://soylentnews.org/article.pl?sid=26/05/04/1427214&amp;from=rss) ([Comments](https://soylentnews.org/comment.pl?sid=26/05/04/1427214))
-
-* [Google and Pentagon Reportedly Agree on Deal for ‘Any Lawful’ Use of AI](https://soylentnews.org/article.pl?sid=26/04/30/1235210&amp;from=rss) ([Comments](https://soylentnews.org/comment.pl?sid=26/04/30/1235210))
-
-* [Notepad For Mac Release Is Disavowed By the Creator of the Original](https://tech.slashdot.org/story/26/05/04/232252/notepad-for-mac-release-is-disavowed-by-the-creator-of-the-original?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Podman rootless containers and the Copy Fail exploit](https://garrido.io/notes/podman-rootless-containers-copy-fail/) ([Comments](https://lobste.rs/s/pdckk8/podman_rootless_containers_copy_fail))
-
-## Entertainment and Culture
-
-* [Why most product tours get skipped](https://productonboarding.com/articles/why-product-tours-get-skipped) ([Comments](https://news.ycombinator.com/item?id=48028546))
-
-* [The Mushroom Making People Hallucinate Dozens of Tiny Humans](https://soylentnews.org/article.pl?sid=26/05/03/0223205&amp;from=rss) ([Comments](https://soylentnews.org/comment.pl?sid=26/05/03/0223205))
-
-## Economic and Labor Developments
-
-* [Today I’ve made the difficult decision to reduce the size of Coinbase by ~14%](https://twitter.com/brian_armstrong/status/2051616759145185723) ([Comments](https://news.ycombinator.com/item?id=48021368))
-
-* [Proliferate (YC S25) Is Hiring- 200k for junior engineers](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer) ([Comments](https://news.ycombinator.com/item?id=48025244))
+* [The Mushroom Making People Hallucinate Dozens of Tiny Humans](https://soylentnews.org/article.pl?sid=26/05/03/0223205&amp;from=rss) - An intriguing story dives into a rare species of mushroom causing hallucinations of miniature human figures.
 
 ---
 
@@ -121,6 +65,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-05-06, 03:30:00](https://yro.slashdot.org/story/26/05/05/2259238/brockman-rebuts-musks-take-on-startups-history-recounts-secret-work-for-tesla?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Brockman Rebuts Musk&apos;s Take On Startup&apos;s History, Recounts Secret Work For Tesla](https://yro.slashdot.org/story/26/05/05/2259238/brockman-rebuts-musks-take-on-startups-history-recounts-secret-work-for-tesla?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-05, 23:42:00](https://soylentnews.org/article.pl?sid=26/05/04/1443241&amp;from=rss) - [Someone Turned a PS5 Into a Linux Gaming PC, and It Actually Works](https://soylentnews.org/article.pl?sid=26/05/04/1443241&amp;from=rss)
+* [2026-05-05, 23:00:00](https://yro.slashdot.org/story/26/05/05/2244236/apple-agrees-to-pay-iphone-owners-250-million-for-not-delivering-ai-siri?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Agrees To Pay iPhone Owners $250 Million For Not Delivering AI Siri](https://yro.slashdot.org/story/26/05/05/2244236/apple-agrees-to-pay-iphone-owners-250-million-for-not-delivering-ai-siri?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-05, 22:43:47](https://news.ycombinator.com/item?id=48029753) - [Xbox CEO ends Copilot AI development and overhauls leadership](https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/)
 * [2026-05-05, 22:22:30](https://lobste.rs/s/zrnuhi/krabby_making_fast_rust_compiler) - [krabby: making a fast Rust compiler](https://bal-e.org/speed/krabby/)
 * [2026-05-05, 22:07:18](https://news.ycombinator.com/item?id=48029334) - [Zuckerberg &apos;personally authorized&apos; Meta&apos;s copyright infringement, publishers say](https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32)
 * [2026-05-05, 22:00:00](https://slashdot.org/story/26/05/05/1823200/coinbase-lays-off-nearly-700-workers-in-ai-native-restructuring?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Coinbase Lays Off Nearly 700 Workers In &apos;AI-Native&apos; Restructuring](https://slashdot.org/story/26/05/05/1823200/coinbase-lays-off-nearly-700-workers-in-ai-native-restructuring?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -138,9 +86,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-05, 18:13:14](https://news.ycombinator.com/item?id=48026342) - [Show HN: Explore color palettes inspired by 3000 master painter artworks](https://paletteinspiration.com/)
 * [2026-05-05, 18:04:25](https://news.ycombinator.com/item?id=48026207) - [Zuckerberg &apos;Personally Authorized and Encouraged&apos; Meta&apos;s Copyright Infringement](https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/)
 * [2026-05-05, 18:00:00](https://linux.slashdot.org/story/26/05/05/1535209/us-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Government Warns of Severe CopyFail Bug Affecting Major Versions of Linux](https://linux.slashdot.org/story/26/05/05/1535209/us-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-05, 17:57:24](https://lobste.rs/s/qausao/dispute_over_tab_key_between_microsoft) - [A dispute over the TAB key between Microsoft and IBM organizational structures](https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298)
 * [2026-05-05, 17:52:31](https://news.ycombinator.com/item?id=48026021) - [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://arxiv.org/abs/2604.26752)
 * [2026-05-05, 17:40:08](https://lobste.rs/s/qynufo/comparing_z80_6502_their_relatives) - [Comparing the Z80 and 6502 to Their Relatives](https://bumbershootsoft.wordpress.com/2026/05/02/comparing-the-z80-and-6502-to-their-relatives/)
-* [2026-05-05, 17:38:17](https://news.ycombinator.com/item?id=48025828) - [Quantum Key Distribution (QKD) and Quantum Cryptography (QC)](https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/)
 * [2026-05-05, 17:28:18](https://news.ycombinator.com/item?id=48025687) - [IBM didn&apos;t want Microsoft to use the Tab key to move between dialog fields](https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298)
 * [2026-05-05, 17:00:16](https://news.ycombinator.com/item?id=48025244) - [Proliferate (YC S25) Is Hiring- 200k for junior engineers](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer)
 * [2026-05-05, 17:00:00](https://entertainment.slashdot.org/story/26/05/05/045215/oscars-bans-ai-actors-and-writing-from-awards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Oscars Bans AI Actors and Writing From Awards](https://entertainment.slashdot.org/story/26/05/05/045215/oscars-bans-ai-actors-and-writing-from-awards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -173,7 +121,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-05, 09:25:00](https://soylentnews.org/article.pl?sid=26/05/04/1436227&amp;from=rss) - [New Report Highlights Fructose as a Key Driver of Metabolic Disease](https://soylentnews.org/article.pl?sid=26/05/04/1436227&amp;from=rss)
 * [2026-05-05, 07:44:59](https://lobste.rs/s/3dp42s/macbook_neo_deep_dive_benchmarks_wafer) - [MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble](https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/)
 * [2026-05-05, 07:34:55](https://news.ycombinator.com/item?id=48019219) - [Google Chrome silently installs a 4 GB AI model on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
-* [2026-05-05, 07:26:03](https://news.ycombinator.com/item?id=48019163) - [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)
 * [2026-05-05, 07:00:00](https://science.slashdot.org/story/26/05/05/0320235/astronomers-may-have-detected-an-atmosphere-around-a-tiny-icy-world-past-pluto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Astronomers May Have Detected an Atmosphere Around a Tiny, Icy World Past Pluto](https://science.slashdot.org/story/26/05/05/0320235/astronomers-may-have-detected-an-atmosphere-around-a-tiny-icy-world-past-pluto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-05, 04:41:00](https://soylentnews.org/article.pl?sid=26/05/04/1434244&amp;from=rss) - [Canonical’s Ubuntu Servers Go Down as Hackers Demand Direct Talks](https://soylentnews.org/article.pl?sid=26/05/04/1434244&amp;from=rss)
 * [2026-05-05, 03:30:00](https://yro.slashdot.org/story/26/05/04/2247258/openai-president-discloses-his-stake-in-the-company-is-worth-30-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI President Discloses His Stake In the Company Is Worth $30 Billion](https://yro.slashdot.org/story/26/05/04/2247258/openai-president-discloses-his-stake-in-the-company-is-worth-30-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -182,20 +129,19 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-04, 23:00:00](https://yro.slashdot.org/story/26/05/04/1954244/white-house-considers-vetting-ai-models-before-they-are-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [White House Considers Vetting AI Models Before They Are Released](https://yro.slashdot.org/story/26/05/04/1954244/white-house-considers-vetting-ai-models-before-they-are-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-04, 22:20:57](https://lobste.rs/s/pdckk8/podman_rootless_containers_copy_fail) - [Podman rootless containers and the Copy Fail exploit](https://garrido.io/notes/podman-rootless-containers-copy-fail/)
 * [2026-05-04, 22:00:00](https://news.slashdot.org/story/26/05/04/1934208/openai-google-and-microsoft-back-bill-to-fund-ai-literacy-in-schools?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI, Google, and Microsoft Back Bill To Fund &apos;AI Literacy&apos; In Schools](https://news.slashdot.org/story/26/05/04/1934208/openai-google-and-microsoft-back-bill-to-fund-ai-literacy-in-schools?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-04, 21:00:00](https://hardware.slashdot.org/story/26/05/04/1929210/the-pixel-11-could-be-the-next-victim-of-the-ram-shortage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Pixel 11 Could Be the Next Victim of the RAM Shortage](https://hardware.slashdot.org/story/26/05/04/1929210/the-pixel-11-could-be-the-next-victim-of-the-ram-shortage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-04, 20:38:33](https://lobste.rs/s/nmnmnq/nondeterminism_s_not_problem) - [Nondeterminism&apos;s not the problem](https://isaacvando.com/nondeterminisms-not-the-problem)
 * [2026-05-04, 20:17:53](https://lobste.rs/s/g0crsm/security_advisory_local_privilege) - [Security Advisory: Local privilege escalation in Lix and Nix](https://discourse.nixos.org/t/security-advisory-local-privilege-escalation-in-lix-and-nix/77407)
-* [2026-05-04, 20:00:00](https://linux.slashdot.org/story/26/05/04/1920215/expanded-amd-hdmi-21-support-is-coming-to-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Expanded AMD HDMI 2.1 Support Is Coming To Linux](https://linux.slashdot.org/story/26/05/04/1920215/expanded-amd-hdmi-21-support-is-coming-to-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-04, 19:07:09](https://lobste.rs/s/tzewx3/oasis_linux) - [Oasis Linux](https://git.sr.ht/~mcf/oasis)
 * [2026-05-04, 19:07:00](https://soylentnews.org/article.pl?sid=26/05/03/0258243&amp;from=rss) - [NHS Goes to War Against Open Source](https://soylentnews.org/article.pl?sid=26/05/03/0258243&amp;from=rss)
 * [2026-05-04, 19:06:29](https://lobste.rs/s/jh9f2r/release_v0_9_0_foxboron_ssh_tpm_agent) - [Release v0.9.0 · Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent/releases/tag/v0.9.0)
 * [2026-05-04, 14:26:01](https://lobste.rs/s/flowcy/async_rust_never_left_mvp_state) - [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)
 * [2026-05-04, 14:20:00](https://soylentnews.org/article.pl?sid=26/05/03/0252239&amp;from=rss) - [Zambia Cancels Global Digital Freedoms Conference Days Before Start](https://soylentnews.org/article.pl?sid=26/05/03/0252239&amp;from=rss)
-* [2026-05-04, 12:24:41](https://lobste.rs/s/pidcaz/how_llms_distort_our_written_language) - [How LLMs Distort Our Written Language](https://sites.google.com/view/llmwritingdistortion/home)
 * [2026-05-04, 09:39:00](https://soylentnews.org/article.pl?sid=26/05/03/0232241&amp;from=rss) - [An Amateur Just Solved a 60-Year-Old Math Problem—by Asking AI](https://soylentnews.org/article.pl?sid=26/05/03/0232241&amp;from=rss)
 * [2026-05-04, 04:52:00](https://soylentnews.org/article.pl?sid=26/05/03/0223205&amp;from=rss) - [The Mushroom Making People Hallucinate Dozens of Tiny Humans](https://soylentnews.org/article.pl?sid=26/05/03/0223205&amp;from=rss)
 * [2026-05-04, 00:09:00](https://soylentnews.org/article.pl?sid=26/05/03/020241&amp;from=rss) - [Ask.com Closes](https://soylentnews.org/article.pl?sid=26/05/03/020241&amp;from=rss)
+* [2026-05-03, 20:02:21](https://news.ycombinator.com/item?id=48000811) - [Urban Birds Are Rising Earlier Because of Traffic Noise (2013)](https://www.audubon.org/news/urban-birds-are-rising-earlier-because-traffic-noise)
 * [2026-05-03, 19:19:00](https://soylentnews.org/article.pl?sid=26/05/01/079248&amp;from=rss) - [The Linux Kernel Tree About to Hit 40 Million Lines, AMD Driver Above 6 Million Lines](https://soylentnews.org/article.pl?sid=26/05/01/079248&amp;from=rss)
+* [2026-05-03, 18:09:34](https://news.ycombinator.com/item?id=47999698) - [Past Ferrari Models, 1947–2023](https://www.ferrari.com/en-US/auto/past-model)
 * [2026-05-03, 16:35:20](https://news.ycombinator.com/item?id=47998664) - [Underwater robot tracks sperm whale conversations in real time](https://www.reuters.com/business/environment/underwater-robot-tracks-sperm-whale-conversations-real-time-2026-05-01/)
 * [2026-05-03, 14:35:00](https://soylentnews.org/article.pl?sid=26/05/01/078213&amp;from=rss) - [There&apos;s a Good Reason Semi Trucks Don&apos;t Use V8s](https://soylentnews.org/article.pl?sid=26/05/01/078213&amp;from=rss)
 * [2026-05-03, 13:25:59](https://news.ycombinator.com/item?id=47996740) - [I completed 100 Days of Java over 5 years and mapped the journey as a graph](https://mohibulsblog.netlify.app/java/100daysofjava/graph/)
@@ -203,15 +149,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-03, 09:52:00](https://soylentnews.org/article.pl?sid=26/05/01/073236&amp;from=rss) - [Ghostty Is Leaving GitHub - Ghostty Developer Loses Confidence in GitHub’s Reliability](https://soylentnews.org/article.pl?sid=26/05/01/073236&amp;from=rss)
 * [2026-05-03, 08:58:50](https://news.ycombinator.com/item?id=47994946) - [Researchers print structural colour with an inkjet printer](https://physicsworld.com/a/researchers-print-structural-colour-with-an-inkjet-printer/)
 * [2026-05-03, 05:10:00](https://soylentnews.org/article.pl?sid=26/05/01/0658214&amp;from=rss) - [Round Up of Latest OS and Browser Releases](https://soylentnews.org/article.pl?sid=26/05/01/0658214&amp;from=rss)
-* [2026-05-03, 04:06:08](https://news.ycombinator.com/item?id=47993240) - [Comparing the Z80 and 6502 to Their Relatives](https://bumbershootsoft.wordpress.com/2026/05/02/comparing-the-z80-and-6502-to-their-relatives/)
 * [2026-05-03, 00:27:00](https://soylentnews.org/article.pl?sid=26/05/01/0648229&amp;from=rss) - [The Resurrected Commodore 64 is Getting a Facelift Like the Original](https://soylentnews.org/article.pl?sid=26/05/01/0648229&amp;from=rss)
 * [2026-05-02, 19:42:00](https://soylentnews.org/article.pl?sid=26/05/01/0645211&amp;from=rss) - [Drone Pilot Makes US Rescind No-Fly Zones Around Unmarked, Moving ICE Vehicles](https://soylentnews.org/article.pl?sid=26/05/01/0645211&amp;from=rss)
 * [2026-05-02, 14:56:00](https://soylentnews.org/article.pl?sid=26/05/01/0637252&amp;from=rss) - [Linux Cryptographic Code Flaw Offers Fast Route to Root](https://soylentnews.org/article.pl?sid=26/05/01/0637252&amp;from=rss)
 * [2026-05-02, 10:07:00](https://soylentnews.org/article.pl?sid=26/04/30/1239239&amp;from=rss) - [Apple Wants to Kill Your Time Capsule, but They Run NetBSD So They Can&apos;t](https://soylentnews.org/article.pl?sid=26/04/30/1239239&amp;from=rss)
 * [2026-05-02, 05:21:00](https://soylentnews.org/article.pl?sid=26/04/30/1235210&amp;from=rss) - [Google and Pentagon Reportedly Agree on Deal for ‘Any Lawful’ Use of AI](https://soylentnews.org/article.pl?sid=26/04/30/1235210&amp;from=rss)
 * [2026-05-02, 00:38:00](https://soylentnews.org/article.pl?sid=26/04/30/1229213&amp;from=rss) - [How Linux 7.0 Broke PostgreSQL](https://soylentnews.org/article.pl?sid=26/04/30/1229213&amp;from=rss)
-* [2026-05-01, 19:55:00](https://soylentnews.org/article.pl?sid=26/04/30/1227212&amp;from=rss) - [Colorado&apos;s Anti-Repair Bill is Dead](https://soylentnews.org/article.pl?sid=26/04/30/1227212&amp;from=rss)
-* [2026-05-01, 15:11:00](https://soylentnews.org/article.pl?sid=26/04/30/0232227&amp;from=rss) - [Vibe Coding Will Break Your Company      ](https://soylentnews.org/article.pl?sid=26/04/30/0232227&amp;from=rss)
-* [2026-05-01, 10:25:00](https://soylentnews.org/article.pl?sid=26/04/30/0229207&amp;from=rss) - [Google Ad Income Per User - With Demographic Breakdown](https://soylentnews.org/article.pl?sid=26/04/30/0229207&amp;from=rss)
-* [2026-05-01, 05:41:00](https://soylentnews.org/article.pl?sid=26/04/30/0224241&amp;from=rss) - [Microsoft Pushes Out Experienced American Talent to Fuel AI Ambitions](https://soylentnews.org/article.pl?sid=26/04/30/0224241&amp;from=rss)
-* [2026-05-01, 00:58:00](https://soylentnews.org/article.pl?sid=26/04/30/0223202&amp;from=rss) - [Your Phone is About to Stop Being Yours. Keep Android Open!](https://soylentnews.org/article.pl?sid=26/04/30/0223202&amp;from=rss)
