@@ -1,68 +1,70 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Technology and Software Updates
 
-* [Tesla is recalling its cheaper Cybertruck because the wheels might fall off](https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall) ([comments](https://news.ycombinator.com/item?id=48063240))
+* [What We Lost the Last Time Code Got Cheap](https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap) - A reflective exploration of the challenges and trade-offs faced when software development costs decrease significantly.
 
-* [Serving a Website on a Raspberry Pi Zero Running Entirely in RAM](https://btxx.org/posts/memory/) ([comments](https://lobste.rs/s/fsueos/serving_website_on_raspberry_pi_zero))
+* [Chrome Silently Installs a 4GB AI Model On Your Device Without Consent](https://tech.slashdot.org/story/26/05/08/0635229/chrome-silently-installs-a-4gb-ai-model-on-your-device-without-consent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Discussion on the controversial decision by Chrome to pre-install a massive AI model on user devices.
 
-* [ClojureScript Gets Async/Await](https://clojurescript.org/news/2026-05-07-release) ([comments](https://news.ycombinator.com/item?id=48059662))
+* [The `Sync` bound nobody asked for](https://verrchu.github.io/blog/1-the-sync-bound-nobody-asked-for/) - Examination of the often overlooked `Sync` trait in programming and its implications on software development.
 
-* [blaise: A modern, self-hosting Object Pascal compiler built for the 2020s. Zero legacy, full ARC, and unified UTF-8](https://github.com/graemeg/blaise) ([comments](https://lobste.rs/s/ot6g23/blaise_modern_self_hosting_object_pascal))
+* [Show HN: Git for AI Agents](https://github.com/regent-vcs/re_gent) - Introduction of a novel way to use Git-like structures for version control in AI systems.
 
-* [cuda-oxide: cuda-oxide is an experimental Rust-to-CUDA compiler](https://github.com/NVlabs/cuda-oxide) ([comments](https://lobste.rs/s/rwjmjm/cuda_oxide_cuda_oxide_is_experimental))
+* [Just Fucking Use Go](https://blainsmith.com/articles/just-fucking-use-go/) - Advocacy for Go programming language, arguing its benefits over other options.
 
-* [GeoJSON](https://geojson.org/) ([comments](https://news.ycombinator.com/item?id=48060918))
+* [From Supabase to Clerk to Better Auth](https://blog.val.town/better-auth) - Exploration of authentication alternatives for developers moving from Supabase to Clerk.
 
-## Security and Privacy
+* [blaise: A modern, self-hosting Object Pascal compiler built for the 2020s. Zero legacy, full ARC, and unified UTF-8](https://github.com/graemeg/blaise) - A modern approach to Object Pascal, incorporating modern programming advancements.
 
-* [Hackers breach JDownloader's website to serve malware-laced downloads](https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/) ([comments](https://news.ycombinator.com/item?id=48062035))
+* [Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders) - Insights into developing advanced autoencoders for natural language processing.
 
-* [The Canvas Hack Is a New Kind of Ransomware Debacle](https://it.slashdot.org/story/26/05/08/0622227/the-canvas-hack-is-a-new-kind-of-ransomware-debacle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=48059633))
+* [DeepSeek 4 Flash local inference engine for Metal](https://github.com/antirez/ds4) - A new open-source inference engine for Metal, optimized for local model execution on Apple devices.
 
-* [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8) ([comments 1](https://news.ycombinator.com/item?id=48053623), [comments 2](https://lobste.rs/s/lu4efg/dirty_frag_universal_linux_lpe))
+## Hardware and Engineering
 
-* [GNU IFUNC is the real culprit behind CVE-2024-3094](https://github.com/robertdfrench/ifuncd-up) ([comments](https://news.ycombinator.com/item?id=48056749))
+* [Serving a Website on a Raspberry Pi Zero Running in RAM](https://btxx.org/posts/memory/) - Detailed guide on hosting a website entirely in RAM using a Raspberry Pi Zero.
 
-* [Podman rootless containers and the Copy Fail exploit](https://garrido.io/notes/podman-rootless-containers-copy-fail/) ([comments](https://news.ycombinator.com/item?id=48062745))
+* [Getting peak TOPS on a Ryzen AI 7 350 NPU](https://destevez.net/2026/05/getting-peak-tops-on-a-ryzen-ai-7-350-npu/) - Exploration of optimizing AI workloads on the Ryzen AI 7 350 Neural Processing Unit.
 
-## Artificial Intelligence and Machine Learning
+* [First Segment of the Fehmarnbelt Tunnel Is In Place](https://news.slashdot.org/story/26/05/07/1933256/first-segment-of-the-fehmarnbelt-tunnel-is-in-place?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Progress update on the ambitious Fehmarnbelt Tunnel construction project.
 
-* [Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders) ([comments](https://news.ycombinator.com/item?id=48052537))
+* [building a web server in aarch64 assembly to give my life (a lack of) meaning](https://imtomt.github.io/ymawky/) - Demonstrating low-level hardware programming by building a web server directly in assembly language.
 
-* [GPT-5.5 Price Increase: What It Costs](https://openrouter.ai/announcements/gpt55-cost-analysis) ([comments](https://news.ycombinator.com/item?id=48057209))
+## Artificial Intelligence and Its Impacts
 
-* [IMF Warns New AI Models Risk 'Systemic' Shock To Finance](https://news.slashdot.org/story/26/05/07/200212/imf-warns-new-ai-models-risk-systemic-shock-to-finance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=48052371))
+* [Cloudflare To Cut About 20% Workforce As AI Adoption Reshapes Operations](https://slashdot.org/story/26/05/08/040251/cloudflare-to-cut-about-20-workforce-as-ai-adoption-reshapes-operations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Examination of workforce downsizing amid rising AI adoption at Cloudflare.
 
-* [Richard Dawkins 'Convinced' AI Is Conscious](https://slashdot.org/story/26/05/07/0319248/richard-dawkins-convinced-ai-is-conscious?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=48050278))
+* [ClojureScript Gets Async/Await](https://clojurescript.org/news/2026-05-07-release) - Introduction of async/await capabilities in ClojureScript, marking a significant development for asynchronous programming.
 
-## Science and Space
+* [Anthropic Secretly Installs Spyware When You Install Claude Desktop](https://soylentnews.org/article.pl?sid=26/05/04/1427214&amp;from=rss) - Controversy surrounding potential privacy violations in Anthropic's software installation.
 
-* [Astronomers Pin Down the Origins of a Planetary Odd Couple](https://soylentnews.org/article.pl?sid=26/05/07/0152233&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/05/07/0152233&amp;from=rss))
+## Cybersecurity and System Vulnerabilities
 
-* [Single Dose of Magic Mushroom Psychedelic Can Cause Anatomical Brain Changes](https://science.slashdot.org/story/26/05/07/0418227/single-dose-of-magic-mushroom-psychedelic-can-cause-anatomical-brain-changes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/05/07/0418227/single-dose-of-magic-mushroom-psychedelic-can-cause-anatomical-brain-changes))
+* [Hackers breach JDownloader's website to serve malware-laced downloads](https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/) - Warning for users after hackers compromised the JDownloader website.
 
-* [Scientists Stunned by New Organic Molecules Found on Mars](https://soylentnews.org/article.pl?sid=26/05/06/0347215&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/05/06/0347215&amp;from=rss))
+* [Microsoft Issues Warning About Linux 'Copy Fail' Vulnerability](https://it.slashdot.org/story/26/05/07/1925210/microsoft-issues-warning-about-linux-copy-fail-vulnerability?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Details on a new vulnerability affecting Linux systems and Microsoft's response.
 
-## Notable Events and Trends
+* [The Canvas Hack Is a New Kind of Ransomware Debacle](https://it.slashdot.org/story/26/05/08/0622227/the-canvas-hack-is-a-new-kind-of-ransomware-debacle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Analysis of unique ransomware tactics targeting large organizations.
 
-* [Poland is now among the 20 largest economies. How it happened](https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa) ([comments](https://news.ycombinator.com/item?id=48062117))
+## Science and Exploration
 
-* [Nissan Redirects Mississippi Jobs To Trucks, SUVs Now](https://soylentnews.org/article.pl?sid=26/05/07/0149246&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/05/07/0149246&amp;from=rss))
+* [Astronomers Pin Down the Origins of a Planetary Odd Couple](https://soylentnews.org/article.pl?sid=26/05/07/0152233&amp;from=rss) - A new astronomical discovery shedding light on unusual planetary systems.
 
-* [Major Homebuilder To Test Placing Mini Data Centers in Suburban Backyards](https://hardware.slashdot.org/story/26/05/07/046259/major-homebuilder-to-test-placing-mini-data-centers-in-suburban-backyards?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/05/07/046259/major-homebuilder-to-test-placing-mini-data-centers-in-suburban-backyards))
+* [Scientists Stunned by New Organic Molecules Found on Mars](https://soylentnews.org/article.pl?sid=26/05/06/0347215&amp;from=rss) - Groundbreaking findings of unexpected organic molecules on Mars, enhancing the search for life.
 
-* [Sam Altman Had a Bad Day In Court](https://yro.slashdot.org/story/26/05/08/0339239/sam-altman-had-a-bad-day-in-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/05/08/0339239/sam-altman-had-a-bad-day-in-court))
+## Economic and Global Developments
 
-## Unique and Interesting Stories
+* [Poland is now among the 20 largest economies. How it happened](https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa) - Analysis of Poland's remarkable economic rise into the top 20 global economies.
 
-* [Making Wooden Skis by Hand](https://soylentnews.org/article.pl?sid=26/05/07/0148227&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/05/07/0148227&amp;from=rss))
+* [Brazil's Pix payment system faces pressure from Visa and Mastercard](https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/) - Insight into challenges faced by Brazil's fast-adopted payment system from global credit card giants.
 
-* [The Mushroom Making People Hallucinate Dozens of Tiny Humans](https://soylentnews.org/article.pl?sid=26/05/03/0223205&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/05/03/0223205&amp;from=rss))
+## Unusual Projects and Explorations
 
-* [An Amateur Just Solved a 60-Year-Old Math Problem—by Asking AI](https://soylentnews.org/article.pl?sid=26/05/03/0232241&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/05/03/0232241&amp;from=rss))
+* [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/) - The behind-the-scenes effort to manage litter at the massive arts festival.
 
-* [Pinocchio is weirder than you remembered](https://storica.club/blog/pinocchio-in-italian/) ([comments](https://news.ycombinator.com/item?id=48035420))
+* [An Amateur Just Solved a 60-Year-Old Math Problem—by Asking AI](https://soylentnews.org/article.pl?sid=26/05/03/0232241&amp;from=rss) - How AI-assisted efforts led to solving a complex and longstanding mathematical puzzle.
+
+* [Making Wooden Skis by Hand](https://soylentnews.org/article.pl?sid=26/05/07/0148227&amp;from=rss) - Exploring the craftsmanship of creating handmade wooden skis.
 
 ---
 
@@ -89,12 +91,19 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-05-08, 16:55:25](https://lobste.rs/s/eabrz3/what_we_lost_last_time_code_got_cheap) - [What We Lost the Last Time Code Got Cheap](https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap)
+* [2026-05-08, 16:00:00](https://tech.slashdot.org/story/26/05/08/0635229/chrome-silently-installs-a-4gb-ai-model-on-your-device-without-consent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Chrome Silently Installs a 4GB AI Model On Your Device Without Consent](https://tech.slashdot.org/story/26/05/08/0635229/chrome-silently-installs-a-4gb-ai-model-on-your-device-without-consent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-08, 15:12:55](https://lobste.rs/s/c8cv7a/sync_bound_nobody_asked_for) - [The `Sync` bound nobody asked for](https://verrchu.github.io/blog/1-the-sync-bound-nobody-asked-for/)
+* [2026-05-08, 15:10:35](https://news.ycombinator.com/item?id=48064312) - [Serving a Website on a Raspberry Pi Zero Running in RAM](https://btxx.org/posts/memory/)
+* [2026-05-08, 15:00:00](https://slashdot.org/story/26/05/08/040251/cloudflare-to-cut-about-20-workforce-as-ai-adoption-reshapes-operations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cloudflare To Cut About 20% Workforce As AI Adoption Reshapes Operations](https://slashdot.org/story/26/05/08/040251/cloudflare-to-cut-about-20-workforce-as-ai-adoption-reshapes-operations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-08, 14:15:36](https://news.ycombinator.com/item?id=48063548) - [Show HN: Git for AI Agents](https://github.com/regent-vcs/re_gent)
+* [2026-05-08, 14:14:31](https://news.ycombinator.com/item?id=48063521) - [PC Engine CPU](https://jsgroth.dev/blog/posts/pc-engine-cpu/)
 * [2026-05-08, 13:58:32](https://news.ycombinator.com/item?id=48063240) - [Tesla is recalling its cheaper Cybertruck because the wheels might fall off](https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall)
 * [2026-05-08, 13:56:10](https://news.ycombinator.com/item?id=48063199) - [Google Cloud Fraud Defence is just WEI repackaged](https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/)
 * [2026-05-08, 13:55:31](https://lobste.rs/s/fsueos/serving_website_on_raspberry_pi_zero) - [Serving a Website on a Raspberry Pi Zero Running Entirely in RAM](https://btxx.org/posts/memory/)
 * [2026-05-08, 13:35:00](https://soylentnews.org/article.pl?sid=26/05/07/0152233&amp;from=rss) - [Astronomers Pin Down the Origins of a Planetary Odd Couple](https://soylentnews.org/article.pl?sid=26/05/07/0152233&amp;from=rss)
+* [2026-05-08, 13:31:11](https://lobste.rs/s/5swwi0/surprisingly_complex_journey_text) - [The surprisingly complex journey to text-selectable client-side generated PDFs](https://sdocs.dev/blogs/journey-to-pdf-generation)
 * [2026-05-08, 13:22:33](https://news.ycombinator.com/item?id=48062745) - [Podman rootless containers and the Copy Fail exploit](https://garrido.io/notes/podman-rootless-containers-copy-fail/)
-* [2026-05-08, 13:06:51](https://news.ycombinator.com/item?id=48062530) - [UFO Release 1: Presidential Unsealing and Reporting System for UAP Encounters](https://www.war.gov/UFO/#release)
 * [2026-05-08, 12:58:28](https://lobste.rs/s/znlkib/just_fucking_use_go) - [Just Fucking Use Go](https://blainsmith.com/articles/just-fucking-use-go/)
 * [2026-05-08, 12:30:05](https://news.ycombinator.com/item?id=48062117) - [Poland is now among the 20 largest economies. How it happened](https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa)
 * [2026-05-08, 12:20:01](https://news.ycombinator.com/item?id=48062035) - [Hackers breach JDownloader&apos;s website to serve malware-laced downloads](https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/)
@@ -121,18 +130,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-08, 01:41:53](https://lobste.rs/s/rwjmjm/cuda_oxide_cuda_oxide_is_experimental) - [cuda-oxide: cuda-oxide is an experimental Rust-to-CUDA compiler](https://github.com/NVlabs/cuda-oxide)
 * [2026-05-08, 01:02:28](https://news.ycombinator.com/item?id=48057209) - [GPT-5.5 Price Increase: What It Costs](https://openrouter.ai/announcements/gpt55-cost-analysis)
 * [2026-05-08, 00:26:45](https://lobste.rs/s/n4fmkx/copy_fail_2_electric_boogaloo) - [Copy Fail 2: Electric Boogaloo](https://github.com/0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo)
-* [2026-05-08, 00:03:38](https://news.ycombinator.com/item?id=48056749) - [GNU IFUNC is the real culprit behind CVE-2024-3094](https://github.com/robertdfrench/ifuncd-up)
 * [2026-05-07, 23:14:00](https://soylentnews.org/article.pl?sid=26/05/06/1722250&amp;from=rss) - [Taiwan Cops Say Student&apos;s Radio Kit Brought Bullet Trains to a Standstill](https://soylentnews.org/article.pl?sid=26/05/06/1722250&amp;from=rss)
 * [2026-05-07, 23:02:11](https://news.ycombinator.com/item?id=48056227) - [Maybe you shouldn&apos;t install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)
 * [2026-05-07, 23:00:00](https://news.slashdot.org/story/26/05/07/200212/imf-warns-new-ai-models-risk-systemic-shock-to-finance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [IMF Warns New AI Models Risk &apos;Systemic&apos; Shock To Finance](https://news.slashdot.org/story/26/05/07/200212/imf-warns-new-ai-models-risk-systemic-shock-to-finance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-07, 22:31:33](https://lobste.rs/s/pavhcb/additive_blending_on_nintendo_64) - [Additive Blending on the Nintendo 64](https://phoboslab.org/log/2026/05/n64-additive-blending)
 * [2026-05-07, 22:22:21](https://news.ycombinator.com/item?id=48055913) - [Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
 * [2026-05-07, 22:13:16](https://lobste.rs/s/lecxsm/why_don_t_lowercase_letters_come_right) - [Why Don’t Lowercase Letters Come Right After Uppercase Letters in ASCII?](https://tylerhillery.com/blog/why-dont-lowercase-chars-come-after-upper/)
 * [2026-05-07, 22:00:00](https://yro.slashdot.org/story/26/05/07/1952206/60-of-md5-password-hashes-are-crackable-in-under-an-hour?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [60% of MD5 Password Hashes Are Crackable In Under an Hour](https://yro.slashdot.org/story/26/05/07/1952206/60-of-md5-password-hashes-are-crackable-in-under-an-hour?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-07, 21:00:00](https://news.slashdot.org/story/26/05/07/1943229/ceos-want-tariff-refunds-as-earnings-take-a-hit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [CEOs Want Tariff Refunds As Earnings Take a Hit](https://news.slashdot.org/story/26/05/07/1943229/ceos-want-tariff-refunds-as-earnings-take-a-hit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-07, 20:23:37](https://news.ycombinator.com/item?id=48054423) - [Cloudflare to cut about 20% workforce](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/)
 * [2026-05-07, 20:00:00](https://it.slashdot.org/story/26/05/07/1925210/microsoft-issues-warning-about-linux-copy-fail-vulnerability?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Issues Warning About Linux &apos;Copy Fail&apos; Vulnerability](https://it.slashdot.org/story/26/05/07/1925210/microsoft-issues-warning-about-linux-copy-fail-vulnerability?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-07, 19:52:46](https://lobste.rs/s/dpu6ym/building_transit_tracker) - [Building Transit Tracker](https://blog.horner.tj/building-transit-tracker/)
 * [2026-05-07, 19:23:45](https://lobste.rs/s/zys8hd/mojo_v1_0_0b1) - [Mojo v1.0.0b1](https://mojolang.org/releases/v1.0.0b1)
 * [2026-05-07, 19:21:32](https://news.ycombinator.com/item?id=48053623) - [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
 * [2026-05-07, 19:06:55](https://lobste.rs/s/lu4efg/dirty_frag_universal_linux_lpe) - [Dirty Frag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
@@ -150,7 +156,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-07, 16:05:33](https://news.ycombinator.com/item?id=48051079) - [Hardening Firefox with Claude Mythos Preview](https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/)
 * [2026-05-07, 16:00:00](https://slashdot.org/story/26/05/07/0424216/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Raises Claude Code Usage Limits, Credits New Deal With SpaceX](https://slashdot.org/story/26/05/07/0424216/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-07, 15:40:24](https://news.ycombinator.com/item?id=48050751) - [DeepSeek 4 Flash local inference engine for Metal](https://github.com/antirez/ds4)
-* [2026-05-07, 15:02:20](https://news.ycombinator.com/item?id=48050278) - [AlphaEvolve: Gemini-powered coding agent scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/)
 * [2026-05-07, 15:00:00](https://slashdot.org/story/26/05/07/0319248/richard-dawkins-convinced-ai-is-conscious?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Richard Dawkins &apos;Convinced&apos; AI Is Conscious](https://slashdot.org/story/26/05/07/0319248/richard-dawkins-convinced-ai-is-conscious?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-07, 14:06:10](https://news.ycombinator.com/item?id=48049653) - [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/)
 * [2026-05-07, 13:43:00](https://soylentnews.org/article.pl?sid=26/05/06/1719213&amp;from=rss) - [The US Just Found Enough Lithium To Rival China - Now Comes The Hard Part](https://soylentnews.org/article.pl?sid=26/05/06/1719213&amp;from=rss)
@@ -158,10 +163,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-07, 10:56:47](https://lobste.rs/s/azajfp/php_license_change_is_imminent) - [A PHP license change is imminent](https://lwn.net/Articles/1063993/)
 * [2026-05-07, 09:45:18](https://lobste.rs/s/szi49u/ai_slop_is_killing_online_communities) - [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
 * [2026-05-07, 09:00:00](https://soylentnews.org/article.pl?sid=26/05/06/045204&amp;from=rss) - [Employees Are Now More Dangerous to Their Company Than External Hackers](https://soylentnews.org/article.pl?sid=26/05/06/045204&amp;from=rss)
-* [2026-05-07, 07:00:00](https://science.slashdot.org/story/26/05/07/0418227/single-dose-of-magic-mushroom-psychedelic-can-cause-anatomical-brain-changes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Single Dose of Magic Mushroom Psychedelic Can Cause Anatomical Brain Changes](https://science.slashdot.org/story/26/05/07/0418227/single-dose-of-magic-mushroom-psychedelic-can-cause-anatomical-brain-changes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-07, 05:26:18](https://lobste.rs/s/vqjc0e/making_your_own_programming_language_is) - [Making your own programming language is easier than you think (but also harder)](https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html)
 * [2026-05-07, 04:13:00](https://soylentnews.org/article.pl?sid=26/05/06/0356228&amp;from=rss) - [Utah Will Ban VPN Use to Circumvent Age Verification](https://soylentnews.org/article.pl?sid=26/05/06/0356228&amp;from=rss)
-* [2026-05-07, 03:30:00](https://yro.slashdot.org/story/26/05/07/035251/sam-altmans-management-style-comes-under-the-microscope-at-openai-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sam Altman&apos;s Management Style Comes Under the Microscope At OpenAI Trial](https://yro.slashdot.org/story/26/05/07/035251/sam-altmans-management-style-comes-under-the-microscope-at-openai-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-06, 23:30:00](https://soylentnews.org/article.pl?sid=26/05/06/0351248&amp;from=rss) - [OpenAI Explains the \&quot;codex-goblins\&quot; Problem](https://soylentnews.org/article.pl?sid=26/05/06/0351248&amp;from=rss)
 * [2026-05-06, 18:45:00](https://soylentnews.org/article.pl?sid=26/05/06/0347215&amp;from=rss) - [Scientists Stunned by New Organic Molecules Found on Mars](https://soylentnews.org/article.pl?sid=26/05/06/0347215&amp;from=rss)
 * [2026-05-06, 15:24:51](https://news.ycombinator.com/item?id=48037336) - [Rumors of my death are slightly exaggerated](https://news.ycombinator.com/item?id=48037336)
