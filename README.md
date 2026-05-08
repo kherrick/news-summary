@@ -1,58 +1,58 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software
+## Tech Developments and Innovations
 
-* [blaise: A modern, self-hosting Object Pascal compiler built for the 2020s. Zero legacy, full ARC, and unified UTF-8](https://github.com/graemeg/blaise) - [Comments](https://lobste.rs/s/ot6g23/blaise_modern_self_hosting_object_pascal)
+* [Building a web server in aarch64 assembly to give my life (a lack of) meaning](https://imtomt.github.io/ymawky/) ([comments](https://lobste.rs/s/wfqsc4/building_web_server_aarch64_assembly))
 
-* [cuda-oxide: An experimental Rust-to-CUDA compiler](https://github.com/NVlabs/cuda-oxide) - [Comments](https://lobste.rs/s/rwjmjm/cuda_oxide_cuda_oxide_is_experimental)
+* [ClojureScript Gets Async/Await](https://clojurescript.org/news/2026-05-07-release) ([comments](https://news.ycombinator.com/item?id=48059662))
 
-* [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8) - [Comments](https://lobste.rs/s/lu4efg/dirty_frag_universal_linux_lpe)
+* [hpke-ng: Faster, Smaller, Harder HPKE for Rust](https://symbolic.software/blog/2026-05-08-hpke-ng/) ([comments](https://lobste.rs/s/fap65c/hpke_ng_faster_smaller_harder_hpke_for))
 
-* [DeepSeek 4 Flash local inference engine for Metal](https://github.com/antirez/ds4) - [Comments](https://news.ycombinator.com/item?id=48050751)
+* [cuda-oxide: cuda-oxide is an experimental Rust-to-CUDA compiler](https://github.com/NVlabs/cuda-oxide) ([comments](https://lobste.rs/s/rwjmjm/cuda_oxide_cuda_oxide_is_experimental))
 
-* [Mojo v1.0.0b1 release](https://mojolang.org/releases/v1.0.0b1) - [Comments](https://lobste.rs/s/zys8hd/mojo_v1_0_0b1)
+* [blaise: A modern, self-hosting Object Pascal compiler built for the 2020s. Zero legacy, full ARC, and unified UTF-8](https://github.com/graemeg/blaise) ([comments](https://lobste.rs/s/ot6g23/blaise_modern_self_hosting_object_pascal))
 
-* [Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders) - [Comments](https://news.ycombinator.com/item?id=48052537)
+* [Digging into Drama at the Document Foundation](https://lwn.net/Articles/1066418/) ([comments](https://news.ycombinator.com/item?id=48058337))
 
-## Security and Privacy
+* [Revisiting PQ WireGuard](https://eprint.iacr.org/2025/1758.pdf) ([comments](https://lobste.rs/s/6ctipx/revisiting_pq_wireguard))
 
-* [The Canvas Hack Is a New Kind of Ransomware Debacle](https://it.slashdot.org/story/26/05/08/0622227/the-canvas-hack-is-a-new-kind-of-ransomware-debacle) - [Comments](https://it.slashdot.org/story/26/05/08/0622227/the-canvas-hack-is-a-new-kind-of-ransomware-debacle?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Cybersecurity and Privacy
 
-* [Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach) - [Comments](https://news.ycombinator.com/item?id=48055913)
+* [The Canvas Hack Is a New Kind of Ransomware Debacle](https://it.slashdot.org/story/26/05/08/0622227/the-canvas-hack-is-a-new-kind-of-ransomware-debacle?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/26/05/08/0622227/the-canvas-hack-is-a-new-kind-of-ransomware-debacle?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [GNU IFUNC is the real culprit behind CVE-2024-3094](https://github.com/robertdfrench/ifuncd-up) - [Comments](https://news.ycombinator.com/item?id=48056749)
+* [GNU IFUNC is the real culprit behind CVE-2024-3094](https://github.com/robertdfrench/ifuncd-up) ([comments](https://news.ycombinator.com/item?id=48056749))
 
-* [Microsoft Issues Warning About Linux 'Copy Fail' Vulnerability](https://it.slashdot.org/story/26/05/07/1925210/microsoft-issues-warning-about-linux-copy-fail-vulnerability) - [Comments](https://it.slashdot.org/story/26/05/07/1925210/microsoft-issues-warning-about-linux-copy-fail-vulnerability?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach) ([comments](https://news.ycombinator.com/item?id=48055913))
 
-## AI and Automation
+* [60% of MD5 Password Hashes Are Crackable In Under an Hour](https://yro.slashdot.org/story/26/05/07/1952206/60-of-md5-password-hashes-are-crackable-in-under-an-hour?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/05/07/1952206/60-of-md5-password-hashes-are-crackable-in-under-an-hour?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [IMF Warns New AI Models Risk 'Systemic' Shock To Finance](https://news.slashdot.org/story/26/05/07/200212/imf-warns-new-ai-models-risk-systemic-shock-to-finance) - [Comments](https://news.slashdot.org/story/26/05/07/200212/imf-warns-new-ai-models-risk-systemic-shock-to-finance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## AI Advancements and Ethical Concerns
 
-* [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/) - [Comments](https://news.ycombinator.com/item?id=48053203)
+* [GPT-5.5 Price Increase: What It Costs](https://openrouter.ai/announcements/gpt55-cost-analysis) ([comments](https://news.ycombinator.com/item?id=48057209))
 
-* [AlphaEvolve: Gemini-powered coding agent scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/) - [Comments](https://news.ycombinator.com/item?id=48050278)
+* [IMF Warns New AI Models Risk 'Systemic' Shock To Finance](https://news.slashdot.org/story/26/05/07/200212/imf-warns-new-ai-models-risk-systemic-shock-to-finance?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=48056227))
 
-* [Anthropic Raises Claude Code Usage Limits, Credits New Deal With SpaceX](https://slashdot.org/story/26/05/07/0424216/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex) - [Comments](https://slashdot.org/story/26/05/07/0424216/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [AI slop is killing online communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/) ([comments](https://news.ycombinator.com/item?id=48053203))
 
-## Science and Health
+* [Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders) ([comments](https://news.ycombinator.com/item?id=48052537))
 
-* [Single Dose of Magic Mushroom Psychedelic Can Cause Anatomical Brain Changes](https://science.slashdot.org/story/26/05/07/0418227/single-dose-of-magic-mushroom-psychedelic-can-cause-anatomical-brain-changes) - [Comments](https://science.slashdot.org/story/26/05/07/0418227/single-dose-of-magic-mushroom-psychedelic-can-cause-anatomical-brain-changes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Corporate Developments and Controversies
 
-* [HantaWatch Real time hantavirus outbreak tracker](https://hantawatch.net/) - [Comments](https://news.ycombinator.com/item?id=48058917)
+* [Nissan Redirects Mississippi Jobs To Trucks, SUVs Now](https://soylentnews.org/article.pl?sid=26/05/07/0149246&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/05/07/0149246&from=rss))
 
-## Industry and Economy
+* [Cloudflare to cut about 20% workforce](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/) ([comments](https://news.ycombinator.com/item?id=48054423))
 
-* [Cloudflare to cut about 20% workforce](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/) - [Comments](https://news.ycombinator.com/item?id=48054423)
+* [Sam Altman Had a Bad Day In Court](https://yro.slashdot.org/story/26/05/08/0339239/sam-altman-had-a-bad-day-in-court?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=48058337))
 
-* [Major Homebuilder To Test Placing Mini Data Centers in Suburban Backyards](https://hardware.slashdot.org/story/26/05/07/046259/major-homebuilder-to-test-placing-mini-data-centers-in-suburban-backyards) - [Comments](https://hardware.slashdot.org/story/26/05/07/046259/major-homebuilder-to-test-placing-mini-data-centers-in-suburban-backyards?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Nonprofit hospitals spend billions on consultants with no clear effect](https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants) ([comments](https://news.ycombinator.com/item?id=48056158))
 
-* [Gambling ads on social media reach more than twice as many men as women: study](https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women) - [Comments](https://news.ycombinator.com/item?id=48056359)
+## Science and Society
 
-## Miscellaneous
+* [Single Dose of Magic Mushroom Psychedelic Can Cause Anatomical Brain Changes](https://science.slashdot.org/story/26/05/07/0418227/single-dose-of-magic-mushroom-psychedelic-can-cause-anatomical-brain-changes?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=48036746))
 
-* [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/) - [Comments](https://news.ycombinator.com/item?id=48049653)
+* [The surprisingly complex journey to text-selectable client-side generated PDFs](https://sdocs.dev/blogs/journey-to-pdf-generation) ([comments](https://news.ycombinator.com/item?id=48045778))
 
-* [Making Wooden Skis by Hand](https://soylentnews.org/article.pl?sid=26/05/07/0148227&from=rss) - [Comments](https://soylentnews.org/article.pl?sid=26/05/07/0148227&from=rss)
+* [An Amateur Just Solved a 60-Year-Old Math Problem—by Asking AI](https://soylentnews.org/article.pl?sid=26/05/03/0232241&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/05/03/0232241&from=rss))
 
 ---
 
@@ -79,10 +79,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-05-08, 10:01:15](https://lobste.rs/s/wfqsc4/building_web_server_aarch64_assembly) - [building a web server in aarch64 assembly to give my life (a lack of) meaning](https://imtomt.github.io/ymawky/)
+* [2026-05-08, 09:43:25](https://lobste.rs/s/mhzcfc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mhzcfc/what_are_you_doing_this_weekend)
+* [2026-05-08, 08:49:00](https://soylentnews.org/article.pl?sid=26/05/07/0149246&amp;from=rss) - [Nissan Redirects Mississippi Jobs To Trucks, SUVs Now](https://soylentnews.org/article.pl?sid=26/05/07/0149246&amp;from=rss)
+* [2026-05-08, 08:45:13](https://lobste.rs/s/fap65c/hpke_ng_faster_smaller_harder_hpke_for) - [hpke-ng: Faster, Smaller, Harder HPKE for Rust](https://symbolic.software/blog/2026-05-08-hpke-ng/)
+* [2026-05-08, 07:04:24](https://news.ycombinator.com/item?id=48059662) - [ClojureScript Gets Async/Await](https://clojurescript.org/news/2026-05-07-release)
 * [2026-05-08, 07:00:00](https://it.slashdot.org/story/26/05/08/0622227/the-canvas-hack-is-a-new-kind-of-ransomware-debacle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Canvas Hack Is a New Kind of Ransomware Debacle](https://it.slashdot.org/story/26/05/08/0622227/the-canvas-hack-is-a-new-kind-of-ransomware-debacle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-08, 06:56:13](https://news.ycombinator.com/item?id=48059606) - [Nintendo announces price increases for Nintendo Switch 2](https://www.nintendo.co.jp/corporate/release/en/2026/260508.html)
 * [2026-05-08, 06:54:42](https://lobste.rs/s/ot6g23/blaise_modern_self_hosting_object_pascal) - [blaise: A modern, self-hosting Object Pascal compiler built for the 2020s. Zero legacy, full ARC, and unified UTF-8](https://github.com/graemeg/blaise)
 * [2026-05-08, 05:41:13](https://lobste.rs/s/gxogzo/from_supabase_clerk_better_auth) - [From Supabase to Clerk to Better Auth](https://blog.val.town/better-auth)
-* [2026-05-08, 05:24:24](https://news.ycombinator.com/item?id=48058917) - [HantaWatch Real time hantavirus outbreak tracker](https://hantawatch.net/)
 * [2026-05-08, 04:44:02](https://news.ycombinator.com/item?id=48058644) - [Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE](https://github.com/graemeg/blaise)
 * [2026-05-08, 04:38:19](https://lobste.rs/s/6ctipx/revisiting_pq_wireguard) - [Revisiting PQ WireGuard](https://eprint.iacr.org/2025/1758.pdf)
 * [2026-05-08, 03:57:00](https://soylentnews.org/article.pl?sid=26/05/07/0148227&amp;from=rss) - [ Making Wooden Skis by Hand](https://soylentnews.org/article.pl?sid=26/05/07/0148227&amp;from=rss)
@@ -93,7 +98,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-08, 01:02:28](https://news.ycombinator.com/item?id=48057209) - [GPT-5.5 Price Increase: What It Costs](https://openrouter.ai/announcements/gpt55-cost-analysis)
 * [2026-05-08, 00:26:45](https://lobste.rs/s/n4fmkx/copy_fail_2_electric_boogaloo) - [Copy Fail 2: Electric Boogaloo](https://github.com/0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo)
 * [2026-05-08, 00:03:38](https://news.ycombinator.com/item?id=48056749) - [GNU IFUNC is the real culprit behind CVE-2024-3094](https://github.com/robertdfrench/ifuncd-up)
-* [2026-05-07, 23:17:03](https://news.ycombinator.com/item?id=48056359) - [Gambling ads on social media reach more than twice as many men as women: study](https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women)
 * [2026-05-07, 23:14:00](https://soylentnews.org/article.pl?sid=26/05/06/1722250&amp;from=rss) - [Taiwan Cops Say Student&apos;s Radio Kit Brought Bullet Trains to a Standstill](https://soylentnews.org/article.pl?sid=26/05/06/1722250&amp;from=rss)
 * [2026-05-07, 23:06:44](https://news.ycombinator.com/item?id=48056268) - [Plasticity and language in the anaesthetized human hippocampus](https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain)
 * [2026-05-07, 23:02:11](https://news.ycombinator.com/item?id=48056227) - [Maybe you shouldn&apos;t install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)
@@ -137,27 +141,23 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-07, 10:51:47](https://lobste.rs/s/o1p8ee/potential_consequences_using_postgres) - [Potential Consequences of Using Postgres as a Job Queue](http://richyen.com/postgres/2026/05/04/postgres_job_queue.html)
 * [2026-05-07, 09:45:18](https://lobste.rs/s/szi49u/ai_slop_is_killing_online_communities) - [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
 * [2026-05-07, 09:00:00](https://soylentnews.org/article.pl?sid=26/05/06/045204&amp;from=rss) - [Employees Are Now More Dangerous to Their Company Than External Hackers](https://soylentnews.org/article.pl?sid=26/05/06/045204&amp;from=rss)
-* [2026-05-07, 08:00:18](https://lobste.rs/s/qbh60z/try_lispe_browser) - [Try LispE in the Browser](https://naver.github.io/lispe/)
 * [2026-05-07, 07:00:00](https://science.slashdot.org/story/26/05/07/0418227/single-dose-of-magic-mushroom-psychedelic-can-cause-anatomical-brain-changes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Single Dose of Magic Mushroom Psychedelic Can Cause Anatomical Brain Changes](https://science.slashdot.org/story/26/05/07/0418227/single-dose-of-magic-mushroom-psychedelic-can-cause-anatomical-brain-changes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-07, 05:37:10](https://news.ycombinator.com/item?id=48045778) - [The surprisingly complex journey to text-selectable client-side generated PDFs](https://sdocs.dev/blogs/journey-to-pdf-generation)
 * [2026-05-07, 05:26:18](https://lobste.rs/s/vqjc0e/making_your_own_programming_language_is) - [Making your own programming language is easier than you think (but also harder)](https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html)
-* [2026-05-07, 04:28:44](https://lobste.rs/s/wgufge/aube_fast_node_js_package_manager) - [aube, a fast Node.js package manager](https://aube.en.dev/)
 * [2026-05-07, 04:13:00](https://soylentnews.org/article.pl?sid=26/05/06/0356228&amp;from=rss) - [Utah Will Ban VPN Use to Circumvent Age Verification](https://soylentnews.org/article.pl?sid=26/05/06/0356228&amp;from=rss)
 * [2026-05-07, 03:30:00](https://yro.slashdot.org/story/26/05/07/035251/sam-altmans-management-style-comes-under-the-microscope-at-openai-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sam Altman&apos;s Management Style Comes Under the Microscope At OpenAI Trial](https://yro.slashdot.org/story/26/05/07/035251/sam-altmans-management-style-comes-under-the-microscope-at-openai-trial?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-06, 23:30:00](https://soylentnews.org/article.pl?sid=26/05/06/0351248&amp;from=rss) - [OpenAI Explains the \&quot;codex-goblins\&quot; Problem](https://soylentnews.org/article.pl?sid=26/05/06/0351248&amp;from=rss)
 * [2026-05-06, 23:00:00](https://yro.slashdot.org/story/26/05/06/2014204/microsoft-edge-stores-passwords-in-plaintext-in-ram?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Edge Stores Passwords In Plaintext In RAM](https://yro.slashdot.org/story/26/05/06/2014204/microsoft-edge-stores-passwords-in-plaintext-in-ram?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-06, 19:06:41](https://news.ycombinator.com/item?id=48040269) - [Programming Still Sucks](https://www.stvn.sh/writing/programming-still-sucks-fqffhyp)
 * [2026-05-06, 18:45:00](https://soylentnews.org/article.pl?sid=26/05/06/0347215&amp;from=rss) - [Scientists Stunned by New Organic Molecules Found on Mars](https://soylentnews.org/article.pl?sid=26/05/06/0347215&amp;from=rss)
-* [2026-05-06, 15:24:51](https://news.ycombinator.com/item?id=48037336) - [Rumors of my death are slightly exaggerated](https://news.ycombinator.com/item?id=48037336)
+* [2026-05-06, 14:48:03](https://news.ycombinator.com/item?id=48036923) - [Floats Don&apos;t Agree with Themselves](https://docs.merca.earth/blog/floats-dont-agree-with-themselves)
 * [2026-05-06, 14:47:37](https://lobste.rs/s/jvvtif/open_weights_are_quietly_closing_up_s) - [Open weights are quietly closing up - and that&apos;s a problem](https://martinalderson.com/posts/open-weights-are-quietly-closing-up/)
 * [2026-05-06, 14:31:42](https://news.ycombinator.com/item?id=48036746) - [How to make SSE token streams resumable, cancellable, and multi-device](https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/)
-* [2026-05-06, 14:21:07](https://news.ycombinator.com/item?id=48036622) - [Los Alamos and the long path to detecting neutrinos](https://www.lanl.gov/media/publications/1663/from-ghost-particle-to-cosmic-messenger)
 * [2026-05-06, 13:58:00](https://soylentnews.org/article.pl?sid=26/05/05/1130201&amp;from=rss) - [Samsung &amp; Intel Considered as Alternatives to TSMC for Apple Silicon Production](https://soylentnews.org/article.pl?sid=26/05/05/1130201&amp;from=rss)
-* [2026-05-06, 13:55:20](https://lobste.rs/s/3i1ulr/how_http_header_caused_time_gov_skew_from) - [How an HTTP header caused time.gov to skew from UTC](https://alexsci.com/blog/how-time-gov-works/)
 * [2026-05-06, 12:27:07](https://news.ycombinator.com/item?id=48035420) - [Pinocchio is weirder than you remembered](https://storica.club/blog/pinocchio-in-italian/)
 * [2026-05-06, 11:50:33](https://lobste.rs/s/ze6pao/building_deployment_tool_i_wish_i_had) - [Building the deployment tool I wish I had](https://ruuda.nl/2026/deptool)
 * [2026-05-06, 09:15:00](https://soylentnews.org/article.pl?sid=26/05/05/1125244&amp;from=rss) - [Chinese EVs Can Now Project Movies From Their Headlights](https://soylentnews.org/article.pl?sid=26/05/05/1125244&amp;from=rss)
 * [2026-05-06, 06:29:53](https://news.ycombinator.com/item?id=48032968) - [Singapore introduces caning for boys who bully others at school](https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies)
-* [2026-05-06, 05:02:42](https://news.ycombinator.com/item?id=48032393) - [Inventing Cyrillic](https://www.historytoday.com/archive/history-matters/inventing-cyrillic)
 * [2026-05-06, 04:31:00](https://soylentnews.org/article.pl?sid=26/05/05/1123232&amp;from=rss) - [Toyota Built a $10 Billion Private Utopia—What&apos;s Going on in There?](https://soylentnews.org/article.pl?sid=26/05/05/1123232&amp;from=rss)
 * [2026-05-05, 23:42:00](https://soylentnews.org/article.pl?sid=26/05/04/1443241&amp;from=rss) - [Someone Turned a PS5 Into a Linux Gaming PC, and It Actually Works](https://soylentnews.org/article.pl?sid=26/05/04/1443241&amp;from=rss)
 * [2026-05-05, 18:50:00](https://soylentnews.org/article.pl?sid=26/05/04/1440249&amp;from=rss) - [AI Makes Granular Pricing Easier, but Consumer Psychology May Make It Less Profitable](https://soylentnews.org/article.pl?sid=26/05/04/1440249&amp;from=rss)
@@ -167,6 +167,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-05, 04:41:00](https://soylentnews.org/article.pl?sid=26/05/04/1434244&amp;from=rss) - [Canonical’s Ubuntu Servers Go Down as Hackers Demand Direct Talks](https://soylentnews.org/article.pl?sid=26/05/04/1434244&amp;from=rss)
 * [2026-05-04, 23:56:00](https://soylentnews.org/article.pl?sid=26/05/04/1427214&amp;from=rss) - [Anthropic Secretly Installs Spyware When You Install Claude Desktop](https://soylentnews.org/article.pl?sid=26/05/04/1427214&amp;from=rss)
 * [2026-05-04, 19:07:00](https://soylentnews.org/article.pl?sid=26/05/03/0258243&amp;from=rss) - [NHS Goes to War Against Open Source](https://soylentnews.org/article.pl?sid=26/05/03/0258243&amp;from=rss)
+* [2026-05-04, 15:26:18](https://news.ycombinator.com/item?id=48009879) - [Dithering with CSS](https://ikesau.co/blog/dithering-with-css/)
 * [2026-05-04, 14:20:00](https://soylentnews.org/article.pl?sid=26/05/03/0252239&amp;from=rss) - [Zambia Cancels Global Digital Freedoms Conference Days Before Start](https://soylentnews.org/article.pl?sid=26/05/03/0252239&amp;from=rss)
 * [2026-05-04, 09:39:00](https://soylentnews.org/article.pl?sid=26/05/03/0232241&amp;from=rss) - [An Amateur Just Solved a 60-Year-Old Math Problem—by Asking AI](https://soylentnews.org/article.pl?sid=26/05/03/0232241&amp;from=rss)
 * [2026-05-04, 04:52:00](https://soylentnews.org/article.pl?sid=26/05/03/0223205&amp;from=rss) - [The Mushroom Making People Hallucinate Dozens of Tiny Humans](https://soylentnews.org/article.pl?sid=26/05/03/0223205&amp;from=rss)
