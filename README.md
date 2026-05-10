@@ -1,48 +1,58 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI Disruptions and Innovations
+## AI and its Societal Impact
 
-* [NYT: 'Meta's Embrace of AI Is Making Its Employees Miserable'](https://tech.slashdot.org/story/26/05/10/0545234/nyt-metas-embrace-of-ai-is-making-its-employees-miserable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An in-depth report from the New York Times on how Meta's adoption of AI technologies is leading to dissatisfaction among its workforce.
+* [Rotten Dot Com](https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/) - Unique exploration of the infamous Rotten.com website and its impact on internet culture ([HN Discussion](https://news.ycombinator.com/item?id=48082039))
 
-* [AI is Breaking Two Vulnerability Cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures) - Exploring how AI changes human vulnerability and interactive dynamics.
+* [LLMorphism: When humans come to see themselves as language models](https://arxiv.org/abs/2605.05419) - A research paper analyzing how AI and LLMs are influencing human perception ([HN Discussion](https://news.ycombinator.com/item?id=48082021))
 
-* [Meta's embrace of AI is making its employees miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html) - A New York Times article discussing the impact of Meta's AI integration on its employees.
+* [Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount](https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount) - A study on the waning adoption of AI among Gen Z amid increasing workplace concerns ([HN Discussion](https://news.ycombinator.com/item?id=48081942))
 
-## Programming Languages and Tools
+* [NYT: 'Meta's Embrace of AI Is Making Its Employees Miserable'](https://tech.slashdot.org/story/26/05/10/0545234/nyt-metas-embrace-of-ai-is-making-its-employees-miserable?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Internal struggles at Meta over its focus on AI technology ([Slashdot Discussion](https://tech.slashdot.org/story/26/05/10/0545234/nyt-metas-embrace-of-ai-is-making-its-employees-miserable?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [A principled rethinking of array languages like APL](https://dercuano.github.io/notes/principled-apl.html) - A critical analysis of array languages, such as APL, with proposals for their evolution.
+* [Task Paralysis and AI](https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html) - Examining how AI influences task-related decision-making and productivity ([HN Discussion](https://news.ycombinator.com/item?id=48081469))
 
-* [Point-Free Logic Programming](https://forum.malleable.systems/t/point-free-logic-programming/151) - Reimagining logic programming with point-free transformation techniques.
+## Tech Innovations and Programming
 
-* [Making your own programming language is easier than you think (but also harder)](https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html) - A deep dive into the challenges and opportunities of designing a programming language.
+* [Show HN: Building a web server in assembly to give my life (a lack of) meaning](https://github.com/imtomt/ymawky) - A developer's journey in building a web server using assembly language ([HN Discussion](https://news.ycombinator.com/item?id=48080587))
 
-## Technology and Security
+* [Abstract Machines for Logic Programs](https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/) - Dive into abstract computational machines tailored for logic programming ([Lobsters Discussion](https://lobste.rs/s/7yy79j/abstract_machines_for_logic_programs))
 
-* [Debian must ship reproducible packages](https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html) - A call to action for Debian to adopt reproducible builds as standard for better security and reliability.
+* [Point-Free Logic Programming](https://forum.malleable.systems/t/point-free-logic-programming/151) - The potential of applying point-free style to logic programming ([Lobsters Discussion](https://lobste.rs/s/hbctt2/point_free_logic_programming))
 
-* [Fiber Optic Cables Can Eavesdrop On Nearby Conversations](https://science.slashdot.org/story/26/05/08/2336238/fiber-optic-cables-can-eavesdrop-on-nearby-conversations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlighting the unexpected potential security risk of fiber optic cables in eavesdropping on conversations.
+* [A principled rethinking of array languages like APL](https://dercuano.github.io/notes/principled-apl.html) - Revisiting the core principles behind array languages ([Lobsters Discussion](https://lobste.rs/s/zpuqvx/principled_rethinking_array_languages))
 
-## Programming Nostalgia and Heritage
+* [Unlocking sudoku's secrets (2025)](https://chalkdustmagazine.com/features/unlocking-sudokus-secrets/) - Mathematical insights into Sudoku strategies ([Lobsters Discussion](https://lobste.rs/s/zuib1a/unlocking_sudoku_s_secrets_2025))
 
-* [On DOS, floppies, NetBSD and nostalgia](https://exquisite.tube/w/dkV6kWiT9sp2y6xVwkH1iF) - A nostalgic look back at older but iconic systems and their role in modern computing culture.
+## Corporate and Economic Developments
 
-* [I'm writing a history of Visual Basic, Chapter 1 is up](https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch) - An exploration of Visual Basic's history, beginning with its origins and influence on programming.
+* [Apple Agrees to Pay iPhone Owners $250 Million for Not Delivering AI Siri](https://soylentnews.org/article.pl?sid=26/05/09/1056215&from=rss) - Settlement reached over claims of undelivered AI capabilities ([Soylent News Discussion](https://soylentnews.org/article.pl?sid=26/05/09/1056215&from=rss))
 
-## Advances in Science and Environment
+* ['Changing of the Guard'? AMD, Intel, and Micron Soar While Nvidia Lags](https://hardware.slashdot.org/story/26/05/10/0214232/changing-of-the-guard-amd-intel-and-micron-soar-while-nvidia-lags?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Shifts in the semiconductor market as key players outperform Nvidia ([Slashdot Discussion](https://hardware.slashdot.org/story/26/05/10/0214232/changing-of-the-guard-amd-intel-and-micron-soar-while-nvidia-lags?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Rush Rescue Mission for NASA's $500M Space Telescope Passes Key Milestone](https://science.slashdot.org/story/26/05/09/2112200/rush-rescue-mission-for-nasas-500m-space-telescope-passes-key-milestone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NASA's critical mission to save its $500 million space telescope reaches a significant breakthrough.
+* [Debian must ship reproducible packages](https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html) - A deep dive into ensuring package consistency as a key mandate for Debian ([HN Discussion](https://news.ycombinator.com/item?id=48081245))
 
-* [Plant Seeds Do Something Incredible When the Sound of Rain Strikes](https://science.slashdot.org/story/26/05/09/0644208/plant-seeds-do-something-incredible-when-the-sound-of-rain-strikes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New research reveals fascinating plant behavior in response to the sound of rainfall.
+* [Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.](https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/) - Long-term neglect as the root of challenges faced by scouting organizations ([HN Discussion](https://news.ycombinator.com/item?id=48081094))
 
-* [NASA Keeps Track As Mexico City Sinks Into the Ground](https://science.slashdot.org/story/26/05/08/2347231/nasa-keeps-track-as-mexico-city-sinks-into-the-ground?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NASA uses satellite data to monitor the alarming subsidence of Mexico City.
+## Engineering and Tech Quandaries
 
-* [Chinese EVs Can Now Project Movies From Their Headlights](https://soylentnews.org/article.pl?sid=26/05/05/1125244&amp;from=rss) - An innovative feature being implemented in Chinese electric vehicles enables them to project movies through their headlights.
+* [On DOS, floppies, NetBSD and nostalgia](https://exquisite.tube/w/dkV6kWiT9sp2y6xVwkH1iF) - Reflecting on retro technology and its enduring charm ([Lobsters Discussion](https://lobste.rs/s/yrjcuu/on_dos_floppies_netbsd_nostalgia))
 
-## Emerging Economic and Political Issues
+* [Flipping the bozo bit on flips the learning off](https://surfingcomplexity.blog/2026/05/09/flipping-the-bozo-bit-on-flips-the-learning-off/) - How dismissing the 'bozo bit' impacts personal and collective learning ([Lobsters Discussion](https://lobste.rs/s/bfiq9k/flipping_bozo_bit_on_flips_learning_off))
 
-* [Will Maryland's Utility Bills Increase $1.6B to Support Other States' Datacenters?](https://hardware.slashdot.org/story/26/05/09/2155207/will-marylands-utility-bills-increase-16b-to-support-other-states-datacenters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An analysis of the financial burden of datacenters on Maryland's residents.
+* [I Will Not Add Query Strings to Your URLs](https://susam.net/no-query-strings.html) - A critique of using query strings in URLs for better web practice ([Lobsters Discussion](https://lobste.rs/s/vbit2a/i_will_not_add_query_strings_your_urls))
 
-* [Rush Rescue Mission for NASA's $500M Space Telescope Passes Key Milestone](https://science.slashdot.org/story/26/05/09/2112200/rush-rescue-mission-for-nasas-500m-space-telescope-passes-key-milestone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NASA's critical mission to save its $500 million space telescope reaches a significant breakthrough.
+* [Surfel-based global illumination on the web](https://juretriglav.si/surfel-based-global-illumination-on-the-web/) - A significant leap in web-based rendering techniques ([HN Discussion](https://news.ycombinator.com/item?id=48077395))
+
+## Cultural and Social Perspectives
+
+* [Humanoid Robot Becomes Buddhist Monk In South Korea](https://hardware.slashdot.org/story/26/05/09/0241247/humanoid-robot-becomes-buddhist-monk-in-south-korea?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A robotic monk touches the intersection of faith and technology ([Slashdot Discussion](https://hardware.slashdot.org/story/26/05/09/0241247/humanoid-robot-becomes-buddhist-monk-in-south-korea?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+* [The hypocrisy of cyberlibertarianism](https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/) - Examining critical challenges to the ethos of cyberlibertarianism ([HN Discussion](https://news.ycombinator.com/item?id=48074952))
+
+* [Three Cultures of Math](https://rkirov.github.io/posts/three-cultures-of-math/) - Exploring philosophical traditions shaping mathematical thought ([Lobsters Discussion](https://lobste.rs/s/ioiepg/three_cultures_math))
+
+* [Rush Rescue Mission for NASA's $500M Space Telescope Passes Key Milestone](https://science.slashdot.org/story/26/05/09/2112200/rush-rescue-mission-for-nasas-500m-space-telescope-passes-key-milestone?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Efforts to save NASA's invaluable space telescope ([Slashdot Discussion](https://science.slashdot.org/story/26/05/09/2112200/rush-rescue-mission-for-nasas-500m-space-telescope-passes-key-milestone?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
 ---
 
@@ -69,10 +79,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-05-10, 08:25:55](https://news.ycombinator.com/item?id=48082039) - [Rotten Dot Com](https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/)
+* [2026-05-10, 08:22:12](https://news.ycombinator.com/item?id=48082021) - [LLMorphism: When humans come to see themselves as language models](https://arxiv.org/abs/2605.05419)
+* [2026-05-10, 08:21:00](https://soylentnews.org/article.pl?sid=26/05/09/1056215&amp;from=rss) - [Apple Agrees to Pay iPhone Owners $250 Million for Not Delivering AI Siri](https://soylentnews.org/article.pl?sid=26/05/09/1056215&amp;from=rss)
+* [2026-05-10, 08:03:15](https://news.ycombinator.com/item?id=48081942) - [Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount](https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount)
 * [2026-05-10, 07:34:00](https://tech.slashdot.org/story/26/05/10/0545234/nyt-metas-embrace-of-ai-is-making-its-employees-miserable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NYT:  &apos;Meta&apos;s Embrace of AI Is Making Its Employees Miserable&apos;](https://tech.slashdot.org/story/26/05/10/0545234/nyt-metas-embrace-of-ai-is-making-its-employees-miserable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-10, 07:25:35](https://lobste.rs/s/zpuqvx/principled_rethinking_array_languages) - [A principled rethinking of array languages like APL](https://dercuano.github.io/notes/principled-apl.html)
 * [2026-05-10, 07:01:30](https://lobste.rs/s/kuhmb0/ai_is_breaking_two_vulnerability) - [AI is Breaking Two Vulnerability Cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
 * [2026-05-10, 06:27:42](https://lobste.rs/s/deceli/relational_modeling_apl) - [Relational modeling and APL](https://dercuano.github.io/notes/relational-modeling-and-apl.html)
+* [2026-05-10, 06:20:50](https://news.ycombinator.com/item?id=48081469) - [Task Paralysis and AI](https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html)
 * [2026-05-10, 06:14:30](https://lobste.rs/s/hbctt2/point_free_logic_programming) - [Point-Free Logic Programming](https://forum.malleable.systems/t/point-free-logic-programming/151)
 * [2026-05-10, 05:26:03](https://news.ycombinator.com/item?id=48081245) - [Debian must ship reproducible packages](https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html)
 * [2026-05-10, 05:10:35](https://lobste.rs/s/zuib1a/unlocking_sudoku_s_secrets_2025) - [Unlocking sudoku&apos;s secrets (2025)](https://chalkdustmagazine.com/features/unlocking-sudokus-secrets/)
@@ -83,7 +98,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-10, 03:14:27](https://lobste.rs/s/bfiq9k/flipping_bozo_bit_on_flips_learning_off) - [Flipping the bozo bit on flips the learning off](https://surfingcomplexity.blog/2026/05/09/flipping-the-bozo-bit-on-flips-the-learning-off/)
 * [2026-05-10, 03:09:36](https://lobste.rs/s/yrjcuu/on_dos_floppies_netbsd_nostalgia) - [On DOS, floppies, NetBSD and nostalgia](https://exquisite.tube/w/dkV6kWiT9sp2y6xVwkH1iF)
 * [2026-05-10, 03:01:44](https://news.ycombinator.com/item?id=48080587) - [Show HN: Building a web server in assembly to give my life (a lack of) meaning](https://github.com/imtomt/ymawky)
-* [2026-05-10, 01:52:55](https://news.ycombinator.com/item?id=48080221) - [Sparse Cholesky Elimination Tree](https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html)
 * [2026-05-10, 01:52:06](https://lobste.rs/s/7yy79j/abstract_machines_for_logic_programs) - [Abstract Machines for Logic Programs](https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/)
 * [2026-05-10, 01:34:00](https://news.slashdot.org/story/26/05/10/0023237/open-source-registries-join-linux-foundation-working-group-to-address-machine-generated-traffic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Open Source Registries Join Linux Foundation Working Group to Address Machine-Generated Traffic](https://news.slashdot.org/story/26/05/10/0023237/open-source-registries-join-linux-foundation-working-group-to-address-machine-generated-traffic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-09, 23:48:57](https://lobste.rs/s/ioiepg/three_cultures_math) - [Three Cultures of Math](https://rkirov.github.io/posts/three-cultures-of-math/)
@@ -99,7 +113,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-09, 18:43:45](https://lobste.rs/s/ebg5hg/laptops_all_have_built_security_tokens) - [Laptops all have built-in security tokens these days](https://ahelwer.ca/post/2026-05-08-builtin-u2f/)
 * [2026-05-09, 18:40:44](https://lobste.rs/s/gcd4yl/acme_ca_comparison) - [ACME CA Comparison](https://poshac.me/docs/v4/Guides/ACME-CA-Comparison/)
 * [2026-05-09, 18:34:00](https://slashdot.org/story/26/05/09/0616224/cisco-releases-open-source-dna-test-for-ai-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cisco Releases Open-Source &apos;DNA Test for AI Models&apos;](https://slashdot.org/story/26/05/09/0616224/cisco-releases-open-source-dna-test-for-ai-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-09, 18:33:36](https://news.ycombinator.com/item?id=48077126) - [Meta&apos;s embrace of AI is making its employees miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
 * [2026-05-09, 18:29:56](https://lobste.rs/s/vwjrsl/notes_on_using_gnu_emacs_tramp_system) - [Notes on using GNU Emacs&apos; Tramp system in an unusual shell environment](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTrampNotes)
 * [2026-05-09, 18:08:47](https://lobste.rs/s/symlbk/fixing_quicklook_2023) - [Fixing QuickLook (2023)](https://foon.uk/fixing-quicklook/)
 * [2026-05-09, 18:03:00](https://soylentnews.org/article.pl?sid=26/05/09/0813214&amp;from=rss) - [Russia&apos;s Censor Body, Roskomnadzor, Wants to Block 92% of VPN Apps by 2030](https://soylentnews.org/article.pl?sid=26/05/09/0813214&amp;from=rss)
@@ -130,26 +143,24 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-09, 07:00:00](https://science.slashdot.org/story/26/05/08/2336238/fiber-optic-cables-can-eavesdrop-on-nearby-conversations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fiber Optic Cables Can Eavesdrop On Nearby Conversations](https://science.slashdot.org/story/26/05/08/2336238/fiber-optic-cables-can-eavesdrop-on-nearby-conversations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-09, 05:52:12](https://news.ycombinator.com/item?id=48072190) - [EU Parliamentary Research Service calls VPNs \&quot;a loophole that needs closing\&quot;](https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/)
 * [2026-05-09, 05:21:04](https://lobste.rs/s/auxtwd/steering_zig_fmt) - [Steering Zig Fmt](https://matklad.github.io/2026/05/08/steering-zig-fmt.html)
-* [2026-05-09, 04:53:52](https://news.ycombinator.com/item?id=48071940) - [Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935)
 * [2026-05-09, 03:48:00](https://soylentnews.org/article.pl?sid=26/05/08/1111240&amp;from=rss) - [Widely Used Daemon Tools Disk App Backdoored in Monthlong Supply-Chain Attack](https://soylentnews.org/article.pl?sid=26/05/08/1111240&amp;from=rss)
 * [2026-05-09, 03:30:00](https://science.slashdot.org/story/26/05/08/2347231/nasa-keeps-track-as-mexico-city-sinks-into-the-ground?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Keeps Track As Mexico City Sinks Into the Ground](https://science.slashdot.org/story/26/05/08/2347231/nasa-keeps-track-as-mexico-city-sinks-into-the-ground?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-09, 02:41:42](https://news.ycombinator.com/item?id=48071262) - [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)
 * [2026-05-08, 23:03:00](https://soylentnews.org/article.pl?sid=26/05/08/113258&amp;from=rss) - [Mozilla Says 271 Vulnerabilities Found by Mythos Have “Almost No False Positives”](https://soylentnews.org/article.pl?sid=26/05/08/113258&amp;from=rss)
 * [2026-05-08, 21:28:48](https://lobste.rs/s/rrelxd/i_learned_something_about_gpus_today) - [I learned something about GPUs today](https://foon.uk/blackshift-sand-bug/)
-* [2026-05-08, 19:45:21](https://news.ycombinator.com/item?id=48067786) - [Production engineering when trading billions of dollars a day [video]](https://www.youtube.com/watch?v=zR9PpXWsKFQ)
 * [2026-05-08, 18:14:00](https://soylentnews.org/article.pl?sid=26/05/07/0154202&amp;from=rss) - [Starbucks CEO Defends $9 Coffee: ‘A Really Affordable Premium Experience’](https://soylentnews.org/article.pl?sid=26/05/07/0154202&amp;from=rss)
 * [2026-05-08, 13:35:00](https://soylentnews.org/article.pl?sid=26/05/07/0152233&amp;from=rss) - [Astronomers Pin Down the Origins of a Planetary Odd Couple](https://soylentnews.org/article.pl?sid=26/05/07/0152233&amp;from=rss)
 * [2026-05-08, 12:58:28](https://lobste.rs/s/znlkib/just_fucking_use_go) - [Just Fucking Use Go](https://blainsmith.com/articles/just-fucking-use-go/)
 * [2026-05-08, 08:49:00](https://soylentnews.org/article.pl?sid=26/05/07/0149246&amp;from=rss) - [Nissan Redirects Mississippi Jobs To Trucks, SUVs Now](https://soylentnews.org/article.pl?sid=26/05/07/0149246&amp;from=rss)
 * [2026-05-08, 03:57:00](https://soylentnews.org/article.pl?sid=26/05/07/0148227&amp;from=rss) - [ Making Wooden Skis by Hand](https://soylentnews.org/article.pl?sid=26/05/07/0148227&amp;from=rss)
 * [2026-05-07, 23:14:00](https://soylentnews.org/article.pl?sid=26/05/06/1722250&amp;from=rss) - [Taiwan Cops Say Student&apos;s Radio Kit Brought Bullet Trains to a Standstill](https://soylentnews.org/article.pl?sid=26/05/06/1722250&amp;from=rss)
+* [2026-05-07, 20:03:20](https://news.ycombinator.com/item?id=48054154) - [Cooking the Hashish Cookbook](https://cookingthehashishcookbook.com/)
 * [2026-05-07, 18:29:00](https://soylentnews.org/article.pl?sid=26/05/06/1720223&amp;from=rss) - [The RAM Crisis Isn&apos;t Going Anywhere: Micron CEO Warns AI Will Need More Memory](https://soylentnews.org/article.pl?sid=26/05/06/1720223&amp;from=rss)
-* [2026-05-07, 18:03:15](https://news.ycombinator.com/item?id=48052656) - [A construction of the Hat tilings by a Markov partition](https://www.mathstat.dal.ca/~selinger/hat-partition/)
-* [2026-05-07, 14:19:55](https://news.ycombinator.com/item?id=48049828) - [The Serial TTL connector we deserve](https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/)
 * [2026-05-07, 13:43:00](https://soylentnews.org/article.pl?sid=26/05/06/1719213&amp;from=rss) - [The US Just Found Enough Lithium To Rival China - Now Comes The Hard Part](https://soylentnews.org/article.pl?sid=26/05/06/1719213&amp;from=rss)
 * [2026-05-07, 13:01:21](https://news.ycombinator.com/item?id=48048902) - [Making your own programming language is easier than you think (but also harder)](https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html)
 * [2026-05-07, 12:40:35](https://news.ycombinator.com/item?id=48048684) - [The One Dollar Counterfeiter](https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html)
 * [2026-05-07, 12:09:47](https://news.ycombinator.com/item?id=48048407) - [Casio S100X Japanese Lacquer Edition (JP Page Only)](https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/)
+* [2026-05-07, 11:02:28](https://news.ycombinator.com/item?id=48047930) - [Idempotency Is Easy Until the Second Request Is Different](https://blog.dochia.dev/blog/idempotency/)
 * [2026-05-07, 09:00:00](https://soylentnews.org/article.pl?sid=26/05/06/045204&amp;from=rss) - [Employees Are Now More Dangerous to Their Company Than External Hackers](https://soylentnews.org/article.pl?sid=26/05/06/045204&amp;from=rss)
 * [2026-05-07, 04:13:00](https://soylentnews.org/article.pl?sid=26/05/06/0356228&amp;from=rss) - [Utah Will Ban VPN Use to Circumvent Age Verification](https://soylentnews.org/article.pl?sid=26/05/06/0356228&amp;from=rss)
 * [2026-05-06, 23:30:00](https://soylentnews.org/article.pl?sid=26/05/06/0351248&amp;from=rss) - [OpenAI Explains the \&quot;codex-goblins\&quot; Problem](https://soylentnews.org/article.pl?sid=26/05/06/0351248&amp;from=rss)
