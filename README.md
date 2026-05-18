@@ -1,44 +1,84 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advances and Innovations in Technology
+## Artificial Intelligence and Technology Developments
 
-* [Scientists “bottle the sun” with a liquid battery that stores solar energy](https://www.sciencedaily.com/releases/2026/05/260513221821.htm) ([comments](https://news.ycombinator.com/item?id=48171906)): Researchers have developed a new type of liquid battery that advances renewable energy storage, potentially aiding green energy infrastructure.
+* [Linus Torvalds: AI-Detected Bug Reports Make Kernel Security List 'Almost Entirely Unmanageable'](https://linux.slashdot.org/story/26/05/18/0238214/linus-torvalds-ai-detected-bug-reports-make-kernel-security-list-almost-entirely-unmanageable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Linus Torvalds expresses his frustration with the overwhelming influx of AI-detected bug reports affecting the kernel security mailing list.
 
-* [How Owners of EVs from Bankrupt Fisker Saved Their Cars With an Open Source Nonprofit](https://tech.slashdot.org/story/26/05/16/2318249/how-owners-of-evs-from-bankrupt-fisker-saved-their-cars-with-an-open-source-nonprofit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/05/16/2318249/how-owners-of-evs-from-bankrupt-fisker-saved-their-cars-with-an-open-source-nonprofit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): Fisker EV owners adopt an open-source approach to maintain their electric vehicles after company bankruptcy.
+* [Former Google CEO Eric Schmidt Booed During Graduation Speech About AI](https://slashdot.org/story/26/05/17/2343248/former-google-ceo-eric-schmidt-booed-during-graduation-speech-about-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Eric Schmidt discusses AI's potential, faced criticism during a university graduation event.
 
-* [Tesla Solar Roof is on life support as it pivot to panels](https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/) ([comments](https://news.ycombinator.com/item?id=48165980)): Tesla reportedly shifts away from its ambitious solar roof project, opting to focus on solar panel integration instead.
+* ['We Still Can’t See Dark Matter. But What If We Can Hear It?'](https://science.slashdot.org/story/26/05/17/198215/we-still-cant-see-dark-matter-but-what-if-we-can-hear-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Researchers explore the intriguing possibility of hearing dark matter using advanced technologies.
 
-* [DeepSeek-V4-Flash means LLM steering is interesting again](https://www.seangoedecke.com/steering-vectors/) ([comments](https://lobste.rs/s/wycfiy/deepseek_v4_flash_means_llm_steering_is)): Exploration of new techniques for Large Language Model (LLM) steering that could redefine AI applications.
+* [Elon Musk's xAI Launches 'Grok Build', Its First AI Coding Agent](https://developers.slashdot.org/story/26/05/17/0214254/elon-musks-xai-launches-grok-build-its-first-ai-coding-agent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Elon Musk's AI company debuts 'Grok Build,' an AI tool designed to assist in coding.
 
-* [NASA Pushes Mars Helicopter Rotors Past the Speed of Sound for the First Time Ever](https://soylentnews.org/article.pl?sid=26/05/15/199214&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/05/15/199214&amp;from=rss)): NASA's experimental Mars helicopter achieves groundbreaking rotor speeds, opening new possibilities for extraterrestrial flight.
+* [An Entire Wikipedia That's 100% AI Hallucinations](https://slashdot.org/story/26/05/16/0732218/an-entire-wikipedia-thats-100-ai-hallucinations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Analysis of a Wikipedia clone filled entirely with AI-generated content and its implications.
 
-## Data Privacy and Security Challenges
+## Technology Trends and Innovations
 
-* [Microsoft Exchange Server Vulnerability Actively Exploited, in a Bad Week for Microsoft](https://it.slashdot.org/story/26/05/17/2053257/microsoft-exchange-server-vulnerability-actively-exploited-in-a-bad-week-for-microsoft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/26/05/17/2053257/microsoft-exchange-server-vulnerability-actively-exploited-in-a-bad-week-for-microsoft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): Microsoft faces significant security flaws as hackers target vulnerabilities in the Exchange Server.
+* [Rust async and the ARM generic timer](https://thejpster.org.uk/blog/blog-2026-05-17/) - Exploring Rust's async capabilities integrated with the ARM generic timer.
 
-* [A Security Researcher Says Microsoft Secretly Built a Backdoor into BitLocker](https://soylentnews.org/article.pl?sid=26/05/17/0146201&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/05/17/0146201&amp;from=rss)): Allegations surface about Microsoft creating hidden backdoors in its encryption software BitLocker.
+* [Sysadmin Creates 'ModuleJail' To Automatically Blacklist Unused Kernel Modules](https://news.slashdot.org/story/26/05/16/2110220/sysadmin-creates-modulejail-to-automatically-blacklist-unused-kernel-modules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New tool by a sysadmin for enhancing system security by managing unused kernel modules.
 
-* [Some Datacenters Divert Power from Homes. Will It Drive Homeowners to Solar and Batteries?](https://hardware.slashdot.org/story/26/05/17/0125222/some-datacenters-divert-power-from-homes-will-it-drive-homeowners-to-solar-and-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/05/17/0125222/some-datacenters-divert-power-from-homes-will-it-drive-homeowners-to-solar-and-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): The growing energy demand from datacenters raises concerns about limiting residential power availability.
+* [Fits on a Floppy - A Manifesto for Small Software](https://fitsonafloppy.com) - Advocacy for minimalist software that 'fits on a floppy disk'.
 
-## Explorations in Science and Space
+* [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp) - A comparative guide to different Lisp dialects.
 
-* [`We Still Can't See Dark Matter. But What If We Can Hear It?`](https://science.slashdot.org/story/26/05/17/198215/we-still-cant-see-dark-matter-but-what-if-we-can-hear-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/05/17/198215/we-still-cant-see-dark-matter-but-what-if-we-can-hear-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): Physicists hypothesize detecting dark matter using sound-like vibrations.
+* [New design for the FreeBSD website](https://www.freebsd.org/) - FreeBSD unveils a revamped website with a new user-friendly design.
 
-* [MIT Researchers Revive 40-Year-Old Triangular Zipper Concept Now Made Possible by 3D Printing](https://soylentnews.org/article.pl?sid=26/05/11/1329241&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/05/11/1329241&amp;from=rss)): An innovative zipper design from decades ago is brought to life through advances in 3D printing.
+* [GenCAD](https://gencad.github.io/) - Introduction to GenCAD, a promising new platform for design applications.
 
-## AI and Machine Learning Updates
+* [Coding on Paper](https://wickstrom.tech/2026-05-16-coding-on-paper.html) - A reflection on the challenges and benefits of practicing coding on paper.
 
-* [Elon Musk's xAI Launches 'Grok Build', Its First AI Coding Agent](https://developers.slashdot.org/story/26/05/17/0214254/elon-musks-xai-launches-grok-build-its-first-ai-coding-agent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://developers.slashdot.org/story/26/05/17/0214254/elon-musks-xai-launches-grok-build-its-first-ai-coding-agent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): Musk's AI venture hits a milestone with its debut AI-powered coding assistant.
+## Insights in Science
 
-* [The Apple-OpenAI Alliance is Fraying, Setting Up a Possible Legal Fight](https://apple.slashdot.org/story/26/05/16/186200/the-apple-openai-alliance-is-fraying-setting-up-a-possible-legal-fight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://apple.slashdot.org/story/26/05/16/186200/the-apple-openai-alliance-is-fraying-setting-up-a-possible-legal-fight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): Potential tensions arise between Apple and OpenAI, signaling future legal disputes over AI technology.
+* [Scientists May Have Discovered How Parkinson’s Disease Spreads Through the Brain](https://soylentnews.org/article.pl?sid=26/05/17/0150209&amp;from=rss) - A recent study sheds light on the mechanism of Parkinson's disease progression.
 
-## Cultural and Societal Insights
+* [Trials on veterans suggest ibogaine could provide a new treatment for PTSD](https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd) - Novel findings detail ibogaine's potential as a treatment for PTSD in veterans.
 
-* [VoIP brings back old-fashioned pay phones to rural Vermont (2025)](https://spectrum.ieee.org/payphone-voip) ([comments](https://news.ycombinator.com/item?id=48172505)): Innovations in VoIP revive traditional pay phone services in rural U.S. areas to address connectivity challenges.
+* [NASA Pushes Mars Helicopter Rotors Past the Speed of Sound for the First Time Ever](https://soylentnews.org/article.pl?sid=26/05/15/199214&amp;from=rss) - A remarkable milestone achieved with NASA's Mars helicopter rotor design.
 
-* [US Math/Reading Scores Continue 13-Year Decline. Researchers Blame Reduced Testing and Social Media](https://news.slashdot.org/story/26/05/17/1729245/us-mathreading-scores-continue-13-year-decline-researchers-blame-reduced-testing-and-social-media?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/05/17/1729245/us-mathreading-scores-continue-13-year-decline-researchers-blame-reduced-testing-and-social-media?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): A 13-year decline in U.S. academic skills is tied to changing educational policies and technology usage.
+* [Scientists Solve 100-Year-Old Schrödinger Mystery About Color Perception](https://soylentnews.org/article.pl?sid=26/05/14/0239217&amp;from=rss) - Discovery resolves a century-old scientific puzzle regarding human color perception.
 
-* [Trials on veterans suggest ibogaine could provide a new treatment for PTSD](https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd) ([comments](https://news.ycombinator.com/item?id=48168159)): A hallucinogenic compound is showing promise in helping veterans address PTSD symptoms effectively.
+* [“Cannot be Explained” – New Ultra Stainless Steel Stuns Researchers](https://soylentnews.org/article.pl?sid=26/05/13/215223&amp;from=rss) - Introduction of ultra stainless steel with unique properties confounds material scientists.
+
+## Open Source and Community Projects
+
+* [How Owners of EVs from Bankrupt Fisker Saved Their Cars With an Open Source Nonprofit](https://tech.slashdot.org/story/26/05/16/2318249/how-owners-of-evs-from-bankrupt-fisker-saved-their-cars-with-an-open-source-nonprofit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Community initiative ensures extended usability of EVs from bankrupt manufacturer Fisker.
+
+* [Bitsocial: Open Source P2P Network for Social Apps](https://bitsocial.net/) - A decentralized open-source network aimed at improving social app integration.
+
+* [Claude Code managed to get Adobe Lightroom working on Linux](https://github.com/sander110419/lightroom-cc-on-linux) - Efforts to make Adobe Lightroom functional on Linux systems.
+
+* [Ascetic Computing](https://ratfactor.com/ascetic-computing) - A philosophical dive into minimalist tech designs--more with less.
+
+* [Prolog Basics Explained with Pokémon](https://unplannedobsolescence.com/blog/prolog-basics-pokemon/) - Introduction to coding in Prolog using Pokémon analogies.
+
+## Historical Highlights and Retrospectives
+
+* [Design posters showcasing your country's electrical grid](https://github.com/open-energy-transition/grid2poster) - Visual design project focusing on representing national electrical infrastructure.
+
+* [The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations](https://www.jdhodges.com/blog/thinkpad-history/) - Chronicling the transformation of ThinkPad from its IBM origins to modern machines.
+
+* [The Tomy Tutor and the state of 1983 home computers](http://oldvcr.blogspot.com/2026/05/the-tomy-tutor-and-state-of-1983-home.html) - A nostalgic look back at the era of home computing in the early 1980s.
+
+## News in Cybersecurity
+
+* [Microsoft Exchange Server Vulnerability Actively Exploited, in a Bad Week for Microsoft](https://it.slashdot.org/story/26/05/17/2053257/microsoft-exchange-server-vulnerability-actively-exploited-in-a-bad-week-for-microsoft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Cybersecurity experts uncover severe vulnerabilities in Microsoft's services.
+
+* [A Security Researcher Says Microsoft Secretly Built a Backdoor into BitLocker](https://soylentnews.org/article.pl?sid=26/05/17/0146201&amp;from=rss) - Claims emerge of a backdoor in Microsoft's encryption tools.
+
+* [An Open Source Package With 1 Million Monthly Downloads Stole User Credentials](https://soylentnews.org/article.pl?sid=26/05/15/1911234&amp;from=rss) - A widely used open source package is revealed to contain credential-stealing code.
+
+* [AISLE Discovers CVE-2026-42511: a 21-Year-Old FreeBSD Remote Command Execution Vulnerability](https://soylentnews.org/article.pl?sid=26/05/16/0013231&amp;from=rss) - Researchers uncover a decades-old security flaw in FreeBSD's system.
+
+## Cultural and Societal Developments
+
+* [America's Library of Congress Officially Inducts... the Soundtrack for the Videogame 'Doom'](https://games.slashdot.org/story/26/05/18/0130213/americas-library-of-congress-officially-inducts-the-soundtrack-for-the-videogame-doom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - 'Doom' soundtrack receives prestigious recognition by US Library of Congress.
+
+* [VoIP brings back old-fashioned pay phones to rural Vermont (2025)](https://spectrum.ieee.org/payphone-voip) - Rural Vermont embraces VoIP technology to revive traditional payphones.
+
+* [US Math/Reading Scores Continue 13-Year Decline. Researchers Blame Reduced Testing and Social Media](https://news.slashdot.org/story/26/05/17/1729245/us-mathreading-scores-continue-13-year-decline-researchers-blame-reduced-testing-and-social-media?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Ongoing decline in academic performance linked to reduced assessment and social media use.
+
+* [The New Wild West of AI Kids’ Toys](https://soylentnews.org/article.pl?sid=26/05/14/0316205&amp;from=rss) - Concerns about privacy and safety arise with the surge of AI-powered children's toys.
 
 ---
 
@@ -65,23 +105,31 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-05-18, 03:34:00](https://linux.slashdot.org/story/26/05/18/0238214/linus-torvalds-ai-detected-bug-reports-make-kernel-security-list-almost-entirely-unmanageable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linus Torvalds: AI-Detected Bug Reports Make Kernel Security List &apos;Almost Entirely Unmanageable&apos;](https://linux.slashdot.org/story/26/05/18/0238214/linus-torvalds-ai-detected-bug-reports-make-kernel-security-list-almost-entirely-unmanageable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-18, 01:34:00](https://games.slashdot.org/story/26/05/18/0130213/americas-library-of-congress-officially-inducts-the-soundtrack-for-the-videogame-doom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [America&apos;s Library of Congress Officially Inducts... the Soundtrack for the Videogame &apos;Doom&apos;](https://games.slashdot.org/story/26/05/18/0130213/americas-library-of-congress-officially-inducts-the-soundtrack-for-the-videogame-doom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-18, 00:28:51](https://lobste.rs/s/eeqdfc/rust_async_arm_generic_timer) - [Rust async and the ARM generic timer](https://thejpster.org.uk/blog/blog-2026-05-17/)
+* [2026-05-17, 23:46:00](https://slashdot.org/story/26/05/17/2343248/former-google-ceo-eric-schmidt-booed-during-graduation-speech-about-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Former Google CEO Eric Schmidt Booed During Graduation Speech About AI](https://slashdot.org/story/26/05/17/2343248/former-google-ceo-eric-schmidt-booed-during-graduation-speech-about-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-17, 23:41:06](https://lobste.rs/s/96kz5p/may_i_recommend_eww_for_emacs_s_innovative) - [May I recommend eww for Emacs’s innovative UI?](https://www.matem.unam.mx/~omar/apropos-emacs.html#may-i-recommend-eww-for-emacs-innovative-ui)
+* [2026-05-17, 23:37:00](https://soylentnews.org/article.pl?sid=26/05/17/0150209&amp;from=rss) - [Scientists May Have Discovered How Parkinson’s Disease Spreads Through the Brain](https://soylentnews.org/article.pl?sid=26/05/17/0150209&amp;from=rss)
+* [2026-05-17, 22:47:05](https://news.ycombinator.com/item?id=48173849) - [Design posters showcasing your country&apos;s electrical grid](https://github.com/open-energy-transition/grid2poster)
+* [2026-05-17, 22:39:00](https://yro.slashdot.org/story/26/05/17/2236232/small-town-fights-over-flocks-ai-enhanced-network-of-license-plate-reading-cameras?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Small Town Fights Over Flock&apos;s AI-Enhanced Network of License Plate-Reading Cameras](https://yro.slashdot.org/story/26/05/17/2236232/small-town-fights-over-flocks-ai-enhanced-network-of-license-plate-reading-cameras?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-17, 22:23:30](https://news.ycombinator.com/item?id=48173708) - [Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](https://xca-attacks.github.io/fabricked/)
+* [2026-05-17, 21:56:40](https://news.ycombinator.com/item?id=48173547) - [The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations](https://www.jdhodges.com/blog/thinkpad-history/)
+* [2026-05-17, 21:45:30](https://news.ycombinator.com/item?id=48173468) - [Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base)
+* [2026-05-17, 21:40:35](https://news.ycombinator.com/item?id=48173429) - [GenCAD](https://gencad.github.io/)
 * [2026-05-17, 21:15:51](https://news.ycombinator.com/item?id=48173268) - [Prolog Coding Horror](https://www.metalevel.at/prolog/horror)
 * [2026-05-17, 21:14:23](https://lobste.rs/s/sdylhl/fits_on_floppy_manifesto_for_small) - [Fits on a Floppy - A Manifesto for Small Software](https://fitsonafloppy.com)
 * [2026-05-17, 20:56:00](https://it.slashdot.org/story/26/05/17/2053257/microsoft-exchange-server-vulnerability-actively-exploited-in-a-bad-week-for-microsoft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Exchange Server Vulnerability Actively Exploited, in a Bad Week for Microsoft](https://it.slashdot.org/story/26/05/17/2053257/microsoft-exchange-server-vulnerability-actively-exploited-in-a-bad-week-for-microsoft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-17, 20:19:33](https://lobste.rs/s/p0ok2r/postmarketos_2026_04_new_boot_splash) - [postmarketOS in 2026-04: new boot splash](https://postmarketos.org/blog/2026/05/10/pmOS-update-2026-04/)
 * [2026-05-17, 19:39:10](https://news.ycombinator.com/item?id=48172505) - [VoIP brings back old-fashioned pay phones to rural Vermont (2025)](https://spectrum.ieee.org/payphone-voip)
 * [2026-05-17, 19:09:00](https://science.slashdot.org/story/26/05/17/198215/we-still-cant-see-dark-matter-but-what-if-we-can-hear-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;We Still Can&apos;t See Dark Matter. But What If We Can Hear It?&apos;](https://science.slashdot.org/story/26/05/17/198215/we-still-cant-see-dark-matter-but-what-if-we-can-hear-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-17, 18:56:00](https://soylentnews.org/article.pl?sid=26/05/17/0147228&amp;from=rss) - [Removing the Modem and GPS From My 2024 RAV4 Hybrid](https://soylentnews.org/article.pl?sid=26/05/17/0147228&amp;from=rss)
-* [2026-05-17, 18:42:35](https://news.ycombinator.com/item?id=48171906) - [Scientists “bottle the sun” with a liquid battery that stores solar energy](https://www.sciencedaily.com/releases/2026/05/260513221821.htm)
 * [2026-05-17, 18:36:41](https://lobste.rs/s/03djyt/new_design_for_freebsd_website) - [New design for the FreeBSD website](https://www.freebsd.org/)
 * [2026-05-17, 18:18:38](https://lobste.rs/s/hg4sew/bitsocial_open_source_p2p_network_for) - [Bitsocial: Open Source P2P Network for Social Apps](https://bitsocial.net/)
 * [2026-05-17, 17:34:00](https://news.slashdot.org/story/26/05/17/1729245/us-mathreading-scores-continue-13-year-decline-researchers-blame-reduced-testing-and-social-media?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Math/Reading Scores Continue 13-Year Decline. Researchers Blame Reduced Testing and Social Media](https://news.slashdot.org/story/26/05/17/1729245/us-mathreading-scores-continue-13-year-decline-researchers-blame-reduced-testing-and-social-media?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-17, 17:09:36](https://news.ycombinator.com/item?id=48170799) - [The occasional ECONNRESET](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html)
-* [2026-05-17, 16:44:35](https://lobste.rs/s/vsrtfq/designing_scientific_calculator_from) - [Designing a Scientific Calculator from scratch in FPGA](https://baltazarstudios.com/calculator/)
 * [2026-05-17, 16:37:47](https://lobste.rs/s/9hiu10/bun_s_problem_may_be_developing_open) - [Bun&apos;s problem may be developing in the open](https://00f.net/2026/05/17/developping-in-the-open/)
 * [2026-05-17, 16:34:00](https://tech.slashdot.org/story/26/05/16/2318249/how-owners-of-evs-from-bankrupt-fisker-saved-their-cars-with-an-open-source-nonprofit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Owners of EVs from Bankrupt Fisker Saved Their Cars With an Open Source Nonprofit](https://tech.slashdot.org/story/26/05/16/2318249/how-owners-of-evs-from-bankrupt-fisker-saved-their-cars-with-an-open-source-nonprofit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-17, 16:28:54](https://lobste.rs/s/dt92ad/don_t_answer_first_question) - [Don&apos;t answer the first question](https://lalitm.com/post/dont-answer-the-first-question/)
-* [2026-05-17, 16:04:08](https://news.ycombinator.com/item?id=48170118) - [Don’t Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/)
 * [2026-05-17, 15:40:32](https://lobste.rs/s/6fc7qu/reviewing_so_called_pull_requests_at) - [Reviewing so called Pull Requests at $dayjob](https://rkta.de/dayjob-pr-review.html)
 * [2026-05-17, 15:37:07](https://news.ycombinator.com/item?id=48169874) - [Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep](https://github.com/MinishLab/semble)
 * [2026-05-17, 15:34:00](https://news.slashdot.org/story/26/05/16/2110220/sysadmin-creates-modulejail-to-automatically-blacklist-unused-kernel-modules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Sysadmin Creates &apos;ModuleJail&apos; To Automatically Blacklist Unused Kernel Modules](https://news.slashdot.org/story/26/05/16/2110220/sysadmin-creates-modulejail-to-automatically-blacklist-unused-kernel-modules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -110,20 +158,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-17, 03:29:58](https://lobste.rs/s/bklf9j/content_defined_chunking_bazel_s_remote) - [Content-defined chunking in Bazel&apos;s remote cache](https://www.buildbuddy.io/blog/content-defined-chunking)
 * [2026-05-17, 03:20:45](https://lobste.rs/s/dg2sx7/hyperpolyglot_lisp_common_lisp_racket) - [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp)
 * [2026-05-17, 01:34:00](https://hardware.slashdot.org/story/26/05/17/0125222/some-datacenters-divert-power-from-homes-will-it-drive-homeowners-to-solar-and-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Some Datacenters Divert Power from Homes.  Will It Drive Homeowners to Solar and Batteries?](https://hardware.slashdot.org/story/26/05/17/0125222/some-datacenters-divert-power-from-homes-will-it-drive-homeowners-to-solar-and-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-17, 01:25:26](https://news.ycombinator.com/item?id=48165295) - [Hosting a website on an 8-bit microcontroller](https://maurycyz.com/projects/mcusite/)
 * [2026-05-17, 01:14:20](https://lobste.rs/s/9ro8pd/tomy_tutor_state_1983_home_computers) - [The Tomy Tutor and the state of 1983 home computers](http://oldvcr.blogspot.com/2026/05/the-tomy-tutor-and-state-of-1983-home.html)
 * [2026-05-17, 00:20:51](https://lobste.rs/s/1udl0j/async_i_o_zig_0_16_today) - [Async I/O in Zig 0.16, today](https://lalinsky.com/2026/05/11/async-io-in-zig-016-today.html)
 * [2026-05-16, 23:51:00](https://soylentnews.org/article.pl?sid=26/05/16/0013231&amp;from=rss) - [AISLE Discovers CVE-2026-42511: a 21-Year-Old FreeBSD Remote Command Execution Vulnerability](https://soylentnews.org/article.pl?sid=26/05/16/0013231&amp;from=rss)
 * [2026-05-16, 22:45:16](https://news.ycombinator.com/item?id=48164432) - [A nicer voltmeter clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock)
 * [2026-05-16, 22:34:00](https://slashdot.org/story/26/05/16/0732218/an-entire-wikipedia-thats-100-ai-hallucinations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [An Entire Wikipedia That&apos;s 100% AI Hallucinations](https://slashdot.org/story/26/05/16/0732218/an-entire-wikipedia-thats-100-ai-hallucinations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-16, 22:23:50](https://news.ycombinator.com/item?id=48164287) - [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0)
-* [2026-05-16, 21:34:00](https://news.slashdot.org/story/26/05/16/2047205/how-i-added-an-llm-based-grammar-checking--tex-math-import-to-libreoffice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How I Added an LLM-Based Grammar Checking + TeX Math Import To LibreOffice](https://news.slashdot.org/story/26/05/16/2047205/how-i-added-an-llm-based-grammar-checking--tex-math-import-to-libreoffice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-16, 20:34:00](https://apple.slashdot.org/story/26/05/16/186200/the-apple-openai-alliance-is-fraying-setting-up-a-possible-legal-fight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Apple-OpenAI Alliance is Fraying, Setting Up a Possible Legal Fight ](https://apple.slashdot.org/story/26/05/16/186200/the-apple-openai-alliance-is-fraying-setting-up-a-possible-legal-fight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-16, 20:14:06](https://news.ycombinator.com/item?id=48163392) - [OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/)
-* [2026-05-16, 19:34:00](https://news.slashdot.org/story/26/05/16/0544201/california-law-limits-recycling-logo-in-new-attack-on-plastic-waste?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [California Law Limits &apos;Recycling&apos; Logo in New Attack on Plastic Waste](https://news.slashdot.org/story/26/05/16/0544201/california-law-limits-recycling-logo-in-new-attack-on-plastic-waste?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-16, 19:17:00](https://soylentnews.org/article.pl?sid=26/05/16/009242&amp;from=rss) - [HP Stuffed a PC Into a Keyboard. We Took it for a Spin](https://soylentnews.org/article.pl?sid=26/05/16/009242&amp;from=rss)
 * [2026-05-16, 18:44:02](https://lobste.rs/s/c5akjg/subscription_bombing_email_under_attack) - [Subscription Bombing: Email under Attack](https://cacm.acm.org/practice/subscription-bombing-email-under-attack/)
-* [2026-05-16, 18:34:00](https://apple.slashdot.org/story/26/05/16/1643203/anthropics-mythos-helped-build-a-working-macos-exploit-in-five-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic&apos;s Mythos Helped Build a Working macOS Exploit in Five Days](https://apple.slashdot.org/story/26/05/16/1643203/anthropics-mythos-helped-build-a-working-macos-exploit-in-five-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-16, 17:54:27](https://lobste.rs/s/obxoph/futility_lava_lamps_what_random_really) - [The Futility of Lava Lamps: What Random Really Means](https://loup-vaillant.fr/articles/lava-lamps-and-randomness)
 * [2026-05-16, 14:28:00](https://soylentnews.org/article.pl?sid=26/05/16/006216&amp;from=rss) - [1,300-Year-Old Secret: Lost Medieval Manuscript Finally Found Hiding in Plain Sight](https://soylentnews.org/article.pl?sid=26/05/16/006216&amp;from=rss)
 * [2026-05-16, 14:18:47](https://lobste.rs/s/kep6ok/recent_kernel_exploits_attack_surface) - [Recent Kernel exploits, attack surface reduction, example IPSEC](https://www.openwall.com/lists/oss-security/2026/05/16/3)
@@ -135,10 +176,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-16, 04:58:00](https://soylentnews.org/article.pl?sid=26/05/15/199214&amp;from=rss) - [NASA Pushes Mars Helicopter Rotors Past the Speed of Sound for the First Time Ever](https://soylentnews.org/article.pl?sid=26/05/15/199214&amp;from=rss)
 * [2026-05-16, 03:34:26](https://news.ycombinator.com/item?id=48156596) - [Schanuel&apos;s Conjecture and the Semantics of Triton&apos;s FPSan](https://cp4space.hatsya.com/2026/05/03/schanuels-conjecture-and-the-semantics-of-fpsan/)
 * [2026-05-16, 01:25:29](https://news.ycombinator.com/item?id=48155936) - [Magical Realism: “Northern Exposure” 25 Years Later (2015)](https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later)
-* [2026-05-16, 00:21:09](https://news.ycombinator.com/item?id=48155589) - [New Nightmare Just Dropped: &apos;3D&apos; Animated Ads on Trucks in Traffic](https://www.thedrive.com/news/new-nightmare-just-dropped-3d-animated-ads-on-trucks-in-traffic)
 * [2026-05-16, 00:12:00](https://soylentnews.org/article.pl?sid=26/05/15/197229&amp;from=rss) - [Tails Linux 7.7.3 Emergency Release Fixes Dirty Frag Vulnerability](https://soylentnews.org/article.pl?sid=26/05/15/197229&amp;from=rss)
-* [2026-05-15, 23:18:39](https://news.ycombinator.com/item?id=48155185) - [How diamonds are made](https://diamond.jaydip.me/)
+* [2026-05-15, 19:25:43](https://news.ycombinator.com/item?id=48152754) - [Ask an Astronaut: 333 hours of Q&amp;A footage with astronauts](https://askanastronaut.issinrealtime.org/)
 * [2026-05-15, 19:24:00](https://soylentnews.org/article.pl?sid=26/05/15/194258&amp;from=rss) - [A Wikipedia Clone Built on AI Hallucinations is Here to Hasten Along the Death of the Internet](https://soylentnews.org/article.pl?sid=26/05/15/194258&amp;from=rss)
+* [2026-05-15, 17:17:04](https://news.ycombinator.com/item?id=48151251) - [Jank now has its own custom IR](https://jank-lang.org/blog/2026-05-08-optimization/)
 * [2026-05-15, 14:45:00](https://soylentnews.org/article.pl?sid=26/05/14/0327203&amp;from=rss) - [Linux Kernel Maintainers Pitch Emergency Killswitch After CopyFail and Dirty Frag Chaos](https://soylentnews.org/article.pl?sid=26/05/14/0327203&amp;from=rss)
 * [2026-05-15, 11:39:13](https://news.ycombinator.com/item?id=48147351) - [Mercurial, 20 years and counting: how are we still alive and kicking? [video]](https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/)
 * [2026-05-15, 11:02:14](https://news.ycombinator.com/item?id=48147091) - [Prolog Basics Explained with Pokémon](https://unplannedobsolescence.com/blog/prolog-basics-pokemon/)
@@ -147,16 +188,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-15, 04:32:21](https://news.ycombinator.com/item?id=48144584) - [C++26 Shipped a SIMD Library Nobody Asked For](https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody)
 * [2026-05-15, 00:25:00](https://soylentnews.org/article.pl?sid=26/05/14/0239217&amp;from=rss) - [Scientists Solve 100-Year-Old Schrödinger Mystery About Color Perception](https://soylentnews.org/article.pl?sid=26/05/14/0239217&amp;from=rss)
 * [2026-05-14, 22:30:16](https://news.ycombinator.com/item?id=48142115) - [Colossus: The Forbin Project](https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project)
+* [2026-05-14, 22:12:45](https://news.ycombinator.com/item?id=48141960) - [Cannibalistic attacks between gray seals leave telltale “corkscrew” injuries](https://www.science.org/content/article/scientists-id-corkscrew-killer-behind-gruesome-seal-deaths)
 * [2026-05-14, 20:08:12](https://news.ycombinator.com/item?id=48140556) - [Hindenburg’s Smoking Room](https://www.airships.net/hindenburg-smoking-room/)
-* [2026-05-14, 19:56:05](https://news.ycombinator.com/item?id=48140368) - [Multi-Species Canopy Latrines in Costa Rican Cloud Forests](https://onlinelibrary.wiley.com/doi/10.1002/ece3.72964)
 * [2026-05-14, 19:41:00](https://soylentnews.org/article.pl?sid=26/05/14/032218&amp;from=rss) - [GM Agrees to Pay $12.75 Million to Settle California Lawsuit Over Misuse of Customers&apos; Driving Data](https://soylentnews.org/article.pl?sid=26/05/14/032218&amp;from=rss)
 * [2026-05-14, 14:54:00](https://soylentnews.org/article.pl?sid=26/05/14/0258245&amp;from=rss) - [Both Fedora and Ubuntu Will Get AI Support – Soon](https://soylentnews.org/article.pl?sid=26/05/14/0258245&amp;from=rss)
 * [2026-05-14, 10:08:04](https://news.ycombinator.com/item?id=48133293) - [High-Entropy Alloy](https://en.wikipedia.org/wiki/High-entropy_alloy)
 * [2026-05-14, 10:06:00](https://soylentnews.org/article.pl?sid=26/05/14/0248229&amp;from=rss) - [Google Says Hackers Used AI to Develop a Major Security Flaw](https://soylentnews.org/article.pl?sid=26/05/14/0248229&amp;from=rss)
 * [2026-05-14, 05:23:00](https://soylentnews.org/article.pl?sid=26/05/13/215223&amp;from=rss) - [“Cannot be Explained” – New Ultra Stainless Steel Stuns Researchers](https://soylentnews.org/article.pl?sid=26/05/13/215223&amp;from=rss)
 * [2026-05-14, 00:35:00](https://soylentnews.org/article.pl?sid=26/05/13/2054254&amp;from=rss) - [What&apos;s Up With UPSs?](https://soylentnews.org/article.pl?sid=26/05/13/2054254&amp;from=rss)
-* [2026-05-13, 19:51:00](https://soylentnews.org/article.pl?sid=26/05/13/191214&amp;from=rss) - [Workers Pay the Price of Burnout. Should Employers Cover the Cost?](https://soylentnews.org/article.pl?sid=26/05/13/191214&amp;from=rss)
-* [2026-05-13, 17:07:00](https://soylentnews.org/article.pl?sid=26/05/11/148254&amp;from=rss) - [Louis Rossmann Tells 3D Printer Maker Bambu Lab To ‘Go (Bleep) Yourself’ Over Its Threatened Lawsuit](https://soylentnews.org/article.pl?sid=26/05/11/148254&amp;from=rss)
-* [2026-05-13, 12:21:00](https://soylentnews.org/article.pl?sid=26/05/11/146201&amp;from=rss) - [LLMs Are Different and LLMs Are the Same](https://soylentnews.org/article.pl?sid=26/05/11/146201&amp;from=rss)
-* [2026-05-13, 07:35:00](https://soylentnews.org/article.pl?sid=26/05/11/1331243&amp;from=rss) - [A Simple Way of Making Hydrogen From Alcohol by Using Iron and UV Light](https://soylentnews.org/article.pl?sid=26/05/11/1331243&amp;from=rss)
-* [2026-05-13, 02:49:00](https://soylentnews.org/article.pl?sid=26/05/11/1329241&amp;from=rss) - [MIT Researchers Revive 40-Year-Old Triangular Zipper Concept Now Made Possible by 3D Printing](https://soylentnews.org/article.pl?sid=26/05/11/1329241&amp;from=rss)
