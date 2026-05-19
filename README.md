@@ -1,42 +1,62 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Advances and AI Innovations
+## Economic Disruptions and Organizational Changes
 
-* [Amazon's Alexa+ Now Produces AI-Generated Podcasts](https://entertainment.slashdot.org/story/26/05/19/0043247/amazons-alexa-now-produces-ai-generated-podcasts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Amazon's AI capabilities expand as Alexa begins producing AI-generated podcasts. [Comments](https://entertainment.slashdot.org/story/26/05/19/0043247/amazons-alexa-now-produces-ai-generated-podcasts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [StanChart To Cut Over 7,000 Jobs, Boost AI To Replace 'Lower-Value Human Capital'](https://slashdot.org/story/26/05/19/1640224/stanchart-to-cut-over-7000-jobs-boost-ai-to-replace-lower-value-human-capital?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The banking giant plans to heavily lean on artificial intelligence to increase efficiency, leading to significant job cuts.
 
-* [Your Doctor is Most Likely Consulting This Free AI Chatbot](https://soylentnews.org/article.pl?sid=26/05/17/1438201&amp;from=rss) - A free AI chatbot is increasingly being used by medical practitioners for consultations. [Comments](https://soylentnews.org/article.pl?sid=26/05/17/1438201&amp;from=rss)
+* [Before Mass Layoffs, Meta Reassigns 7,000 Workers To Focus On AI](https://meta.slashdot.org/story/26/05/19/0027253/before-mass-layoffs-meta-reassigns-7000-workers-to-focus-on-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Meta sees a major organizational shift as it reallocates thousands of employees to work on AI projects.
 
-* [Europe Tests Laser Links As Satellite Comms Outgrow Radio](https://tech.slashdot.org/story/26/05/19/0035259/europe-tests-laser-links-as-satellite-comms-outgrow-radio?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Europe experiments with laser-based satellite communication as traditional radio methods become less efficient. [Comments](https://tech.slashdot.org/story/26/05/19/0035259/europe-tests-laser-links-as-satellite-comms-outgrow-radio?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Meta Layoffs Stress Harsh AI Reality Inside Zuckerberg's Company](https://tech.slashdot.org/story/26/05/18/179232/meta-layoffs-stress-harsh-ai-reality-inside-zuckerbergs-company?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Meta's job cuts highlight challenges and shifts in focus towards artificial intelligence within the company.
 
-## Security Concerns and Breaches
+## Advances and Controversies in AI
 
-* [CISA Admin Leaked AWS GovCloud Keys on GitHub](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/) - A significant security mishap where a CISA admin leaked sensitive AWS GovCloud keys on GitHub. [Comments](https://news.ycombinator.com/item?id=48190454)
+* [A new era for AI Search](https://blog.google/products-and-platforms/products/search/search-io-2026/) - Google unveils developments that promise to reshape the landscape of AI-powered search engines.
 
-* [Mini Shai-Hulud Strikes Again: 314 npm packages compromised](https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/) - A large number of npm packages are compromised in a security breach. [Comments](https://news.ycombinator.com/item?id=48189368)
+* [Gemini Omni](https://deepmind.google/models/gemini-omni/) - DeepMind introduces a comprehensive AI model showcasing improvements in multi-domain intelligence.
 
-## Cutting-Edge Space and Science Discoveries
+* [Apple unveils new accessibility features](https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/) - Apple's new accessibility improvements leverage AI to offer more inclusive design solutions.
 
-* [A Simple Blood Test Could Predict Your Odds of Living Longer With Surprising Accuracy](https://soylentnews.org/article.pl?sid=26/05/17/1424241&amp;from=rss) - Researchers have potentially developed a blood test that can predict lifespan with remarkable accuracy. [Comments](https://soylentnews.org/article.pl?sid=26/05/17/1424241&amp;from=rss)
+## Ethics and Security in the Tech Sector
 
-* [Scientists May Have Discovered How Parkinson’s Disease Spreads Through the Brain](https://soylentnews.org/article.pl?sid=26/05/17/0150209&amp;from=rss) - New insights shed light on the transmission mechanisms of Parkinson's disease. [Comments](https://soylentnews.org/article.pl?sid=26/05/17/0150209&amp;from=rss)
+* [CISA Admin Leaked AWS GovCloud Keys On Github](https://yro.slashdot.org/story/26/05/19/1650229/cisa-admin-leaked-aws-govcloud-keys-on-github?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A significant security breach exposes sensitive AWS GovCloud keys on GitHub.
 
-## Innovative Tools and Frameworks
+* [Comprehensive Response to Bambu's AGPLv3 Violations](https://sfconservancy.org/news/2026/may/18/bambu-studio-3d-printer-agpl-violation-response/) - The Software Freedom Conservancy addresses alleged violations of AGPLv3 licensing by Bambu in their 3D printing products.
 
-* [Show HN: I made a 3D pose maker for artists](https://setpose.com/) - A newly launched 3D pose maker tool aims to assist artists during their creative process. [Comments](https://news.ycombinator.com/item?id=48193474)
+* [Open Source Package With 1 Million Monthly Downloads Stole User Credentials](https://soylentnews.org/article.pl?sid=26/05/15/1911234&amp;from=rss) - A widely-used open-source package is found to have compromised users' credentials.
 
-* [The Super Tiny Compiler, but in Ada](https://github.com/tomekw/stcc) - The widely known Super Tiny Compiler is now reimplemented in the Ada programming language. [Comments](https://lobste.rs/s/pk139i/super_tiny_compiler_ada)
+## Innovations in Technology
 
-## Corporate Technology News
+* [Microsoft Launches Surface Pro 12, Surface Laptop 8 With Intel Chips](https://hardware.slashdot.org/story/26/05/19/1625223/microsoft-launches-surface-pro-12-surface-laptop-8-with-intel-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft debuts new powerful devices featuring Intel chips, aiming at high-performance tech users.
 
-* [Before Mass Layoffs, Meta Reassigns 7,000 Workers To Focus On AI](https://meta.slashdot.org/story/26/05/19/0027253/before-mass-layoffs-meta-reassigns-7000-workers-to-focus-on-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Amid impending layoffs, Meta shifts 7,000 employees to focus on AI projects. [Comments](https://meta.slashdot.org/story/26/05/19/0027253/before-mass-layoffs-meta-reassigns-7000-workers-to-focus-on-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Microsoft Surprises With Its First Server Linux Distribution: Azure Linux 4.0](https://linux.slashdot.org/story/26/05/19/0056247/microsoft-surprises-with-its-first-server-linux-distribution-azure-linux-40?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft steps into Linux with a server distribution, signaling a significant shift in its software approach.
 
-* [Anthropic Is Preparing for IPO and We Should Be Worried](https://www.vincentschmalbach.com/anthropic-ipo-developers-should-be-worried-v2/) - Questions surround Anthropic's preparation for its initial public offering (IPO). [Comments](https://news.ycombinator.com/item?id=48193111)
+## Unique Science and Engineering Discoveries
 
-## Unique Cultural and Historical Insights
+* [Deciphering the Hashihara Castle Town Map](https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html) - A deep dive into the history and cartographic artistry of the Hashihara Castle Town Map.
 
-* [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/) - A concise summary of key developments in large language models over the past six months. [Comments](https://news.ycombinator.com/item?id=48188183)
+* [NASA Pushes Mars Helicopter Rotors Past the Speed of Sound for the First Time Ever](https://soylentnews.org/article.pl?sid=26/05/15/199214&amp;from=rss) - NASA achieves a groundbreaking milestone with the Mars helicopter program, testing at supersonic speeds.
 
-* [1,300-Year-Old Secret: Lost Medieval Manuscript Finally Found Hiding in Plain Sight](https://soylentnews.org/article.pl?sid=26/05/16/006216&amp;from=rss) - A long-lost medieval manuscript is rediscovered after over a millennium. [Comments](https://soylentnews.org/article.pl?sid=26/05/16/006216&amp;from=rss)
+* [Scientists Solve 100-Year-Old Schrödinger Mystery About Color Perception](https://soylentnews.org/article.pl?sid=26/05/14/0239217&amp;from=rss) - A long-standing question on color perception, rooted in Schrödinger's theories, finds a solution.
+
+## Historical and Cultural Insights
+
+* [Huge Landslide Created a 500-Meter-High Tsunami in a Major Tourist Area](https://soylentnews.org/article.pl?sid=26/05/17/144228&amp;from=rss) - A catastrophic event uncovered the powerful natural forces shaping our landscapes.
+
+* [Hanoi’s humble beer glass and the memory of a nation](https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/) - How a humble object became an emblem of Vietnamese cultural identity and historical resilience.
+
+## Creative and Niche Tech Projects
+
+* [I’ve built a virtual museum with nearly every operating system you can think of](https://virtualosmuseum.org/) - Explore an impressive virtual museum preserving the history of operating systems.
+
+* [The Super Tiny Compiler, but in Ada](https://github.com/tomekw/stcc) - A minimalist yet powerful compiler rewritten in the Ada programming language.
+
+* [Show HN: I made a 3D pose maker for artists](https://setpose.com/) - An artist-friendly innovation to create and manipulate 3D poses.
+
+## Environmental and Societal Challenges
+
+* [AI Data Centers Face Increasing Complaints About Inaudible but 'Felt' Infrasound](https://soylentnews.org/article.pl?sid=26/05/17/1429249&amp;from=rss) - Concerns arise over the impact of low-frequency sounds produced by data centers used in AI processing.
+
+* [EVs Cause Honda’s First Ever Money-Losing Year in the US](https://soylentnews.org/article.pl?sid=26/05/16/0314220&amp;from=rss) - Electrification challenges contribute to Honda’s financial losses in the American market.
 
 ---
 
@@ -63,17 +83,38 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-05-19, 19:00:00](https://slashdot.org/story/26/05/19/1640224/stanchart-to-cut-over-7000-jobs-boost-ai-to-replace-lower-value-human-capital?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [StanChart To Cut Over 7,000 Jobs, Boost AI To Replace &apos;Lower-Value Human Capital&apos;](https://slashdot.org/story/26/05/19/1640224/stanchart-to-cut-over-7000-jobs-boost-ai-to-replace-lower-value-human-capital?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-19, 18:56:25](https://news.ycombinator.com/item?id=48197703) - [Disney Erased FiveThirtyEight](https://www.natesilver.net/p/disney-erased-fivethirtyeight)
+* [2026-05-19, 18:45:35](https://lobste.rs/s/wefsg8/pokemon_compression_myth) - [Pokemon compression myth](https://www.reddit.com/r/TruePokemon/comments/hwluk9/while_it_is_true_that_iwata_did_write_a_new/)
+* [2026-05-19, 18:34:27](https://news.ycombinator.com/item?id=48197370) - [A new era for AI Search](https://blog.google/products-and-platforms/products/search/search-io-2026/)
+* [2026-05-19, 18:26:00](https://soylentnews.org/article.pl?sid=26/05/18/174235&amp;from=rss) - [Short Interview with Vint Cerf at El País](https://soylentnews.org/article.pl?sid=26/05/18/174235&amp;from=rss)
+* [2026-05-19, 18:04:58](https://news.ycombinator.com/item?id=48196897) - [Deciphering the Hashihara Castle Town Map](https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html)
+* [2026-05-19, 18:00:00](https://yro.slashdot.org/story/26/05/19/1650229/cisa-admin-leaked-aws-govcloud-keys-on-github?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [CISA Admin Leaked AWS GovCloud Keys On Github](https://yro.slashdot.org/story/26/05/19/1650229/cisa-admin-leaked-aws-govcloud-keys-on-github?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-19, 17:46:19](https://news.ycombinator.com/item?id=48196609) - [Gemini Omni](https://deepmind.google/models/gemini-omni/)
+* [2026-05-19, 17:43:45](https://news.ycombinator.com/item?id=48196570) - [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)
+* [2026-05-19, 17:02:39](https://lobste.rs/s/r4xf2n/better_generated_branch_names_with_jj) - [Better generated branch names with jj](https://ddbeck.com/notes/jj-git-push-bookmark-template/)
+* [2026-05-19, 17:01:25](https://news.ycombinator.com/item?id=48196020) - [Google I/O](https://io.google/2026/)
+* [2026-05-19, 17:00:00](https://hardware.slashdot.org/story/26/05/19/1625223/microsoft-launches-surface-pro-12-surface-laptop-8-with-intel-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Launches Surface Pro 12, Surface Laptop 8 With Intel Chips](https://hardware.slashdot.org/story/26/05/19/1625223/microsoft-launches-surface-pro-12-surface-laptop-8-with-intel-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-19, 16:40:27](https://news.ycombinator.com/item?id=48195706) - [KV Sharing, MHC, and Compressed Attention](https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures)
+* [2026-05-19, 16:22:32](https://lobste.rs/s/rqhxpk/human_bottlenecks) - [Human Bottlenecks](https://borretti.me/article/human-bottlenecks)
+* [2026-05-19, 16:00:00](https://linux.slashdot.org/story/26/05/19/0056247/microsoft-surprises-with-its-first-server-linux-distribution-azure-linux-40?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Surprises With Its First Server Linux Distribution: Azure Linux 4.0](https://linux.slashdot.org/story/26/05/19/0056247/microsoft-surprises-with-its-first-server-linux-distribution-azure-linux-40?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-19, 15:54:06](https://news.ycombinator.com/item?id=48195021) - [Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs](https://superlog.sh/)
+* [2026-05-19, 15:53:38](https://news.ycombinator.com/item?id=48195009) - [I’ve built a virtual museum with nearly every operating system you can think of](https://virtualosmuseum.org/)
+* [2026-05-19, 15:43:19](https://lobste.rs/s/maqmo2/how_we_used_quint_find_over_10_bugs_sqlite) - [How we used Quint to find over 10 bugs in SQLite while hardening Turso](https://turso.tech/blog/how-we-used-quint-to-find-over-10-bugs-in-sqlite)
+* [2026-05-19, 15:27:53](https://news.ycombinator.com/item?id=48194614) - [Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities](https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html)
+* [2026-05-19, 15:07:45](https://news.ycombinator.com/item?id=48194352) - [I’ve joined Anthropic](https://twitter.com/karpathy/status/2056753169888334312)
 * [2026-05-19, 15:00:00](https://meta.slashdot.org/story/26/05/19/0027253/before-mass-layoffs-meta-reassigns-7000-workers-to-focus-on-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Before Mass Layoffs, Meta Reassigns 7,000 Workers To Focus On AI](https://meta.slashdot.org/story/26/05/19/0027253/before-mass-layoffs-meta-reassigns-7000-workers-to-focus-on-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-19, 14:37:27](https://lobste.rs/s/zotppg/type_out_code) - [Type out the code](https://haskellforall.com/2026/05/type-out-the-code)
+* [2026-05-19, 14:29:40](https://lobste.rs/s/wed6lj/what_would_you_want_from_forge) - [What would you want from a forge?](https://lobste.rs/s/wed6lj/what_would_you_want_from_forge)
 * [2026-05-19, 14:04:19](https://news.ycombinator.com/item?id=48193474) - [Show HN: I made a 3D pose maker for artists](https://setpose.com/)
+* [2026-05-19, 14:02:55](https://lobste.rs/s/pliqep/under_hood_building_real_time_chord) - [Under the Hood: Building a Real-Time Chord Recognizer](https://whatchord.earthmanmuons.com/articles/under-the-hood)
 * [2026-05-19, 13:50:35](https://lobste.rs/s/pk139i/super_tiny_compiler_ada) - [The Super Tiny Compiler, but in Ada](https://github.com/tomekw/stcc)
 * [2026-05-19, 13:41:00](https://soylentnews.org/article.pl?sid=26/05/17/1438201&amp;from=rss) - [Your Doctor is Most Likely Consulting This Free AI Chatbot](https://soylentnews.org/article.pl?sid=26/05/17/1438201&amp;from=rss)
-* [2026-05-19, 13:30:58](https://news.ycombinator.com/item?id=48193111) - [Anthropic Is Preparing for IPO and We Should Be Worried](https://www.vincentschmalbach.com/anthropic-ipo-developers-should-be-worried-v2/)
 * [2026-05-19, 13:30:09](https://lobste.rs/s/wwcjoc/openbsd_7_9_released) - [OpenBSD 7.9 released](https://www.openbsd.org/79.html)
-* [2026-05-19, 13:11:51](https://news.ycombinator.com/item?id=48192882) - [OpenBSD 7.9 Released](https://www.openbsd.org/79.html)
+* [2026-05-19, 13:11:51](https://news.ycombinator.com/item?id=48192882) - [OpenBSD 7.9](https://www.openbsd.org/79.html)
 * [2026-05-19, 12:53:39](https://lobste.rs/s/prer9l/software_s_centaur_era) - [Software&apos;s Centaur Era](https://twitchard.github.io/posts/2026-05-18-softwares-centaur-era.html)
 * [2026-05-19, 12:29:28](https://lobste.rs/s/zsjasr/my_domain_got_abused_on_github_pages) - [My domain got abused on Github Pages](https://meertens.dev/blog/github-enables-domain-abuse/)
-* [2026-05-19, 12:26:45](https://news.ycombinator.com/item?id=48192410) - [Colonization of Venus](https://en.wikipedia.org/wiki/Colonization_of_Venus)
-* [2026-05-19, 12:04:18](https://news.ycombinator.com/item?id=48192224) - [New accessibility features powered by Apple Intelligence](https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/)
+* [2026-05-19, 12:04:18](https://news.ycombinator.com/item?id=48192224) - [Apple unveils new accessibility features](https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/)
 * [2026-05-19, 11:52:27](https://lobste.rs/s/syambe/unreasonable_effectiveness) - [The Unreasonable Effectiveness of ProseMirror Model in Rich Text Transformation](https://smoores.dev/post/unreasonable_effectiveness_of_prosemirror/)
 * [2026-05-19, 11:00:00](https://entertainment.slashdot.org/story/26/05/19/0043247/amazons-alexa-now-produces-ai-generated-podcasts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon&apos;s Alexa+ Now Produces AI-Generated Podcasts](https://entertainment.slashdot.org/story/26/05/19/0043247/amazons-alexa-now-produces-ai-generated-podcasts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-19, 10:38:47](https://news.ycombinator.com/item?id=48191602) - [Gaussian Splat of a Strawberry](https://superspl.at/scene/84df8849)
@@ -84,9 +125,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-19, 07:45:53](https://news.ycombinator.com/item?id=48190454) - [CISA Admin Leaked AWS GovCloud Keys on GitHub](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
 * [2026-05-19, 07:00:00](https://tech.slashdot.org/story/26/05/19/0035259/europe-tests-laser-links-as-satellite-comms-outgrow-radio?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Europe Tests Laser Links As Satellite Comms Outgrow Radio](https://tech.slashdot.org/story/26/05/19/0035259/europe-tests-laser-links-as-satellite-comms-outgrow-radio?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-19, 05:04:49](https://news.ycombinator.com/item?id=48189368) - [Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised](https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/)
-* [2026-05-19, 04:29:39](https://news.ycombinator.com/item?id=48189178) - [PyTorch Landscape](https://pytorch.landscape2.io)
 * [2026-05-19, 04:09:00](https://soylentnews.org/article.pl?sid=26/05/17/1424241&amp;from=rss) - [A Simple Blood Test Could Predict Your Odds of Living Longer With Surprising Accuracy](https://soylentnews.org/article.pl?sid=26/05/17/1424241&amp;from=rss)
-* [2026-05-19, 04:06:09](https://news.ycombinator.com/item?id=48189044) - [Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust](https://github.com/harmont-dev/hsrs)
 * [2026-05-19, 03:30:00](https://games.slashdot.org/story/26/05/19/0021214/playstation-exclusives-arent-coming-to-pc-anymore?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [PlayStation Exclusives Aren&apos;t Coming To PC Anymore](https://games.slashdot.org/story/26/05/19/0021214/playstation-exclusives-arent-coming-to-pc-anymore?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-19, 03:17:45](https://news.ycombinator.com/item?id=48188787) - [Peter Neumann has died](https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html)
 * [2026-05-19, 02:46:09](https://lobste.rs/s/q1m7cr/spork_posix_spawn_you_can_use_as_fork) - [Spork: A posix_spawn you can use as a fork](https://dl.acm.org/doi/pdf/10.1145/3713082.3730396)
@@ -103,46 +142,30 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-18, 21:15:33](https://lobste.rs/s/i2szle/just_say_no_engineer_was_zirp_phenomenon) - [The just-say-no engineer was a ZIRP phenomenon](https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/)
 * [2026-05-18, 21:07:08](https://lobste.rs/s/5mnt43/fil_c_optimized_calling_convention) - [The Fil-C Optimized Calling Convention](https://fil-c.org/calling_convention)
 * [2026-05-18, 21:00:00](https://yro.slashdot.org/story/26/05/18/196230/nintendo-tries-to-obtain-touchscreen-specific-patent-on-monster-capturing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nintendo Tries To Obtain Touchscreen-Specific Patent On Monster Capturing](https://yro.slashdot.org/story/26/05/18/196230/nintendo-tries-to-obtain-touchscreen-specific-patent-on-monster-capturing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-18, 20:16:05](https://lobste.rs/s/saldxa/cargo_crap_finding_untested_complexity) - [cargo-crap: Finding Untested Complexity in AI-Generated Rust Code](https://minikin.me/blog/cargo-crap/)
 * [2026-05-18, 20:00:00](https://tech.slashdot.org/story/26/05/18/179232/meta-layoffs-stress-harsh-ai-reality-inside-zuckerbergs-company?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Layoffs Stress Harsh AI Reality Inside Zuckerberg&apos;s Company](https://tech.slashdot.org/story/26/05/18/179232/meta-layoffs-stress-harsh-ai-reality-inside-zuckerbergs-company?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-18, 19:27:25](https://news.ycombinator.com/item?id=48184322) - [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp)
 * [2026-05-18, 19:00:00](https://yro.slashdot.org/story/26/05/18/1845222/elon-musk-loses-lawsuit-against-openai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Elon Musk Loses Lawsuit Against OpenAI](https://yro.slashdot.org/story/26/05/18/1845222/elon-musk-loses-lawsuit-against-openai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-18, 18:37:00](https://soylentnews.org/article.pl?sid=26/05/17/1359222&amp;from=rss) - [What Will It Take to Modernize the US Power Grid?](https://soylentnews.org/article.pl?sid=26/05/17/1359222&amp;from=rss)
 * [2026-05-18, 18:29:26](https://lobste.rs/s/0wbazw/haiku_os_runs_on_m1_macs_now) - [Haiku OS runs on M1 Macs now](https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/)
 * [2026-05-18, 18:28:13](https://lobste.rs/s/xckxda/quiet_renovation_at_bitwarden) - [The Quiet Renovation at Bitwarden](https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden)
-* [2026-05-18, 18:27:37](https://lobste.rs/s/dysrh2/misconceptions_about_unix_philosophy) - [Misconceptions about the UNIX Philosophy (2024)](https://posixcafe.org/blogs/2024/01/05/0/)
-* [2026-05-18, 18:12:18](https://news.ycombinator.com/item?id=48183301) - [We let AIs run radio stations](https://andonlabs.com/blog/andon-fm)
 * [2026-05-18, 18:00:00](https://news.slashdot.org/story/26/05/18/1656217/a-masters-degree-isnt-the-job-guarantee-it-used-to-be?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Master&apos;s Degree Isn&apos;t the Job Guarantee It Used To Be](https://news.slashdot.org/story/26/05/18/1656217/a-masters-degree-isnt-the-job-guarantee-it-used-to-be?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-18, 17:45:02](https://news.ycombinator.com/item?id=48182872) - [Hanoi&apos;s humble beer glass and the memory of a nation](https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/)
+* [2026-05-18, 17:45:02](https://news.ycombinator.com/item?id=48182872) - [Hanoi’s humble beer glass and the memory of a nation](https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/)
+* [2026-05-18, 17:44:12](https://news.ycombinator.com/item?id=48182856) - [Show HN: Haystack – Review the PRs that need human attention](https://haystackeditor.com/)
 * [2026-05-18, 17:20:43](https://news.ycombinator.com/item?id=48182516) - [Cursor Introduces Composer 2.5](https://cursor.com/blog/composer-2-5)
-* [2026-05-18, 17:08:29](https://lobste.rs/s/qntbqq/git_blame_for_code_comprehension) - [Git blame for code comprehension](https://matklad.github.io/2026/05/18/always-be-blaming.html)
-* [2026-05-18, 17:01:21](https://news.ycombinator.com/item?id=48182281) - [Anthropic acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless)
 * [2026-05-18, 17:00:00](https://tech.slashdot.org/story/26/05/18/1644248/microsoft-testing-adjustable-taskbar-start-menu-in-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Testing Adjustable Taskbar, Start Menu In Windows 11](https://tech.slashdot.org/story/26/05/18/1644248/microsoft-testing-adjustable-taskbar-start-menu-in-windows-11?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-18, 16:33:33](https://lobste.rs/s/fkoh4s/how_select_mobile_os) - [How to select a mobile OS](https://blog.gridranger.dev/mobile-oses-featuring-fairphone-5/)
-* [2026-05-18, 16:00:00](https://yro.slashdot.org/story/26/05/18/0347213/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The US Is Betting On AI To Catch Insider Trading In Prediction Markets](https://yro.slashdot.org/story/26/05/18/0347213/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-18, 15:00:00](https://science.slashdot.org/story/26/05/18/0336208/who-declares-ebola-outbreak-a-global-health-emergency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [WHO Declares Ebola Outbreak a Global Health Emergency](https://science.slashdot.org/story/26/05/18/0336208/who-declares-ebola-outbreak-a-global-health-emergency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-18, 14:13:07](https://news.ycombinator.com/item?id=48180204) - [1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries](https://github.com/2b2tplace/1m_release)
 * [2026-05-18, 13:55:20](https://lobste.rs/s/lynqdm/de_bloating_javascript) - [De‐bloating Javascript](https://github.com/naver/lispe/wiki/6.23-De%E2%80%90bloating-Javascript)
 * [2026-05-18, 13:51:00](https://soylentnews.org/article.pl?sid=26/05/17/1346233&amp;from=rss) - [China Court Rules Against Job Cut From AI](https://soylentnews.org/article.pl?sid=26/05/17/1346233&amp;from=rss)
-* [2026-05-18, 12:40:10](https://lobste.rs/s/akooh9/16_byte_x86_demo_matrix_rain_with_sound) - [A 16-byte x86 demo: Matrix rain with sound](https://hellmood.111mb.de//wake_up_16b_writeup.html)
-* [2026-05-18, 11:34:00](https://entertainment.slashdot.org/story/26/05/18/0215200/steven-soderbergh-defends-ai-use-in-his-new-documentary-about-john-lennon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Steven Soderbergh Defends AI Use in His New Documentary about John Lennon](https://entertainment.slashdot.org/story/26/05/18/0215200/steven-soderbergh-defends-ai-use-in-his-new-documentary-about-john-lennon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-18, 09:51:24](https://lobste.rs/s/ap9dum/find_bugs_your_code_using_opencode_llama) - [Find bugs in YOUR code using OpenCode, Llama.cpp and Qwen3.6](http://wtarreau.blogspot.com/2026/05/find-bugs-in-your-code-using-opencode.html)
+* [2026-05-18, 11:00:15](https://news.ycombinator.com/item?id=48177891) - [The Silver Swan Automaton (1773)](https://thebowesmuseum.org.uk/collections/the-silver-swan/)
 * [2026-05-18, 09:05:00](https://soylentnews.org/article.pl?sid=26/05/17/1229217&amp;from=rss) - [The Context Window Has Been Shattered: Subquadratic Debuts a 12-Million-Token Window](https://soylentnews.org/article.pl?sid=26/05/17/1229217&amp;from=rss)
-* [2026-05-18, 07:34:00](https://tech.slashdot.org/story/26/05/18/0613223/iran-now-threatens-fees-for-subsea-internet-cables-in-the-strait-of-hormuz?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Iran Now Threatens Fees for Subsea Internet Cables in the Strait of Hormuz](https://tech.slashdot.org/story/26/05/18/0613223/iran-now-threatens-fees-for-subsea-internet-cables-in-the-strait-of-hormuz?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-18, 04:24:00](https://soylentnews.org/article.pl?sid=26/05/17/0153208&amp;from=rss) - [SteamOS Scared Microsoft Into Making Windows Less Like Windows](https://soylentnews.org/article.pl?sid=26/05/17/0153208&amp;from=rss)
-* [2026-05-18, 03:06:03](https://lobste.rs/s/ynxkj6/researcher_says_microsoft_secretly) - [Researcher says Microsoft secretly built a backdoor into BitLocker](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html)
 * [2026-05-17, 23:37:00](https://soylentnews.org/article.pl?sid=26/05/17/0150209&amp;from=rss) - [Scientists May Have Discovered How Parkinson’s Disease Spreads Through the Brain](https://soylentnews.org/article.pl?sid=26/05/17/0150209&amp;from=rss)
-* [2026-05-17, 19:12:15](https://news.ycombinator.com/item?id=48172234) - [Energy return in running shoes explained (2025)](https://runrepeat.com/guides/energy-return-in-running-shoes)
 * [2026-05-17, 18:56:00](https://soylentnews.org/article.pl?sid=26/05/17/0147228&amp;from=rss) - [Removing the Modem and GPS From My 2024 RAV4 Hybrid](https://soylentnews.org/article.pl?sid=26/05/17/0147228&amp;from=rss)
+* [2026-05-17, 15:52:21](https://news.ycombinator.com/item?id=48170007) - [Intro to TLA+ for the LLM Era: Prompt Your Way to Victory](https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/)
+* [2026-05-17, 14:57:39](https://news.ycombinator.com/item?id=48169508) - [KV Cache Is Becoming the Memory Hierarchy of Inference](https://touchdown-labs.com/blog/kv-cache-memory-hierarchy-inference.html)
 * [2026-05-17, 14:03:00](https://soylentnews.org/article.pl?sid=26/05/17/0146201&amp;from=rss) - [A Security Researcher Says Microsoft Secretly Built a Backdoor into BitLocker](https://soylentnews.org/article.pl?sid=26/05/17/0146201&amp;from=rss)
-* [2026-05-17, 13:09:20](https://news.ycombinator.com/item?id=48168610) - [Nim-Presto – REST API Framework for Nim Language](https://github.com/status-im/nim-presto)
-* [2026-05-17, 11:18:44](https://news.ycombinator.com/item?id=48167890) - [Photo GIMP – A Patch for GIMP 3 for Photoshop Users](https://github.com/Diolinux/PhotoGIMP)
 * [2026-05-17, 09:23:00](https://soylentnews.org/article.pl?sid=26/05/16/0314220&amp;from=rss) - [EVs Cause Honda’s First Ever Money-Losing Year in the US](https://soylentnews.org/article.pl?sid=26/05/16/0314220&amp;from=rss)
 * [2026-05-17, 07:20:14](https://news.ycombinator.com/item?id=48166744) - [Polypad](https://polypad.amplify.com/)
 * [2026-05-17, 04:43:00](https://soylentnews.org/article.pl?sid=26/05/16/0015203&amp;from=rss) - [Here&apos;s Why European Cars Can&apos;t Use American Engine Oil](https://soylentnews.org/article.pl?sid=26/05/16/0015203&amp;from=rss)
 * [2026-05-17, 03:25:23](https://news.ycombinator.com/item?id=48165797) - [I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert](https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314)
-* [2026-05-17, 01:22:57](https://news.ycombinator.com/item?id=48165283) - [The lasting influence of Netscape Time](https://thehistoryoftheweb.com/the-lasting-influence-of-netscape-time/)
-* [2026-05-17, 00:26:04](https://news.ycombinator.com/item?id=48165030) - [Make ZIP files smaller with ZIP Shrinker](https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/)
 * [2026-05-16, 23:51:00](https://soylentnews.org/article.pl?sid=26/05/16/0013231&amp;from=rss) - [AISLE Discovers CVE-2026-42511: a 21-Year-Old FreeBSD Remote Command Execution Vulnerability](https://soylentnews.org/article.pl?sid=26/05/16/0013231&amp;from=rss)
 * [2026-05-16, 19:17:00](https://soylentnews.org/article.pl?sid=26/05/16/009242&amp;from=rss) - [HP Stuffed a PC Into a Keyboard. We Took it for a Spin](https://soylentnews.org/article.pl?sid=26/05/16/009242&amp;from=rss)
 * [2026-05-16, 16:49:15](https://news.ycombinator.com/item?id=48161772) - [Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone](https://www.kv4p.com/)
