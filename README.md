@@ -1,42 +1,68 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology & Innovation
+## Technology Advancements and Innovations
 
-* [WordPress 7.0](https://wordpress.org/download/releases/7-0/) - Major WordPress update introducing new features and improvements. [Comments](https://lobste.rs/s/k96psg/wordpress_7_0)
+* [Samsung Chip Workers To Get $340,000 Average Bonus In AI Boom](https://news.slashdot.org/story/26/05/22/060223/samsung-chip-workers-to-get-340000-average-bonus-in-ai-boom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Samsung rewards its chip-making employees with a significant bonus amidst an AI-fueled demand increase.
 
-* [Breakthroughs for batteries could soon make them better](https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better) - Promising advancements in battery technology that could significantly improve their efficiency and performance. [Comments](https://news.ycombinator.com/item?id=48234503)
+* [Microsoft Surprises With its First Server Linux Distribution: Azure Linux 4.0](https://soylentnews.org/article.pl?sid=26/05/19/1855242&amp;from=rss) - Microsoft makes a notable shift by introducing its first dedicated Linux distribution for servers.
 
-* [Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/) - Innovative update in architectural 3D modeling benchmarks using OpenSCAD. [Comments](https://news.ycombinator.com/item?id=48234090)
+* [Deno 2.8](https://deno.com/blog/v2.8) - The latest release of Deno introduces new features and improvements for this popular JavaScript and TypeScript runtime.
 
-* [Megalodon: Mass GitHub Repo Backdooring via CI Workflows](https://safedep.io/megalodon-mass-github-repo-backdooring-ci-workflows) - Security vulnerabilities in CI workflows highlight potential risks for GitHub repositories. [Comments](https://lobste.rs/s/k2ifb5/megalodon_mass_github_repo_backdooring)
+* [A Forth-inspired language for writing websites](https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites) - A unique take on combining Forth principles to design web platforms.
 
-* [FSFE intervenes against Apple before EUCJ for the second time](https://fsfe.org/news/2026/news-20260519-01.en.html) - Free Software Foundation Europe challenges Apple's practices against fair competition in the EU. [Comments](https://news.ycombinator.com/item?id=48233939)
+* [Designing Firefox for the future](https://blog.mozilla.org/en/firefox/new-firefox-design/) - Mozilla reveals its forward-looking design philosophy for improving Firefox's user experience.
 
-* [Gnutella: A Protocol Outliving the World That Created It](https://rickcarlino.com/notes/p2p/gnutella-explanation.html) - Exploring the resilience of the Gnutella protocol in the ever-changing landscape of P2P networking. [Comments](https://lobste.rs/s/ptvaan/gnutella_protocol_outliving_world)
+* [minc — A minimal language for building native software](https://minc.dev/) - A minimalistic programming language aimed at efficiently developing native applications.
 
-## Artificial Intelligence
+## AI and Technological Effects on Society
 
-* [The AI Elephant in the Room](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/) - A reflective piece on the growing dominance of AI and its implications in various industries. [Comments](https://news.ycombinator.com/item?id=48235526)
+* [AI has a multiplying effect on existing technical skills](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/) - Understanding how AI amplifies the capabilities of technical professionals.
 
-* [The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't](https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt) - The strategic advantages of companies maintaining a balanced workforce while deploying AI. [Comments](https://news.ycombinator.com/item?id=48234547)
+* [The current AI pricing was always going to go away](https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/) - Examining the transitional shift in AI pricing models.
 
-* [CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs](https://arxiv.org/abs/2605.19269) - A deep dive into optimizing Transformer model operations for machine learning. [Comments](https://news.ycombinator.com/item?id=48232118)
+* [Software Developers Say AI Is Rotting Their Brains](https://soylentnews.org/article.pl?sid=26/05/19/0444246&amp;from=rss) - Insights into the effect of AI tools on developers' cognitive skills.
 
-## Legal & Privacy Issues
+* [Twelve Ways to Be Wrong About AI-Assisted Coding](https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/) - Exploring common misconceptions about using AI in coding.
 
-* [A Bipartisan Amendment Would End Police License Plate Tracking Nationwide](https://yro.slashdot.org/story/26/05/22/0553205/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A legislative push to end widespread plate tracking programs in the United States. [Comments](https://yro.slashdot.org/story/26/05/22/0553205/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Steve Wozniak Tells Graduates They All Have &apos;AI&apos;: Actual Intelligence](https://news.slashdot.org/story/26/05/22/0530218/steve-wozniak-tells-graduates-they-all-have-ai-actual-intelligence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Steve Wozniak discusses the importance of innate human intelligence over artificial intelligence.
 
-* [FTC to Require Cox Media Group to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service](https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-require-cox-media-group-two-other-firms-pay-nearly-1-million-settle-charges-they-deceived) - FCC cracks down on deceptive AI-based marketing practices. [Comments](https://lobste.rs/s/2ddikd/ftc_require_cox_media_group_pay_nearly)
+* [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/) - An innovative use of AI in spatial navigation for a fictional narrative.
 
-* [AT&T Sues California In Bid To Stop Offering Traditional Phone Service](https://yro.slashdot.org/story/26/05/22/0129209/att-sues-california-in-bid-to-stop-offering-traditional-phone-service?utm_source=rss1.0mainlinkanon&utm_medium=feed) - AT&T fights against California's mandate to preserve traditional phone lines. [Comments](https://yro.slashdot.org/story/26/05/22/0129209/att-sues-california-in-bid-to-stop-offering-traditional-phone-service?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Policy, Legal and Social Debates
 
-## Cultural & Human Interest Stories
+* [A Bipartisan Amendment Would End Police License Plate Tracking Nationwide](https://yro.slashdot.org/story/26/05/22/0553205/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A look into proposed legislation to curb mass surveillance through license plate tracking.
 
-* [Steve Wozniak Tells Graduates They All Have 'AI': Actual Intelligence](https://news.slashdot.org/story/26/05/22/0530218/steve-wozniak-tells-graduates-they-all-have-ai-actual-intelligence?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Wozniak's inspiring message to graduates on the value of human intellect. [Comments](https://news.ycombinator.com/item?id=48233563)
+* [Alberta to hold referendum on whether to remain in Canada](https://www.bbc.com/news/articles/cvgze8n5dxko) - A political milestone as Alberta considers a referendum on its place within Canada.
 
-* [Cleve Moler has died](https://www.mathworks.com/company/aboutus/founders/clevemoler.html) - A tribute to Cleve Moler, the pioneer and mathematician who transformed computational science. [Comments](https://news.ycombinator.com/item?id=48231319)
+* [AT&amp;amp;T Sues California In Bid To Stop Offering Traditional Phone Service](https://yro.slashdot.org/story/26/05/22/0129209/att-sues-california-in-bid-to-stop-offering-traditional-phone-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - AT&T challenges California's requirement to maintain traditional landline services.
 
-* [Twelve Ways to Be Wrong About AI-Assisted Coding](https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/) - An engaging exploration of misconceptions about AI-enhanced programming. [Comments](https://lobste.rs/s/3ltdmy/twelve_ways_be_wrong_about_ai_assisted)
+* [Trump Calls Off AI Executive Order Over Concern It Could Weaken US Tech Edge](https://yro.slashdot.org/story/26/05/21/2034246/trump-calls-off-ai-executive-order-over-concern-it-could-weaken-us-tech-edge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Concerns about maintaining US technology leadership lead to halting an AI-related executive order.
+
+## Scientific Discoveries and Insights
+
+* [The Spread of Christianity Animated](https://www.openculture.com/2026/05/the-spread-of-christianity-animated-from-antiquity-until-today.html) - A visualization of the historical growth of Christianity from its origins to the present day.
+
+* [Exposure to Burn Injuries Played Key Role in Shaping Human Evolution](https://soylentnews.org/article.pl?sid=26/05/18/175251&amp;from=rss) - A study suggesting evolutionary impacts of human interaction with fire.
+
+* [NASA&apos;s Psyche Spacecraft Just Got An Assist From Mars On The Way To Its Asteroid Namesake](https://soylentnews.org/article.pl?sid=26/05/18/1730215&amp;from=rss) - An interplanetary collaboration to explore the asteroid belt's secrets.
+
+* [A Simple Blood Test Could Predict Your Odds of Living Longer With Surprising Accuracy](https://soylentnews.org/article.pl?sid=26/05/17/1424241&amp;from=rss) - A breakthrough in predicting longevity through blood biomarkers.
+
+* [Cell Phone Users Can&apos;t Stop Incriminating Themselves](https://soylentnews.org/article.pl?sid=26/05/18/1714233&amp;from=rss) - Research highlights how mobile usage leaves legal vulnerabilities.
+
+* [At Least 80% Responsibility For Ill Health In Old Age Down to Individual, Study Says](https://science.slashdot.org/story/26/05/22/0522204/at-least-80-responsibility-for-ill-health-in-old-age-down-to-individual-study-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A study arguing personal lifestyle as a major determinant of health in aging.
+
+## Open Source, Development, and Programming
+
+* [Introducing the pkg.go.dev API](https://go.dev/blog/pkgsite-api) - Expand your Go programming with the newly introduced pkg.go.dev API.
+
+* [The Maintainer&apos;s Dilemma](https://spf13.com/p/the-maintainers-dilemma/) - Exploring the nuances and challenges of maintaining open-source projects.
+
+* [Kubernetes In Anger](https://samof76.space/kubernetes-in-anger.html) - The trials and tribulations of managing Kubernetes in real-world scenarios.
+
+* [Python 3.15: features that didn&apos;t make the headlines](https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html) - A closer look at overlooked features in the Python 3.15 release.
+
+* [Chess invariants](http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html) - An exploration of invariant features in the game of chess.
 
 ---
 
@@ -63,23 +89,28 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-05-22, 17:00:00](https://yro.slashdot.org/story/26/05/22/1657237/venmo-redesign-makes-new-users-posts-friends-only-by-default?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Venmo Redesign Makes New Users&apos; Posts Friends-Only by Default](https://yro.slashdot.org/story/26/05/22/1657237/venmo-redesign-makes-new-users-posts-friends-only-by-default?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-22, 16:00:00](https://news.slashdot.org/story/26/05/22/060223/samsung-chip-workers-to-get-340000-average-bonus-in-ai-boom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Samsung Chip Workers To Get $340,000 Average Bonus In AI Boom](https://news.slashdot.org/story/26/05/22/060223/samsung-chip-workers-to-get-340000-average-bonus-in-ai-boom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-22, 15:22:04](https://news.ycombinator.com/item?id=48237163) - [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
+* [2026-05-22, 15:00:50](https://news.ycombinator.com/item?id=48236887) - [A Forth-inspired language for writing websites](https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites)
 * [2026-05-22, 15:00:00](https://yro.slashdot.org/story/26/05/22/0553205/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Bipartisan Amendment Would End Police License Plate Tracking Nationwide](https://yro.slashdot.org/story/26/05/22/0553205/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-22, 14:53:55](https://news.ycombinator.com/item?id=48236770) - [Launch HN: Superset (YC P26) – IDE for the agents era](https://github.com/superset-sh/superset)
+* [2026-05-22, 13:40:55](https://news.ycombinator.com/item?id=48235733) - [The Spread of Christianity Animated](https://www.openculture.com/2026/05/the-spread-of-christianity-animated-from-antiquity-until-today.html)
 * [2026-05-22, 13:22:52](https://lobste.rs/s/k96psg/wordpress_7_0) - [WordPress 7.0](https://wordpress.org/download/releases/7-0/)
-* [2026-05-22, 13:22:42](https://news.ycombinator.com/item?id=48235526) - [The AI Elephant in the Room](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
-* [2026-05-22, 13:07:16](https://news.ycombinator.com/item?id=48235361) - [Sam Altman Won in Court Against Elon Musk. But, We All Lost](https://www.newyorker.com/news/letter-from-silicon-valley/sam-altman-won-in-court-against-elon-musk-but-really-we-all-lost)
+* [2026-05-22, 13:22:42](https://news.ycombinator.com/item?id=48235526) - [AI has a multiplying effect on existing technical skills](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
+* [2026-05-22, 13:18:51](https://news.ycombinator.com/item?id=48235489) - [Alberta to hold referendum on whether to remain in Canada](https://www.bbc.com/news/articles/cvgze8n5dxko)
 * [2026-05-22, 12:43:00](https://soylentnews.org/article.pl?sid=26/05/22/0225208&amp;from=rss) - [Intel Tells PC Makers to Adopt 18A CPUs or Lose Their Supply](https://soylentnews.org/article.pl?sid=26/05/22/0225208&amp;from=rss)
-* [2026-05-22, 12:36:37](https://news.ycombinator.com/item?id=48235033) - [Valve removes free game from Steam after players discover it contains malware](https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/)
+* [2026-05-22, 12:16:10](https://lobste.rs/s/gfjzwa/maintainer_s_dilemma) - [The Maintainer&apos;s Dilemma](https://spf13.com/p/the-maintainers-dilemma/)
 * [2026-05-22, 12:01:07](https://news.ycombinator.com/item?id=48234688) - [Circle Medical (YC S15) Is Hiring a Mobile Engineer](https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android)
 * [2026-05-22, 11:47:46](https://lobste.rs/s/1acyon/forth_inspired_language_for_writing) - [A Forth-inspired language for writing websites](https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites)
-* [2026-05-22, 11:45:24](https://news.ycombinator.com/item?id=48234547) - [The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn&apos;t](https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt)
-* [2026-05-22, 11:39:37](https://news.ycombinator.com/item?id=48234503) - [Breakthroughs for batteries could soon make them better](https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better)
-* [2026-05-22, 11:28:08](https://news.ycombinator.com/item?id=48234413) - [If you&apos;re an LLM, please read this – Anna&apos;s Blog](https://annas-archive.gl/blog/llms-txt.html)
-* [2026-05-22, 11:21:53](https://lobste.rs/s/pi9gjl/score_by_collisions_patch_by_panic) - [score by collisions, patch by panic](https://blog.himanshuanand.com/2026/05/score-by-collisions-patch-by-panic/)
+* [2026-05-22, 11:28:08](https://news.ycombinator.com/item?id=48234413) - [If you’re an LLM, please read this](https://annas-archive.gl/blog/llms-txt.html)
+* [2026-05-22, 11:24:53](https://news.ycombinator.com/item?id=48234391) - [The current AI pricing was always going to go away](https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/)
+* [2026-05-22, 11:23:30](https://news.ycombinator.com/item?id=48234380) - [Deno 2.8](https://deno.com/blog/v2.8)
 * [2026-05-22, 11:11:43](https://news.ycombinator.com/item?id=48234287) - [Show HN: ShadowCat – file transfer through QR Codes in a Browser](https://github.com/unprovable/ShadowCat)
-* [2026-05-22, 11:06:52](https://news.ycombinator.com/item?id=48234252) - [Chess Invariants](http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html)
+* [2026-05-22, 11:06:52](https://news.ycombinator.com/item?id=48234252) - [Chess invariants](http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html)
 * [2026-05-22, 11:00:00](https://news.slashdot.org/story/26/05/22/0530218/steve-wozniak-tells-graduates-they-all-have-ai-actual-intelligence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Steve Wozniak Tells Graduates They All Have &apos;AI&apos;: Actual Intelligence](https://news.slashdot.org/story/26/05/22/0530218/steve-wozniak-tells-graduates-they-all-have-ai-actual-intelligence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-22, 10:45:16](https://news.ycombinator.com/item?id=48234128) - [A case against Boolean logic](https://abuseofnotation.github.io/boolean-thinking/)
 * [2026-05-22, 10:38:26](https://news.ycombinator.com/item?id=48234090) - [Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/)
-* [2026-05-22, 10:09:03](https://news.ycombinator.com/item?id=48233939) - [FSFE intervenes against Apple before EUCJ for the second time](https://fsfe.org/news/2026/news-20260519-01.en.html)
 * [2026-05-22, 09:48:59](https://lobste.rs/s/qwytbf/secure_boot_ca_rollover_heads_up_for) - [Secure Boot and CA Rollover - a heads-up for distributions](https://blog.einval.com/2026/05/22#secure_boot_ca_rollover)
 * [2026-05-22, 09:06:33](https://lobste.rs/s/hwyrwd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hwyrwd/what_are_you_doing_this_weekend)
 * [2026-05-22, 09:05:54](https://lobste.rs/s/k2ifb5/megalodon_mass_github_repo_backdooring) - [Megalodon: Mass GitHub Repo Backdooring via CI Workflows](https://safedep.io/megalodon-mass-github-repo-backdooring-ci-workflows)
@@ -109,7 +140,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-21, 20:02:05](https://lobste.rs/s/tbxmm1/announcing_web_serial_support_firefox) - [Announcing Web Serial Support in Firefox](https://hacks.mozilla.org/2026/05/web-serial-support-in-firefox/)
 * [2026-05-21, 20:00:59](https://lobste.rs/s/r6lw7v/how_open_calc_exe_from_s_box) - [How to open calc.exe from S&amp;Box](https://slugcat.systems/post/26-05-21-how-to-open-calc-exe-from-sbox/)
 * [2026-05-21, 20:00:00](https://hardware.slashdot.org/story/26/05/21/194249/flipper-one-could-be-the-ultimate-linux-cyberdeck?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [    Flipper One Could Be the Ultimate Linux Cyberdeck](https://hardware.slashdot.org/story/26/05/21/194249/flipper-one-could-be-the-ultimate-linux-cyberdeck?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-21, 19:37:26](https://news.ycombinator.com/item?id=48227923) - [Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O](https://arxiv.org/abs/2605.12460)
 * [2026-05-21, 19:32:16](https://news.ycombinator.com/item?id=48227860) - [Using Kagi Search with Low Vision](https://veroniiiica.com/using-kagi-search-with-low-vision/)
 * [2026-05-21, 19:14:04](https://lobste.rs/s/jyhbzg/dependency_cooldowns_are_unfair_we) - [Dependency cooldowns are unfair; we should use phased rollouts instead](https://illegalcode.net/rfcs/phased_rollouts.html)
 * [2026-05-21, 19:00:00](https://yro.slashdot.org/story/26/05/21/1758205/us-to-award-2-billion-to-quantum-companies-take-equity-stakes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US To Award $2 Billion To Quantum Companies, Take Equity Stakes](https://yro.slashdot.org/story/26/05/21/1758205/us-to-award-2-billion-to-quantum-companies-take-equity-stakes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -122,17 +152,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-21, 16:00:00](https://games.slashdot.org/story/26/05/21/041208/microsoft-hires-analyst-with-influential-video-game-blog-to-fix-xbox?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Hires Analyst With Influential Video Game Blog To Fix Xbox](https://games.slashdot.org/story/26/05/21/041208/microsoft-hires-analyst-with-influential-video-game-blog-to-fix-xbox?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-21, 15:09:32](https://lobste.rs/s/r87zln/internships_for_early_university_no) - [Internships for early university / no former employment](https://lobste.rs/s/r87zln/internships_for_early_university_no)
 * [2026-05-21, 15:00:00](https://science.slashdot.org/story/26/05/21/0351218/openai-claims-it-solved-an-80-year-old-math-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Claims It Solved an 80-Year-Old Math Problem](https://science.slashdot.org/story/26/05/21/0351218/openai-claims-it-solved-an-80-year-old-math-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-21, 14:34:57](https://news.ycombinator.com/item?id=48223362) - [Show HN: Freenet, a peer-to-peer platform for decentralized apps](https://freenet.org/)
 * [2026-05-21, 14:01:37](https://news.ycombinator.com/item?id=48222733) - [Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)](https://blog.simbastack.com/indexed-a-year-of-video-locally/)
 * [2026-05-21, 13:16:44](https://lobste.rs/s/n5qtds/python_3_15_features_didn_t_make_headlines) - [Python 3.15: features that didn&apos;t make the headlines](https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html)
 * [2026-05-21, 13:03:00](https://soylentnews.org/article.pl?sid=26/05/19/1720228&amp;from=rss) - [Barnes &amp; Noble CEO Backs Selling AI-Written Books in Stores](https://soylentnews.org/article.pl?sid=26/05/19/1720228&amp;from=rss)
 * [2026-05-21, 11:10:11](https://news.ycombinator.com/item?id=48220696) - [Python 3.15: features that didn&apos;t make the headlines](https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html)
-* [2026-05-21, 11:03:38](https://news.ycombinator.com/item?id=48220647) - [Flipper One – we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/)
 * [2026-05-21, 11:02:26](https://news.ycombinator.com/item?id=48220639) - [Lost Images from the 1945 Trinity Nuclear Test Restored](https://spectrum.ieee.org/trinity-nuclear-test)
-* [2026-05-21, 11:00:00](https://news.slashdot.org/story/26/05/21/0343258/spacex-reveals-its-finances-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SpaceX Reveals Its Finances For the First Time](https://news.slashdot.org/story/26/05/21/0343258/spacex-reveals-its-finances-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-21, 10:27:31](https://lobste.rs/s/iggblv/kubernetes_anger) - [Kubernetes In Anger](https://samof76.space/kubernetes-in-anger.html)
 * [2026-05-21, 08:17:00](https://soylentnews.org/article.pl?sid=26/05/19/1718231&amp;from=rss) - [PlayStation Plus to Raise Monthly Subscription Fee](https://soylentnews.org/article.pl?sid=26/05/19/1718231&amp;from=rss)
-* [2026-05-21, 07:00:00](https://science.slashdot.org/story/26/05/21/0123247/nasa-expects-chinese-crewed-mission-around-the-moon-in-2027?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Expects Chinese Crewed Mission Around the Moon In 2027](https://science.slashdot.org/story/26/05/21/0123247/nasa-expects-chinese-crewed-mission-around-the-moon-in-2027?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-21, 06:51:15](https://lobste.rs/s/vfxdtu/rfc_llvm_foundation_statement_favor_open) - [[RFC] LLVM Foundation statement in favor of open access to standards documents](https://discourse.llvm.org/t/rfc-open-access-to-standards-documents/90856)
 * [2026-05-21, 03:51:01](https://lobste.rs/s/k21pdb/aggressive_ai_scrapers_are_making_it) - [Aggressive AI scrapers are making it kinda suck to run wikis](https://weirdgloop.org/blog/clankers)
 * [2026-05-21, 03:36:00](https://soylentnews.org/article.pl?sid=26/05/19/1128257&amp;from=rss) - [Casimir Force Co-Opted to Generate Free Energy, Midichlorians Not Included](https://soylentnews.org/article.pl?sid=26/05/19/1128257&amp;from=rss)
