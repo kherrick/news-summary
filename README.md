@@ -1,60 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Emerging Technologies and Innovations
+## Technology and Software Development
 
-* [Amazon is Shutting Down Support for Older Kindles Soon. Here's How You Can Save Yours](https://soylentnews.org/article.pl?sid=26/05/22/032239&amp;from=rss) - Amazon will soon end support for older Kindle devices, providing users guidance on how to preserve their e-books and reading experience.
+* [mvm - a fast virtual machine for Go](https://mvm.sh/) - A detailed overview of 'mvm,' a fast virtual machine tailored for running Go programs, promising better performance and easy integration. Interested readers can join the discussion [here](https://lobste.rs/s/fms0x0/mvm_fast_virtual_machine_for_go).
 
-* [Spotify, UMG To Let Fans Make Their Own Music With AI](https://entertainment.slashdot.org/story/26/05/22/1737220/spotify-umg-to-let-fans-make-their-own-music-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Spotify and Universal Music Group announce a platform that offers fans the opportunity to collaborate on creating music via AI.
+* [Rubish: A Unix shell written in pure Ruby](https://github.com/amatsuda/rubish) - Highlighting 'Rubish,' a unique Unix shell written entirely in Ruby with special features for developers. More about this project in the [comments](https://news.ycombinator.com/item?id=48245262).
 
-* [This Cannes Film Cost $500,000 to Make. $400,000 Was AI Compute Costs.](https://entertainment.slashdot.org/story/26/05/22/1723236/this-cannes-film-cost-500000-to-make-400000-was-ai-compute-costs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A Cannes film highlights the rising expense of creating content using AI, with most production costs going towards computing expenses.
+* [SPy: an interpreter and a compiler for a statically typed variant of Python](https://github.com/spylang/spy) - Introducing SPy, a hybrid interpreter and compiler for a strongly-typed variant of Python. Participation and insights can be found in the [discussion](https://lobste.rs/s/z9lnpe/spy_interpreter_compiler_for_statically).
 
-* [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update) - Anthropic shares an update about its Project Glasswing, a futuristic research advancement in artificial intelligence.
+* [Only 17% of all 64-bit Integers are products of two 32-bit integers](https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/) - An analytical breakdown of why only a small fraction of 64-bit integers are products of two 32-bit integers, with further thoughts in the [comments](https://lobste.rs/s/fkrpjw/only_17_all_64_bit_integers_are_products).
 
-* [Neutron scattering explains why gluten-free pasta falls apart (2025)](https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html) - A 2025 study delves into the science behind why gluten-free pasta often breaks apart, using neutron scattering for the analysis.
+## Artificial Intelligence and Data Insights
 
-* [Wi-Wi is wireless time sync at 1 nanosecond](https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/) - Learn about Wi-Wi, new wireless technology achieving unprecedented synchronization accuracy of 1 nanosecond.
+* [AI Data Centers Trigger Massive 'Irreversible' 76% Electricity Price Spike in Largest US Region](https://soylentnews.org/article.pl?sid=26/05/22/0247218&amp;from=rss) - Examining the impact of AI data centers on electricity prices across large regions of the US, as well as concerns over long-term sustainability. Comment on it [here](https://soylentnews.org/article.pl?sid=26/05/22/0247218&amp;from=rss).
 
-## Space Exploration and Aerospace
+* [Pompeii Victim ID'd as a Likely Doctor](https://soylentnews.org/article.pl?sid=26/05/22/0239256&amp;from=rss) - Researchers identify one of Pompeii's ancient victims as a likely doctor, revealing fascinating insights about history and science. Discuss the implications [here](https://soylentnews.org/article.pl?sid=26/05/22/0239256&amp;from=rss).
 
-* [Caltech Could Lose Control of JPL For First Time In Decades](https://science.slashdot.org/story/26/05/23/038238/caltech-could-lose-control-of-jpl-for-first-time-in-decades?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Caltech might lose its long-standing management of the Jet Propulsion Laboratory as NASA considers contract changes.
+* [This Cannes Film Cost $500,000 to Make. $400,000 Was AI Compute Costs](https://entertainment.slashdot.org/story/26/05/22/1723236/this-cannes-film-cost-500000-to-make-400000-was-ai-compute-costs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Unveiling the soaring costs of AI-driven filmmaking with a focus on an expensive Cannes film. Chat further on the topic [here](https://entertainment.slashdot.org/story/26/05/22/1723236/this-cannes-film-cost-500000-to-make-400000-was-ai-compute-costs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [SpaceX's Upgraded Starship V3 Launches For First Time](https://science.slashdot.org/story/26/05/23/0026223/spacexs-upgraded-starship-v3-launches-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - SpaceX successfully launches its upgraded Starship V3, marking a new chapter in reusable space technology.
+## Space and Aeronautics
 
-* [NASA's Psyche Spacecraft Just Got An Assist From Mars On The Way To Its Asteroid Namesake](https://soylentnews.org/article.pl?sid=26/05/18/1730215&amp;from=rss) - NASA's Psyche mission receives a gravity assist from Mars on its journey to explore the metallic asteroid Psyche.
+* [SpaceX's Upgraded Starship V3 Launches For First Time](https://science.slashdot.org/story/26/05/23/0026223/spacexs-upgraded-starship-v3-launches-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - SpaceX marks another milestone as its improved Starship V3 undergoes its first successful launch. Further enthusiasm can be found in the [comments](https://science.slashdot.org/story/26/05/23/0026223/spacexs-upgraded-starship-v3-launches-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-## AI and Its Societal Impacts
+* [Caltech Could Lose Control of JPL For First Time In Decades](https://science.slashdot.org/story/26/05/23/038238/caltech-could-lose-control-of-jpl-for-first-time-in-decades?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A significant shift in space research governance is on the horizon as Caltech faces the potential loss of its decades-long control over the Jet Propulsion Laboratory (JPL). Dive into the discussion [here](https://science.slashdot.org/story/26/05/23/038238/caltech-could-lose-control-of-jpl-for-first-time-in-decades?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [AI Data Centers Trigger Massive 'Irreversible' 76% Electricity Price Spike in Largest US Region](https://soylentnews.org/article.pl?sid=26/05/22/0247218&amp;from=rss) - Concerns rise as AI-driven data centers contribute to a dramatic spike in electricity costs across a major US region.
+* [NASA's Psyche Spacecraft Just Got An Assist From Mars On The Way To Its Asteroid Namesake](https://soylentnews.org/article.pl?sid=26/05/18/1730215&amp;from=rss) - Marvel at how Mars lends its gravity to accelerate NASA's Psyche spacecraft towards its target asteroid. Share insights [here](https://soylentnews.org/article.pl?sid=26/05/18/1730215&amp;from=rss).
 
-* [Software Developers Say AI Is Rotting Their Brains](https://soylentnews.org/article.pl?sid=26/05/19/0444246&amp;from=rss) - A debated perspective among developers highlights growing discomfort over over-reliance on AI in programming processes.
+## Security and Privacy Issues
 
-## Security and Privacy Concerns
+* [CVE-2026-46529: 10-year-old RCE in Linux PDF Viewer (XReader/Evince/Atril)](https://medeiros.zip/posts/CVE-2026-46529-evince) - A critical remote code execution vulnerability discovered in trusted Linux PDF viewer applications persists after 10 years. Engage with the community [here](https://lobste.rs/s/rlpzut/cve_2026_46529_10_year_old_rce_linux_pdf).
 
-* [Trump Mobile Exposed Customers' Personal Data, Including Phone Numbers and Home Addresses](https://yro.slashdot.org/story/26/05/22/1747216/trump-mobile-exposed-customers-personal-data-including-phone-numbers-and-home-addresses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A security breach at Trump Mobile reveals sensitive customer data such as phone numbers and home addresses.
+* [Trump Mobile Exposed Customers' Personal Data, Including Phone Numbers and Home Addresses](https://yro.slashdot.org/story/26/05/22/1747216/trump-mobile-exposed-customers-personal-data-including-phone-numbers-and-home-addresses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Investigating how a cybersecurity breach led to exposure of sensitive customer information on Trump Mobile. Start a dialogue [here](https://yro.slashdot.org/story/26/05/22/1747216/trump-mobile-exposed-customers-personal-data-including-phone-numbers-and-home-addresses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [CVE-2026-46529: 10-year-old RCE in Linux PDF Viewer (XReader/Evince/Atril)](https://medeiros.zip/posts/CVE-2026-46529-evince) - A decade-old remote code execution vulnerability in Linux PDF viewers has been uncovered.
-
-* [Megalodon: Mass GitHub Repo Backdooring via CI Workflows](https://safedep.io/megalodon-mass-github-repo-backdooring-ci-workflows) - A new security threat exploits continuous integration workflows to backdoor GitHub repositories with malicious code.
-
-## Advancements in Development and Programming
-
-* [SPy: an interpreter and a compiler for a statically typed variant of Python](https://github.com/spylang/spy) - SPy introduces a new take on Python with an interpreter and compiler designed for a statically typed variation.
-
-* [sp.h is the standard library that C deserves](https://spader.zone/sp/) - Explore sp.h, a reimagined standard library for C programming.
-
-* [A blueprint for formal verification of Apple corecrypto](https://security.apple.com/blog/formal-verification-corecrypto/) - Apple unveils a blueprint for enhancing the security of its cryptographic frameworks using formal verification.
-
-## Cultural and Historical Discoveries
-
-* [Pompeii Victim ID'd as a Likely Doctor](https://soylentnews.org/article.pl?sid=26/05/22/0239256&amp;from=rss) - Archaeologists have identified a victim of the Pompeii volcanic disaster as a likely medical professional, offering a glimpse into the ancient past.
-
-* [Exposure to Burn Injuries Played Key Role in Shaping Human Evolution](https://soylentnews.org/article.pl?sid=26/05/18/175251&amp;from=rss) - A study suggests that exposure to burn injuries influenced significant aspects of human evolution.
-
-## Gaming and Leisure
-
-* [Planescape: Torment, Part 1: From the Tabletop](https://www.filfre.net/2026/05/planescape-torment-part-1-from-the-tabletop/) - Dive into the origins of the beloved game Planescape: Torment and its tabletop role-playing roots.
-
-* [PlayStation Plus to Raise Monthly Subscription Fee](https://soylentnews.org/article.pl?sid=26/05/19/1718231&amp;from=rss) - Sony announces a price hike for its PlayStation Plus subscription service, raising budget concerns for gamers.
+* [Google API Keys Remain Active After Deletion](https://tech.slashdot.org/story/26/05/22/1827258/google-api-keys-remain-active-after-deletion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlighting the concerning persistence of Google API keys even after deletion requests. Ongoing conversations are available [here](https://tech.slashdot.org/story/26/05/22/1827258/google-api-keys-remain-active-after-deletion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
 ---
 
@@ -81,10 +59,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-05-23, 10:39:09](https://lobste.rs/s/fms0x0/mvm_fast_virtual_machine_for_go) - [mvm - a fast virtual machine for Go](https://mvm.sh/)
+* [2026-05-23, 09:57:28](https://lobste.rs/s/arfalj/one_time_i_used_go_panics_for_flow_control) - [That one time I used Go panics for flow control](https://noncrab.net/posts/panic-as-flow-control/)
+* [2026-05-23, 08:24:57](https://news.ycombinator.com/item?id=48245862) - [BambuStudio has been violating PrusaSlicer AGPL license since their fork](https://xcancel.com/josefprusa/status/2054602354851254330)
 * [2026-05-23, 07:46:00](https://soylentnews.org/article.pl?sid=26/05/22/032239&amp;from=rss) - [Amazon is Shutting Down Support for Older Kindles Soon. Here&apos;s How You Can Save Yours](https://soylentnews.org/article.pl?sid=26/05/22/032239&amp;from=rss)
+* [2026-05-23, 07:44:27](https://lobste.rs/s/ztam3w/don_t_roll_your_own) - [Don&apos;t Roll Your Own …](https://susam.net/do-not-roll-your-own.html)
+* [2026-05-23, 07:34:33](https://news.ycombinator.com/item?id=48245571) - [Experience: We found a baby on the subway – now he&apos;s our 26-year-old son](https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son)
 * [2026-05-23, 07:00:00](https://science.slashdot.org/story/26/05/23/038238/caltech-could-lose-control-of-jpl-for-first-time-in-decades?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Caltech Could Lose Control of JPL For First Time In Decades](https://science.slashdot.org/story/26/05/23/038238/caltech-could-lose-control-of-jpl-for-first-time-in-decades?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-23, 06:54:49](https://news.ycombinator.com/item?id=48245362) - [Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order](https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/)
-* [2026-05-23, 06:06:49](https://lobste.rs/s/ujrw32/staged_publishing_new_install_time) - [Staged publishing and new install-time controls for NPM](https://github.blog/changelog/2026-05-22-staged-publishing-and-new-install-time-controls-for-npm/)
+* [2026-05-23, 06:32:00](https://news.ycombinator.com/item?id=48245262) - [Rubish: A Unix shell written in pure Ruby](https://github.com/amatsuda/rubish)
 * [2026-05-23, 06:04:52](https://lobste.rs/s/z17p7a/price_humans) - [The price of humans](https://blog.umangsurana.com/blog/price_of_humans/)
 * [2026-05-23, 05:51:38](https://lobste.rs/s/z9lnpe/spy_interpreter_compiler_for_statically) - [SPy: an interpreter and a compiler for a statically typed variant of Python](https://github.com/spylang/spy)
 * [2026-05-23, 05:31:13](https://lobste.rs/s/cvwsxk/sp_h_is_standard_library_c_deserves) - [sp.h is the standard library that C deserves](https://spader.zone/sp/)
@@ -104,10 +86,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-22, 21:00:00](https://news.slashdot.org/story/26/05/22/1758232/ntsb-wants-pdf-removed-after-it-exposed-final-cockpit-audio-from-ups-crash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NTSB Wants PDF Removed After It Exposed Final Cockpit Audio From UPS Crash](https://news.slashdot.org/story/26/05/22/1758232/ntsb-wants-pdf-removed-after-it-exposed-final-cockpit-audio-from-ups-crash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-22, 20:54:35](https://lobste.rs/s/tbizqg/mysterious_xf86audioplay_issue) - [The mysterious XF86AudioPlay issue](https://michael-prokop.at/blog/2026/05/20/the-mysterious-xf86audioplay-issue/)
 * [2026-05-22, 20:40:35](https://lobste.rs/s/xsnzi6/noroboto_lying_fonts_mitigation_rust) - [Noroboto: Lying fonts and mitigation in Rust](https://tritium.legal/blog/noroboto)
-* [2026-05-22, 20:26:07](https://news.ycombinator.com/item?id=48241172) - [Models.dev: open-source database of AI model specs, pricing, and capabilities](https://github.com/anomalyco/models.dev)
 * [2026-05-22, 20:19:50](https://lobste.rs/s/fkrpjw/only_17_all_64_bit_integers_are_products) - [Only 17% of all 64-bit Integers are products of two 32-bit integers](https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/)
 * [2026-05-22, 20:00:00](https://yro.slashdot.org/story/26/05/22/1747216/trump-mobile-exposed-customers-personal-data-including-phone-numbers-and-home-addresses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Mobile Exposed Customers&apos; Personal Data, Including Phone Numbers and Home Addresses](https://yro.slashdot.org/story/26/05/22/1747216/trump-mobile-exposed-customers-personal-data-including-phone-numbers-and-home-addresses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-22, 19:49:57](https://news.ycombinator.com/item?id=48240679) - [Staged publishing and new install-time controls for npm](https://github.blog/changelog/2026-05-22-staged-publishing-and-new-install-time-controls-for-npm/)
 * [2026-05-22, 19:40:05](https://lobste.rs/s/7crjja/blueprint_for_formal_verification_apple) - [A blueprint for formal verification of Apple corecrypto](https://security.apple.com/blog/formal-verification-corecrypto/)
 * [2026-05-22, 19:31:45](https://news.ycombinator.com/item?id=48240419) - [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update)
 * [2026-05-22, 19:00:00](https://entertainment.slashdot.org/story/26/05/22/1737220/spotify-umg-to-let-fans-make-their-own-music-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Spotify, UMG To Let Fans Make Their Own Music With AI](https://entertainment.slashdot.org/story/26/05/22/1737220/spotify-umg-to-let-fans-make-their-own-music-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -121,7 +101,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-22, 17:05:32](https://news.ycombinator.com/item?id=48238568) - [1940 Air Terminal Museum Begins Liquidation](https://www.1940airterminal.org/news/liquidation-of-simulators)
 * [2026-05-22, 17:00:00](https://yro.slashdot.org/story/26/05/22/1657237/venmo-redesign-makes-new-users-posts-friends-only-by-default?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Venmo Redesign Makes New Users&apos; Posts Friends-Only by Default](https://yro.slashdot.org/story/26/05/22/1657237/venmo-redesign-makes-new-users-posts-friends-only-by-default?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-22, 16:54:31](https://news.ycombinator.com/item?id=48238429) - [CISA tries to contain data leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
-* [2026-05-22, 16:23:08](https://news.ycombinator.com/item?id=48238025) - [U.S. researchers face new restrictions on publishing with foreign collaborators](https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators)
 * [2026-05-22, 16:00:00](https://news.slashdot.org/story/26/05/22/060223/samsung-chip-workers-to-get-340000-average-bonus-in-ai-boom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Samsung Chip Workers To Get $340,000 Average Bonus In AI Boom](https://news.slashdot.org/story/26/05/22/060223/samsung-chip-workers-to-get-340000-average-bonus-in-ai-boom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-22, 15:22:04](https://news.ycombinator.com/item?id=48237163) - [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
 * [2026-05-22, 15:00:50](https://news.ycombinator.com/item?id=48236887) - [A Forth-inspired language for writing websites](https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites)
@@ -135,8 +114,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-22, 11:23:30](https://news.ycombinator.com/item?id=48234380) - [Deno 2.8](https://deno.com/blog/v2.8)
 * [2026-05-22, 11:00:00](https://news.slashdot.org/story/26/05/22/0530218/steve-wozniak-tells-graduates-they-all-have-ai-actual-intelligence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Steve Wozniak Tells Graduates They All Have &apos;AI&apos;: Actual Intelligence](https://news.slashdot.org/story/26/05/22/0530218/steve-wozniak-tells-graduates-they-all-have-ai-actual-intelligence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-22, 10:38:26](https://news.ycombinator.com/item?id=48234090) - [Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/)
-* [2026-05-22, 09:48:59](https://lobste.rs/s/qwytbf/secure_boot_ca_rollover_heads_up_for) - [Secure Boot and CA Rollover - a heads-up for distributions](https://blog.einval.com/2026/05/22#secure_boot_ca_rollover)
-* [2026-05-22, 09:06:33](https://lobste.rs/s/hwyrwd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hwyrwd/what_are_you_doing_this_weekend)
 * [2026-05-22, 09:05:54](https://lobste.rs/s/k2ifb5/megalodon_mass_github_repo_backdooring) - [Megalodon: Mass GitHub Repo Backdooring via CI Workflows](https://safedep.io/megalodon-mass-github-repo-backdooring-ci-workflows)
 * [2026-05-22, 09:02:45](https://lobste.rs/s/z1o5ru/this_blog_ran_on_ubuntu_16_04_for_10_years_i) - [This blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/)
 * [2026-05-22, 08:38:40](https://lobste.rs/s/flehm8/designing_firefox_for_future) - [Designing Firefox for the future](https://blog.mozilla.org/en/firefox/new-firefox-design/)
@@ -158,15 +135,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-20, 20:56:30](https://news.ycombinator.com/item?id=48214025) - [What is the history of the ERROR_ARENA_TRASHED error code?](https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339)
 * [2026-05-20, 20:19:46](https://news.ycombinator.com/item?id=48213529) - [A Wayland Compositor in Minecraft](https://modrinth.com/mod/waylandcraft)
 * [2026-05-20, 18:06:00](https://soylentnews.org/article.pl?sid=26/05/19/0438213&amp;from=rss) - [Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak](https://soylentnews.org/article.pl?sid=26/05/19/0438213&amp;from=rss)
+* [2026-05-20, 16:11:15](https://news.ycombinator.com/item?id=48210041) - [ArcBrush – Node-based 2D image editor](https://arcbrush.com/)
 * [2026-05-20, 15:06:31](https://news.ycombinator.com/item?id=48209055) - [Wi-Wi is wireless time sync at 1 nanosecond](https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/)
 * [2026-05-20, 13:19:00](https://soylentnews.org/article.pl?sid=26/05/18/1730215&amp;from=rss) - [NASA&apos;s Psyche Spacecraft Just Got An Assist From Mars On The Way To Its Asteroid Namesake](https://soylentnews.org/article.pl?sid=26/05/18/1730215&amp;from=rss)
-* [2026-05-20, 13:05:46](https://news.ycombinator.com/item?id=48207043) - [Sp.h is the standard library that C deserves](https://spader.zone/sp/)
+* [2026-05-20, 12:49:20](https://news.ycombinator.com/item?id=48206828) - [Yeunjoo Choi from Igalia on Chromium](https://theconsensus.dev/p/2026/05/20/yeunjoo-choi-from-igalia-on-chromium.html)
 * [2026-05-20, 12:42:46](https://news.ycombinator.com/item?id=48206763) - [Neutron scattering explains why gluten-free pasta falls apart (2025)](https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html)
-* [2026-05-20, 12:06:56](https://news.ycombinator.com/item?id=48206387) - [The Quadratic Sandwich](https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html)
+* [2026-05-20, 12:06:56](https://news.ycombinator.com/item?id=48206387) - [The quadratic sandwich](https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html)
 * [2026-05-20, 11:58:24](https://news.ycombinator.com/item?id=48206313) - [Comparing an LZ4 Decompressor on Four Legacy CPUs](https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/)
-* [2026-05-20, 10:17:16](https://news.ycombinator.com/item?id=48205495) - [\&quot;Stick\&quot; – A primitive/fun interactive demo of a tiny rig to animate layout](https://cosmiciron.github.io/layoutmaster/exclusion-assembly.html)
 * [2026-05-20, 09:03:44](https://news.ycombinator.com/item?id=48204985) - [Blood Pumping Mechanism of the Hoof (2020)](https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/)
 * [2026-05-20, 08:34:00](https://soylentnews.org/article.pl?sid=26/05/18/1728202&amp;from=rss) - [Texas County Passes Data Center Ban for Rural Areas for a Year](https://soylentnews.org/article.pl?sid=26/05/18/1728202&amp;from=rss)
+* [2026-05-20, 03:55:58](https://news.ycombinator.com/item?id=48202909) - [Fast Factorial Algorithms](http://www.luschny.de/math/factorial/FastFactorialFunctions.htm)
 * [2026-05-20, 03:51:00](https://soylentnews.org/article.pl?sid=26/05/18/1714233&amp;from=rss) - [Cell Phone Users Can&apos;t Stop Incriminating Themselves](https://soylentnews.org/article.pl?sid=26/05/18/1714233&amp;from=rss)
 * [2026-05-19, 23:05:00](https://soylentnews.org/article.pl?sid=26/05/18/175251&amp;from=rss) - [Exposure to Burn Injuries Played Key Role in Shaping Human Evolution](https://soylentnews.org/article.pl?sid=26/05/18/175251&amp;from=rss)
 * [2026-05-19, 18:26:00](https://soylentnews.org/article.pl?sid=26/05/18/174235&amp;from=rss) - [Short Interview with Vint Cerf at El País](https://soylentnews.org/article.pl?sid=26/05/18/174235&amp;from=rss)
