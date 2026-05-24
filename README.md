@@ -1,54 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and AI Innovations
+## Artificial Intelligence Developments
 
-* [AI washing: firms are scrambling to rebrand themselves as tech-focused](https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand) - Companies are increasingly branding themselves as tech-savvy and integrating AI elements despite the substantive technological advancements being debatable. [Comments](https://news.ycombinator.com/item?id=48257980)
+* [Claude Is Not Your Architect. Stop Letting It Pretend](https://www.hollandtech.net/claude-is-not-your-architect/) - Examining the pitfalls of treating AI models like Claude as reliable architects. [Comments](https://news.ycombinator.com/item?id=48259784)
 
-* [DeepSeek to Make Permanent 75% Discount on Flagship AI Model](https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model) - AI company DeepSeek slashes its flagship model's price by 75%, a move likely to shift the AI market landscape. [Comments](https://news.ycombinator.com/item?id=48257410)
+* [Apple Preparing New 'Gen AI' Website Ahead of WWDC — and New AI Features?](https://apple.slashdot.org/story/26/05/24/1737259/apple-preparing-new-gen-ai-website-ahead-of-wwdc-and-new-ai-features?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Speculation about Apple's potential upcoming announcements regarding generative AI. [Comments](https://apple.slashdot.org/story/26/05/24/1737259/apple-preparing-new-gen-ai-website-ahead-of-wwdc-and-new-ai-features?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Constraint Decay: The Fragility of LLM Agents in Back End Code Generation](https://arxiv.org/abs/2605.06445) - A research paper studying the limitations and challenges faced by large language models in backend coding tasks. [Comments](https://news.ycombinator.com/item?id=48256912)
+* [DeepSeek to Make Permanent 75% Discount on Flagship AI Model](https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model) - Company's competitive pricing on an AI model aims to increase accessibility. [Comments](https://news.ycombinator.com/item?id=48257410)
 
-* [Linus Torvalds on How AI is Impacting the Hunt for Linux Kernel Bugs](https://linux.slashdot.org/story/26/05/23/2041253/linus-torvalds-on-how-ai-is-impacting-the-hunt-for-linux-kernel-bugs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Linux founder Linus Torvalds explores how artificial intelligence is transforming the process of identifying and addressing kernel bugs.
+* [Constraint Decay: The Fragility of LLM Agents in Back End Code Generation](https://arxiv.org/abs/2605.06445) - Research on the vulnerabilities of large language models in backend code generation. [Comments](https://news.ycombinator.com/item?id=48256912)
+
+* [Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares) - Insights into increasing memory costs in AI hardware. [Comments](https://news.ycombinator.com/item?id=48258684)
+
+## Sustainability and Energy
+
+* [Wind and Solar Generated More Power Than Gas Globally in April](https://hardware.slashdot.org/story/26/05/24/0339201/wind-and-solar-generated-more-power-than-gas-globally-in-april?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Renewable energy's role in global power generation surpasses gas for the first time. [Comments](https://hardware.slashdot.org/story/26/05/24/0339201/wind-and-solar-generated-more-power-than-gas-globally-in-april?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+## Movies and Entertainment
+
+* [Disney's 'Star Wars: The Mandalorian and Grogu' Opens to 'Mixed' Box Office Results](https://entertainment.slashdot.org/story/26/05/24/1841202/disneys-star-wars-the-mandalorian-and-grogu-opens-to-mixed-box-office-results?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The much-awaited Star Wars spin-off debuts to lukewarm reception. [Comments](https://entertainment.slashdot.org/story/26/05/24/1841202/disneys-star-wars-the-mandalorian-and-grogu-opens-to-mixed-box-office-results?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
 ## Cybersecurity Concerns
 
-* [Scammers Are Abusing an Internal Microsoft Account to Send Spam Links](https://slashdot.org/story/26/05/24/040224/scammers-are-abusing-an-internal-microsoft-account-to-send-spam-links?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Reports highlight a vulnerability exploited by scammers to send spam messages using an internal Microsoft system. [Comments](https://news.ycombinator.com/item?id=48253186)
+* ['Underminr' CDN Vulnerability Hides Malicious Traffic Behind Trusted Domains](https://tech.slashdot.org/story/26/05/24/0043256/underminr-cdn-vulnerability-hides-malicious-traffic-behind-trusted-domains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Exploration of a CDN vulnerability that allows data to be exfiltrated through trusted domains. [Comments](https://tech.slashdot.org/story/26/05/24/0043256/underminr-cdn-vulnerability-hides-malicious-traffic-behind-trusted-domains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [A Network Allow-List Won't Stop Exfiltration](https://www.dergraf.org/notes/canister-egress-proxy-dlp/) - A deep dive into how network allow-lists fail to completely secure against data exfiltration. [Comments](https://lobste.rs/s/obnccl/network_allow_list_won_t_stop)
+* [Scammers Are Abusing an Internal Microsoft Account to Send Spam Links](https://slashdot.org/story/26/05/24/040224/scammers-are-abusing-an-internal-microsoft-account-to-send-spam-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - How scammers exploited a Microsoft account to distribute spam. [Comments](https://slashdot.org/story/26/05/24/040224/scammers-are-abusing-an-internal-microsoft-account-to-send-spam-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* ['Underminr' CDN Vulnerability Hides Malicious Traffic Behind Trusted Domains](https://tech.slashdot.org/story/26/05/24/0043256/underminr-cdn-vulnerability-hides-malicious-traffic-behind-trusted-domains?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A new CDN vulnerability exposes how malicious traffic can be disguised as coming from trusted domains.
+## Developer Tools and Insights
 
-## Open Source and Software Updates
+* [Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer) - A new tool applying AI to revolutionize filmmaking workflows. [Comments](https://news.ycombinator.com/item?id=48258995)
 
-* [How my minimal, memory-safe Go rsync steers clear of vulnerabilities](https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/) - A developer shares insights on creating a minimal and secure rsync alternative in Go. [Comments](https://lobste.rs/s/5y9u93/how_my_minimal_memory_safe_go_rsync_steers)
+* [10,000 Lines Later: When a Tool Became a Compiler](https://www.youtube.com/watch?v=wVQLEAHrwrI) - Walkthrough on how a tool evolved into a full-fledged compiler. [Comments](https://lobste.rs/s/snppmc/10_000_lines_later_when_tool_became)
 
-* [Microsoft open-sources "the earliest DOS source code discovered to date"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/) - A treasure trove for historians, Microsoft has shared a rare piece of its historical legacy with the public. [Comments](https://news.ycombinator.com/item?id=48253386)
+* [How my minimal, memory-safe Go rsync steers clear of vulnerabilities](https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/) - Developer explains a secure implementation of rsync in Go. [Comments](https://lobste.rs/s/5y9u93/how_my_minimal_memory_safe_go_rsync_steers)
 
-* [Lenovo, Dell, and HP Financially Support Linux Vendor Firmware Service](https://linux.slashdot.org/story/26/05/24/0522202/lenovo-dell-and-hp-financially-support-linux-vendor-firmware-service?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Major hardware manufacturers are throwing their support behind a key Linux firmware initiative.
+## Social Impact of Technology
 
-* [10,000 Lines Later: When a Tool Became a Compiler - Rob Durst - Gleam Gathering 2026 (Video)](https://www.youtube.com/watch?v=wVQLEAHrwrI) - A presentation exploring the transformation of a programming tool into a full-fledged compiler. [Comments](https://lobste.rs/s/snppmc/10_000_lines_later_when_tool_became)
+* [1 in 5 Brits Think AI Layoffs Could Trigger Civil Unrest](https://soylentnews.org/article.pl?sid=26/05/23/1259209&amp;from=rss) - Poll finds concerns in the UK over AI-driven job automation and potential social consequences. [Comments](https://soylentnews.org/comments.pl?sid=26/05/23/1259209&amp;cid=)
 
-## Cultural and Historical Insights
+## Creative and Nostalgia Stories
 
-* [Alexander Grothendieck Revolutionized 20th-Century Mathematics](https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/) - A tribute to the mathematician whose groundbreaking contributions transformed modern mathematics. [Comments](https://news.ycombinator.com/item?id=48254020)
+* [Usborne 1980s Computer Books](https://usborne.com/us/books/computer-and-coding-books) - Nostalgic look back at the computing books that educated a generation. [Comments](https://news.ycombinator.com/item?id=48258194)
 
-* [Pompeii Victim ID'd as a Likely Doctor](https://soylentnews.org/article.pl?sid=26/05/22/0239256&amp;from=rss) - Archaeologists have identified a victim of Pompeii as a doctor, shedding light on life in ancient Rome.
-
-* [What Do Gödel's Incompleteness Theorems Truly Mean?](https://soylentnews.org/article.pl?sid=26/05/22/0314250&amp;from=rss) - An exploration into the implications of Gödel's groundbreaking mathematical theories.
-
-## Fascinating Tech Development and Oddities
-
-* [Wake up! 16b (demo writeup)](https://hellmood.111mb.de/wake_up_16b_writeup.html) - A minimalistic 16-byte demo is explored in-depth, showcasing its design and implementation. [Comments](https://lobste.rs/s/9mu7tv/wake_up_16b_demo_writeup)
-
-* [Wayland compositor implemented as a mod in Minecraft](https://modrinth.com/project/9yAfrPwH) - A unique use of Minecraft's engine as a platform for implementing a Wayland compositor. [Comments](https://lobste.rs/s/yvkqco/wayland_compositor_implemented_as_mod)
-
-* [Tesla's Electric Cybercab is Certified as the Most Efficient EV Ever](https://tech.slashdot.org/story/26/05/24/036212/teslas-electric-cybercab-is-certified-as-the-most-efficient-ev-ever?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Tesla's latest innovation receives acclaim for energy efficiency.
-
-## Legal and Policy Developments
-
-* [When (if ever) it's appropriate to make jokes before the US Supreme Court](https://www.scotusblog.com/2026/05/when-if-ever-its-appropriate-to-make-jokes-take-selfies-or-curse-before-the-court/) - An intriguing look at humor and informal behavior in the typically austere settings of the U.S. Supreme Court. [Comments](https://news.ycombinator.com/item?id=48258236)
-
-* [The US Space Enterprise is Desperately Waiting for Starship—Will It Finally Deliver?](https://soylentnews.org/article.pl?sid=26/05/23/1239233&amp;from=rss) - The space industry eagerly anticipates the delivery and success of SpaceX's Starship project.
+* [The C64 Dead Test Font](https://www.masswerk.at/nowgobang/2026/c64-dead-test-font) - A touch of nostalgia exploring the Commodore 64 test fonts. [Comments](https://news.ycombinator.com/item?id=48254236)
 
 ---
 
@@ -75,19 +69,27 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-05-24, 15:47:34](https://news.ycombinator.com/item?id=48258236) - [When (if ever) it&apos;s appropriate to make jokes before the US Supreme Court](https://www.scotusblog.com/2026/05/when-if-ever-its-appropriate-to-make-jokes-take-selfies-or-curse-before-the-court/)
+* [2026-05-24, 18:42:00](https://entertainment.slashdot.org/story/26/05/24/1841202/disneys-star-wars-the-mandalorian-and-grogu-opens-to-mixed-box-office-results?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Disney&apos;s &apos;Star Wars: The Mandalorian and Grogu&apos; Opens to &apos;Mixed&apos; Box Office Results](https://entertainment.slashdot.org/story/26/05/24/1841202/disneys-star-wars-the-mandalorian-and-grogu-opens-to-mixed-box-office-results?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-24, 18:28:11](https://news.ycombinator.com/item?id=48259784) - [Claude Is Not Your Architect. Stop Letting It Pretend](https://www.hollandtech.net/claude-is-not-your-architect/)
+* [2026-05-24, 17:53:16](https://news.ycombinator.com/item?id=48259485) - [CBP updated its electronic device search directive in Jan 2026](https://www.mayerbrown.com/en/insights/publications/2026/04/traveling-abroad-your-phone-may-be-the-first-checkpoint)
+* [2026-05-24, 17:39:00](https://apple.slashdot.org/story/26/05/24/1737259/apple-preparing-new-gen-ai-website-ahead-of-wwdc-and-new-ai-features?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Preparing New &apos;Gen AI&apos; Website Ahead of WWDC &amp;mdash; and New AI Features?](https://apple.slashdot.org/story/26/05/24/1737259/apple-preparing-new-gen-ai-website-ahead-of-wwdc-and-new-ai-features?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-24, 17:18:52](https://news.ycombinator.com/item?id=48259158) - [Don&apos;t know where your data is from? Bayesian modeling for unknown coordinates](https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/)
+* [2026-05-24, 17:12:00](https://soylentnews.org/article.pl?sid=26/05/23/1259209&amp;from=rss) - [1 in 5 Brits Think AI Layoffs Could Trigger Civil Unrest](https://soylentnews.org/article.pl?sid=26/05/23/1259209&amp;from=rss)
+* [2026-05-24, 17:00:46](https://news.ycombinator.com/item?id=48258995) - [Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer)
+* [2026-05-24, 16:34:00](https://hardware.slashdot.org/story/26/05/24/0339201/wind-and-solar-generated-more-power-than-gas-globally-in-april?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Wind and Solar Generated More Power Than Gas Globally in April](https://hardware.slashdot.org/story/26/05/24/0339201/wind-and-solar-generated-more-power-than-gas-globally-in-april?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-24, 16:31:29](https://news.ycombinator.com/item?id=48258684) - [Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares)
+* [2026-05-24, 15:49:19](https://news.ycombinator.com/item?id=48258254) - [Ruby for Good](https://ti.to/codeforgood/rubyforgood)
 * [2026-05-24, 15:43:00](https://news.ycombinator.com/item?id=48258194) - [Usborne 1980s Computer Books](https://usborne.com/us/books/computer-and-coding-books)
 * [2026-05-24, 15:34:00](https://slashdot.org/story/26/05/24/040224/scammers-are-abusing-an-internal-microsoft-account-to-send-spam-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scammers Are Abusing an Internal Microsoft Account to Send Spam Links](https://slashdot.org/story/26/05/24/040224/scammers-are-abusing-an-internal-microsoft-account-to-send-spam-links?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-24, 15:21:28](https://news.ycombinator.com/item?id=48257980) - [&apos;AI washing&apos;: firms are scrambling to rebrand themselves as tech-focused](https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand)
 * [2026-05-24, 15:03:22](https://lobste.rs/s/t1spjc/omarchy_is_not_distro) - [omarchy is not a distro](https://abyss.fish/your_dotfiles_are_not_a_distro)
 * [2026-05-24, 14:41:12](https://lobste.rs/s/5xwplk/no_linux_support_on_free_version_vivado) - [No Linux support on free version of Vivado 2026.1](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado/vivado-licensing-options.html)
 * [2026-05-24, 14:38:34](https://lobste.rs/s/5y9u93/how_my_minimal_memory_safe_go_rsync_steers) - [How my minimal, memory-safe Go rsync steers clear of vulnerabilities](https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/)
-* [2026-05-24, 14:37:21](https://news.ycombinator.com/item?id=48257612) - [Omarchy Is Not A Distro](https://abyss.fish/your_dotfiles_are_not_a_distro)
 * [2026-05-24, 14:34:00](https://linux.slashdot.org/story/26/05/24/0522202/lenovo-dell-and-hp-financially-support-linux-vendor-firmware-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Lenovo, Dell, and HP Financially Support Linux Vendor Firmware Service](https://linux.slashdot.org/story/26/05/24/0522202/lenovo-dell-and-hp-financially-support-linux-vendor-firmware-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-24, 14:22:54](https://lobste.rs/s/vqivdq/from_afsk_goertzel) - [From AFSK to Goertzel](https://uart.cz/2959/from-afsk-to-goertzel/)
 * [2026-05-24, 14:09:33](https://news.ycombinator.com/item?id=48257410) - [DeepSeek to Make Permanent 75% Discount on Flagship AI Model](https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model)
 * [2026-05-24, 13:43:11](https://lobste.rs/s/d3uwf1/libwce_entropy_layer_wavelet_codec_on_its) - [libwce: the entropy layer of a wavelet codec, on its own](https://yogthos.net/posts/2026-05-24-libwce.html)
-* [2026-05-24, 13:11:13](https://lobste.rs/s/snppmc/10_000_lines_later_when_tool_became) - [10,000 Lines Later: When a Tool Became a Compiler - Rob Durst - Gleam Gathering 2026](https://www.youtube.com/watch?v=wVQLEAHrwrI)
+* [2026-05-24, 13:11:13](https://lobste.rs/s/snppmc/10_000_lines_later_when_tool_became) - [10,000 Lines Later: When a Tool Became a Compiler](https://www.youtube.com/watch?v=wVQLEAHrwrI)
 * [2026-05-24, 13:02:06](https://news.ycombinator.com/item?id=48256953) - [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)
 * [2026-05-24, 12:55:53](https://news.ycombinator.com/item?id=48256912) - [Constraint Decay: The Fragility of LLM Agents in Back End Code Generation](https://arxiv.org/abs/2605.06445)
 * [2026-05-24, 12:24:00](https://soylentnews.org/article.pl?sid=26/05/23/1239233&amp;from=rss) - [The US Space Enterprise is Desperately Waiting for Starship—Will It Finally Deliver?](https://soylentnews.org/article.pl?sid=26/05/23/1239233&amp;from=rss)
@@ -97,12 +99,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-24, 11:37:11](https://lobste.rs/s/jlhsqw/debian_se_linux_pintheft) - [Debian SE Linux and PinTheft](https://etbe.coker.com.au/2026/05/24/debian-selinux-pintheft/)
 * [2026-05-24, 11:34:00](https://games.slashdot.org/story/26/05/24/0158236/more-videogames-developers-consider-unionization---some-spurred-by-changes-to-remote-work-policies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [More Videogames Developers Consider Unionization - Some Spurred By Changes to Remote Work Policies](https://games.slashdot.org/story/26/05/24/0158236/more-videogames-developers-consider-unionization---some-spurred-by-changes-to-remote-work-policies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-24, 08:31:24](https://lobste.rs/s/obnccl/network_allow_list_won_t_stop) - [A Network Allow-List Won&apos;t Stop Exfiltration](https://www.dergraf.org/notes/canister-egress-proxy-dlp/)
-* [2026-05-24, 08:29:38](https://news.ycombinator.com/item?id=48255593) - [Greg Brockman interview [video]](https://fs.blog/knowledge-project-podcast/greg-brockman/)
 * [2026-05-24, 07:47:58](https://lobste.rs/s/qgq6ur/declarative_partial_updates) - [Declarative partial updates](https://developer.chrome.com/blog/declarative-partial-updates)
 * [2026-05-24, 07:42:00](https://soylentnews.org/article.pl?sid=26/05/23/1223236&amp;from=rss) - [Baidu Says the Quiet Part Out Loud – You Can&apos;t Build AI Infrastructure, So Clouds Can Cash in](https://soylentnews.org/article.pl?sid=26/05/23/1223236&amp;from=rss)
 * [2026-05-24, 07:34:00](https://tech.slashdot.org/story/26/05/24/0043256/underminr-cdn-vulnerability-hides-malicious-traffic-behind-trusted-domains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Underminr&apos; CDN Vulnerability Hides Malicious Traffic Behind Trusted Domains](https://tech.slashdot.org/story/26/05/24/0043256/underminr-cdn-vulnerability-hides-malicious-traffic-behind-trusted-domains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-24, 05:17:04](https://lobste.rs/s/rh9r9j/does_bulk_memmove_speed_up_std_remove_if_no) - [Does bulk memmove speed up std::remove_if? (No.)](https://quuxplusone.github.io/blog/2026/05/23/chunked-remove/)
-* [2026-05-24, 04:14:52](https://news.ycombinator.com/item?id=48254309) - [Why is Vivado 2026.1 dropping Linux support for free tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US)
 * [2026-05-24, 03:57:01](https://news.ycombinator.com/item?id=48254236) - [The C64 Dead Test Font](https://www.masswerk.at/nowgobang/2026/c64-dead-test-font)
 * [2026-05-24, 03:34:00](https://tech.slashdot.org/story/26/05/24/036212/teslas-electric-cybercab-is-certified-as-the-most-efficient-ev-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tesla&apos;s Electric Cybercab is Certified as the Most Efficient EV Ever](https://tech.slashdot.org/story/26/05/24/036212/teslas-electric-cybercab-is-certified-as-the-most-efficient-ev-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-24, 03:32:14](https://lobste.rs/s/9mu7tv/wake_up_16b_demo_writeup) - [wake up! 16b (demo writeup)](https://hellmood.111mb.de/wake_up_16b_writeup.html)
@@ -130,14 +130,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-23, 18:34:00](https://news.slashdot.org/story/26/05/23/0639208/free-software-foundations-call-for-librelocals-answered-on-six-continents---with-more-coming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Free Software Foundation&apos;s Call for &apos;LibreLocals&apos; Answered on Six Continents - With More Coming](https://news.slashdot.org/story/26/05/23/0639208/free-software-foundations-call-for-librelocals-answered-on-six-continents---with-more-coming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-23, 17:34:00](https://tech.slashdot.org/story/26/05/23/1647242/friday-googles-ai-powered-search-results-glitched-on-the-word-disregard?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Friday Google&apos;s AI-Powered Search Results Glitched on the Word &apos;Disregard&apos;](https://tech.slashdot.org/story/26/05/23/1647242/friday-googles-ai-powered-search-results-glitched-on-the-word-disregard?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-23, 17:20:00](https://soylentnews.org/article.pl?sid=26/05/22/0545221&amp;from=rss) - [In Stunning Display Of Stupid, Secret CISA Credentials Found In Public GitHub Repo](https://soylentnews.org/article.pl?sid=26/05/22/0545221&amp;from=rss)
-* [2026-05-23, 16:34:00](https://news.slashdot.org/story/26/05/23/0320215/researchers-say-the-worst-climate-future-is-less-likely-but-the-best-one-is-also-slipping-away?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Researchers Say the Worst Climate Future is Less Likely. But the Best One is Also Slipping Away](https://news.slashdot.org/story/26/05/23/0320215/researchers-say-the-worst-climate-future-is-less-likely-but-the-best-one-is-also-slipping-away?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-23, 15:50:15](https://lobste.rs/s/ilahdq/hershey_is_textual_vector_font_format) - [Hershey is a textual vector font format](https://wiki.xxiivv.com/site/hershey.html)
-* [2026-05-23, 15:34:00](https://linux.slashdot.org/story/26/05/23/0727241/linux-kernel-flaw-lets-unprivileged-users-access-root-only-files-execute-arbitrary-commands-as-root?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linux Kernel Flaw Lets Unprivileged Users Access Root-Only Files, Execute Arbitrary Commands as Root](https://linux.slashdot.org/story/26/05/23/0727241/linux-kernel-flaw-lets-unprivileged-users-access-root-only-files-execute-arbitrary-commands-as-root?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-23, 15:05:29](https://lobste.rs/s/5zonsl/cuneiforth_forth_for_your_chifir) - [Cuneiforth: A Forth for your Chifir](https://gopher.floodgap.com/gopher/gw?a=gopher%3A%2F%2Fthelambdalab.xyz%2F1cuneiforth%2F)
-* [2026-05-23, 14:34:00](https://yro.slashdot.org/story/26/05/23/055224/tech-ceos-call-for-a-universal-basic-income-but-what-are-the-alternatives?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tech CEOs Call for a Universal Basic Income. But What are the Alternatives?](https://yro.slashdot.org/story/26/05/23/055224/tech-ceos-call-for-a-universal-basic-income-but-what-are-the-alternatives?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-23, 14:07:31](https://lobste.rs/s/yvkqco/wayland_compositor_implemented_as_mod) - [Wayland compositor implemented as a mod in Minecraft](https://modrinth.com/project/9yAfrPwH)
 * [2026-05-23, 13:03:43](https://news.ycombinator.com/item?id=48247325) - [On The &lt;dl&gt; (2021)](https://benmyers.dev/blog/on-the-dl/)
-* [2026-05-23, 12:48:02](https://news.ycombinator.com/item?id=48247208) - [The Art of Money Getting](https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/)
 * [2026-05-23, 12:35:00](https://soylentnews.org/article.pl?sid=26/05/22/0314250&amp;from=rss) - [What Do Gödel&apos;s Incompleteness Theorems Truly Mean?](https://soylentnews.org/article.pl?sid=26/05/22/0314250&amp;from=rss)
 * [2026-05-23, 09:57:28](https://lobste.rs/s/arfalj/one_time_i_used_go_panics_for_flow_control) - [That one time I used Go panics for flow control](https://noncrab.net/posts/panic-as-flow-control/)
 * [2026-05-23, 07:46:00](https://soylentnews.org/article.pl?sid=26/05/22/032239&amp;from=rss) - [Amazon is Shutting Down Support for Older Kindles Soon. Here&apos;s How You Can Save Yours](https://soylentnews.org/article.pl?sid=26/05/22/032239&amp;from=rss)
@@ -145,21 +141,21 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-23, 03:04:00](https://soylentnews.org/article.pl?sid=26/05/22/0247218&amp;from=rss) - [AI Data Centers Trigger Massive &apos;Irreversible&apos; 76% Electricity Price Spike in Largest US Region](https://soylentnews.org/article.pl?sid=26/05/22/0247218&amp;from=rss)
 * [2026-05-22, 22:15:00](https://soylentnews.org/article.pl?sid=26/05/22/0239256&amp;from=rss) - [Pompeii Victim ID&apos;d as a Likely Doctor](https://soylentnews.org/article.pl?sid=26/05/22/0239256&amp;from=rss)
 * [2026-05-22, 17:27:00](https://soylentnews.org/article.pl?sid=26/05/22/0231209&amp;from=rss) - [Space Factories Edge Closer After Experimental Capsule Survives Hypersonic Landing](https://soylentnews.org/article.pl?sid=26/05/22/0231209&amp;from=rss)
+* [2026-05-22, 15:59:26](https://news.ycombinator.com/item?id=48237663) - [DeepSeek makes the V4 Pro price discount permanent](https://api-docs.deepseek.com/quick_start/pricing)
+* [2026-05-22, 14:55:37](https://news.ycombinator.com/item?id=48236791) - [Noroboto: Lying Fonts and Mitigation in Rust](https://tritium.legal/blog/noroboto)
 * [2026-05-22, 12:43:00](https://soylentnews.org/article.pl?sid=26/05/22/0225208&amp;from=rss) - [Intel Tells PC Makers to Adopt 18A CPUs or Lose Their Supply](https://soylentnews.org/article.pl?sid=26/05/22/0225208&amp;from=rss)
-* [2026-05-22, 12:13:21](https://news.ycombinator.com/item?id=48234793) - [Predicting the 2026 Bristol Bay and Kodiak Salmon Runs](https://www.salmonfinder.com/2026/05/13/bristol-bay-kodiak-predictions-2026)
 * [2026-05-22, 08:32:39](https://news.ycombinator.com/item?id=48233398) - [I keep bouncing off the Scheme language](https://www.sicpers.info/2026/05/i-keep-bouncing-off-the-scheme-language/)
 * [2026-05-22, 08:01:00](https://soylentnews.org/article.pl?sid=26/05/21/042230&amp;from=rss) - [Jury Dismisses All Claims in Elon Musk&apos;s Lawsuit Against OpenAI CEO Sam Altman](https://soylentnews.org/article.pl?sid=26/05/21/042230&amp;from=rss)
 * [2026-05-22, 03:19:00](https://soylentnews.org/article.pl?sid=26/05/19/1855242&amp;from=rss) - [Microsoft Surprises With its First Server Linux Distribution: Azure Linux 4.0](https://soylentnews.org/article.pl?sid=26/05/19/1855242&amp;from=rss)
+* [2026-05-22, 03:13:07](https://news.ycombinator.com/item?id=48231547) - [Build Adafruit projects right from Firefox](https://www.firefox.com/en-US/landing/adafruit/)
 * [2026-05-21, 22:34:00](https://soylentnews.org/article.pl?sid=26/05/19/1728216&amp;from=rss) - [Iran Demands Big Tech Pay Fees For Undersea Internet Cables In Strait Of Hormuz](https://soylentnews.org/article.pl?sid=26/05/19/1728216&amp;from=rss)
 * [2026-05-21, 17:51:00](https://soylentnews.org/article.pl?sid=26/05/19/1726205&amp;from=rss) - [Physicists at Odds Over Greatest Physics Mysteries](https://soylentnews.org/article.pl?sid=26/05/19/1726205&amp;from=rss)
 * [2026-05-21, 15:05:28](https://news.ycombinator.com/item?id=48223997) - [I spent 50 hours drawing a line graph](https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html)
+* [2026-05-21, 14:24:11](https://news.ycombinator.com/item?id=48223154) - [Book Review: On the Calculation of Volume](https://www.stephendiehl.com/posts/calculation_of_volume/)
 * [2026-05-21, 13:03:00](https://soylentnews.org/article.pl?sid=26/05/19/1720228&amp;from=rss) - [Barnes &amp; Noble CEO Backs Selling AI-Written Books in Stores](https://soylentnews.org/article.pl?sid=26/05/19/1720228&amp;from=rss)
 * [2026-05-21, 08:17:00](https://soylentnews.org/article.pl?sid=26/05/19/1718231&amp;from=rss) - [PlayStation Plus to Raise Monthly Subscription Fee](https://soylentnews.org/article.pl?sid=26/05/19/1718231&amp;from=rss)
-* [2026-05-21, 07:39:21](https://news.ycombinator.com/item?id=48219158) - [Artificial egg hatched 26 healthy chickens](https://www.nationalgeographic.com/science/article/artificial-egg-colossal-chickens-moa-dodo)
 * [2026-05-21, 03:36:00](https://soylentnews.org/article.pl?sid=26/05/19/1128257&amp;from=rss) - [Casimir Force Co-Opted to Generate Free Energy, Midichlorians Not Included](https://soylentnews.org/article.pl?sid=26/05/19/1128257&amp;from=rss)
 * [2026-05-20, 22:51:00](https://soylentnews.org/article.pl?sid=26/05/19/0444246&amp;from=rss) - [Software Developers Say AI Is Rotting Their Brains](https://soylentnews.org/article.pl?sid=26/05/19/0444246&amp;from=rss)
-* [2026-05-20, 21:57:18](https://news.ycombinator.com/item?id=48214766) - [Show HN: Git-based front-end interface for Hugo](https://github.com/arashthr/hugo-flow)
-* [2026-05-20, 21:21:14](https://news.ycombinator.com/item?id=48214311) - [My two-part desk setup (2025)](https://arslan.io/2025/11/18/my-two-part-desk-setup/)
 * [2026-05-20, 18:06:00](https://soylentnews.org/article.pl?sid=26/05/19/0438213&amp;from=rss) - [Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak](https://soylentnews.org/article.pl?sid=26/05/19/0438213&amp;from=rss)
 * [2026-05-20, 17:49:48](https://news.ycombinator.com/item?id=48211418) - [Curly braces: An evolution of Unix and C](https://thalia.dev/blog/unix-braces/)
 * [2026-05-20, 17:15:40](https://news.ycombinator.com/item?id=48210937) - [Silk: Open-source cooperative fiber scheduler](https://github.com/ClickHouse/silk)
