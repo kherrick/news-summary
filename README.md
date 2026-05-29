@@ -1,52 +1,54 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Developments and Innovations
+## Artificial Intelligence and Technology Developments
 
-* [Python utility package for building Claude Code hooks](https://github.com/RasmusGodske/claude-hook-utils) - A Python utility package designed to simplify the process of building hooks for Claude Code.
+* [US Military personnel are being targeted using location data](https://www.reuters.com/business/media-telecom/pentagon-says-us-military-personnel-are-reportedly-being-targeted-using-location-2026-05-28/) ([Comments](https://news.ycombinator.com/item?id=48320007))
 
-* [MIT Researchers Develop a Low-Cost Technique To Get Lithium Out of Rocks](https://science.slashdot.org/story/26/05/28/2039244/mit-researchers-develop-a-low-cost-technique-to-get-lithium-out-of-rocks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Researchers propose an economical method of extracting lithium from hard rock for use in batteries.
+* [Undisclosed addition in jqwik instructed AI coding agents to delete app output](https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/) ([Comments](https://news.ycombinator.com/item?id=48319968))
 
-* [Neptune: Direct3D virtualization for QEMU](https://blog.getutm.app/2026/introducing-neptune-direct3d-virtualization-for-qemu/) - New Direct3D virtualization technology made for QEMU environment.
+* [An AI audit of FreeBSD](https://blog.calif.io/p/an-ai-audit-of-freebsd) ([Comments](https://lobste.rs/s/kdninn/ai_audit_freebsd))
 
-* [Perfect Randomness Realized For the First Time](https://science.slashdot.org/story/26/05/28/0542214/perfect-randomness-realized-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Researchers achieve a milestone in computing with perfectly random number generation.
+* [Occupy Wall Street Co-Founder Built an On-Device AI For Activists](https://yro.slashdot.org/story/26/05/28/1817215/occupy-wall-street-co-founder-built-an-on-device-ai-for-activists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://yro.slashdot.org/story/26/05/28/1817215/occupy-wall-street-co-founder-built-an-on-device-ai-for-activists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Space Exploration and Aeronautics
+* [Protestware for coding agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html) ([Comments](https://lobste.rs/s/brusu8/protestware_for_coding_agents))
 
-* [The most spectacular rocket explosion since N1 just happened in Florida](https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/) - Blue Origin’s New Glenn rocket explodes during a static fire test in Florida.
+* [Claude Code – Everything You Can Configure That the Docs Don&apos;t Tell You](https://buildingbetter.tech/p/i-read-the-claude-code-source-code) ([Comments](https://news.ycombinator.com/item?id=48318174))
 
-* [Blue Origin&apos;s New Glenn blows up during static fire test](https://twitter.com/nasaspaceflight/status/2060164928472854821) - Blue Origin faces a setback as its New Glenn rocket experiences a significant disaster during testing.
+* [Robinhood Now Lets Your AI Agents Trade Stocks](https://tech.slashdot.org/story/26/05/28/067216/robinhood-now-lets-your-ai-agents-trade-stocks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://tech.slashdot.org/story/26/05/28/067216/robinhood-now-lets-your-ai-agents-trade-stocks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [In Addition to Space Stations, Vast Says It Will Now Build High-Power Satellites](https://soylentnews.org/article.pl?sid=26/05/26/0146250&from=rss) - Space company Vast announces plans to expand its focus beyond space stations to high-power satellites.
+* [The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin](https://minimaxir.com/2026/05/openrouter-hy3/) ([Comments](https://news.ycombinator.com/item?id=48317294))
 
-* [Europe Tests Laser Links As Satellite Comms Outgrow Radio](https://soylentnews.org/article.pl?sid=26/05/25/150246&from=rss) - Europe explores laser links in satellite communication as radio-based solutions reach their limits.
+## Space Exploration and Lunar Projects
 
-## Artificial Intelligence and Machine Learning
+* [NASA Details Its Plan to Build a Lunar Base At the Moon&apos;s South Pole](https://science.slashdot.org/story/26/05/28/2046259/nasa-details-its-plan-to-build-a-lunar-base-at-the-moons-south-pole?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://science.slashdot.org/story/26/05/28/2046259/nasa-details-its-plan-to-build-a-lunar-base-at-the-moons-south-pole?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Anthropic raises $65B in Series H funding at $965B post-money valuation](https://www.anthropic.com/news/series-h) - AI company Anthropic secures a historic $65 billion in Series H funding.
+* [Blue Origin&apos;s New Glenn blows up during static fire test](https://twitter.com/nasaspaceflight/status/2060164928472854821) ([Comments](https://news.ycombinator.com/item?id=48317774))
 
-* [The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin](https://minimaxir.com/2026/05/openrouter-hy3/) - An enigmatic language model, Hy3, outpaces competitors in the OpenRouter Model Rankings.
+## Science and Environment
 
-* [Anthropic Releases Opus 4.8 With New &apos;Dynamic Workflow&apos; Tool](https://slashdot.org/story/26/05/28/2013200/anthropic-releases-opus-48-with-new-dynamic-workflow-tool?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Anthropic introduces a new iteration of Opus AI with enhanced workflow features.
+* [MIT Researchers Develop a Low-Cost Technique To Get Lithium Out of Rocks](https://science.slashdot.org/story/26/05/28/2039244/mit-researchers-develop-a-low-cost-technique-to-get-lithium-out-of-rocks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://science.slashdot.org/story/26/05/28/2039244/mit-researchers-develop-a-low-cost-technique-to-get-lithium-out-of-rocks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Robinhood Now Lets Your AI Agents Trade Stocks](https://tech.slashdot.org/story/26/05/28/067216/robinhood-now-lets-your-ai-agents-trade-stocks?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Robinhood integrates technology that allows AI agents to carry out trades on behalf of users.
+* [Why Mosquitoes Swarm Your Head: They&apos;re Following Signals, Not Each Other](https://soylentnews.org/article.pl?sid=26/05/26/1729236&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/05/26/1729236&amp;from=rss))
 
-* [5 Ways Pope Leo Says AI Could Warp Humanity](https://soylentnews.org/article.pl?sid=26/05/26/1722203&from=rss) - Discussion on how artificial intelligence may negatively impact human civilization.
+* [Websites Have a New Way To Spy On Visitors: Analyzing Their SSD Activity](https://hardware.slashdot.org/story/26/05/27/2153246/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://hardware.slashdot.org/story/26/05/27/2153246/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Digital Privacy and Security
+## Technology and Cybersecurity
 
-* [GitHub bans security researcher who posted zero-day Windows exploits](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation) - GitHub takes action against a security researcher sharing sensitive vulnerabilities.
+* [GitHub bans security researcher who posted zero-day Windows exploits](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation) ([Comments](https://news.ycombinator.com/item?id=48315968))
 
-* [Websites Have a New Way To Spy On Visitors: Analyzing Their SSD Activity](https://hardware.slashdot.org/story/26/05/27/2153246/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Emerging methods allow websites to track users through their SSD activity.
+* [Cars collect a startling amount of data about you](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse) ([Comments](https://news.ycombinator.com/item?id=48318481))
 
-* [Researchers Issue Warning About using WiFi Routers as Surveillance Tech](https://soylentnews.org/article.pl?sid=26/05/26/1725241&from=rss) - Potential privacy risks associated with the misuse of WiFi routers as surveillance devices.
+* [Microsoft Allegedly Leaked Dutch Civil Servants&apos; Data To the US](https://yro.slashdot.org/story/26/05/28/1652241/microsoft-allegedly-leaked-dutch-civil-servants-data-to-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://yro.slashdot.org/story/26/05/28/1652241/microsoft-allegedly-leaked-dutch-civil-servants-data-to-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Social Observations and Culture
+* [RIPE NCC session fixation: poaching logins with an Atlas probe](https://mxsasha.eu/posts/ripe-ncc-session-fixation/) ([Comments](https://lobste.rs/s/9s41s0/ripe_ncc_session_fixation_poaching))
 
-* [Italians and Dutch share the same gestural instinct for teaching](https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching) - A study highlights shared human gestural communication in teaching contexts.
+## Engineering and Hacks
 
-* [SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims](https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/) - San Francisco startup under fire for reportedly testing robots in Airbnbs without consent.
+* [Replacing Photoshop With NSString (2015)](http://cocoamine.net/blog/2015/03/20/replacing-photoshop-with-nsstring) ([Comments](https://lobste.rs/s/uuecsm/replacing_photoshop_with_nsstring_2015))
 
-* [The most unlikely school bag](https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/) - The history and cultural significance of a peculiar school bag design.
+* [Patching my guitar amp&apos;s firmware](https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html) ([Comments](https://lobste.rs/s/1fkt8w/patching_my_guitar_amp_s_firmware))
+
+* [Introducing Neptune: Direct3D virtualization for QEMU](https://blog.getutm.app/2026/introducing-neptune-direct3d-virtualization-for-qemu/) ([Comments](https://lobste.rs/s/3zzn9g/introducing_neptune_direct3d))
 
 ---
 
@@ -73,15 +75,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-05-29, 04:18:34](https://news.ycombinator.com/item?id=48318978) - [Python utility package for building Claude Code hooks](https://github.com/RasmusGodske/claude-hook-utils)
+* [2026-05-29, 07:10:52](https://news.ycombinator.com/item?id=48320007) - [US Military personnel are being targeted using location data](https://www.reuters.com/business/media-telecom/pentagon-says-us-military-personnel-are-reportedly-being-targeted-using-location-2026-05-28/)
+* [2026-05-29, 07:05:31](https://news.ycombinator.com/item?id=48319968) - [Undisclosed addition in jqwik instructed AI coding agents to delete app output](https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/)
+* [2026-05-29, 07:00:00](https://science.slashdot.org/story/26/05/28/2046259/nasa-details-its-plan-to-build-a-lunar-base-at-the-moons-south-pole?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Details Its Plan to Build a Lunar Base At the Moon&apos;s South Pole](https://science.slashdot.org/story/26/05/28/2046259/nasa-details-its-plan-to-build-a-lunar-base-at-the-moons-south-pole?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-29, 06:55:19](https://lobste.rs/s/uuecsm/replacing_photoshop_with_nsstring_2015) - [Replacing Photoshop With NSString (2015)](http://cocoamine.net/blog/2015/03/20/replacing-photoshop-with-nsstring)
+* [2026-05-29, 05:58:06](https://lobste.rs/s/1fkt8w/patching_my_guitar_amp_s_firmware) - [Patching my guitar amp&apos;s firmware](https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html)
+* [2026-05-29, 05:48:21](https://news.ycombinator.com/item?id=48319524) - [Zot now supports Claude Opus 4.8](https://www.zot.sh)
+* [2026-05-29, 05:46:43](https://lobste.rs/s/kdninn/ai_audit_freebsd) - [An AI audit of FreeBSD](https://blog.calif.io/p/an-ai-audit-of-freebsd)
+* [2026-05-29, 05:45:36](https://news.ycombinator.com/item?id=48319509) - [Volkswagen blocks Home Assistant by requiring client assertion](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967)
+* [2026-05-29, 05:44:56](https://lobste.rs/s/g9u6b7/how_do_you_version_public_web_apis) - [How do you version public web APIs?](https://lobste.rs/s/g9u6b7/how_do_you_version_public_web_apis)
+* [2026-05-29, 05:25:16](https://lobste.rs/s/l6egm2/lunacy_lua_5_1_interpreter_with_lazy_basic) - [Lunacy - Lua 5.1 interpreter with Lazy Basic Block Versioning and JIT](https://redvice.org/2026/lunacy/)
 * [2026-05-29, 03:47:00](https://soylentnews.org/article.pl?sid=26/05/28/1228205&amp;from=rss) - [ESA Boss Tires of Being Dragged Around by NASA Mood Swings](https://soylentnews.org/article.pl?sid=26/05/28/1228205&amp;from=rss)
-* [2026-05-29, 03:32:15](https://news.ycombinator.com/item?id=48318678) - [The most spectacular rocket explosion since N1 just happened in Florida](https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/)
 * [2026-05-29, 03:30:00](https://science.slashdot.org/story/26/05/28/2039244/mit-researchers-develop-a-low-cost-technique-to-get-lithium-out-of-rocks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [MIT Researchers Develop a Low-Cost Technique To Get Lithium Out of Rocks](https://science.slashdot.org/story/26/05/28/2039244/mit-researchers-develop-a-low-cost-technique-to-get-lithium-out-of-rocks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-29, 03:25:25](https://lobste.rs/s/lc26ar/sqlite_does_not_accept_agentic_code) - [SQLite Does Not Accept Agentic Code](https://simonwillison.net/2026/May/27/sqlite-agents/)
-* [2026-05-29, 03:01:00](https://news.ycombinator.com/item?id=48318481) - [Cars are trying to spy on you, and it&apos;s only just the beginning](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse)
+* [2026-05-29, 03:01:00](https://news.ycombinator.com/item?id=48318481) - [Cars collect a startling amount of data about you](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse)
 * [2026-05-29, 02:33:13](https://news.ycombinator.com/item?id=48318313) - [Italians and Dutch share the same gestural instinct for teaching](https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching)
+* [2026-05-29, 02:13:20](https://news.ycombinator.com/item?id=48318174) - [Claude Code – Everything You Can Configure That the Docs Don&apos;t Tell You](https://buildingbetter.tech/p/i-read-the-claude-code-source-code)
 * [2026-05-29, 01:16:38](https://news.ycombinator.com/item?id=48317774) - [Blue Origin&apos;s New Glenn blows up during static fire test](https://twitter.com/nasaspaceflight/status/2060164928472854821)
-* [2026-05-29, 00:16:20](https://news.ycombinator.com/item?id=48317339) - [Where are the economies of scale in homebuilding?](https://www.construction-physics.com/p/where-are-the-economies-of-scale)
 * [2026-05-29, 00:09:35](https://news.ycombinator.com/item?id=48317294) - [The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin](https://minimaxir.com/2026/05/openrouter-hy3/)
 * [2026-05-29, 00:07:10](https://lobste.rs/s/d9n2yd/tail_ci_logs_over_ssh) - [tail CI logs over SSH](https://blog.tangled.org/ssh/)
 * [2026-05-28, 23:55:44](https://lobste.rs/s/3zzn9g/introducing_neptune_direct3d) - [Introducing Neptune: Direct3D virtualization for QEMU](https://blog.getutm.app/2026/introducing-neptune-direct3d-virtualization-for-qemu/)
@@ -91,7 +101,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-28, 23:28:39](https://lobste.rs/s/jomfmw/silent_critic) - [The Silent Critic](https://www.tft.io/the-silent-critic/)
 * [2026-05-28, 23:00:00](https://hardware.slashdot.org/story/26/05/28/2022251/europe-told-to-cool-its-datacenter-boom-before-water-power-run-short?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Europe Told To Cool Its Datacenter Boom Before Water, Power Run Short](https://hardware.slashdot.org/story/26/05/28/2022251/europe-told-to-cool-its-datacenter-boom-before-water-power-run-short?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-28, 22:00:00](https://slashdot.org/story/26/05/28/2013200/anthropic-releases-opus-48-with-new-dynamic-workflow-tool?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Releases Opus 4.8 With New &apos;Dynamic Workflow&apos; Tool](https://slashdot.org/story/26/05/28/2013200/anthropic-releases-opus-48-with-new-dynamic-workflow-tool?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-28, 21:47:22](https://news.ycombinator.com/item?id=48315980) - [Why Gentoo?](https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/)
 * [2026-05-28, 21:45:54](https://news.ycombinator.com/item?id=48315968) - [GitHub bans security researcher who posted zero-day Windows exploits](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation)
 * [2026-05-28, 21:01:28](https://lobste.rs/s/pd8aug/one_year_roto_compiled_scripting) - [One year of Roto, the compiled scripting language for Rust](https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/)
 * [2026-05-28, 21:00:00](https://yro.slashdot.org/story/26/05/28/1817215/occupy-wall-street-co-founder-built-an-on-device-ai-for-activists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Occupy Wall Street Co-Founder Built an On-Device AI For Activists](https://yro.slashdot.org/story/26/05/28/1817215/occupy-wall-street-co-founder-built-an-on-device-ai-for-activists?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -105,9 +114,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-28, 19:00:00](https://news.slashdot.org/story/26/05/28/1713246/valves-steam-deck-sells-out-again-even-after-40-price-increase?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Valve&apos;s Steam Deck Sells Out Again, Even After 40% Price Increase](https://news.slashdot.org/story/26/05/28/1713246/valves-steam-deck-sells-out-again-even-after-40-price-increase?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-28, 18:41:46](https://news.ycombinator.com/item?id=48313530) - [Building durable workflows on Postgres](https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution)
 * [2026-05-28, 18:17:31](https://lobste.rs/s/brusu8/protestware_for_coding_agents) - [Protestware for coding agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
-* [2026-05-28, 18:09:44](https://news.ycombinator.com/item?id=48313048) - [Anthropic raises $65B in Series H funding at $965B post-money valuation](https://www.anthropic.com/news/series-h)
 * [2026-05-28, 18:00:00](https://yro.slashdot.org/story/26/05/28/1652241/microsoft-allegedly-leaked-dutch-civil-servants-data-to-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Allegedly Leaked Dutch Civil Servants&apos; Data To the US](https://yro.slashdot.org/story/26/05/28/1652241/microsoft-allegedly-leaked-dutch-civil-servants-data-to-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-28, 17:36:47](https://news.ycombinator.com/item?id=48312528) - [I hated writing until I learned there’s a science to it (2024)](https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it)
+* [2026-05-28, 17:43:36](https://news.ycombinator.com/item?id=48312616) - [Bitburner, programming-based incremental game](https://bitburner-official.github.io/)
 * [2026-05-28, 17:30:47](https://lobste.rs/s/4msjpt/garnix_is_shutting_down) - [Garnix is shutting down](https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895)
 * [2026-05-28, 17:00:00](https://linux.slashdot.org/story/26/05/28/1641221/ibm-red-hat-commit-5-billion-to-secure-open-source-supply-chains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [IBM, Red Hat Commit $5 Billion To Secure Open Source Supply Chains](https://linux.slashdot.org/story/26/05/28/1641221/ibm-red-hat-commit-5-billion-to-secure-open-source-supply-chains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-28, 16:53:17](https://lobste.rs/s/9s41s0/ripe_ncc_session_fixation_poaching) - [RIPE NCC session fixation: poaching logins with an Atlas probe](https://mxsasha.eu/posts/ripe-ncc-session-fixation/)
@@ -118,7 +126,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-28, 16:00:00](https://tech.slashdot.org/story/26/05/28/067216/robinhood-now-lets-your-ai-agents-trade-stocks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Robinhood Now Lets Your AI Agents Trade Stocks](https://tech.slashdot.org/story/26/05/28/067216/robinhood-now-lets-your-ai-agents-trade-stocks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-28, 15:59:46](https://lobste.rs/s/w4vsvq/jjc_non_interactive_hunk_level) - [jjc: Non-interactive hunk-level operations for Jujutsu](https://tangled.org/akashina.tngl.sh/jjc)
 * [2026-05-28, 15:23:04](https://news.ycombinator.com/item?id=48310280) - [The Permanent Upper Crow](https://permanent-upper-crow.jasonwu.ink/)
-* [2026-05-28, 15:15:35](https://lobste.rs/s/dt7jn8/concerning_emacs_jazz) - [Concerning Emacs (and Jazz)](https://omidmash.de/blog/concerning-emacs)
 * [2026-05-28, 15:05:06](https://news.ycombinator.com/item?id=48309986) - [Show HN: Ktx – Open-source executable context layer for data agents](https://github.com/Kaelio/ktx)
 * [2026-05-28, 15:00:00](https://yro.slashdot.org/story/26/05/28/060223/doj-charges-google-employee-with-12-million-polymarket-bet-on-search-term?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DOJ Charges Google Employee With $1.2 Million Polymarket Bet On Search Term](https://yro.slashdot.org/story/26/05/28/060223/doj-charges-google-employee-with-12-million-polymarket-bet-on-search-term?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-28, 13:04:36](https://lobste.rs/s/re4ztm/package_managers_package_package) - [Package managers that package package managers](https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html)
@@ -127,39 +134,33 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-28, 11:34:00](https://soylentnews.org/article.pl?sid=26/05/26/1725241&amp;from=rss) - [Researchers Issue Warning About using WiFi Routers as Surveillance Tech](https://soylentnews.org/article.pl?sid=26/05/26/1725241&amp;from=rss)
 * [2026-05-28, 11:00:00](https://entertainment.slashdot.org/story/26/05/28/0552205/lastfm-goes-independent-after-breaking-up-with-paramount-skydance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Last.fm Goes Independent After Breaking Up With Paramount Skydance](https://entertainment.slashdot.org/story/26/05/28/0552205/lastfm-goes-independent-after-breaking-up-with-paramount-skydance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-28, 10:46:28](https://lobste.rs/s/jowjkj/what_s_cooking_on_sourcehut_q2_2026) - [What&apos;s cooking on SourceHut? Q2 2026](https://sourcehut.org/blog/2026-05-28-whats-cooking-q2-2026/)
-* [2026-05-28, 10:01:05](https://lobste.rs/s/dfz7tg/tenth_openpgp_email_summit) - [The tenth OpenPGP email summit](https://lwn.net/Articles/1072870/)
 * [2026-05-28, 09:52:05](https://lobste.rs/s/nx1xwo/why_gentoo) - [Why Gentoo?](https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/)
 * [2026-05-28, 07:00:00](https://science.slashdot.org/story/26/05/28/0542214/perfect-randomness-realized-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Perfect Randomness Realized For the First Time](https://science.slashdot.org/story/26/05/28/0542214/perfect-randomness-realized-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-28, 06:53:00](https://soylentnews.org/article.pl?sid=26/05/26/1722203&amp;from=rss) - [5 Ways Pope Leo Says AI Could Warp Humanity](https://soylentnews.org/article.pl?sid=26/05/26/1722203&amp;from=rss)
-* [2026-05-28, 05:59:15](https://lobste.rs/s/qtno6s/clojure_on_fennel_part_three_parsing) - [Clojure on Fennel part three: parsing](https://andreyor.st/posts/2026-04-27-clojure-on-fennel-part-three-parsing/)
 * [2026-05-28, 03:30:00](https://hardware.slashdot.org/story/26/05/27/2153246/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Websites Have a New Way To Spy On Visitors: Analyzing Their SSD Activity](https://hardware.slashdot.org/story/26/05/27/2153246/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-28, 02:03:00](https://soylentnews.org/article.pl?sid=26/05/26/1718219&amp;from=rss) - [Power Prices to Fall for Most Customers, With Bigger Drops for Businesses](https://soylentnews.org/article.pl?sid=26/05/26/1718219&amp;from=rss)
 * [2026-05-27, 23:54:16](https://lobste.rs/s/m57z5f/love_letter_neovim) - [A Love Letter to Neovim](https://caio.ca/blog/a-love-letter-to-neovim)
-* [2026-05-27, 23:46:37](https://lobste.rs/s/mlfx3s/rust_slint_on_jailbroken_kindle) - [Rust (and Slint) on a jailbroken Kindle](https://sverre.me/blog/rust-on-kindle/)
 * [2026-05-27, 23:37:48](https://lobste.rs/s/tw3jle/csci_1377_tools_for_thought_spring_2026) - [CSCI 1377: Tools for Thought (Spring 2026)](https://cel.cs.brown.edu/csci-1377-s26/)
 * [2026-05-27, 23:00:00](https://news.slashdot.org/story/26/05/27/2142239/meta-to-start-testing-ai-subscription-services?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta To Start Testing AI Subscription Services](https://news.slashdot.org/story/26/05/27/2142239/meta-to-start-testing-ai-subscription-services?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-27, 22:00:00](https://slashdot.org/story/26/05/27/2132231/nvidia-to-spend-150-billion-a-year-in-taiwan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nvidia To Spend $150 Billion a Year In Taiwan](https://slashdot.org/story/26/05/27/2132231/nvidia-to-spend-150-billion-a-year-in-taiwan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-27, 21:19:00](https://soylentnews.org/article.pl?sid=26/05/26/179259&amp;from=rss) - [Nature Might Have a Universal Rhythm](https://soylentnews.org/article.pl?sid=26/05/26/179259&amp;from=rss)
 * [2026-05-27, 16:48:05](https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one) - [Atom Exhaustion Is Not a Footgun. It&apos;s One Third of Our CVEs](https://erlef.org/blog/security/atom-exhaustion)
 * [2026-05-27, 16:35:00](https://soylentnews.org/article.pl?sid=26/05/26/0146250&amp;from=rss) - [In Addition to Space Stations, Vast Says It Will Now Build High-Power Satellites](https://soylentnews.org/article.pl?sid=26/05/26/0146250&amp;from=rss)
 * [2026-05-27, 15:36:02](https://lobste.rs/s/yjwa9q/interview_with_zig_creator_andrew_kelley) - [Interview with Zig creator Andrew Kelley](https://www.youtube.com/watch?v=iqddnwKF8HQ)
 * [2026-05-27, 11:52:00](https://soylentnews.org/article.pl?sid=26/05/26/0145204&amp;from=rss) - [With &apos;The Mandalorian and Grogu&apos; Out, Can &apos;Star Wars&apos; Ever Feel Like a Big-Screen Event Again?](https://soylentnews.org/article.pl?sid=26/05/26/0145204&amp;from=rss)
+* [2026-05-27, 07:17:14](https://news.ycombinator.com/item?id=48290805) - [Franklin Pierce by David W. Blight](https://inpursuit.substack.com/p/franklin-pierce-by-david-w-blight)
 * [2026-05-27, 07:05:00](https://soylentnews.org/article.pl?sid=26/05/26/0141244&amp;from=rss) - [Google Antigravity 2.0 Forced Update Strips Code Editor, Leaves Developers With a Chat Window](https://soylentnews.org/article.pl?sid=26/05/26/0141244&amp;from=rss)
-* [2026-05-27, 05:40:47](https://lobste.rs/s/2jdvxa/what_are_some_your_favourite_developer) - [What are some of your favourite developer tools?](https://lobste.rs/s/2jdvxa/what_are_some_your_favourite_developer)
 * [2026-05-27, 02:24:00](https://soylentnews.org/article.pl?sid=26/05/25/1525251&amp;from=rss) - [AI Sackings Reach New Zealand, Which Will Use It to Eject 14 Percent of Government Staff](https://soylentnews.org/article.pl?sid=26/05/25/1525251&amp;from=rss)
 * [2026-05-26, 21:38:00](https://soylentnews.org/article.pl?sid=26/05/25/1522231&amp;from=rss) - [After Decades on Linux, FreeBSD Finally Gave Me a Reason to Switch Operating Systems](https://soylentnews.org/article.pl?sid=26/05/25/1522231&amp;from=rss)
 * [2026-05-26, 16:54:00](https://soylentnews.org/article.pl?sid=26/05/25/157204&amp;from=rss) - [FBI Seeks US-Wide Access to License Plate Cameras, Wants \&quot;Data in Near Real Time\&quot;](https://soylentnews.org/article.pl?sid=26/05/25/157204&amp;from=rss)
 * [2026-05-26, 16:41:58](https://news.ycombinator.com/item?id=48282180) - [Indoor Wi-Fi Roaming with OpenWRT](https://taoofmac.com/space/blog/2026/05/26/1730)
+* [2026-05-26, 15:15:02](https://news.ycombinator.com/item?id=48280967) - [Avoid Using \&quot;&lt; [Cdata[ ]]&gt;\&quot; in RSS](https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss)
 * [2026-05-26, 14:36:20](https://news.ycombinator.com/item?id=48280451) - [Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml](https://coalton-lang.github.io/)
 * [2026-05-26, 12:07:00](https://soylentnews.org/article.pl?sid=26/05/25/150246&amp;from=rss) - [Europe Tests Laser Links As Satellite Comms Outgrow Radio](https://soylentnews.org/article.pl?sid=26/05/25/150246&amp;from=rss)
 * [2026-05-26, 08:02:52](https://news.ycombinator.com/item?id=48276598) - [News about Raspberry Pi 6 and Microcontroller Development](https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/)
 * [2026-05-26, 07:23:00](https://soylentnews.org/article.pl?sid=26/05/25/1437228&amp;from=rss) - [EU Taps Sweden&apos;s EQT to Manage Major €5Bn Scale-Up Europe Fund](https://soylentnews.org/article.pl?sid=26/05/25/1437228&amp;from=rss)
 * [2026-05-26, 02:39:00](https://soylentnews.org/article.pl?sid=26/05/25/1430256&amp;from=rss) - [The Coolest Record Player Ever Made](https://soylentnews.org/article.pl?sid=26/05/25/1430256&amp;from=rss)
-* [2026-05-25, 21:59:01](https://news.ycombinator.com/item?id=48272458) - [Some Like It Literary](https://www.nytimes.com/2026/05/24/books/review/marilyn-monroe-books-arthur-miller.html)
 * [2026-05-25, 21:57:00](https://soylentnews.org/article.pl?sid=26/05/24/1319237&amp;from=rss) - [Torvalds Says AI Bug Hunters Have Made Linux Security Mailing List ‘Almost Entirely Unmanageable&apos;](https://soylentnews.org/article.pl?sid=26/05/24/1319237&amp;from=rss)
 * [2026-05-25, 17:08:00](https://soylentnews.org/article.pl?sid=26/05/24/1316229&amp;from=rss) - [The Big AI Companies Are Going to See Their Margins Disappear](https://soylentnews.org/article.pl?sid=26/05/24/1316229&amp;from=rss)
-* [2026-05-25, 13:45:05](https://news.ycombinator.com/item?id=48266757) - [The most unlikely school bag](https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/)
 * [2026-05-25, 12:18:00](https://soylentnews.org/article.pl?sid=26/05/24/136257&amp;from=rss) - [Uncle Sam&apos;s Next Big Supercomputer Might Use Something More Exotic Than GPUs](https://soylentnews.org/article.pl?sid=26/05/24/136257&amp;from=rss)
-* [2026-05-25, 12:00:13](https://news.ycombinator.com/item?id=48265849) - [The Pack That Killed the Pack Mule](https://www.carryology.com/liking/industry/the-pack-that-killed-the-pack-mule/)
 * [2026-05-25, 07:28:00](https://soylentnews.org/politics/article.pl?sid=26/05/24/1253249&amp;from=rss) - [China Says &apos;World&apos;s First&apos; Offshore Wind-Powered Underwater Data Center Has Entered Full Operation](https://soylentnews.org/politics/article.pl?sid=26/05/24/1253249&amp;from=rss)
 * [2026-05-25, 02:46:00](https://soylentnews.org/article.pl?sid=26/05/24/1247208&amp;from=rss) - [Bots be Sorting](https://soylentnews.org/article.pl?sid=26/05/24/1247208&amp;from=rss)
