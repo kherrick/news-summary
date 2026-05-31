@@ -1,56 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Development
+## Technology and Innovation
 
-* [Apple M1 Chip Deep-Dive](https://www.youtube.com/watch?v=mHEWMiHgyU8) - In-depth technical video exploring the Apple M1 chip's architecture and capabilities. [Comments](https://lobste.rs/s/np6twr/apple_m1_chip_deep_dive)
+* [I Put a Datacenter GPU in My Gaming PC for £200](https://blog.tymscar.com/posts/v100localllm/) - A deep dive into upgrading a gaming PC with a datacenter GPU for improved performance, all for just £200. [Comments](https://lobste.rs/s/2tskyy/i_put_datacenter_gpu_my_gaming_pc_for_200)
 
-* [Zig ELF Linker Improvements Devlog](https://ziglang.org/devlog/2026/#2026-05-30) - Updates on advancements in the Zig programming language's ELF linker. [Comments](https://news.ycombinator.com/item?id=48338673)
+* [securix: NixOS-based secure operating system. Provides a hardened environment with strong isolation, reproducibility, and policy-driven configurations](https://github.com/cloud-gouv/securix) - A secure OS built on NixOS principles with features for enhanced system security and configuration. [Comments](https://lobste.rs/s/45dqvh/securix_nixos_based_secure_operating)
 
-* [The S in interoperability](https://frederikbraun.de/the-s-in-interoperability.html) - An insightful take on what interoperability means and how it impacts technology. [Comments](https://lobste.rs/s/1xzofw/s_interoperability)
+* [Apple M1 Chip Deep-Dive](https://www.youtube.com/watch?v=mHEWMiHgyU8) - A comprehensive analysis of Apple's M1 chip. [Comments](https://lobste.rs/s/np6twr/apple_m1_chip_deep_dive)
 
-* [A pictorial introduction to differential geometry (2017)](https://arxiv.org/abs/1709.08492) - Visual approach to understanding differential geometry concepts. [Comments](https://news.ycombinator.com/item?id=48343287)
+* [What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover) - A breakdown of the term 'Dickover' and its relevance in the digital age. [Comments](https://soylentnews.org/article.pl?sid=26/05/30/1415220&amp;from=rss)
 
-* [Voxel Space](https://s-macke.github.io/VoxelSpace/) - Exploration into Voxel Space, a rendering method that heightmaps terrain using 2.5D techniques. [Comments](https://lobste.rs/s/fcoley/voxel_space)
+## Gaming and Entertainment
 
-## Labor and Marketplace Shifts
+* [UK-Based Rockstar Games North Workers Formally Announce Union](https://games.slashdot.org/story/26/05/31/0227212/uk-based-rockstar-games-north-workers-formally-announce-union?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Rockstar Games North employees officially form a union to advocate for better conditions. [Comments](https://games.slashdot.org/story/26/05/31/0227212/uk-based-rockstar-games-north-workers-formally-announce-union?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [UK-Based Rockstar Games North Workers Formally Announce Union](https://games.slashdot.org/story/26/05/31/0227212/uk-based-rockstar-games-north-workers-formally-announce-union?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Game developers at Rockstar Games North announce the formation of a union. [Comments](https://games.slashdot.org/story/26/05/31/0227212/uk-based-rockstar-games-north-workers-formally-announce-union?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Call Of Duty: Warzone Is Shutting Down On PS4 And Xbox One](https://games.slashdot.org/story/26/05/30/1911241/call-of-duty-warzone-is-shutting-down-on-ps4-and-xbox-one?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The end of 'Call of Duty: Warzone' support for PS4 and Xbox One detailed. [Comments](https://games.slashdot.org/story/26/05/30/1911241/call-of-duty-warzone-is-shutting-down-on-ps4-and-xbox-one?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]](https://hi.telli.com/join-us) - Y Combinator-backed Telli is seeking to expand team in Berlin. [Comments](https://news.ycombinator.com/item?id=48343635)
+## Science and Space
 
-* [OpenRouter raises $113M Series B](https://openrouter.ai/announcements/series-b) - OpenRouter secures significant funding to expand its network solutions. [Comments](https://news.ycombinator.com/item?id=48338660)
+* [Mars Minerals Reveals an Ancient Ocean's Potential For Life - and a Possible Way to Make Oxygen](https://science.slashdot.org/story/26/05/30/0538233/mars-minerals-reveals-an-ancient-oceans-potential-for-life---and-a-possible-way-to-make-oxygen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A discovery about Martian minerals suggests ancient life and potential oxygen production. [Comments](https://science.slashdot.org/story/26/05/30/0538233/mars-minerals-reveals-an-ancient-oceans-potential-for-life---and-a-possible-way-to-make-oxygen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Accenture to acquire Ookla](https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises) - Accenture plans to acquire Ookla to enhance its AI and data capabilities in network intelligence. [Comments](https://news.ycombinator.com/item?id=48337987)
+* [Researchers Develop A New Process To Get Lithium Out Of Rocks](https://soylentnews.org/article.pl?sid=26/05/29/159239&amp;from=rss) - Scientists introduce a novel way to extract lithium from rocks, paving the way for advancements in battery tech. [Comments](https://soylentnews.org/article.pl?sid=26/05/29/159239&amp;from=rss)
 
-## Society and Technology Intersection
+## Artificial Intelligence
 
-* [Pentagon Says US Military Personnel Targeted Using Commercial Location Data](https://yro.slashdot.org/story/26/05/30/2233210/pentagon-says-us-military-personnel-targeted-using-commercial-location-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Allegations of misuse of commercial location data to target US military personnel. [Comments](https://yro.slashdot.org/story/26/05/30/2233210/pentagon-says-us-military-personnel-targeted-using-commercial-location-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Google Search is Becoming Something Fundamentally Different](https://soylentnews.org/article.pl?sid=26/05/29/0212218&amp;from=rss) - The evolution of Google search and how AI is shaping its future. [Comments](https://soylentnews.org/article.pl?sid=26/05/29/0212218&amp;from=rss)
 
-* [Journalist Spots Fugitive Terrorist Using Facial Recognition Software](https://yro.slashdot.org/story/26/05/30/2125244/journalist-spots-fugitive-terrorist-using-facial-recognition-software?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Facial recognition tech helps capture a fugitive, raising questions about privacy. [Comments](https://yro.slashdot.org/story/26/05/30/2125244/journalist-spots-fugitive-terrorist-using-facial-recognition-software?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [AI Code Increasingly Leads to Production Failures](https://soylentnews.org/article.pl?sid=26/05/29/152259&amp;from=rss) - A discussion on the growing challenges presented by AI-generated code in production. [Comments](https://soylentnews.org/article.pl?sid=26/05/29/152259&amp;from=rss)
 
-* [‘AI Washing’: Firms Are Scrambling to Rebrand Themselves as Tech-Focused](https://soylentnews.org/article.pl?sid=26/05/29/1513233&amp;from=rss) - Companies are increasingly adopting AI branding to generate buzz. [Comments](https://soylentnews.org/article.pl?sid=26/05/29/1513233&amp;from=rss)
+## Privacy and Surveillance
 
-* [Mars Minerals Reveals an Ancient Ocean's Potential For Life - and a Possible Way to Make Oxygen](https://science.slashdot.org/story/26/05/30/0538233/mars-minerals-reveals-an-ancient-oceans-potential-for-life---and-a-possible-way-to-make-oxygen?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Study suggests ancient Martian oceans might have been capable of supporting life. [Comments](https://science.slashdot.org/story/26/05/30/0538233/mars-minerals-reveals-an-ancient-oceans-potential-for-life---and-a-possible-way-to-make-oxygen?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Journalist Spots Fugitive Terrorist Using Facial Recognition Software](https://yro.slashdot.org/story/26/05/30/2125244/journalist-spots-fugitive-terrorist-using-facial-recognition-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Insight into the controversial use of facial recognition technology in criminal investigations. [Comments](https://yro.slashdot.org/story/26/05/30/2125244/journalist-spots-fugitive-terrorist-using-facial-recognition-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Open Source and Developer Tools
-
-* [Openrsync: An implementation of rsync, by the OpenBSD team](https://github.com/kristapsdz/openrsync) - A lightweight and portable port of the popular rsync utility by OpenBSD. [Comments](https://news.ycombinator.com/item?id=48334854)
-
-* [Show HN: Komi-learn – continuous memory and self-improvement for coding agents](https://github.com/kurikomi-labs/komi-learn) - An open-source repository to enhance AI coding agents for better memory and learning capabilities. [Comments](https://news.ycombinator.com/item?id=48343216)
-
-* [A New Design for Pretty Printer Implementations in Rust](https://blog.wybxc.cc/blog/pretty-printer-pye/) - Innovative approach to designing pretty printers in Rust. [Comments](https://lobste.rs/s/wa3gxl/new_design_for_pretty_printer)
-
-* [Data types à la carte (2008)](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/data-types-a-la-carte/14416CB20C4637164EA9F77097909409) - A revisitation of foundational computer science concepts in software development. [Comments](https://lobste.rs/s/8ukphx/data_types_la_carte_2008)
-
-## Nostalgia and History
-
-* [Ahoy, DECmate II! the little PDP-8 that could](http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html) - Celebrate the legacy of DECmate II, heralded as the 'little PDP-8 that could.' [Comments](https://lobste.rs/s/e7n06u/ahoy_decmate_ii_little_pdp_8_could)
-
-* [Microcode inside the Intel 8087 floating-point chip: register exchange](http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html) - An exploration into the workings of the Intel 8087 and its microcode. [Comments](https://lobste.rs/s/b1yg8b/microcode_inside_intel_8087_floating)
-
-* [The real origin of Lorem Ipsum](https://www.youtube.com/watch?v=kL1PDqzqhM4) - Discover the historical roots of the ubiquitous placeholder text. [Comments](https://lobste.rs/s/nwf2cq/real_origin_lorem_ipsum)
-
-* [RIP: Marcia Lucas, Oscar-Winning Star Wars Editor, Dies At 80](https://entertainment.slashdot.org/story/26/05/30/0246210/rip-marcia-lucas-oscar-winning-star-wars-editor-dies-at-80?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Tributes to Marcia Lucas, an iconic Star Wars editor, who passed away at the age of 80. [Comments](https://entertainment.slashdot.org/story/26/05/30/0246210/rip-marcia-lucas-oscar-winning-star-wars-editor-dies-at-80?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Pentagon Says US Military Personnel Targeted Using Commercial Location Data](https://yro.slashdot.org/story/26/05/30/2233210/pentagon-says-us-military-personnel-targeted-using-commercial-location-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Allegations of targeting US military personnel via commercial location data. [Comments](https://yro.slashdot.org/story/26/05/30/2233210/pentagon-says-us-military-personnel-targeted-using-commercial-location-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
 ---
 
@@ -77,10 +59,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-05-31, 09:43:06](https://lobste.rs/s/2tskyy/i_put_datacenter_gpu_my_gaming_pc_for_200) - [I Put a Datacenter GPU in My Gaming PC for £200](https://blog.tymscar.com/posts/v100localllm/)
+* [2026-05-31, 09:40:35](https://lobste.rs/s/45dqvh/securix_nixos_based_secure_operating) - [securix: NixOS-based secure operating system. Provides a hardened environment with strong isolation, reproducibility, and policy-driven configurations](https://github.com/cloud-gouv/securix)
 * [2026-05-31, 09:13:13](https://lobste.rs/s/1xzofw/s_interoperability) - [The S in interoperability](https://frederikbraun.de/the-s-in-interoperability.html)
+* [2026-05-31, 08:35:19](https://news.ycombinator.com/item?id=48344016) - [The dangerous delusion of modern warfare](https://economist.com/interactive/essay/2026/05/28/the-dangerous-delusion-of-modern-warfare)
 * [2026-05-31, 08:33:10](https://lobste.rs/s/wgfasz/website_checklist) - [Website checklist](https://specification.website/checklist/)
 * [2026-05-31, 07:54:00](https://soylentnews.org/article.pl?sid=26/05/30/1415220&amp;from=rss) - [What is a Dickover?](https://soylentnews.org/article.pl?sid=26/05/30/1415220&amp;from=rss)
 * [2026-05-31, 07:34:00](https://games.slashdot.org/story/26/05/31/0227212/uk-based-rockstar-games-north-workers-formally-announce-union?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK-Based Rockstar Games North Workers Formally Announce Union ](https://games.slashdot.org/story/26/05/31/0227212/uk-based-rockstar-games-north-workers-formally-announce-union?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-05-31, 07:16:18](https://news.ycombinator.com/item?id=48343714) - [London&apos;s Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html)
 * [2026-05-31, 07:09:50](https://news.ycombinator.com/item?id=48343683) - [The Website Specification](https://specification.website/)
 * [2026-05-31, 07:00:50](https://news.ycombinator.com/item?id=48343635) - [Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]](https://hi.telli.com/join-us)
 * [2026-05-31, 06:45:21](https://lobste.rs/s/np6twr/apple_m1_chip_deep_dive) - [Apple M1 Chip Deep-Dive](https://www.youtube.com/watch?v=mHEWMiHgyU8)
@@ -88,8 +74,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-31, 06:15:56](https://lobste.rs/s/bykj53/why_custom_attributes_net_give_me) - [Why Custom Attributes in .NET give me Nightmares](https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/)
 * [2026-05-31, 06:13:59](https://news.ycombinator.com/item?id=48343424) - [Avian Visitors](https://theodore.net/projects/AvianVisitors/)
 * [2026-05-31, 05:30:18](https://news.ycombinator.com/item?id=48343287) - [A pictorial introduction to differential geometry (2017)](https://arxiv.org/abs/1709.08492)
-* [2026-05-31, 05:11:40](https://news.ycombinator.com/item?id=48343216) - [Show HN: Komi-learn – continuous memory and self-improvement for coding agents](https://github.com/kurikomi-labs/komi-learn)
 * [2026-05-31, 04:42:14](https://news.ycombinator.com/item?id=48343078) - [Ahoy, DECmate II the little PDP-8 that could](http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html)
+* [2026-05-31, 04:03:52](https://news.ycombinator.com/item?id=48342935) - [86Box v6.0](https://86box.net/2026/05/31/86box-v6-0.html)
 * [2026-05-31, 03:34:00](https://developers.slashdot.org/story/26/05/31/0016209/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-testing-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fed Up With Vibe Coders, Dev Sneaks Data-Nuking Prompt Injection Into Testing App](https://developers.slashdot.org/story/26/05/31/0016209/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-testing-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-31, 03:16:48](https://news.ycombinator.com/item?id=48342705) - [Please Do Not Vibe Fuck Up This Software](https://github.com/RsyncProject/rsync/issues/929)
 * [2026-05-31, 03:09:00](https://soylentnews.org/article.pl?sid=26/05/29/1513233&amp;from=rss) - [‘AI Washing’: Firms Are Scrambling to Rebrand Themselves as Tech-Focused](https://soylentnews.org/article.pl?sid=26/05/29/1513233&amp;from=rss)
@@ -103,12 +89,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-30, 23:32:14](https://lobste.rs/s/b1yg8b/microcode_inside_intel_8087_floating) - [Microcode inside the Intel 8087 floating-point chip: register exchange](http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html)
 * [2026-05-30, 23:26:13](https://news.ycombinator.com/item?id=48341578) - [Microsoft Office 2019 and 2021 for Mac view-only conversion](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026))
 * [2026-05-30, 23:01:52](https://lobste.rs/s/8ukphx/data_types_la_carte_2008) - [Data types à la carte (2008)](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/data-types-a-la-carte/14416CB20C4637164EA9F77097909409)
-* [2026-05-30, 22:58:41](https://news.ycombinator.com/item?id=48341407) - [Cheese Paper: a text editor specifically designed for writing](https://brie.gay/cheese-paper/)
 * [2026-05-30, 22:34:00](https://yro.slashdot.org/story/26/05/30/2125244/journalist-spots-fugitive-terrorist-using-facial-recognition-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Journalist Spots Fugitive Terrorist Using Facial Recognition Software](https://yro.slashdot.org/story/26/05/30/2125244/journalist-spots-fugitive-terrorist-using-facial-recognition-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-30, 22:23:00](https://soylentnews.org/article.pl?sid=26/05/29/1511219&amp;from=rss) - [The LLM Permission Slip](https://soylentnews.org/article.pl?sid=26/05/29/1511219&amp;from=rss)
 * [2026-05-30, 22:06:38](https://news.ycombinator.com/item?id=48341062) - [Shantell Sans (2023)](https://shantellsans.com/process)
 * [2026-05-30, 21:55:47](https://lobste.rs/s/wa3gxl/new_design_for_pretty_printer) - [A New Design for Pretty Printer Implementations in Rust](https://blog.wybxc.cc/blog/pretty-printer-pye/)
-* [2026-05-30, 21:49:58](https://lobste.rs/s/jedgbs/parallel_reconstruction_lawful_tls) - [Parallel Reconstruction of Lawful TLS Wiretapping](https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/)
 * [2026-05-30, 21:46:18](https://news.ycombinator.com/item?id=48340910) - [The AV2 Video Standard Has Released (Final v1.0 Specification)](https://av2.aomedia.org)
 * [2026-05-30, 21:34:00](https://linux.slashdot.org/story/26/05/30/2040224/linux-developers-consider-retiring-the-x32-abi?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linux Developers Consider Retiring The x32 ABI](https://linux.slashdot.org/story/26/05/30/2040224/linux-developers-consider-retiring-the-x32-abi?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-30, 21:04:14](https://lobste.rs/s/nwf2cq/real_origin_lorem_ipsum) - [The real origin of Lorem Ipsum](https://www.youtube.com/watch?v=kL1PDqzqhM4)
@@ -120,14 +104,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-30, 19:47:36](https://news.ycombinator.com/item?id=48339943) - [Parallel Reconstruction of Lawful TLS Wiretapping](https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/)
 * [2026-05-30, 19:42:33](https://news.ycombinator.com/item?id=48339894) - [Jef Raskin, the Visionary Behind the Mac (2013)](https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/)
 * [2026-05-30, 19:34:00](https://it.slashdot.org/story/26/05/30/0559243/microsoft-criticized-for-threatening-legal-action-against-security-researcher?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Criticized for Threatening Legal Action Against Security Researcher](https://it.slashdot.org/story/26/05/30/0559243/microsoft-criticized-for-threatening-legal-action-against-security-researcher?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-05-30, 19:23:36](https://news.ycombinator.com/item?id=48339753) - [Show HN: 500 years of Joseon court omens as an observability dashboard](https://ajin.im/is/building/omen.ops/)
 * [2026-05-30, 18:34:00](https://science.slashdot.org/story/26/05/30/0538233/mars-minerals-reveals-an-ancient-oceans-potential-for-life---and-a-possible-way-to-make-oxygen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mars Minerals Reveals an Ancient Ocean&apos;s Potential For Life - and a Possible Way to Make Oxygen](https://science.slashdot.org/story/26/05/30/0538233/mars-minerals-reveals-an-ancient-oceans-potential-for-life---and-a-possible-way-to-make-oxygen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-30, 17:38:00](https://soylentnews.org/article.pl?sid=26/05/29/159239&amp;from=rss) - [Researchers Develop A New Process To Get Lithium Out Of Rocks](https://soylentnews.org/article.pl?sid=26/05/29/159239&amp;from=rss)
 * [2026-05-30, 17:34:00](https://tech.slashdot.org/story/26/05/30/0511236/duckduckgo-installs-up-30-after-google-announced-ai-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DuckDuckGo Installs Up 30% After Google Announced AI Search](https://tech.slashdot.org/story/26/05/30/0511236/duckduckgo-installs-up-30-after-google-announced-ai-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-30, 17:29:47](https://lobste.rs/s/fcoley/voxel_space) - [Voxel Space](https://s-macke.github.io/VoxelSpace/)
 * [2026-05-30, 17:29:22](https://news.ycombinator.com/item?id=48338673) - [Zig ELF Linker Improvements Devlog](https://ziglang.org/devlog/2026/#2026-05-30)
-* [2026-05-30, 17:27:28](https://news.ycombinator.com/item?id=48338660) - [OpenRouter raises $113M Series B](https://openrouter.ai/announcements/series-b)
-* [2026-05-30, 17:27:13](https://news.ycombinator.com/item?id=48338656) - [Microcode inside the Intel 8087 floating-point chip: register exchange](https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html)
 * [2026-05-30, 17:05:39](https://lobste.rs/s/wht0iv/canonical_takes_over_flutter_desktop) - [Canonical takes over Flutter desktop maintenance &amp; roadmap](https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained)
 * [2026-05-30, 16:34:00](https://science.slashdot.org/story/26/05/30/0411212/ozempic-may-be-reshaping-the-brain-scientists-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ozempic May Be Reshaping the Brain, Scientists Say](https://science.slashdot.org/story/26/05/30/0411212/ozempic-may-be-reshaping-the-brain-scientists-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-30, 16:28:58](https://news.ycombinator.com/item?id=48337987) - [Accenture to acquire Ookla](https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises)
@@ -135,7 +116,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-30, 14:47:40](https://lobste.rs/s/pudkct/nixos_26_05_released) - [NixOS 26.05 released](https://nixos.org/blog/announcements/2026/nixos-2605/)
 * [2026-05-30, 14:25:50](https://news.ycombinator.com/item?id=48336564) - [Voxel Space (2017)](https://s-macke.github.io/VoxelSpace/)
 * [2026-05-30, 14:05:57](https://lobste.rs/s/awqcgc/nix_on_sailfish_x_sailfish_os_for_sony) - [Nix on Sailfish X (Sailfish OS for Sony Xperia)](https://toast.al/posts/techlore/2026-05-30_nix-on-sailfish-os/)
-* [2026-05-30, 13:41:46](https://lobste.rs/s/grqzwv/coalgebras_automata) - [Coalgebras and Automata](https://web.archive.org/web/20071014215938/http://homepage.mac.com/sigfpe/Computing/fold.html)
 * [2026-05-30, 12:52:00](https://soylentnews.org/article.pl?sid=26/05/29/155242&amp;from=rss) - [Finding a Parking Spot in Pyongyang-Chinese Cars in N. Korea](https://soylentnews.org/article.pl?sid=26/05/29/155242&amp;from=rss)
 * [2026-05-30, 11:34:00](https://hardware.slashdot.org/story/26/05/28/2121228/us-aims-to-give-cold-war-plutonium-to-startups-for-nuclear-fuel?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Aims to Give Cold War Plutonium to Startups For Nuclear Fuel](https://hardware.slashdot.org/story/26/05/28/2121228/us-aims-to-give-cold-war-plutonium-to-startups-for-nuclear-fuel?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-05-30, 10:51:48](https://news.ycombinator.com/item?id=48334854) - [Openrsync: An implementation of rsync, by the OpenBSD team](https://github.com/kristapsdz/openrsync)
@@ -160,6 +140,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-05-28, 21:00:00](https://soylentnews.org/article.pl?sid=26/05/26/1729236&amp;from=rss) - [Why Mosquitoes Swarm Your Head: They&apos;re Following Signals, Not Each Other](https://soylentnews.org/article.pl?sid=26/05/26/1729236&amp;from=rss)
 * [2026-05-28, 19:11:59](https://news.ycombinator.com/item?id=48313952) - [Associative learning turns DEET from aversive to appetitive in Aedes aegypti](https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from)
 * [2026-05-28, 16:16:00](https://soylentnews.org/article.pl?sid=26/05/26/1726257&amp;from=rss) - [California Moves To Exempt Linux From Its Upcoming Age-Verification Law After Backlash](https://soylentnews.org/article.pl?sid=26/05/26/1726257&amp;from=rss)
+* [2026-05-28, 14:40:38](https://news.ycombinator.com/item?id=48309623) - [Soviet 80s supercomputer project \&quot;Start\&quot;](https://start.iis.nsk.su/)
 * [2026-05-28, 11:34:00](https://soylentnews.org/article.pl?sid=26/05/26/1725241&amp;from=rss) - [Researchers Issue Warning About using WiFi Routers as Surveillance Tech](https://soylentnews.org/article.pl?sid=26/05/26/1725241&amp;from=rss)
 * [2026-05-28, 09:42:40](https://news.ycombinator.com/item?id=48306713) - [Racket v9.2](https://blog.racket-lang.org/2026/05/racket-v9-2.html)
 * [2026-05-28, 06:53:00](https://soylentnews.org/article.pl?sid=26/05/26/1722203&amp;from=rss) - [5 Ways Pope Leo Says AI Could Warp Humanity](https://soylentnews.org/article.pl?sid=26/05/26/1722203&amp;from=rss)
