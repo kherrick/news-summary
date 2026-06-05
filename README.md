@@ -1,48 +1,56 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Space and Astronomy
+## Artificial Intelligence and Technology Advancements
 
-* [ISS Astronauts Told To Prepare For Possible Evacuation Over Air Leak](https://science.slashdot.org/story/26/06/05/1515246/iss-astronauts-told-to-prepare-for-possible-evacuation-over-air-leak?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Astronauts aboard the International Space Station have been alerted to a possible air leak situation, raising concerns about safety and emergency protocols in space exploration.
+* [An OpenAI Model Solved A Famous Math Problem That Stumped Humans For 80 Years](https://soylentnews.org/article.pl?sid=26/06/02/062240) - OpenAI's recent breakthrough demonstrates AI's capability of solving complex mathematical problems that have remained unsolved by humans for eight decades. [Comments](https://soylentnews.org/article.pl?sid=26/06/02/062240)
 
-* [NASA Says Goodbye to Its Longtime Mars MAVEN Mission](https://science.slashdot.org/story/26/06/04/0554208/nasa-says-goodbye-to-its-longtime-mars-maven-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NASA signs off on its Mars Atmosphere and Volatile Evolution (MAVEN) mission after years of providing valuable data about the Martian atmosphere.
+* [Fine-tuning an LLM to write docs like it&apos;s 1995](https://passo.uno/fine-tuning-docs-llm/) - A new approach to using large language models for generating technical documentation with a retro feel. [Comments](https://news.ycombinator.com/item?id=48408442)
 
-## Environment and Sustainability
+* [Leak Reveals Microsoft Wants Its AI to Be &apos;Addictive&apos;](https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924) - A leaked internal document suggests that Microsoft aims to design AI systems that encourage dependency among users. [Comments](https://news.ycombinator.com/item?id=48413924)
 
-* [Used Waymo Robotaxi Batteries Become Backup Storage For Power Grids](https://hardware.slashdot.org/story/26/06/04/1955206/used-waymo-robotaxi-batteries-become-backup-storage-for-power-grids?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An innovative initiative repurposes old Waymo autonomous vehicle batteries for use as backup power storage, contributing to sustainable energy efforts.
+* [Do transformers need three projections? Systematic study of QKV variants](https://arxiv.org/abs/2606.04032) - Researchers examine the necessity of the QKV structure in transformer-based architectures. [Comments](https://news.ycombinator.com/item?id=48405931)
 
-## Technology and Cybersecurity
+* [Anthropic's open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness) - A powerful new AI-driven tool is introduced to enhance vulnerability detection. [Comments](https://news.ycombinator.com/item?id=48403980)
 
-* [New IronWorm Malware Hits 36 Packages In npm Supply-Chain Attack](https://it.slashdot.org/story/26/06/04/1948205/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A fresh malware dubbed IronWorm is reported to have infiltrated 36 npm software packages, raising concerns over supply chain security in software development.
+## Space and Exploration News
 
-* [Meta enables ADB on deprecated Portal devices [video]](https://fb.watch/HxPu0fSyeH/) - Meta backtracks on its abandoned Portal devices by offering an update to enable Android Debug Bridge (ADB), opening up new avenues for usage.
+* [Bees Can Use Tools To Solve Problems, Study Finds](https://science.slashdot.org/story/26/06/04/2016228/bees-can-use-tools-to-solve-problems-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New research highlights bees' cognitive abilities to use tools to solve problems. [Comments](https://science.slashdot.org/story/26/06/04/2016228/bees-can-use-tools-to-solve-problems-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Artificial Intelligence and Research
+* [Entanglement Builds Space-Time. Now &quot;Magic&quot; Gives It Gravity](https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/) - Quantum phenomena might play a deeper role in the fabric of space-time and its properties. [Comments](https://news.ycombinator.com/item?id=48409675)
 
-* [Entanglement Builds Space-Time. Now "Magic" Gives It Gravity](https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/) - A thought-provoking exploration of how quantum entanglement forms space-time and how the concept of "magic" could potentially explain gravity.
+* [ISS Astronauts Told To Prepare For Possible Evacuation Over Air Leak](https://science.slashdot.org/story/26/06/05/1515246/iss-astronauts-told-to-prepare-for-possible-evacuation-over-air-leak?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Astronauts on the International Space Station face potential evacuation due to air leak concerns. [Comments](https://science.slashdot.org/story/26/06/05/1515246/iss-astronauts-told-to-prepare-for-possible-evacuation-over-air-leak?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [An OpenAI Model Solved A Famous Math Problem That Stumped Humans For 80 Years](https://soylentnews.org/article.pl?sid=26/06/02/062240&amp;from=rss) - OpenAI-powered computational techniques crack a mathematical puzzle that perplexed humans for decades.
+* [Used Waymo Robotaxi Batteries Become Backup Storage For Power Grids](https://hardware.slashdot.org/story/26/06/04/1955206/used-waymo-robotaxi-batteries-become-backup-storage-for-power-grids?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Exploring an innovative approach to repurpose used robotaxi batteries for power grid backup solutions. [Comments](https://hardware.slashdot.org/story/26/06/04/1955206/used-waymo-robotaxi-batteries-become-backup-storage-for-power-grids?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Emerging Trends in Development and Engineering
+* [NASA Says Goodbye to Its Longtime Mars MAVEN Mission](https://science.slashdot.org/story/26/06/04/0554208/nasa-says-goodbye-to-its-longtime-mars-maven-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The Mars Atmosphere and Volatile Evolution mission comes to an end after 11 years of groundbreaking exploration. [Comments](https://science.slashdot.org/story/26/06/04/0554208/nasa-says-goodbye-to-its-longtime-mars-maven-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Fine-tuning an LLM to write docs like it's 1995](https://passo.uno/fine-tuning-docs-llm/) - A developer experiments with fine-tuning a large language model to generate documentation mimicking retro styles from the mid-1990s.
+## Cybersecurity and Privacy Concerns
 
-* [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/) - Insights and updates about refinements in the development processes for the Ladybird browser.
+* [New IronWorm Malware Hits 36 Packages In npm Supply-Chain Attack](https://it.slashdot.org/story/26/06/04/1948205/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A significant supply-chain attack affects 36 npm packages, exposing software development ecosystems to new risks. [Comments](https://it.slashdot.org/story/26/06/04/1948205/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Internet and Online Discussions
+* [Researchers Say They Can Spy on Your Browsing by Measuring SSD Activity Through a Browser API](https://soylentnews.org/article.pl?sid=26/06/01/120212&amp;from=rss) - A new vulnerability showcases the potential of leveraging SSD activity for unauthorized browsing monitoring. [Comments](https://soylentnews.org/article.pl?sid=26/06/01/120212&amp;from=rss)
 
-* [How do you sieve/filter/manage your internet mail?](https://lobste.rs/s/dku5yb/how_do_you_sieve_filter_manage_your) - A community discussion exploring strategies and tools for effectively managing email influx.
+* [DuckDuckGo Installs Are Up 30% as Users Reject Being ‘Force-Fed’ Google&apos;s AI Search](https://soylentnews.org/article.pl?sid=26/06/04/1030202&amp;from=rss) - Privacy-focused search engine DuckDuckGo witnesses a substantial increase in installs as users gravitate away from Google's AI-driven search. [Comments](https://soylentnews.org/article.pl?sid=26/06/04/1030202&amp;from=rss)
 
-## Surveillance and Privacy
+* [Troops’ Phones Gave Away Location Data to Foreign Adversaries](https://soylentnews.org/article.pl?sid=26/06/04/1033248&amp;from=rss) - Critical revelations indicate soldiers' phones exposed sensitive location details to foreign entities. [Comments](https://soylentnews.org/article.pl?sid=26/06/04/1033248&amp;from=rss)
 
-* [Troops’ Phones Gave Away Location Data to Foreign Adversaries](https://soylentnews.org/article.pl?sid=26/06/04/1033248&amp;from=rss) - A startling report reveals how military personnel's mobile devices may inadvertently leak sensitive location data to foreign entities.
+## Environmental Initiatives and Challenges
 
-* [Investigation: Russian censorship systems (TMCT) expose Chinese DPI signatures](https://freenet.monster/china-unicom.html?lang=en) - A deep-dive investigation into how Russian censorship tools have revealed insights into Chinese deep-packet inspection signatures.
+* [Google Says It Will Replenish More Water Than It Uses At Data Centers](https://tech.slashdot.org/story/26/06/05/1531211/google-says-it-will-replenish-more-water-than-it-uses-at-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google's ambitious sustainability goal aims to replenish more water than consumed by its data centers. [Comments](https://tech.slashdot.org/story/26/06/05/1531211/google-says-it-will-replenish-more-water-than-it-uses-at-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Software, Programming, and Development
+* [Researcher Develops 'Spray-On' Stealth Coating For Drones](https://soylentnews.org/article.pl?sid=26/06/01/1138224&amp;from=rss) - A new method aims to enhance drone stealth using an innovative spray-on coating. [Comments](https://soylentnews.org/article.pl?sid=26/06/01/1138224&amp;from=rss)
 
-* [Redis 8.8: New array data structure, rate limiter, performance improvements](https://redis.io/blog/announcing-redis-8-8/) - Redis rolls out version 8.8, introducing a new array data structure and significant performance enhancements.
+## Software Development and Programming
 
-* [Open Code Review – An AI-powered code review CLI tool](https://github.com/alibaba/open-code-review) - Alibaba unveils a new CLI tool powered by artificial intelligence to streamline and enhance the process of software code review.
+* [Symbolica 2.0: programmable symbols for Python and Rust](https://symbolica.io/posts/symbolica_2_0_release/) - The release of Symbolica 2.0 brings a new way for developers to implement programmable symbols in Python and Rust. [Comments](https://lobste.rs/s/zpjc05/symbolica_2_0_programmable_symbols_for)
+
+* [pg_durable: Microsoft open sources in-database durable execution](https://github.com/microsoft/pg_durable) - Microsoft's open-source project introduces advancements in database execution durability. [Comments](https://news.ycombinator.com/item?id=48414367)
+
+* [Stop Using Conventional Commits](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/) - A critique of the conventional commit messages format commonly utilized in collaborative development. [Comments](https://news.ycombinator.com/item?id=48414027)
+
+* [Centrality in the DNS](https://www.potaroo.net/ispcol/2026-05/dns-centrality.html) - Exploration of the structural dynamics and dependencies within the Domain Name System. [Comments](https://lobste.rs/s/vyk80p/centrality_dns)
+
+* [I tested every IP KVM in my Homelab](https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/) - A hands-on review of diverse IP KVM solutions for optimizing homelab setups. [Comments](https://news.ycombinator.com/item?id=48413072)
 
 ---
 
@@ -69,33 +77,42 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-06-05, 17:26:44](https://lobste.rs/s/vyk80p/centrality_dns) - [Centrality in the DNS](https://www.potaroo.net/ispcol/2026-05/dns-centrality.html)
+* [2026-06-05, 17:13:13](https://lobste.rs/s/zpjc05/symbolica_2_0_programmable_symbols_for) - [Symbolica 2.0: programmable symbols for Python and Rust](https://symbolica.io/posts/symbolica_2_0_release/)
+* [2026-06-05, 17:00:00](https://tech.slashdot.org/story/26/06/05/1531211/google-says-it-will-replenish-more-water-than-it-uses-at-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Says It Will Replenish More Water Than It Uses At Data Centers](https://tech.slashdot.org/story/26/06/05/1531211/google-says-it-will-replenish-more-water-than-it-uses-at-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-05, 16:06:36](https://news.ycombinator.com/item?id=48414479) - [U.S. Military Turned GPS into a Global \&quot;Numbers Station\&quot;](https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/)
+* [2026-06-05, 16:00:00](https://hardware.slashdot.org/story/26/06/05/1525247/valve-says-steam-machine-shipping-this-summer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Valve Says Steam Machine &apos;Shipping This Summer&apos;](https://hardware.slashdot.org/story/26/06/05/1525247/valve-says-steam-machine-shipping-this-summer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-05, 15:59:57](https://news.ycombinator.com/item?id=48414367) - [pg_durable: Microsoft open sources in-database durable execution](https://github.com/microsoft/pg_durable)
+* [2026-06-05, 15:54:53](https://lobste.rs/s/btax6j/polyform_licenses) - [PolyForm Licenses](https://polyformproject.org/licenses)
+* [2026-06-05, 15:39:38](https://news.ycombinator.com/item?id=48414027) - [Stop Using Conventional Commits](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/)
+* [2026-06-05, 15:32:58](https://news.ycombinator.com/item?id=48413924) - [Leak Reveals Microsoft Wants Its AI to Be &apos;Addictive&apos;](https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924)
 * [2026-06-05, 15:20:00](https://science.slashdot.org/story/26/06/05/1515246/iss-astronauts-told-to-prepare-for-possible-evacuation-over-air-leak?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ISS Astronauts Told To Prepare For Possible Evacuation Over Air Leak](https://science.slashdot.org/story/26/06/05/1515246/iss-astronauts-told-to-prepare-for-possible-evacuation-over-air-leak?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-05, 15:13:54](https://news.ycombinator.com/item?id=48413629) - [Ask HN: What is your (AI) dev tech stack / workflow? (June 2026)](https://news.ycombinator.com/item?id=48413629)
+* [2026-06-05, 15:00:31](https://news.ycombinator.com/item?id=48413464) - [Astronauts on ISS told to shelter as repairs under way to fix air leaks](https://www.bbc.com/news/live/c4g44ew3g1kt)
+* [2026-06-05, 14:48:44](https://news.ycombinator.com/item?id=48413295) - [Dutch gov&apos;t will only allow European company to operate DigiD platform](https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform)
+* [2026-06-05, 14:30:50](https://news.ycombinator.com/item?id=48413072) - [I tested every IP KVM in my Homelab](https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/)
 * [2026-06-05, 13:40:18](https://lobste.rs/s/dku5yb/how_do_you_sieve_filter_manage_your) - [How do you sieve/filter/manage your internet mail?](https://lobste.rs/s/dku5yb/how_do_you_sieve_filter_manage_your)
 * [2026-06-05, 13:07:50](https://lobste.rs/s/a7v7e5/empty_field_wasn_t_gps_broadcasts_numbers) - [The Empty Field That Wasn&apos;t: GPS Broadcasts a Numbers Station](https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&amp;p=62&amp;view=issueViewer)
+* [2026-06-05, 12:30:17](https://news.ycombinator.com/item?id=48411510) - [Programmers will document for Claude, but not for each other](https://blog.plover.com/2026/03/09/#documentation-wins-2)
 * [2026-06-05, 12:21:00](https://soylentnews.org/article.pl?sid=26/06/05/0055245&amp;from=rss) - [The Newest Instagram \&quot;Exploit\&quot; is the Goofiest I&apos;ve Seen](https://soylentnews.org/article.pl?sid=26/06/05/0055245&amp;from=rss)
-* [2026-06-05, 12:16:40](https://news.ycombinator.com/item?id=48411382) - [Investigation: Russian censorship systems (TMCT) expose Chinese DPI signatures](https://freenet.monster/china-unicom.html?lang=en)
 * [2026-06-05, 12:00:18](https://news.ycombinator.com/item?id=48411227) - [Nango (YC W23, dev infra) is hiring staff back end engineers](https://nango.dev/careers)
-* [2026-06-05, 11:56:27](https://news.ycombinator.com/item?id=48411190) - [Ultra-processed foods in the global food system: The role of tobacco companies](https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501)
 * [2026-06-05, 11:08:39](https://lobste.rs/s/u9j9u4/pivco_huffman) - [PivCo-Huffman](https://marcinzukowski.github.io/pivco-huffman/paper-1.0/ph.html)
-* [2026-06-05, 10:44:48](https://news.ycombinator.com/item?id=48410602) - [Communication on European Tech Sovereignty, and an EU Open-Source Strategy](https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy)
-* [2026-06-05, 09:10:42](https://news.ycombinator.com/item?id=48409955) - [Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens](https://github.com/zdk/lowfat)
 * [2026-06-05, 08:57:48](https://lobste.rs/s/vzutqp/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/vzutqp/what_are_you_doing_this_weekend)
 * [2026-06-05, 08:33:37](https://news.ycombinator.com/item?id=48409675) - [Entanglement Builds Space-Time. Now \&quot;Magic\&quot; Gives It Gravity](https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/)
 * [2026-06-05, 08:32:16](https://news.ycombinator.com/item?id=48409664) - [Tracing a powerful GNSS interference source over Europe](https://arxiv.org/abs/2606.03673)
 * [2026-06-05, 08:27:32](https://lobste.rs/s/db2owo/changing_how_we_develop_ladybird) - [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
 * [2026-06-05, 07:40:04](https://news.ycombinator.com/item?id=48409306) - [ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol](https://github.com/geo-tp/ESP32-Bit-Pirate)
 * [2026-06-05, 07:37:00](https://soylentnews.org/article.pl?sid=26/06/05/0051235&amp;from=rss) - [‘Bots have now passed human traffic online,’ Cloudflare Boss Laments    ](https://soylentnews.org/article.pl?sid=26/06/05/0051235&amp;from=rss)
-* [2026-06-05, 07:26:33](https://news.ycombinator.com/item?id=48409191) - [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
+* [2026-06-05, 07:26:33](https://news.ycombinator.com/item?id=48409191) - [Changing how we develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
+* [2026-06-05, 07:23:44](https://news.ycombinator.com/item?id=48409173) - [Lee Kuan Yew&apos;s Singapore Story (2023)](https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story)
 * [2026-06-05, 07:00:00](https://hardware.slashdot.org/story/26/06/04/1955206/used-waymo-robotaxi-batteries-become-backup-storage-for-power-grids?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Used Waymo Robotaxi Batteries Become Backup Storage For Power Grids](https://hardware.slashdot.org/story/26/06/04/1955206/used-waymo-robotaxi-batteries-become-backup-storage-for-power-grids?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-05, 06:32:38](https://lobste.rs/s/2bfsek/eu_tech_sovereignty_plan) - [The EU tech sovereignty plan](https://hamishcampbell.com/the-eus-tech-sovereignty-plan/)
 * [2026-06-05, 05:46:06](https://news.ycombinator.com/item?id=48408442) - [Fine-tuning an LLM to write docs like it&apos;s 1995](https://passo.uno/fine-tuning-docs-llm/)
 * [2026-06-05, 04:44:48](https://news.ycombinator.com/item?id=48408067) - [The IsUpMap lets you check the status of over 100 major sites at once](https://isupmap.com/)
 * [2026-06-05, 04:37:01](https://news.ycombinator.com/item?id=48408016) - [C++: The Documentary](https://herbsutter.com/2026/06/04/c-the-documentary-released-today/)
-* [2026-06-05, 03:40:02](https://news.ycombinator.com/item?id=48407653) - [Linear Cosine Palettes(2025)](https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/)
 * [2026-06-05, 03:30:00](https://science.slashdot.org/story/26/06/04/2016228/bees-can-use-tools-to-solve-problems-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bees Can Use Tools To Solve Problems, Study Finds](https://science.slashdot.org/story/26/06/04/2016228/bees-can-use-tools-to-solve-problems-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-05, 03:02:01](https://lobste.rs/s/giob6a/ladybird_browser_update_may_2026) - [Ladybird browser update (May 2026)](https://www.youtube.com/watch?v=GZoLy5e8y-4)
+* [2026-06-05, 03:14:28](https://news.ycombinator.com/item?id=48407499) - [Azure Linux 4.0 is Microsoft&apos;s first general-purpose Linux](https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/)
 * [2026-06-05, 02:52:00](https://soylentnews.org/article.pl?sid=26/06/04/1033248&amp;from=rss) - [Troops’ Phones Gave Away Location Data to Foreign Adversaries](https://soylentnews.org/article.pl?sid=26/06/04/1033248&amp;from=rss)
-* [2026-06-05, 02:48:44](https://news.ycombinator.com/item?id=48407368) - [Delacroix&apos;s Entry of the Crusaders into Constantinople Restored](https://www.louvre.fr/en/explore/life-at-the-museum/delacroix-s-entry-of-the-crusaders-into-constantinople-restored-to-its-original-glory)
 * [2026-06-05, 02:06:52](https://lobste.rs/s/y6a6cg/warren_s_abstract_machine_tutorial) - [Warren&apos;s Abstract Machine: A Tutorial Reconstruction](https://github.com/a-yiorgos/wambook)
 * [2026-06-05, 01:24:45](https://lobste.rs/s/onbcu5/code_is_cheap_er) - [Code is Cheap(er)](https://htmx.org/essays/code-is-cheap/)
 * [2026-06-05, 00:53:45](https://lobste.rs/s/pmduqk/when_su_replaced_login_for_becoming) - [When su replaced login for becoming another Unix login](https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement)
@@ -105,7 +122,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-04, 23:25:37](https://lobste.rs/s/mcyag5/learning_j_part_i) - [Learning J – Part I](https://drj11.wordpress.com/2007/04/09/learning-j-part-i/)
 * [2026-06-04, 23:11:56](https://news.ycombinator.com/item?id=48405931) - [Do transformers need three projections? Systematic study of QKV variants](https://arxiv.org/abs/2606.04032)
 * [2026-06-04, 23:00:00](https://slashdot.org/story/26/06/04/204255/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Urges Global Pause in AI Development, Flags &apos;Self-Improvement&apos; Risk](https://slashdot.org/story/26/06/04/204255/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-04, 22:48:19](https://news.ycombinator.com/item?id=48405718) - [SpaceX, Other Mega IPOs Denied Fast Index Entry by S&amp;P](https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation)
 * [2026-06-04, 22:19:28](https://lobste.rs/s/jlw6bq/branchless_quicksort) - [Branchless Quicksort](https://tiki.li/blog/blqsort)
 * [2026-06-04, 22:08:00](https://soylentnews.org/article.pl?sid=26/06/04/1030202&amp;from=rss) - [DuckDuckGo Installs Are Up 30% as Users Reject Being ‘Force-Fed’ Google&apos;s AI Search](https://soylentnews.org/article.pl?sid=26/06/04/1030202&amp;from=rss)
 * [2026-06-04, 22:00:00](https://it.slashdot.org/story/26/06/04/1948205/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New IronWorm Malware Hits 36 Packages In npm Supply-Chain Attack](https://it.slashdot.org/story/26/06/04/1948205/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -115,7 +131,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-04, 20:11:20](https://news.ycombinator.com/item?id=48403980) - [Anthropic&apos;s open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness)
 * [2026-06-04, 20:00:00](https://meta.slashdot.org/story/26/06/04/181247/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Keeps Delaying the Release of Its New AI Model to Developers](https://meta.slashdot.org/story/26/06/04/181247/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-04, 19:47:34](https://lobste.rs/s/cubjpv/reproducible_builds_may_2026) - [Reproducible Builds in May 2026](https://reproducible-builds.org/reports/2026-05/)
-* [2026-06-04, 19:39:01](https://lobste.rs/s/eriaol/terminal_tty_shell) - [The terminal, the TTY, and the shell](https://lfg.popovicu.com/series/the-shell-as-a-language/terminal-tty-and-shell/)
 * [2026-06-04, 19:07:50](https://lobste.rs/s/3khvsa/tmux_plugin_quickly_switch_between) - [Tmux plugin to quickly switch between sessions](https://github.com/maxonvim/tmux-underkeys)
 * [2026-06-04, 19:00:00](https://tech.slashdot.org/story/26/06/04/1740244/linkedin-china-spying-threat-prompts-warning-from-us-allies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [LinkedIn China Spying Threat Prompts Warning From US, Allies](https://tech.slashdot.org/story/26/06/04/1740244/linkedin-china-spying-threat-prompts-warning-from-us-allies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-04, 18:00:00](https://yro.slashdot.org/story/26/06/04/1722208/supreme-court-sides-with-trump-administration-on-federal-regulation-of-telecom-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Supreme Court Sides With Trump Administration On Federal Regulation of Telecom Companies](https://yro.slashdot.org/story/26/06/04/1722208/supreme-court-sides-with-trump-administration-on-federal-regulation-of-telecom-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -127,13 +142,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-04, 16:00:00](https://apple.slashdot.org/story/26/06/04/0546207/apple-is-bringing-age-verification-to-texas-this-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Is Bringing Age Verification To Texas This Week](https://apple.slashdot.org/story/26/06/04/0546207/apple-is-bringing-age-verification-to-texas-this-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-04, 15:00:00](https://tech.slashdot.org/story/26/06/04/0054242/google-ordered-to-put-clearer-links-in-ai-search-let-uk-publishers-opt-out?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Ordered To Put Clearer Links In AI Search, Let UK Publishers Opt Out](https://tech.slashdot.org/story/26/06/04/0054242/google-ordered-to-put-clearer-links-in-ai-search-let-uk-publishers-opt-out?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-04, 12:43:00](https://soylentnews.org/article.pl?sid=26/06/02/0713224&amp;from=rss) - [Moderna Gets $50 Million To Develop MRNA Ebola Vaccine Against Bundibugyo](https://soylentnews.org/article.pl?sid=26/06/02/0713224&amp;from=rss)
-* [2026-06-04, 12:33:04](https://lobste.rs/s/ri4flr/ai_enthusiasts_are_race_against_time_ai) - [AI enthusiasts are in a race against time, AI skeptics are in a race against entropy](https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against)
 * [2026-06-04, 11:00:00](https://science.slashdot.org/story/26/06/04/0554208/nasa-says-goodbye-to-its-longtime-mars-maven-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Says Goodbye to Its Longtime Mars MAVEN Mission ](https://science.slashdot.org/story/26/06/04/0554208/nasa-says-goodbye-to-its-longtime-mars-maven-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-04, 07:58:00](https://soylentnews.org/article.pl?sid=26/06/02/0711209&amp;from=rss) - [Angry Devs Vow To Flee GitHub Copilot As Metered Billing Takes Hold](https://soylentnews.org/article.pl?sid=26/06/02/0711209&amp;from=rss)
 * [2026-06-04, 07:52:00](https://lobste.rs/s/7jt1ix/c_standard_library_has_been_walking) - [The C++ Standard Library Has Been Walking Itself Back for Fifteen Years, and the Receipts Are Public](https://hftuniversity.com/post/the-c-standard-library-has-been-walking-itself-back-for-fifteen-years-and-the-receipts-are-public)
 * [2026-06-04, 07:19:22](https://lobste.rs/s/r7by0p/extension_imitation_can_you_tell_valid) - [Extension or Imitation? Can you tell the valid Haskell Language Extensions, from the Impostors?](https://doscienceto.it/extension-or-imitation/)
-* [2026-06-04, 07:00:00](https://entertainment.slashdot.org/story/26/06/04/0531213/amazons-new-stargate-series-is-officially-dead?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon&apos;s New Stargate Series Is Officially Dead](https://entertainment.slashdot.org/story/26/06/04/0531213/amazons-new-stargate-series-is-officially-dead?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-04, 03:30:00](https://tech.slashdot.org/story/26/06/04/0043253/demand-is-booming-for-new-no-tech-repairable-tractor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Demand Is Booming For New No Tech, Repairable Tractor](https://tech.slashdot.org/story/26/06/04/0043253/demand-is-booming-for-new-no-tech-repairable-tractor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-04, 03:14:00](https://soylentnews.org/article.pl?sid=26/06/02/077231&amp;from=rss) - [Distrowatch Celebrates its 25th Anniversary](https://soylentnews.org/article.pl?sid=26/06/02/077231&amp;from=rss)
 * [2026-06-03, 22:26:00](https://soylentnews.org/article.pl?sid=26/06/02/062240&amp;from=rss) - [An OpenAI Model Solved A Famous Math Problem That Stumped Humans For 80 Years](https://soylentnews.org/article.pl?sid=26/06/02/062240&amp;from=rss)
 * [2026-06-03, 20:09:08](https://lobste.rs/s/g6lkw1/my_software_north_star) - [My Software North Star](https://kristoff.it/blog/north-star/)
@@ -149,17 +161,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-02, 23:11:13](https://news.ycombinator.com/item?id=48377510) - [databow: a Rust CLI to query any database with an ADBC driver](https://columnar.tech/blog/introducing-databow//)
 * [2026-06-02, 22:37:00](https://soylentnews.org/article.pl?sid=26/06/01/120212&amp;from=rss) - [Researchers Say They Can Spy on Your Browsing by Measuring SSD Activity Through a Browser API](https://soylentnews.org/article.pl?sid=26/06/01/120212&amp;from=rss)
 * [2026-06-02, 20:43:39](https://news.ycombinator.com/item?id=48376008) - [I&apos;m skeptical about efforts to revolutionize schooling](https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/)
-* [2026-06-02, 20:00:54](https://news.ycombinator.com/item?id=48375445) - [Branchless Quicksort faster than std:sort and pdqsort with C and C++ API](https://tiki.li/blog/blqsort)
-* [2026-06-02, 18:18:01](https://news.ycombinator.com/item?id=48374049) - [Watching a Z80 from an RP2350](https://emalliab.wordpress.com/2026/05/26/watching-a-z80-from-an-rp2350/)
 * [2026-06-02, 17:52:00](https://soylentnews.org/article.pl?sid=26/06/01/1154226&amp;from=rss) - [Rust Will Save Linux From AI, Says Greg Kroah-Hartman](https://soylentnews.org/article.pl?sid=26/06/01/1154226&amp;from=rss)
 * [2026-06-02, 13:07:00](https://soylentnews.org/politics/article.pl?sid=26/06/01/1149213&amp;from=rss) - [US Law Enforcement Warns of \&quot;Anti-Tech Extremism\&quot; as AI Hatred Grows](https://soylentnews.org/politics/article.pl?sid=26/06/01/1149213&amp;from=rss)
-* [2026-06-02, 12:02:36](https://news.ycombinator.com/item?id=48369105) - [Ohbin – uv wrapper for installing tools from GitHub](https://github.com/prostomarkeloff/ohbin)
 * [2026-06-02, 08:24:00](https://soylentnews.org/article.pl?sid=26/06/01/1138224&amp;from=rss) - [Researcher Develops &apos;Spray-On&apos; Stealth Coating For Drones](https://soylentnews.org/article.pl?sid=26/06/01/1138224&amp;from=rss)
 * [2026-06-02, 06:29:00](https://soylentnews.org/meta/article.pl?sid=26/06/02/0621229&amp;from=rss) - [Please see kolie&apos;s journal!](https://soylentnews.org/meta/article.pl?sid=26/06/02/0621229&amp;from=rss)
 * [2026-06-02, 03:39:00](https://soylentnews.org/article.pl?sid=26/06/01/1131223&amp;from=rss) - [CIFSwitch Vulnerability Exposes Some Linux Distros to Local Root Access](https://soylentnews.org/article.pl?sid=26/06/01/1131223&amp;from=rss)
 * [2026-06-01, 22:54:00](https://soylentnews.org/article.pl?sid=26/06/01/027245&amp;from=rss) - [After $2.5 Billion Supermicro Smuggling Bust, Nvidia CEO Urges Company To Fix Export Compliance](https://soylentnews.org/article.pl?sid=26/06/01/027245&amp;from=rss)
 * [2026-06-01, 17:12:00](https://soylentnews.org/article.pl?sid=26/06/01/023237&amp;from=rss) - [Bezos Rocket Fell Short After Cryogenic Leak Cut Engine Thrust](https://soylentnews.org/article.pl?sid=26/06/01/023237&amp;from=rss)
 * [2026-06-01, 12:19:00](https://soylentnews.org/article.pl?sid=26/06/01/021214&amp;from=rss) - [Drone Breaks World Speed Record With 453 Mph In Test Run](https://soylentnews.org/article.pl?sid=26/06/01/021214&amp;from=rss)
-* [2026-06-01, 08:39:31](https://news.ycombinator.com/item?id=48354136) - [Go Experiments Explained](https://www.alexedwards.net/blog/go-experiments-explained)
 * [2026-06-01, 07:37:00](https://soylentnews.org/article.pl?sid=26/05/31/0238226&amp;from=rss) - [Japanese Space Agency Names Arrival Date For BepiColombo Mercury Mission](https://soylentnews.org/article.pl?sid=26/05/31/0238226&amp;from=rss)
 * [2026-06-01, 02:58:00](https://soylentnews.org/article.pl?sid=26/05/31/0236235&amp;from=rss) - [Microcode Inside the Intel 8087 Floating-point Chip: Register Exchange ](https://soylentnews.org/article.pl?sid=26/05/31/0236235&amp;from=rss)
