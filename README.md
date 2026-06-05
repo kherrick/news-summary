@@ -1,56 +1,56 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology Advancements
+## Partnerships and Acquisitions
 
-* [Google to pay SpaceX $920M a month for compute capacity at xAI data centers](https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html) [Comments](https://news.ycombinator.com/item?id=48417490)
+* [Google Will Pay SpaceX $920 Million Per Month For Compute](https://hardware.slashdot.org/story/26/06/05/2017239/google-will-pay-spacex-920-million-per-month-for-compute?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google's significant investment highlights the growing cooperation between tech giants and space exploration firms.
 
-* [Mantine-datatable (and others) compromised – owner account suspended](https://github.com/icflorescu/mantine-datatable/discussions/813) [Comments](https://news.ycombinator.com/item?id=48414978)
+* [GOV.UK Goes Dutch On Payments As It Dumps Stripe](https://news.slashdot.org/story/26/06/05/1839258/govuk-goes-dutch-on-payments-as-it-dumps-stripe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Major payments shift as the UK government platform transitions from Stripe to a Dutch provider. [Related discussion.](https://news.ycombinator.com/item?id=48415217)
 
-* [‘Bots have now passed human traffic online,’ Cloudflare Boss Laments](https://soylentnews.org/article.pl?sid=26/06/05/0051235&amp;from=rss) [Comments](https://soylentnews.org/article.pl?sid=26/06/05/0051235&amp;from=rss)
+## Technology and Innovation
 
-* [C++: The Documentary](https://herbsutter.com/2026/06/04/c-the-documentary-released-today/) [Comments](https://news.ycombinator.com/item?id=48408016)
+* [Hacker News, Sans AI](https://elijahpotter.dev/articles/hacker-news-sans-AI) - An effort to present a version of Hacker News devoid of AI involvement. [Related discussion.](https://news.ycombinator.com/item?id=48417916)
 
-* [Companies Are Using Reddit To Manipulate ChatGPT and Google AI Search](https://tech.slashdot.org/story/26/06/04/1828244/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [pg_durable: PostgreSQL in-database durable execution](https://github.com/microsoft/pg_durable) - Microsoft's innovative initiative facilitating durable execution within PostgreSQL. [Related discussion.](https://news.ycombinator.com/item?id=48414367)
 
-## Science and Engineering Breakthroughs
+* [Symbolica 2.0: programmable symbols for Python and Rust](https://symbolica.io/posts/symbolica_2_0_release/) - Explore the new programmable symbols tool for streamlined workflows in Python and Rust.
 
-* [Entanglement Builds Space-Time. Now 'Magic' Gives It Gravity](https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/) [Comments](https://news.ycombinator.com/item?id=48409675)
+* [Entanglement Builds Space-Time. Now 'Magic' Gives It Gravity](https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/) - Delve into how quantum entanglement and a phenomenon dubbed 'magic' contribute to the understanding of gravity. [Related discussion.](https://news.ycombinator.com/item?id=48409675)
 
-* [New method turns ocean water into drinking water, without waste](https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/) [Comments](https://news.ycombinator.com/item?id=48413500)
+## Science and Environment
 
-* [An OpenAI Model Solved A Famous Math Problem That Stumped Humans For 80 Years](https://soylentnews.org/article.pl?sid=26/06/02/062240&amp;from=rss) [Comments](https://soylentnews.org/article.pl?sid=26/06/02/062240&amp;from=rss)
+* [New method turns ocean water into drinking water, without waste](https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/) - Groundbreaking desalination technology transforms ocean water into potable water without producing harmful by-products. [Related discussion.](https://news.ycombinator.com/item?id=48413500)
 
-* [Bees Can Use Tools To Solve Problems, Study Finds](https://science.slashdot.org/story/26/06/04/2016228/bees-can-use-tools-to-solve-problems-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [Comments](https://science.slashdot.org/story/26/06/04/2016228/bees-can-use-tools-to-solve-problems-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [ISS Astronauts Told To Prepare For Possible Evacuation Over Air Leak](https://science.slashdot.org/story/26/06/05/1515246/iss-astronauts-told-to-prepare-for-possible-evacuation-over-air-leak?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Astronauts aboard the ISS deal with a critical situation involving a potential air leak. [Related story.](https://www.bbc.com/news/live/c4g44ew3g1kt)
 
-## Space and Science Policy
+* [Bees Can Use Tools To Solve Problems, Study Finds](https://science.slashdot.org/story/26/06/04/2016228/bees-can-use-tools-to-solve-problems-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Research reveals new insights into the sophisticated cognitive abilities of bees.
 
-* [ISS Astronauts Told To Prepare For Possible Evacuation Over Air Leak](https://science.slashdot.org/story/26/06/05/1515246/iss-astronauts-told-to-prepare-for-possible-evacuation-over-air-leak?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [Comments](https://news.ycombinator.com/item?id=48413464)
+## Challenges in Technology
 
-* [Japanese Space Agency Names Arrival Date For BepiColombo Mercury Mission](https://soylentnews.org/article.pl?sid=26/05/31/0238226&amp;from=rss) [Comments](https://soylentnews.org/article.pl?sid=26/05/31/0238226&amp;from=rss)
+* [Bitcoin Falls To $60,000 As Zcash Bug Rocks Crypto](https://it.slashdot.org/story/26/06/05/202230/bitcoin-falls-to-60000-as-zcash-bug-rocks-crypto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Explore how a major bug in Zcash causes ripples in the cryptocurrency market.
 
-* [Musk Says US Military Suicide Drones Used Starlink In Violation Of SpaceX Rules](https://soylentnews.org/article.pl?sid=26/06/02/0356255&amp;from=rss) [Comments](https://soylentnews.org/article.pl?sid=26/06/02/0356255&amp;from=rss)
+* [Mantine-datatable (and others) compromised – owner account suspended](https://github.com/icflorescu/mantine-datatable/discussions/813) - The account suspension and discussion surround the fallout of compromised packages.
 
-## Business and Economy
+* [Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)](https://www.githubstatus.com/incidents/2nmfnbknhlnv) - An incident leading to lost chat subscriptions invites scrutiny on process management.
 
-* [Ohio Hits Pause On Datacenter Tax Breaks Draining Its Coffers](https://soylentnews.org/article.pl?sid=26/06/05/010227&amp;from=rss) [Comments](https://news.ycombinator.com/item?id=48414367)
+## Open Source Developments
 
-* [Dutch gov't will only allow European company to operate DigiD platform](https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform) [Comments](https://news.ycombinator.com/item?id=48413295)
+* [Win16 Memory Management](http://www.os2museum.com/wp/win16-memory-management/) - A retrospective look at Windows' 16-bit memory management system.
 
-* [Samsung Ditches New Jersey For Texas, Costing Garden State 1,000 Jobs](https://slashdot.org/story/26/06/04/0540213/samsung-ditches-new-jersey-for-texas-costing-garden-state-1000-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [Comments](https://slashdot.org/story/26/06/04/0540213/samsung-ditches-new-jersey-for-texas-costing-garden-state-1000-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [jujutsu v0.42.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.42.0) - Details on the latest major release of the version control system for software developers.
 
-## Cybersecurity and Data Privacy
+* [Warren's Abstract Machine: A Tutorial Reconstruction](https://github.com/a-yiorgos/wambook) - Learn about Warren's Abstract Machine with this detailed tutorial guide.
 
-* [New IronWorm Malware Hits 36 Packages In npm Supply-Chain Attack](https://it.slashdot.org/story/26/06/04/1948205/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [Comments](https://news.ycombinator.com/item?id=48415217)
+## Politics, Society, and Observation
 
-* [Troops’ Phones Gave Away Location Data to Foreign Adversaries](https://soylentnews.org/article.pl?sid=26/06/04/1033248&amp;from=rss) [Comments](https://soylentnews.org/article.pl?sid=26/06/04/1033248&amp;from=rss)
+* [India's surprise baby bust](https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world) - An unexpected demographic shift highlights broader social and economic implications, raising global concerns.
 
-* [DuckDuckGo Installs Are Up 30% as Users Reject Being ‘Force-Fed’ Google’s AI Search](https://soylentnews.org/article.pl?sid=26/06/04/1030202&amp;from=rss) [Comments](https://soylentnews.org/article.pl?sid=26/06/04/1030202&amp;from=rss)
+* [‘Bots have now passed human traffic online,’ Cloudflare Boss Laments](https://soylentnews.org/article.pl?sid=26/06/05/0051235&amp;from=rss) - Concerns rise as automated traffic surpasses human interaction on the internet.
 
-## Sustainability and Environment
+## Space and Exploration
 
-* [Google Says It Will Replenish More Water Than It Uses At Data Centers](https://tech.slashdot.org/story/26/06/05/1531211/google-says-it-will-replenish-more-water-than-it-uses-at-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [Comments](https://news.ycombinator.com/item?id=48414862)
+* [Used Waymo Robotaxi Batteries Become Backup Storage For Power Grids](https://hardware.slashdot.org/story/26/06/04/1955206/used-waymo-robotaxi-batteries-become-backup-storage-for-power-grids?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Exploring the innovative reuse of autonomous vehicle batteries for renewable energy purposes.
 
-* [Used Waymo Robotaxi Batteries Become Backup Storage For Power Grids](https://hardware.slashdot.org/story/26/06/04/1955206/used-waymo-robotaxi-batteries-become-backup-storage-for-power-grids?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) [Comments](https://hardware.slashdot.org/story/26/06/04/1955206/used-waymo-robotaxi-batteries-become-backup-storage-for-power-grids?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Japanese Space Agency Names Arrival Date For BepiColombo Mercury Mission](https://soylentnews.org/article.pl?sid=26/05/31/0238226&amp;from=rss) - Landmark announcement on the targeted arrival date of the groundbreaking Mercury mission.
 
 ---
 
@@ -77,7 +77,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-06-05, 20:06:36](https://news.ycombinator.com/item?id=48417490) - [Google to pay SpaceX $920M a month for compute capacity at xAI data centers](https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html)
+* [2026-06-05, 22:00:00](https://hardware.slashdot.org/story/26/06/05/2017239/google-will-pay-spacex-920-million-per-month-for-compute?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Will Pay SpaceX $920 Million Per Month For Compute](https://hardware.slashdot.org/story/26/06/05/2017239/google-will-pay-spacex-920-million-per-month-for-compute?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-05, 21:00:00](https://it.slashdot.org/story/26/06/05/202230/bitcoin-falls-to-60000-as-zcash-bug-rocks-crypto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bitcoin Falls To $60,000 As Zcash Bug Rocks Crypto](https://it.slashdot.org/story/26/06/05/202230/bitcoin-falls-to-60000-as-zcash-bug-rocks-crypto?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-05, 20:38:40](https://news.ycombinator.com/item?id=48417916) - [Hacker News, Sans AI](https://elijahpotter.dev/articles/hacker-news-sans-AI)
+* [2026-06-05, 20:28:19](https://lobste.rs/s/k9wvkn/pg_durable_postgresql_database_durable) - [pg_durable: PostgreSQL in-database durable execution](https://github.com/microsoft/pg_durable)
+* [2026-06-05, 20:00:00](https://news.slashdot.org/story/26/06/05/1910242/340-local-news-outlets-now-blocking-the-internet-archive?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [340 Local News Outlets Now Blocking the Internet Archive](https://news.slashdot.org/story/26/06/05/1910242/340-local-news-outlets-now-blocking-the-internet-archive?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-05, 19:15:36](https://news.ycombinator.com/item?id=48416936) - [Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)](https://www.githubstatus.com/incidents/2nmfnbknhlnv)
 * [2026-06-05, 19:08:12](https://news.ycombinator.com/item?id=48416845) - [Three of our worst VC stories](https://twitter.com/eastdakota/status/2062860530360959273)
 * [2026-06-05, 19:00:00](https://news.slashdot.org/story/26/06/05/1839258/govuk-goes-dutch-on-payments-as-it-dumps-stripe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GOV.UK Goes Dutch On Payments As It Dumps Stripe](https://news.slashdot.org/story/26/06/05/1839258/govuk-goes-dutch-on-payments-as-it-dumps-stripe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -93,7 +97,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-05, 16:55:30](https://news.ycombinator.com/item?id=48415217) - [Gov.uk has replaced Stripe with Dutch provider Adyen](https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763)
 * [2026-06-05, 16:39:57](https://news.ycombinator.com/item?id=48414978) - [Mantine-datatable (and others) compromised – owner account suspended](https://github.com/icflorescu/mantine-datatable/discussions/813)
 * [2026-06-05, 16:33:00](https://news.ycombinator.com/item?id=48414869) - [Launch HN: General Instinct (YC P26) – Frontier models on edge devices](https://news.ycombinator.com/item?id=48414869)
-* [2026-06-05, 16:32:38](https://news.ycombinator.com/item?id=48414862) - [The company I work for is losing all of its humanity, I don&apos;t know where to go](https://superlemon.bearblog.dev/the-company-i-work-for-is-losing-all-of-its-humanity-but-i-dont-know-where-else-to-go/)
 * [2026-06-05, 16:18:48](https://news.ycombinator.com/item?id=48414653) - [Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency](https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/)
 * [2026-06-05, 16:00:00](https://hardware.slashdot.org/story/26/06/05/1525247/valve-says-steam-machine-shipping-this-summer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Valve Says Steam Machine &apos;Shipping This Summer&apos;](https://hardware.slashdot.org/story/26/06/05/1525247/valve-says-steam-machine-shipping-this-summer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-05, 15:59:57](https://news.ycombinator.com/item?id=48414367) - [pg_durable: Microsoft open sources in-database durable execution](https://github.com/microsoft/pg_durable)
@@ -107,6 +110,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-05, 14:30:50](https://news.ycombinator.com/item?id=48413072) - [I tested every IP KVM in my Homelab](https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/)
 * [2026-06-05, 13:40:18](https://lobste.rs/s/dku5yb/how_do_you_sieve_filter_manage_your) - [How do you sieve/filter/manage your internet mail?](https://lobste.rs/s/dku5yb/how_do_you_sieve_filter_manage_your)
 * [2026-06-05, 13:07:50](https://lobste.rs/s/a7v7e5/empty_field_wasn_t_gps_broadcasts_numbers) - [The Empty Field That Wasn&apos;t: GPS Broadcasts a Numbers Station](https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&amp;p=62&amp;view=issueViewer)
+* [2026-06-05, 12:56:44](https://news.ycombinator.com/item?id=48411799) - [The Empty Field That Wasn&apos;t: GPS Broadcasts a Numbers Station](https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&amp;p=62&amp;view=issueViewer)
 * [2026-06-05, 12:43:33](https://news.ycombinator.com/item?id=48411635) - [Did Claude increase bugs in rsync?](https://alexispurslane.github.io/rsync-analysis/)
 * [2026-06-05, 12:21:00](https://soylentnews.org/article.pl?sid=26/06/05/0055245&amp;from=rss) - [The Newest Instagram \&quot;Exploit\&quot; is the Goofiest I&apos;ve Seen](https://soylentnews.org/article.pl?sid=26/06/05/0055245&amp;from=rss)
 * [2026-06-05, 12:00:18](https://news.ycombinator.com/item?id=48411227) - [Nango (YC W23, dev infra) is hiring staff back end engineers](https://nango.dev/careers)
@@ -117,6 +121,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-05, 08:32:16](https://news.ycombinator.com/item?id=48409664) - [Tracing a powerful GNSS interference source over Europe](https://arxiv.org/abs/2606.03673)
 * [2026-06-05, 08:27:32](https://lobste.rs/s/db2owo/changing_how_we_develop_ladybird) - [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
 * [2026-06-05, 07:37:00](https://soylentnews.org/article.pl?sid=26/06/05/0051235&amp;from=rss) - [‘Bots have now passed human traffic online,’ Cloudflare Boss Laments    ](https://soylentnews.org/article.pl?sid=26/06/05/0051235&amp;from=rss)
+* [2026-06-05, 07:26:33](https://news.ycombinator.com/item?id=48409191) - [Changing how we develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
 * [2026-06-05, 07:00:00](https://hardware.slashdot.org/story/26/06/04/1955206/used-waymo-robotaxi-batteries-become-backup-storage-for-power-grids?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Used Waymo Robotaxi Batteries Become Backup Storage For Power Grids](https://hardware.slashdot.org/story/26/06/04/1955206/used-waymo-robotaxi-batteries-become-backup-storage-for-power-grids?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-05, 06:32:38](https://lobste.rs/s/2bfsek/eu_tech_sovereignty_plan) - [The EU tech sovereignty plan](https://hamishcampbell.com/the-eus-tech-sovereignty-plan/)
 * [2026-06-05, 04:37:01](https://news.ycombinator.com/item?id=48408016) - [C++: The Documentary](https://herbsutter.com/2026/06/04/c-the-documentary-released-today/)
@@ -136,16 +141,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-04, 21:09:47](https://lobste.rs/s/lcnc5e/ipv6_zones_urls_are_mistake) - [IPv6 zones in URLs are a mistake](https://xeiaso.net/notes/2026/ipv6-zones-go-url/)
 * [2026-06-04, 21:00:00](https://tech.slashdot.org/story/26/06/04/1828244/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Companies Are Using Reddit To Manipulate ChatGPT and Google AI Search](https://tech.slashdot.org/story/26/06/04/1828244/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-04, 20:00:00](https://meta.slashdot.org/story/26/06/04/181247/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Keeps Delaying the Release of Its New AI Model to Developers](https://meta.slashdot.org/story/26/06/04/181247/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-04, 19:47:34](https://lobste.rs/s/cubjpv/reproducible_builds_may_2026) - [Reproducible Builds in May 2026](https://reproducible-builds.org/reports/2026-05/)
 * [2026-06-04, 19:00:00](https://tech.slashdot.org/story/26/06/04/1740244/linkedin-china-spying-threat-prompts-warning-from-us-allies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [LinkedIn China Spying Threat Prompts Warning From US, Allies](https://tech.slashdot.org/story/26/06/04/1740244/linkedin-china-spying-threat-prompts-warning-from-us-allies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-04, 18:31:55](https://news.ycombinator.com/item?id=48402744) - [\&quot;Maybe later\&quot; was a feature](https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/)
-* [2026-06-04, 18:00:00](https://yro.slashdot.org/story/26/06/04/1722208/supreme-court-sides-with-trump-administration-on-federal-regulation-of-telecom-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Supreme Court Sides With Trump Administration On Federal Regulation of Telecom Companies](https://yro.slashdot.org/story/26/06/04/1722208/supreme-court-sides-with-trump-administration-on-federal-regulation-of-telecom-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-04, 17:37:35](https://lobste.rs/s/hb1s2k/reviewing_code_requires_reading) - [Reviewing code requires reading](https://hauleth.dev/post/review-requires-reading/)
 * [2026-06-04, 17:26:00](https://soylentnews.org/article.pl?sid=26/06/02/1958258&amp;from=rss) - [Election Interlopers Register 5K+ Domains, Hope To Catch Some Voting Phish](https://soylentnews.org/article.pl?sid=26/06/02/1958258&amp;from=rss)
-* [2026-06-04, 17:00:00](https://slashdot.org/story/26/06/04/0540213/samsung-ditches-new-jersey-for-texas-costing-garden-state-1000-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Samsung Ditches New Jersey For Texas, Costing Garden State 1,000 Jobs](https://slashdot.org/story/26/06/04/0540213/samsung-ditches-new-jersey-for-texas-costing-garden-state-1000-jobs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-04, 16:53:12](https://lobste.rs/s/jqkedb/jujutsu_v0_42_0_released) - [jujutsu v0.42.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.42.0)
-* [2026-06-04, 16:07:21](https://news.ycombinator.com/item?id=48400653) - [Do the Hardest Thing](https://justinjackson.ca/hard-thing)
-* [2026-06-04, 16:00:00](https://apple.slashdot.org/story/26/06/04/0546207/apple-is-bringing-age-verification-to-texas-this-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Is Bringing Age Verification To Texas This Week](https://apple.slashdot.org/story/26/06/04/0546207/apple-is-bringing-age-verification-to-texas-this-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-04, 14:10:40](https://news.ycombinator.com/item?id=48398925) - [My Agent Skill for Test-Driven Development](https://www.saturnci.com/my-agent-skill-for-test-driven-development.html)
 * [2026-06-04, 13:54:28](https://news.ycombinator.com/item?id=48398689) - [Inside FAISS: Billion-Scale Similarity Search](https://fremaconsulting.ch/blog/faiss)
 * [2026-06-04, 12:43:00](https://soylentnews.org/article.pl?sid=26/06/02/0713224&amp;from=rss) - [Moderna Gets $50 Million To Develop MRNA Ebola Vaccine Against Bundibugyo](https://soylentnews.org/article.pl?sid=26/06/02/0713224&amp;from=rss)
