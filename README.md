@@ -1,76 +1,30 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Innovations
+## Science and Technology Developments
 
-* [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398)
+* [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/) ([Comments](https://news.ycombinator.com/item?id=48433410))
 
-* [I design with Claude more than Figma now](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/)
+* [Anthropic Eyes an IPO as Big Tech's AI Cash Crunch Comes for Wall Street](https://soylentnews.org/article.pl?sid=26/06/06/1335249&amp;from=rss) ([Comments](https://news.ycombinator.com/item?id=48431981))
 
-* [ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/)
+* [Scientists Edited Human Embryo Genes. But Questions Remain](https://science.slashdot.org/story/26/06/07/0358254/scientists-edited-human-embryo-genes-but-questions-remain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=48431286))
 
-* [Pokemon Emerald Ported to WebAssembly (100k FPS)](https://pokeemerald.com/)
+* [Small Modular Nuclear Reactor Reaches Criticality In First Test](https://hardware.slashdot.org/story/26/06/05/216231/small-modular-nuclear-reactor-reaches-criticality-in-first-test?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://lobste.rs/s/pumnjn/how_llms_actually_work))
 
-* [z2d: Pure Zig 2D graphics library](https://github.com/vancluever/z2d)
+## Advancements in Artificial Intelligence
 
-* [Sem: New primitive for code understanding – not LSPs, but entities on top of Git](https://ataraxy-labs.github.io/sem/)
+* [Efficient and Training-Free Single-Image Diffusion Models](https://arxiv.org/abs/2606.04299) ([Comments](https://news.ycombinator.com/item?id=48431461))
 
-## Scientific Breakthroughs
+* [How LLMs Actually Work](https://0xkato.xyz/how-llms-actually-work/) ([Comments](https://news.ycombinator.com/item?id=48430539))
 
-* [Scientists Edited Human Embryo Genes. But Questions Remain](https://science.slashdot.org/story/26/06/07/0358254/scientists-edited-human-embryo-genes-but-questions-remain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [How Human Error Became a Weapon Against Large Language Models](https://soylentnews.org/article.pl?sid=26/06/05/1147236&amp;from=rss) ([Comments](https://news.ycombinator.com/item?id=48425723))
 
-* [Early Research Suggests a Path to Predict and Prevent Lung Cancer](https://science.slashdot.org/story/26/06/06/0342255/early-research-suggests-a-path-to-predict-and-prevent-lung-cancer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Harness engineering: Leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/) ([Comments](https://news.ycombinator.com/item?id=48393252))
 
-* [Scientists Find Wind Blowing From Our Milky Way's Black Hole](https://science.slashdot.org/story/26/06/06/0535213/scientists-find-wind-blowing-from-our-milky-ways-black-hole?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Innovations in Technology and Coding
 
-## Industry Developments
+* [ z2d: Pure Zig 2D graphics library](https://github.com/vancluever/z2d) ([Comments](https://lobste.rs/s/bcrtaz/little_explanation_little_s_law))
 
-* [Anthropic Eyes an IPO as Big Tech's AI Cash Crunch Comes for Wall Street](https://soylentnews.org/article.pl?sid=26/06/06/1335249&amp;from=rss)
-
-* [Cheaper EV Sales are Increasing](https://tech.slashdot.org/story/26/06/07/0036228/cheaper-ev-sales-are-increasing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
-
-## Education and AI
-
-* [Failing CS Grades Soar At UC Berkeley As Professors See Greater AI Usage](https://developers.slashdot.org/story/26/06/07/0239236/failing-cs-grades-soar-at-uc-berkeley-as-professors-see-greater-ai-usage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [How LLMs Actually Work](https://0xkato.xyz/how-llms-actually-work/)
-
-* [How Human Error Became a Weapon Against Large Language Models](https://soylentnews.org/article.pl?sid=26/06/05/1147236&amp;from=rss)
-
-## Environmental and Animal Studies
-
-* [Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses)
-
-* [Bumblebees Show Advanced Problem-solving Skills in New Experiment](https://soylentnews.org/article.pl?sid=26/06/06/1157219&amp;from=rss)
-
-## Programming and Software
-
-* [Winners of the 2025 International Obfuscated C Code Contest (IOCCC 29)](https://www.ioccc.org/2025/)
-
-* [The 12 Commandments of Synchronization](https://www.cs.cornell.edu/courses/cs4410/2012fa/papers/commandments.pdf)
-
-* [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/)
-
-* [Getting silly with C, part &((int*)-8)[3]](https://lcamtuf.substack.com/p/getting-silly-with-c-part-and-int1)
-
-* [Introducing Boron Buckyballs: Theory that B80 cages can't be made is disproved](https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06)
-
-## Policy and Regulation
-
-* [Illinois Passes Landmark AI Regulation Law](https://soylentnews.org/article.pl?sid=26/06/05/1139233&amp;from=rss)
-
-* [Criticisms Rise Before Vote on America's Cryptocurrency 'Clarity Act'](https://yro.slashdot.org/story/26/06/06/0156205/criticisms-rise-before-vote-on-americas-cryptocurrency-clarity-act?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-
-* [Ohio Hits Pause On Datacenter Tax Breaks Draining Its Coffers](https://soylentnews.org/article.pl?sid=26/06/05/010227&amp;from=rss)
-
-## Creative and Social Insights
-
-* [How Liminalism Became the Defining Aesthetic of Our Time](https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/)
-
-* [To my students](http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml)
-
-* [Teen Social Media Bans Risk Strengthening Big Tech's Dominance, Warns Bluesky Exec](https://tech.slashdot.org/story/26/06/06/0636241/teen-social-media-bans-risk-strengthening-big-techs-dominance-warns-bluesky-exec?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Tokenomics: Quantifying Tokens used in Agentic Software Engineering ](https://arxiv.org/abs/2601.14470)) ([Comments](https:/biohub.org/news/world-model-of-protein-biology)/22)
 
 ---
 
@@ -97,6 +51,8 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-06-07, 10:10:33](https://news.ycombinator.com/item?id=48433410) - [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/)
+* [2026-06-07, 09:43:45](https://news.ycombinator.com/item?id=48433305) - [Efficient and Training-Free Single-Image Diffusion Models](https://arxiv.org/abs/2606.04299)
 * [2026-06-07, 08:12:40](https://lobste.rs/s/aekbzt/winners_2025_international_obfuscated_c) - [Winners of the 2025 International Obfuscated C Code Contest (IOCCC 29)](https://www.ioccc.org/2025/)
 * [2026-06-07, 07:47:40](https://lobste.rs/s/cxvlob/exploring_automatic_buffer_management) - [Exploring automatic Buffer Management with io_uring](https://noteflakes.com/articles/2026-06-07-automatic-buffer-management)
 * [2026-06-07, 07:34:00](https://apple.slashdot.org/story/26/06/07/0533251/steve-jobs-in-exile-remembers-the-birth-of-the-web-and-making-unix-taste-sweet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Steve Jobs In Exile&apos; Remembers the Birth of the Web and &apos;Making Unix Taste Sweet&apos;](https://apple.slashdot.org/story/26/06/07/0533251/steve-jobs-in-exile-remembers-the-birth-of-the-web-and-making-unix-taste-sweet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -120,7 +76,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-07, 00:53:58](https://lobste.rs/s/pumnjn/how_llms_actually_work) - [How LLMs Actually Work](https://0xkato.xyz/how-llms-actually-work/)
 * [2026-06-07, 00:40:00](https://tech.slashdot.org/story/26/06/07/0036228/cheaper-ev-sales-are-increasing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cheaper EV Sales are Increasing](https://tech.slashdot.org/story/26/06/07/0036228/cheaper-ev-sales-are-increasing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-07, 00:22:51](https://news.ycombinator.com/item?id=48430539) - [Public Domain Image Archive](https://pdimagearchive.org/)
-* [2026-06-06, 23:45:36](https://news.ycombinator.com/item?id=48430282) - [Human-Like Neural Nets by Catapulting](https://gwern.net/llm-catapult)
 * [2026-06-06, 22:40:00](https://news.slashdot.org/story/26/06/06/0618217/eus-tech-sovereignty-package-includes-29-pages-on-open-source-says-open-source-initiative?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EU&apos;s Tech Sovereignty Package Includes 29 Pages on Open Source, Says Open Source Initiative](https://news.slashdot.org/story/26/06/06/0618217/eus-tech-sovereignty-package-includes-29-pages-on-open-source-says-open-source-initiative?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-06, 21:43:00](https://soylentnews.org/article.pl?sid=26/06/06/1157219&amp;from=rss) - [Bumblebees Show Advanced Problem-solving Skills in New Experiment ](https://soylentnews.org/article.pl?sid=26/06/06/1157219&amp;from=rss)
 * [2026-06-06, 21:40:00](https://entertainment.slashdot.org/story/26/06/06/2138244/hospital-ordered-to-pay-13m-over-2022-death-of-star-treks-nichelle-nichols?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hospital Ordered to Pay $13M Over 2022 Death of Star Trek&apos;s Nichelle Nichols ](https://entertainment.slashdot.org/story/26/06/06/2138244/hospital-ordered-to-pay-13m-over-2022-death-of-star-treks-nichelle-nichols?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -150,7 +105,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-06, 12:31:19](https://lobste.rs/s/owclks/if_llms_have_human_like_attributes_then_so) - [If LLMs Have Human-Like Attributes, Then So Does Age of Empires II](https://arxiv.org/pdf/2605.31514)
 * [2026-06-06, 12:10:00](https://soylentnews.org/article.pl?sid=26/06/05/1147236&amp;from=rss) - [How Human Error Became a Weapon Against Large Language Models](https://soylentnews.org/article.pl?sid=26/06/05/1147236&amp;from=rss)
 * [2026-06-06, 11:46:28](https://lobste.rs/s/k67xnh/smart_tv_your_livingroom_is_node) - [The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
-* [2026-06-06, 11:12:58](https://news.ycombinator.com/item?id=48423762) - [Pokemon Emerald Ported to WebAssembly (100k FPS)](https://pokeemerald.com/)
 * [2026-06-06, 11:00:00](https://science.slashdot.org/story/26/06/06/0535213/scientists-find-wind-blowing-from-our-milky-ways-black-hole?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Find Wind Blowing From Our Milky Way&apos;s Black Hole](https://science.slashdot.org/story/26/06/06/0535213/scientists-find-wind-blowing-from-our-milky-ways-black-hole?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-06, 08:08:45](https://lobste.rs/s/76plqm/perils_uuid_primary_keys_sqlite) - [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)
 * [2026-06-06, 07:25:00](https://soylentnews.org/article.pl?sid=26/06/05/1142243&amp;from=rss) - [Blue Origin CEO Says New Glenn Will Fly Again Before the Year Ends](https://soylentnews.org/article.pl?sid=26/06/05/1142243&amp;from=rss)
@@ -171,12 +125,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-05, 10:19:39](https://news.ycombinator.com/item?id=48410427) - [Arithmetic Without Numbers – How LLMs Do Math](https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html)
 * [2026-06-05, 07:37:00](https://soylentnews.org/article.pl?sid=26/06/05/0051235&amp;from=rss) - [‘Bots have now passed human traffic online,’ Cloudflare Boss Laments    ](https://soylentnews.org/article.pl?sid=26/06/05/0051235&amp;from=rss)
 * [2026-06-05, 02:52:00](https://soylentnews.org/article.pl?sid=26/06/04/1033248&amp;from=rss) - [Troops’ Phones Gave Away Location Data to Foreign Adversaries](https://soylentnews.org/article.pl?sid=26/06/04/1033248&amp;from=rss)
-* [2026-06-05, 00:58:15](https://news.ycombinator.com/item?id=48406729) - [Unicode Fonts and Tools for X11](https://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html)
 * [2026-06-04, 23:42:20](https://news.ycombinator.com/item?id=48406174) - [Ask HN: What was your \&quot;oh shit\&quot; moment with GenAI?](https://news.ycombinator.com/item?id=48406174)
 * [2026-06-04, 22:58:48](https://news.ycombinator.com/item?id=48405815) - [Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved](https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06)
 * [2026-06-04, 22:08:00](https://soylentnews.org/article.pl?sid=26/06/04/1030202&amp;from=rss) - [DuckDuckGo Installs Are Up 30% as Users Reject Being ‘Force-Fed’ Google&apos;s AI Search](https://soylentnews.org/article.pl?sid=26/06/04/1030202&amp;from=rss)
+* [2026-06-04, 17:54:28](https://news.ycombinator.com/item?id=48402157) - [Games Between Programs: The Ruliology of Competition](https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/)
 * [2026-06-04, 17:26:00](https://soylentnews.org/article.pl?sid=26/06/02/1958258&amp;from=rss) - [Election Interlopers Register 5K+ Domains, Hope To Catch Some Voting Phish](https://soylentnews.org/article.pl?sid=26/06/02/1958258&amp;from=rss)
 * [2026-06-04, 15:29:53](https://news.ycombinator.com/item?id=48400151) - [Speculative KV coding: losslessly compressing KV cache by up to ~4×](https://fergusfinn.com/blog/kv-entropy-coder/)
+* [2026-06-04, 13:04:37](https://news.ycombinator.com/item?id=48398092) - [Enforcing the First as in BGP AS_PATHs](https://blog.cloudflare.com/enforce-first-as-bgp/)
 * [2026-06-04, 12:43:00](https://soylentnews.org/article.pl?sid=26/06/02/0713224&amp;from=rss) - [Moderna Gets $50 Million To Develop MRNA Ebola Vaccine Against Bundibugyo](https://soylentnews.org/article.pl?sid=26/06/02/0713224&amp;from=rss)
 * [2026-06-04, 08:07:21](https://news.ycombinator.com/item?id=48395648) - [Show HN: Free animated icon library for Vue](https://respeak-io.github.io/lucide-motion-vue/)
 * [2026-06-04, 07:58:00](https://soylentnews.org/article.pl?sid=26/06/02/0711209&amp;from=rss) - [Angry Devs Vow To Flee GitHub Copilot As Metered Billing Takes Hold](https://soylentnews.org/article.pl?sid=26/06/02/0711209&amp;from=rss)
