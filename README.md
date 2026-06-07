@@ -1,30 +1,54 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Science and Technology Developments
+## Artificial Intelligence and Technology
 
-* [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/) ([Comments](https://news.ycombinator.com/item?id=48433410))
+* [LLMs are eroding my software engineering career and I don&apos;t know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/) ([comments](https://news.ycombinator.com/item?id=48434312))
 
-* [Anthropic Eyes an IPO as Big Tech's AI Cash Crunch Comes for Wall Street](https://soylentnews.org/article.pl?sid=26/06/06/1335249&amp;from=rss) ([Comments](https://news.ycombinator.com/item?id=48431981))
+* [Anthropic Eyes an IPO as Big Tech&apos;s AI Cash Crunch Comes for Wall Street](https://soylentnews.org/article.pl?sid=26/06/06/1335249&amp;from=rss) ([comments](https://news.ycombinator.com/item?id=48431981))
 
-* [Scientists Edited Human Embryo Genes. But Questions Remain](https://science.slashdot.org/story/26/06/07/0358254/scientists-edited-human-embryo-genes-but-questions-remain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=48431286))
+* [Failing CS Grades Soar At UC Berkeley As Professors See Greater AI Usage](https://developers.slashdot.org/story/26/06/07/0239236/failing-cs-grades-soar-at-uc-berkeley-as-professors-see-greater-ai-usage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=48431286))
 
-* [Small Modular Nuclear Reactor Reaches Criticality In First Test](https://hardware.slashdot.org/story/26/06/05/216231/small-modular-nuclear-reactor-reaches-criticality-in-first-test?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://lobste.rs/s/pumnjn/how_llms_actually_work))
+* [How Liminalism Became the Defining Aesthetic of Our Time](https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/) ([comments](https://news.ycombinator.com/item?id=48431085))
 
-## Advancements in Artificial Intelligence
+* [How LLMs Actually Work](https://0xkato.xyz/how-llms-actually-work/) ([comments](https://lobste.rs/s/pumnjn/how_llms_actually_work))
 
-* [Efficient and Training-Free Single-Image Diffusion Models](https://arxiv.org/abs/2606.04299) ([Comments](https://news.ycombinator.com/item?id=48431461))
+## Science and Innovation
 
-* [How LLMs Actually Work](https://0xkato.xyz/how-llms-actually-work/) ([Comments](https://news.ycombinator.com/item?id=48430539))
+* [Small Modular Nuclear Reactor Reaches Criticality in First Test](https://soylentnews.org/article.pl?sid=26/06/06/1338226&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/06/1338226&amp;from=rss))
 
-* [How Human Error Became a Weapon Against Large Language Models](https://soylentnews.org/article.pl?sid=26/06/05/1147236&amp;from=rss) ([Comments](https://news.ycombinator.com/item?id=48425723))
+* [Scientists Edited Human Embryo Genes. But Questions Remain](https://science.slashdot.org/story/26/06/07/0358254/scientists-edited-human-embryo-genes-but-questions-remain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=48433305))
 
-* [Harness engineering: Leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/) ([Comments](https://news.ycombinator.com/item?id=48393252))
+* [Efficient and Training-Free Single-Image Diffusion Models](https://arxiv.org/abs/2606.04299) ([comments](https://news.ycombinator.com/item?id=48433305))
 
-## Innovations in Technology and Coding
+* [Early Research Suggests a Path to Predict and Prevent Lung Cancer](https://science.slashdot.org/story/26/06/06/0342255/early-research-suggests-a-path-to-predict-and-prevent-lung-cancer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=48425528))
 
-* [ z2d: Pure Zig 2D graphics library](https://github.com/vancluever/z2d) ([Comments](https://lobste.rs/s/bcrtaz/little_explanation_little_s_law))
+* [Scientists Find Wind Blowing From Our Milky Way&apos;s Black Hole](https://science.slashdot.org/story/26/06/06/0535213/scientists-find-wind-blowing-from-our-milky-ways-black-hole?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/06/06/0535213/scientists-find-wind-blowing-from-our-milky-ways-black-hole?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Tokenomics: Quantifying Tokens used in Agentic Software Engineering ](https://arxiv.org/abs/2601.14470)) ([Comments](https:/biohub.org/news/world-model-of-protein-biology)/22)
+## Policy and Regulation
+
+* [Illinois Passes Landmark AI Regulation Law](https://soylentnews.org/article.pl?sid=26/06/05/1139233&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/05/1139233&amp;from=rss))
+
+* [EU&apos;s Tech Sovereignty Package Includes 29 Pages on Open Source, Says Open Source Initiative](https://news.slashdot.org/story/26/06/06/0618217/eus-tech-sovereignty-package-includes-29-pages-on-open-source-says-open-source-initiative?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=1150236))
+
+* [Teen Social Media Bans Risk Strengthening Big Tech&apos;s Dominance, Warns Bluesky Exec](https://tech.slashdot.org/story/26/06/06/0636241/teen-social-media-bans-risk-strengthening-big-techs-dominance-warns-bluesky-exec?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://ycombinator.com/item/45398522))
+
+* [Criticisms Rise Before Vote on America&apos;s Cryptocurrency &apos;Clarity Act&apos;](https://yro.slashdot.org/story/26/06/06/0156205/criticisms-rise-before-vote-on-americas-cryptocurrency-clarity-act?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/06/06/0156205/criticisms-rise-before-vote-on-americas-cryptocurrency-clarity-act?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+## Products and Development
+
+* [mold-desktop](https://codeberg.org/mmontone/mold-desktop) ([comments](https://lobste.rs/s/hkgeeo/mold_desktop))
+
+* [Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers](https://kyushu.dev/) ([comments](https://news.ycombinator.com/item?id=48432722))
+
+* [A Little Explanation of Little&apos;s Law](https://rugu.dev/en/blog/littles-law/) ([comments](https://lobste.rs/s/bcrtaz/little_explanation_little_s_law))
+
+## Industry and Business
+
+* [Donald Trump, Bernie Sanders And Sam Altman Are All Talking About Public Ownership In AI](https://news.slashdot.org/story/26/06/07/0516250/donald-trump-bernie-sanders-and-sam-altman-are-all-talking-about-public-ownership-in-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/06/07/0516250/donald-trump-bernie-sanders-and-sam-altman-are-all-talking-about-public-ownership-in-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Google to pay SpaceX $920M a month for compute capacity at xAI data centers](https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html) ([comments](https://news.ycombinator.com/item?id=48417490))
+
+* [Election Interlopers Register 5K+ Domains, Hope To Catch Some Voting Phish](https://soylentnews.org/article.pl?sid=26/06/02/1958258&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/02/1958258&amp;from=rss))
 
 ---
 
@@ -51,10 +75,19 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-06-07, 12:49:29](https://news.ycombinator.com/item?id=48434312) - [LLMs are eroding my software engineering career and I don&apos;t know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/)
+* [2026-06-07, 12:34:27](https://news.ycombinator.com/item?id=48434204) - [Misguided Misstatements Continue to Dismantle Biomedical Research in the U.S.](https://diabetesjournals.org/care/article/49/6/901/164764/Misguided-Brushes-of-a-Pen-Continue-to-Dismantle)
+* [2026-06-07, 12:07:00](https://soylentnews.org/article.pl?sid=26/06/06/1338226&amp;from=rss) - [Small Modular Nuclear Reactor Reaches Criticality in First Test](https://soylentnews.org/article.pl?sid=26/06/06/1338226&amp;from=rss)
+* [2026-06-07, 12:01:03](https://lobste.rs/s/exgvan/why_queues_don_t_fix_overload_what_do) - [Why Queues Don’t Fix Overload (And What To Do Instead)](https://pmbanugo.me/blog/why-queues-dont-fix-overload-and-what-to-do-instead)
+* [2026-06-07, 12:00:40](https://news.ycombinator.com/item?id=48433987) - [9 Mothers (YC P26) Is Hiring](https://9mothers.com/careers)
+* [2026-06-07, 11:48:48](https://lobste.rs/s/vufbvv/user_doesn_t_care_you_should) - [The User Doesn&apos;t Care - But you should](https://lewiscampbell.tech/blog/260607.html)
+* [2026-06-07, 11:34:00](https://news.slashdot.org/story/26/06/07/0516250/donald-trump-bernie-sanders-and-sam-altman-are-all-talking-about-public-ownership-in-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Donald Trump, Bernie Sanders And Sam Altman Are All Talking About Public Ownership In AI](https://news.slashdot.org/story/26/06/07/0516250/donald-trump-bernie-sanders-and-sam-altman-are-all-talking-about-public-ownership-in-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-07, 10:10:33](https://news.ycombinator.com/item?id=48433410) - [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/)
+* [2026-06-07, 09:59:09](https://lobste.rs/s/hkgeeo/mold_desktop) - [mold-desktop](https://codeberg.org/mmontone/mold-desktop)
 * [2026-06-07, 09:43:45](https://news.ycombinator.com/item?id=48433305) - [Efficient and Training-Free Single-Image Diffusion Models](https://arxiv.org/abs/2606.04299)
 * [2026-06-07, 08:12:40](https://lobste.rs/s/aekbzt/winners_2025_international_obfuscated_c) - [Winners of the 2025 International Obfuscated C Code Contest (IOCCC 29)](https://www.ioccc.org/2025/)
 * [2026-06-07, 07:47:40](https://lobste.rs/s/cxvlob/exploring_automatic_buffer_management) - [Exploring automatic Buffer Management with io_uring](https://noteflakes.com/articles/2026-06-07-automatic-buffer-management)
+* [2026-06-07, 07:35:02](https://news.ycombinator.com/item?id=48432722) - [Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers](https://kyushu.dev/)
 * [2026-06-07, 07:34:00](https://apple.slashdot.org/story/26/06/07/0533251/steve-jobs-in-exile-remembers-the-birth-of-the-web-and-making-unix-taste-sweet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Steve Jobs In Exile&apos; Remembers the Birth of the Web and &apos;Making Unix Taste Sweet&apos;](https://apple.slashdot.org/story/26/06/07/0533251/steve-jobs-in-exile-remembers-the-birth-of-the-web-and-making-unix-taste-sweet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-07, 07:27:26](https://lobste.rs/s/ly0vif/my_students) - [To my students](http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml)
 * [2026-06-07, 07:19:00](https://soylentnews.org/article.pl?sid=26/06/06/1335249&amp;from=rss) - [Anthropic Eyes an IPO as Big Tech&apos;s AI Cash Crunch Comes for Wall Street](https://soylentnews.org/article.pl?sid=26/06/06/1335249&amp;from=rss)
@@ -70,7 +103,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-07, 02:31:00](https://soylentnews.org/article.pl?sid=26/06/06/1323219&amp;from=rss) - [Why Do Jets Use Generators Instead of Alternators?](https://soylentnews.org/article.pl?sid=26/06/06/1323219&amp;from=rss)
 * [2026-06-07, 02:26:56](https://lobste.rs/s/8tr6xi/moving_beyond_fork_exec) - [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/)
 * [2026-06-07, 02:12:19](https://news.ycombinator.com/item?id=48431085) - [How Liminalism Became the Defining Aesthetic of Our Time](https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/)
-* [2026-06-07, 02:11:29](https://news.ycombinator.com/item?id=48431079) - [Show HN: Oproxy – inspect and modify network traffic from the browser](https://github.com/sauravrao637/oproxy)
 * [2026-06-07, 02:03:52](https://lobste.rs/s/e0vpej/diy_kobo_annotation_backup) - [DIY Kobo annotation backup](https://kghose.github.io/2026/06/06/kobo-annotations.html)
 * [2026-06-07, 01:37:11](https://news.ycombinator.com/item?id=48430923) - [Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering](https://arxiv.org/abs/2601.14470)
 * [2026-06-07, 00:53:58](https://lobste.rs/s/pumnjn/how_llms_actually_work) - [How LLMs Actually Work](https://0xkato.xyz/how-llms-actually-work/)
@@ -83,20 +115,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-06, 20:34:00](https://news.slashdot.org/story/26/06/06/2025214/ladybird-browser-stops-accepting-public-pull-requests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ladybird Browser Stops Accepting Public Pull Requests](https://news.slashdot.org/story/26/06/06/2025214/ladybird-browser-stops-accepting-public-pull-requests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-06, 20:19:23](https://lobste.rs/s/fccz7i/it_doesn_t_always_have_be_linux) - [It doesn’t always have to be Linux](https://media.ccc.de/v/gpn24-611-it-doesn-t-always-have-to-be-linux-an-intro-to-freebsd)
 * [2026-06-06, 20:18:32](https://lobste.rs/s/1nojpo/ntsc_rs_accurate_vhs_video_effect) - [ntsc-rs - an accurate VHS video effect](https://ntsc.rs/)
-* [2026-06-06, 20:03:55](https://news.ycombinator.com/item?id=48428475) - [Sem: New primitive for code understanding – not LSPs, but entities on top of Git](https://ataraxy-labs.github.io/sem/)
 * [2026-06-06, 19:34:00](https://hardware.slashdot.org/story/26/06/06/1932216/new-power-banks-released-by-bmx-with-safer-semi-solid-state-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Power Banks Released By BMX With Safer Semi-Solid-State Batteries](https://hardware.slashdot.org/story/26/06/06/1932216/new-power-banks-released-by-bmx-with-safer-semi-solid-state-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-06, 19:17:46](https://news.ycombinator.com/item?id=48428025) - [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/)
-* [2026-06-06, 19:06:11](https://lobste.rs/s/xlvtoc/z2d_pure_zig_2d_graphics_library) - [z2d: Pure Zig 2D graphics library](https://github.com/vancluever/z2d)
 * [2026-06-06, 18:56:59](https://lobste.rs/s/iqazo4/getting_silly_with_c_part_int_8_3) - [Getting silly with C, part &amp;((int*)-8)[3]](https://lcamtuf.substack.com/p/getting-silly-with-c-part-and-int1)
 * [2026-06-06, 18:38:04](https://lobste.rs/s/bcrtaz/little_explanation_little_s_law) - [A Little Explanation of Little&apos;s Law](https://rugu.dev/en/blog/littles-law/)
-* [2026-06-06, 18:35:27](https://news.ycombinator.com/item?id=48427643) - [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
 * [2026-06-06, 17:34:00](https://tech.slashdot.org/story/26/06/06/0636241/teen-social-media-bans-risk-strengthening-big-techs-dominance-warns-bluesky-exec?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Teen Social Media Bans Risk Strengthening Big Tech&apos;s Dominance, Warns Bluesky Exec](https://tech.slashdot.org/story/26/06/06/0636241/teen-social-media-bans-risk-strengthening-big-techs-dominance-warns-bluesky-exec?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-06, 16:59:00](https://soylentnews.org/article.pl?sid=26/06/05/1150257&amp;from=rss) - [US Firms Still Dominate Chip Subsidies](https://soylentnews.org/article.pl?sid=26/06/05/1150257&amp;from=rss)
 * [2026-06-06, 16:34:00](https://science.slashdot.org/story/26/06/06/0342255/early-research-suggests-a-path-to-predict-and-prevent-lung-cancer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Early Research Suggests a Path to Predict and Prevent Lung Cancer](https://science.slashdot.org/story/26/06/06/0342255/early-research-suggests-a-path-to-predict-and-prevent-lung-cancer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-06, 15:34:00](https://yro.slashdot.org/story/26/06/06/0156205/criticisms-rise-before-vote-on-americas-cryptocurrency-clarity-act?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Criticisms Rise Before Vote on America&apos;s Cryptocurrency &apos;Clarity Act&apos;](https://yro.slashdot.org/story/26/06/06/0156205/criticisms-rise-before-vote-on-americas-cryptocurrency-clarity-act?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-06, 14:59:43](https://news.ycombinator.com/item?id=48425723) - [Zeroserve: A zero-config web server you can script with eBPF](https://su3.io/posts/introducing-zeroserve)
 * [2026-06-06, 14:51:03](https://lobste.rs/s/yfj5qc/ergonomic_overrides_for_nixpkgs) - [Ergonomic overrides for Nixpkgs](https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs)
-* [2026-06-06, 14:43:53](https://news.ycombinator.com/item?id=48425611) - [Motorola effectively bricked its entire line of WiFi routers without explanation](https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down)
 * [2026-06-06, 14:34:20](https://news.ycombinator.com/item?id=48425528) - [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/)
 * [2026-06-06, 14:34:00](https://games.slashdot.org/story/26/06/06/0429236/2027s-tomb-raider-remake-unreal-engine-5-and-ai-assisted-assets-refined-by-humans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [2027&apos;s &apos;Tomb Raider&apos; Remake: Unreal Engine 5 and AI-Assisted Assets &apos;Refined&apos; By Humans](https://games.slashdot.org/story/26/06/06/0429236/2027s-tomb-raider-remake-unreal-engine-5-and-ai-assisted-assets-refined-by-humans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-06, 13:00:00](https://yro.slashdot.org/story/26/06/06/0541244/utah-residents-sue-officials-over-kevin-oleary-data-center-plan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Utah Residents Sue Officials Over Kevin O&apos;Leary Data Center Plan](https://yro.slashdot.org/story/26/06/06/0541244/utah-residents-sue-officials-over-kevin-oleary-data-center-plan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -108,16 +136,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-06, 11:00:00](https://science.slashdot.org/story/26/06/06/0535213/scientists-find-wind-blowing-from-our-milky-ways-black-hole?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Find Wind Blowing From Our Milky Way&apos;s Black Hole](https://science.slashdot.org/story/26/06/06/0535213/scientists-find-wind-blowing-from-our-milky-ways-black-hole?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-06, 08:08:45](https://lobste.rs/s/76plqm/perils_uuid_primary_keys_sqlite) - [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)
 * [2026-06-06, 07:25:00](https://soylentnews.org/article.pl?sid=26/06/05/1142243&amp;from=rss) - [Blue Origin CEO Says New Glenn Will Fly Again Before the Year Ends](https://soylentnews.org/article.pl?sid=26/06/05/1142243&amp;from=rss)
-* [2026-06-06, 03:30:00](https://hardware.slashdot.org/story/26/06/05/216231/small-modular-nuclear-reactor-reaches-criticality-in-first-test?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Small Modular Nuclear Reactor Reaches Criticality In First Test](https://hardware.slashdot.org/story/26/06/05/216231/small-modular-nuclear-reactor-reaches-criticality-in-first-test?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-06, 03:25:28](https://lobste.rs/s/oazsak/total_reciprocity_public_license) - [Total Reciprocity Public License](https://trplfoundation.org/)
-* [2026-06-06, 03:13:13](https://lobste.rs/s/tmzmta/announcement_from_steering_council) - [An announcement from the Steering Council regarding the JIT project](https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638)
 * [2026-06-06, 02:37:28](https://lobste.rs/s/eetcxi/smallest_c_binary) - [The smallest C++ binary](https://blog.weineng.me/posts/smallest_c/)
 * [2026-06-06, 02:37:00](https://soylentnews.org/article.pl?sid=26/06/05/1139233&amp;from=rss) - [Illinois Passes Landmark AI Regulation Law](https://soylentnews.org/article.pl?sid=26/06/05/1139233&amp;from=rss)
 * [2026-06-05, 21:56:00](https://soylentnews.org/article.pl?sid=26/06/05/019244&amp;from=rss) - [Dozens Of Red Hat Packages Backdoored Through Its Official NPM Channel](https://soylentnews.org/article.pl?sid=26/06/05/019244&amp;from=rss)
 * [2026-06-05, 20:06:36](https://news.ycombinator.com/item?id=48417490) - [Google to pay SpaceX $920M a month for compute capacity at xAI data centers](https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html)
 * [2026-06-05, 18:40:29](https://lobste.rs/s/oqlpna/stop_using_conventional_commits) - [Stop Using Conventional Commits](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/)
 * [2026-06-05, 18:20:06](https://news.ycombinator.com/item?id=48416264) - [Harness engineering: Leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)
-* [2026-06-05, 18:14:42](https://lobste.rs/s/mf5ryi/did_claude_increase_bugs_rsync) - [Did Claude Increase Bugs in rsync?](https://alexispurslane.github.io/rsync-analysis/)
 * [2026-06-05, 17:13:59](https://news.ycombinator.com/item?id=48415457) - [Symbolica 2.0: Programmable Symbols for Python and Rust](https://symbolica.io/posts/symbolica_2_0_release/)
 * [2026-06-05, 17:07:00](https://soylentnews.org/article.pl?sid=26/06/05/010227&amp;from=rss) - [Ohio Hits Pause On Datacenter Tax Breaks Draining Its Coffers](https://soylentnews.org/article.pl?sid=26/06/05/010227&amp;from=rss)
 * [2026-06-05, 12:21:00](https://soylentnews.org/article.pl?sid=26/06/05/0055245&amp;from=rss) - [The Newest Instagram \&quot;Exploit\&quot; is the Goofiest I&apos;ve Seen](https://soylentnews.org/article.pl?sid=26/06/05/0055245&amp;from=rss)
@@ -125,15 +150,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-05, 10:19:39](https://news.ycombinator.com/item?id=48410427) - [Arithmetic Without Numbers – How LLMs Do Math](https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html)
 * [2026-06-05, 07:37:00](https://soylentnews.org/article.pl?sid=26/06/05/0051235&amp;from=rss) - [‘Bots have now passed human traffic online,’ Cloudflare Boss Laments    ](https://soylentnews.org/article.pl?sid=26/06/05/0051235&amp;from=rss)
 * [2026-06-05, 02:52:00](https://soylentnews.org/article.pl?sid=26/06/04/1033248&amp;from=rss) - [Troops’ Phones Gave Away Location Data to Foreign Adversaries](https://soylentnews.org/article.pl?sid=26/06/04/1033248&amp;from=rss)
-* [2026-06-04, 23:42:20](https://news.ycombinator.com/item?id=48406174) - [Ask HN: What was your \&quot;oh shit\&quot; moment with GenAI?](https://news.ycombinator.com/item?id=48406174)
+* [2026-06-05, 00:28:17](https://news.ycombinator.com/item?id=48406530) - [Yon – a topos-oriented language with a content-addressed lattice heap](https://yon-lang.org/)
 * [2026-06-04, 22:58:48](https://news.ycombinator.com/item?id=48405815) - [Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved](https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06)
 * [2026-06-04, 22:08:00](https://soylentnews.org/article.pl?sid=26/06/04/1030202&amp;from=rss) - [DuckDuckGo Installs Are Up 30% as Users Reject Being ‘Force-Fed’ Google&apos;s AI Search](https://soylentnews.org/article.pl?sid=26/06/04/1030202&amp;from=rss)
+* [2026-06-04, 19:29:29](https://news.ycombinator.com/item?id=48403488) - [How Long Does It Take for a QQuickItem to Become Visible?](https://www.kdab.com/how-long-does-it-take-for-an-item-to-become-visible/)
 * [2026-06-04, 17:54:28](https://news.ycombinator.com/item?id=48402157) - [Games Between Programs: The Ruliology of Competition](https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/)
 * [2026-06-04, 17:26:00](https://soylentnews.org/article.pl?sid=26/06/02/1958258&amp;from=rss) - [Election Interlopers Register 5K+ Domains, Hope To Catch Some Voting Phish](https://soylentnews.org/article.pl?sid=26/06/02/1958258&amp;from=rss)
 * [2026-06-04, 15:29:53](https://news.ycombinator.com/item?id=48400151) - [Speculative KV coding: losslessly compressing KV cache by up to ~4×](https://fergusfinn.com/blog/kv-entropy-coder/)
-* [2026-06-04, 13:04:37](https://news.ycombinator.com/item?id=48398092) - [Enforcing the First as in BGP AS_PATHs](https://blog.cloudflare.com/enforce-first-as-bgp/)
+* [2026-06-04, 13:55:39](https://news.ycombinator.com/item?id=48398703) - [The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)](https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/)
 * [2026-06-04, 12:43:00](https://soylentnews.org/article.pl?sid=26/06/02/0713224&amp;from=rss) - [Moderna Gets $50 Million To Develop MRNA Ebola Vaccine Against Bundibugyo](https://soylentnews.org/article.pl?sid=26/06/02/0713224&amp;from=rss)
-* [2026-06-04, 08:07:21](https://news.ycombinator.com/item?id=48395648) - [Show HN: Free animated icon library for Vue](https://respeak-io.github.io/lucide-motion-vue/)
 * [2026-06-04, 07:58:00](https://soylentnews.org/article.pl?sid=26/06/02/0711209&amp;from=rss) - [Angry Devs Vow To Flee GitHub Copilot As Metered Billing Takes Hold](https://soylentnews.org/article.pl?sid=26/06/02/0711209&amp;from=rss)
 * [2026-06-04, 03:14:00](https://soylentnews.org/article.pl?sid=26/06/02/077231&amp;from=rss) - [Distrowatch Celebrates its 25th Anniversary](https://soylentnews.org/article.pl?sid=26/06/02/077231&amp;from=rss)
 * [2026-06-04, 03:12:05](https://news.ycombinator.com/item?id=48393252) - [Biohub releases a world model of protein biology](https://biohub.org/news/world-model-of-protein-biology/)
