@@ -1,50 +1,62 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Developments
+## Technology and Software
 
-* [`Upcoming breaking changes for npm v12`](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/) - Important updates regarding upcoming breaking changes in npm version 12 are outlined, including their implications. [Comments](https://lobste.rs/s/drkeug/upcoming_breaking_changes_for_npm_v12).
+* [Trojaned OpenSSH (in 2002)](http://miod.online.fr/software/openbsd/stories/trojan.html) - An intriguing revisit of a major security breach in the OpenSSH project from 2002 that impacted the open-source community.
 
-* [`New reCaptcha requires approved phones to pass`](https://cybernews.com/privacy/google-qr-code-recaptcha-requires-approved-phone/) - Details the high-tech security changes in Google's reCaptcha, requiring users to pass verification using approved phones. [Comments](https://lobste.rs/s/p07gv1/new_recaptcha_requires_approved_phones).
+* [How building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/) - A detailed recount of how focusing on an HTML-first approach led to increased user engagement and traffic.
 
-* [`Port React Compiler to Rust`](https://github.com/react/react/pull/36173) - An ongoing project aiming to rewrite the React compiler entirely in Rust. [Comments](https://news.ycombinator.com/item?id=48473662).
+* [17 bugs in 10 weeks from AI security scanning](https://lalitm.com/post/perfetto-security-bugs-ai/) - Insights into the effective use of AI for identifying security vulnerabilities in code.
 
-* [`A line-by-line translation of the OCaml runtime from C to Rust`](https://discuss.ocaml.org/t/a-line-by-line-translation-of-the-ocaml-runtime-from-c-to-rust/18247) - A detailed breakdown of the transition from C to Rust for the OCaml runtime. [Comments](https://lobste.rs/s/k85k6w/line_by_line_translation_ocaml_runtime).
+* [A line-by-line translation of the OCaml runtime from C to Rust](https://discuss.ocaml.org/t/a-line-by-line-translation-of-the-ocaml-runtime-from-c-to-rust/18247) - A fascinating technical feat breaking down the OCaml runtime as a Rust implementation.
 
-* [`Blogging with an LLM assistant`](https://vincent.bernat.ch/en/blog/2026-blogging-llm) - Harnessing AI language models to revolutionize the world of blogging. [Comments](https://lobste.rs/s/tdvu7a/blogging_with_llm_assistant).
+* [Grit: Rewriting Git in Rust with agents](https://blog.gitbutler.com/true-grit) - Investigating a Rust-powered reimagining of Git's functionality.
 
-* [`Grit: rewriting Git in Rust with agents`](https://blog.gitbutler.com/true-grit) - Introduction to Grit, an ambitious project reimagining Git with Rust and agents. [Comments](https://lobste.rs/s/galkdh/grit_rewriting_git_rust_with_agents).
+* [OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision](https://opencv.org/opencv-5/) - A deep dive into the enhancements brought by OpenCV 5, marking a milestone for computer vision advancements.
 
-## Artificial Intelligence and Machine Learning
-
-* [`Rich Sutton on AI creativity and discovery`](https://twitter.com/RichardSSutton/status/2061216087744946656) - AI researcher Rich Sutton shares insights into AI's creative potentials and discovery process. [Comments](https://news.ycombinator.com/item?id=48470581).
-
-* [`FCC Wants To Kill Burner Phones By Forcing Telecoms To Get All Customers' IDs`](https://yro.slashdot.org/story/26/06/09/2026231/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - FCC proposes regulations to require telecom companies to verify customer IDs, effectively ending anonymous burner phones. [Comments](https://news.ycombinator.com/item?id=48471048).
-
-* [`German ruling declares Google liable for false answers in AI Overviews`](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/) - Google now holds accountability for AI-provided false information after a pivotal German court ruling. [Comments](https://news.ycombinator.com/item?id=48470248).
-
-* [`Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks`](https://aarushgupta.io/posts/kan-fpga/) - Exploring high-speed machine learning implemented on FPGAs through innovative network structures. [Comments](https://news.ycombinator.com/item?id=48466277).
+* [Alpine Linux 3.24.0 released](https://alpinelinux.org/posts/Alpine-3.24.0-released.html) - Announcing the release of the latest version of Alpine Linux, with improvements and new features.
 
 ## Space Exploration
 
-* [`NASA Announces Astronauts For Its Artemis III Mission`](https://science.slashdot.org/story/26/06/10/0256248/nasa-announces-astronauts-for-its-artemis-iii-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NASA reveals the crew that will take part in the ambitious Artemis III lunar mission. [Comments](https://slashdot.org/story/26/06/10/0256248).
+* [NASA Announces Astronauts For Its Artemis III Mission](https://science.slashdot.org/story/26/06/10/0256248/nasa-announces-astronauts-for-its-artemis-iii-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The official announcement of astronauts participating in NASA's ambitious upcoming Artemis III lunar mission.
 
-* [`NASA's Nancy Grace Roman Space Telescope is Set to Launch on August 30`](https://soylentnews.org/article.pl?sid=26/06/08/1134218&amp;from=rss) - Details about NASA's plans to launch its next-generation space telescope later this summer. [Comments](https://news.ycombinator.com/item?id=48470248).
+* [NASA's Nancy Grace Roman Space Telescope is Set to Launch on August 30](https://soylentnews.org/article.pl?sid=26/06/08/1134218&amp;from=rss) - A milestone in NASA's mission to explore the universe with the Nancy Grace Roman Space Telescope.
 
-## Cybersecurity and Privacy
+* [Russia's New ‘Starlink‑Style’ Rassvet Fleet Launches](https://soylentnews.org/article.pl?sid=26/06/09/1118255&amp;from=rss) - Russia unveils its own ambitious space internet connectivity endeavor with the Rassvet satellite fleet.
 
-* [`CVE-2026-45447: Heap Use-After-Free in the OpenSSL PKCS7_verify() Function`](https://openssl-library.org/news/vulnerabilities/#CVE-2026-45447) - A critical vulnerability in OpenSSL's PKCS7_verify() function exposes major security risks. [Comments](https://lobste.rs/s/yg1xb2/cve_2026_45447_heap_use_after_free_openssl).
+## Artificial Intelligence
 
-* [`High-Severity Vulnerability In Linux Caused By a Single Errant Character`](https://it.slashdot.org/story/26/06/09/181245/high-severity-vulnerability-in-linux-caused-by-a-single-errant-character?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Discover how a single character flaw triggered a significant Linux vulnerability. [Comments](https://news.ycombinator.com/item?id=48463808).
+* [Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656) - Insights from leading AI researcher Rich Sutton on the future of AI in creativity and scientific discovery.
 
-* [`Microsoft Hacked To Deliver Malware To Claude and Gemini Users`](https://it.slashdot.org/story/26/06/09/1657218/microsoft-hacked-to-deliver-malware-to-claude-and-gemini-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft breach led to the deployment of malware targeting AI users. [Comments](https://news.ycombinator.com/item?id=48463808).
+* [Cleaning up after AI rockstar developers](https://www.codingwithjesse.com/blog/rockstar-developers/) - Tackling the challenges of fixing issues caused by ambitious AI-focused developers.
 
-## Space and Science Innovations
+* [Microsoft Hacked To Deliver Malware To Claude and Gemini Users](https://it.slashdot.org/story/26/06/09/1657218/microsoft-hacked-to-deliver-malware-to-claude-and-gemini-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An alarming report on Microsoft being used to distribute malware via AI services.
 
-* [`The oldest surviving animated feature film at 100`](https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film) - An insight into a century-old animated masterpiece and its creator's journey in Germany. [Comments](https://news.ycombinator.com/item?id=48431213).
+## Cybersecurity Concerns
 
-* [`Magnetoelectric antennas could transform how underwater robots talk`](https://newatlas.com/engineering/magnetoelectric-antennas-submarine-robots-communications/) - Revolutionary antennas poised to enhance subsea communications for robots. [Comments](https://news.ycombinator.com/item?id=48433525).
+* [CVE-2026-45447: Heap Use-After-Free in the OpenSSL PKCS7_verify() Function](https://openssl-library.org/news/vulnerabilities/#CVE-2026-45447) - A new critical vulnerability discovered in OpenSSL's PKCS7_verify() functionality.
 
-* [`OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision`](https://opencv.org/opencv-5/) - The latest milestone in computer vision with groundbreaking improvements in OpenCV 5. [Comments](https://news.ycombinator.com/item?id=48421858).
+* [New reCaptcha requires approved phones to pass](https://cybernews.com/privacy/google-qr-code-recaptcha-requires-approved-phone/) - Google's revised reCaptcha implementation now mandates pre-approved phones, sparking privacy concerns.
+
+* [FCC Wants To Kill Burner Phones By Forcing Telecoms To Get All Customers' IDs](https://yro.slashdot.org/story/26/06/09/2026231/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - FCC proposes measures to eliminate untraceable burner phones by ensuring all carriers register customer information.
+
+## Energy Innovations
+
+* [Commonwealth Fusion Makes the Physics Case For Its 400 MW Reactor](https://hardware.slashdot.org/story/26/06/10/0319259/commonwealth-fusion-makes-the-physics-case-for-its-400-mw-reactor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A promising exploration of the physics behind an innovative nuclear fusion reactor projected at 400 MW.
+
+* [Mercedes-Benz starts large-scale production of electric axial flux motor](https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf) - A major breakthrough in automotive technology with Mercedes-Benz launching production of electric axial flux motors.
+
+## Transportation and Infrastructure
+
+* [All 9,300 Japanese train station, animated by the year it opened (1872–2026)](https://jivx.com/eki) - A visually engaging animation of Japan's train station history over time.
+
+* [Datacenters May Face One-Year Ban In NY](https://soylentnews.org/article.pl?sid=26/06/07/2321211&amp;from=rss) - Proposed legislation in New York aims to confront the growing environmental strain caused by data centers.
+
+## Historical Reflections
+
+* [The oldest surviving animated feature film at 100](https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film) - Exploring a century-old animated feature film and its significant cultural and historical impact.
+
+* [The Floppy Disk Patent Was Granted Today In 1972 — When 80KB Took Up 8 Inches And Were Really Floppy](https://soylentnews.org/article.pl?sid=26/06/06/1851230&amp;from=rss) - Observing the historical significance and limitations of a disk storage technology from five decades ago.
 
 ---
 
@@ -71,11 +83,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-06-10, 12:12:43](https://lobste.rs/s/ti42hu/trojaned_openssh_2002) - [Trojaned OpenSSH (in 2002)](http://miod.online.fr/software/openbsd/stories/trojan.html)
+* [2026-06-10, 12:11:28](https://news.ycombinator.com/item?id=48475100) - [All 9,300 Japanese train station, animated by the year it opened (1872–2026)](https://jivx.com/eki)
+* [2026-06-10, 11:51:24](https://lobste.rs/s/vlpi8y/macos_container_tool_v1_0_0_released) - [macOS container tool v1.0.0 released](https://github.com/apple/container)
+* [2026-06-10, 11:25:00](https://soylentnews.org/article.pl?sid=26/06/09/1118255&amp;from=rss) - [Russia&apos;s New ‘Starlink‑Style’ Rassvet Fleet Launches](https://soylentnews.org/article.pl?sid=26/06/09/1118255&amp;from=rss)
+* [2026-06-10, 11:13:17](https://lobste.rs/s/esvncd/how_building_html_first_site_doubled_our) - [How building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
+* [2026-06-10, 11:00:00](https://hardware.slashdot.org/story/26/06/10/0319259/commonwealth-fusion-makes-the-physics-case-for-its-400-mw-reactor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Commonwealth Fusion Makes the Physics Case For Its 400 MW Reactor](https://hardware.slashdot.org/story/26/06/10/0319259/commonwealth-fusion-makes-the-physics-case-for-its-400-mw-reactor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-10, 10:59:41](https://lobste.rs/s/5iuaxt/17_bugs_10_weeks_from_ai_security_scanning) - [17 bugs in 10 weeks from AI security scanning](https://lalitm.com/post/perfetto-security-bugs-ai/)
 * [2026-06-10, 10:14:49](https://lobste.rs/s/drkeug/upcoming_breaking_changes_for_npm_v12) - [Upcoming breaking changes for npm v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
+* [2026-06-10, 09:43:16](https://news.ycombinator.com/item?id=48473845) - [Show HN: macOS menu bar gauges for your Claude Code quota](https://github.com/grzegorz-raczek-unit8/claude-quota)
 * [2026-06-10, 09:34:14](https://lobste.rs/s/p07gv1/new_recaptcha_requires_approved_phones) - [New reCaptcha requires approved phones to pass](https://cybernews.com/privacy/google-qr-code-recaptcha-requires-approved-phone/)
 * [2026-06-10, 09:19:55](https://news.ycombinator.com/item?id=48473662) - [Port React Compiler to Rust](https://github.com/react/react/pull/36173)
 * [2026-06-10, 08:29:48](https://lobste.rs/s/k85k6w/line_by_line_translation_ocaml_runtime) - [A line-by-line translation of the OCaml runtime from C to Rust](https://discuss.ocaml.org/t/a-line-by-line-translation-of-the-ocaml-runtime-from-c-to-rust/18247)
-* [2026-06-10, 08:27:46](https://news.ycombinator.com/item?id=48473204) - [European sentiments towards the US hit an all-time low](https://ecfr.eu/publication/home-alone-europeans-are-ready-to-defend-themselves/)
 * [2026-06-10, 08:21:38](https://news.ycombinator.com/item?id=48473166) - [AWS Bedrock to require sharing data with Anthropic for Mythos and future models](https://news.ycombinator.com/item?id=48473166)
 * [2026-06-10, 07:44:49](https://news.ycombinator.com/item?id=48472877) - [Mercedes‑Benz starts large‑scale production of electric axial flux motor](https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf)
 * [2026-06-10, 07:00:00](https://science.slashdot.org/story/26/06/10/0256248/nasa-announces-astronauts-for-its-artemis-iii-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Announces Astronauts For Its Artemis III Mission](https://science.slashdot.org/story/26/06/10/0256248/nasa-announces-astronauts-for-its-artemis-iii-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -105,7 +124,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-09, 19:21:45](https://news.ycombinator.com/item?id=48466277) - [Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/)
 * [2026-06-09, 19:00:00](https://apple.slashdot.org/story/26/06/09/1749209/eu-says-decision-not-to-launch-siri-ai-in-europe-is-apples-alone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [EU Says Decision Not to Launch Siri AI in Europe Is Apple&apos;s Alone](https://apple.slashdot.org/story/26/06/09/1749209/eu-says-decision-not-to-launch-siri-ai-in-europe-is-apples-alone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-09, 18:45:59](https://news.ycombinator.com/item?id=48465675) - [CEOs who think AI replaces their employees are just bad CEOs](https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/)
-* [2026-06-09, 18:36:28](https://lobste.rs/s/kacy2v/ios_27_system_prompts) - [iOS 27 system prompts](https://gist.github.com/samhenrigold/4d107eddf2c0a9d0afb428922adcc2c3)
 * [2026-06-09, 18:00:00](https://tech.slashdot.org/story/26/06/09/1733200/meta-will-use-your-activity-on-other-websites-to-personalize-your-feeds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Will Use Your Activity On Other Websites To Personalize Your Feeds](https://tech.slashdot.org/story/26/06/09/1733200/meta-will-use-your-activity-on-other-websites-to-personalize-your-feeds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-09, 17:17:21](https://news.ycombinator.com/item?id=48464140) - [What it feels like to work with Mythos](https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos)
 * [2026-06-09, 17:00:00](https://it.slashdot.org/story/26/06/09/1657218/microsoft-hacked-to-deliver-malware-to-claude-and-gemini-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Hacked To Deliver Malware To Claude and Gemini Users](https://it.slashdot.org/story/26/06/09/1657218/microsoft-hacked-to-deliver-malware-to-claude-and-gemini-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -126,29 +144,24 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-09, 11:01:23](https://lobste.rs/s/cebwpi/datatype_variable_font_turns_text_into) - [Datatype — variable font that turns text into charts](https://franktisellano.github.io/datatype/)
 * [2026-06-09, 11:00:00](https://science.slashdot.org/story/26/06/08/2317255/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tests Suggest Russian Satellites Can Jam GPS On a Continental Scale](https://science.slashdot.org/story/26/06/08/2317255/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-09, 10:55:01](https://lobste.rs/s/zwn4xe/test_case_reducers_are_underappreciated) - [Test-case Reducers Are Underappreciated Debugging Tools](https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html)
-* [2026-06-09, 10:46:14](https://news.ycombinator.com/item?id=48459294) - [Making Graphics Like it&apos;s 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
-* [2026-06-09, 09:51:00](https://lobste.rs/s/azfaop/now_what) - [Now what?](https://blog.danieljanus.pl/now-what/)
 * [2026-06-09, 07:04:13](https://lobste.rs/s/5hk3s6/decline_search_engines_is_opportunity) - [The Decline of Search Engines is an Opportunity](https://lewiscampbell.tech/blog/260609.html)
 * [2026-06-09, 07:00:00](https://hardware.slashdot.org/story/26/06/08/235214/donut-labs-solid-state-battery-exposed-as-regular-li-ion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Donut Lab&apos;s &apos;Solid-State&apos; Battery Exposed As Regular Li-Ion](https://hardware.slashdot.org/story/26/06/08/235214/donut-labs-solid-state-battery-exposed-as-regular-li-ion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-09, 06:50:00](https://soylentnews.org/article.pl?sid=26/06/07/2321211&amp;from=rss) - [Datacenters May Face One-Year Ban In NY](https://soylentnews.org/article.pl?sid=26/06/07/2321211&amp;from=rss)
 * [2026-06-09, 03:30:00](https://news.slashdot.org/story/26/06/08/2251201/severe-stress-on-oceans-as-rate-of-sea-level-rise-doubles-in-10-years-un-warns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Severe&apos; Stress On Oceans As Rate of Sea Level Rise Doubles In 10 Years, UN Warns](https://news.slashdot.org/story/26/06/08/2251201/severe-stress-on-oceans-as-rate-of-sea-level-rise-doubles-in-10-years-un-warns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-09, 02:32:38](https://lobste.rs/s/uvwcdo/cleaning_up_after_ai_rockstar_developers) - [Cleaning up after AI rockstar developers](https://www.codingwithjesse.com/blog/rockstar-developers/)
 * [2026-06-09, 02:06:00](https://soylentnews.org/article.pl?sid=26/06/07/2319243&amp;from=rss) - [How A USB-Connected Speaker Can Infect A PC Without Ever Being Touched](https://soylentnews.org/article.pl?sid=26/06/07/2319243&amp;from=rss)
-* [2026-06-08, 23:00:00](https://news.slashdot.org/story/26/06/08/2242200/openai-files-for-ipo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Files For IPO](https://news.slashdot.org/story/26/06/08/2242200/openai-files-for-ipo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-08, 22:39:29](https://lobste.rs/s/pf0tx3/what_i_got_wrong_about_fast_terminals) - [What I got wrong about fast terminals](https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/)
-* [2026-06-08, 22:02:47](https://news.ycombinator.com/item?id=48452901) - [Computer Lessons](https://technicshistory.com/2026/06/06/computer-lessons/)
 * [2026-06-08, 21:21:00](https://soylentnews.org/article.pl?sid=26/06/07/1853208&amp;from=rss) - [UK Exam Watchdog Frets Over Smart Specs Turning GCSEs Into Google Searches](https://soylentnews.org/article.pl?sid=26/06/07/1853208&amp;from=rss)
-* [2026-06-08, 21:00:13](https://news.ycombinator.com/item?id=48451966) - [A giant star may have destroyed itself in one of the rarest explosions](https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html)
-* [2026-06-08, 16:52:38](https://lobste.rs/s/awlukh/wwdc_2026) - [WWDC 2026](https://www.apple.com/apple-events/event-stream/)
+* [2026-06-08, 20:48:43](https://news.ycombinator.com/item?id=48451789) - [Hacking for Defense Stanford 2026 – Lessons Learned Presentations](https://steveblank.com/2026/06/08/g-for-defense-stanford-2026-lessons-learned-presentations/)
 * [2026-06-08, 16:35:00](https://soylentnews.org/article.pl?sid=26/06/06/1857242&amp;from=rss) - [Giant Data Center Plan Cut 50% Amid Protests - \&quot;We Pissed Off A Lot Of People\&quot;](https://soylentnews.org/article.pl?sid=26/06/06/1857242&amp;from=rss)
 * [2026-06-08, 14:24:57](https://news.ycombinator.com/item?id=48445834) - [Lies we tell ourselves about email addresses](https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/)
+* [2026-06-08, 14:15:32](https://news.ycombinator.com/item?id=48445702) - [Who Runs Your Rust Future? Hands-On Intro to Async Rust](https://aibodh.com/posts/async-rust-chapter-1-hands-on-intro-to-async-rust/)
 * [2026-06-08, 11:51:00](https://soylentnews.org/article.pl?sid=26/06/06/1854248&amp;from=rss) - [Safety Officials Finally Have A Good Idea Of What A Big Rocket Explosion Can Do](https://soylentnews.org/article.pl?sid=26/06/06/1854248&amp;from=rss)
 * [2026-06-08, 10:44:44](https://news.ycombinator.com/item?id=48443644) - [Reviving Papers with Code](https://paperswithcode.co/)
 * [2026-06-08, 10:01:31](https://news.ycombinator.com/item?id=48443322) - [Premature Optimization Is Fun Sometimes](https://invlpg.com/posts/2025-06-19-premature-optimization.html)
+* [2026-06-08, 09:05:29](https://news.ycombinator.com/item?id=48442932) - [Buy a train, bridge or tracks from the Swiss Railway](https://sbbresale.ch/)
 * [2026-06-08, 07:07:00](https://soylentnews.org/article.pl?sid=26/06/06/1851230&amp;from=rss) - [The Floppy Disk Patent Was Granted Today In 1972 — When 80KB Took Up 8 Inches And Were Really Floppy](https://soylentnews.org/article.pl?sid=26/06/06/1851230&amp;from=rss)
 * [2026-06-08, 02:20:00](https://soylentnews.org/article.pl?sid=26/06/06/1850206&amp;from=rss) - [AI Data Centers&apos; Extreme Memory Consumption Threatens Other Industries](https://soylentnews.org/article.pl?sid=26/06/06/1850206&amp;from=rss)
 * [2026-06-07, 21:36:00](https://soylentnews.org/article.pl?sid=26/06/06/1848239&amp;from=rss) - [After 11 Years At Mars, NASA&apos;s MAVEN Spacecraft Went Out With A Whisper](https://soylentnews.org/article.pl?sid=26/06/06/1848239&amp;from=rss)
-* [2026-06-07, 18:56:46](https://news.ycombinator.com/item?id=48437587) - [How do you design a $30k electric pickup? Inside Ford&apos;s skunkworks](https://arstechnica.com/cars/2026/05/how-do-you-design-a-30000-electric-pickup-inside-fords-skunkworks/)
 * [2026-06-07, 16:53:00](https://soylentnews.org/article.pl?sid=26/06/06/1843238&amp;from=rss) - [The 1N4148: The Signal Diode That Ended Up Everywhere ](https://soylentnews.org/article.pl?sid=26/06/06/1843238&amp;from=rss)
 * [2026-06-07, 12:07:00](https://soylentnews.org/article.pl?sid=26/06/06/1338226&amp;from=rss) - [Small Modular Nuclear Reactor Reaches Criticality in First Test](https://soylentnews.org/article.pl?sid=26/06/06/1338226&amp;from=rss)
 * [2026-06-07, 10:38:31](https://news.ycombinator.com/item?id=48433525) - [Magnetoelectric antennas could transform how underwater robots talk](https://newatlas.com/engineering/magnetoelectric-antennas-submarine-robots-communications/)
