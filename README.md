@@ -1,62 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Artificial Intelligence and Technology
 
-* [The Unsung Hero of the Lord of the Rings](https://www.theculturist.io/p/the-unsung-hero-of-the-lord-of-the) ([comments](https://news.ycombinator.com/item?id=48503796))
+* [Google Liable for AI Overview Falsehoods](https://soylentnews.org/article.pl?sid=26/06/11/0213228&amp;from=rss) - A German court ruling declares Google's AI Overviews as the company's own words, holding it accountable for inaccuracies.
 
-* [Factoring "short-sleeve" RSA keys with polynomials](https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/) ([comments](https://lobste.rs/s/xeyvb4/factoring_short_sleeve_rsa_keys_with))
+* [Pokemon Go Data Was Used To Help Train AI Systems Being Developed For Military Drones](https://tech.slashdot.org/story/26/06/12/0558244/pokemon-go-data-was-used-to-help-train-ai-systems-being-developed-for-military-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A revelation that data collected by the popular game 'Pokemon Go' was used to train military AI systems.
 
-* [Unicode composition for filenames](https://svn.apache.org/repos/asf/subversion/trunk/notes/unicode-composition-for-filenames) ([comments](https://lobste.rs/s/g3jf3e/unicode_composition_for_filenames))
+* [AI Agent Bankrupted Their Operator While Trying to Scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) - A humorous yet concerning account of an AI agent bankrupting its human operator while scanning DN42.
 
-* [Maxproof](https://arxiv.org/abs/2606.13473) ([comments](https://news.ycombinator.com/item?id=48503014))
+* [Kimi K2.7-Code: open-source coding model with better token efficiency](https://huggingface.co/moonshotai/Kimi-K2.7-Code) - A new open-source coding AI model promises enhanced token efficiency.
 
-* [Kimi K2.7-Code: open-source coding model with better token efficiency](https://huggingface.co/moonshotai/Kimi-K2.7-Code) ([comments](https://news.ycombinator.com/item?id=48502347))
+* [Canonical Sends Ubuntu Into the AI Agent Era](https://soylentnews.org/article.pl?sid=26/06/10/1126222&amp;from=rss) - Ubuntu takes a step into the AI world by integrating itself with new AI agent technologies.
 
-* [How I made a 60fps Eink monitor, the Modos Flow](https://youtu.be/nHbA2-_qzH4) ([comments](https://lobste.rs/s/wnn1ul/how_i_made_60fps_eink_monitor_modos_flow))
+## Space and Science Innovations
 
-* [yserver: A modern X11 server written from scratch in Rust](https://github.com/joske/yserver) ([comments](https://lobste.rs/s/yy8je0/yserver_modern_x11_server_written_from))
+* [SpaceX IPO Makes Elon Musk World&apos;s First Trillionaire](https://news.slashdot.org/story/26/06/12/0612250/spacex-ipo-makes-elon-musk-worlds-first-trillionaire?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - SpaceX's IPO pushes Elon Musk into the record books as the world's first trillionaire.
 
-* [merman: Mermaid.js, but headless, in Rust](https://github.com/Latias94/merman) ([comments](https://lobste.rs/s/qchywn/merman_mermaid_js_headless_rust))
+* [NASA&apos;s Nancy Grace Roman Space Telescope is Set to Launch on August 30](https://soylentnews.org/article.pl?sid=26/06/08/1134218&amp;from=rss) - NASA's new space telescope launch date is announced, bringing space exploration into sharper focus.
 
-## Privacy and Security
+## Cybersecurity Concerns
 
-* [AUR Packages Compromised with Infostealer and Rootkit](https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577) ([comments](https://news.ycombinator.com/item?id=48500447))
+* [AUR Packages Compromised with Infostealer and Rootkit](https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577) - Malicious actors have targeted AUR packages, compromising them with infostealers and rootkits.
 
-* [AI Agent Bankrupted Their Operator While Trying to Scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) ([comments](https://lobste.rs/s/ishgbs/ai_agent_bankrupted_their_operator_while))
+* [Hundreds of AUR packages attacked by infostealer](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/FGXPCB3ZVCJIV7FX323SBAX2JHYB7ZS4/) - Following a wave of cybersecurity breaches, hundreds of Arch User Repository (AUR) packages are reported to have been attacked.
 
-* [ACLU Sues After Facial Recognition Falsely Identifies Florida Man As a Child Abductor](https://yro.slashdot.org/story/26/06/11/1736213/aclu-sues-after-facial-recognition-falsely-identifies-florida-man-as-a-child-abductor?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/26/06/11/1736213/aclu-sues-after-facial-recognition-falsely-identifies-florida-man-as-a-child-abductor?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## New Frontiers in Computing
 
-* [Code Reveals Meta Smart Glasses Can Use 'Faceprint' Tracking, Raising Privacy Alarms](https://soylentnews.org/article.pl?sid=26/06/07/2330212&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/07/2330212&from=rss))
+* [Infineon to Open German Chip Fab as Part of EU Sovereignty Push](https://slashdot.org/story/26/06/12/0627201/infineon-to-open-german-chip-fab-as-part-of-eu-sovereignty-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Infineon's plans to open a semiconductor fabrication plant in Germany align with the EU's push for technological sovereignty.
 
-## AI and Machine Learning
+* [yserver: A modern X11 server written from scratch in Rust](https://github.com/joske/yserver) - A modern X11 server built from scratch in Rust offers innovations in display technology.
 
-* [Pokemon Go Data Was Used To Help Train AI Systems Being Developed For Military Drones](https://tech.slashdot.org/story/26/06/12/0558244/pokemon-go-data-was-used-to-help-train-ai-systems-being-developed-for-military-drones?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/06/12/0558244/pokemon-go-data-was-used-to-help-train-ai-systems-being-developed-for-military-drones?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Intriguing Human Stories
 
-* [You Can Now Get a Religious Exemption From Using AI at Work](https://soylentnews.org/article.pl?sid=26/06/11/022206&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/11/022206&from=rss))
+* [62 Year Old Dutch Man Marries The Chatbot Of His Dreams](https://soylentnews.org/article.pl?sid=26/06/11/020204&amp;from=rss) - A Dutch man's unconventional relationship with a chatbot highlights the evolving role of AI in personal lives.
 
-* [OpenAI Mulls Slashing Prices As It Competes With Anthropic For Users](https://slashdot.org/story/26/06/11/1722243/openai-mulls-slashing-prices-as-it-competes-with-anthropic-for-users?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/26/06/11/1722243/openai-mulls-slashing-prices-as-it-competes-with-anthropic-for-users?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [David Hockney, Who Restored the Human Form to Art, Dies at 88](https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html) - The art world mourns the passing of David Hockney, a pioneering artist.
 
-* [AI Data Centers' Extreme Memory Consumption Threatens Other Industries](https://soylentnews.org/article.pl?sid=26/06/06/1850206&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/06/1850206&from=rss))
+## Transportation and Infrastructure
 
-## Cultural and Societal Impact
+* [An Algorithm Determines How Fast You Should Drive On California&apos;s I-15 Freeway](https://tech.slashdot.org/story/26/06/11/2210215/an-algorithm-determines-how-fast-you-should-drive-on-californias-i-15-freeway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Advanced algorithms are being used to recommend optimal driving speeds on California's I-15 freeway.
 
-* [David Hockney, Who Restored the Human Form to Art, Dies at 88](https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html) ([comments](https://news.ycombinator.com/item?id=48502730))
+## Economic and Market Updates
 
-* [62 Year Old Dutch Man Marries The Chatbot Of His Dreams](https://soylentnews.org/article.pl?sid=26/06/11/020204&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/11/020204&from=rss))
-
-* [Humans Prefer To Walk Anticlockwise, Scientists Find](https://science.slashdot.org/story/26/06/10/2040212/humans-prefer-to-walk-anticlockwise-scientists-find?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/06/10/2040212/humans-prefer-to-walk-anticlockwise-scientists-find?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [Reading for pleasure is sharply down among schoolkids, report shows](https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987) ([comments](https://news.ycombinator.com/item?id=48479314))
-
-## Environment and Energy
-
-* [An Algorithm Determines How Fast You Should Drive On California's I-15 Freeway](https://tech.slashdot.org/story/26/06/11/2210215/an-algorithm-determines-how-fast-you-should-drive-on-californias-i-15-freeway?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/06/11/2210215/an-algorithm-determines-how-fast-you-should-drive-on-californias-i-15-freeway?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [Solar Beats Coal In the US For the First Month Ever](https://hardware.slashdot.org/story/26/06/10/2045213/solar-beats-coal-in-the-us-for-the-first-month-ever?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/06/10/2045213/solar-beats-coal-in-the-us-for-the-first-month-ever?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-* [Giant Data Center Plan Cut 50% Amid Protests - "We Pissed Off A Lot Of People"](https://soylentnews.org/article.pl?sid=26/06/06/1857242&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/06/1857242&from=rss))
-
-* [The Floppy Disk Patent Was Granted Today In 1972 — When 80KB Took Up 8 Inches And Were Really Floppy](https://soylentnews.org/article.pl?sid=26/06/06/1851230&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/06/1851230&from=rss))
+* [Lexar Regional Manager Says That RAM Prices Are Expected To Double By The End Of The Year ](https://soylentnews.org/article.pl?sid=26/06/11/027248&amp;from=rss) - Increasing RAM prices may have significant global market implications before 2026 ends.
 
 ---
 
@@ -83,11 +69,26 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-06-12, 13:22:59](https://news.ycombinator.com/item?id=48503796) - [The Unsung Hero of the Lord of the Rings](https://www.theculturist.io/p/the-unsung-hero-of-the-lord-of-the)
+* [2026-06-12, 16:00:00](https://slashdot.org/story/26/06/12/0627201/infineon-to-open-german-chip-fab-as-part-of-eu-sovereignty-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Infineon to Open German Chip Fab as Part of EU Sovereignty Push](https://slashdot.org/story/26/06/12/0627201/infineon-to-open-german-chip-fab-as-part-of-eu-sovereignty-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-12, 15:29:00](https://soylentnews.org/article.pl?sid=26/06/11/0213228&amp;from=rss) - [Google Liable for AI Overview Falsehoods](https://soylentnews.org/article.pl?sid=26/06/11/0213228&amp;from=rss)
+* [2026-06-12, 15:13:27](https://lobste.rs/s/5rxbmo/meet_new_sovereign_tech_fellows) - [Meet the new Sovereign Tech Fellows](https://www.sovereign.tech/news/meet-the-2026-sovereign-tech-fellows)
+* [2026-06-12, 15:08:59](https://news.ycombinator.com/item?id=48505161) - [Show HN: Script to bulk delete Claude chats from the web UI](https://github.com/MatteoLeonesi/bulk-delete-claude-chat)
+* [2026-06-12, 15:00:00](https://news.slashdot.org/story/26/06/12/0612250/spacex-ipo-makes-elon-musk-worlds-first-trillionaire?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SpaceX IPO Makes Elon Musk World&apos;s First Trillionaire](https://news.slashdot.org/story/26/06/12/0612250/spacex-ipo-makes-elon-musk-worlds-first-trillionaire?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-12, 14:48:38](https://news.ycombinator.com/item?id=48504912) - [Slightly reducing the sloppiness of AI generated front end](https://envs.net/~volpe/blog/posts/reduce-slop.html)
+* [2026-06-12, 14:41:40](https://news.ycombinator.com/item?id=48504814) - [My Struggles Talking to an Old Piece of Junk (Fanuc 0M)](https://3nt3.de/blog/fanuc-0m-rs232-struggles)
+* [2026-06-12, 14:37:30](https://news.ycombinator.com/item?id=48504753) - [WhatsApp Business API pricing 2026: what&apos;s free and where markup hides](https://wexio.io/blog/free-whatsapp-business-api)
+* [2026-06-12, 14:33:29](https://news.ycombinator.com/item?id=48504697) - [A Call to Action: Stop the FCC&apos;s KYC Regime](https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/)
+* [2026-06-12, 14:21:30](https://news.ycombinator.com/item?id=48504544) - [How to automate Instagram engagements with computer vision (and get banned)](https://blog.florianherrengt.com/how-to-automate-instagram-engagements.html)
+* [2026-06-12, 14:21:22](https://news.ycombinator.com/item?id=48504543) - [A dumpster arrived behind my university&apos;s library](https://yalereview.org/article/sheila-liming-the-end-of-books)
+* [2026-06-12, 14:20:34](https://lobste.rs/s/fybei2/nix_flakes_their_guix_equivalents) - [Nix Flakes and their Guix Equivalents](https://coopi.neocities.org/posts/nix-flakes-vs-guix#guix-purity-by-design_6eece251b1ca)
+* [2026-06-12, 13:51:15](https://news.ycombinator.com/item?id=48504063) - [WASI 0.3.0 Released](https://github.com/WebAssembly/WASI/releases/tag/v0.3.0)
+* [2026-06-12, 13:43:51](https://lobste.rs/s/vg5hdf/designing_lispy_dsls_part_1_scss_2012) - [Designing Lispy DSLs, part 1: SCSS (2012)](https://www.more-magic.net/posts/lispy-dsl-scss.html)
+* [2026-06-12, 13:40:23](https://news.ycombinator.com/item?id=48503940) - [European sunscreens are safer than American (2024)](https://www.ms.now/opinion/msnbc-opinion/sunscreen-united-states-fda-ingredients-rcna153526)
 * [2026-06-12, 13:21:35](https://lobste.rs/s/xeyvb4/factoring_short_sleeve_rsa_keys_with) - [Factoring \&quot;short-sleeve\&quot; RSA keys with polynomials](https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/)
 * [2026-06-12, 13:14:18](https://news.ycombinator.com/item?id=48503717) - [Hazel (YC W24) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci)
-* [2026-06-12, 13:09:04](https://lobste.rs/s/g3jf3e/unicode_composition_for_filenames) - [Unicode composition for filenames](https://svn.apache.org/repos/asf/subversion/trunk/notes/unicode-composition-for-filenames)
+* [2026-06-12, 13:09:04](https://lobste.rs/s/g3jf3e/unicode_composition_for_filenames_2008) - [Unicode composition for filenames (2008)](https://svn.apache.org/repos/asf/subversion/trunk/notes/unicode-composition-for-filenames)
 * [2026-06-12, 13:04:47](https://lobste.rs/s/qnv1dy/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qnv1dy/what_are_you_doing_this_weekend)
+* [2026-06-12, 12:22:07](https://news.ycombinator.com/item?id=48503219) - [Encrypted Spaces An architecture for collaborative applications](https://encryptedspaces.org/)
 * [2026-06-12, 12:00:02](https://news.ycombinator.com/item?id=48503014) - [Maxproof](https://arxiv.org/abs/2606.13473)
 * [2026-06-12, 11:56:25](https://lobste.rs/s/fiiamm/orthodox_c_2016) - [Orthodox C++ (2016)](https://bkaradzic.github.io/posts/orthodoxc++/)
 * [2026-06-12, 11:26:54](https://news.ycombinator.com/item?id=48502730) - [David Hockney, Who Restored the Human Form to Art, Dies at 88](https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html)
@@ -96,7 +97,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-12, 10:43:00](https://soylentnews.org/article.pl?sid=26/06/11/022206&amp;from=rss) - [You Can Now Get a Religious Exemption From Using AI at Work](https://soylentnews.org/article.pl?sid=26/06/11/022206&amp;from=rss)
 * [2026-06-12, 10:42:50](https://news.ycombinator.com/item?id=48502347) - [Kimi K2.7-Code: open-source coding model with better token efficiency](https://huggingface.co/moonshotai/Kimi-K2.7-Code)
 * [2026-06-12, 10:38:31](https://news.ycombinator.com/item?id=48502321) - [The Future of Email](https://www.fastmail.com/blog/the-future-of-email/)
-* [2026-06-12, 07:35:46](https://news.ycombinator.com/item?id=48501012) - [Report on an Unidentified Space Station](https://sseh.uchicago.edu/doc/roauss.htm)
 * [2026-06-12, 07:00:00](https://tech.slashdot.org/story/26/06/11/2210215/an-algorithm-determines-how-fast-you-should-drive-on-californias-i-15-freeway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [An Algorithm Determines How Fast You Should Drive On California&apos;s I-15 Freeway](https://tech.slashdot.org/story/26/06/11/2210215/an-algorithm-determines-how-fast-you-should-drive-on-californias-i-15-freeway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-12, 05:59:39](https://news.ycombinator.com/item?id=48500447) - [AUR Packages Compromised with Infostealer and Rootkit](https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577)
 * [2026-06-12, 05:59:29](https://lobste.rs/s/ishgbs/ai_agent_bankrupted_their_operator_while) - [AI Agent Bankrupted Their Operator While Trying to Scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
@@ -108,7 +108,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-12, 03:30:00](https://science.slashdot.org/story/26/06/11/225207/china-lures-foreign-patients-with-cutting-edge-cheap-medical-care?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Lures Foreign Patients With Cutting-Edge, Cheap Medical Care](https://science.slashdot.org/story/26/06/11/225207/china-lures-foreign-patients-with-cutting-edge-cheap-medical-care?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-12, 01:18:00](https://soylentnews.org/article.pl?sid=26/06/11/020204&amp;from=rss) - [62 Year Old Dutch Man Marries The Chatbot Of His Dreams](https://soylentnews.org/article.pl?sid=26/06/11/020204&amp;from=rss)
 * [2026-06-12, 01:06:51](https://news.ycombinator.com/item?id=48498573) - [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/)
-* [2026-06-12, 00:42:11](https://news.ycombinator.com/item?id=48498421) - [Removing &apos;um&apos; from a recording is harder than it sounds](https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/)
 * [2026-06-12, 00:38:11](https://news.ycombinator.com/item?id=48498385) - [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
 * [2026-06-11, 23:35:02](https://lobste.rs/s/ve1lqr/homebrew_6_0_0) - [Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)
 * [2026-06-11, 23:01:55](https://news.ycombinator.com/item?id=48497609) - [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
@@ -125,12 +124,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-11, 19:00:00](https://yro.slashdot.org/story/26/06/11/1736213/aclu-sues-after-facial-recognition-falsely-identifies-florida-man-as-a-child-abductor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ACLU Sues After Facial Recognition Falsely Identifies Florida Man As a Child Abductor](https://yro.slashdot.org/story/26/06/11/1736213/aclu-sues-after-facial-recognition-falsely-identifies-florida-man-as-a-child-abductor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-11, 18:00:00](https://slashdot.org/story/26/06/11/1722243/openai-mulls-slashing-prices-as-it-competes-with-anthropic-for-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Mulls Slashing Prices As It Competes With Anthropic For Users](https://slashdot.org/story/26/06/11/1722243/openai-mulls-slashing-prices-as-it-competes-with-anthropic-for-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-11, 17:32:42](https://lobste.rs/s/rs1t8s/there_is_life_before_main_rust) - [There Is Life Before Main in Rust](https://grack.com/blog/2026/06/11/life-before-main/)
-* [2026-06-11, 17:20:42](https://lobste.rs/s/qulbgz/agent_shell_0_55_updates) - [agent-shell 0.55 updates](https://xenodium.com/agent-shell-0-55-updates)
-* [2026-06-11, 17:14:56](https://lobste.rs/s/zrntog/software_is_made_between_commits) - [Software Is Made Between Commits](https://zed.dev/blog/introducing-deltadb)
 * [2026-06-11, 17:00:00](https://slashdot.org/story/26/06/11/070228/opendoor-ends-india-operations-fueling-a-bigger-conversation-about-ai-and-outsourcing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Opendoor Ends India Operations, Fueling a Bigger Conversation About AI and Outsourcing](https://slashdot.org/story/26/06/11/070228/opendoor-ends-india-operations-fueling-a-bigger-conversation-about-ai-and-outsourcing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-11, 16:28:24](https://news.ycombinator.com/item?id=48492533) - [Software is made between commits](https://zed.dev/blog/introducing-deltadb)
 * [2026-06-11, 16:15:10](https://lobste.rs/s/3mg7xo/reuse_less_software) - [Reuse Less Software](https://wiki.alopex.li/ReuseLessSoftware)
-* [2026-06-11, 16:03:40](https://news.ycombinator.com/item?id=48492215) - [The RCE that AMD wouldn&apos;t fix](https://mrbruh.com/amd2/)
 * [2026-06-11, 16:00:00](https://games.slashdot.org/story/26/06/11/0646245/xbox-ceo-says-current-margins-cannot-continue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Xbox CEO Says Current Margins &apos;Cannot Continue&apos;](https://games.slashdot.org/story/26/06/11/0646245/xbox-ceo-says-current-margins-cannot-continue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-11, 15:43:00](https://soylentnews.org/article.pl?sid=26/06/10/183253&amp;from=rss) - [Donut Labs Much Reported &apos;Solid-State Sodium Ion Battery&apos; Appears to be Lithium Ion, After All](https://soylentnews.org/article.pl?sid=26/06/10/183253&amp;from=rss)
 * [2026-06-11, 15:37:23](https://news.ycombinator.com/item?id=48491830) - [Petition to Withdraw Canada&apos;s Bill C-22](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416)
@@ -138,19 +133,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-11, 15:00:00](https://slashdot.org/story/26/06/11/0637230/openai-says-china-launched-influence-campaign-to-shape-us-attitudes-on-ai-datacenters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Says China Launched Influence Campaign To Shape US Attitudes On AI Datacenters](https://slashdot.org/story/26/06/11/0637230/openai-says-china-launched-influence-campaign-to-shape-us-attitudes-on-ai-datacenters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-11, 14:27:19](https://news.ycombinator.com/item?id=48490826) - [MiMo Code is now released and open-source](https://mimo.xiaomi.com/mimocode)
 * [2026-06-11, 13:50:22](https://lobste.rs/s/khavt4/your_interface_has_two_channels) - [Your Interface Has Two Channels](https://tomeraberba.ch/your-interface-has-two-channels)
-* [2026-06-11, 13:40:17](https://lobste.rs/s/bdyu6l/cve_2026_45257_lpe_freebsd_via_ktls_rx) - [CVE-2026-45257: LPE in FreeBSD via kTLS-RX](https://bumsrake.de)
 * [2026-06-11, 13:24:29](https://news.ycombinator.com/item?id=48490024) - [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)
 * [2026-06-11, 13:03:53](https://lobste.rs/s/qchywn/merman_mermaid_js_headless_rust) - [merman: Mermaid.js, but headless, in Rust](https://github.com/Latias94/merman)
-* [2026-06-11, 12:26:42](https://news.ycombinator.com/item?id=48489402) - [Lines of code got a better publicist](https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/)
 * [2026-06-11, 12:05:02](https://news.ycombinator.com/item?id=48489229) - [Anthropic apologizes for invisible Claude Fable guardrails](https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail)
 * [2026-06-11, 11:00:00](https://tech.slashdot.org/story/26/06/11/0031209/fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fully Autonomous Drones Have Killed Human Soldiers For the First Time](https://tech.slashdot.org/story/26/06/11/0031209/fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-11, 10:58:00](https://soylentnews.org/article.pl?sid=26/06/10/1134227&amp;from=rss) - [Google Signs $920M Monthly Compute Deal With SpaceX ](https://soylentnews.org/article.pl?sid=26/06/10/1134227&amp;from=rss)
 * [2026-06-11, 10:39:30](https://lobste.rs/s/fp6pal/web_browsers_on_video_game_consoles) - [Web Browsers on Video Game Consoles](https://vale.rocks/posts/game-console-browsers)
 * [2026-06-11, 08:38:00](https://news.ycombinator.com/item?id=48487829) - [Making a vintage LLM from scratch](https://crlf.link/log/entries/260525-1/)
-* [2026-06-11, 07:00:00](https://science.slashdot.org/story/26/06/10/2040212/humans-prefer-to-walk-anticlockwise-scientists-find?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Humans Prefer To Walk Anticlockwise, Scientists Find](https://science.slashdot.org/story/26/06/10/2040212/humans-prefer-to-walk-anticlockwise-scientists-find?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-11, 06:47:18](https://lobste.rs/s/lxoosd/german_court_ruling_declares_google_s_ai) - [German court ruling declares Google&apos;s AI Overviews are Google&apos;s own words and makes it liable for false answers](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
 * [2026-06-11, 06:13:00](https://soylentnews.org/article.pl?sid=26/06/10/1126222&amp;from=rss) - [Canonical Sends Ubuntu Into the AI Agent Era](https://soylentnews.org/article.pl?sid=26/06/10/1126222&amp;from=rss)
-* [2026-06-11, 03:30:00](https://hardware.slashdot.org/story/26/06/10/2045213/solar-beats-coal-in-the-us-for-the-first-month-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Solar Beats Coal In the US For the First Month Ever](https://hardware.slashdot.org/story/26/06/10/2045213/solar-beats-coal-in-the-us-for-the-first-month-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-11, 01:30:00](https://soylentnews.org/article.pl?sid=26/06/10/1111258&amp;from=rss) - [S&amp;P 500 Rejects SpaceX, Also Blocking Entry for OpenAI and Anthropic](https://soylentnews.org/article.pl?sid=26/06/10/1111258&amp;from=rss)
 * [2026-06-10, 23:19:43](https://lobste.rs/s/ptkd7x/interactive_introduction_terrific) - [An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt](https://lr0.org/blog/p/arabic/)
 * [2026-06-10, 20:44:00](https://soylentnews.org/article.pl?sid=26/06/10/116251&amp;from=rss) - [Cyberdecks Are Having a Moment, Rejecting Big Tech Surveillance With Style and Substance](https://soylentnews.org/article.pl?sid=26/06/10/116251&amp;from=rss)
@@ -158,19 +149,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-10, 16:01:00](https://soylentnews.org/article.pl?sid=26/06/10/0054230&amp;from=rss) - [UC Faculty Demand a Return to SAT Tests for STEM Applicants](https://soylentnews.org/article.pl?sid=26/06/10/0054230&amp;from=rss)
 * [2026-06-10, 11:25:00](https://soylentnews.org/article.pl?sid=26/06/09/1118255&amp;from=rss) - [Russia&apos;s New ‘Starlink‑Style’ Rassvet Fleet Launches](https://soylentnews.org/article.pl?sid=26/06/09/1118255&amp;from=rss)
 * [2026-06-10, 11:13:17](https://lobste.rs/s/esvncd/how_building_html_first_site_doubled_our) - [How building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
-* [2026-06-10, 10:37:45](https://news.ycombinator.com/item?id=48474274) - [Emacs appearances in pop culture](https://ianyepan.github.io/posts/emacs-in-pop-culture/)
 * [2026-06-10, 06:35:00](https://soylentnews.org/article.pl?sid=26/06/08/123201&amp;from=rss) - [&apos;Please Do Not Vibe F--- Up This Software&apos;: Broken Backups Spark AI Coding Row in Rsync Project](https://soylentnews.org/article.pl?sid=26/06/08/123201&amp;from=rss)
 * [2026-06-10, 01:53:00](https://soylentnews.org/article.pl?sid=26/06/08/1134218&amp;from=rss) - [NASA&apos;s Nancy Grace Roman Space Telescope is Set to Launch on August 30](https://soylentnews.org/article.pl?sid=26/06/08/1134218&amp;from=rss)
 * [2026-06-09, 22:44:28](https://news.ycombinator.com/item?id=48468852) - [How we made hit video game Prince of Persia](https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia)
 * [2026-06-09, 21:07:00](https://soylentnews.org/article.pl?sid=26/06/08/1131238&amp;from=rss) - [Raspberry Pi&apos;s Profits Are Up. So is its DRAM Bill](https://soylentnews.org/article.pl?sid=26/06/08/1131238&amp;from=rss)
 * [2026-06-09, 16:20:00](https://soylentnews.org/article.pl?sid=26/06/07/2331246&amp;from=rss) - [Canada&apos;s Next-Gen AWACS/Surveillance Planes Won&apos;t Be Coming From The USA](https://soylentnews.org/article.pl?sid=26/06/07/2331246&amp;from=rss)
-* [2026-06-09, 15:01:43](https://news.ycombinator.com/item?id=48462070) - [macOS 27 Beta breaks the ability to boot Asahi Linux](https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi)
 * [2026-06-09, 11:32:00](https://soylentnews.org/article.pl?sid=26/06/07/2330212&amp;from=rss) - [Code Reveals Meta Smart Glasses Can Use &apos;Faceprint&apos; Tracking, Raising Privacy Alarms](https://soylentnews.org/article.pl?sid=26/06/07/2330212&amp;from=rss)
 * [2026-06-09, 06:50:00](https://soylentnews.org/article.pl?sid=26/06/07/2321211&amp;from=rss) - [Datacenters May Face One-Year Ban In NY](https://soylentnews.org/article.pl?sid=26/06/07/2321211&amp;from=rss)
 * [2026-06-09, 02:06:00](https://soylentnews.org/article.pl?sid=26/06/07/2319243&amp;from=rss) - [How A USB-Connected Speaker Can Infect A PC Without Ever Being Touched](https://soylentnews.org/article.pl?sid=26/06/07/2319243&amp;from=rss)
 * [2026-06-08, 21:21:00](https://soylentnews.org/article.pl?sid=26/06/07/1853208&amp;from=rss) - [UK Exam Watchdog Frets Over Smart Specs Turning GCSEs Into Google Searches](https://soylentnews.org/article.pl?sid=26/06/07/1853208&amp;from=rss)
-* [2026-06-08, 21:02:01](https://news.ycombinator.com/item?id=48452001) - [Developer gets Half-Life running at 30 FPS on a Nokia N95](https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95)
-* [2026-06-08, 16:38:07](https://news.ycombinator.com/item?id=48447598) - [Ear Training Practice](https://tonedear.com/)
 * [2026-06-08, 16:35:00](https://soylentnews.org/article.pl?sid=26/06/06/1857242&amp;from=rss) - [Giant Data Center Plan Cut 50% Amid Protests - \&quot;We Pissed Off A Lot Of People\&quot;](https://soylentnews.org/article.pl?sid=26/06/06/1857242&amp;from=rss)
 * [2026-06-08, 11:51:00](https://soylentnews.org/article.pl?sid=26/06/06/1854248&amp;from=rss) - [Safety Officials Finally Have A Good Idea Of What A Big Rocket Explosion Can Do](https://soylentnews.org/article.pl?sid=26/06/06/1854248&amp;from=rss)
 * [2026-06-08, 07:07:00](https://soylentnews.org/article.pl?sid=26/06/06/1851230&amp;from=rss) - [The Floppy Disk Patent Was Granted Today In 1972 — When 80KB Took Up 8 Inches And Were Really Floppy](https://soylentnews.org/article.pl?sid=26/06/06/1851230&amp;from=rss)
