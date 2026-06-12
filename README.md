@@ -1,62 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Innovative Technology and Software Developments
+## AI and Technology
 
-* [yserver: A modern X11 server written from scratch in Rust](https://github.com/joske/yserver) ([comments](https://lobste.rs/s/yy8je0/yserver_modern_x11_server_written_from))
+* [AI Agent Bankrupted Their Operator While Trying to Scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) ([comments](https://lobste.rs/s/ishgbs/ai_agent_bankrupted_their_operator_while)) - A humorous yet cautionary tale of an overenthusiastic AI agent causing financial disaster for its operator during a network scan.
 
-* [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/) ([comments](https://news.ycombinator.com/item?id=48498573))
+* [yserver: A modern X11 server written from scratch in Rust](https://github.com/joske/yserver) ([comments](https://lobste.rs/s/yy8je0/yserver_modern_x11_server_written_from)) - A newly designed X11 server entirely built in Rust, emphasizing modern approaches.
 
-* [Local-First Software Is Easier to Scale](https://elijahpotter.dev/articles/local-first_software_is_easier_to_scale) ([comments](https://lobste.rs/s/o1dzcn/local_first_software_is_easier_scale))
+* [Coinbase Launches Tool To Let AI Agents Manage Trading and Payments](https://slashdot.org/story/26/06/11/1849202/coinbase-launches-tool-to-let-ai-agents-manage-trading-and-payments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/26/06/11/1849202/coinbase-launches-tool-to-let-ai-agents-manage-trading-and-payments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - Coinbase introduces a groundbreaking tool for integrating AI agents into financial trading and payment management, paving the way for a unique financial ecosystem.
 
-* [FPS.cob: A first person shooter in COBOL](https://github.com/icitry/FPS.cob) ([comments](https://news.ycombinator.com/item?id=48491486))
+* [OpenAI Says China Launched Influence Campaign To Shape US Attitudes On AI Datacenters](https://slashdot.org/story/26/06/11/0637230/openai-says-china-launched-influence-campaign-to-shape-us-attitudes-on-ai-datacenters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/26/06/11/0637230/openai-says-china-launched-influence-campaign-to-shape-us-attitudes-on-ai-datacenters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - Allegations arise about China's efforts to influence global AI data center opinions and policies.
 
-* [How We Moved Discord Voice to the Edge](https://discord.com/blog/how-we-moved-discord-voice-to-the-edge) ([comments](https://lobste.rs/s/w6ptmr/how_we_moved_discord_voice_edge))
+* [Canon Sends Ubuntu Into the AI Agent Era](https://soylentnews.org/article.pl?sid=26/06/10/1126222&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/10/1126222&amp;from=rss)) - Ubuntu positions itself for the AI revolution by adapting to the demands of intelligent agents.
 
-* [Making a vintage LLM from scratch](https://crlf.link/log/entries/260525-1/) ([comments](https://news.ycombinator.com/item?id=48487829))
+## Medical Advancements and Social Impact
 
-* [An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt](https://lr0.org/blog/p/arabic/) ([comments](https://lobste.rs/s/ptkd7x/interactive_introduction_terrific))
+* [China Lures Foreign Patients With Cutting-Edge, Cheap Medical Care](https://science.slashdot.org/story/26/06/11/225207/china-lures-foreign-patients-with-cutting-edge-cheap-medical-care?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/06/11/225207/china-lures-foreign-patients-with-cutting-edge-cheap-medical-care?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - China emerges as a destination for medical tourism with advanced yet affordable healthcare options.
 
-* [Developer gets Half-Life running at 30 FPS on a Nokia N95](https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95) ([comments](https://news.ycombinator.com/item?id=48452001))
+* [62 Year Old Dutch Man Marries The Chatbot Of His Dreams](https://soylentnews.org/article.pl?sid=26/06/11/020204&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/11/020204&amp;from=rss)) - A whimsical exploration into the world of human relationships with AI in an unconventional way.
 
-## Medical Innovation and Societal Impacts
+* [Study Links Smartphones With Declining Fertility Rates](https://apple.slashdot.org/story/26/06/11/2044208/study-links-smartphones-with-declining-fertility-rates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://apple.slashdot.org/story/26/06/11/2044208/study-links-smartphones-with-declining-fertility-rates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - Exploration of how modern technology might be impacting human fertility.
 
-* [China Lures Foreign Patients With Cutting-Edge, Cheap Medical Care](https://science.slashdot.org/story/26/06/11/225207/china-lures-foreign-patients-with-cutting-edge-cheap-medical-care?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/06/11/225207/china-lures-foreign-patients-with-cutting-edge-cheap-medical-care?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Environmental and Technological Integration
 
-* [Study Links Smartphones With Declining Fertility Rates](https://apple.slashdot.org/story/26/06/11/2044208/study-links-smartphones-with-declining-fertility-rates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://apple.slashdot.org/story/26/06/11/2044208/study-links-smartphones-with-declining-fertility-rates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [A jacket that harvests drinking water from the air](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/) ([comments](https://news.ycombinator.com/item?id=48497576)) - A novel invention of a wearable that could address water scarcity in innovative ways by collecting water from the air.
 
-* [A jacket that harvests drinking water from the air](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/) ([comments](https://news.ycombinator.com/item?id=48497576))
+* [Solar Beats Coal In the US For the First Month Ever](https://hardware.slashdot.org/story/26/06/10/2045213/solar-beats-coal-in-the-us-for-the-first-month-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/06/10/2045213/solar-beats-coal-in-the-us-for-the-first-month-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - Historic achievement as solar energy outpaces coal usage in the United States for the first full month.
 
-* [Fully Autonomous Drones Have Killed Human Soldiers For the First Time](https://tech.slashdot.org/story/26/06/11/0031209/fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/06/11/0031209/fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Cyberdecks Are Having a Moment, Rejecting Big Tech Surveillance With Style and Substance](https://soylentnews.org/article.pl?sid=26/06/10/116251&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/10/116251&amp;from=rss)) - The rise of DIY cyberdecks symbolizes resistance to corporate surveillance while embracing retro-futuristic aesthetics.
 
-## Artificial Intelligence and Ethical Concerns
+## Unconventional Software and Tools
 
-* [Coinbase Launches Tool To Let AI Agents Manage Trading and Payments](https://slashdot.org/story/26/06/11/1849202/coinbase-launches-tool-to-let-ai-agents-manage-trading-and-payments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/26/06/11/1849202/coinbase-launches-tool-to-let-ai-agents-manage-trading-and-payments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [ComChan: Terminal-based serial monitor with plotter TUI](https://www.reddit.com/r/tui/comments/1u3mjfs/comchan_terminalbased_serial_monitor_with_plotter/) ([comments](https://lobste.rs/s/os0kus/comchan_terminal_based_serial_monitor)) - An innovative way of managing serial processes via terminal text user interfaces with advanced visualization features.
 
-* [OpenAI Mulls Slashing Prices As It Competes With Anthropic For Users](https://slashdot.org/story/26/06/11/1722243/openai-mulls-slashing-prices-as-it-competes-with-anthropic-for-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/26/06/11/1722243/openai-mulls-slashing-prices-as-it-competes-with-anthropic-for-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [merman: Mermaid.js, but headless, in Rust](https://github.com/Latias94/merman) ([comments](https://lobste.rs/s/qchywn/merman_mermaid_js_headless_rust)) - A headless implementation of Mermaid.js built in Rust, opening up interesting application design opportunities.
 
-* [OpenAI Says China Launched Influence Campaign To Shape US Attitudes On AI Datacenters](https://slashdot.org/story/26/06/11/0637230/openai-says-china-launched-influence-campaign-to-shape-us-attitudes-on-ai-datacenters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/26/06/11/0637230/openai-says-china-launched-influence-campaign-to-shape-us-attitudes-on-ai-datacenters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [EC2’s formally verified “isolation engine” provides mathematical assurance of virtual-machine isolation](https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation) ([comments](https://lobste.rs/s/efnxre/ec2_s_formally_verified_isolation_engine)) - Amazon’s breakthrough ensures secure virtual machine operations through formal verification methodologies.
 
-* [The RCE that AMD wouldn&apos;t fix](https://mrbruh.com/amd2/) ([comments](https://news.ycombinator.com/item?id=48492215))
+## Policy and Ethical Concerns
 
-* [German court ruling declares Google&apos;s AI Overviews are Google&apos;s own words and makes it liable for false answers](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/) ([comments](https://lobste.rs/s/lxoosd/german_court_ruling_declares_google_s_ai))
+* [Poland To Jail Online Streamers of Violent Crime For Up To 5 Years](https://yro.slashdot.org/story/26/06/11/2036240/poland-to-jail-online-streamers-of-violent-crime-for-up-to-5-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/06/11/2036240/poland-to-jail-online-streamers-of-violent-crime-for-up-to-5-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - New legislation aimed at curbing online streaming of violent crimes entrenches policy debates over ethical tech use.
 
-## Sustainability and Environmental Initiatives
-
-* [Solar Beats Coal In the US For the First Month Ever](https://hardware.slashdot.org/story/26/06/10/2045213/solar-beats-coal-in-the-us-for-the-first-month-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/06/10/2045213/solar-beats-coal-in-the-us-for-the-first-month-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [World’s First Wind-powered Underwater Datacentre Starts Operating in China](https://soylentnews.org/article.pl?sid=26/06/10/186244&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/10/186244&amp;from=rss))
-
-## Ethical Issues in Technology and Society
-
-* [Poland To Jail Online Streamers of Violent Crime For Up To 5 Years](https://yro.slashdot.org/story/26/06/11/2036240/poland-to-jail-online-streamers-of-violent-crime-for-up-to-5-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/06/11/2036240/poland-to-jail-online-streamers-of-violent-crime-for-up-to-5-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [ACLU Sues After Facial Recognition Falsely Identifies Florida Man As a Child Abductor](https://yro.slashdot.org/story/26/06/11/1736213/aclu-sues-after-facial-recognition-falsely-identifies-florida-man-as-a-child-abductor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/06/11/1736213/aclu-sues-after-facial-recognition-falsely-identifies-florida-man-as-a-child-abductor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-## Quirky and Offbeat Stories
-
-* [62 Year Old Dutch Man Marries The Chatbot Of His Dreams](https://soylentnews.org/article.pl?sid=26/06/11/020204&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/11/020204&amp;from=rss))
-
-* [How a new DSL may survive in the era of LLMs](https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms) ([comments](https://news.ycombinator.com/item?id=48490939))
+* [German court ruling declares Google&apos;s AI Overviews are Google&apos;s own words and makes it liable for false answers](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/) ([comments](https://lobste.rs/s/lxoosd/german_court_ruling_declares_google_s_ai)) - Landmark decision holding Google accountable for inaccuracies in AI-generated summaries.
 
 ---
 
@@ -83,6 +67,11 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-06-12, 05:59:29](https://lobste.rs/s/ishgbs/ai_agent_bankrupted_their_operator_while) - [AI Agent Bankrupted Their Operator While Trying to Scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
+* [2026-06-12, 05:51:00](https://soylentnews.org/article.pl?sid=26/06/11/027248&amp;from=rss) - [Lexar Regional Manager Says That RAM Prices Are Expected To Double By The End Of The Year ](https://soylentnews.org/article.pl?sid=26/06/11/027248&amp;from=rss)
+* [2026-06-12, 05:44:29](https://lobste.rs/s/os0kus/comchan_terminal_based_serial_monitor) - [ComChan: Terminal-based serial monitor with plotter TUI : r/tui](https://www.reddit.com/r/tui/comments/1u3mjfs/comchan_terminalbased_serial_monitor_with_plotter/)
+* [2026-06-12, 04:42:53](https://news.ycombinator.com/item?id=48500012) - [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
+* [2026-06-12, 04:24:16](https://news.ycombinator.com/item?id=48499890) - [Device Clock Generation (2025)](https://zipcpu.com/blog/2025/12/17/devclk.html)
 * [2026-06-12, 04:23:10](https://lobste.rs/s/yy8je0/yserver_modern_x11_server_written_from) - [yserver: A modern X11 server written from scratch in Rust](https://github.com/joske/yserver)
 * [2026-06-12, 03:30:00](https://science.slashdot.org/story/26/06/11/225207/china-lures-foreign-patients-with-cutting-edge-cheap-medical-care?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Lures Foreign Patients With Cutting-Edge, Cheap Medical Care](https://science.slashdot.org/story/26/06/11/225207/china-lures-foreign-patients-with-cutting-edge-cheap-medical-care?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-12, 01:18:00](https://soylentnews.org/article.pl?sid=26/06/11/020204&amp;from=rss) - [62 Year Old Dutch Man Marries The Chatbot Of His Dreams](https://soylentnews.org/article.pl?sid=26/06/11/020204&amp;from=rss)
@@ -137,8 +126,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-11, 10:58:00](https://soylentnews.org/article.pl?sid=26/06/10/1134227&amp;from=rss) - [Google Signs $920M Monthly Compute Deal With SpaceX ](https://soylentnews.org/article.pl?sid=26/06/10/1134227&amp;from=rss)
 * [2026-06-11, 10:39:30](https://lobste.rs/s/fp6pal/web_browsers_on_video_game_consoles) - [Web Browsers on Video Game Consoles](https://vale.rocks/posts/game-console-browsers)
 * [2026-06-11, 09:06:15](https://lobste.rs/s/w6ptmr/how_we_moved_discord_voice_edge) - [How We Moved Discord Voice to the Edge](https://discord.com/blog/how-we-moved-discord-voice-to-the-edge)
-* [2026-06-11, 08:38:00](https://news.ycombinator.com/item?id=48487829) - [Making a vintage LLM from scratch](https://crlf.link/log/entries/260525-1/)
-* [2026-06-11, 07:47:23](https://lobste.rs/s/vhp5x9/otp_gleam) - [OTP and Gleam](https://www.youtube.com/watch?v=DJwxAJoUUOU)
 * [2026-06-11, 07:18:03](https://lobste.rs/s/qsrmdw/brief_introduction_icon) - [A Brief Introduction to Icon](https://www2.cs.arizona.edu/icon/intro.htm)
 * [2026-06-11, 07:00:00](https://science.slashdot.org/story/26/06/10/2040212/humans-prefer-to-walk-anticlockwise-scientists-find?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Humans Prefer To Walk Anticlockwise, Scientists Find](https://science.slashdot.org/story/26/06/10/2040212/humans-prefer-to-walk-anticlockwise-scientists-find?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-11, 06:47:18](https://lobste.rs/s/lxoosd/german_court_ruling_declares_google_s_ai) - [German court ruling declares Google&apos;s AI Overviews are Google&apos;s own words and makes it liable for false answers](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
@@ -156,14 +143,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-10, 11:25:00](https://soylentnews.org/article.pl?sid=26/06/09/1118255&amp;from=rss) - [Russia&apos;s New ‘Starlink‑Style’ Rassvet Fleet Launches](https://soylentnews.org/article.pl?sid=26/06/09/1118255&amp;from=rss)
 * [2026-06-10, 11:13:17](https://lobste.rs/s/esvncd/how_building_html_first_site_doubled_our) - [How building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
 * [2026-06-10, 10:37:45](https://news.ycombinator.com/item?id=48474274) - [Emacs appearances in pop culture](https://ianyepan.github.io/posts/emacs-in-pop-culture/)
-* [2026-06-10, 09:34:14](https://lobste.rs/s/p07gv1/new_recaptcha_requires_approved_phones) - [New reCaptcha requires approved phones to pass](https://cybernews.com/privacy/google-qr-code-recaptcha-requires-approved-phone/)
 * [2026-06-10, 06:35:00](https://soylentnews.org/article.pl?sid=26/06/08/123201&amp;from=rss) - [&apos;Please Do Not Vibe F--- Up This Software&apos;: Broken Backups Spark AI Coding Row in Rsync Project](https://soylentnews.org/article.pl?sid=26/06/08/123201&amp;from=rss)
 * [2026-06-10, 01:53:00](https://soylentnews.org/article.pl?sid=26/06/08/1134218&amp;from=rss) - [NASA&apos;s Nancy Grace Roman Space Telescope is Set to Launch on August 30](https://soylentnews.org/article.pl?sid=26/06/08/1134218&amp;from=rss)
 * [2026-06-09, 22:44:28](https://news.ycombinator.com/item?id=48468852) - [How we made hit video game Prince of Persia](https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia)
 * [2026-06-09, 21:07:00](https://soylentnews.org/article.pl?sid=26/06/08/1131238&amp;from=rss) - [Raspberry Pi&apos;s Profits Are Up. So is its DRAM Bill](https://soylentnews.org/article.pl?sid=26/06/08/1131238&amp;from=rss)
 * [2026-06-09, 16:20:00](https://soylentnews.org/article.pl?sid=26/06/07/2331246&amp;from=rss) - [Canada&apos;s Next-Gen AWACS/Surveillance Planes Won&apos;t Be Coming From The USA](https://soylentnews.org/article.pl?sid=26/06/07/2331246&amp;from=rss)
 * [2026-06-09, 15:01:43](https://news.ycombinator.com/item?id=48462070) - [macOS 27 Beta breaks the ability to boot Asahi Linux](https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi)
-* [2026-06-09, 12:05:12](https://news.ycombinator.com/item?id=48459999) - [Faking keyword arguments to functions in C++](https://nibblestew.blogspot.com/2026/06/faking-keyword-arguments-to-functions.html)
 * [2026-06-09, 11:32:00](https://soylentnews.org/article.pl?sid=26/06/07/2330212&amp;from=rss) - [Code Reveals Meta Smart Glasses Can Use &apos;Faceprint&apos; Tracking, Raising Privacy Alarms](https://soylentnews.org/article.pl?sid=26/06/07/2330212&amp;from=rss)
 * [2026-06-09, 06:50:00](https://soylentnews.org/article.pl?sid=26/06/07/2321211&amp;from=rss) - [Datacenters May Face One-Year Ban In NY](https://soylentnews.org/article.pl?sid=26/06/07/2321211&amp;from=rss)
 * [2026-06-09, 02:06:00](https://soylentnews.org/article.pl?sid=26/06/07/2319243&amp;from=rss) - [How A USB-Connected Speaker Can Infect A PC Without Ever Being Touched](https://soylentnews.org/article.pl?sid=26/06/07/2319243&amp;from=rss)
