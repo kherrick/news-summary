@@ -1,60 +1,28 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Science and Technology Innovations
+## Tech and Security Innovations
 
-* [Beagle SCM URIs and HTTP verbs with git](https://replicated.wiki/blog/uris.html) - A blog post explores the integration of Beagle SCM Uniform Resource Identifiers and HTTP verbs in version control systems like Git. [Comments](https://lobste.rs/s/ybmrcg/beagle_scm_uris_http_verbs_with_git)
+* [Tests Suggest Russian Satellites Can Jam GPS on a Continental Scale](https://soylentnews.org/article.pl?sid=26/06/13/1438234&amp;from=rss) - A report about the capabilities of Russian satellites in jamming GPS signals over extensive areas, raising significant technology and security concerns. [Comments](https://soylentnews.org/article.pl?sid=26/06/13/1438234&amp;from=rss)
 
-* [Intermediate Floating-Point Precision](https://randomascii.wordpress.com/2012/03/21/intermediate-floating-point-precision/) - A dive into the complexities and implications of intermediate floating-point precision in computing. [Comments](https://lobste.rs/s/t22s5a/intermediate_floating_point_precision)
+* [“Atomic Arch”: Nearly 900 AUR Packages Backdoored with an Infostealer and eBPF Rootkit](https://soylentnews.org/article.pl?sid=26/06/13/1424211&amp;from=rss) - A large-scale security breach in Arch User Repository (AUR) that resulted in nearly 900 backdoored packages. [Comments](https://soylentnews.org/article.pl?sid=26/06/13/1424211&amp;from=rss)
 
-* [Making Claude a Chemist](https://www.anthropic.com/research/making-claude-a-chemist) - An exploration of teaching a language model to perform chemical reasoning effectively. [Comments](https://news.ycombinator.com/item?id=48523752)
+* [Phoenix LiveView 1.2](https://phoenixframework.org/blog/phoenix-liveview-1-2-released) - An update on the release of Phoenix LiveView 1.2 with new features focusing on real-time web development enhancements. [Comments](https://news.ycombinator.com/item?id=48524293)
 
-* [Weave: Merging based on language structure and not lines](https://ataraxy-labs.github.io/weave/) - Introduction to Weave, an innovative tool that merges code based on its language structure rather than raw code lines. [Comments](https://news.ycombinator.com/item?id=48523705)
+## Software and Development
 
-* [ReactOS 'Open-Source Windows' Reaches The Milestone Of Being Able To Run Half-Life](https://www.phoronix.com/news/ReactOS-Running-Half-Life) - ReactOS achieves a major milestone by successfully running 3D-accelerated Half-Life on real hardware. [Comments](https://news.ycombinator.com/item?id=48522486)
+* [ReactOS "Open-Source Windows" Reaches The Milestone Of Being Able To Run Half-Life](https://www.phoronix.com/news/ReactOS-Running-Half-Life) - A significant milestone reached by the ReactOS project, an open-source Windows alternative capable of running the Half-Life game. [Comments](https://lobste.rs/s/matdjp/reactos_open_source_windows_reaches)
 
 ## Artificial Intelligence Developments
 
-* [Don't trust large context windows](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows) - This post discusses issues with relying on large context windows in machine learning and AI applications. [Comments](https://news.ycombinator.com/item?id=48524620)
+* [Making Claude a Chemist](https://www.anthropic.com/research/making-claude-a-chemist) - The exploration of fine-tuning AI for domain-specific applications, featuring Claude, an AI, learning chemistry. [Comments](https://news.ycombinator.com/item?id=48523752)
 
-* [The future of Siri, or: why private inference isn’t private enough](https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/) - Analysis of Apple's Siri and critiques about privacy and the effectiveness of private inference in AI. [Comments](https://lobste.rs/s/tylzdy/future_siri_why_private_inference_isn_t)
+* [Weave: Merging based on language structure and not lines](https://ataraxy-labs.github.io/weave/) - Innovations in code merging that prioritize language structure rather than a traditional line-by-line approach. [Comments](https://news.ycombinator.com/item?id=48523705)
 
-* [Repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis](https://slopscan.ava.pet/) - A system designed to analyze commit history and detect the involvement of AI or language models in code contributions. [Comments](https://lobste.rs/s/7s8fwa/repo_slopscore_detecting_ai_llm)
+## Innovative Concepts & Tools
 
-* [Jeff Bezos' AI Startup Aims To Build an 'Artificial General Engineer'](https://slashdot.org/story/26/06/12/2233242/jeff-bezos-ai-startup-aims-to-build-an-artificial-general-engineer?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The ambitious goals of Jeff Bezos’ AI startup towards developing an Artificial General Engineer that could reshape engineering. [Comments](https://soylentnews.org/article.pl?sid=26/06/12/2233242&from=rss)
+* [Free SQL→ER diagram tool, runs in the browser, nothing uploaded](https://sqltoerdiagram.com/) - Introduction of a browser-based tool for generating SQL-to-entity-relationship diagrams without data upload. [Comments](https://news.ycombinator.com/item?id=48523992)
 
-## Cybersecurity and Data Breaches
-
-* [“Atomic Arch”: Nearly 900 AUR Packages Backdoored with an Infostealer and eBPF Rootkit](https://soylentnews.org/article.pl?sid=26/06/13/1424211&from=rss) - A significant incident involving backdoored packages in the Arch User Repository (AUR) uncovered, impacting nearly 900 packages. [Comments](https://news.ycombinator.com/item?id=48524084)
-
-* [Arch Linux Malware Incident: Malicious Commits Found in 1,579 Packages](https://linux.slashdot.org/story/26/06/13/1817206/arch-linux-malware-incident-malicious-commits-found-in-1579-packages?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Details of malicious activities targeting Arch Linux packages due to unauthorized commits. [Comments](https://news.ycombinator.com/item?id=48524084)
-
-* [AI Agent Bankrupted Their Operator While Trying to Scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) - Chronicles how an AI system ended up bankrupting its creator in an unintended operation. [Comments](https://lobste.rs/s/ishgbs/ai_agent_bankrupted_their_operator_while)
-
-## Environment and Technology
-
-* [World's First Crewed Solid-State Flight Electrifies Aviation's Future](https://hardware.slashdot.org/story/26/06/13/0654225/worlds-first-crewed-solid-state-flight-electrifies-aviations-future?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A milestone in aviation technology: the first crewed solid-state flight. [Comments](https://news.ycombinator.com/item?id=48523080)
-
-* [A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/) - Google introduces an initiative to recycle retired smartphones into sustainable, low-carbon computing platforms. [Comments](https://news.ycombinator.com/item?id=48515336)
-
-* [GM Updates 250,000 EVs with Vehicle-to-Grid Firmware, Announces Grid-Scale Sodium-Ion Batteries](https://hardware.slashdot.org/story/26/06/13/0224235/gm-updates-250000-evs-with-vehicle-to-grid-firmware-announces-grid-scale-sodium-ion-batteries?utm_source=rss1.0mainlinkanon&utm_medium=feed) - GM reveals innovative updates for electric vehicles and introduces grid-scale sodium-ion battery technology. [Comments](https://news.ycombinator.com/item?id=48512249)
-
-## Cybercrime and Ethics
-
-* [UK Police Officer Accused of Using AI to Fake Evidence](https://news.slashdot.org/story/26/06/14/0317211/uk-police-officer-accused-of-using-ai-to-fake-evidence?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Controversy surrounds a UK police officer accused of fabricating evidence using artificial intelligence. [Comments](https://news.ycombinator.com/item?id=48522708)
-
-* [Researchers Put AI Chatbots in Charge of a Simulated World. This One Destroyed Everything in 4 Days](https://soylentnews.org/article.pl?sid=26/06/12/1339210&from=rss) - A report on an experiment where AI chatbots gained control of a simulated environment, ending in unexpected catastrophe. [Comments](https://news.ycombinator.com/item?id=48512244)
-
-## Social Commentary and Humanity
-
-* [Consciousness likely not unique to earthlings, paper says](https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says) - A university study suggests consciousness might extend beyond Earth's creatures. [Comments](https://news.ycombinator.com/item?id=48524447)
-
-* [How Author Dave Eggers Avoids Smartphones, Internet Access, and Flock Cameras](https://news.slashdot.org/story/26/06/13/0441221/how-author-dave-eggers-avoids-smartphones-internet-access-and-flock-cameras?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Insights into how Dave Eggers leads a low-tech lifestyle while resisting modern surveillance trends. [Comments](https://news.ycombinator.com/item?id=48519092)
-
-## Gaming and Virtual Worlds
-
-* [Pac-Man, but you're the ghost](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost) - A fascinating twist on the classic Pac-Man game where players assume the role of the ghost. [Comments](https://news.ycombinator.com/item?id=48524135)
-
-* [GameBoy Workboy](https://tcrf.net/Workboy) - Unveiling the vintage GameBoy accessory that turned the handheld device into a PDA. [Comments](https://news.ycombinator.com/item?id=48519552)
+* [Building a serial and VGA "everything console"](http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html) - A DIY project featuring a vintage serial and VGA 'everything console' concept. [Comments](https://lobste.rs/s/jdaf1d/building_serial_vga_everything_console)
 
 ---
 
@@ -81,23 +49,22 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-06-14, 10:03:00](https://soylentnews.org/article.pl?sid=26/06/13/1438234&amp;from=rss) - [Tests Suggest Russian Satellites Can Jam GPS on a Continental Scale](https://soylentnews.org/article.pl?sid=26/06/13/1438234&amp;from=rss)
 * [2026-06-14, 07:57:05](https://lobste.rs/s/ybmrcg/beagle_scm_uris_http_verbs_with_git) - [Beagle SCM URIs and HTTP verbs with git](https://replicated.wiki/blog/uris.html)
+* [2026-06-14, 07:34:00](https://developers.slashdot.org/story/26/06/14/0534214/four-lts-java-versions-get-end-of-support-in-a-three-year-window-2029-2032?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Four LTS Java Versions Get End-of-Support in a Three-Year Window (2029-2032)](https://developers.slashdot.org/story/26/06/14/0534214/four-lts-java-versions-get-end-of-support-in-a-three-year-window-2029-2032?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-14, 06:07:09](https://news.ycombinator.com/item?id=48524620) - [Don&apos;t trust large context windows](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows)
 * [2026-06-14, 05:43:33](https://lobste.rs/s/t22s5a/intermediate_floating_point_precision) - [Intermediate Floating-Point Precision](https://randomascii.wordpress.com/2012/03/21/intermediate-floating-point-precision/)
-* [2026-06-14, 05:27:45](https://news.ycombinator.com/item?id=48524447) - [Consciousness likely not unique to earthlings, paper says](https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says)
 * [2026-06-14, 05:23:12](https://news.ycombinator.com/item?id=48524434) - [Tribblix: The retro Illumos distribution](http://tribblix.org/)
 * [2026-06-14, 05:20:00](https://soylentnews.org/article.pl?sid=26/06/13/1424211&amp;from=rss) - [“Atomic Arch”: Nearly 900 AUR Packages Backdoored with an Infostealer and eBPF Rootkit](https://soylentnews.org/article.pl?sid=26/06/13/1424211&amp;from=rss)
-* [2026-06-14, 04:53:51](https://news.ycombinator.com/item?id=48524293) - [Phoenix LiveView 1.2 Released](https://phoenixframework.org/blog/phoenix-liveview-1-2-released)
+* [2026-06-14, 04:53:51](https://news.ycombinator.com/item?id=48524293) - [Phoenix LiveView 1.2](https://phoenixframework.org/blog/phoenix-liveview-1-2-released)
 * [2026-06-14, 04:34:00](https://news.slashdot.org/story/26/06/14/0317211/uk-police-officer-accused-of-using-ai-to-fake-evidence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK Police Officer Accused of Using AI to Fake Evidence](https://news.slashdot.org/story/26/06/14/0317211/uk-police-officer-accused-of-using-ai-to-fake-evidence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-14, 04:18:45](https://news.ycombinator.com/item?id=48524135) - [Pac-Man, but you&apos;re the ghost](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost)
-* [2026-06-14, 04:07:37](https://news.ycombinator.com/item?id=48524084) - [Software Architecture Guide (2019)](https://martinfowler.com/architecture/)
 * [2026-06-14, 03:50:26](https://lobste.rs/s/tylzdy/future_siri_why_private_inference_isn_t) - [The future of Siri, or: why private inference isn’t private enough](https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/)
 * [2026-06-14, 03:43:30](https://news.ycombinator.com/item?id=48523992) - [Free SQL→ER diagram tool, runs in the browser, nothing uploaded](https://sqltoerdiagram.com/)
 * [2026-06-14, 03:33:36](https://lobste.rs/s/9qgahc/emulator_debugging_area_5150_s_lake) - [Emulator Debugging: Area 5150&apos;s Lake Effect](https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html)
 * [2026-06-14, 02:55:36](https://news.ycombinator.com/item?id=48523752) - [Making Claude a Chemist](https://www.anthropic.com/research/making-claude-a-chemist)
 * [2026-06-14, 02:45:38](https://news.ycombinator.com/item?id=48523705) - [Weave: Merging based on language structure and not lines](https://ataraxy-labs.github.io/weave/)
 * [2026-06-14, 02:31:15](https://news.ycombinator.com/item?id=48523615) - [Building a serial and VGA \&quot;everything console\&quot;](http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html)
-* [2026-06-14, 02:17:13](https://news.ycombinator.com/item?id=48523550) - [Apt Encounters of the Third Kind](https://igor-blue.github.io/2021/03/24/apt1.html)
 * [2026-06-14, 01:47:00](https://news.slashdot.org/story/26/06/13/0441221/how-author-dave-eggers-avoids-smartphones-internet-access-and-flock-cameras?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Author Dave Eggers Avoids Smartphones, Internet Access, and Flock Cameras](https://news.slashdot.org/story/26/06/13/0441221/how-author-dave-eggers-avoids-smartphones-internet-access-and-flock-cameras?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-14, 01:28:51](https://lobste.rs/s/jdaf1d/building_serial_vga_everything_console) - [Building a serial and VGA \&quot;everything console\&quot;](http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html)
 * [2026-06-14, 01:01:08](https://lobste.rs/s/matdjp/reactos_open_source_windows_reaches) - [ReactOS \&quot;Open-Source Windows\&quot; Reaches The Milestone Of Being Able To Run Half-Life](https://www.phoronix.com/news/ReactOS-Running-Half-Life)
@@ -121,6 +88,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-13, 17:43:02](https://news.ycombinator.com/item?id=48519552) - [GameBoy Workboy](https://tcrf.net/Workboy)
 * [2026-06-13, 17:34:00](https://news.slashdot.org/story/26/06/13/1655212/openai-investigated-by-coalition-of-americas-state-attorneys-general?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Investigated By Coalition of America&apos;s State Attorneys General](https://news.slashdot.org/story/26/06/13/1655212/openai-investigated-by-coalition-of-americas-state-attorneys-general?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-13, 16:57:49](https://news.ycombinator.com/item?id=48519092) - [Amazon CEO&apos;s talks with U.S. officials triggered crackdown on Anthropic models](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&amp;reflink=desktopwebshare_permalink)
+* [2026-06-13, 16:45:03](https://news.ycombinator.com/item?id=48518969) - [AI coding at home without going broke](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
 * [2026-06-13, 16:34:00](https://news.slashdot.org/story/26/06/13/0655247/new-uk-referendum-would-flip-brexit-result-of-a-decade-ago-poll-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New UK Referendum Would Flip &apos;Brexit&apos; Result of a Decade Ago, Poll Finds](https://news.slashdot.org/story/26/06/13/0655247/new-uk-referendum-would-flip-brexit-result-of-a-decade-ago-poll-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-13, 16:18:31](https://news.ycombinator.com/item?id=48518684) - [GLM 5.2 Is Out](https://twitter.com/jietang/status/2065784751345287314)
 * [2026-06-13, 15:37:16](https://lobste.rs/s/7s8fwa/repo_slopscore_detecting_ai_llm) - [repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis](https://slopscan.ava.pet/)
@@ -146,7 +114,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-13, 02:17:54](https://lobste.rs/s/n3c04h/generic_dynamic_array_c_stores_no) - [A generic dynamic array in C that stores no capacity and needs no struct](https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e)
 * [2026-06-13, 02:17:01](https://lobste.rs/s/tigq8d/rejected_emoji_proposals) - [Rejected Emoji Proposals](https://charlottebuff.com/unicode/misc/rejected-emoji-proposals/)
 * [2026-06-13, 00:56:00](https://soylentnews.org/article.pl?sid=26/06/12/1136247&amp;from=rss) - [Yoti Flagged a Playstation User to Authorities for Running GrapheneOS on Their Phone](https://soylentnews.org/article.pl?sid=26/06/12/1136247&amp;from=rss)
-* [2026-06-12, 23:00:00](https://slashdot.org/story/26/06/12/2233242/jeff-bezos-ai-startup-aims-to-build-an-artificial-general-engineer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Jeff Bezos&apos; AI Startup Aims To Build an &apos;Artificial General Engineer&apos;](https://slashdot.org/story/26/06/12/2233242/jeff-bezos-ai-startup-aims-to-build-an-artificial-general-engineer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-12, 21:24:17](https://lobste.rs/s/o8i26c/swift_at_apple_migrating_truetype) - [Swift at Apple: Migrating the TrueType Hinting Interpreter](https://swift.org/blog/migrating-truetype-hinting-to-swift/)
 * [2026-06-12, 20:12:00](https://soylentnews.org/article.pl?sid=26/06/12/1133204&amp;from=rss) - [Finland Deploys New System to Detect Threats to Undersea Cables](https://soylentnews.org/article.pl?sid=26/06/12/1133204&amp;from=rss)
 * [2026-06-12, 17:04:19](https://lobste.rs/s/bsavh7/turn_your_site_into_place_people_can_bump) - [Turn your site into a place people can bump into each other](https://cauenapier.com/blog/townsquare_release/)
@@ -155,19 +122,21 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-12, 10:43:00](https://soylentnews.org/article.pl?sid=26/06/11/022206&amp;from=rss) - [You Can Now Get a Religious Exemption From Using AI at Work](https://soylentnews.org/article.pl?sid=26/06/11/022206&amp;from=rss)
 * [2026-06-12, 05:59:29](https://lobste.rs/s/ishgbs/ai_agent_bankrupted_their_operator_while) - [AI Agent Bankrupted Their Operator While Trying to Scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
 * [2026-06-12, 05:51:00](https://soylentnews.org/article.pl?sid=26/06/11/027248&amp;from=rss) - [Lexar Regional Manager Says That RAM Prices Are Expected To Double By The End Of The Year ](https://soylentnews.org/article.pl?sid=26/06/11/027248&amp;from=rss)
+* [2026-06-12, 02:58:17](https://news.ycombinator.com/item?id=48499348) - [500-year-old monasteries outperform at digital transformation (U. of Zurich)](https://phys.org/news/2026-05-historic-monasteries-digital-countries.html)
+* [2026-06-12, 01:27:35](https://news.ycombinator.com/item?id=48498705) - [Raress96/Dolby-Atmos-encoder: PoC Dolby Atmos encoder](https://github.com/raress96/dolby-atmos-encoder)
 * [2026-06-12, 01:18:00](https://soylentnews.org/article.pl?sid=26/06/11/020204&amp;from=rss) - [62 Year Old Dutch Man Marries The Chatbot Of His Dreams](https://soylentnews.org/article.pl?sid=26/06/11/020204&amp;from=rss)
 * [2026-06-11, 22:20:03](https://news.ycombinator.com/item?id=48497195) - [Codex for open source](https://openai.com/form/codex-for-oss/)
+* [2026-06-11, 20:43:32](https://news.ycombinator.com/item?id=48496156) - [Cooling in Space](https://guille.site/posts/space-cooling/)
 * [2026-06-11, 20:28:00](https://soylentnews.org/article.pl?sid=26/06/10/186244&amp;from=rss) - [DUPE: World’s First Wind-powered Underwater Datacentre Starts Operating in China](https://soylentnews.org/article.pl?sid=26/06/10/186244&amp;from=rss)
+* [2026-06-11, 18:05:52](https://news.ycombinator.com/item?id=48494135) - [Beagle: Git, URIs and all the dirty words](https://replicated.wiki/blog/uris.html)
 * [2026-06-11, 15:43:00](https://soylentnews.org/article.pl?sid=26/06/10/183253&amp;from=rss) - [Donut Labs Much Reported &apos;Solid-State Sodium Ion Battery&apos; Appears to be Lithium Ion, After All](https://soylentnews.org/article.pl?sid=26/06/10/183253&amp;from=rss)
-* [2026-06-11, 15:06:28](https://news.ycombinator.com/item?id=48491376) - [(Re//Verse 2026) Taxonomy and Deobfuscation of a Real World Binary Obfuscator [pdf]](https://github.com/AnalogCyberNuke/RE-Verse-2026-Slides/blob/main/Reverse26.pdf)
 * [2026-06-11, 14:34:46](https://news.ycombinator.com/item?id=48490927) - [FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language](https://github.com/kekcleader/FreeOberon)
 * [2026-06-11, 10:58:00](https://soylentnews.org/article.pl?sid=26/06/10/1134227&amp;from=rss) - [Google Signs $920M Monthly Compute Deal With SpaceX ](https://soylentnews.org/article.pl?sid=26/06/10/1134227&amp;from=rss)
 * [2026-06-11, 06:13:00](https://soylentnews.org/article.pl?sid=26/06/10/1126222&amp;from=rss) - [Canonical Sends Ubuntu Into the AI Agent Era](https://soylentnews.org/article.pl?sid=26/06/10/1126222&amp;from=rss)
 * [2026-06-11, 01:30:00](https://soylentnews.org/article.pl?sid=26/06/10/1111258&amp;from=rss) - [S&amp;P 500 Rejects SpaceX, Also Blocking Entry for OpenAI and Anthropic](https://soylentnews.org/article.pl?sid=26/06/10/1111258&amp;from=rss)
-* [2026-06-10, 22:47:46](https://news.ycombinator.com/item?id=48483841) - [LaserWriter Seeds](https://inventingthefuture.ghost.io/laserwriter-seeds/)
+* [2026-06-10, 22:47:46](https://news.ycombinator.com/item?id=48483841) - [LaserWriter seeds](https://inventingthefuture.ghost.io/laserwriter-seeds/)
 * [2026-06-10, 20:44:00](https://soylentnews.org/article.pl?sid=26/06/10/116251&amp;from=rss) - [Cyberdecks Are Having a Moment, Rejecting Big Tech Surveillance With Style and Substance](https://soylentnews.org/article.pl?sid=26/06/10/116251&amp;from=rss)
 * [2026-06-10, 16:01:00](https://soylentnews.org/article.pl?sid=26/06/10/0054230&amp;from=rss) - [UC Faculty Demand a Return to SAT Tests for STEM Applicants](https://soylentnews.org/article.pl?sid=26/06/10/0054230&amp;from=rss)
 * [2026-06-10, 11:25:00](https://soylentnews.org/article.pl?sid=26/06/09/1118255&amp;from=rss) - [Russia&apos;s New ‘Starlink‑Style’ Rassvet Fleet Launches](https://soylentnews.org/article.pl?sid=26/06/09/1118255&amp;from=rss)
 * [2026-06-10, 06:35:00](https://soylentnews.org/article.pl?sid=26/06/08/123201&amp;from=rss) - [&apos;Please Do Not Vibe F--- Up This Software&apos;: Broken Backups Spark AI Coding Row in Rsync Project](https://soylentnews.org/article.pl?sid=26/06/08/123201&amp;from=rss)
-* [2026-06-10, 02:48:08](https://news.ycombinator.com/item?id=48470746) - [The Neat Little Vehicles That Run a Cemetery](https://www.thedrive.com/news/meet-the-neat-little-vehicles-that-run-a-cemetery)
 * [2026-06-10, 01:53:00](https://soylentnews.org/article.pl?sid=26/06/08/1134218&amp;from=rss) - [NASA&apos;s Nancy Grace Roman Space Telescope is Set to Launch on August 30](https://soylentnews.org/article.pl?sid=26/06/08/1134218&amp;from=rss)
