@@ -1,38 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Breakthroughs and Software Insights
+## Technology and Open Source Developments
 
-* [The Adder at the Heart of Intel's 8087 Floating-Point Chip](https://soylentnews.org/article.pl?sid=26/06/14/1916201&amp;from=rss) - A deep dive into Intel's groundbreaking 8087 floating-point chip design and the Adder innovation within it. [Comments](https://soylentnews.org/article.pl?sid=26/06/14/1916201&amp;from=rss)
+* [Parsing JSON at compile time with C++26 static reflection](https://lemire.me/blog/2026/06/14/parsing-json-at-compile-time-with-c26-static-reflection/) - Explore how C++26's static reflection abilities improve JSON parsing efficiency.
 
-* [Jinx: Meta-build-system for bootstrapping operating system distributions](https://github.com/Mintsuki/Jinx) - A novel meta-build system aimed at simplifying OS distribution bootstrapping. [Comments](https://lobste.rs/s/r70fiz/jinx_meta_build_system_for_bootstrapping)
+* [Diplomat: Multi-language FFI for Rust Libraries](http://manishearth.github.io/blog/2026/06/14/diplomat-multi-language-ffi-for-rust-libraries/) - Unveiling Diplomat, a tool that eases creating multi-language bindings for Rust libraries.
 
-* [Caddy compatibility for zeroserve: 3x throughput and 70% lower latency](https://su3.io/posts/zeroserve-caddy-compat) - Insights into achieving significantly improved performance for server setups. [Comments](https://news.ycombinator.com/item?id=48527145)
+* [Jinx: Meta-build-system for bootstrapping operating system distributions](https://github.com/Mintsuki/Jinx) - Learn about Jinx, a meta-build-system designed to support the inception of new operating system distributions.
 
-* [Deconstructing Datalog](https://www.rntz.net/post/my-thesis.html) - An academic exploration of the Datalog query language and its relevance. [Comments](https://lobste.rs/s/lvodx4/deconstructing_datalog)
+* [pkgcli: A command-line interface for PackageKit](https://blog.tenstral.net/2026/06/introducing-pkgcli-a-nicer-command-line-interface-for-packagekit.html) - Introducing a user-friendly CLI for managing software packages through PackageKit.
 
-* [Even More Batteries Included With Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/) - Discover the enhanced features expanding Emacs' utility. [Comments](https://lobste.rs/s/wwbl1n/even_more_batteries_included_with_emacs)
+## Artificial Intelligence and Ethics
 
-## Scientific Discoveries and Investigations
+* [IT Workers Are Now Struggling to Find Work, as 'Picky' Companies Demand AI Skills](https://it.slashdot.org/story/26/06/15/056249/it-workers-are-now-struggling-to-find-work-as-picky-companies-demand-ai-skills?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Discusses challenges IT professionals face as companies value AI-related skillsets.
 
-* [Scientists Gave an Octopus a Mirror. Here’s What Happened Next](https://soylentnews.org/article.pl?sid=26/06/13/1530216&amp;from=rss) - A fascinating study on octopuses and their behavior when exposed to a mirror. [Comments](https://soylentnews.org/article.pl?sid=26/06/13/1530216&amp;from=rss)
+* [Workers Spend As Much Time 'Botsitting' AI As Producing Useful Work, Survey Finds](https://it.slashdot.org/story/26/06/15/0117225/workers-spend-as-much-time-botsitting-ai-as-producing-useful-work-survey-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A survey revealing inefficiencies in AI integration within workplaces.
 
-* [Physicists Refute Famous 2025 Study Claiming Daylight Saving Time Poses Severe Health Risks](https://soylentnews.org/article.pl?sid=26/06/14/1914203&amp;from=rss) - Physicists challenge a controversial study on the health effects of daylight saving time. [Comments](https://soylentnews.org/article.pl?sid=26/06/14/1914203&amp;from=rss)
+## Programming Insights and Tools
 
-## Society and Technology
+* [The only scalable delete in Postgres is DROP TABLE](https://planetscale.com/blog/the-only-scalable-delete) - Understanding the challenges and solutions for efficiently deleting data in Postgres.
 
-* [The hallucinogenic mushroom that contains no known psychedelic](https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the) - An unusual mushroom genus raises questions about its hallucinogenic properties. [Comments](https://news.ycombinator.com/item?id=48535215)
+* [Clojure is almost as fast as C (with some help)](https://ertu.dev/posts/4_clojure-reaching-c-performance/) - A study into making Clojure performance comparable to C using specific optimizations.
 
-* [Workers Spend As Much Time 'Botsitting' AI As Producing Useful Work, Survey Finds](https://it.slashdot.org/story/26/06/15/0117225/workers-spend-as-much-time-botsitting-ai-as-producing-useful-work-survey-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A study reveals the growing challenge of managing AI in workplace environments. [Comments](https://it.slashdot.org/story/26/06/15/0117225/workers-spend-as-much-time-botsitting-ai-as-producing-useful-work-survey-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Notable Historical Events
 
-## Geopolitics and Economic Impacts
+* [Physicists Refute Famous 2025 Study Claiming Daylight Saving Time Poses Severe Health Risks](https://soylentnews.org/article.pl?sid=26/06/14/1914203&amp;from=rss) - New research challenges prior claims of health risks posed by daylight saving time shifts.
 
-* [US-Iran Peace Agreement Prompts Stock Rally, Leaves Some Investors Skeptical and Questions on Speed of Resuming Oil Production](https://news.slashdot.org/story/26/06/15/0229202/us-iran-peace-agreement-prompts-stock-rally-leaves-some-investors-skeptical-and-questions-on-speed-of-resuming-oil-production?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The market reacts to a crucial international peace deal while fostering uncertainty about its implications. [Comments](https://news.slashdot.org/story/26/06/15/0229202/us-iran-peace-agreement-prompts-stock-rally-leaves-some-investors-skeptical-and-questions-on-speed-of-resuming-oil-production?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Intel Intro'd ‘The First Processor In The X86 Series And The First 8086 Microprocessor’ On This Day](https://soylentnews.org/article.pl?sid=26/06/12/1645227&amp;from=rss) - Reflecting on the anniversary of Intel's historic 8086 microprocessor launch.
 
-## Historical and Cultural Insights
+## Unusual and Thought-Provoking Topics
 
-* [The mystery of the Solar Realms Elite title screen](https://breakintochat.com/blog/2026/06/14/the-mystery-of-the-solar-realms-elite-title-screen/) - Unearth a captivating story behind an obscure vintage MS-DOS game interface. [Comments](https://lobste.rs/s/kgpqam/mystery_solar_realms_elite_title_screen)
+* [22 Year Old Dutch Man Marries The Chatbot Of His Dreams](https://soylentnews.org/article.pl?sid=26/06/11/020204&amp;from=rss) - An unconventional relationship in the age of AI.
 
-* [Chaosnet (1981)](https://tumbleweed.nu/r/lm-3/uv/amber.html) - Insights into one of the pioneering computer networking systems, its architecture, and influence. [Comments](https://news.ycombinator.com/item?id=48531449)
+* [The mystery of the Solar Realms Elite title screen](https://breakintochat.com/blog/2026/06/14/the-mystery-of-the-solar-realms-elite-title-screen/) - A deep dive into the enigmatic Solar Realms Elite title screen from the 90s.
 
 ---
 
@@ -59,7 +59,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-06-15, 07:19:50](https://lobste.rs/s/udagdr/i_am_not_reverse_centaur) - [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur)
+* [2026-06-15, 07:04:00](https://it.slashdot.org/story/26/06/15/056249/it-workers-are-now-struggling-to-find-work-as-picky-companies-demand-ai-skills?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [IT Workers Are Now Struggling to Find Work, as &apos;Picky&apos; Companies Demand AI Skills](https://it.slashdot.org/story/26/06/15/056249/it-workers-are-now-struggling-to-find-work-as-picky-companies-demand-ai-skills?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-15, 07:00:22](https://news.ycombinator.com/item?id=48537556) - [Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany](https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office)
+* [2026-06-15, 06:07:24](https://lobste.rs/s/xqxidz/parsing_json_at_compile_time_with_c_26) - [Parsing JSON at compile time with C++26 static reflection](https://lemire.me/blog/2026/06/14/parsing-json-at-compile-time-with-c26-static-reflection/)
+* [2026-06-15, 06:02:57](https://news.ycombinator.com/item?id=48537165) - [Curl will not accept vulnerability reports during July 2026](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/)
+* [2026-06-15, 05:55:24](https://lobste.rs/s/zieeza/only_scalable_delete_postgres_is_drop) - [The only scalable delete in Postgres is DROP TABLE](https://planetscale.com/blog/the-only-scalable-delete)
+* [2026-06-15, 05:53:54](https://lobste.rs/s/mgbtd6/diplomat_multi_language_ffi_for_rust) - [Diplomat: Multi-language FFI for Rust Libraries](http://manishearth.github.io/blog/2026/06/14/diplomat-multi-language-ffi-for-rust-libraries/)
 * [2026-06-15, 05:08:00](https://soylentnews.org/article.pl?sid=26/06/14/1916201&amp;from=rss) - [The Adder at the Heart of Intel&apos;s 8087 Floating-Point Chip](https://soylentnews.org/article.pl?sid=26/06/14/1916201&amp;from=rss)
+* [2026-06-15, 04:55:34](https://news.ycombinator.com/item?id=48536776) - [Apple Foundation Models](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models)
 * [2026-06-15, 04:44:07](https://lobste.rs/s/8jxpsq/clojure_is_almost_as_fast_as_c_with_some) - [Clojure is almost as fast as C (with some help)](https://ertu.dev/posts/4_clojure-reaching-c-performance/)
 * [2026-06-15, 04:10:00](https://lobste.rs/s/kgpqam/mystery_solar_realms_elite_title_screen) - [The mystery of the Solar Realms Elite title screen](https://breakintochat.com/blog/2026/06/14/the-mystery-of-the-solar-realms-elite-title-screen/)
 * [2026-06-15, 03:39:10](https://lobste.rs/s/r70fiz/jinx_meta_build_system_for_bootstrapping) - [Jinx: Meta-build-system for bootstrapping operating system distributions](https://github.com/Mintsuki/Jinx)
@@ -70,7 +78,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-15, 02:31:00](https://news.slashdot.org/story/26/06/15/0229202/us-iran-peace-agreement-prompts-stock-rally-leaves-some-investors-skeptical-and-questions-on-speed-of-resuming-oil-production?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US-Iran Peace Agreement Prompts Stock Rally, Leaves Some Investors Skeptical and Questions on Speed of Resuming Oil Production](https://news.slashdot.org/story/26/06/15/0229202/us-iran-peace-agreement-prompts-stock-rally-leaves-some-investors-skeptical-and-questions-on-speed-of-resuming-oil-production?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-15, 02:30:25](https://news.ycombinator.com/item?id=48535886) - [Even more batteries included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
 * [2026-06-15, 01:19:00](https://it.slashdot.org/story/26/06/15/0117225/workers-spend-as-much-time-botsitting-ai-as-producing-useful-work-survey-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Workers Spend As Much Time &apos;Botsitting&apos; AI As Producing Useful Work, Survey Finds](https://it.slashdot.org/story/26/06/15/0117225/workers-spend-as-much-time-botsitting-ai-as-producing-useful-work-survey-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-15, 01:07:37](https://news.ycombinator.com/item?id=48535215) - [The hallucinogenic mushroom that contains no known psychedelic](https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the)
 * [2026-06-15, 00:23:00](https://soylentnews.org/article.pl?sid=26/06/14/1914203&amp;from=rss) - [Physicists Refute Famous 2025 Study Claiming Daylight Saving Time Poses Severe Health Risks](https://soylentnews.org/article.pl?sid=26/06/14/1914203&amp;from=rss)
 * [2026-06-15, 00:07:32](https://news.ycombinator.com/item?id=48534628) - [21 years and counting of &apos;eight fallacies of distributed computing&apos; (2025)](https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/)
 * [2026-06-14, 23:15:00](https://tech.slashdot.org/story/26/06/14/2312247/microsoft-updates-six-windows-apps-photos-gets-watermarks-for-copilot-images-off-by-default?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Updates Six Windows Apps.  &apos;Photos&apos; Gets Watermarks for Copilot Images (Off by Default)](https://tech.slashdot.org/story/26/06/14/2312247/microsoft-updates-six-windows-apps-photos-gets-watermarks-for-copilot-images-off-by-default?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -98,7 +105,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-14, 14:34:00](https://games.slashdot.org/story/26/06/14/0743231/blizzard-sues-to-take-down-another-private-world-of-warcraft-server-project-ascension?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Blizzard Sues To Take Down Another Private World of Warcraft Server, Project Ascension ](https://games.slashdot.org/story/26/06/14/0743231/blizzard-sues-to-take-down-another-private-world-of-warcraft-server-project-ascension?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-14, 14:09:29](https://news.ycombinator.com/item?id=48527360) - [FarOutCompany](https://faroutcompany.com/)
 * [2026-06-14, 13:43:08](https://news.ycombinator.com/item?id=48527145) - [Caddy compatibility for zeroserve: 3x throughput and 70% lower latency](https://su3.io/posts/zeroserve-caddy-compat)
-* [2026-06-14, 12:38:31](https://news.ycombinator.com/item?id=48526661) - [The Birth and Death of JavaScript (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 * [2026-06-14, 12:36:03](https://lobste.rs/s/bbwiob/simplifying_weak_reference_processing) - [Simplifying Weak Reference Processing in ZGC](https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/)
 * [2026-06-14, 12:35:27](https://news.ycombinator.com/item?id=48526633) - [Formal methods and the future of programming](https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1)
 * [2026-06-14, 11:50:48](https://news.ycombinator.com/item?id=48526360) - [How to earn a billion dollars](https://paulgraham.com/earn.html)
@@ -114,21 +120,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-14, 01:01:08](https://lobste.rs/s/matdjp/reactos_open_source_windows_reaches) - [ReactOS \&quot;Open-Source Windows\&quot; Reaches The Milestone Of Being Able To Run Half-Life](https://www.phoronix.com/news/ReactOS-Running-Half-Life)
 * [2026-06-14, 00:37:00](https://soylentnews.org/article.pl?sid=26/06/12/178256&amp;from=rss) - [ASML Becomes Europe&apos;s Most Valuable Company Ever As Analysts Bet On Higher EUV Output](https://soylentnews.org/article.pl?sid=26/06/12/178256&amp;from=rss)
 * [2026-06-13, 22:34:00](https://news.slashdot.org/story/26/06/13/2227234/amazon-ceos-talks-with-us-officials-triggered-crackdown-on-anthropic-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon CEO&apos;s Talks with U.S. Officials Triggered Crackdown on Anthropic Models](https://news.slashdot.org/story/26/06/13/2227234/amazon-ceos-talks-with-us-officials-triggered-crackdown-on-anthropic-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-13, 22:27:49](https://lobste.rs/s/azz673/pyodide_314_0_webassembly_wheels_for_pypi) - [Pyodide 314.0: WebAssembly wheels for PyPI](https://blog.pyodide.org/posts/314-release/)
-* [2026-06-13, 21:34:00](https://slashdot.org/story/26/06/13/1911226/shutterstock-evolves-into-human-led-ai-powered-creative-platform?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Shutterstock &apos;Evolves&apos; Into &apos;Human-Led, AI-Powered Creative Platform&apos;](https://slashdot.org/story/26/06/13/1911226/shutterstock-evolves-into-human-led-ai-powered-creative-platform?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-13, 20:41:58](https://news.ycombinator.com/item?id=48521236) - [Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call](https://traceapp.info)
 * [2026-06-13, 20:32:10](https://lobste.rs/s/rnmkrg/extinction_level_capitalism) - [Extinction-level capitalism](https://matthewbutterick.com/extinction-level-capitalism.html)
-* [2026-06-13, 20:04:04](https://lobste.rs/s/bilqbs/webxdc_secure_mini_apps_for_chats) - [Webxdc - Secure mini apps for chats](https://webxdc.org/)
 * [2026-06-13, 19:54:00](https://soylentnews.org/article.pl?sid=26/06/12/1645227&amp;from=rss) - [Intel Intro&apos;d ‘The First Processor In The X86 Series And The First 8086 Microprocessor’ On This Day](https://soylentnews.org/article.pl?sid=26/06/12/1645227&amp;from=rss)
-* [2026-06-13, 19:39:15](https://lobste.rs/s/p78ttt/emacs_rec_mode_all_text_database_system) - [Emacs rec mode, an all-text database system](https://www.homepages.ucl.ac.uk/~ucecesf/blog/20260602.html)
 * [2026-06-13, 19:31:54](https://news.ycombinator.com/item?id=48520596) - [Why does paper fold so well?](https://www.bbc.co.uk/programmes/w3ct8k70)
 * [2026-06-13, 15:37:16](https://lobste.rs/s/7s8fwa/repo_slopscore_detecting_ai_llm) - [repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis](https://slopscan.ava.pet/)
 * [2026-06-13, 15:24:13](https://lobste.rs/s/jcpzqt/banning_noise_will_be_disaster_for) - [Banning noise will be a disaster for statistical data products](https://desfontain.es/blog/banning-noise.html)
 * [2026-06-13, 15:08:00](https://soylentnews.org/article.pl?sid=26/06/12/1339210&amp;from=rss) - [Researchers Put AI Chatbots in Charge of a Simulated World. This One Destroyed Everything in 4 Days](https://soylentnews.org/article.pl?sid=26/06/12/1339210&amp;from=rss)
 * [2026-06-13, 15:07:09](https://lobste.rs/s/bt7rtp/every_frame_perfect) - [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/)
 * [2026-06-13, 10:25:00](https://soylentnews.org/article.pl?sid=26/06/12/1337219&amp;from=rss) - [Officials Powerless to Stop 8 New Data Centers That Could Transform Small Texas County](https://soylentnews.org/article.pl?sid=26/06/12/1337219&amp;from=rss)
-* [2026-06-13, 10:24:09](https://lobste.rs/s/sqh2uq/opensource_ai_must_win) - [Opensource AI Must Win](https://opensourceaimustwin.com)
 * [2026-06-13, 05:39:00](https://soylentnews.org/article.pl?sid=26/06/12/1141258&amp;from=rss) - [Cities Can&apos;t Figure Out How to Turn Off Flock Cameras, So They&apos;re Using Trash Bags](https://soylentnews.org/article.pl?sid=26/06/12/1141258&amp;from=rss)
+* [2026-06-13, 01:58:11](https://news.ycombinator.com/item?id=48511734) - [The Last Surviving Japanese Porsche 912 Police Car](https://kottke.org/26/06/the-last-surviving-japanese-porsche-912-police-car)
 * [2026-06-13, 00:56:00](https://soylentnews.org/article.pl?sid=26/06/12/1136247&amp;from=rss) - [Yoti Flagged a Playstation User to Authorities for Running GrapheneOS on Their Phone](https://soylentnews.org/article.pl?sid=26/06/12/1136247&amp;from=rss)
 * [2026-06-12, 20:12:00](https://soylentnews.org/article.pl?sid=26/06/12/1133204&amp;from=rss) - [Finland Deploys New System to Detect Threats to Undersea Cables](https://soylentnews.org/article.pl?sid=26/06/12/1133204&amp;from=rss)
 * [2026-06-12, 17:36:10](https://news.ycombinator.com/item?id=48507039) - [Write for One Person](https://wizardzines.com/comics/write-for-one-person/)
@@ -141,9 +143,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-11, 20:28:00](https://soylentnews.org/article.pl?sid=26/06/10/186244&amp;from=rss) - [DUPE: World’s First Wind-powered Underwater Datacentre Starts Operating in China](https://soylentnews.org/article.pl?sid=26/06/10/186244&amp;from=rss)
 * [2026-06-11, 16:48:49](https://news.ycombinator.com/item?id=48492822) - [The only scalable delete in Postgres is DROP TABLE](https://planetscale.com/blog/the-only-scalable-delete)
 * [2026-06-11, 15:43:00](https://soylentnews.org/article.pl?sid=26/06/10/183253&amp;from=rss) - [Donut Labs Much Reported &apos;Solid-State Sodium Ion Battery&apos; Appears to be Lithium Ion, After All](https://soylentnews.org/article.pl?sid=26/06/10/183253&amp;from=rss)
-* [2026-06-11, 14:43:11](https://news.ycombinator.com/item?id=48491048) - [Lisp&apos;s Influence on Ruby](https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e)
+* [2026-06-11, 14:13:03](https://news.ycombinator.com/item?id=48490649) - [There Is(Ǝ) – Such That (∋)](https://www.fractalkitty.com/there-is-3-such-that/)
 * [2026-06-11, 12:50:29](https://news.ycombinator.com/item?id=48489636) - [Segmented type appreciation corner (2018)](https://aresluna.org/segmented-type/)
-* [2026-06-11, 12:15:22](https://news.ycombinator.com/item?id=48489309) - [USB Power Delivery: Plugging into the Benefits](https://www.aptiv.com/en/insights/article/usb-power-delivery-plugging-into-the-benefits)
 * [2026-06-11, 10:58:00](https://soylentnews.org/article.pl?sid=26/06/10/1134227&amp;from=rss) - [Google Signs $920M Monthly Compute Deal With SpaceX ](https://soylentnews.org/article.pl?sid=26/06/10/1134227&amp;from=rss)
 * [2026-06-11, 06:13:00](https://soylentnews.org/article.pl?sid=26/06/10/1126222&amp;from=rss) - [Canonical Sends Ubuntu Into the AI Agent Era](https://soylentnews.org/article.pl?sid=26/06/10/1126222&amp;from=rss)
 * [2026-06-11, 01:30:00](https://soylentnews.org/article.pl?sid=26/06/10/1111258&amp;from=rss) - [S&amp;P 500 Rejects SpaceX, Also Blocking Entry for OpenAI and Anthropic](https://soylentnews.org/article.pl?sid=26/06/10/1111258&amp;from=rss)
