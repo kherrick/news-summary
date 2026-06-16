@@ -1,48 +1,54 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Space and Astronomy
+## Technology and Innovation
 
-* [Venus' Strange Rotation Was Likely Triggered By a High Velocity Moon-Sized Impactor](https://science.slashdot.org/story/26/06/16/0552251/venus-strange-rotation-was-likely-triggered-by-a-high-velocity-moon-sized-impactor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New research suggests Venus' unusual slow and retrograde rotation could be the result of a high-velocity collision with a moon-sized object. [Comments](https://science.slashdot.org/story/26/06/16/0552251/venus-strange-rotation-was-likely-triggered-by-a-high-velocity-moon-sized-impactor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [SpaceX Is Buying Cursor](https://www.bbc.com/news/articles/cvgd5g7d7gyo) - [Discussion](https://news.ycombinator.com/item?id=48554215): SpaceX's acquisition of Cursor, a significant move in the tech and AI space.
 
-* [A Chinese Rocket Breaks Apart Dangerously Close To the Starlink Constellation](https://science.slashdot.org/story/26/06/16/0539205/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A Chinese rocket has disintegrated near SpaceX's Starlink satellites, raising concerns about debris risks in Earth's orbit. [Comments](https://science.slashdot.org/story/26/06/16/0539205/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [How memory safety CVEs differ between Rust and C/C++](https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html) - [Discussion](https://lobste.rs/s/tmeqrk/how_memory_safety_cves_differ_between): Comparison of memory safety vulnerabilities between Rust and traditional languages.
 
-## Physics and Technology
+* [KDE Plasma 6.7 released](https://kde.org/announcements/plasma/6/6.7.0/) - [Discussion](https://lobste.rs/s/gqqw6z/kde_plasma_6_7_released): The latest KDE update brings new features and improvements.
 
-* [The time the x86 emulator team found code so bad that they fixed it during emulation](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419) - A humorous and insightful story about developers on an x86 emulator team encountering and fixing extremely bad code in a novel way. [Comments](https://news.ycombinator.com/item?id=48550693).
+* [SpaceX to buy Cursor AI coding agent operator Anysphere for $60B](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/) - [Discussion](https://news.ycombinator.com/item?id=48553224): Another major acquisition by SpaceX to strengthen their technological capabilities.
 
-* [John Carmack on Fabrice Bellard](https://twitter.com/ID_AA_Carmack/status/2064095424420487226) - Developer and game designer John Carmack praises computing pioneer Fabrice Bellard's technical achievements. [Comments](https://news.ycombinator.com/item?id=48550779).
+* [Intel Reportedly Preparing Surprise Return to DDR4 Systems With 'Raptor Lake Next'](https://soylentnews.org/article.pl?sid=26/06/15/0328205&amp;from=rss) - [Discussion](https://soylentnews.org/article.pl?sid=26/06/15/0328205&amp;from=rss): Intel's pivot to previous-gen DDR4 systems for new processors.
 
-* [LLMs Will Replace 8-Track Duplication Engineers](https://bbenchoff.github.io/pages/8Tracks.html) - An intriguing perspective on how large language models could potentially revolutionize jobs traditionally requiring human skillsets. [Comments](https://lobste.rs/s/rcazen/llms_will_replace_8_track_duplication).
+* [Commodore Releases Flip Phone](https://commodore.net/why-a-flip-phone/) - [Discussion](https://news.ycombinator.com/item?id=48552614): A surprising launch of a retro-style device by technology pioneer, Commodore.
 
-## Ethics and Society
+* [LLMs Will Replace 8-Track Duplication Engineers](https://bbenchoff.github.io/pages/8Tracks.html) - [Discussion](https://lobste.rs/s/rcazen/llms_will_replace_8_track_duplication): Examining the evolving relevance of language models.
 
-* [Banned book library in a Wi-Fi lightbulb](https://www.richardosgood.com/posts/banned-book-library/) - A creative approach to circumvent book bans by embedding digital libraries within Wi-Fi lightbulbs to ensure access to restricted knowledge. [Comments](https://lobste.rs/s/jfo6xs/banned_book_library_wi_fi_lightbulb).
+## Gaming and Media
 
-* [Humanity isn't ready for the coming intelligence explosion](https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion) - Opinion piece calling attention to humanity's unpreparedness for the rapid advancements in artificial intelligence. [Comments](https://news.ycombinator.com/item?id=48549628).
+* [Correlated randomness in Slay the Spire 2](https://tck.mn/blog/correlated-randomness-sts2/) - [Discussion](https://news.ycombinator.com/item?id=48552844): Insights into game mechanics of 'Slay the Spire 2' and its use of correlated randomness.
 
-* [What 'Emotional Labor' Actually Means — and How Starbucks is Testing its Limits](https://soylentnews.org/article.pl?sid=26/06/15/0017250&amp;from=rss) - An exploration of the concept of emotional labor, with a specific focus on how it is being pushed to its limits within Starbucks' work culture. [Comments](https://soylentnews.org/article.pl?sid=26/06/15/0017250&amp;from=rss).
+* [Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art](https://garden-of-flowers.heikkilotvonen.com/) - [Discussion](https://news.ycombinator.com/item?id=48550569): A fascinating look into the origins of pictorial typography.
 
-## Cybersecurity and Digital Privacy
+* [Trump's 'Made In the USA' Phone Is Just a Reskinned HTC U24 Pro](https://mobile.slashdot.org/story/26/06/15/1721217/trumps-made-in-the-usa-phone-is-just-a-reskinned-htc-u24-pro?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Discussion](https://mobile.slashdot.org/story/26/06/15/1721217/trumps-made-in-the-usa-phone-is-just-a-reskinned-htc-u24-pro?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed): Examines claims about the origin of a repurposed phone branded as 'Made in the USA'.
 
-* [Cybersecurity Vets Protest 'Dangerous' US Government Ban On Anthropic's Most Powerful Models](https://it.slashdot.org/story/26/06/15/2128216/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Experts raise concerns about a US government ban on advanced AI models by Anthropic and its implications for cybersecurity. [Comments](https://it.slashdot.org/story/26/06/15/2128216/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+## Space and Exploration
 
-* [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/) - A breakdown of how a disguised backdoor was embedded within a LinkedIn job offer. [Comments](https://news.ycombinator.com/item?id=48546294).
+* [Venus' Strange Rotation Was Likely Triggered By a High Velocity Moon-Sized Impactor](https://science.slashdot.org/story/26/06/16/0552251/venus-strange-rotation-was-likely-triggered-by-a-high-velocity-moon-sized-impactor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Discussion](https://science.slashdot.org/story/26/06/16/0552251/venus-strange-rotation-was-likely-triggered-by-a-high-velocity-moon-sized-impactor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed): A study delves into the history of Venus' curious rotation patterns.
 
-* [You Can Now Get a Religious Exemption From Using AI at Work](https://soylentnews.org/article.pl?sid=26/06/11/022206&amp;from=rss) - Legal provision allows employees to decline using AI in the workplace based on religious grounds. [Comments](https://soylentnews.org/article.pl?sid=26/06/11/022206&amp;from=rss).
+* [A Chinese Rocket Breaks Apart Dangerously Close To the Starlink Constellation](https://science.slashdot.org/story/26/06/16/0539205/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Discussion](https://science.slashdot.org/story/26/06/16/0539205/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed): A near-miss incident raises concerns about space debris.
 
-## Innovations and Unusual Creations
+## Cybersecurity
 
-* [Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org](https://trinket.strivemath.org/) - A community effort to preserve Trinket.io, a tool used for programming education. [Comments](https://news.ycombinator.com/item?id=48552723).
+* [The time the x86 emulator team found code so bad that they fixed it during emulation](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419) - [Discussion](https://lobste.rs/s/mjkp4m/time_x86_emulator_team_found_code_so_bad): The story of a remarkable bug fix during testing.
 
-* [Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art](https://garden-of-flowers.heikkilotvonen.com/) - A unique online archive featuring typographical art from the era before ASCII art became popularized. [Comments](https://news.ycombinator.com/item?id=48550569).
+* [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/) - [Discussion](https://news.ycombinator.com/item?id=48546294): A cybersecurity case explaining how LinkedIn job offers were utilized for malicious purposes.
 
-* [Correlated randomness in Slay the Spire 2](https://tck.mn/blog/correlated-randomness-sts2/) - Developers explore the concept of correlated randomness in video games with the sequel to Slay the Spire. [Comments](https://lobste.rs/s/irws5p/correlated_randomness_slay_spire_2).
+* [Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak](https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827) - [Discussion](https://news.ycombinator.com/item?id=48552687): A surprising incident showcasing concerns over AI technology.
 
-## Artificial Intelligence Developments
+## Science and Health
 
-* [Anthropic Warns Claude AI Is Building Itself Faster Than Expected](https://soylentnews.org/article.pl?sid=26/06/15/0022216&amp;from=rss) - Concerns arise as Anthropic reports that its AI system, Claude, is improving at an unexpectedly rapid pace. [Comments](https://soylentnews.org/article.pl?sid=26/06/15/0022216&amp;from=rss).
+* [Copper transport drug restores memory and clears toxic Alzheimer's proteins](https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins) - [Discussion](https://news.ycombinator.com/item?id=48542132): Breakthrough drug shows promise in Alzheimer’s treatment.
 
-* [Researchers Put AI Chatbots in Charge of a Simulated World. This One Destroyed Everything in 4 Days](https://soylentnews.org/article.pl?sid=26/06/12/1339210&amp;from=rss) - A controversial AI experiment highlighted the risks of granting chatbots autonomous decision-making power. [Comments](https://soylentnews.org/article.pl?sid=26/06/12/1339210&amp;from=rss).
+* [Tests Suggest Russian Satellites Can Jam GPS on a Continental Scale](https://soylentnews.org/article.pl?sid=26/06/13/1438234&amp;from=rss) - [Discussion](https://soylentnews.org/article.pl?sid=26/06/13/1438234&amp;from=rss): Analysis of alleged capabilities of Russian satellites.
+
+## Social and Cultural Impacts
+
+* [Banned book library in a Wi-Fi lightbulb](https://www.richardosgood.com/posts/banned-book-library/) - [Discussion](https://news.ycombinator.com/item?id=48549628): A creative method to distribute banned content.
+
+* [Humanity isn't ready for the coming intelligence explosion](https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion) - [Discussion](https://news.ycombinator.com/item?id=48549628): Analysis on the future of AI and its societal impacts.
 
 ---
 
@@ -69,9 +75,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-06-16, 12:31:37](https://news.ycombinator.com/item?id=48554215) - [SpaceX Is Buying Cursor](https://www.bbc.com/news/articles/cvgd5g7d7gyo)
+* [2026-06-16, 12:28:27](https://lobste.rs/s/tmeqrk/how_memory_safety_cves_differ_between) - [How memory safety CVEs differ between Rust and C/C++](https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html)
+* [2026-06-16, 11:26:27](https://news.ycombinator.com/item?id=48553550) - [Mechanical Watch](https://ciechanow.ski/mechanical-watch/)
+* [2026-06-16, 11:16:44](https://lobste.rs/s/eli97m/kde_android_news_june_2026) - [KDE Android News (June 2026)](https://www.volkerkrause.eu/2026/06/13/kde-android-news-june-2026.html)
 * [2026-06-16, 11:00:00](https://science.slashdot.org/story/26/06/16/0552251/venus-strange-rotation-was-likely-triggered-by-a-high-velocity-moon-sized-impactor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Venus&apos; Strange Rotation Was Likely Triggered By a High Velocity Moon-Sized Impactor](https://science.slashdot.org/story/26/06/16/0552251/venus-strange-rotation-was-likely-triggered-by-a-high-velocity-moon-sized-impactor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-16, 10:44:24](https://news.ycombinator.com/item?id=48553224) - [SpaceX to buy Cursor AI coding agent operator Anysphere for $60B](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/)
 * [2026-06-16, 10:30:25](https://lobste.rs/s/cyj3wa/when_float_division_beats_integer) - [When float division beats integer division](https://blog.andr2i.com/posts/2026-06-08-optimization-catalog-when-float-division-beats-integer-division)
 * [2026-06-16, 10:19:19](https://lobste.rs/s/gqqw6z/kde_plasma_6_7_released) - [KDE Plasma 6.7 released](https://kde.org/announcements/plasma/6/6.7.0/)
+* [2026-06-16, 09:46:49](https://news.ycombinator.com/item?id=48552844) - [Correlated randomness in Slay the Spire 2](https://tck.mn/blog/correlated-randomness-sts2/)
 * [2026-06-16, 09:37:00](https://soylentnews.org/article.pl?sid=26/06/15/0328205&amp;from=rss) - [Intel Reportedly Preparing Surprise Return to DDR4 Systems With &apos;Raptor Lake Next&apos;](https://soylentnews.org/article.pl?sid=26/06/15/0328205&amp;from=rss)
 * [2026-06-16, 09:30:58](https://news.ycombinator.com/item?id=48552723) - [Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org](https://trinket.strivemath.org/)
 * [2026-06-16, 09:26:09](https://news.ycombinator.com/item?id=48552687) - [Feds freaked over Fable 5 after simple &apos;fix this code&apos; prompt, not jailbreak](https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827)
@@ -105,16 +117,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-15, 20:03:41](https://lobste.rs/s/i2cjew/users_cry_foul_after_amd_stripped_memory) - [Users cry foul after AMD stripped memory crypto from its consumer CPUs](https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/)
 * [2026-06-15, 20:02:00](https://hardware.slashdot.org/story/26/06/15/200234/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Users Cry Foul After AMD Stripped Memory Crypto From Its Consumer CPUs](https://hardware.slashdot.org/story/26/06/15/200234/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-15, 20:00:57](https://news.ycombinator.com/item?id=48546294) - [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)
-* [2026-06-15, 19:28:26](https://lobste.rs/s/ldq5mm/wio_windowed_i_o) - [wio: windowed i/o](https://github.com/ypsvlq/wio)
 * [2026-06-15, 19:26:25](https://lobste.rs/s/vodqhe/freebsd_15_on_laptop) - [FreeBSD 15 on a Laptop](https://www.sacredheartsc.com/blog/freebsd-15-on-a-laptop/)
 * [2026-06-15, 19:24:00](https://soylentnews.org/article.pl?sid=26/06/15/0016203&amp;from=rss) - [How did Atari Apply Side Art to Arcade Cabinets?](https://soylentnews.org/article.pl?sid=26/06/15/0016203&amp;from=rss)
 * [2026-06-15, 19:00:00](https://mobile.slashdot.org/story/26/06/15/1721217/trumps-made-in-the-usa-phone-is-just-a-reskinned-htc-u24-pro?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump&apos;s &apos;Made In the USA&apos; Phone Is Just a Reskinned HTC U24 Pro](https://mobile.slashdot.org/story/26/06/15/1721217/trumps-made-in-the-usa-phone-is-just-a-reskinned-htc-u24-pro?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-15, 18:36:15](https://lobste.rs/s/wlm6dv/savearoundtrip_publish_https_dns_record) - [savearoundtrip: publish an HTTPS DNS record, skip a round trip](https://savearoundtrip.com/)
 * [2026-06-15, 18:00:00](https://news.slashdot.org/story/26/06/15/1653226/britain-unveils-sweeping-ban-on-social-media-for-under-16s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Britain Unveils Sweeping Ban On Social Media For Under-16s](https://news.slashdot.org/story/26/06/15/1653226/britain-unveils-sweeping-ban-on-social-media-for-under-16s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-15, 17:52:39](https://news.ycombinator.com/item?id=48544781) - [Game Engine White Papers: Commander Keen](https://forgottenbytes.net/commander_keen.html)
 * [2026-06-15, 17:43:39](https://lobste.rs/s/vp2lbq/boot_naked_linux) - [Boot Naked Linux](https://nick.zoic.org/art/boot-naked-linux/)
-* [2026-06-15, 17:41:24](https://news.ycombinator.com/item?id=48544637) - [Claude Corps](https://www.anthropic.com/news/claude-corps)
-* [2026-06-15, 17:29:17](https://news.ycombinator.com/item?id=48544451) - [How TimescaleDB compresses time-series data](https://roszigit.com/en/blog/timescaledb-compression-hypercore)
 * [2026-06-15, 17:14:19](https://lobste.rs/s/fkoa80/typst_0_15_contains_multitudes) - [Typst 0.15 contains multitudes](https://typst.app/blog/2026/typst-0.15/)
 * [2026-06-15, 17:00:00](https://entertainment.slashdot.org/story/26/06/15/1537209/fox-is-buying-roku-for-22-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Fox Is Buying Roku For $22 Billion](https://entertainment.slashdot.org/story/26/06/15/1537209/fox-is-buying-roku-for-22-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-15, 16:15:53](https://news.ycombinator.com/item?id=48543475) - [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io)
@@ -128,7 +136,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-15, 14:46:53](https://news.ycombinator.com/item?id=48542100) - [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](https://news.ycombinator.com/item?id=48542100)
 * [2026-06-15, 14:31:00](https://soylentnews.org/article.pl?sid=26/06/15/0013216&amp;from=rss) - [Influential Study Touting ChatGPT in Education Retracted Over Red Flags](https://soylentnews.org/article.pl?sid=26/06/15/0013216&amp;from=rss)
 * [2026-06-15, 13:19:39](https://news.ycombinator.com/item?id=48540844) - [Hetzner Price Adjustment](https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers)
-* [2026-06-15, 12:53:51](https://lobste.rs/s/dwfhdc/your_epub_is_fine_kobo_disagrees_blame) - [Your EPUB Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
 * [2026-06-15, 12:50:03](https://news.ycombinator.com/item?id=48540499) - [Fox to buy Roku](https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9)
 * [2026-06-15, 12:36:37](https://lobste.rs/s/eolbw3/control_structures_programming) - [Control Structures in Programming Languages](https://xavierleroy.org/control-structures/book/index.html)
 * [2026-06-15, 12:08:59](https://news.ycombinator.com/item?id=48540126) - [Salesforce to Acquire Fin (formerly Intercom) for $3.6B](https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL)
@@ -146,9 +153,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-14, 14:47:00](https://soylentnews.org/article.pl?sid=26/06/13/1530216&amp;from=rss) - [Scientists Gave an Octopus a Mirror. Here’s What Happened Next ](https://soylentnews.org/article.pl?sid=26/06/13/1530216&amp;from=rss)
 * [2026-06-14, 10:03:00](https://soylentnews.org/article.pl?sid=26/06/13/1438234&amp;from=rss) - [Tests Suggest Russian Satellites Can Jam GPS on a Continental Scale](https://soylentnews.org/article.pl?sid=26/06/13/1438234&amp;from=rss)
 * [2026-06-14, 05:20:00](https://soylentnews.org/article.pl?sid=26/06/13/1424211&amp;from=rss) - [“Atomic Arch”: Nearly 900 AUR Packages Backdoored with an Infostealer and eBPF Rootkit](https://soylentnews.org/article.pl?sid=26/06/13/1424211&amp;from=rss)
+* [2026-06-14, 00:59:08](https://news.ycombinator.com/item?id=48523126) - [Color Photos of Stalin-Era Soviet Union Taken by a US Diplomat](https://rarehistoricalphotos.com/stalin-era-soviet-union-pictures-martin-manhoff/)
 * [2026-06-14, 00:37:00](https://soylentnews.org/article.pl?sid=26/06/12/178256&amp;from=rss) - [ASML Becomes Europe&apos;s Most Valuable Company Ever As Analysts Bet On Higher EUV Output](https://soylentnews.org/article.pl?sid=26/06/12/178256&amp;from=rss)
 * [2026-06-13, 22:55:39](https://news.ycombinator.com/item?id=48522316) - [Getting Creative with Perlin Noise Fields](https://sighack.com/post/getting-creative-with-perlin-noise-fields)
-* [2026-06-13, 22:01:29](https://news.ycombinator.com/item?id=48521925) - [What every coder should know about gamma (2016)](https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/)
 * [2026-06-13, 19:54:00](https://soylentnews.org/article.pl?sid=26/06/12/1645227&amp;from=rss) - [Intel Intro&apos;d ‘The First Processor In The X86 Series And The First 8086 Microprocessor’ On This Day](https://soylentnews.org/article.pl?sid=26/06/12/1645227&amp;from=rss)
 * [2026-06-13, 15:08:00](https://soylentnews.org/article.pl?sid=26/06/12/1339210&amp;from=rss) - [Researchers Put AI Chatbots in Charge of a Simulated World. This One Destroyed Everything in 4 Days](https://soylentnews.org/article.pl?sid=26/06/12/1339210&amp;from=rss)
 * [2026-06-13, 10:25:00](https://soylentnews.org/article.pl?sid=26/06/12/1337219&amp;from=rss) - [Officials Powerless to Stop 8 New Data Centers That Could Transform Small Texas County](https://soylentnews.org/article.pl?sid=26/06/12/1337219&amp;from=rss)
