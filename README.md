@@ -1,46 +1,64 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Cryptocurrency and Blockchain Developments
+## Tech Innovations and Developments
 
-* [Binance Set To Lose Permission To Operate In EU](https://news.slashdot.org/story/26/06/16/1942225/binance-set-to-lose-permission-to-operate-in-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Binance faces regulatory hurdles as it may lose the permission to operate in the EU. This development adds to the ongoing scrutiny of cryptocurrency exchanges.
+* [Rivian Is Reusing Its Own Car Batteries In A Very Resourceful Way](https://soylentnews.org/article.pl?sid=26/06/16/0051200&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/16/0051200&amp;from=rss))
 
-## Quantum and Technology Advancements
+* [Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/) ([comments](https://news.ycombinator.com/item?id=48563609))
 
-* [France To Stop Certifying Products Without Quantum-Safe Encryption](https://it.slashdot.org/story/26/06/16/181236/france-to-stop-certifying-products-without-quantum-safe-encryption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The French government takes a significant step in cybersecurity by requiring quantum-safe encryption standards for certification of products.
+* [Mobileye Is Entering the US Robotaxi Market With Standalone Service](https://tech.slashdot.org/story/26/06/16/1757207/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/06/16/1757207/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Innovations in AI and Automation
+* [Snap&apos;s First Consumer AI Glasses Are Coming This Fall For $2,195](https://tech.slashdot.org/story/26/06/16/1712214/snaps-first-consumer-ai-glasses-are-coming-this-fall-for-2195?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/06/16/1712214/snaps-first-consumer-ai-glasses-are-coming-this-fall-for-2195?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [SpaceX To Acquire AI Coding Startup Cursor For $60 Billion](https://science.slashdot.org/story/26/06/16/174209/spacex-to-acquire-ai-coding-startup-cursor-for-60-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - SpaceX makes a bold move to acquire AI startup Cursor, signaling a push into AI development.
+* [GrapheneOS has been ported to Android 17](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon) ([comments](https://news.ycombinator.com/item?id=48561654))
 
-* [Mobileye Is Entering the US Robotaxi Market With Standalone Service](https://tech.slashdot.org/story/26/06/16/1757207/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Mobileye expands its autonomous vehicle endeavors with a new robotaxi service in the United States.
+## AI and Coding
 
-## Software and System Innovations
+* [Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves](https://voicedraw.com/) ([comments](https://news.ycombinator.com/item?id=48560454))
 
-* [GrapheneOS has been ported to Android 17 and official releases are coming soon](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon) - The secure and privacy-respecting Android alternative, GrapheneOS, announces compatibility with Android 17.
+* [SpaceX To Acquire AI Coding Startup Cursor For $60 Billion](https://science.slashdot.org/story/26/06/16/174209/spacex-to-acquire-ai-coding-startup-cursor-for-60-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/06/16/174209/spacex-to-acquire-ai-coding-startup-cursor-for-60-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust](https://github.com/nvlabs/cutile-rs) - A novel approach to building safe and data-race-free GPU kernels using Rust emerges with the cuTile library.
+* [GPT‑NL: a sovereign language model for the Netherlands](https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/) ([comments](https://news.ycombinator.com/item?id=48559188))
 
-* [Making ast.walk 220x Faster](https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/) - A significant performance improvement in Python's Abstract Syntax Tree (AST) processing has been achieved, promising more efficient code analysis.
+* [Making ast.walk 220x Faster](https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/) ([comments](https://news.ycombinator.com/item?id=48557768))
 
-## Consumer Electronics
+* [Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust](https://github.com/nvlabs/cutile-rs) ([comments](https://news.ycombinator.com/item?id=48561410))
 
-* [Snap's First Consumer AI Glasses Are Coming This Fall For $2,195](https://tech.slashdot.org/story/26/06/16/1712214/snaps-first-consumer-ai-glasses-are-coming-this-fall-for-2195?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Snap enters the hardware game with its first consumer augmented reality glasses set to hit the market this fall for $2,195.
+## Cybersecurity and Privacy Concerns
 
-## Cybersecurity Threats and Challenges
+* [Stop Using JWTs](https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452) ([comments](https://news.ycombinator.com/item?id=48558147))
 
-* [Malware in Arch Linux AURs now inserting Russian spam into shell configs](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/2YQSHTC27MOKDDKHZTH2BJGTEN2CYC7W/) - Reports emerge of malware in Arch Linux AUR, capable of inserting Russian spam into shell configurations.
+* [Making HTTP requests from a container that has no curl, using bash /dev/tcp](https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/) ([comments](https://lobste.rs/s/6qwblq/making_http_requests_from_container_has))
 
-* [RFC 10008: The HTTP QUERY Method](https://www.rfc-editor.org/info/rfc10008/) - A new RFC introduces the HTTP QUERY method, offering new functionalities for web applications.
+* [Russian Spam and Profanities Are Now Plaguing the Arch Linux AUR](https://it.slashdot.org/story/26/06/16/0618239/russian-spam-and-profanities-are-now-plaguing-the-arch-linux-aur?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/26/06/16/0618239/russian-spam-and-profanities-are-now-plaguing-the-arch-linux-aur?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## Tech Industry and Developer Community
+* [Binance Set To Lose Permission To Operate In EU](https://news.slashdot.org/story/26/06/16/1942225/binance-set-to-lose-permission-to-operate-in-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/06/16/1942225/binance-set-to-lose-permission-to-operate-in-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Stop Using JWTs](https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452) - A developer argues why JWTs should not be used and discusses alternative systems for secure token exchange.
+* [The UK&apos;s Teen Social Media Ban Is Political Theater, Not Child Safety Policy](https://www.techdirt.com/2026/06/16/the-uks-teen-social-media-ban-is-political-theater-not-child-safety-policy/) ([comments](https://news.ycombinator.com/item?id=48562957))
 
-* [How Developers React to AI-Scented Blog Posts](https://writethatblog.substack.com/p/dev-reaction-to-ai-blog-posts) - Reflects on developers' reactions to the rise of AI-generated content and their implications for the tech community.
+## Open Source and Software
 
-## Scientific Discoveries and Space Exploration
+* [NLnet announces funding for 67 more open-source projects](https://nlnet.nl/news/2026/20260616-67-new-projects.html) ([comments](https://news.ycombinator.com/item?id=48563569))
 
-* [Venus' Strange Rotation Was Likely Triggered By a High Velocity Moon-Sized Impactor](https://science.slashdot.org/story/26/06/16/0552251/venus-strange-rotation-was-likely-triggered-by-a-high-velocity-moon-sized-impactor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Research suggests that Venus' unusual rotational behavior may be a consequence of a collision with a moon-sized object.
+* [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) ([comments](https://lobste.rs/s/hwqdvt/running_local_models_is_good_now))
+
+* [zlib-rs in Firefox](https://trifectatech.org/blog/zlib-rs-in-firefox/) ([comments](https://lobste.rs/s/erc2po/zlib_rs_firefox))
+
+* [Typst 0.15 contains multitudes](https://typst.app/blog/2026/typst-0.15/) ([comments](https://lobste.rs/s/fkoa80/typst_0_15_contains_multitudes))
+
+* [How memory safety CVEs differ between Rust and C/C++](https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html) ([comments](https://lobste.rs/s/tmeqrk/how_memory_safety_cves_differ_between))
+
+## Unique Studies and Societal Topics
+
+* [What &apos;Emotional Labor&apos; Actually Means — and How Starbucks is Testing its Limits](https://soylentnews.org/article.pl?sid=26/06/15/0017250&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/15/0017250&amp;from=rss))
+
+* [How Can Technical Solutions Expose Mass Surveillance?](https://soylentnews.org/article.pl?sid=26/06/13/1539217&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/13/1539217&amp;from=rss))
+
+* [Scientists Gave an Octopus a Mirror. Here’s What Happened Next ](https://soylentnews.org/article.pl?sid=26/06/13/1530216&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/13/1530216&amp;from=rss))
+
+* [US Solar and Storage Defy Political Hostility to Dominate Q1 Power Installations](https://soylentnews.org/politics/article.pl?sid=26/06/15/0344248&amp;from=rss) ([comments](https://soylentnews.org/politics/article.pl?sid=26/06/15/0344248&amp;from=rss))
+
+* [Calvin and Hobbes and the price of integrity](https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of) ([comments](https://news.ycombinator.com/item?id=48557079))
 
 ---
 
@@ -67,25 +85,30 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-06-16, 23:50:00](https://soylentnews.org/article.pl?sid=26/06/16/0051200&amp;from=rss) - [Rivian Is Reusing Its Own Car Batteries In A Very Resourceful Way](https://soylentnews.org/article.pl?sid=26/06/16/0051200&amp;from=rss)
+* [2026-06-16, 23:15:44](https://news.ycombinator.com/item?id=48563609) - [Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/)
+* [2026-06-16, 23:12:09](https://news.ycombinator.com/item?id=48563569) - [NLnet announces funding for 67 more open-source projects](https://nlnet.nl/news/2026/20260616-67-new-projects.html)
+* [2026-06-16, 23:00:00](https://mobile.slashdot.org/story/26/06/16/201248/commodores-callback-8020-is-a-499-flip-phone-that-blocks-social-media-and-browsers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Commodore&apos;s Callback 8020 Is a $499 Flip Phone That Blocks Social Media and Browsers](https://mobile.slashdot.org/story/26/06/16/201248/commodores-callback-8020-is-a-499-flip-phone-that-blocks-social-media-and-browsers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-16, 22:53:34](https://news.ycombinator.com/item?id=48563394) - [Humiliating IIS servers for fun and jail time](https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/)
+* [2026-06-16, 22:44:18](https://lobste.rs/s/6qwblq/making_http_requests_from_container_has) - [Making HTTP requests from a container that has no curl, using bash /dev/tcp](https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/)
+* [2026-06-16, 22:15:55](https://news.ycombinator.com/item?id=48562957) - [The UK&apos;s Teen Social Media Ban Is Political Theater, Not Child Safety Policy](https://www.techdirt.com/2026/06/16/the-uks-teen-social-media-ban-is-political-theater-not-child-safety-policy/)
 * [2026-06-16, 22:00:00](https://news.slashdot.org/story/26/06/16/1942225/binance-set-to-lose-permission-to-operate-in-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Binance Set To Lose Permission To Operate In EU](https://news.slashdot.org/story/26/06/16/1942225/binance-set-to-lose-permission-to-operate-in-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-16, 21:18:36](https://news.ycombinator.com/item?id=48562274) - [Total Iran Economic Damage Estimate](https://www.fdd.org/analysis/2026/04/23/total-iran-economic-damage-estimate/)
 * [2026-06-16, 21:00:00](https://it.slashdot.org/story/26/06/16/181236/france-to-stop-certifying-products-without-quantum-safe-encryption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [France To Stop Certifying Products Without Quantum-Safe Encryption](https://it.slashdot.org/story/26/06/16/181236/france-to-stop-certifying-products-without-quantum-safe-encryption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-16, 20:34:35](https://news.ycombinator.com/item?id=48561654) - [GrapheneOS has been ported to Android 17 and official releases are coming soon](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon)
+* [2026-06-16, 20:34:35](https://news.ycombinator.com/item?id=48561654) - [GrapheneOS has been ported to Android 17](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon)
 * [2026-06-16, 20:17:42](https://news.ycombinator.com/item?id=48561410) - [Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust](https://github.com/nvlabs/cutile-rs)
 * [2026-06-16, 20:17:04](https://news.ycombinator.com/item?id=48561402) - [Frood, an Alpine Initramfs NAS (2024)](https://words.filippo.io/frood/)
 * [2026-06-16, 20:00:00](https://tech.slashdot.org/story/26/06/16/1757207/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mobileye Is Entering the US Robotaxi Market With Standalone Service](https://tech.slashdot.org/story/26/06/16/1757207/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-16, 19:18:46](https://lobste.rs/s/zpjomk/yak_shaving_is_fun) - [But yak shaving is fun](https://parksb.github.io/en/article/32.html)
 * [2026-06-16, 19:13:30](https://news.ycombinator.com/item?id=48560454) - [Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves](https://voicedraw.com/)
 * [2026-06-16, 19:08:00](https://soylentnews.org/politics/article.pl?sid=26/06/15/0344248&amp;from=rss) - [US Solar and Storage Defy Political Hostility to Dominate Q1 Power Installations](https://soylentnews.org/politics/article.pl?sid=26/06/15/0344248&amp;from=rss)
+* [2026-06-16, 19:04:17](https://lobste.rs/s/k7kojd/all_ways_which_terminals_text_rendering) - [all the ways in which terminals&apos; text rendering is bad (2024)](https://ecs.d2evs.net/posts/2024-05-27-terminals-bad.gmi)
 * [2026-06-16, 19:00:00](https://tech.slashdot.org/story/26/06/16/1712214/snaps-first-consumer-ai-glasses-are-coming-this-fall-for-2195?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Snap&apos;s First Consumer AI Glasses Are Coming This Fall For $2,195](https://tech.slashdot.org/story/26/06/16/1712214/snaps-first-consumer-ai-glasses-are-coming-this-fall-for-2195?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-16, 18:42:26](https://lobste.rs/s/mneqgx/rfc_10008_http_query_method) - [RFC 10008: The HTTP QUERY Method](https://www.rfc-editor.org/info/rfc10008/)
 * [2026-06-16, 18:37:21](https://news.ycombinator.com/item?id=48559935) - [Apple is about to make Hide My Email useless](https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/)
-* [2026-06-16, 18:36:47](https://lobste.rs/s/zaejgn/malware_arch_linux_aurs_now_inserting) - [Malware in Arch Linux AURs now inserting Russian spam into shell configs](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/2YQSHTC27MOKDDKHZTH2BJGTEN2CYC7W/)
 * [2026-06-16, 18:00:00](https://science.slashdot.org/story/26/06/16/174209/spacex-to-acquire-ai-coding-startup-cursor-for-60-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SpaceX To Acquire AI Coding Startup Cursor For $60 Billion](https://science.slashdot.org/story/26/06/16/174209/spacex-to-acquire-ai-coding-startup-cursor-for-60-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-16, 17:54:02](https://news.ycombinator.com/item?id=48559188) - [GPT‑NL: a sovereign language model for the Netherlands](https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/)
 * [2026-06-16, 17:48:42](https://news.ycombinator.com/item?id=48559083) - [10Gb/s Ethernet: switching to a Broadcom SFP+ module](https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus)
 * [2026-06-16, 17:11:05](https://news.ycombinator.com/item?id=48558489) - [Has AI already killed self-help nonfiction books?](https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/)
-* [2026-06-16, 17:01:12](https://news.ycombinator.com/item?id=48558338) - [&apos;Ghost jobs&apos; could soon be illegal in New York](https://www.fastcompany.com/91558427/ghost-jobs-could-soon-be-illegal-in-new-york)
-* [2026-06-16, 17:00:59](https://news.ycombinator.com/item?id=48558337) - [Specs Augmented Reality Glasses](https://newsroom.snap.com/introducing-specs-augmented-reality-glasses)
 * [2026-06-16, 17:00:00](https://yro.slashdot.org/story/26/06/16/1651237/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The US Government&apos;s Anthropic Models Ban Was Never About an AI Jailbreak](https://yro.slashdot.org/story/26/06/16/1651237/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-16, 16:49:46](https://news.ycombinator.com/item?id=48558147) - [Stop Using JWTs](https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452)
 * [2026-06-16, 16:42:32](https://news.ycombinator.com/item?id=48558045) - [Is Meta destroying its engineering organization?](https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering)
@@ -97,7 +120,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-16, 15:55:29](https://lobste.rs/s/mxfd45/google_chrome_s_next_update_will_mark_end) - [Google Chrome&apos;s next update will mark the end of popular ad blockers](https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/)
 * [2026-06-16, 15:44:44](https://news.ycombinator.com/item?id=48557079) - [Calvin and Hobbes and the price of integrity](https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of)
 * [2026-06-16, 15:00:00](https://news.slashdot.org/story/26/06/16/062238/firefox-152-adds-jpeg-xl-support-redesigned-settings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Firefox 152 Adds JPEG XL Support, Redesigned Settings](https://news.slashdot.org/story/26/06/16/062238/firefox-152-adds-jpeg-xl-support-redesigned-settings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-16, 14:50:10](https://news.ycombinator.com/item?id=48556163) - [SubQ 1.1 Small](https://subq.ai/subq-1-1-small-technical-report)
 * [2026-06-16, 14:36:57](https://news.ycombinator.com/item?id=48555993) - [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)
 * [2026-06-16, 14:26:26](https://news.ycombinator.com/item?id=48555838) - [But yak shaving is fun (2019)](https://parksb.github.io/en/article/32.html)
 * [2026-06-16, 14:22:00](https://soylentnews.org/article.pl?sid=26/06/15/0335259&amp;from=rss) - [AI Agents Favored $1,500 Sponsored Flights Over $500 Alternatives](https://soylentnews.org/article.pl?sid=26/06/15/0335259&amp;from=rss)
@@ -122,7 +144,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-16, 04:51:00](https://soylentnews.org/article.pl?sid=26/06/15/0017250&amp;from=rss) - [What &apos;Emotional Labor&apos; Actually Means — and How Starbucks is Testing its Limits](https://soylentnews.org/article.pl?sid=26/06/15/0017250&amp;from=rss)
 * [2026-06-16, 04:30:18](https://lobste.rs/s/irws5p/correlated_randomness_slay_spire_2) - [Correlated randomness in Slay the Spire 2](https://tck.mn/blog/correlated-randomness-sts2/)
 * [2026-06-16, 03:30:00](https://it.slashdot.org/story/26/06/15/2128216/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cybersecurity Vets Protest &apos;Dangerous&apos; US Government Ban On Anthropic&apos;s Most Powerful Models](https://it.slashdot.org/story/26/06/15/2128216/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-16, 02:52:58](https://lobste.rs/s/rcazen/llms_will_replace_8_track_duplication) - [LLMs Will Replace 8-Track Duplication Engineers](https://bbenchoff.github.io/pages/8Tracks.html)
 * [2026-06-16, 02:41:09](https://lobste.rs/s/k6qon4/what_job_interviews_taught_me_about) - [What job interviews taught me about Kubernetes](https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/)
 * [2026-06-16, 02:25:53](https://lobste.rs/s/jfo6xs/banned_book_library_wi_fi_lightbulb) - [Banned book library in a Wi-Fi lightbulb](https://www.richardosgood.com/posts/banned-book-library/)
 * [2026-06-16, 00:05:00](https://soylentnews.org/article.pl?sid=26/06/15/0022216&amp;from=rss) - [Anthropic Warns Claude AI Is Building Itself Faster Than Expected](https://soylentnews.org/article.pl?sid=26/06/15/0022216&amp;from=rss)
@@ -130,24 +151,23 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-15, 22:00:00](https://yro.slashdot.org/story/26/06/15/209242/fbi-issues-urgent-kali365-security-warning-for-teams-outlook-onedrive-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FBI Issues Urgent Kali365 Security Warning For Teams, Outlook, OneDrive Users](https://yro.slashdot.org/story/26/06/15/209242/fbi-issues-urgent-kali365-security-warning-for-teams-outlook-onedrive-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-15, 21:00:00](https://tech.slashdot.org/story/26/06/15/205219/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Chrome&apos;s Next Update Will Mark the End of Popular Ad Blockers](https://tech.slashdot.org/story/26/06/15/205219/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-15, 20:23:48](https://lobste.rs/s/0mximk/netnewswire_status) - [NetNewsWire Status](https://inessential.com/2026/06/15/netnewswire-status.html)
-* [2026-06-15, 20:02:00](https://hardware.slashdot.org/story/26/06/15/200234/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Users Cry Foul After AMD Stripped Memory Crypto From Its Consumer CPUs](https://hardware.slashdot.org/story/26/06/15/200234/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-15, 19:26:25](https://lobste.rs/s/vodqhe/freebsd_15_on_laptop) - [FreeBSD 15 on a Laptop](https://www.sacredheartsc.com/blog/freebsd-15-on-a-laptop/)
 * [2026-06-15, 19:24:00](https://soylentnews.org/article.pl?sid=26/06/15/0016203&amp;from=rss) - [How did Atari Apply Side Art to Arcade Cabinets?](https://soylentnews.org/article.pl?sid=26/06/15/0016203&amp;from=rss)
 * [2026-06-15, 17:14:19](https://lobste.rs/s/fkoa80/typst_0_15_contains_multitudes) - [Typst 0.15 contains multitudes](https://typst.app/blog/2026/typst-0.15/)
 * [2026-06-15, 15:35:08](https://lobste.rs/s/cslljn/iroh_1_0_dial_keys_not_ips) - [Iroh 1.0 - Dial Keys, not IPs](https://www.iroh.computer/blog/v1)
 * [2026-06-15, 14:31:00](https://soylentnews.org/article.pl?sid=26/06/15/0013216&amp;from=rss) - [Influential Study Touting ChatGPT in Education Retracted Over Red Flags](https://soylentnews.org/article.pl?sid=26/06/15/0013216&amp;from=rss)
-* [2026-06-15, 10:23:34](https://lobste.rs/s/guyifg/removing_my_nix_flakes_vs_guix_post) - [Removing my nix flakes vs guix post](https://coopi.neocities.org/posts/taking-down-nix-flakes-vs-guix)
 * [2026-06-15, 09:53:00](https://soylentnews.org/article.pl?sid=26/06/14/1921229&amp;from=rss) - [In First, California City Overwhelmingly Votes to Permanently Ban Datacenters](https://soylentnews.org/article.pl?sid=26/06/14/1921229&amp;from=rss)
 * [2026-06-15, 07:53:52](https://lobste.rs/s/uqagn2/curl_summer_bliss) - [curl summer of bliss](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/)
 * [2026-06-15, 05:08:00](https://soylentnews.org/article.pl?sid=26/06/14/1916201&amp;from=rss) - [The Adder at the Heart of Intel&apos;s 8087 Floating-Point Chip](https://soylentnews.org/article.pl?sid=26/06/14/1916201&amp;from=rss)
+* [2026-06-15, 04:37:42](https://news.ycombinator.com/item?id=48536660) - [A brief tour of the PDP-11, the most influential minicomputer of all time (2022)](https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/)
 * [2026-06-15, 00:23:00](https://soylentnews.org/article.pl?sid=26/06/14/1914203&amp;from=rss) - [Physicists Refute Famous 2025 Study Claiming Daylight Saving Time Poses Severe Health Risks](https://soylentnews.org/article.pl?sid=26/06/14/1914203&amp;from=rss)
+* [2026-06-14, 21:41:56](https://news.ycombinator.com/item?id=48533098) - [The Magic Roundabout of Seattle Area](https://kirklandroundabouts.com)
 * [2026-06-14, 19:35:00](https://soylentnews.org/article.pl?sid=26/06/13/1539217&amp;from=rss) - [How Can Technical Solutions Expose Mass Surveillance?](https://soylentnews.org/article.pl?sid=26/06/13/1539217&amp;from=rss)
 * [2026-06-14, 14:47:00](https://soylentnews.org/article.pl?sid=26/06/13/1530216&amp;from=rss) - [Scientists Gave an Octopus a Mirror. Here’s What Happened Next ](https://soylentnews.org/article.pl?sid=26/06/13/1530216&amp;from=rss)
+* [2026-06-14, 11:33:18](https://news.ycombinator.com/item?id=48526256) - [A Nipkow Disk Mechanical TV Simulator](https://analogtv.net/mechanical-lab)
 * [2026-06-14, 10:03:00](https://soylentnews.org/article.pl?sid=26/06/13/1438234&amp;from=rss) - [Tests Suggest Russian Satellites Can Jam GPS on a Continental Scale](https://soylentnews.org/article.pl?sid=26/06/13/1438234&amp;from=rss)
-* [2026-06-14, 08:33:22](https://news.ycombinator.com/item?id=48525340) - [Show HN: Sabela – A Reactive Notebook for Haskell](https://sabela.datahaskell.com/)
 * [2026-06-14, 05:20:00](https://soylentnews.org/article.pl?sid=26/06/13/1424211&amp;from=rss) - [“Atomic Arch”: Nearly 900 AUR Packages Backdoored with an Infostealer and eBPF Rootkit](https://soylentnews.org/article.pl?sid=26/06/13/1424211&amp;from=rss)
 * [2026-06-14, 00:37:00](https://soylentnews.org/article.pl?sid=26/06/12/178256&amp;from=rss) - [ASML Becomes Europe&apos;s Most Valuable Company Ever As Analysts Bet On Higher EUV Output](https://soylentnews.org/article.pl?sid=26/06/12/178256&amp;from=rss)
-* [2026-06-13, 22:55:39](https://news.ycombinator.com/item?id=48522316) - [Getting Creative with Perlin Noise Fields](https://sighack.com/post/getting-creative-with-perlin-noise-fields)
 * [2026-06-13, 22:14:53](https://news.ycombinator.com/item?id=48522037) - [W.H. Auden and James Schuyler in life and literature](https://hedgehogreview.com/web-features/thr/posts/companions-on-parnassus)
 * [2026-06-13, 19:54:00](https://soylentnews.org/article.pl?sid=26/06/12/1645227&amp;from=rss) - [Intel Intro&apos;d ‘The First Processor In The X86 Series And The First 8086 Microprocessor’ On This Day](https://soylentnews.org/article.pl?sid=26/06/12/1645227&amp;from=rss)
 * [2026-06-13, 17:56:47](https://news.ycombinator.com/item?id=48519723) - [An interview with an Apple emoji designer](https://shadycharacters.co.uk/2026/06/ollie-wagner/)
@@ -155,9 +175,3 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-13, 10:25:00](https://soylentnews.org/article.pl?sid=26/06/12/1337219&amp;from=rss) - [Officials Powerless to Stop 8 New Data Centers That Could Transform Small Texas County](https://soylentnews.org/article.pl?sid=26/06/12/1337219&amp;from=rss)
 * [2026-06-13, 05:39:00](https://soylentnews.org/article.pl?sid=26/06/12/1141258&amp;from=rss) - [Cities Can&apos;t Figure Out How to Turn Off Flock Cameras, So They&apos;re Using Trash Bags](https://soylentnews.org/article.pl?sid=26/06/12/1141258&amp;from=rss)
 * [2026-06-13, 00:56:00](https://soylentnews.org/article.pl?sid=26/06/12/1136247&amp;from=rss) - [Yoti Flagged a Playstation User to Authorities for Running GrapheneOS on Their Phone](https://soylentnews.org/article.pl?sid=26/06/12/1136247&amp;from=rss)
-* [2026-06-12, 20:12:00](https://soylentnews.org/article.pl?sid=26/06/12/1133204&amp;from=rss) - [Finland Deploys New System to Detect Threats to Undersea Cables](https://soylentnews.org/article.pl?sid=26/06/12/1133204&amp;from=rss)
-* [2026-06-12, 15:29:00](https://soylentnews.org/article.pl?sid=26/06/11/0213228&amp;from=rss) - [Google Liable for AI Overview Falsehoods](https://soylentnews.org/article.pl?sid=26/06/11/0213228&amp;from=rss)
-* [2026-06-12, 10:43:00](https://soylentnews.org/article.pl?sid=26/06/11/022206&amp;from=rss) - [You Can Now Get a Religious Exemption From Using AI at Work](https://soylentnews.org/article.pl?sid=26/06/11/022206&amp;from=rss)
-* [2026-06-12, 05:51:00](https://soylentnews.org/article.pl?sid=26/06/11/027248&amp;from=rss) - [Lexar Regional Manager Says That RAM Prices Are Expected To Double By The End Of The Year ](https://soylentnews.org/article.pl?sid=26/06/11/027248&amp;from=rss)
-* [2026-06-12, 02:04:55](https://news.ycombinator.com/item?id=48498981) - [ASM Shader Toy](https://wegfawefgawefg.github.io/asm-shader-toy/)
-* [2026-06-12, 01:18:00](https://soylentnews.org/article.pl?sid=26/06/11/020204&amp;from=rss) - [62 Year Old Dutch Man Marries The Chatbot Of His Dreams](https://soylentnews.org/article.pl?sid=26/06/11/020204&amp;from=rss)
