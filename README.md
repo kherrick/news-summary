@@ -1,58 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advances and Innovations in Technology
+## Electric Vehicle and Energy Innovations
 
-* [Audacity 4.0 beta lets you test its new (nicer) Qt interface](https://www.omgubuntu.co.uk/2026/06/audacity-4-0-beta) ([comments](https://lobste.rs/s/kfkgl2/audacity_4_0_beta_lets_you_test_its_new))
+* [China's EV Price War Was Built On Cars Sold At a Loss](https://tech.slashdot.org/story/26/06/18/0033211/chinas-ev-price-war-was-built-on-cars-sold-at-a-loss?utm_source=rss1.0mainlinkanon&utm_medium=feed) discusses how China's aggressive strategy in the EV market, fueled by cars sold below production cost, aims to secure dominance on the global stage.
 
-* [SteamOS Linux 3.8 released as stable](https://store.steampowered.com/news/app/1675200/view/697641379212298072) ([comments](https://news.ycombinator.com/item?id=48580686))
+* [EU Auto Giants Call For 'Made In Europe' Incentives Amid Rising Chinese Competition](https://soylentnews.org/article.pl?sid=26/06/16/0055252&amp;from=rss) explores the responses of European automakers as they face increasing competition from Chinese electric vehicle manufacturers.
 
-* [Google, Microsoft, and OpenAI Back Linux Foundation's Appia AI Standards Initiative](https://linux.slashdot.org/story/26/06/17/201217/google-microsoft-and-openai-back-linux-foundations-appia-ai-standards-initiative?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://linux.slashdot.org/story/26/06/17/201217/google-microsoft-and-openai-back-linux-foundations-appia-ai-standards-initiative?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Technological Innovations & Updates
 
-* [Open-source AI for CAD: Adam (YC W25)](https://github.com/Adam-CAD/CADAM) ([comments](https://news.ycombinator.com/item?id=48572553))
+* [SteamOS Linux 3.8 released as stable](https://store.steampowered.com/news/app/1675200/view/697641379212298072) announces the latest release of Valve's gaming OS, featuring bug fixes and performance improvements.
 
-* [AI and Brain-Computer Interface Allow Speechless ALS Patient To Work a Full-Time Job](https://science.slashdot.org/story/26/06/16/2342243/ai-and-brain-computer-interface-allow-speechless-als-patient-to-work-a-full-time-job?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/06/16/2342243/ai-and-brain-computer-interface-allow-speechless-als-patient-to-work-a-full-time-job?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Audacity 4.0 beta lets you test its new (nicer) Qt interface](https://www.omgubuntu.co.uk/2026/06/audacity-4-0-beta) introduces a redesigned user interface aimed at enhancing the user experience for the popular audio editing software.
 
-## Programming and Development Updates
+* [AI and Brain-Computer Interface Allow Speechless ALS Patient To Work a Full-Time Job](https://science.slashdot.org/story/26/06/16/2342243/ai-and-brain-computer-interface-allow-speechless-als-patient-to-work-a-full-time-job?utm_source=rss1.0mainlinkanon&utm_medium=feed) explores transformative technology enabling non-verbal ALS patients to work and communicate efficiently.
 
-* [Changes in Emacs 31 I'm Already Daily Driving](https://rahuljuliato.com/posts/emacs-31-around-the-corner) ([comments](https://lobste.rs/s/b0mp2e/changes_emacs_31_i_m_already_daily_driving))
+## Open Source and Software Tools
 
-* [Scaling opencomputer from 1 VM to 1 million sandboxes](https://opencomputer.dev/blog/scaling-one-vm-to-million-sandboxes/) ([comments](https://news.ycombinator.com/item?id=48579915))
+* [CLI Authentication, the Right Way](https://www.abgeo.dev/blog/cli-authentication-the-right-way/) discusses best practices for secure authentication in command-line interface environments.
 
-* [FMAG: A single-instruction GPU virtual machine and toolchain](https://github.com/jangafx/FMAG) ([comments](https://lobste.rs/s/fdbotr/fmag_single_instruction_gpu_virtual))
+* [Epic Games announces Lore version control system](https://lore.org/) introduces a new open-source version control system designed for large-scale software projects.
 
-* [Making budget models punch above their weight with a smart Rust harness](https://yogthos.net/posts/2026-06-08-dirge-code.html) ([comments](https://lobste.rs/s/goo5sh/making_budget_models_punch_above_their))
+* [FMAG: A single-instruction GPU virtual machine and toolchain](https://github.com/jangafx/FMAG) explores an innovative programming toolchain enabling simplified GPU programming through single instruction-based architecture.
 
-* [Game Engine White Papers: Commander Keen](https://forgottenbytes.net/commander_keen.html) ([comments](https://lobste.rs/s/y3ra4s/game_engine_white_papers_commander_keen))
+## AI and Machine Learning
 
-## AI and Machine Learning Insights
+* [Midjourney Medical](https://www.midjourney.com/medical/blogpost) reveals an AI-driven platform aiming to transform medical research and diagnostics.
 
-* [GLM-5.2 is the new leading open weights model on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index) ([comments](https://news.ycombinator.com/item?id=48567759))
+* [GLM-5.2 is the new leading open weights model on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index) highlights advances in open AI models, showcasing GLM-5.2's industry leadership.
 
-* [Midjourney Medical](https://www.midjourney.com/medical/blogpost) ([comments](https://news.ycombinator.com/item?id=48579650))
+## Cybersecurity and Vulnerabilities
 
-* [Anthropic Warns Claude AI Is Building Itself Faster Than Expected](https://soylentnews.org/article.pl?sid=26/06/15/0022216&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/15/0022216&amp;from=rss))
+* [Microsoft Working To Patch 'RoguePlanet' Zero-Day](https://it.slashdot.org/story/26/06/17/2030228/microsoft-working-to-patch-rogueplanet-zero-day?utm_source=rss1.0mainlinkanon&utm_medium=feed) discloses Microsoft's efforts to tackle a critical zero-day vulnerability, codenamed 'RoguePlanet.'
 
-## Unique Perspectives and Topics
+* [A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack](https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html) reveals a longstanding security flaw in OpenBSD, potentially undermining its secure login mechanism.
 
-* [Threads of Underground Fungal Networks Are Long Enough to Reach Beyond the Solar System](https://soylentnews.org/article.pl?sid=26/06/16/122242&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/16/122242&amp;from=rss))
+## Unusual and Thought-Provoking Stories
 
-* [Taxonomy of the Occlupanida (parasitoids on bread bag tags)](https://www.horg.com/horg/?page_id=921) ([comments](https://news.ycombinator.com/item?id=48578388))
+* [Taxonomy of the Occlupanida (parasitoids on bread bag tags)](https://www.horg.com/horg/?page_id=921) takes a unique look at the trivial yet ubiquitous bread bag tag and its imaginative classification system.
 
-* [I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID](https://bobdahacker.com/blog/fifa-hack) ([comments](https://lobste.rs/s/z5wfi9/i_could_ve_rickrolled_entire_fifa_world))
+* [I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID](https://bobdahacker.com/blog/fifa-hack) outlines a bold story where an individual explains how they came close to Rickrolling the FIFA World Cup audience.
 
-* [Scientists Gave an Octopus a Mirror. Here’s What Happened Next ](https://soylentnews.org/article.pl?sid=26/06/13/1530216&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/13/1530216&amp;from=rss))
-
-* [Why thinking out loud with someone beats thinking alone](https://www.thesignalist.io/s/the-dialogue-dividend/) ([comments](https://news.ycombinator.com/item?id=48569894))
-
-## Business and Economic Developments
-
-* [Tesco Moving 40,000 Server Workloads Off VMware Amid Broadcom's 'Abusive Conduct'](https://yro.slashdot.org/story/26/06/17/2357242/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/06/17/2357242/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
-
-* [In First, California City Overwhelmingly Votes to Permanently Ban Datacenters](https://soylentnews.org/article.pl?sid=26/06/14/1921229&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/14/1921229&amp;from=rss))
-
-* [Volkswagen started blocking GrapheneOS users](https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3) ([comments](https://news.ycombinator.com/item?id=48571526))
-
-* [Commodore's Callback 8020 Is a $499 Flip Phone That Blocks Social Media and Browsers](https://mobile.slashdot.org/story/26/06/16/201248/commodores-callback-8020-is-a-499-flip-phone-that-blocks-social-media-and-browsers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://mobile.slashdot.org/story/26/06/16/201248/commodores-callback-8020-is-a-499-flip-phone-that-blocks-social-media-and-browsers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Threads of Underground Fungal Networks Are Long Enough to Reach Beyond the Solar System](https://soylentnews.org/article.pl?sid=26/06/16/122242&amp;from=rss) reports a fascinating scientific study on massive subterranean fungal networks that metaphorically stretch beyond our solar system.
 
 ---
 
@@ -79,16 +67,21 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-06-18, 07:00:00](https://tech.slashdot.org/story/26/06/18/0033211/chinas-ev-price-war-was-built-on-cars-sold-at-a-loss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China&apos;s EV Price War Was Built On Cars Sold At a Loss](https://tech.slashdot.org/story/26/06/18/0033211/chinas-ev-price-war-was-built-on-cars-sold-at-a-loss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-18, 06:36:39](https://lobste.rs/s/nqv7yo/cli_authentication_right_way) - [CLI Authentication, the Right Way](https://www.abgeo.dev/blog/cli-authentication-the-right-way/)
+* [2026-06-18, 06:23:24](https://news.ycombinator.com/item?id=48581489) - [The Australian Government to Require SMS/MMS Sender ID Registraion](https://www.acma.gov.au/sms-sender-id-register)
+* [2026-06-18, 06:17:40](https://news.ycombinator.com/item?id=48581458) - [DeepSeek Introduces Vision](https://chat.deepseek.com/)
 * [2026-06-18, 05:14:20](https://lobste.rs/s/azy6y2/i_hate_compilers) - [I hate compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/)
+* [2026-06-18, 05:10:28](https://news.ycombinator.com/item?id=48581070) - [I Hate Compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/)
 * [2026-06-18, 05:10:01](https://lobste.rs/s/b0mp2e/changes_emacs_31_i_m_already_daily_driving) - [Changes in Emacs 31 I&apos;m Already Daily Driving](https://rahuljuliato.com/posts/emacs-31-around-the-corner)
+* [2026-06-18, 04:24:00](https://soylentnews.org/article.pl?sid=26/06/17/0045227&amp;from=rss) - [Why Not yserver? It’s Xserver, But Rust-y.](https://soylentnews.org/article.pl?sid=26/06/17/0045227&amp;from=rss)
 * [2026-06-18, 04:05:06](https://news.ycombinator.com/item?id=48580686) - [SteamOS Linux 3.8 released as stable](https://store.steampowered.com/news/app/1675200/view/697641379212298072)
 * [2026-06-18, 03:38:31](https://news.ycombinator.com/item?id=48580504) - [Nim Conf 2026 (Online, Sat June 20)](https://conf.nim-lang.org/)
 * [2026-06-18, 03:36:20](https://lobste.rs/s/sgebfp/local_qwen_isn_t_worse_opus_it_s_different) - [Local Qwen isn&apos;t a worse Opus, it&apos;s a different tool](https://blog.alexellis.io/local-ai-is-not-opus/)
 * [2026-06-18, 03:30:00](https://yro.slashdot.org/story/26/06/17/2357242/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tesco Moving 40,000 Server Workloads Off VMware Amid Broadcom&apos;s &apos;Abusive Conduct&apos;](https://yro.slashdot.org/story/26/06/17/2357242/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-18, 03:08:13](https://lobste.rs/s/kfkgl2/audacity_4_0_beta_lets_you_test_its_new) - [Audacity 4.0 beta lets you test its new (nicer) Qt interface](https://www.omgubuntu.co.uk/2026/06/audacity-4-0-beta)
 * [2026-06-18, 03:04:20](https://news.ycombinator.com/item?id=48580209) - [Local Qwen isn&apos;t a worse Opus, it&apos;s a different tool](https://blog.alexellis.io/local-ai-is-not-opus/)
-* [2026-06-18, 02:32:25](https://news.ycombinator.com/item?id=48579915) - [Scaling opencomputer from 1 VM to 1 million sandboxes](https://opencomputer.dev/blog/scaling-one-vm-to-million-sandboxes/)
-* [2026-06-18, 02:32:01](https://news.ycombinator.com/item?id=48579913) - [[x86] AI Compute Extensions (ACE) Specification](https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/)
+* [2026-06-18, 02:32:01](https://news.ycombinator.com/item?id=48579913) - [AI Compute Extensions (ACE) Specification](https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/)
 * [2026-06-18, 01:59:51](https://news.ycombinator.com/item?id=48579650) - [Midjourney Medical](https://www.midjourney.com/medical/blogpost)
 * [2026-06-18, 00:40:49](https://lobste.rs/s/yh7wx9/mirrors_wikimedia_org_will_be_sunset_on) - [mirrors.wikimedia.org will be sunset on May 15](https://lists.wikimedia.org/hyperkitty/list/wikitech-l@lists.wikimedia.org/message/LJYRIS4WB66HIRCAO4GIDTXCMDVZRBMA/)
 * [2026-06-17, 23:35:00](https://soylentnews.org/article.pl?sid=26/06/16/122242&amp;from=rss) - [Threads of Underground Fungal Networks Are Long Enough to Reach Beyond the Solar System](https://soylentnews.org/article.pl?sid=26/06/16/122242&amp;from=rss)
@@ -96,7 +89,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-17, 23:14:49](https://news.ycombinator.com/item?id=48578326) - [Clojure Hosted on Go](https://github.com/glojurelang/glojure)
 * [2026-06-17, 23:00:00](https://it.slashdot.org/story/26/06/17/2030228/microsoft-working-to-patch-rogueplanet-zero-day?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Working To Patch &apos;RoguePlanet&apos; Zero-Day](https://it.slashdot.org/story/26/06/17/2030228/microsoft-working-to-patch-rogueplanet-zero-day?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-17, 22:00:00](https://mobile.slashdot.org/story/26/06/17/2022201/smartphone-market-to-shrink-15-this-year-due-to-memory-crisis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Smartphone Market To Shrink 15% This Year Due To Memory Crisis](https://mobile.slashdot.org/story/26/06/17/2022201/smartphone-market-to-shrink-15-this-year-due-to-memory-crisis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-17, 21:49:03](https://news.ycombinator.com/item?id=48577374) - [Storied Colors – a catalogue of named colors](https://storiedcolors.com/)
+* [2026-06-17, 21:49:03](https://news.ycombinator.com/item?id=48577374) - [Storied Colors – A catalogue of named colors](https://storiedcolors.com/)
 * [2026-06-17, 21:00:53](https://news.ycombinator.com/item?id=48576838) - [Tesco moving 40k server workloads off VMware amid Broadcom&apos;s abusive conduct](https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/)
 * [2026-06-17, 21:00:16](https://lobste.rs/s/mgvyrc/bcachefs_1_38_6_brings_many_performance) - [Bcachefs 1.38.6 Brings Many Performance Improvements](https://www.phoronix.com/news/Bcachefs-Tools-1.38.6)
 * [2026-06-17, 21:00:00](https://tech.slashdot.org/story/26/06/17/2015221/carvana-is-turning-dealerships-into-playgrounds-test-drive-centers-with-sales-all-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Carvana Is Turning Dealerships Into &apos;Playgrounds,&apos; Test-Drive Centers With Sales All Online](https://tech.slashdot.org/story/26/06/17/2015221/carvana-is-turning-dealerships-into-playgrounds-test-drive-centers-with-sales-all-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -107,8 +100,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-17, 19:00:00](https://yro.slashdot.org/story/26/06/17/1737246/anthropic-employees-accuse-trump-administration-of-targeting-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Employees Accuse Trump Administration of Targeting Them](https://yro.slashdot.org/story/26/06/17/1737246/anthropic-employees-accuse-trump-administration-of-targeting-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-17, 18:52:00](https://soylentnews.org/article.pl?sid=26/06/16/1144213&amp;from=rss) - [U.S. Gov&apos;t Orders Anthropic to Disable its Newest AI Models and Restrict Foreigner Use](https://soylentnews.org/article.pl?sid=26/06/16/1144213&amp;from=rss)
 * [2026-06-17, 18:00:00](https://slashdot.org/story/26/06/17/1711214/ai-will-lead-to-labor-shortages-bezos-says-in-optimistic-talk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Will Lead To Labor Shortages, Bezos Says In Optimistic Talk](https://slashdot.org/story/26/06/17/1711214/ai-will-lead-to-labor-shortages-bezos-says-in-optimistic-talk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-17, 17:17:10](https://lobste.rs/s/e4kbd3/future_text_api) - [Future Text API](https://wiesmann.codiferes.net/wordpress/archives/41710)
-* [2026-06-17, 17:00:02](https://news.ycombinator.com/item?id=48573221) - [Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead)
 * [2026-06-17, 17:00:00](https://news.slashdot.org/story/26/06/17/1654241/epic-games-announces-lore-open-source-version-control-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Epic Games Announces Lore Open-Source Version Control System](https://news.slashdot.org/story/26/06/17/1654241/epic-games-announces-lore-open-source-version-control-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-17, 16:44:15](https://news.ycombinator.com/item?id=48573012) - [Show HN: An 8-bit live gamecast for baseball](https://ribbie.tv/watch)
 * [2026-06-17, 16:34:34](https://lobste.rs/s/1shdvp/data_visualization_from_comfort_your) - [Data Visualization from the Comfort of your Terminal](https://github.com/medialab/xan/blob/master/docs/cookbook/dataviz.md)
@@ -129,7 +120,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-17, 11:00:00](https://games.slashdot.org/story/26/06/17/0542212/stop-killing-games-fails-to-secure-eu-law-despite-13-million-signatures?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Stop Killing Games Fails To Secure EU Law Despite 1.3 Million Signatures](https://games.slashdot.org/story/26/06/17/0542212/stop-killing-games-fails-to-secure-eu-law-despite-13-million-signatures?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-17, 10:51:17](https://news.ycombinator.com/item?id=48568502) - [RFC 10008: The new HTTP Query Method](https://www.rfc-editor.org/info/rfc10008/)
 * [2026-06-17, 10:45:54](https://lobste.rs/s/hnoijy/color_picking_oklch_for_mortals) - [Color picking Oklch for mortals](https://hugodaniel.com/posts/color-picking-oklch/)
-* [2026-06-17, 09:54:21](https://news.ycombinator.com/item?id=48568058) - [U.S. science is in chaos](https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/)
 * [2026-06-17, 09:25:00](https://soylentnews.org/article.pl?sid=26/06/16/0055252&amp;from=rss) - [EU Auto Giants Call For &apos;Made In Europe&apos; Incentives Amid Rising Chinese Competition](https://soylentnews.org/article.pl?sid=26/06/16/0055252&amp;from=rss)
 * [2026-06-17, 09:12:00](https://news.ycombinator.com/item?id=48567759) - [GLM-5.2 is the new leading open weights model on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index)
 * [2026-06-17, 08:31:43](https://lobste.rs/s/z5wfi9/i_could_ve_rickrolled_entire_fifa_world) - [I Could&apos;ve Rickrolled the Entire FIFA World Cup. All I Needed Was My ID](https://bobdahacker.com/blog/fifa-hack)
@@ -144,22 +134,22 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-16, 23:50:00](https://soylentnews.org/article.pl?sid=26/06/16/0051200&amp;from=rss) - [Rivian Is Reusing Its Own Car Batteries In A Very Resourceful Way](https://soylentnews.org/article.pl?sid=26/06/16/0051200&amp;from=rss)
 * [2026-06-16, 23:00:00](https://mobile.slashdot.org/story/26/06/16/201248/commodores-callback-8020-is-a-499-flip-phone-that-blocks-social-media-and-browsers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Commodore&apos;s Callback 8020 Is a $499 Flip Phone That Blocks Social Media and Browsers](https://mobile.slashdot.org/story/26/06/16/201248/commodores-callback-8020-is-a-499-flip-phone-that-blocks-social-media-and-browsers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-16, 22:17:20](https://lobste.rs/s/j11pew/can_gzip_be_language_model) - [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
-* [2026-06-16, 22:00:00](https://news.slashdot.org/story/26/06/16/1942225/binance-set-to-lose-permission-to-operate-in-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Binance Set To Lose Permission To Operate In EU](https://news.slashdot.org/story/26/06/16/1942225/binance-set-to-lose-permission-to-operate-in-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-16, 19:18:46](https://lobste.rs/s/zpjomk/yak_shaving_is_fun) - [But yak shaving is fun](https://parksb.github.io/en/article/32.html)
 * [2026-06-16, 19:08:00](https://soylentnews.org/politics/article.pl?sid=26/06/15/0344248&amp;from=rss) - [US Solar and Storage Defy Political Hostility to Dominate Q1 Power Installations](https://soylentnews.org/politics/article.pl?sid=26/06/15/0344248&amp;from=rss)
 * [2026-06-16, 15:55:29](https://lobste.rs/s/mxfd45/google_chrome_s_next_update_will_mark_end) - [Google Chrome&apos;s next update will mark the end of popular ad blockers](https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/)
 * [2026-06-16, 15:15:01](https://news.ycombinator.com/item?id=48556561) - [How we run Firecracker VMs inside EC2 and start browsers in less than 1s](https://browser-use.com/posts/firecracker-browser-infra)
 * [2026-06-16, 14:22:00](https://soylentnews.org/article.pl?sid=26/06/15/0335259&amp;from=rss) - [AI Agents Favored $1,500 Sponsored Flights Over $500 Alternatives](https://soylentnews.org/article.pl?sid=26/06/15/0335259&amp;from=rss)
 * [2026-06-16, 12:16:11](https://news.ycombinator.com/item?id=48554044) - [Show HN: Spin Lab](https://srijanshukla.com/artifacts/spin-lab/)
+* [2026-06-16, 12:00:48](https://news.ycombinator.com/item?id=48553876) - [The 2-Year Apartment Rule](https://tadaima.bearblog.dev/the-2-year-apartment-rule/)
 * [2026-06-16, 10:19:19](https://lobste.rs/s/gqqw6z/kde_plasma_6_7_released) - [KDE Plasma 6.7 released](https://kde.org/announcements/plasma/6/6.7.0/)
 * [2026-06-16, 09:37:00](https://soylentnews.org/article.pl?sid=26/06/15/0328205&amp;from=rss) - [Intel Reportedly Preparing Surprise Return to DDR4 Systems With &apos;Raptor Lake Next&apos;](https://soylentnews.org/article.pl?sid=26/06/15/0328205&amp;from=rss)
-* [2026-06-16, 05:49:51](https://news.ycombinator.com/item?id=48551069) - [The Return of Rigorous Full-System Timing Simulation](https://www.sigarch.org/the-return-of-rigorous-full-system-timing-simulation/)
 * [2026-06-16, 04:51:00](https://soylentnews.org/article.pl?sid=26/06/15/0017250&amp;from=rss) - [What &apos;Emotional Labor&apos; Actually Means — and How Starbucks is Testing its Limits](https://soylentnews.org/article.pl?sid=26/06/15/0017250&amp;from=rss)
 * [2026-06-16, 00:05:00](https://soylentnews.org/article.pl?sid=26/06/15/0022216&amp;from=rss) - [Anthropic Warns Claude AI Is Building Itself Faster Than Expected](https://soylentnews.org/article.pl?sid=26/06/15/0022216&amp;from=rss)
 * [2026-06-15, 20:22:48](https://news.ycombinator.com/item?id=48546549) - [Show HN: We built an 8-bit CPU as 2nd year EE students](https://github.com/c0rRupT9/STEPLA-1)
 * [2026-06-15, 19:24:00](https://soylentnews.org/article.pl?sid=26/06/15/0016203&amp;from=rss) - [How did Atari Apply Side Art to Arcade Cabinets?](https://soylentnews.org/article.pl?sid=26/06/15/0016203&amp;from=rss)
 * [2026-06-15, 14:31:00](https://soylentnews.org/article.pl?sid=26/06/15/0013216&amp;from=rss) - [Influential Study Touting ChatGPT in Education Retracted Over Red Flags](https://soylentnews.org/article.pl?sid=26/06/15/0013216&amp;from=rss)
 * [2026-06-15, 09:53:00](https://soylentnews.org/article.pl?sid=26/06/14/1921229&amp;from=rss) - [In First, California City Overwhelmingly Votes to Permanently Ban Datacenters](https://soylentnews.org/article.pl?sid=26/06/14/1921229&amp;from=rss)
+* [2026-06-15, 06:47:54](https://news.ycombinator.com/item?id=48537481) - [Sogen – High-performance Windows and Linux userspace emulator](https://sogen.dev/)
 * [2026-06-15, 05:08:00](https://soylentnews.org/article.pl?sid=26/06/14/1916201&amp;from=rss) - [The Adder at the Heart of Intel&apos;s 8087 Floating-Point Chip](https://soylentnews.org/article.pl?sid=26/06/14/1916201&amp;from=rss)
 * [2026-06-15, 00:23:00](https://soylentnews.org/article.pl?sid=26/06/14/1914203&amp;from=rss) - [Physicists Refute Famous 2025 Study Claiming Daylight Saving Time Poses Severe Health Risks](https://soylentnews.org/article.pl?sid=26/06/14/1914203&amp;from=rss)
 * [2026-06-14, 19:35:00](https://soylentnews.org/article.pl?sid=26/06/13/1539217&amp;from=rss) - [How Can Technical Solutions Expose Mass Surveillance?](https://soylentnews.org/article.pl?sid=26/06/13/1539217&amp;from=rss)
@@ -168,4 +158,3 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-14, 05:20:00](https://soylentnews.org/article.pl?sid=26/06/13/1424211&amp;from=rss) - [“Atomic Arch”: Nearly 900 AUR Packages Backdoored with an Infostealer and eBPF Rootkit](https://soylentnews.org/article.pl?sid=26/06/13/1424211&amp;from=rss)
 * [2026-06-14, 02:14:43](https://news.ycombinator.com/item?id=48523534) - [Show HN: Inkwash, a watercolor sketching app and explanation](https://johnowhitaker.github.io/inkwash/about)
 * [2026-06-14, 00:37:00](https://soylentnews.org/article.pl?sid=26/06/12/178256&amp;from=rss) - [ASML Becomes Europe&apos;s Most Valuable Company Ever As Analysts Bet On Higher EUV Output](https://soylentnews.org/article.pl?sid=26/06/12/178256&amp;from=rss)
-* [2026-06-14, 00:26:02](https://news.ycombinator.com/item?id=48522927) - [Image Compression](https://www.makingsoftware.com/chapters/image-compression)
