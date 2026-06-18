@@ -1,50 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Industry Disruptions
+## AI and Technology Developments
 
-* [Smartphone Market To Shrink 15% This Year Due To Memory Crisis](https://mobile.slashdot.org/story/26/06/17/2022201/smartphone-market-to-shrink-15-this-year-due-to-memory-crisis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The smartphone market faces a severe contraction due to a memory supply crisis.
+* [ChatGPT Spontaneously Generates Sexual Violence and Hardcore Snuff Imagery](https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt) ([comments](https://news.ycombinator.com/item?id=48578894))
 
-* [Leaked financial docs show OpenAI is losing billions of dollars a year](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/) - Internal documents reveal substantial financial losses for the AI leader.
+* [Google, Microsoft, and OpenAI Back Linux Foundation's Appia AI Standards Initiative](https://linux.slashdot.org/story/26/06/17/201217/google-microsoft-and-openai-back-linux-foundations-appia-ai-standards-initiative?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://linux.slashdot.org/story/26/06/17/201217/google-microsoft-and-openai-back-linux-foundations-appia-ai-standards-initiative?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct](https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/) - Tesco transitions its infrastructure amid allegations of Broadcom's misconduct.
+* [AI and Brain-Computer Interface Allow Speechless ALS Patient To Work a Full-Time Job](https://science.slashdot.org/story/26/06/16/2342243/ai-and-brain-computer-interface-allow-speechless-als-patient-to-work-a-full-time-job?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/06/16/2342243/ai-and-brain-computer-interface-allow-speechless-als-patient-to-work-a-full-time-job?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Volkswagen started blocking GrapheneOS users](https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3) - Volkswagen faces criticism for limiting app access for GrapheneOS users.
+* [GLM-5.2 is the new leading open weights model on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index) ([comments](https://news.ycombinator.com/item?id=48567759))
 
-* [Epic Games Announces Lore Open-Source Version Control System](https://news.slashdot.org/story/26/06/17/1654241/epic-games-announces-lore-open-source-version-control-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Epic Games unveils a scalable open-source version control tool called Lore.
+* [Anthropic Warns Claude AI Is Building Itself Faster Than Expected](https://soylentnews.org/article.pl?sid=26/06/15/0022216&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/15/0022216&amp;from=rss))
 
-## Advancements in AI and Applications
+## Unique Innovations and Discoveries
 
-* [AI Will Lead To Labor Shortages, Bezos Says In Optimistic Talk](https://slashdot.org/story/26/06/17/1711214/ai-will-lead-to-labor-shortages-bezos-says-in-optimistic-talk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Jeff Bezos shares optimistic views on AI's long-term impact on labor.
+* [Threads of Underground Fungal Networks Are Long Enough to Reach Beyond the Solar System](https://soylentnews.org/article.pl?sid=26/06/16/122242&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/16/122242&amp;from=rss))
 
-* [Google, Microsoft, and OpenAI Back Linux Foundation's Appia AI Standards Initiative](https://linux.slashdot.org/story/26/06/17/201217/google-microsoft-and-openai-back-linux-foundations-appia-ai-standards-initiative?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Tech giants align to push standardized AI frameworks.
+* [Show HN: An 8-bit live gamecast for baseball](https://ribbie.tv/watch) ([comments](https://news.ycombinator.com/item?id=48573012))
 
-* [Using AI to improve a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction/) - AI breakthroughs are improving complex chemical processes.
+* [Scientists Gave an Octopus a Mirror. Here’s What Happened Next ](https://soylentnews.org/article.pl?sid=26/06/13/1530216&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/13/1530216&amp;from=rss))
 
-* [AI and Brain-Computer Interface Allow Speechless ALS Patient To Work a Full-Time Job](https://science.slashdot.org/story/26/06/16/2342243/ai-and-brain-computer-interface-allow-speechless-als-patient-to-work-a-full-time-job?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Innovative AI and neural interfaces break barriers for ALS patients.
+## Open Source and Software Updates
 
-## Urban and Social Challenges
+* [Epic Games Announces Lore Open-Source Version Control System](https://news.slashdot.org/story/26/06/17/1654241/epic-games-announces-lore-open-source-version-control-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/06/17/1654241/epic-games-announces-lore-open-source-version-control-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Why Can't Walnut Creek Build 3 Bedroom Apartments with a Playground?](https://kevin.burke.dev/kevin/walnut-creek-single-stair/) - Insight into zoning challenges limiting housing solutions in Walnut Creek.
+* [Bcachefs 1.38.6 Brings Many Performance Improvements](https://www.phoronix.com/news/Bcachefs-Tools-1.38.6) ([comments](https://lobste.rs/s/mgvyrc/bcachefs_1_38_6_brings_many_performance))
 
-* [Why do commercial spaces sit vacant? (2025)](https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant) - A deep dive into the persistent problem of vacant commercial spaces.
+* [Launch HN: Adam (YC W25) – Open-Source AI CAD](https://github.com/Adam-CAD/CADAM) ([comments](https://news.ycombinator.com/item?id=48572553))
 
-## Novel Ideas and Tools
+## Security and Privacy
 
-* [Storied Colors – a catalogue of named colors](https://storiedcolors.com/) - A unique platform that catalogues and explores the stories behind color names.
+* [A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack](https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html) ([comments](https://lobste.rs/s/suaa0r/27_year_old_authentication_bypass))
 
-* [Loreline – Tools for writing interactive fiction](https://loreline.app/en/) - A resourceful application for designing and writing interactive stories.
+* [Hacking Group Claims Major Hack of Novo Nordisk, Attempted $25 Million Extortion](https://yro.slashdot.org/story/26/06/17/0617255/hacking-group-claims-major-hack-of-novo-nordisk-attempted-25-million-extortion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/06/17/0617255/hacking-group-claims-major-hack-of-novo-nordisk-attempted-25-million-extortion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Data Visualization from the Comfort of your Terminal](https://github.com/medialab/xan/blob/master/docs/cookbook/dataviz.md) - Innovative tools enabling data visualization within terminal interfaces.
+* [US holds off blacklisting DeepSeek, more than 100 firms deemed security risks](https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/) ([comments](https://news.ycombinator.com/item?id=48565498))
 
-* [Pull Requests are Free Puppies](https://www.youtube.com/watch?v=x8_ZZhRL3YU&amp;t=1733s) - A lighthearted take on the concepts behind pull requests.
+## Economic and Industry Trends
 
-## Cybersecurity and Privacy Concerns
+* [Leaked financial docs show OpenAI is losing billions of dollars a year](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/) ([comments](https://news.ycombinator.com/item?id=48577208))
 
-* [Hacking Group Claims Major Hack of Novo Nordisk, Attempted $25 Million Extortion](https://yro.slashdot.org/story/26/06/17/0617255/hacking-group-claims-major-hack-of-novo-nordisk-attempted-25-million-extortion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Novo Nordisk faces a massive cyberattack and attempted extortion.
+* [Smartphone Market To Shrink 15% This Year Due To Memory Crisis](https://mobile.slashdot.org/story/26/06/17/2022201/smartphone-market-to-shrink-15-this-year-due-to-memory-crisis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://mobile.slashdot.org/story/26/06/17/2022201/smartphone-market-to-shrink-15-this-year-due-to-memory-crisis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack](https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html) - A decades-old critical security flaw revealed in OpenBSD's PPP stack.
-
-* [The Impact of Google's Manifest Version 3 Update on Ad Blocker Effectiveness](https://arxiv.org/abs/2503.01000) - Research on how Google's browser updates affect ad-blocking technology.
+* [U.S. science is in chaos](https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/) ([comments](https://news.ycombinator.com/item?id=48568058))
 
 ---
 
@@ -71,22 +69,25 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-06-18, 00:24:04](https://news.ycombinator.com/item?id=48578894) - [ChatGPT Spontaneously Generates Sexual Violence and Hardcore Snuff Imagery](https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt)
+* [2026-06-17, 23:35:00](https://soylentnews.org/article.pl?sid=26/06/16/122242&amp;from=rss) - [Threads of Underground Fungal Networks Are Long Enough to Reach Beyond the Solar System](https://soylentnews.org/article.pl?sid=26/06/16/122242&amp;from=rss)
+* [2026-06-17, 23:20:38](https://news.ycombinator.com/item?id=48578388) - [Taxonomy of the Occlupanida (parasitoids on bread bag tags)](https://www.horg.com/horg/?page_id=921)
+* [2026-06-17, 23:14:49](https://news.ycombinator.com/item?id=48578326) - [Clojure Hosted on Go](https://github.com/glojurelang/glojure)
+* [2026-06-17, 23:00:00](https://it.slashdot.org/story/26/06/17/2030228/microsoft-working-to-patch-rogueplanet-zero-day?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Working To Patch &apos;RoguePlanet&apos; Zero-Day](https://it.slashdot.org/story/26/06/17/2030228/microsoft-working-to-patch-rogueplanet-zero-day?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-17, 22:00:00](https://mobile.slashdot.org/story/26/06/17/2022201/smartphone-market-to-shrink-15-this-year-due-to-memory-crisis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Smartphone Market To Shrink 15% This Year Due To Memory Crisis](https://mobile.slashdot.org/story/26/06/17/2022201/smartphone-market-to-shrink-15-this-year-due-to-memory-crisis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-17, 21:49:03](https://news.ycombinator.com/item?id=48577374) - [Storied Colors – a catalogue of named colors](https://storiedcolors.com/)
-* [2026-06-17, 21:35:27](https://news.ycombinator.com/item?id=48577246) - [Why Can&apos;t Walnut Creek Build 3 Bedroom Apartments with a Playground?](https://kevin.burke.dev/kevin/walnut-creek-single-stair/)
 * [2026-06-17, 21:31:35](https://news.ycombinator.com/item?id=48577208) - [Leaked financial docs show OpenAI is losing billions of dollars a year](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/)
 * [2026-06-17, 21:00:53](https://news.ycombinator.com/item?id=48576838) - [Tesco moving 40k server workloads off VMware amid Broadcom&apos;s abusive conduct](https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/)
+* [2026-06-17, 21:00:16](https://lobste.rs/s/mgvyrc/bcachefs_1_38_6_brings_many_performance) - [Bcachefs 1.38.6 Brings Many Performance Improvements](https://www.phoronix.com/news/Bcachefs-Tools-1.38.6)
 * [2026-06-17, 21:00:07](https://news.ycombinator.com/item?id=48576824) - [A robot is sprinting towards you. Do you want it running on Claude or Grok?](https://openrouter.ai/blog/insights/royale-last-agent-standing/)
 * [2026-06-17, 21:00:00](https://tech.slashdot.org/story/26/06/17/2015221/carvana-is-turning-dealerships-into-playgrounds-test-drive-centers-with-sales-all-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Carvana Is Turning Dealerships Into &apos;Playgrounds,&apos; Test-Drive Centers With Sales All Online](https://tech.slashdot.org/story/26/06/17/2015221/carvana-is-turning-dealerships-into-playgrounds-test-drive-centers-with-sales-all-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-17, 20:29:15](https://news.ycombinator.com/item?id=48576395) - [Loreline – Tools for writing interactive fiction](https://loreline.app/en/)
-* [2026-06-17, 20:23:00](https://news.ycombinator.com/item?id=48576307) - [Apple Intelligence may become mandatory in iOS and macOS 27](https://manualdousuario.net/en/apple-intelligence-mandatory-ios-macos-27/)
+* [2026-06-17, 20:12:03](https://lobste.rs/s/p7i4ny/there_s_no_place_like_home_10_journey_vim) - [There&apos;s No Place Like $HOME: A 10 Journey of Vim, Then VS Code, and Back to Vim](https://starikov.co/no-place-like-home/)
 * [2026-06-17, 20:03:00](https://linux.slashdot.org/story/26/06/17/201217/google-microsoft-and-openai-back-linux-foundations-appia-ai-standards-initiative?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google, Microsoft, and OpenAI Back Linux Foundation&apos;s Appia AI Standards Initiative](https://linux.slashdot.org/story/26/06/17/201217/google-microsoft-and-openai-back-linux-foundations-appia-ai-standards-initiative?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-17, 19:50:11](https://news.ycombinator.com/item?id=48575878) - [Made a free macOS menu bar app that fixes typing in the wrong keyboard layout](https://flickey.site)
-* [2026-06-17, 19:33:47](https://lobste.rs/s/hrcvuv/zkit_provider_agnostic_agent_toolkit) - [zkit: provider agnostic Agent toolkit](https://www.github.com/zarldev/zarlmono)
 * [2026-06-17, 19:00:00](https://yro.slashdot.org/story/26/06/17/1737246/anthropic-employees-accuse-trump-administration-of-targeting-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Employees Accuse Trump Administration of Targeting Them](https://yro.slashdot.org/story/26/06/17/1737246/anthropic-employees-accuse-trump-administration-of-targeting-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-17, 18:52:00](https://soylentnews.org/article.pl?sid=26/06/16/1144213&amp;from=rss) - [U.S. Gov&apos;t Orders Anthropic to Disable its Newest AI Models and Restrict Foreigner Use](https://soylentnews.org/article.pl?sid=26/06/16/1144213&amp;from=rss)
 * [2026-06-17, 18:00:00](https://slashdot.org/story/26/06/17/1711214/ai-will-lead-to-labor-shortages-bezos-says-in-optimistic-talk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Will Lead To Labor Shortages, Bezos Says In Optimistic Talk](https://slashdot.org/story/26/06/17/1711214/ai-will-lead-to-labor-shortages-bezos-says-in-optimistic-talk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-17, 17:34:20](https://news.ycombinator.com/item?id=48573757) - [Using AI to improve a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction/)
 * [2026-06-17, 17:17:10](https://lobste.rs/s/e4kbd3/future_text_api) - [Future Text API](https://wiesmann.codiferes.net/wordpress/archives/41710)
 * [2026-06-17, 17:14:21](https://news.ycombinator.com/item?id=48573435) - [The Competitive Moat That AI Can&apos;t Replicate](https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/)
 * [2026-06-17, 17:00:02](https://news.ycombinator.com/item?id=48573221) - [Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead)
@@ -115,10 +116,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-17, 09:25:00](https://soylentnews.org/article.pl?sid=26/06/16/0055252&amp;from=rss) - [EU Auto Giants Call For &apos;Made In Europe&apos; Incentives Amid Rising Chinese Competition](https://soylentnews.org/article.pl?sid=26/06/16/0055252&amp;from=rss)
 * [2026-06-17, 09:12:00](https://news.ycombinator.com/item?id=48567759) - [GLM-5.2 is the new leading open weights model on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index)
 * [2026-06-17, 08:31:43](https://lobste.rs/s/z5wfi9/i_could_ve_rickrolled_entire_fifa_world) - [I Could&apos;ve Rickrolled the Entire FIFA World Cup. All I Needed Was My ID](https://bobdahacker.com/blog/fifa-hack)
-* [2026-06-17, 07:49:44](https://news.ycombinator.com/item?id=48567155) - [Hacker News but for independent blogs](https://bubbles.town/)
 * [2026-06-17, 07:30:42](https://lobste.rs/s/fxulig/impact_google_s_manifest_version_3_update) - [The Impact of Google&apos;s Manifest Version 3 Update on Ad Blocker Effectiveness](https://arxiv.org/abs/2503.01000)
 * [2026-06-17, 07:00:00](https://science.slashdot.org/story/26/06/16/2342243/ai-and-brain-computer-interface-allow-speechless-als-patient-to-work-a-full-time-job?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI and Brain-Computer Interface Allow Speechless ALS Patient To Work a Full-Time Job](https://science.slashdot.org/story/26/06/16/2342243/ai-and-brain-computer-interface-allow-speechless-als-patient-to-work-a-full-time-job?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-17, 06:59:29](https://news.ycombinator.com/item?id=48566791) - [Why do commercial spaces sit vacant? (2025)](https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant)
 * [2026-06-17, 06:47:17](https://lobste.rs/s/njidax/making_ghc_upgrades_easy) - [Making GHC upgrades easy](https://blog.haskell.org/making-ghc-upgrades-easy/)
 * [2026-06-17, 05:42:05](https://lobste.rs/s/vx4cnm/how_docker_desktop_networking_works) - [How Docker Desktop Networking Works Under the Hood (2022)](https://www.docker.com/blog/how-docker-desktop-networking-works-under-the-hood/)
 * [2026-06-17, 05:29:46](https://lobste.rs/s/y3ra4s/game_engine_white_papers_commander_keen) - [Game Engine White Papers: Commander Keen](https://forgottenbytes.net/commander_keen.html)
@@ -128,11 +127,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-17, 03:30:00](https://tech.slashdot.org/story/26/06/16/2334256/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [HPE Tempts VMware Users, Partners With Year of Free Virtualization Software](https://tech.slashdot.org/story/26/06/16/2334256/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-16, 23:50:00](https://soylentnews.org/article.pl?sid=26/06/16/0051200&amp;from=rss) - [Rivian Is Reusing Its Own Car Batteries In A Very Resourceful Way](https://soylentnews.org/article.pl?sid=26/06/16/0051200&amp;from=rss)
 * [2026-06-16, 23:00:00](https://mobile.slashdot.org/story/26/06/16/201248/commodores-callback-8020-is-a-499-flip-phone-that-blocks-social-media-and-browsers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Commodore&apos;s Callback 8020 Is a $499 Flip Phone That Blocks Social Media and Browsers](https://mobile.slashdot.org/story/26/06/16/201248/commodores-callback-8020-is-a-499-flip-phone-that-blocks-social-media-and-browsers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-16, 22:44:18](https://lobste.rs/s/6qwblq/making_http_requests_from_container_has) - [Making HTTP requests from a container that has no curl, using bash /dev/tcp](https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/)
 * [2026-06-16, 22:17:20](https://lobste.rs/s/j11pew/can_gzip_be_language_model) - [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
 * [2026-06-16, 22:00:00](https://news.slashdot.org/story/26/06/16/1942225/binance-set-to-lose-permission-to-operate-in-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Binance Set To Lose Permission To Operate In EU](https://news.slashdot.org/story/26/06/16/1942225/binance-set-to-lose-permission-to-operate-in-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-16, 21:00:00](https://it.slashdot.org/story/26/06/16/181236/france-to-stop-certifying-products-without-quantum-safe-encryption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [France To Stop Certifying Products Without Quantum-Safe Encryption](https://it.slashdot.org/story/26/06/16/181236/france-to-stop-certifying-products-without-quantum-safe-encryption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-16, 20:00:00](https://tech.slashdot.org/story/26/06/16/1757207/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mobileye Is Entering the US Robotaxi Market With Standalone Service](https://tech.slashdot.org/story/26/06/16/1757207/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-16, 19:18:46](https://lobste.rs/s/zpjomk/yak_shaving_is_fun) - [But yak shaving is fun](https://parksb.github.io/en/article/32.html)
 * [2026-06-16, 19:08:00](https://soylentnews.org/politics/article.pl?sid=26/06/15/0344248&amp;from=rss) - [US Solar and Storage Defy Political Hostility to Dominate Q1 Power Installations](https://soylentnews.org/politics/article.pl?sid=26/06/15/0344248&amp;from=rss)
 * [2026-06-16, 16:00:53](https://lobste.rs/s/hwqdvt/running_local_models_is_good_now) - [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)
@@ -147,22 +144,19 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-16, 05:49:51](https://news.ycombinator.com/item?id=48551069) - [The Return of Rigorous Full-System Timing Simulation](https://www.sigarch.org/the-return-of-rigorous-full-system-timing-simulation/)
 * [2026-06-16, 04:51:00](https://soylentnews.org/article.pl?sid=26/06/15/0017250&amp;from=rss) - [What &apos;Emotional Labor&apos; Actually Means — and How Starbucks is Testing its Limits](https://soylentnews.org/article.pl?sid=26/06/15/0017250&amp;from=rss)
 * [2026-06-16, 00:05:00](https://soylentnews.org/article.pl?sid=26/06/15/0022216&amp;from=rss) - [Anthropic Warns Claude AI Is Building Itself Faster Than Expected](https://soylentnews.org/article.pl?sid=26/06/15/0022216&amp;from=rss)
+* [2026-06-15, 20:22:48](https://news.ycombinator.com/item?id=48546549) - [Show HN: We built an 8-bit CPU as 2nd year EE students](https://github.com/c0rRupT9/STEPLA-1)
 * [2026-06-15, 19:24:00](https://soylentnews.org/article.pl?sid=26/06/15/0016203&amp;from=rss) - [How did Atari Apply Side Art to Arcade Cabinets?](https://soylentnews.org/article.pl?sid=26/06/15/0016203&amp;from=rss)
+* [2026-06-15, 14:55:12](https://news.ycombinator.com/item?id=48542200) - [Gliderboy Reinvents Humble Weather Balloon with Flight Home](https://www.bloomberg.com/news/newsletters/2026-06-15/-gliderboy-reinvents-weather-balloon-with-return-flight-home)
 * [2026-06-15, 14:31:00](https://soylentnews.org/article.pl?sid=26/06/15/0013216&amp;from=rss) - [Influential Study Touting ChatGPT in Education Retracted Over Red Flags](https://soylentnews.org/article.pl?sid=26/06/15/0013216&amp;from=rss)
 * [2026-06-15, 09:53:00](https://soylentnews.org/article.pl?sid=26/06/14/1921229&amp;from=rss) - [In First, California City Overwhelmingly Votes to Permanently Ban Datacenters](https://soylentnews.org/article.pl?sid=26/06/14/1921229&amp;from=rss)
 * [2026-06-15, 05:08:00](https://soylentnews.org/article.pl?sid=26/06/14/1916201&amp;from=rss) - [The Adder at the Heart of Intel&apos;s 8087 Floating-Point Chip](https://soylentnews.org/article.pl?sid=26/06/14/1916201&amp;from=rss)
 * [2026-06-15, 00:23:00](https://soylentnews.org/article.pl?sid=26/06/14/1914203&amp;from=rss) - [Physicists Refute Famous 2025 Study Claiming Daylight Saving Time Poses Severe Health Risks](https://soylentnews.org/article.pl?sid=26/06/14/1914203&amp;from=rss)
 * [2026-06-14, 21:41:56](https://news.ycombinator.com/item?id=48533098) - [Kirkland Roundabouts](https://kirklandroundabouts.com)
 * [2026-06-14, 19:35:00](https://soylentnews.org/article.pl?sid=26/06/13/1539217&amp;from=rss) - [How Can Technical Solutions Expose Mass Surveillance?](https://soylentnews.org/article.pl?sid=26/06/13/1539217&amp;from=rss)
-* [2026-06-14, 18:18:04](https://news.ycombinator.com/item?id=48530685) - [A World of First Drafts](https://leejo.github.io/2026/06/14/first_drafts/)
 * [2026-06-14, 14:47:00](https://soylentnews.org/article.pl?sid=26/06/13/1530216&amp;from=rss) - [Scientists Gave an Octopus a Mirror. Here’s What Happened Next ](https://soylentnews.org/article.pl?sid=26/06/13/1530216&amp;from=rss)
+* [2026-06-14, 14:22:41](https://news.ycombinator.com/item?id=48527464) - [Pink Cosmo berries a hit in their trial season (2023)](https://fruitgrowersnews.com/article/pink-cosmo-berries-a-hit-in-their-trial-season/)
 * [2026-06-14, 10:03:00](https://soylentnews.org/article.pl?sid=26/06/13/1438234&amp;from=rss) - [Tests Suggest Russian Satellites Can Jam GPS on a Continental Scale](https://soylentnews.org/article.pl?sid=26/06/13/1438234&amp;from=rss)
 * [2026-06-14, 05:20:00](https://soylentnews.org/article.pl?sid=26/06/13/1424211&amp;from=rss) - [“Atomic Arch”: Nearly 900 AUR Packages Backdoored with an Infostealer and eBPF Rootkit](https://soylentnews.org/article.pl?sid=26/06/13/1424211&amp;from=rss)
 * [2026-06-14, 02:14:43](https://news.ycombinator.com/item?id=48523534) - [Show HN: Inkwash, a watercolor sketching app and explanation](https://johnowhitaker.github.io/inkwash/about)
 * [2026-06-14, 00:37:00](https://soylentnews.org/article.pl?sid=26/06/12/178256&amp;from=rss) - [ASML Becomes Europe&apos;s Most Valuable Company Ever As Analysts Bet On Higher EUV Output](https://soylentnews.org/article.pl?sid=26/06/12/178256&amp;from=rss)
 * [2026-06-14, 00:26:02](https://news.ycombinator.com/item?id=48522927) - [Image Compression](https://www.makingsoftware.com/chapters/image-compression)
-* [2026-06-13, 19:54:00](https://soylentnews.org/article.pl?sid=26/06/12/1645227&amp;from=rss) - [Intel Intro&apos;d ‘The First Processor In The X86 Series And The First 8086 Microprocessor’ On This Day](https://soylentnews.org/article.pl?sid=26/06/12/1645227&amp;from=rss)
-* [2026-06-13, 15:08:00](https://soylentnews.org/article.pl?sid=26/06/12/1339210&amp;from=rss) - [Researchers Put AI Chatbots in Charge of a Simulated World. This One Destroyed Everything in 4 Days](https://soylentnews.org/article.pl?sid=26/06/12/1339210&amp;from=rss)
-* [2026-06-13, 10:25:00](https://soylentnews.org/article.pl?sid=26/06/12/1337219&amp;from=rss) - [Officials Powerless to Stop 8 New Data Centers That Could Transform Small Texas County](https://soylentnews.org/article.pl?sid=26/06/12/1337219&amp;from=rss)
-* [2026-06-13, 05:39:00](https://soylentnews.org/article.pl?sid=26/06/12/1141258&amp;from=rss) - [Cities Can&apos;t Figure Out How to Turn Off Flock Cameras, So They&apos;re Using Trash Bags](https://soylentnews.org/article.pl?sid=26/06/12/1141258&amp;from=rss)
-* [2026-06-13, 00:56:00](https://soylentnews.org/article.pl?sid=26/06/12/1136247&amp;from=rss) - [Yoti Flagged a Playstation User to Authorities for Running GrapheneOS on Their Phone](https://soylentnews.org/article.pl?sid=26/06/12/1136247&amp;from=rss)
