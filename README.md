@@ -1,52 +1,46 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Developments
+## Key Technological and Scientific Advances
 
-* [NASA Picks Eric Schmidt's Rocket Company For Mars Mission](https://science.slashdot.org/story/26/06/18/2349246/nasa-picks-eric-schmidts-rocket-company-for-mars-mission?utm_source=rss1.0mainlinkanon&utm_medium=feed) - NASA collaborates with Eric Schmidt's innovative rocket company for a Mars-bound project, highlighting private sector involvement in space exploration. [Comments](https://science.slashdot.org/comments.pl?sid=26/06/18/2349246)
+* [Norway greenlights first full-scale ship tunnel](https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel) - The Norwegian government has approved the construction of the world's first full-scale ship tunnel, an innovative engineering feat designed to improve maritime navigation and sea transport.
 
-* [Godot 4.7: Lights, Camera, Action](https://godotengine.org/releases/4.7/) - The latest update to the Godot game engine brings new features for developers including enhanced lighting and filming capabilities. [Comments](https://lobste.rs/s/heb0am/godot_4_7_lights_camera_action)
+* [NASA Picks Eric Schmidt's Rocket Company For Mars Mission](https://science.slashdot.org/story/26/06/18/2349246/nasa-picks-eric-schmidts-rocket-company-for-mars-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NASA has selected ex-Google executive Eric Schmidt's rocket company to lead a significant Mars mission, showcasing the increased intersection of tech innovation and space exploration.
 
-* [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/) - Use Datasette’s feature to deploy custom HTML applications for better data visualization and interaction. [Comments](https://news.ycombinator.com/item?id=48593731)
+* [Rolls-Royce Secures Deal To Build Small Nuclear Reactors For Sweden](https://hardware.slashdot.org/story/26/06/18/2335235/rolls-royce-secures-deal-to-build-small-nuclear-reactors-for-sweden?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Rolls-Royce has signed an agreement to build compact nuclear reactors for Sweden as part of efforts to diversify energy resources sustainably.
 
-## Design, Modularity, and Development Tools
+* [A Chinese Rocket Breaks Apart Dangerously Close to the Starlink Constellation](https://soylentnews.org/article.pl?sid=26/06/19/120238&amp;from=rss) - Space safety concerns rise as a Chinese rocket breaks apart in deep space near the Starlink satellite constellation.
 
-* [Rethinking modularity in Ruby applications](https://noteflakes.com/articles/2026-06-18-syntropy-modules) - A discussion on evolving modularity in Ruby to improve application's adaptability and maintainability. [Comments](https://lobste.rs/s/jtscci/rethinking_modularity_ruby)
+## Software, Open-Source, and Programming Innovations
 
-* [Updating Stacked Pull Requests with git rebase --onto](https://bd103.dev/blog/2026-06-18-git-rebase-onto/) - This guide highlights advanced Git use cases to streamline developer workflows. [Comments](https://lobste.rs/s/akc6h4/updating_stacked_pull_requests_with_git)
+* [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a) - An in-depth look at Project Valhalla's advancements, introducing value classes to enhance Java's performance and capabilities in JDK 28.
 
-* [Nix for Haskell: Static Builds](https://abhinavsarkar.net/posts/nix-for-haskell-static-builds/) - Explore how to build static projects using Nix and Haskell for enhanced performance and reduced dependencies. [Comments](https://lobste.rs/s/medvuo/nix_for_haskell_static_builds)
+* [Akse3D – open-source 3D modelling anyone can master](https://akse3d-en.skaperiet.no/) - Akse3D makes complex 3D modeling accessible and straightforward, targeting hobbyists and professionals alike.
 
-* [The design of littlefs](https://github.com/littlefs-project/littlefs/blob/master/DESIGN.md) - Insights into the design of LittleFS, a filesystem tailored for embedded systems with constrained resources. [Comments](https://lobste.rs/s/mhymex/design_littlefs)
+* [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/) - A new feature of Datasette allows users to host custom HTML applications, leveraging the database querying platform for dynamic projects.
 
-## Space and Aerospace
+* [ztags: ctags but for zig](https://codeberg.org/hgrsd/ztags) - ztags is introduced as a source code tagging tool built specifically for the Zig programming language.
 
-* [A Chinese Rocket Breaks Apart Dangerously Close to the Starlink Constellation](https://soylentnews.org/article.pl?sid=26/06/19/120238&amp;from=rss) - Concerns over space debris intensify as a Chinese rocket disintegrates near SpaceX's Starlink satellites. [Comments](https://soylentnews.org/comments.pl?sid=26/06/19/120238)
+## Corporate and Policy Developments
 
-* [Rolls-Royce Secures Deal To Build Small Nuclear Reactors For Sweden](https://hardware.slashdot.org/story/26/06/18/2335235/rolls-royce-secures-deal-to-build-small-nuclear-reactors-for-sweden?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Rolls-Royce's ambitious step to create small modular nuclear reactors could set a new frontier for clean energy. [Comments](https://hardware.slashdot.org/comments.pl?sid=26/06/18/2335235)
+* [Meta Lobbies Congress For Protection From Child-Harm Lawsuits](https://tech.slashdot.org/story/26/06/18/2342227/meta-lobbies-congress-for-protection-from-child-harm-lawsuits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Meta pushes lawmakers for legal immunity in connection to allegations of child harm stemming from social media use.
 
-## Privacy and Social Media
+* [California 'Billionaire Tax' Makes Ballot Despite Opposition From Tech Moguls](https://news.slashdot.org/story/26/06/18/2035253/california-billionaire-tax-makes-ballot-despite-opposition-from-tech-moguls?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - California progresses a controversial 'Billionaire Tax,' despite pushback from the tech industry.
 
-* [From Australia to Europe, countries move to curb children's social media access](https://www.reuters.com/legal/government/australia-europe-countries-move-curb-childrens-social-media-access-2026-06-18/) - Nations intensify restrictions on social media to protect children from harmful online influences. [Comments](https://news.ycombinator.com/item?id=48597668)
+* [Apple Announces Major App Store Changes on iOS in Brazil](https://apple.slashdot.org/story/26/06/18/1811250/apple-announces-major-app-store-changes-on-ios-in-brazil?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Apple unveils significant adjustments to Brazil's app store policies to streamline app operations for developers.
 
-* [Google workspace threatening to block firefox access](https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html) - A looming threat to Firefox users sparks debate over the future of browser compatibility. [Comments](https://lobste.rs/s/mnycr3/google_workspace_threatening_block)
+## Security and Ethical Challenges
 
-## Ecological and Public Policy News
+* [I discovered a large-scale malware distribution on GitHub](https://orchidfiles.com/github-repositories-distributing-malware/) - Security researchers reveal alarming discoveries about malware being distributed through GitHub repositories.
 
-* [Bernie Sanders Unveils $7 Trillion Plan To Give Americans Control of AI Industry](https://yro.slashdot.org/story/26/06/18/1914206/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A bold policy proposal to centralize AI development under public control facing vigorous political and industry debates. [Comments](https://yro.slashdot.org/comments.pl?sid=26/06/18/1914206)
+* [Google Told Researcher 'Nice Catch!' Then Denied Bug Bounty For Flaw It Still Hasn't Fixed](https://it.slashdot.org/story/26/06/18/1656252/google-told-researcher-nice-catch-then-denied-bug-bounty-for-flaw-it-still-hasnt-fixed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A controversy arises as Google acknowledges a critical bug but denies the associated bounty payment, keeping the bug unresolved.
 
-* [France's Digital Sovereignty Push is Struggling to Escape the Microsoft Gravity Well](https://soylentnews.org/article.pl?sid=26/06/17/1140258&amp;from=rss) - Challenges faced by France as it aims for technological independence amid monopolistic pressures. [Comments](https://soylentnews.org/comments.pl?sid=26/06/17/1140258)
+## Creative and Niche Developments
 
-## Notable Discoveries and Cultural Insights
+* [Aspirational Clownmaxxing and Joey's cadillac todo list](https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/) - A humorous and thought-provoking perspective on mastering productivity and life-improvement techniques.
 
-* [I discovered a large-scale malware distribution on GitHub](https://orchidfiles.com/github-repositories-distributing-malware/) - A detailed account of uncovering thousands of malware-infected repositories on the popular code-sharing platform. [Comments](https://lobste.rs/s/pc7tnx/i_discovered_large_scale_malware)
+* [Show your hands honor for the strange power they bring you](https://aresluna.org/show-your-hands-honor/) - A unique reflection exploring the underestimated capabilities and versatility of human hands.
 
-* [Vim Creator Bram Moolenaar's Forgotten Programming Language, Zimbu (2023)](https://thenewstack.io/vim-creator-bram-moolenaars-forgotten-programming-language-zimbu/) - Delve into the history of Vim creator's lesser-known programming language that tried to challenge coding conventions. [Comments](https://lobste.rs/s/h21el3/vim_creator_bram_moolenaar_s_forgotten)
-
-* [The room the economy can't see](https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/) - An introspective piece shedding light on overlooked aspects of modern economic systems. [Comments](https://news.ycombinator.com/item?id=48596911)
-
-* [How Japan's railways stayed one while splitting apart](https://arun.is/blog/jr-logo/) - Examining the cohesive branding that binds Japan's fragmented railway systems. [Comments](https://news.ycombinator.com/item?id=48570730)
-
-* [Sigma 45mm f/2.8 Lens Repair & Analysis](https://salvagedcircuitry.com/sigma-45mm.html) - Tech enthusiasts delve into the repairs and inner workings of the Sigma lens. [Comments](https://lobste.rs/s/up3pfu/sigma_45mm_f_2_8_lens_repair_analysis)
+* [Vim Creator Bram Moolenaar's Forgotten Programming Language, Zimbu (2023)](https://thenewstack.io/vim-creator-bram-moolenaars-forgotten-programming-language-zimbu/) - Revisiting Zimbu, a unique and forgotten language created by the inventor of Vim.
 
 ---
 
@@ -73,14 +67,19 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-06-19, 13:27:13](https://lobste.rs/s/dsy6r3/clownmaxxing_experimental_prompts_joey) - [Clownmaxxing, experimental prompts and Joey&apos;s cadillac todo list](https://charlesleifer.com/blog/clownmaxxing-experimental-prompts-and-joey-s-cadillac-todo-list/)
-* [2026-06-19, 12:25:06](https://news.ycombinator.com/item?id=48597783) - [Google is turning Android into a &apos;sloperating&apos; system. Your thoughts?](https://android-developers.googleblog.com/2026/06/Android-17.html)
-* [2026-06-19, 12:10:54](https://news.ycombinator.com/item?id=48597668) - [From Australia to Europe, countries move to curb children&apos;s social media access](https://www.reuters.com/legal/government/australia-europe-countries-move-curb-childrens-social-media-access-2026-06-18/)
+* [2026-06-19, 16:00:00](https://slashdot.org/story/26/06/19/007201/the-korean-telecom-giant-at-the-center-of-anthropics-mythos-controversy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Korean Telecom Giant At the Center of Anthropic&apos;s Mythos Controversy](https://slashdot.org/story/26/06/19/007201/the-korean-telecom-giant-at-the-center-of-anthropics-mythos-controversy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-19, 15:53:48](https://lobste.rs/s/kldpfm/ztags_ctags_for_zig) - [ztags: ctags but for zig](https://codeberg.org/hgrsd/ztags)
+* [2026-06-19, 15:05:17](https://lobste.rs/s/0gn7rc/akse3d_open_source_3d_modelling_anyone) - [Akse3D – open-source 3D modelling anyone can master](https://akse3d-en.skaperiet.no/)
+* [2026-06-19, 15:00:00](https://tech.slashdot.org/story/26/06/18/2342227/meta-lobbies-congress-for-protection-from-child-harm-lawsuits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Lobbies Congress For Protection From Child-Harm Lawsuits](https://tech.slashdot.org/story/26/06/18/2342227/meta-lobbies-congress-for-protection-from-child-harm-lawsuits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-19, 14:50:19](https://lobste.rs/s/jk5k9i/project_valhalla_explained_how_decade) - [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
+* [2026-06-19, 14:32:07](https://lobste.rs/s/9rbscj/wikispy) - [WikiSpy](https://neal.fun/wiki-spy/)
+* [2026-06-19, 14:19:07](https://lobste.rs/s/8n2pnd/changes_usekmsconvtconsole) - [Changes/UseKmsconVTConsole](https://fedoraproject.org/wiki/Changes/UseKmsconVTConsole)
+* [2026-06-19, 13:27:13](https://lobste.rs/s/dsy6r3/aspirational_clownmaxxing_joey_s) - [Aspirational Clownmaxxing and Joey&apos;s cadillac todo list](https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/)
+* [2026-06-19, 12:29:04](https://lobste.rs/s/hg9mkc/so_you_want_define_well_known_uri) - [So You Want To Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)
 * [2026-06-19, 12:00:00](https://soylentnews.org/article.pl?sid=26/06/19/120238&amp;from=rss) - [A Chinese Rocket Breaks Apart Dangerously Close to the Starlink Constellation](https://soylentnews.org/article.pl?sid=26/06/19/120238&amp;from=rss)
 * [2026-06-19, 11:28:45](https://lobste.rs/s/ggp2ov/shutting_down_fornjot) - [Shutting Down Fornjot](https://fornjot.app/blog/shutting-down-fornjot/)
 * [2026-06-19, 11:00:00](https://science.slashdot.org/story/26/06/18/2349246/nasa-picks-eric-schmidts-rocket-company-for-mars-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Picks Eric Schmidt&apos;s Rocket Company For Mars Mission](https://science.slashdot.org/story/26/06/18/2349246/nasa-picks-eric-schmidts-rocket-company-for-mars-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-19, 10:36:25](https://lobste.rs/s/u0nv8q/diffshub) - [DiffsHub](https://diffshub.com/)
-* [2026-06-19, 10:16:20](https://news.ycombinator.com/item?id=48596911) - [The room the economy can&apos;t see](https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/)
 * [2026-06-19, 10:16:10](https://news.ycombinator.com/item?id=48596910) - [Norway greenlights first full-scale ship tunnel](https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel)
 * [2026-06-19, 09:20:18](https://lobste.rs/s/jtscci/rethinking_modularity_ruby) - [Rethinking modularity in Ruby applications](https://noteflakes.com/articles/2026-06-18-syntropy-modules)
 * [2026-06-19, 08:26:25](https://lobste.rs/s/heb0am/godot_4_7_lights_camera_action) - [Godot 4.7: Lights, Camera, Action](https://godotengine.org/releases/4.7/)
@@ -108,19 +107,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-18, 17:27:01](https://lobste.rs/s/sl8ibi/what_was_nice_about_ui_windows_2000) - [What was nice about the UI of Windows 2000](https://movq.de/blog/postings/2026-06-16/0/POSTING-en.html)
 * [2026-06-18, 17:04:00](https://lobste.rs/s/crl4fj/what_are_your_favorite_lobste_rs_comments) - [What are your Favorite Lobste.rs Comments?](https://lobste.rs/s/crl4fj/what_are_your_favorite_lobste_rs_comments)
 * [2026-06-18, 17:00:00](https://it.slashdot.org/story/26/06/18/1656252/google-told-researcher-nice-catch-then-denied-bug-bounty-for-flaw-it-still-hasnt-fixed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Told Researcher &apos;Nice Catch!&apos; Then Denied Bug Bounty For Flaw It Still Hasn&apos;t Fixed](https://it.slashdot.org/story/26/06/18/1656252/google-told-researcher-nice-catch-then-denied-bug-bounty-for-flaw-it-still-hasnt-fixed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-18, 16:53:58](https://lobste.rs/s/4hcq97/is_it_time_for_new_embedded_linux_build) - [Is It Time for a New Embedded Linux Build System?](https://yoebuild.org/blog/time-for-a-new-build-system/)
 * [2026-06-18, 16:25:48](https://lobste.rs/s/5majlp/future_con_is_already_here_it_s_just_not) - [The Future of the Con Is Already Here, It&apos;s Just Not Evenly Distributed](http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/)
 * [2026-06-18, 16:00:00](https://news.slashdot.org/story/26/06/18/0054201/tim-cook-says-apple-price-increases-are-unavoidable-due-to-memory-costs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tim Cook Says Apple Price Increases Are &apos;Unavoidable&apos; Due To Memory Costs](https://news.slashdot.org/story/26/06/18/0054201/tim-cook-says-apple-price-increases-are-unavoidable-due-to-memory-costs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-18, 15:08:04](https://lobste.rs/s/mnycr3/google_workspace_threatening_block) - [Google workspace threatening to block firefox access](https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html)
 * [2026-06-18, 15:00:00](https://news.slashdot.org/story/26/06/18/0040249/you-can-no-longer-fly-or-purchase-a-drone-in-beijing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [You Can No Longer Fly Or Purchase a Drone In Beijing](https://news.slashdot.org/story/26/06/18/0040249/you-can-no-longer-fly-or-purchase-a-drone-in-beijing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-18, 14:56:17](https://lobste.rs/s/yas7ik/offset_slices) - [offset_of! slices](https://bal-e.org/blog/2026/offset-of-slices/)
-* [2026-06-18, 14:51:53](https://news.ycombinator.com/item?id=48586329) - [Building a robotics research setup that lives next to my desk](https://dfdxlabs.com/research/2026/robotics-setup/)
 * [2026-06-18, 14:24:30](https://news.ycombinator.com/item?id=48585866) - [Ubiquiti: Enterprise NAS, Built on ZFS](https://blog.ui.com/article/introducing-enterprise-nas)
-* [2026-06-18, 14:01:40](https://lobste.rs/s/ept8fv/hidden_elegance_gradient_noise) - [The Hidden Elegance of Gradient Noise](https://yogthos.net/posts/2026-06-17-perlin-flow.html)
 * [2026-06-18, 13:53:00](https://soylentnews.org/article.pl?sid=26/06/17/1517231&amp;from=rss) - [Heart Protection From COVID Shots Remains Amid Updates, Study Finds](https://soylentnews.org/article.pl?sid=26/06/17/1517231&amp;from=rss)
-* [2026-06-18, 13:21:26](https://lobste.rs/s/medvuo/nix_for_haskell_static_builds) - [Nix for Haskell: Static Builds](https://abhinavsarkar.net/posts/nix-for-haskell-static-builds/)
 * [2026-06-18, 13:10:44](https://news.ycombinator.com/item?id=48584761) - [Show HN: Talos – Open-source WASM interpreter for Lean](https://github.com/cajal-technologies/talos)
 * [2026-06-18, 12:46:04](https://news.ycombinator.com/item?id=48584497) - [W Social, public institutions and the theater of European digital sovereignty](https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/)
+* [2026-06-18, 12:44:09](https://news.ycombinator.com/item?id=48584484) - [The Korean telecom giant at the center of Anthropic&apos;s Mythos controversy](https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/)
 * [2026-06-18, 11:45:43](https://news.ycombinator.com/item?id=48583928) - [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/)
 * [2026-06-18, 11:41:21](https://news.ycombinator.com/item?id=48583897) - [Modos Color Monitor Pushes E-Paper Displays Further](https://spectrum.ieee.org/modos-e-paper-monitor)
 * [2026-06-18, 11:04:31](https://news.ycombinator.com/item?id=48583606) - [CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)](https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/)
@@ -129,15 +125,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-18, 10:29:20](https://news.ycombinator.com/item?id=48583356) - [.gitignore Isn&apos;t the only way to ignore files in Git](https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/)
 * [2026-06-18, 10:17:58](https://lobste.rs/s/0mlwcf/mastodon_4_6) - [Mastodon 4.6](https://blog.joinmastodon.org/2026/06/mastodon-4.6/)
 * [2026-06-18, 09:08:00](https://soylentnews.org/article.pl?sid=26/06/17/1140258&amp;from=rss) - [France&apos;s Digital Sovereignty Push is Struggling to Escape the Microsoft Gravity Well](https://soylentnews.org/article.pl?sid=26/06/17/1140258&amp;from=rss)
-* [2026-06-18, 08:15:10](https://lobste.rs/s/y9zfbv/rfc_10008_http_query_method) - [RFC 10008: The HTTP QUERY Method](https://blainsmith.com/articles/rfc-10008-http-query-method/)
-* [2026-06-18, 07:09:26](https://lobste.rs/s/up3pfu/sigma_45mm_f_2_8_lens_repair_analysis) - [Sigma 45mm f/2.8 Lens Repair &amp; Analysis](https://salvagedcircuitry.com/sigma-45mm.html)
-* [2026-06-18, 07:00:00](https://tech.slashdot.org/story/26/06/18/0033211/chinas-ev-price-war-was-built-on-cars-sold-at-a-loss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China&apos;s EV Price War Was Built On Cars Sold At a Loss](https://tech.slashdot.org/story/26/06/18/0033211/chinas-ev-price-war-was-built-on-cars-sold-at-a-loss?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-18, 06:36:39](https://lobste.rs/s/nqv7yo/cli_authentication_right_way) - [CLI Authentication, the Right Way](https://www.abgeo.dev/blog/cli-authentication-the-right-way/)
 * [2026-06-18, 05:14:20](https://lobste.rs/s/azy6y2/i_hate_compilers) - [I hate compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/)
 * [2026-06-18, 05:10:01](https://lobste.rs/s/b0mp2e/changes_emacs_31_i_m_already_daily_driving) - [Changes in Emacs 31 I&apos;m Already Daily Driving](https://rahuljuliato.com/posts/emacs-31-around-the-corner)
 * [2026-06-18, 04:24:00](https://soylentnews.org/article.pl?sid=26/06/17/0045227&amp;from=rss) - [Why Not yserver? It’s Xserver, But Rust-y.](https://soylentnews.org/article.pl?sid=26/06/17/0045227&amp;from=rss)
-* [2026-06-18, 03:30:00](https://yro.slashdot.org/story/26/06/17/2357242/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tesco Moving 40,000 Server Workloads Off VMware Amid Broadcom&apos;s &apos;Abusive Conduct&apos;](https://yro.slashdot.org/story/26/06/17/2357242/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-18, 03:08:13](https://lobste.rs/s/kfkgl2/audacity_4_0_beta_lets_you_test_its_new) - [Audacity 4.0 beta lets you test its new (nicer) Qt interface](https://www.omgubuntu.co.uk/2026/06/audacity-4-0-beta)
 * [2026-06-17, 23:35:00](https://soylentnews.org/article.pl?sid=26/06/16/122242&amp;from=rss) - [Threads of Underground Fungal Networks Are Long Enough to Reach Beyond the Solar System](https://soylentnews.org/article.pl?sid=26/06/16/122242&amp;from=rss)
 * [2026-06-17, 18:52:00](https://soylentnews.org/article.pl?sid=26/06/16/1144213&amp;from=rss) - [U.S. Gov&apos;t Orders Anthropic to Disable its Newest AI Models and Restrict Foreigner Use](https://soylentnews.org/article.pl?sid=26/06/16/1144213&amp;from=rss)
 * [2026-06-17, 14:08:00](https://soylentnews.org/article.pl?sid=26/06/16/1139240&amp;from=rss) - [Brick Your Phone Temporarily to Aid Fiction-Maxxing](https://soylentnews.org/article.pl?sid=26/06/16/1139240&amp;from=rss)
@@ -145,6 +136,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-17, 09:25:00](https://soylentnews.org/article.pl?sid=26/06/16/0055252&amp;from=rss) - [EU Auto Giants Call For &apos;Made In Europe&apos; Incentives Amid Rising Chinese Competition](https://soylentnews.org/article.pl?sid=26/06/16/0055252&amp;from=rss)
 * [2026-06-17, 04:33:00](https://soylentnews.org/article.pl?sid=26/06/16/0054257&amp;from=rss) - [Man Jailed for a Month Despite Flock Showing He Was 5 Miles From Crime Scene](https://soylentnews.org/article.pl?sid=26/06/16/0054257&amp;from=rss)
 * [2026-06-16, 23:50:00](https://soylentnews.org/article.pl?sid=26/06/16/0051200&amp;from=rss) - [Rivian Is Reusing Its Own Car Batteries In A Very Resourceful Way](https://soylentnews.org/article.pl?sid=26/06/16/0051200&amp;from=rss)
+* [2026-06-16, 22:26:12](https://news.ycombinator.com/item?id=48563083) - [Reinventing the Renaissance](https://drb.ie/article/reinventing-the-renaissance/)
 * [2026-06-16, 19:08:00](https://soylentnews.org/politics/article.pl?sid=26/06/15/0344248&amp;from=rss) - [US Solar and Storage Defy Political Hostility to Dominate Q1 Power Installations](https://soylentnews.org/politics/article.pl?sid=26/06/15/0344248&amp;from=rss)
 * [2026-06-16, 14:22:00](https://soylentnews.org/article.pl?sid=26/06/15/0335259&amp;from=rss) - [AI Agents Favored $1,500 Sponsored Flights Over $500 Alternatives](https://soylentnews.org/article.pl?sid=26/06/15/0335259&amp;from=rss)
 * [2026-06-16, 11:07:08](https://news.ycombinator.com/item?id=48553388) - [DuckDB Internals: Why Is DuckDB Fast? (Part 1)](https://www.greybeam.ai/blog/duckdb-internals-part-1)
@@ -152,12 +144,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-16, 04:51:00](https://soylentnews.org/article.pl?sid=26/06/15/0017250&amp;from=rss) - [What &apos;Emotional Labor&apos; Actually Means — and How Starbucks is Testing its Limits](https://soylentnews.org/article.pl?sid=26/06/15/0017250&amp;from=rss)
 * [2026-06-16, 00:45:50](https://news.ycombinator.com/item?id=48549118) - [Zen and the Art of Machine Learning Research](https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning)
 * [2026-06-16, 00:05:00](https://soylentnews.org/article.pl?sid=26/06/15/0022216&amp;from=rss) - [Anthropic Warns Claude AI Is Building Itself Faster Than Expected](https://soylentnews.org/article.pl?sid=26/06/15/0022216&amp;from=rss)
+* [2026-06-15, 23:47:55](https://news.ycombinator.com/item?id=48548695) - [The Productivity J-Curve [pdf] (2018)](https://ide.mit.edu/sites/default/files/publications/jcurve.pdf)
 * [2026-06-15, 22:36:33](https://news.ycombinator.com/item?id=48547969) - [Cell-based architecture for resilient payment systems](https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/)
 * [2026-06-15, 22:06:12](https://news.ycombinator.com/item?id=48547658) - [SMTP Relay with Web Dashboard](https://github.com/toinbox/simplerelay)
 * [2026-06-15, 20:51:54](https://news.ycombinator.com/item?id=48546890) - [Ten years of ClickHouse in open source](https://clickhouse.com/blog/open-source-10)
+* [2026-06-15, 19:45:07](https://news.ycombinator.com/item?id=48546093) - [\&quot;No Feigning Surprise\&quot;](https://wizardzines.com/comics/surprise/)
 * [2026-06-15, 19:24:00](https://soylentnews.org/article.pl?sid=26/06/15/0016203&amp;from=rss) - [How did Atari Apply Side Art to Arcade Cabinets?](https://soylentnews.org/article.pl?sid=26/06/15/0016203&amp;from=rss)
+* [2026-06-15, 17:26:52](https://news.ycombinator.com/item?id=48544429) - [If your product is Great, it doesn&apos;t need to be Good (2010)](http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html)
 * [2026-06-15, 16:51:34](https://news.ycombinator.com/item?id=48543968) - [Show HN: Modeloop – From visual algorithms to microcontroller C code](https://www.modeloop.app/)
-* [2026-06-15, 16:13:24](https://news.ycombinator.com/item?id=48543430) - [UCCL-EP: DeepEP-style expert parallelism on any NIC, no GPU-initiated comms](https://fergusfinn.com/blog/uccl-ep-without-owning-the-nic/)
 * [2026-06-15, 16:06:22](https://news.ycombinator.com/item?id=48543311) - [To study how chips work, MIT researchers built their own operating system](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610)
 * [2026-06-15, 14:31:00](https://soylentnews.org/article.pl?sid=26/06/15/0013216&amp;from=rss) - [Influential Study Touting ChatGPT in Education Retracted Over Red Flags](https://soylentnews.org/article.pl?sid=26/06/15/0013216&amp;from=rss)
 * [2026-06-15, 13:35:23](https://news.ycombinator.com/item?id=48541062) - [Gribouille 0.3.0: A Grammar of Graphics for Typst](https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/)
