@@ -1,64 +1,68 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Emerging Technologies and Innovation
+## Technological Innovations and Challenges
 
-* [There Are No Instances in atproto](https://overreacted.io/there-are-no-instances-in-atproto/) ([Comments](https://lobste.rs/s/ew22ks/there_are_no_instances_atproto))
+* [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
 
-* [UHF X11: X11 built for VisionOS and Apple Vision Pro](https://www.lispm.net/apps/uhf-x11/) ([Comments](https://lobste.rs/s/xebobo/uhf_x11_x11_built_for_visionos_apple))
+* [Satellite reveals immense scale of GPS signal tampering](https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering) ([comments](https://news.ycombinator.com/item?id=48606271))
 
-* [Using Sound Waves To Make Espresso Could Cut Coffee-Brewing Energy Use By 75%](https://developers.slashdot.org/story/26/06/19/2159245/using-sound-waves-to-make-espresso-could-cut-coffee-brewing-energy-use-by-75?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://developers.slashdot.org/story/26/06/19/2159245/using-sound-waves-to-make-espresso-could-cut-coffee-brewing-energy-use-by-75?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Using Sound Waves To Make Espresso Could Cut Coffee-Brewing Energy Use By 75%](https://developers.slashdot.org/story/26/06/19/2159245/using-sound-waves-to-make-espresso-could-cut-coffee-brewing-energy-use-by-75?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/) ([Comments](https://news.ycombinator.com/item?id=48606619))
+* [Where to Find the Colors Your Screen Can&apos;t Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/) ([comments](https://news.ycombinator.com/item?id=48606140))
 
-* [Satellite reveals immense scale of GPS signal tampering](https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering) ([Comments](https://news.ycombinator.com/item?id=48606271))
+* [Safe SIMD in Rust, even on the inside](https://shnatsel.medium.com/safe-simd-in-rust-even-on-the-inside-c6f1ff381828) ([comments](https://lobste.rs/s/jmhfck/safe_simd_rust_even_on_inside))
 
-## Social and Workplace Dynamics
+## Corporate Decisions & Industry Moves
 
-* [Hey, n00b, we didn&apos;t hire you to complete tasks](https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete) ([Comments](https://news.ycombinator.com/item?id=48604851))
+* [Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says](https://slashdot.org/story/26/06/19/2248239/amazon-retaliated-against-workers-who-supported-regulating-data-centers-complaint-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says](https://slashdot.org/story/26/06/19/2248239/amazon-retaliated-against-workers-who-supported-regulating-data-centers-complaint-says?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://slashdot.org/story/26/06/19/2248239/amazon-retaliated-against-workers-who-supported-regulating-data-centers-complaint-says?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Hyundai Takes Full Control of Boston Dynamics As SoftBank Exits For $325 Million](https://hardware.slashdot.org/story/26/06/19/198218/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=48601694))
 
-* [I am dreading our LLM-written incident report future](https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/) ([Comments](https://lobste.rs/s/ysxvko/i_am_dreading_our_llm_written_incident))
+* [Meta Lobbies Congress For Protection From Child-Harm Lawsuits](https://tech.slashdot.org/story/26/06/18/2342227/meta-lobbies-congress-for-protection-from-child-harm-lawsuits?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Ask HN: Will programmers write more efficient code during the memory shortage?](https://news.ycombinator.com/item?id=48604232) ([Comments](https://news.ycombinator.com/item?id=48604232))
+* [NASA Picks Eric Schmidt&apos;s Rocket Company For Mars Mission](https://science.slashdot.org/story/26/06/18/2349246/nasa-picks-eric-schmidts-rocket-company-for-mars-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Global and Scientific Developments
+## Artificial Intelligence and Technology Ethics
 
-* [Norway Imposes Near Ban On AI In Elementary School](https://yro.slashdot.org/story/26/06/19/2140248/norway-imposes-near-ban-on-ai-in-elementary-school?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://yro.slashdot.org/story/26/06/19/2140248/norway-imposes-near-ban-on-ai-in-elementary-school?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [I am dreading our LLM-written incident report future](https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/) ([comments](https://lobste.rs/s/ysxvko/i_am_dreading_our_llm_written_incident))
 
-* [New Unpatchable Exploit Targets Apple Devices With A12 and A13 Chips](https://it.slashdot.org/story/26/06/19/1723242/new-unpatchable-exploit-targets-apple-devices-with-a12-and-a13-chips?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://tech.slashdot.org/story/26/06/19/1723242/new-unpatchable-exploit-targets-apple-devices-with-a12-and-a13-chips?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [NASA Management Wants a Word and Won&apos;t Say Why](https://soylentnews.org/article.pl?sid=26/06/19/1216220&amp;from=rss)
 
-* [NASA Management Wants a Word and Won&apos;t Say Why](https://soylentnews.org/article.pl?sid=26/06/19/1216220&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/06/19/1216220&from=rss))
+* [GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2](https://arrowtsx.dev/bigger-models/) ([comments](https://news.ycombinator.com/item?id=48600167))
 
-## Tributes and Memoriam
+* [There Are No Instances in atproto](https://overreacted.io/there-are-no-instances-in-atproto/) ([comments](https://lobste.rs/s/ew22ks/there_are_no_instances_atproto))
 
-* [Doom Composer Bobby Prince Has Died](https://games.slashdot.org/story/26/06/19/1918208/doom-composer-bobby-prince-has-died?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://games.slashdot.org/story/26/06/19/1918208/doom-composer-bobby-prince-has-died?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Design, Creativity, and Innovation
 
-* [Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died](https://www.legacy.com/legacy/robert-bobby-prince-lll) ([Comments](https://news.ycombinator.com/item?id=48602918))
+* [Meet Alice. Alice is impatient](https://brooker.co.za/blog/2026/06/19/waiting.html) ([comments](https://lobste.rs/s/dswkwr/meet_alice_alice_is_impatient))
 
-## Business and Corporate News
+* [The cube, the epicycles and the human face](https://www.andreinc.net/2026/06/15/the-cube-the-epicycles-and-the-human-face/) ([comments](https://lobste.rs/s/mh9czn/cube_epicycles_human_face))
 
-* [Hyundai Takes Full Control of Boston Dynamics As SoftBank Exits For $325 Million](https://hardware.slashdot.org/story/26/06/19/198218/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://hardware.slashdot.org/story/26/06/19/198218/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Big Banana Car](https://bigbananacar.com/) ([comments](https://news.ycombinator.com/item?id=48601420))
 
-* [EU To Soon Classify AWS and Azure As Gatekeepers Under DSA](https://slashdot.org/story/26/06/19/1643240/eu-to-soon-classify-aws-and-azure-as-gatekeepers-under-dsa?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://slashdot.org/story/26/06/19/1643240/eu-to-soon-classify-aws-and-azure-as-gatekeepers-under-dsa?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [A Perceptron in Age of Empires II](https://adewynter.github.io/notes/aoe2-circuits) ([comments](https://news.ycombinator.com/item?id=48582180))
 
-* [Amazon Drops Sam Altman Movie After Announcing OpenAI Partnership](https://entertainment.slashdot.org/story/26/06/19/2146253/amazon-drops-sam-altman-movie-after-announcing-openai-partnership?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://entertainment.slashdot.org/story/26/06/19/2146253/amazon-drops-sam-altman-movie-after-announcing-openai-partnership?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Soccer Arcade Games Through the Years](https://arcadeheroes.com/2026/06/13/world-cup-2026-soccer-arcade/) ([comments](https://news.ycombinator.com/item?id=48555903))
 
-## Open Source and Development
+## Significant Deaths and Obituaries
 
-* [Bevy 0.19](https://bevy.org/news/bevy-0-19/) ([Comments](https://lobste.rs/s/k5raot/bevy_0_19))
+* [Doom Composer Bobby Prince Has Died](https://games.slashdot.org/story/26/06/19/1918208/doom-composer-bobby-prince-has-died?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=48602918))
 
-* [Safe SIMD in Rust, even on the inside](https://shnatsel.medium.com/safe-simd-in-rust-even-on-the-inside-c6f1ff381828) ([Comments](https://lobste.rs/s/jmhfck/safe_simd_rust_even_on_inside))
+## Space Exploration and Environmental Issues
 
-* [Stop Naming Your Variables \\&quot;Flag\\&quot;: The Art of Boolean Prefixes](https://thatamazingprogrammer.com/posts/stop-naming-your-variables-flag-the-art-of-boolean-prefixes/) ([Comments](https://lobste.rs/s/kjp3wi/stop_naming_your_variables_flag_art))
+* [A Chinese Rocket Breaks Apart Dangerously Close to the Starlink Constellation](https://soylentnews.org/article.pl?sid=26/06/19/120238&amp;from=rss)
 
-* [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a) ([Comments](https://lobste.rs/s/jk5k9i/project_valhalla_explained_how_decade))
+* [Rolls-Royce Secures Deal To Build Small Nuclear Reactors For Sweden](https://hardware.slashdot.org/story/26/06/18/2335235/rolls-royce-secures-deal-to-build-small-nuclear-reactors-for-sweden?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Gaming and Interactive Media
+## Policy and Governance
 
-* [Soccer Arcade Games Through the Years](https://arcadeheroes.com/2026/06/13/world-cup-2026-soccer-arcade/) ([Comments](https://news.ycombinator.com/item?id=48555903))
+* [Norway Imposes Near Ban On AI In Elementary School](https://yro.slashdot.org/story/26/06/19/2140248/norway-imposes-near-ban-on-ai-in-elementary-school?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=48600093))
 
-* [A Perceptron in Age of Empires II](https://adewynter.github.io/notes/aoe2-circuits) ([Comments](https://news.ycombinator.com/item?id=48582180))
+* [Canada Missed Chances To Inspect OceanGate&apos;s Titan Before Fatal Implosion](https://news.slashdot.org/story/26/06/19/1743202/canada-missed-chances-to-inspect-oceangates-titan-before-fatal-implosion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [EU To Soon Classify AWS and Azure As Gatekeepers Under DSA](https://slashdot.org/story/26/06/19/1643240/eu-to-soon-classify-aws-and-azure-as-gatekeepers-under-dsa?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+
+* [Man Jailed for a Month Despite Flock Showing He Was 5 Miles From Crime Scene](https://soylentnews.org/article.pl?sid=26/06/16/0054257&amp;from=rss)
 
 ---
 
@@ -85,19 +89,22 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-06-20, 10:02:17](https://lobste.rs/s/gdwaqt/town_square_community_deserves) - [Town Square, the community deserves connection](https://cauenapier.com/blog/town-square-the-community-deserves-connection/)
+* [2026-06-20, 09:00:43](https://lobste.rs/s/vpe3o6/xlibre_xserver_25_2_released) - [XLibre XServer 25.2 released](https://github.com/X11Libre/xserver/wiki/XLibre-XServer-25.2-Changes)
+* [2026-06-20, 08:36:23](https://lobste.rs/s/dswkwr/meet_alice_alice_is_impatient) - [Meet Alice. Alice is impatient](https://brooker.co.za/blog/2026/06/19/waiting.html)
+* [2026-06-20, 08:28:09](https://lobste.rs/s/mh9czn/cube_epicycles_human_face) - [The cube, the epicycles and the human face](https://www.andreinc.net/2026/06/15/the-cube-the-epicycles-and-the-human-face/)
+* [2026-06-20, 07:57:00](https://soylentnews.org/article.pl?sid=26/06/19/1219225&amp;from=rss) - [The Challenges of Typesetting Arabic Script](https://soylentnews.org/article.pl?sid=26/06/19/1219225&amp;from=rss)
 * [2026-06-20, 07:42:32](https://lobste.rs/s/ew22ks/there_are_no_instances_atproto) - [There Are No Instances in atproto](https://overreacted.io/there-are-no-instances-in-atproto/)
 * [2026-06-20, 07:27:25](https://lobste.rs/s/xebobo/uhf_x11_x11_built_for_visionos_apple) - [UHF X11: X11 built for VisionOS and Apple Vision Pro](https://www.lispm.net/apps/uhf-x11/)
 * [2026-06-20, 07:00:00](https://slashdot.org/story/26/06/19/2248239/amazon-retaliated-against-workers-who-supported-regulating-data-centers-complaint-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says](https://slashdot.org/story/26/06/19/2248239/amazon-retaliated-against-workers-who-supported-regulating-data-centers-complaint-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-20, 06:28:58](https://lobste.rs/s/oy4gen/what_has_can_eu_cyber_resilience_act_done) - [What has (can) the EU Cyber Resilience Act done (do) for you?](https://nxdomain.no/~peter/what_hascan_eu_cra_donedo_for_you.html)
 * [2026-06-20, 05:33:59](https://news.ycombinator.com/item?id=48606619) - [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
-* [2026-06-20, 04:45:59](https://news.ycombinator.com/item?id=48606413) - [Designing a backyard deck for my house](https://blog.cosmin.cloud/posts/diy-deck.html)
 * [2026-06-20, 04:16:28](https://lobste.rs/s/jmhfck/safe_simd_rust_even_on_inside) - [Safe SIMD in Rust, even on the inside](https://shnatsel.medium.com/safe-simd-in-rust-even-on-the-inside-c6f1ff381828)
 * [2026-06-20, 04:07:03](https://news.ycombinator.com/item?id=48606271) - [Satellite reveals immense scale of GPS signal tampering](https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering)
 * [2026-06-20, 03:36:49](https://news.ycombinator.com/item?id=48606140) - [Where to Find the Colors Your Screen Can&apos;t Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/)
 * [2026-06-20, 03:30:00](https://developers.slashdot.org/story/26/06/19/2159245/using-sound-waves-to-make-espresso-could-cut-coffee-brewing-energy-use-by-75?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Using Sound Waves To Make Espresso Could Cut Coffee-Brewing Energy Use By 75%](https://developers.slashdot.org/story/26/06/19/2159245/using-sound-waves-to-make-espresso-could-cut-coffee-brewing-energy-use-by-75?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-20, 02:14:00](https://soylentnews.org/article.pl?sid=26/06/19/1216220&amp;from=rss) - [NASA Management Wants a Word and Won&apos;t Say Why](https://soylentnews.org/article.pl?sid=26/06/19/1216220&amp;from=rss)
 * [2026-06-20, 00:51:33](https://lobste.rs/s/ysxvko/i_am_dreading_our_llm_written_incident) - [I am dreading our LLM-written incident report future](https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/)
-* [2026-06-20, 00:11:07](https://news.ycombinator.com/item?id=48604851) - [Hey, n00b, we didn&apos;t hire you to complete tasks](https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete)
 * [2026-06-19, 23:00:00](https://entertainment.slashdot.org/story/26/06/19/2146253/amazon-drops-sam-altman-movie-after-announcing-openai-partnership?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Drops Sam Altman Movie After Announcing OpenAI Partnership](https://entertainment.slashdot.org/story/26/06/19/2146253/amazon-drops-sam-altman-movie-after-announcing-openai-partnership?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-19, 22:51:09](https://news.ycombinator.com/item?id=48604232) - [Ask HN: Will programmers write more efficient code during the memory shortage?](https://news.ycombinator.com/item?id=48604232)
 * [2026-06-19, 22:00:00](https://yro.slashdot.org/story/26/06/19/2140248/norway-imposes-near-ban-on-ai-in-elementary-school?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Norway Imposes Near Ban On AI In Elementary School](https://yro.slashdot.org/story/26/06/19/2140248/norway-imposes-near-ban-on-ai-in-elementary-school?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -132,12 +139,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-19, 13:51:36](https://news.ycombinator.com/item?id=48598586) - [How many of the 170k English words do you know?](https://vocabowl-870366514258.us-west1.run.app/)
 * [2026-06-19, 13:27:13](https://lobste.rs/s/dsy6r3/aspirational_clownmaxxing_joey_s) - [Aspirational Clownmaxxing and Joey&apos;s cadillac todo list](https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/)
 * [2026-06-19, 12:30:13](https://lobste.rs/s/wemk3j/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/wemk3j/what_are_you_doing_this_weekend)
-* [2026-06-19, 12:29:04](https://lobste.rs/s/hg9mkc/so_you_want_define_well_known_uri) - [So You Want To Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)
 * [2026-06-19, 12:00:00](https://soylentnews.org/article.pl?sid=26/06/19/120238&amp;from=rss) - [A Chinese Rocket Breaks Apart Dangerously Close to the Starlink Constellation](https://soylentnews.org/article.pl?sid=26/06/19/120238&amp;from=rss)
 * [2026-06-19, 11:28:45](https://lobste.rs/s/ggp2ov/shutting_down_fornjot) - [Shutting Down Fornjot](https://fornjot.app/blog/shutting-down-fornjot/)
 * [2026-06-19, 11:00:00](https://science.slashdot.org/story/26/06/18/2349246/nasa-picks-eric-schmidts-rocket-company-for-mars-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Picks Eric Schmidt&apos;s Rocket Company For Mars Mission](https://science.slashdot.org/story/26/06/18/2349246/nasa-picks-eric-schmidts-rocket-company-for-mars-mission?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-19, 10:36:25](https://lobste.rs/s/u0nv8q/diffshub) - [DiffsHub](https://diffshub.com/)
-* [2026-06-19, 09:20:18](https://lobste.rs/s/jtscci/rethinking_modularity_ruby) - [Rethinking modularity in Ruby applications](https://noteflakes.com/articles/2026-06-18-syntropy-modules)
 * [2026-06-19, 08:26:25](https://lobste.rs/s/heb0am/godot_4_7_lights_camera_action) - [Godot 4.7: Lights, Camera, Action](https://godotengine.org/releases/4.7/)
 * [2026-06-19, 07:00:00](https://hardware.slashdot.org/story/26/06/18/2335235/rolls-royce-secures-deal-to-build-small-nuclear-reactors-for-sweden?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Rolls-Royce Secures Deal To Build Small Nuclear Reactors For Sweden](https://hardware.slashdot.org/story/26/06/18/2335235/rolls-royce-secures-deal-to-build-small-nuclear-reactors-for-sweden?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-19, 06:35:57](https://news.ycombinator.com/item?id=48595511) - [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
@@ -145,10 +150,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-18, 23:24:00](https://soylentnews.org/article.pl?sid=26/06/17/1523237&amp;from=rss) - [Linux Kernel 7.1 Sends Intel 486 Support To Silicon Heaven](https://soylentnews.org/article.pl?sid=26/06/17/1523237&amp;from=rss)
 * [2026-06-18, 23:00:00](https://tech.slashdot.org/story/26/06/18/2044250/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Adobe Adds Its AI Assistant To Premiere, Illustrator and InDesign](https://tech.slashdot.org/story/26/06/18/2044250/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-18, 18:43:00](https://soylentnews.org/article.pl?sid=26/06/17/1519239&amp;from=rss) - [Finland Charges Russian Captain And Crew Member Of Ship Suspected Of Damaging Undersea Cables](https://soylentnews.org/article.pl?sid=26/06/17/1519239&amp;from=rss)
-* [2026-06-18, 17:27:01](https://lobste.rs/s/sl8ibi/what_was_nice_about_ui_windows_2000) - [What was nice about the UI of Windows 2000](https://movq.de/blog/postings/2026-06-16/0/POSTING-en.html)
 * [2026-06-18, 17:04:00](https://lobste.rs/s/crl4fj/what_are_your_favorite_lobste_rs_comments) - [What are your Favorite Lobste.rs Comments?](https://lobste.rs/s/crl4fj/what_are_your_favorite_lobste_rs_comments)
 * [2026-06-18, 16:25:48](https://lobste.rs/s/5majlp/future_con_is_already_here_it_s_just_not) - [The Future of the Con Is Already Here, It&apos;s Just Not Evenly Distributed](http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/)
-* [2026-06-18, 15:08:04](https://lobste.rs/s/mnycr3/google_workspace_threatening_block) - [Google workspace threatening to block firefox access](https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html)
 * [2026-06-18, 14:51:53](https://news.ycombinator.com/item?id=48586329) - [Building a robotics research setup that lives next to my desk](https://dfdxlabs.com/research/2026/robotics-setup/)
 * [2026-06-18, 13:53:00](https://soylentnews.org/article.pl?sid=26/06/17/1517231&amp;from=rss) - [Heart Protection From COVID Shots Remains Amid Updates, Study Finds](https://soylentnews.org/article.pl?sid=26/06/17/1517231&amp;from=rss)
 * [2026-06-18, 09:08:00](https://soylentnews.org/article.pl?sid=26/06/17/1140258&amp;from=rss) - [France&apos;s Digital Sovereignty Push is Struggling to Escape the Microsoft Gravity Well](https://soylentnews.org/article.pl?sid=26/06/17/1140258&amp;from=rss)
@@ -171,6 +174,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-16, 14:22:00](https://soylentnews.org/article.pl?sid=26/06/15/0335259&amp;from=rss) - [AI Agents Favored $1,500 Sponsored Flights Over $500 Alternatives](https://soylentnews.org/article.pl?sid=26/06/15/0335259&amp;from=rss)
 * [2026-06-16, 10:34:10](https://news.ycombinator.com/item?id=48553161) - [Telescope Ranchers](https://kottke.org/26/06/telescope-ranchers)
 * [2026-06-16, 09:37:00](https://soylentnews.org/article.pl?sid=26/06/15/0328205&amp;from=rss) - [Intel Reportedly Preparing Surprise Return to DDR4 Systems With &apos;Raptor Lake Next&apos;](https://soylentnews.org/article.pl?sid=26/06/15/0328205&amp;from=rss)
+* [2026-06-16, 08:32:13](https://news.ycombinator.com/item?id=48552291) - [What Happens When Your Domain Expires](https://urlwatch.io/blog/what-happens-when-domain-expires.php)
 * [2026-06-16, 04:51:00](https://soylentnews.org/article.pl?sid=26/06/15/0017250&amp;from=rss) - [What &apos;Emotional Labor&apos; Actually Means — and How Starbucks is Testing its Limits](https://soylentnews.org/article.pl?sid=26/06/15/0017250&amp;from=rss)
 * [2026-06-16, 00:45:50](https://news.ycombinator.com/item?id=48549118) - [Zen and the Art of Machine Learning Research](https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning)
 * [2026-06-16, 00:05:00](https://soylentnews.org/article.pl?sid=26/06/15/0022216&amp;from=rss) - [Anthropic Warns Claude AI Is Building Itself Faster Than Expected](https://soylentnews.org/article.pl?sid=26/06/15/0022216&amp;from=rss)
