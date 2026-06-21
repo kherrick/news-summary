@@ -1,66 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Emerging Technologies and Software Developments
+## AI and Technology Advancements
 
-* * [Apple Internals: Swift in the Kernel](https://blog.calif.io/p/apple-internals-swift-in-the-kernel) - Apple integrates Swift directly into the kernel for performance and safety enhancements. [Comments](https://lobste.rs/s/5j33bp/apple_internals_swift_kernel)
+* [TypeScript 7 RC: the compiler rewritten in Go, around 10x faster](https://jatniel.dev/en/bytes/typescript-7-rc-the-compiler-rewritten-in-go-around-10x-faster) ([comments](https://news.ycombinator.com/item?id=48617686))
 
-* * [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame) - A fresh and intriguing take on game engines built using an unconventional programming language. [Comments](https://news.ycombinator.com/item?id=48616713)
+* [Anthropic to Require ID Verification for Certain Capabilities Starting July 8](https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/) ([comments](https://news.ycombinator.com/item?id=48618455))
 
-* * [Improvements to std::format in C++26](https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/) - Upcoming enhancements to C++ format library feature greater flexibility and new functionalities. [Comments](https://lobste.rs/s/xtuz4x/improvements_std_format_c_26)
+* [New Super PAC Aims to Rally Tech Workers to Help Limit AI: 'the Guardrails Alliance'](https://politics.slashdot.org/story/26/06/21/0536219/new-super-pac-aims-to-rally-tech-workers-to-help-limit-ai-the-guardrails-alliance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=48617991))
 
-* * [cl-bbs: the schemeBBS-like textboard rewritten in Common Lisp](https://github.com/ryukinix/cl-bbs) - A modern reimplementation of schemeBBS using Common Lisp. [Comments](https://lobste.rs/s/wgpa6x/cl_bbs_schemebbs_like_textboard)
+* [Building reliable agentic AI systems](https://martinfowler.com/articles/reliable-llm-bayer.html) ([comments](https://news.ycombinator.com/item?id=48615680))
 
-* * [UHF X11: X11 Built for VisionOS and Apple Vision Pro](https://www.lispm.net/apps/uhf-x11/) - A revamped version of X11 developed for the VisionOS platform, bringing compatibility with Apple’s Vision Pro. [Comments](https://news.ycombinator.com/item?id=48610853)
+* [Is AI ruining our skills? Early results are in and they’re not good](https://www.nature.com/articles/d41586-026-01947-1) ([comments](https://lobste.rs/s/d0vsgl/is_ai_ruining_our_skills_early_results_are))
 
-* * [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/) - A creative approach to hosting a website within a favicon, showcasing innovative use of this browser feature. [Comments](https://lobste.rs/s/pida8e/i_stored_website_favicon)
+## Cybersecurity and Privacy Concerns
 
-## Cybersecurity News
+* [Polymarket Paid Dozens to Post Videos of Themselves 'Winning' With Fake Bets](https://tech.slashdot.org/story/26/06/21/0429257/polymarket-paid-dozens-to-post-videos-of-themselves-winning-with-fake-bets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=48614844))
 
-* * [Forward to Hell? On Misusing Transparent DNS Forwarders For Amplification Attacks](https://labs.ripe.net/author/mkoch/forward-to-hell-on-misusing-transparent-dns-forwarders-for-amplification-attacks/) - Research article shedding light on how transparent DNS forwarders might be exploited for malicious activities. [Comments](https://lobste.rs/s/ozr1zf/forward_hell_on_misusing_transparent_dns)
+* [Facial Recognition on Public Buses? Kansas City Says Yes](https://yro.slashdot.org/story/26/06/21/0457230/facial-recognition-on-public-buses-kansas-city-says-yes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=48614844))
 
-* * [Critical Copilot Vulnerability Allowed Hackers to Steal 2FA Code From Users](https://soylentnews.org/article.pl?sid=26/06/19/1228210&amp;from=rss) - Exploration of vulnerabilities in AI-based coding assistant compromising user security. [Comments](https://soylentnews.org/comments.pl?sid=26/06/19/1228210)
+* [Forward to Hell? On Misusing Transparent DNS Forwarders For Amplification Attacks](https://labs.ripe.net/author/mkoch/forward-to-hell-on-misusing-transparent-dns-forwarders-for-amplification-attacks/) ([comments](https://lobste.rs/s/ozr1zf/forward_hell_on_misusing_transparent_dns))
 
-* * [How Millions of Digital Home Devices Are Secretly Powering Cyberattacks](https://it.slashdot.org/story/26/06/20/2321236/how-millions-of-digital-home-devices-are-secretly-powering-cyberattacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Investigation into how IoT devices are covertly utilized in cyberattacks, raising consumer security concerns. [Comments](https://it.slashdot.org/comments.pl?sid=26/06/20/2321236)
+## Environmental and Transportation Issues
 
-* * [Microsoft Discovers Cryptocurrency Stealer That Spreads Through USB Drives and Uses Tor](https://it.slashdot.org/story/26/06/20/0347206/microsoft-discovers-cryptocurrency-stealer-that-spreads-through-usb-drives-and-uses-tor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft identifies new malware targeting cryptocurrency through USB devices and Tor networks. [Comments](https://it.slashdot.org/comments.pl?sid=26/06/20/0347206)
+* [Waymo Recalls About 3,900 Robotaxis After Some Drove Into 'Freeway Construction Zones'](https://tech.slashdot.org/story/26/06/20/0621217/waymo-recalls-about-3900-robotaxis-after-some-drove-into-freeway-construction-zones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=48612341))
 
-## Artificial Intelligence and Its Implication
+* [Cyberattack Sees Crops Kept In The Ground](https://soylentnews.org/article.pl?sid=26/06/20/0145259&amp;from=rss) ([comments](https://news.ycombinator.com/item?id=48616713))
 
-* * [Building reliable agentic AI systems](https://martinfowler.com/articles/reliable-llm-bayer.html) - An in-depth analysis of constructing reliable AI systems with agency. [Comments](https://news.ycombinator.com/item?id=48615680)
+* [A Chinese Rocket Breaks Apart Dangerously Close to the Starlink Constellation](https://soylentnews.org/article.pl?sid=26/06/19/120238&amp;from=rss) ([comments](https://news.ycombinator.com/item?id=48612740))
 
-* * [Effective use-cases for LLMs](https://aggressivelyparaphrasing.me/2026/06/21/effective-use-cases-for-llms/) - Exploration of practical and efficient applications for large language models. [Comments](https://lobste.rs/s/77kygu/effective_use_cases_for_llms)
+## Open Source Initiatives
 
-* * [Your brain was never designed for this much bad news](https://www.sciencedaily.com/releases/2026/06/260614012006.htm) - Discussion on the neurological and psychological effects of information overload, particularly due to negative news. [Comments](https://news.ycombinator.com/item?id=48615569)
+* [SMPTE Opens Entire Standards Catalog for Free, Removing Century-Old Paywall](https://news.slashdot.org/story/26/06/20/0429254/smpte-opens-entire-standards-catalog-for-free-removing-century-old-paywall?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=48610827))
 
-* * [Tech Pundit Cringely Co-Founds Startup '2Brains Inc' to Solve LLM Hallucinations](https://slashdot.org/story/26/06/20/0556251/tech-pundit-cringely-co-founds-startup-2brains-inc-to-solve-llm-hallucinations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A startup aims to tackle large language model inaccuracies. [Comments](https://slashdot.org/comments.pl?sid=26/06/20/0556251)
+* [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/) ([comments](https://lobste.rs/s/pida8e/i_stored_website_favicon))
 
-## Historical and Cultural Insights
+* [cl-bbs: the schemeBBS-like textboard rewritten in Common Lisp](https://github.com/ryukinix/cl-bbs) ([comments](https://lobste.rs/s/wgpa6x/cl_bbs_schemebbs_like_textboard))
 
-* * [The Lost Story of Alan Turing's "Delilah" Project](https://spectrum.ieee.org/alan-turings-delilah) - Rediscovering an often-overlooked encryption project by Alan Turing. [Comments](https://news.ycombinator.com/item?id=48615890)
+## Cultural and Curiosity-Driven Stories
 
-* * [Remembering When Alan Turing Developed a Portable Voice Encryption Device](https://it.slashdot.org/story/26/06/20/059229/remembering-when-alan-turing-developed-a-portable-voice-encryption-device?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Looking back at Turing's innovative contributions to voice encryption. [Comments](https://it.slashdot.org/comments.pl?sid=26/06/20/059229)
+* [100 Greatest Bird Names of All Time](https://birdhistory.substack.com/p/the-100-greatest-bird-names-of-all) ([comments](https://news.ycombinator.com/item?id=48618086))
 
-* * [Renting a sewing machine from the library](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland) - Discover how Finnish libraries offer unique and diverse services, including machine rentals. [Comments](https://news.ycombinator.com/item?id=48613755)
+* [Renting a sewing machine from the library](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland) ([comments](https://news.ycombinator.com/item?id=48613755))
 
-* * [Threads of Underground Fungal Networks Are Long Enough to Reach Beyond the Solar System](https://soylentnews.org/article.pl?sid=26/06/16/122242&amp;from=rss) - A fascinating glimpse into the vast extent of fungal networks in nature. [Comments](https://soylentnews.org/comments.pl?sid=26/06/16/122242)
-
-## Science, Space, and Health
-
-* * [Slow breathing modulates brain function and risk behavior](https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9) - Study explores the connection between controlled breathing and its impact on the brain and decision-making. [Comments](https://news.ycombinator.com/item?id=48613555)
-
-* * [OpenAI Announces Benchmarks for AI Life Sciences Research. Its Best Model Failed 63.9% of the Test](https://science.slashdot.org/story/26/06/20/202204/openai-announces-benchmarks-for-ai-life-sciences-research-its-best-model-failed-639-of-the-test?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlights from OpenAI's attempts to benchmark its model in advancing life sciences, with mixed results. [Comments](https://science.slashdot.org/comments.pl?sid=26/06/20/202204)
-
-* * [15-minute at-home Lyme disease tick test](https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/) - New test provides fast, home-based detection of Lyme disease. [Comments](https://news.ycombinator.com/item?id=48584261)
-
-* * [Whole cross-sectional human ultrasound tomography](https://www.nature.com/articles/s41551-026-01660-4) - Technological advancement in imaging techniques for in-depth human anatomy analysis. [Comments](https://news.ycombinator.com/item?id=48582894)
-
-## Policy and Regulation
-
-* * [Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says](https://slashdot.org/story/26/06/19/2248239/amazon-retaliated-against-workers-who-supported-regulating-data-centers-complaint-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Allegations that Amazon took action against employees advocating for regulation of data centers. [Comments](https://slashdot.org/comments.pl?sid=26/06/19/2248239)
-
-* * [Facial Recognition on Public Buses? Kansas City Says Yes](https://yro.slashdot.org/story/26/06/21/0457230/facial-recognition-on-public-buses-kansas-city-says-yes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Kansas City embraces the use of facial recognition technology on public transit. [Comments](https://yro.slashdot.org/comments.pl?sid=26/06/21/0457230)
-
-* * [EU Auto Giants Call For 'Made In Europe' Incentives Amid Rising Chinese Competition](https://soylentnews.org/article.pl?sid=26/06/16/0055252&amp;from=rss) - Major European automakers push for support against rising competition from China. [Comments](https://soylentnews.org/comments.pl?sid=26/06/16/0055252)
+* [The Wholesale Plagiarism of Obscure Sorrows](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/) ([comments](https://lobste.rs/s/m36bsm/wholesale_plagiarism_obscure_sorrows))
 
 ---
 
@@ -87,6 +69,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-06-21, 12:44:13](https://news.ycombinator.com/item?id=48618455) - [Anthropic to Require ID Verification for Certain Capabilities Starting July 8](https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/)
+* [2026-06-21, 12:29:00](https://soylentnews.org/article.pl?sid=26/06/20/0534212&amp;from=rss) - [NHS Palantir Claims Face Scrutiny After Data Suggests Uneven Results](https://soylentnews.org/article.pl?sid=26/06/20/0534212&amp;from=rss)
+* [2026-06-21, 11:50:37](https://news.ycombinator.com/item?id=48618086) - [100 Greatest Bird Names of All Time](https://birdhistory.substack.com/p/the-100-greatest-bird-names-of-all)
+* [2026-06-21, 11:38:09](https://news.ycombinator.com/item?id=48617991) - [Foreign-Born Entrepreneurs Drive America&apos;s Unicorn Boom](https://news.crunchbase.com/venture/foreign-born-entrepreneurs-drive-americas-unicorn-boom-strebulaev-stanford/)
+* [2026-06-21, 11:38:01](https://news.ycombinator.com/item?id=48617990) - [Beyond All Reason (Free Total Annihilation Inspired RTS)](https://www.beyondallreason.info)
+* [2026-06-21, 11:34:00](https://politics.slashdot.org/story/26/06/21/0536219/new-super-pac-aims-to-rally-tech-workers-to-help-limit-ai-the-guardrails-alliance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Super PAC Aims to Rally Tech Workers to Help Limit AI:  &apos;the Guardrails Alliance&apos;](https://politics.slashdot.org/story/26/06/21/0536219/new-super-pac-aims-to-rally-tech-workers-to-help-limit-ai-the-guardrails-alliance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-21, 11:06:55](https://news.ycombinator.com/item?id=48617782) - [The case against geometric algebra (2024)](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html)
+* [2026-06-21, 10:52:58](https://news.ycombinator.com/item?id=48617686) - [TypeScript 7 RC: the compiler rewritten in Go, around 10x faster](https://jatniel.dev/en/bytes/typescript-7-rc-the-compiler-rewritten-in-go-around-10x-faster)
+* [2026-06-21, 10:41:47](https://lobste.rs/s/d0vsgl/is_ai_ruining_our_skills_early_results_are) - [Is AI ruining our skills? Early results are in and they’re not good](https://www.nature.com/articles/d41586-026-01947-1)
 * [2026-06-21, 08:41:24](https://lobste.rs/s/5j33bp/apple_internals_swift_kernel) - [Apple Internals: Swift in the Kernel](https://blog.calif.io/p/apple-internals-swift-in-the-kernel)
 * [2026-06-21, 08:24:37](https://lobste.rs/s/ozr1zf/forward_hell_on_misusing_transparent_dns) - [Forward to Hell? On Misusing Transparent DNS Forwarders For Amplification Attacks](https://labs.ripe.net/author/mkoch/forward-to-hell-on-misusing-transparent-dns-forwarders-for-amplification-attacks/)
 * [2026-06-21, 08:21:22](https://news.ycombinator.com/item?id=48616800) - [Google Hits 50% IPv6](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/)
@@ -99,18 +90,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-21, 06:24:43](https://lobste.rs/s/vutq1m/windows_ui_evolution_clicking) - [Windows UI evolution: Clicking an unassociated file](https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html)
 * [2026-06-21, 05:35:25](https://lobste.rs/s/z4vrld/mark_web_pinning_installers_sites) - [Mark-of-the-web and pinning installers to sites](https://blog.randomoracle.io/2026/06/20/mark-of-the-web-and-pinning-installers-to-sites/)
 * [2026-06-21, 05:31:12](https://lobste.rs/s/lhvnq1/see_cmyk) - [See in CMYK](https://artsandculture.google.com/experiment/8AEAytzXr9rLvQ)
-* [2026-06-21, 05:15:33](https://news.ycombinator.com/item?id=48615890) - [The Lost Story of Alan Turing&apos;s \&quot;Delilah\&quot; Project](https://spectrum.ieee.org/alan-turings-delilah)
 * [2026-06-21, 04:37:33](https://lobste.rs/s/77kygu/effective_use_cases_for_llms) - [Effective use-cases for LLMs](https://aggressivelyparaphrasing.me/2026/06/21/effective-use-cases-for-llms/)
 * [2026-06-21, 04:34:00](https://tech.slashdot.org/story/26/06/21/0429257/polymarket-paid-dozens-to-post-videos-of-themselves-winning-with-fake-bets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Polymarket Paid Dozens to Post Videos of Themselves &apos;Winning&apos; With Fake Bets](https://tech.slashdot.org/story/26/06/21/0429257/polymarket-paid-dozens-to-post-videos-of-themselves-winning-with-fake-bets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-21, 04:28:39](https://news.ycombinator.com/item?id=48615680) - [Building reliable agentic AI systems](https://martinfowler.com/articles/reliable-llm-bayer.html)
-* [2026-06-21, 04:02:08](https://news.ycombinator.com/item?id=48615569) - [Your brain was never designed for this much bad news](https://www.sciencedaily.com/releases/2026/06/260614012006.htm)
 * [2026-06-21, 02:56:00](https://soylentnews.org/article.pl?sid=26/06/20/0140256&amp;from=rss) - [Red Hat Gives Ubuntu A Bootc Up The Backside At Canonical Shindig](https://soylentnews.org/article.pl?sid=26/06/20/0140256&amp;from=rss)
 * [2026-06-21, 01:42:03](https://lobste.rs/s/zng304/sockmap_tcp_splicing_future_2019) - [SOCKMAP - TCP splicing of the future (2019)](https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/)
 * [2026-06-21, 01:35:40](https://news.ycombinator.com/item?id=48614844) - [Developers don&apos;t understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors)
 * [2026-06-21, 01:34:00](https://games.slashdot.org/story/26/06/21/0027229/gamers-sue-playstation-its-not-clear-theyre-selling-licenses-rather-than-ownership-of-games?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Gamers Sue PlayStation:  It&apos;s Not Clear They&apos;re Selling Licenses Rather Than Ownership of Games](https://games.slashdot.org/story/26/06/21/0027229/gamers-sue-playstation-its-not-clear-theyre-selling-licenses-rather-than-ownership-of-games?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-21, 00:58:13](https://news.ycombinator.com/item?id=48614631) - [When I reject AI code even if it works](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
 * [2026-06-21, 00:57:20](https://lobste.rs/s/qamglb/volunteer_responsibility_amnesty_day) - [Volunteer Responsibility Amnesty Day](https://volunteeramnestyday.net/)
-* [2026-06-21, 00:00:25](https://news.ycombinator.com/item?id=48614311) - [Project Fetch: Phase Two](https://www.anthropic.com/research/project-fetch-phase-two)
 * [2026-06-20, 23:23:00](https://it.slashdot.org/story/26/06/20/2321236/how-millions-of-digital-home-devices-are-secretly-powering-cyberattacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Millions of Digital Home Devices Are Secretly Powering Cyberattacks](https://it.slashdot.org/story/26/06/20/2321236/how-millions-of-digital-home-devices-are-secretly-powering-cyberattacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-20, 23:07:09](https://news.ycombinator.com/item?id=48613872) - [Epoll vs. io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
 * [2026-06-20, 23:06:02](https://lobste.rs/s/iscvsu/ansel_better_future_for_darktable) - [Ansel: The Better Future for Darktable](https://www.youtube.com/watch?v=1R7gdfJVH9Q)
@@ -119,7 +106,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-20, 22:22:52](https://news.ycombinator.com/item?id=48613555) - [Slow breathing modulates brain function and risk behavior](https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9)
 * [2026-06-20, 22:14:00](https://soylentnews.org/article.pl?sid=26/06/20/0135207&amp;from=rss) - [Where to Find the Colors Your Screen Can’t Show You](https://soylentnews.org/article.pl?sid=26/06/20/0135207&amp;from=rss)
 * [2026-06-20, 21:34:00](https://science.slashdot.org/story/26/06/20/202204/openai-announces-benchmarks-for-ai-life-sciences-research-its-best-model-failed-639-of-the-test?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Announces Benchmarks for AI Life Sciences Research. Its Best Model Failed 63.9% of the Test](https://science.slashdot.org/story/26/06/20/202204/openai-announces-benchmarks-for-ai-life-sciences-research-its-best-model-failed-639-of-the-test?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-20, 20:59:40](https://news.ycombinator.com/item?id=48612943) - [Linux eliminates the strncpy API after six years of work, 360 patches](https://www.phoronix.com/news/Linux-7.2-Drops-strncpy)
 * [2026-06-20, 20:34:00](https://it.slashdot.org/story/26/06/20/059229/remembering-when-alan-turing-developed-a-portable-voice-encryption-device?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Remembering When Alan Turing Developed a Portable Voice Encryption Device](https://it.slashdot.org/story/26/06/20/059229/remembering-when-alan-turing-developed-a-portable-voice-encryption-device?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-20, 20:32:54](https://news.ycombinator.com/item?id=48612740) - [Alice is impatient](https://brooker.co.za/blog/2026/06/19/waiting.html)
 * [2026-06-20, 20:05:03](https://news.ycombinator.com/item?id=48612502) - [Unauthorized alert sent to cell phones across Brazil](https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam)
@@ -140,7 +126,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-20, 12:45:00](https://soylentnews.org/article.pl?sid=26/06/19/1228210&amp;from=rss) - [Critical Copilot Vulnerability Allowed Hackers to Steal 2FA Code From Users](https://soylentnews.org/article.pl?sid=26/06/19/1228210&amp;from=rss)
 * [2026-06-20, 12:08:23](https://news.ycombinator.com/item?id=48608645) - [Loupe – A iOS app that raises awareness about what native apps can see](https://github.com/mysk-research/loupe)
 * [2026-06-20, 11:55:03](https://news.ycombinator.com/item?id=48608570) - [Show HN: TownSquare, a tiny presence layer for websites](https://townsquare.cauenapier.com/)
-* [2026-06-20, 11:19:05](https://news.ycombinator.com/item?id=48608394) - [Temporary Cloudflare accounts for AI agents](https://blog.cloudflare.com/temporary-accounts/)
 * [2026-06-20, 11:00:00](https://news.slashdot.org/story/26/06/19/232209/student-loan-borrowers-will-get-interest-rate-cut-if-they-sign-up-for-auto-pay?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Student Loan Borrowers Will Get Interest Rate Cut If They Sign Up For Auto Pay](https://news.slashdot.org/story/26/06/19/232209/student-loan-borrowers-will-get-interest-rate-cut-if-they-sign-up-for-auto-pay?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-20, 10:02:17](https://lobste.rs/s/gdwaqt/town_square_community_deserves) - [Town Square, the community deserves connection](https://cauenapier.com/blog/town-square-the-community-deserves-connection/)
 * [2026-06-20, 08:36:23](https://lobste.rs/s/dswkwr/meet_alice_alice_is_impatient) - [Meet Alice. Alice is impatient](https://brooker.co.za/blog/2026/06/19/waiting.html)
@@ -149,8 +134,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-20, 07:42:32](https://lobste.rs/s/ew22ks/there_are_no_instances_atproto) - [There Are No Instances in atproto](https://overreacted.io/there-are-no-instances-in-atproto/)
 * [2026-06-20, 07:00:00](https://slashdot.org/story/26/06/19/2248239/amazon-retaliated-against-workers-who-supported-regulating-data-centers-complaint-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says](https://slashdot.org/story/26/06/19/2248239/amazon-retaliated-against-workers-who-supported-regulating-data-centers-complaint-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-20, 06:28:58](https://lobste.rs/s/oy4gen/what_has_can_eu_cyber_resilience_act_done) - [What has (can) the EU Cyber Resilience Act done (do) for you?](https://nxdomain.no/~peter/what_hascan_eu_cra_donedo_for_you.html)
-* [2026-06-20, 04:16:28](https://lobste.rs/s/jmhfck/safe_simd_rust_even_on_inside) - [Safe SIMD in Rust, even on the inside](https://shnatsel.medium.com/safe-simd-in-rust-even-on-the-inside-c6f1ff381828)
-* [2026-06-20, 03:30:00](https://developers.slashdot.org/story/26/06/19/2159245/using-sound-waves-to-make-espresso-could-cut-coffee-brewing-energy-use-by-75?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Using Sound Waves To Make Espresso Could Cut Coffee-Brewing Energy Use By 75%](https://developers.slashdot.org/story/26/06/19/2159245/using-sound-waves-to-make-espresso-could-cut-coffee-brewing-energy-use-by-75?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-20, 02:14:00](https://soylentnews.org/article.pl?sid=26/06/19/1216220&amp;from=rss) - [NASA Management Wants a Word and Won&apos;t Say Why](https://soylentnews.org/article.pl?sid=26/06/19/1216220&amp;from=rss)
 * [2026-06-20, 00:51:33](https://lobste.rs/s/ysxvko/i_am_dreading_our_llm_written_incident) - [I am dreading our LLM-written incident report future](https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/)
 * [2026-06-19, 21:41:22](https://lobste.rs/s/k5raot/bevy_0_19) - [Bevy 0.19](https://bevy.org/news/bevy-0-19/)
@@ -165,15 +148,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-18, 18:43:00](https://soylentnews.org/article.pl?sid=26/06/17/1519239&amp;from=rss) - [Finland Charges Russian Captain And Crew Member Of Ship Suspected Of Damaging Undersea Cables](https://soylentnews.org/article.pl?sid=26/06/17/1519239&amp;from=rss)
 * [2026-06-18, 13:53:00](https://soylentnews.org/article.pl?sid=26/06/17/1517231&amp;from=rss) - [Heart Protection From COVID Shots Remains Amid Updates, Study Finds](https://soylentnews.org/article.pl?sid=26/06/17/1517231&amp;from=rss)
 * [2026-06-18, 12:22:36](https://news.ycombinator.com/item?id=48584261) - [15-minute at-home Lyme disease tick test](https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/)
-* [2026-06-18, 10:36:32](https://news.ycombinator.com/item?id=48583407) - [Excessive nil pointer checks in Go](https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/)
 * [2026-06-18, 09:23:16](https://news.ycombinator.com/item?id=48582894) - [Whole cross-sectional human ultrasound tomography](https://www.nature.com/articles/s41551-026-01660-4)
 * [2026-06-18, 09:08:00](https://soylentnews.org/article.pl?sid=26/06/17/1140258&amp;from=rss) - [France&apos;s Digital Sovereignty Push is Struggling to Escape the Microsoft Gravity Well](https://soylentnews.org/article.pl?sid=26/06/17/1140258&amp;from=rss)
 * [2026-06-18, 04:24:00](https://soylentnews.org/article.pl?sid=26/06/17/0045227&amp;from=rss) - [Why Not yserver? It’s Xserver, But Rust-y.](https://soylentnews.org/article.pl?sid=26/06/17/0045227&amp;from=rss)
 * [2026-06-17, 23:35:00](https://soylentnews.org/article.pl?sid=26/06/16/122242&amp;from=rss) - [Threads of Underground Fungal Networks Are Long Enough to Reach Beyond the Solar System](https://soylentnews.org/article.pl?sid=26/06/16/122242&amp;from=rss)
-* [2026-06-17, 22:07:02](https://news.ycombinator.com/item?id=48577601) - [Carlo Ginzburg, Who Told the History of the Obscure, Dies at 87](https://www.nytimes.com/2026/06/17/books/carlo-ginzburg-dead.html)
 * [2026-06-17, 18:52:00](https://soylentnews.org/article.pl?sid=26/06/16/1144213&amp;from=rss) - [U.S. Gov&apos;t Orders Anthropic to Disable its Newest AI Models and Restrict Foreigner Use](https://soylentnews.org/article.pl?sid=26/06/16/1144213&amp;from=rss)
 * [2026-06-17, 17:43:22](https://news.ycombinator.com/item?id=48573902) - [Zigzag Decoding with AVX-512](https://zeux.io/2026/06/17/zigzag-decoding-avx512/)
 * [2026-06-17, 14:08:00](https://soylentnews.org/article.pl?sid=26/06/16/1139240&amp;from=rss) - [Brick Your Phone Temporarily to Aid Fiction-Maxxing](https://soylentnews.org/article.pl?sid=26/06/16/1139240&amp;from=rss)
+* [2026-06-17, 12:15:04](https://news.ycombinator.com/item?id=48569309) - [Cosmodial Sky Atlas](https://frankforce.com/cosmodial-sky-atlas/)
 * [2026-06-17, 10:14:53](https://news.ycombinator.com/item?id=48568181) - [A tale of two path separators](https://alexwlchan.net/2021/slashes/)
 * [2026-06-17, 09:25:00](https://soylentnews.org/article.pl?sid=26/06/16/0055252&amp;from=rss) - [EU Auto Giants Call For &apos;Made In Europe&apos; Incentives Amid Rising Chinese Competition](https://soylentnews.org/article.pl?sid=26/06/16/0055252&amp;from=rss)
 * [2026-06-17, 04:33:00](https://soylentnews.org/article.pl?sid=26/06/16/0054257&amp;from=rss) - [Man Jailed for a Month Despite Flock Showing He Was 5 Miles From Crime Scene](https://soylentnews.org/article.pl?sid=26/06/16/0054257&amp;from=rss)
