@@ -1,65 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Advancements and Innovations
+## Online Tutoring Scandal and AI Advances
 
-* [Memory Safe Inline Assembly](https://fil-c.org/inlineasm) - Exploring the concept of memory-safe inline assembly and its implications for programming.
-[Comments](https://lobste.rs/s/hhk5e0/memory_safe_inline_assembly)
+* [* 'Tutor' Who Took Online Tests for 124 Students Jailed for Three Years](https://news.slashdot.org/story/26/06/22/0255256/tutor-who-took-online-tests-for-124-students-jailed-for-three-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A tutor faces prison time after taking tests for 124 students, drawing ethical questions around academic integrity. [Comments](https://news.slashdot.org/story/26/06/22/0255256/tutor-who-took-online-tests-for-124-students-jailed-for-three-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [The Secret Revolution in Battery Technology: 3-D Printing](https://hardware.slashdot.org/story/26/06/21/2324220/the-secret-revolution-in-battery-technology-3-d-printing) - A look into how 3D printing is revolutionizing battery technology to enhance efficiency and sustainability.
-[Comments](https://hardware.slashdot.org/story/26/06/21/2324220/the-secret-revolution-in-battery-technology-3-d-printing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [* Python Dev Saved From Disaster by Intuition...and AI](https://soylentnews.org/article.pl?sid=26/06/21/205254&amp;from=rss) - A developer avoids a major coding disaster through the clever use of both intuition and AI support systems. [Comments](https://soylentnews.org/article.pl?sid=26/06/21/205254&amp;from=rss)
 
-* [Everything is logarithms](https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html) - An exploration of the pervasive role logarithms play in our understanding of the world and technology.
-[Comments](https://news.ycombinator.com/item?id=48622626)
+## Privacy, Legislation, and Technology Ethics
 
-* [Apple Internals: Swift in the Kernel](https://blog.calif.io/p/apple-internals-swift-in-the-kernel) - Delve into Apple's efforts to integrate Swift into its operating system kernel for improved safety and performance.
-[Comments](https://lobste.rs/s/5j33bp/apple_internals_swift_kernel)
+* [* Danish privacy activist Lars Andersen raided by police](https://twitter.com/LarsAnders1620/status/2068208864747540516#m) - Police raid the home of Lars Andersen, raising concerns over privacy and free speech issues. [Comments](https://news.ycombinator.com/item?id=48625823)
 
-## AI, Machine Learning, and Big Tech
+* [* UK Official Promises Statements 'Around VPNs' and Further Teen Restrictions on Chatbots and Social Media](https://news.slashdot.org/story/26/06/21/2052213/uk-official-promises-statements-around-vpns-and-further-teen-restrictions-on-chatbots-and-social-media?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A UK official suggests tightening controls on online activities with implications for VPN use and chatbot regulations. [Comments](https://news.slashdot.org/story/26/06/21/2052213/uk-official-promises-statements-around-vpns-and-further-teen-restrictions-on-chatbots-and-social-media?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [TikTok Shows 3x More AI Slop Than YouTube, Report Finds](https://tech.slashdot.org/story/26/06/22/028235/tiktok-shows-3x-more-ai-slop-than-youtube-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A report investigates how TikTok's AI recommendations differ significantly from YouTube, posing ethical questions.
-[Comments](https://tech.slashdot.org/story/26/06/22/028235/tiktok-shows-3x-more-ai-slop-than-youtube-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Advances and Controversies in AI
 
-* [Is Tesla Planning To Sell Modular AI Data Center Hardware?](https://hardware.slashdot.org/story/26/06/21/2145245/is-tesla-planning-to-sell-modular-ai-data-center-hardware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Speculation arises around Tesla potentially entering the AI modular data center hardware market.
-[Comments](https://hardware.slashdot.org/story/26/06/21/2145245/is-tesla-planning-to-sell-modular-ai-data-center-hardware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [* TikTok Shows 3x More AI Slop Than YouTube, Report Finds](https://tech.slashdot.org/story/26/06/22/028235/tiktok-shows-3x-more-ai-slop-than-youtube-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A report highlights discrepancies in the accuracy of AI algorithms used by TikTok compared to YouTube. [Comments](https://tech.slashdot.org/story/26/06/22/028235/tiktok-shows-3x-more-ai-slop-than-youtube-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [UK Official Promises Statements 'Around VPNs' and Further Teen Restrictions on Chatbots and Social Media](https://news.slashdot.org/story/26/06/21/2052213/uk-official-promises-statements-around-vpns-and-further-teen-restrictions-on-chatbots-and-social-media?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The UK plans to regulate VPN use and impose tighter restrictions on chatbots and social media platforms, especially for teens.
-[Comments](https://news.slashdot.org/story/26/06/21/2052213/uk-official-promises-statements-around-vpns-and-further-teen-restrictions-on-chatbots-and-social-media?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [* Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/) - A new open AI model, Apertus, is introduced, aiming to prioritize sovereignty and transparent development. [Comments](https://news.ycombinator.com/item?id=48622778)
 
-## Cybersecurity and Privacy
+* [* Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions) - Fine-tuning small local language models shows promising results for efficient categorization. [Comments](https://news.ycombinator.com/item?id=48623434)
 
-* [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://soylentnews.org/article.pl?sid=26/06/20/0542204&amp;from=rss) - An investigation finds links between a publicly-traded Israeli company and the notorious 'Popa' botnet.
-[Comments](https://soylentnews.org/article.pl?sid=26/06/20/0542204&amp;from=rss)
+## Emerging Technologies and Innovations
 
-* [Polymarket Paid Dozens to Post Videos of Themselves 'Winning' With Fake Bets](https://tech.slashdot.org/story/26/06/21/0429257/polymarket-paid-dozens-to-post-videos-of-themselves-winning-with-fake-bets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Allegations surface against Polymarket for fabricating positive experiences in promotional videos.
-[Comments](https://tech.slashdot.org/story/26/06/21/0429257/polymarket-paid-dozens-to-post-videos-of-themselves-winning-with-fake-bets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [* Deno Desktop](https://docs.denof.land/runtime/desktop/) - The latest offering from the team behind Deno aims to revolutionize the desktop app development process. [Comments](https://news.ycombinator.com/item?id=48626137)
 
-* [Cops Keep Getting Arrested for Using Flock's Cameras to Stalk People](https://yro.slashdot.org/story/26/06/21/1939214/cops-keep-getting-arrested-for-using-flocks-cameras-to-stalk-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A troubling trend of law enforcement officers abusing surveillance technology for personal purposes.
-[Comments](https://yro.slashdot.org/story/26/06/21/1939214/cops-keep-getting-arrested-for-using-flocks-cameras-to-stalk-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [* Canonical's Upcoming AI Tool: Talk to Ubuntu Instead of Typing](https://news.slashdot.org/story/26/06/21/0234252/canonicals-upcoming-ai-tool-talk-to-ubuntu-instead-of-typing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Canonical announces plans for a cutting-edge AI tool, allowing users to interact with Ubuntu through voice input. [Comments](https://news.slashdot.org/story/26/06/21/0234252/canonicals-upcoming-ai-tool-talk-to-ubuntu-instead-of-typing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Scientific and Industry Milestones
+* [* The Rust Ecosystem Gets an AI Security Engineer in Residence](https://developers.slashdot.org/story/26/06/21/0149231/the-rust-ecosystem-gets-an-ai-security-engineer-in-residence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new AI-focused security engineer position is set to enhance the security capabilities of the Rust ecosystem. [Comments](https://developers.slashdot.org/story/26/06/21/0149231/the-rust-ecosystem-gets-an-ai-security-engineer-in-residence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [FDA advisors unanimously vote to approve Moderna's mRNA after agency drama](https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/) - Following contentious debates, regulatory approval for Moderna's mRNA treatment has been obtained.
-[Comments](https://news.ycombinator.com/item?id=48622788)
+## Technological Legacy and Evolution
 
-* [Heart Protection From COVID Shots Remains Amid Updates, Study Finds](https://soylentnews.org/article.pl?sid=26/06/17/1517231&amp;from=rss) - Research confirms ongoing cardiovascular protection from updated COVID-19 vaccines.
-[Comments](https://soylentnews.org/article.pl?sid=26/06/17/1517231&amp;from=rss)
+* [* Linux Kernel 7.2 Finally Removes Bug-Prone strncpy](https://linux.slashdot.org/story/26/06/21/1810200/after-six-years-of-work-and-over-360-patches-linux-72-finally-removes-bug-prone-strncpy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - After six years and over 360 patches, the bug-prone `strncpy` has been replaced, improving software reliability. [Comments](https://news.ycombinator.com/item?id=48620342)
 
-* [Chinese Fab SMIC's 7nm Metal Pitch Beats Intel 18A but Lags 38% on Density, Teardown Finds](https://soylentnews.org/article.pl?sid=26/06/20/0543245&amp;from=rss) - Analysis shows advances in SMIC's semiconductor technologies in comparison to industry giants.
-[Comments](https://soylentnews.org/article.pl?sid=26/06/20/0543245&amp;from=rss)
+* [* AmigaOS 2: The Greatest Upgrade](https://www.datagubbe.se/os20up/) - A reflection on the transformative features of the legendary AmigaOS 2 operating system. [Comments](https://lobste.rs/s/ontg5a/amigaos_2_greatest_upgrade)
 
-* [NASA Said Nyet to Roscosmos Plan to Cut Into Leaky ISS Segment](https://soylentnews.org/article.pl?sid=26/06/19/1232209&amp;from=rss) - NASA rejects a controversial plan proposed by Roscosmos regarding structural modifications to the ISS.
-[Comments](https://soylentnews.org/article.pl?sid=26/06/19/1232209&amp;from=rss)
+## Exploitation and Misuse of Technology
 
-## Interesting Perspectives and Analyses
+* [* Polymarket Paid Dozens to Post Videos of Themselves 'Winning' With Fake Bets](https://tech.slashdot.org/story/26/06/21/0429257/polymarket-paid-dozens-to-post-videos-of-themselves-winning-with-fake-bets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A report reveals a betting platform's questionable practices involving promotional videos of 'winning' bets. [Comments](https://tech.slashdot.org/story/26/06/21/0429257/polymarket-paid-dozens-to-post-videos-of-themselves-winning-with-fake-bets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [The Flat Curve Society](https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b) - A thought-provoking article on societal challenges and perceptions during the digital era.
-[Comments](https://news.ycombinator.com/item?id=48625192)
-
-* [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/) - An op-ed exploring ethical dilemmas and systemic issues in a specific work experience.
-[Comments](https://news.ycombinator.com/item?id=48622867)
-
-* [The minimum viable unit of saleable software](https://brandur.org/minimum-viable-unit) - A deep dive into what constitutes a deliverable and market-ready software product.
-[Comments](https://news.ycombinator.com/item?id=48620342)
+* [* Cops Keep Getting Arrested for Using Flock's Cameras to Stalk People](https://yro.slashdot.org/story/26/06/21/1939214/cops-keep-getting-arrested-for-using-flocks-cameras-to-stalk-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Misuse of surveillance technology by law enforcement officers comes under fire. [Comments](https://yro.slashdot.org/story/26/06/21/1939214/cops-keep-getting-arrested-for-using-flocks-cameras-to-stalk-people?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
 ---
 
@@ -86,10 +65,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-06-22, 07:34:00](https://news.slashdot.org/story/26/06/22/0255256/tutor-who-took-online-tests-for-124-students-jailed-for-three-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Tutor&apos; Who Took Online Tests for 124 Students Jailed for Three Years](https://news.slashdot.org/story/26/06/22/0255256/tutor-who-took-online-tests-for-124-students-jailed-for-three-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-22, 07:30:00](https://soylentnews.org/article.pl?sid=26/06/21/205254&amp;from=rss) - [Python Dev Saved From Disaster by Intuition...and AI](https://soylentnews.org/article.pl?sid=26/06/21/205254&amp;from=rss)
+* [2026-06-22, 07:22:03](https://news.ycombinator.com/item?id=48626866) - [GLM 5.2 vs. Opus](https://techstackups.com/comparisons/glm-5.2-vs-opus/)
+* [2026-06-22, 06:07:05](https://lobste.rs/s/uuyjxb/help_i_accidentally_wigglegram) - [help i accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
+* [2026-06-22, 05:38:40](https://news.ycombinator.com/item?id=48626137) - [Deno Desktop](https://docs.deno.com/runtime/desktop/)
+* [2026-06-22, 04:50:26](https://news.ycombinator.com/item?id=48625823) - [Danish privacy activist Lars Andersen raided by police](https://twitter.com/LarsAnders1620/status/2068208864747540516#m)
 * [2026-06-22, 03:49:35](https://lobste.rs/s/hhk5e0/memory_safe_inline_assembly) - [Memory Safe Inline Assembly](https://fil-c.org/inlineasm)
 * [2026-06-22, 03:48:00](https://tech.slashdot.org/story/26/06/22/028235/tiktok-shows-3x-more-ai-slop-than-youtube-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [TikTok Shows 3x More AI Slop Than YouTube, Report Finds](https://tech.slashdot.org/story/26/06/22/028235/tiktok-shows-3x-more-ai-slop-than-youtube-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-22, 03:19:48](https://lobste.rs/s/mi6osr/system_call_instrumentation_on_linux_x86) - [System call instrumentation on Linux/x86-64 using memory-indirect calls (in vain?), part one](https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result)
-* [2026-06-22, 03:09:22](https://news.ycombinator.com/item?id=48625192) - [The Flat Curve Society](https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b)
 * [2026-06-22, 02:47:00](https://soylentnews.org/article.pl?sid=26/06/20/0542204&amp;from=rss) - [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://soylentnews.org/article.pl?sid=26/06/20/0542204&amp;from=rss)
 * [2026-06-22, 02:08:18](https://news.ycombinator.com/item?id=48624782) - [Sakana Fugu](https://sakana.ai/fugu/)
 * [2026-06-22, 01:48:00](https://linux.slashdot.org/story/26/06/22/0144240/someone-forked-systemd-over-its-new-birth-date-field?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Someone Forked systemd Over Its New Birth Date Field](https://linux.slashdot.org/story/26/06/22/0144240/someone-forked-systemd-over-its-new-birth-date-field?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -108,7 +92,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-21, 21:29:43](https://news.ycombinator.com/item?id=48622778) - [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
 * [2026-06-21, 21:23:13](https://news.ycombinator.com/item?id=48622731) - [PowerFox Browser](https://powerfox.jazzzny.me/)
 * [2026-06-21, 21:10:32](https://news.ycombinator.com/item?id=48622626) - [Everything is logarithms](https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html)
-* [2026-06-21, 21:05:37](https://news.ycombinator.com/item?id=48622590) - [Show HN: Recall – fully-local project memory for Claude Code](https://github.com/raiyanyahya/recall)
+* [2026-06-21, 21:05:37](https://news.ycombinator.com/item?id=48622590) - [Show HN: Recall – Local project memory for Claude Code](https://github.com/raiyanyahya/recall)
 * [2026-06-21, 21:01:35](https://lobste.rs/s/hitg0z/loupe_privacy_focused_ios_app_raises) - [loupe: A privacy-focused iOS app that raises awareness about what native apps can see](https://github.com/mysk-research/loupe)
 * [2026-06-21, 20:56:01](https://news.ycombinator.com/item?id=48622518) - [There is minimal downside to switching to open models](https://www.marble.onl/posts/cancel_claude.html)
 * [2026-06-21, 20:54:00](https://news.slashdot.org/story/26/06/21/2052213/uk-official-promises-statements-around-vpns-and-further-teen-restrictions-on-chatbots-and-social-media?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [UK Official Promises Statements &apos;Around VPNs&apos; and Further Teen Restrictions on Chatbots and Social Media](https://news.slashdot.org/story/26/06/21/2052213/uk-official-promises-statements-around-vpns-and-further-teen-restrictions-on-chatbots-and-social-media?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -120,7 +104,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-21, 18:12:00](https://linux.slashdot.org/story/26/06/21/1810200/after-six-years-of-work-and-over-360-patches-linux-72-finally-removes-bug-prone-strncpy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [After Six Years Of Work and Over 360 Patches, Linux 7.2 Finally Removes Bug-Prone strncpy](https://linux.slashdot.org/story/26/06/21/1810200/after-six-years-of-work-and-over-360-patches-linux-72-finally-removes-bug-prone-strncpy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-21, 17:17:00](https://soylentnews.org/article.pl?sid=26/06/20/0538252&amp;from=rss) - [Bruce Scheier&apos;s Thoughts on Banning AI Models](https://soylentnews.org/article.pl?sid=26/06/20/0538252&amp;from=rss)
 * [2026-06-21, 17:01:59](https://lobste.rs/s/dus74u/remote_work_increases_social_isolation) - [Remote work increases social isolation](https://www.science.org/doi/10.1126/science.aec7671)
-* [2026-06-21, 17:00:28](https://news.ycombinator.com/item?id=48620504) - [Wildcard (YC W25) is hiring an applied ML engineer](https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer)
 * [2026-06-21, 16:41:21](https://news.ycombinator.com/item?id=48620342) - [The minimum viable unit of saleable software](https://brandur.org/minimum-viable-unit)
 * [2026-06-21, 16:34:00](https://yro.slashdot.org/story/26/06/21/065246/us-bill-would-mandate-ai-chip-location-tracking-to-thwart-china-and-other-adversaries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Bill Would Mandate AI Chip Location Tracking to Thwart China and Other Adversaries](https://yro.slashdot.org/story/26/06/21/065246/us-bill-would-mandate-ai-chip-location-tracking-to-thwart-china-and-other-adversaries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-21, 16:08:23](https://news.ycombinator.com/item?id=48620090) - [Prefer duplication over the wrong abstraction (2016)](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
@@ -147,8 +130,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-21, 02:56:00](https://soylentnews.org/article.pl?sid=26/06/20/0140256&amp;from=rss) - [Red Hat Gives Ubuntu A Bootc Up The Backside At Canonical Shindig](https://soylentnews.org/article.pl?sid=26/06/20/0140256&amp;from=rss)
 * [2026-06-21, 01:42:03](https://lobste.rs/s/zng304/sockmap_tcp_splicing_future_2019) - [SOCKMAP - TCP splicing of the future (2019)](https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/)
 * [2026-06-21, 01:34:00](https://games.slashdot.org/story/26/06/21/0027229/gamers-sue-playstation-its-not-clear-theyre-selling-licenses-rather-than-ownership-of-games?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Gamers Sue PlayStation:  It&apos;s Not Clear They&apos;re Selling Licenses Rather Than Ownership of Games](https://games.slashdot.org/story/26/06/21/0027229/gamers-sue-playstation-its-not-clear-theyre-selling-licenses-rather-than-ownership-of-games?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-20, 23:31:56](https://news.ycombinator.com/item?id=48614087) - [Show HN: HN Game Stories – mini-documentary of games that hit the front page](https://video.intellios.ai)
-* [2026-06-20, 23:23:00](https://it.slashdot.org/story/26/06/20/2321236/how-millions-of-digital-home-devices-are-secretly-powering-cyberattacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Millions of Digital Home Devices Are Secretly Powering Cyberattacks](https://it.slashdot.org/story/26/06/20/2321236/how-millions-of-digital-home-devices-are-secretly-powering-cyberattacks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-20, 22:58:59](https://lobste.rs/s/m36bsm/wholesale_plagiarism_obscure_sorrows) - [The Wholesale Plagiarism of Obscure Sorrows](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/)
 * [2026-06-20, 22:14:00](https://soylentnews.org/article.pl?sid=26/06/20/0135207&amp;from=rss) - [Where to Find the Colors Your Screen Can’t Show You](https://soylentnews.org/article.pl?sid=26/06/20/0135207&amp;from=rss)
 * [2026-06-20, 18:47:52](https://lobste.rs/s/s1ep1w/is_anyone_still_using_emacs) - [Is anyone still using Emacs?](https://jmmv.dev/2026/06/is-anyone-still-using-emacs.html)
@@ -157,14 +138,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-20, 13:18:28](https://news.ycombinator.com/item?id=48609054) - [Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf](https://the-criterion-closet.vercel.app)
 * [2026-06-20, 12:45:00](https://soylentnews.org/article.pl?sid=26/06/19/1228210&amp;from=rss) - [Critical Copilot Vulnerability Allowed Hackers to Steal 2FA Code From Users](https://soylentnews.org/article.pl?sid=26/06/19/1228210&amp;from=rss)
 * [2026-06-20, 10:02:17](https://lobste.rs/s/gdwaqt/town_square_community_deserves) - [Town Square, the community deserves connection](https://cauenapier.com/blog/town-square-the-community-deserves-connection/)
-* [2026-06-20, 08:36:23](https://lobste.rs/s/dswkwr/meet_alice_alice_is_impatient) - [Meet Alice. Alice is impatient](https://brooker.co.za/blog/2026/06/19/waiting.html)
 * [2026-06-20, 07:57:00](https://soylentnews.org/article.pl?sid=26/06/19/1219225&amp;from=rss) - [The Challenges of Typesetting Arabic Script](https://soylentnews.org/article.pl?sid=26/06/19/1219225&amp;from=rss)
+* [2026-06-20, 05:43:54](https://news.ycombinator.com/item?id=48606654) - [Lisp in the Rust Type System](https://github.com/playX18/lisp-in-types/)
 * [2026-06-20, 03:29:19](https://news.ycombinator.com/item?id=48606096) - [Memory Safe Inline Assembly](https://fil-c.org/inlineasm)
 * [2026-06-20, 02:14:00](https://soylentnews.org/article.pl?sid=26/06/19/1216220&amp;from=rss) - [NASA Management Wants a Word and Won&apos;t Say Why](https://soylentnews.org/article.pl?sid=26/06/19/1216220&amp;from=rss)
 * [2026-06-20, 01:55:16](https://news.ycombinator.com/item?id=48605561) - [Help I accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
 * [2026-06-20, 00:42:50](https://news.ycombinator.com/item?id=48605085) - [Efficient C++ Programming for Modern C++ CPUs, Chapter 4/part 2](https://6it.dev/blog/infographics-operation-costs-in-cpu-clock-cycles-take-2-80736)
 * [2026-06-19, 21:31:00](https://soylentnews.org/article.pl?sid=26/06/19/1212211&amp;from=rss) - [The FBI Built its Own Replica Small Town to Simulate Real-World Cyberattacks](https://soylentnews.org/article.pl?sid=26/06/19/1212211&amp;from=rss)
 * [2026-06-19, 16:46:00](https://soylentnews.org/article.pl?sid=26/06/19/1210211&amp;from=rss) - [Cockroaches Scurry Around With Thousands of Pieces of Bacterial Genomes](https://soylentnews.org/article.pl?sid=26/06/19/1210211&amp;from=rss)
+* [2026-06-19, 15:54:23](https://news.ycombinator.com/item?id=48599998) - [Munich 1991: The Roots of the Current AI Boom](https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html)
 * [2026-06-19, 12:00:00](https://soylentnews.org/article.pl?sid=26/06/19/120238&amp;from=rss) - [A Chinese Rocket Breaks Apart Dangerously Close to the Starlink Constellation](https://soylentnews.org/article.pl?sid=26/06/19/120238&amp;from=rss)
 * [2026-06-18, 23:24:00](https://soylentnews.org/article.pl?sid=26/06/17/1523237&amp;from=rss) - [Linux Kernel 7.1 Sends Intel 486 Support To Silicon Heaven](https://soylentnews.org/article.pl?sid=26/06/17/1523237&amp;from=rss)
 * [2026-06-18, 18:45:03](https://news.ycombinator.com/item?id=48589687) - [How I play video games with spinal muscular atrophy](https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/)
@@ -172,4 +154,3 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-18, 13:53:00](https://soylentnews.org/article.pl?sid=26/06/17/1517231&amp;from=rss) - [Heart Protection From COVID Shots Remains Amid Updates, Study Finds](https://soylentnews.org/article.pl?sid=26/06/17/1517231&amp;from=rss)
 * [2026-06-18, 09:08:00](https://soylentnews.org/article.pl?sid=26/06/17/1140258&amp;from=rss) - [France&apos;s Digital Sovereignty Push is Struggling to Escape the Microsoft Gravity Well](https://soylentnews.org/article.pl?sid=26/06/17/1140258&amp;from=rss)
 * [2026-06-18, 04:24:00](https://soylentnews.org/article.pl?sid=26/06/17/0045227&amp;from=rss) - [Why Not yserver? It’s Xserver, But Rust-y.](https://soylentnews.org/article.pl?sid=26/06/17/0045227&amp;from=rss)
-* [2026-06-18, 00:36:52](https://news.ycombinator.com/item?id=48579013) - [HPV jabs cut risk of dying from cervical cancer before 30 to almost zero](https://www.theguardian.com/society/2026/jun/17/hpv-jabs-reduce-risk-dying-cervical-cancer-before-30-zero-study-finds)
