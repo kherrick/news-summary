@@ -1,38 +1,34 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Robotics
+## Space and Technology Advances
 
-* [GM Installs Robots At Flagship EV Factory After Laying Off 1,300 Workers](https://hardware.slashdot.org/story/26/06/23/0059203/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=48640196))
+* [NASA's Nancy Grace Roman Space Telescope Arrives In Florida](https://science.slashdot.org/story/26/06/23/015233/nasas-nancy-grace-roman-space-telescope-arrives-in-florida?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NASA's Nancy Grace Roman Space Telescope arrives in Florida in preparation for its mission, marking a significant milestone for space exploration. [Comments](https://science.slashdot.org/story/26/06/23/015233/nasas-nancy-grace-roman-space-telescope-arrives-in-florida?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Microsoft Accidentally Breaks Replying to an Email on Outlook](https://it.slashdot.org/story/26/06/22/2048235/microsoft-accidentally-breaks-replying-to-an-email-on-outlook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=48638886))
+* [Moebius: 0.2B image inpainting model with 10B-level performance](https://hustvl.github.io/Moebius/) - Introducing Moebius, an innovative image inpainting model that achieves 10B-level performance while utilizing a smaller footprint. [Comments](https://news.ycombinator.com/item?id=48630171).
 
-* [Valve Will Finally Let You Build Your Own Steam Machine With SteamOS For Desktop](https://games.slashdot.org/story/26/06/22/1922207/valve-will-finally-let-you-build-your-own-steam-machine-with-steamos-for-desktop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=48636125))
+* [2000 Retired Google Pixel Phones Get a Second Life As a Private Cloud](https://hardware.slashdot.org/story/26/06/22/0348249/2000-retired-google-pixel-phones-get-a-second-life-as-a-private-cloud?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A group uses 2,000 retired Google Pixel phones to create a private cloud, showcasing creative recycling of outdated technology. [Comments](https://hardware.slashdot.org/story/26/06/22/0348249/2000-retired-google-pixel-phones-get-a-second-life-as-a-private-cloud?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-## Artificial Intelligence Developments
+* [OpenMW 0.51.0 Released](https://openmw.org/2026/openmw-0-51-0-released/) - The release of OpenMW 0.51.0 excites fans of this open-source reimplementation of the game engine for Morrowind. [Comments](https://lobste.rs/s/uz2qia/openmw_0_51_0_released).
 
-* [Google Invests $75 Million In A24 To Develop AI-Powered Filmmaking Tools](https://entertainment.slashdot.org/story/26/06/22/196207/google-invests-75-million-in-a24-to-develop-ai-powered-filmmaking-tools?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=48634803))
+## Policy and Social Impact
 
-* [AI Law Firm Wins UK Court Case For First Time](https://yro.slashdot.org/story/26/06/22/1657204/ai-law-firm-wins-uk-court-case-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=48632884))
+* [Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040](https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509) - The Canadian government outlines plans for a "nuclear renaissance" with a focus on building nuclear reactors to meet future energy demands. [Comments](https://news.ycombinator.com/item?id=48634585).
 
-* [Several US States Bet That AI Can Solve Their Prison Recidivism Crisis](https://news.slashdot.org/story/26/06/21/2340231/several-us-states-bet-that-ai-can-solve-their-prison-recidivism-crisis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://lobste.rs/s/xhpauz/p99_0ms_autocomplete_for_240_million))
+* [AI Law Firm Wins UK Court Case For First Time](https://yro.slashdot.org/story/26/06/22/1657204/ai-law-firm-wins-uk-court-case-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A UK court case is won by an AI law firm, highlighting innovations in legal services. [Comments](https://yro.slashdot.org/story/26/06/22/1657204/ai-law-firm-wins-uk-court-case-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-## Cybersecurity and Technology Challenges
+## Quirky and Experimental Innovations
 
-* [Critical Copilot Vulnerability Allowed Hackers to Steal 2FA Code From Users](https://soylentnews.org/article.pl?sid=26/06/19/1228210&amp;from=rss) ([comments](https://news.ycombinator.com/item?id=48605561))
+* [Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason](https://github.com/imtomt/ymawky/tree/linux) - A fun, quirky showcase of a pure ARM64 assembly web server with CGI support on Linux. [Comments](https://news.ycombinator.com/item?id=48640278).
 
-* [Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed](https://ipvm.com/reports/police-chiefs-track) ([comments](https://news.ycombinator.com/item?id=48634694))
+* [Optocam Zero: a Pi Zero based digital camera made using off the shelf components](https://github.com/dorukkumkumoglu/optocamzero) - A DIY digital camera built using Pi Zero and readily available parts, underscoring the potential of creativity in hardware projects. [Comments](https://news.ycombinator.com/item?id=48634778).
 
-* [The FBI Built its Own Replica Small Town to Simulate Real-World Cyberattacks](https://soylentnews.org/article.pl?sid=26/06/19/1212211&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/19/120238&amp;from=rss))
+## Corporate and Industry Developments
 
-* [TikTok Shows 3x More AI Slop Than YouTube, Report Finds](https://tech.slashdot.org/story/26/06/22/028235/tiktok-shows-3x-more-ai-slop-than-youtube-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://lobste.rs/s/dh6o8k/chesterton_s_middle_finger))
+* [GM Installs Robots At Flagship EV Factory After Laying Off 1,300 Workers](https://hardware.slashdot.org/story/26/06/23/0059203/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - GM has replaced 1,300 employees with robots at its flagship EV factory, marking a controversial move towards automation. [Comments](https://hardware.slashdot.org/story/26/06/23/0059203/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-## Fascinating Innovations
+* [Google Invests $75 Million In A24 To Develop AI-Powered Filmmaking Tools](https://entertainment.slashdot.org/story/26/06/22/196207/google-invests-75-million-in-a24-to-develop-ai-powered-filmmaking-tools?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google partners with film studio A24 to innovate the film industry using AI-powered tools. [Comments](https://entertainment.slashdot.org/story/26/06/22/196207/google-invests-75-million-in-a24-to-develop-ai-powered-filmmaking-tools?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Canyon HUD helmet for road riding](https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/) ([comments](https://news.ycombinator.com/item?id=48609129))
-
-* [2,000 Retired Google Pixel Phones Get a Second Life As a Private Cloud](https://hardware.slashdot.org/story/26/06/22/0348249/2000-retired-google-pixel-phones-get-a-second-life-as-a-private-cloud?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://lobste.rs/s/12jy9c/what_are_you_doing_this_week))
-
-* [PostmarketOS v26.06 (Alpen Avocado) released](https://postmarketos.org/blog/2026/06/21/v26.06-release/) ([comments](https://lobste.rs/s/kn7fi8/postmarketos_v26_06_alpen_avocado))
+* [Valve Will Finally Let You Build Your Own Steam Machine With SteamOS For Desktop](https://games.slashdot.org/story/26/06/22/1922207/valve-will-finally-let-you-build-your-own-steam-machine-with-steamos-for-desktop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Valve unveils plans to provide options for building custom Steam Machines, appealing to gaming enthusiasts. [Comments](https://games.slashdot.org/story/26/06/22/1922207/valve-will-finally-let-you-build-your-own-steam-machine-with-steamos-for-desktop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
 ---
 
@@ -59,15 +55,24 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-06-23, 07:03:00](https://soylentnews.org/article.pl?sid=26/06/22/034203&amp;from=rss) - [Think That Conversation Will be Boring? Science Says Think Again](https://soylentnews.org/article.pl?sid=26/06/22/034203&amp;from=rss)
+* [2026-06-23, 07:00:00](https://science.slashdot.org/story/26/06/23/015233/nasas-nancy-grace-roman-space-telescope-arrives-in-florida?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA&apos;s Nancy Grace Roman Space Telescope Arrives In Florida](https://science.slashdot.org/story/26/06/23/015233/nasas-nancy-grace-roman-space-telescope-arrives-in-florida?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-23, 06:33:52](https://news.ycombinator.com/item?id=48641160) - [Ask HN: Anthropic banned me from using Claude Code and I don&apos;t know what to do](https://news.ycombinator.com/item?id=48641160)
+* [2026-06-23, 06:05:37](https://news.ycombinator.com/item?id=48640974) - [The new HTTP QUERY method explained](https://kreya.app/blog/new-http-query-method-explained/)
+* [2026-06-23, 05:01:01](https://lobste.rs/s/czrkxh/blobly) - [Blobly](https://blobly.medv.io/)
+* [2026-06-23, 04:28:14](https://news.ycombinator.com/item?id=48640278) - [Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason](https://github.com/imtomt/ymawky/tree/linux)
 * [2026-06-23, 04:15:04](https://news.ycombinator.com/item?id=48640196) - [Will It Mythos?](https://swelljoe.com/post/will-it-mythos/)
 * [2026-06-23, 03:30:00](https://hardware.slashdot.org/story/26/06/23/0059203/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GM Installs Robots At Flagship EV Factory After Laying Off 1,300 Workers](https://hardware.slashdot.org/story/26/06/23/0059203/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-23, 02:28:00](https://news.ycombinator.com/item?id=48639434) - [Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models](https://arxiv.org/abs/2606.03748)
 * [2026-06-23, 02:22:00](https://soylentnews.org/article.pl?sid=26/06/22/029235&amp;from=rss) - [Ozempic Literally Came From a Monster – And It&apos;s Not Alone](https://soylentnews.org/article.pl?sid=26/06/22/029235&amp;from=rss)
 * [2026-06-23, 02:03:34](https://lobste.rs/s/umm2jh/tale_two_path_separators_2021) - [A tale of two path separators (2021)](https://alexwlchan.net/2021/slashes/)
 * [2026-06-23, 02:01:25](https://news.ycombinator.com/item?id=48639240) - [VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140)
 * [2026-06-23, 01:54:38](https://news.ycombinator.com/item?id=48639184) - [1,700 free online courses from top universities](https://www.openculture.com/freeonlinecourses)
 * [2026-06-23, 01:52:20](https://news.ycombinator.com/item?id=48639165) - [An Introduction to YOLO26](https://blog.roboflow.com/yolo26/)
+* [2026-06-23, 01:36:08](https://news.ycombinator.com/item?id=48639063) - [OpenAI DayBreak – GPT-5.5-Cyber](https://openai.com/index/daybreak-securing-the-world/)
 * [2026-06-23, 01:15:05](https://news.ycombinator.com/item?id=48638886) - [In praise of memcached](https://jchri.st/blog/in-praise-of-memcached/)
 * [2026-06-22, 23:00:00](https://it.slashdot.org/story/26/06/22/2048235/microsoft-accidentally-breaks-replying-to-an-email-on-outlook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Accidentally Breaks Replying To an Email On Outlook](https://it.slashdot.org/story/26/06/22/2048235/microsoft-accidentally-breaks-replying-to-an-email-on-outlook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-22, 22:31:20](https://lobste.rs/s/nepr0y/systemd_bsod_service) - [systemd-bsod.service](https://www.freedesktop.org/software/systemd/man/257/systemd-bsod.service.html)
 * [2026-06-22, 22:25:06](https://lobste.rs/s/luosjw/fully_local_voice_assistant_setup) - [A fully local voice assistant setup](https://blog.platypush.tech/article/Local-voice-assistant)
 * [2026-06-22, 22:00:00](https://it.slashdot.org/story/26/06/22/2039221/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Following User Outcry, AMD Reinstates Memory Encryption In Consumer CPUs](https://it.slashdot.org/story/26/06/22/2039221/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-22, 21:37:00](https://soylentnews.org/article.pl?sid=26/06/21/2032230&amp;from=rss) - [Non-x86 Servers Now Nearly Half the Market](https://soylentnews.org/article.pl?sid=26/06/21/2032230&amp;from=rss)
@@ -76,12 +81,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-22, 21:02:54](https://lobste.rs/s/zszeab/curious_history_invention_cmd_k_quick) - [The curious history the invention of the CMD+K quick switcher](https://ux.stackexchange.com/questions/153299/how-did-cmd-k-come-to-be-the-standard-shortcut-for-both-adding-a-hyperlink-and-o)
 * [2026-06-22, 21:00:51](https://news.ycombinator.com/item?id=48636125) - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
 * [2026-06-22, 21:00:00](https://games.slashdot.org/story/26/06/22/1922207/valve-will-finally-let-you-build-your-own-steam-machine-with-steamos-for-desktop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Valve Will Finally Let You Build Your Own Steam Machine With SteamOS For Desktop](https://games.slashdot.org/story/26/06/22/1922207/valve-will-finally-let-you-build-your-own-steam-machine-with-steamos-for-desktop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-22, 20:55:17](https://news.ycombinator.com/item?id=48636062) - [Job application asked for my SAT scores](https://mrmarket.lol/job-application-asked-for-my-sat-scores/)
 * [2026-06-22, 20:23:42](https://lobste.rs/s/wnlece/memory_man_who_put_red_green_squiggles) - [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451)
 * [2026-06-22, 20:07:06](https://lobste.rs/s/onfndb/reclassifying_dmarc_arc_as_historic) - [Reclassifying DMARC ARC as historic](https://datatracker.ietf.org/doc/draft-ietf-dmarc-arc-to-historic/)
 * [2026-06-22, 20:00:00](https://entertainment.slashdot.org/story/26/06/22/196207/google-invests-75-million-in-a24-to-develop-ai-powered-filmmaking-tools?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Invests $75 Million In A24 To Develop AI-Powered Filmmaking Tools](https://entertainment.slashdot.org/story/26/06/22/196207/google-invests-75-million-in-a24-to-develop-ai-powered-filmmaking-tools?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-22, 19:22:37](https://news.ycombinator.com/item?id=48634803) - [Japanese symbols that speak without words](https://arun.is/blog/japan-symbols/)
-* [2026-06-22, 19:21:00](https://news.ycombinator.com/item?id=48634787) - [British Columbia, Time Zones, and Postgres](https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes)
 * [2026-06-22, 19:19:55](https://news.ycombinator.com/item?id=48634778) - [Optocam Zero: a Pi Zero based digital camera made using off the shelf components](https://github.com/dorukkumkumoglu/optocamzero)
 * [2026-06-22, 19:13:46](https://news.ycombinator.com/item?id=48634694) - [Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed](https://ipvm.com/reports/police-chiefs-track)
 * [2026-06-22, 19:06:48](https://news.ycombinator.com/item?id=48634585) - [Canada plans &apos;nuclear renaissance&apos; with up to 10 reactors built by 2040](https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509)
@@ -99,7 +102,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-22, 15:00:00](https://games.slashdot.org/story/26/06/22/0337213/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ubisoft Co-Founder Claude Guillemot Dies In Plane Crash](https://games.slashdot.org/story/26/06/22/0337213/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-22, 14:02:16](https://lobste.rs/s/pifl3k/one_year_with_codeberg) - [One year with Codeberg](https://guix.gnu.org/en/blog/2026/one-year-with-codeberg/)
 * [2026-06-22, 13:53:02](https://news.ycombinator.com/item?id=48630171) - [Moebius: 0.2B image inpainting model with 10B-level performance](https://hustvl.github.io/Moebius/)
-* [2026-06-22, 13:43:38](https://news.ycombinator.com/item?id=48630029) - [Chevron signs 20-year power agreement with Microsoft for West Texas data center](https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center)
 * [2026-06-22, 13:29:29](https://lobste.rs/s/kocnfd/web_browsers_on_pdas) - [Web Browsers on PDAs](https://vale.rocks/posts/pda-browsers)
 * [2026-06-22, 13:27:03](https://lobste.rs/s/rq2t8j/why_drawing_tablet_brands_won_t) - [Why Drawing Tablet Brands Won&apos;t Collaborate on Linux FLOSS Drivers](https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers)
 * [2026-06-22, 13:11:56](https://lobste.rs/s/12jy9c/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/12jy9c/what_are_you_doing_this_week)
@@ -118,21 +120,18 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-22, 07:34:00](https://news.slashdot.org/story/26/06/22/0255256/tutor-who-took-online-tests-for-124-students-jailed-for-three-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Tutor&apos; Who Took Online Tests for 124 Students Jailed for Three Years](https://news.slashdot.org/story/26/06/22/0255256/tutor-who-took-online-tests-for-124-students-jailed-for-three-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-22, 07:30:00](https://soylentnews.org/article.pl?sid=26/06/21/205254&amp;from=rss) - [Python Dev Saved From Disaster by Intuition...and AI](https://soylentnews.org/article.pl?sid=26/06/21/205254&amp;from=rss)
 * [2026-06-22, 06:07:05](https://lobste.rs/s/uuyjxb/help_i_accidentally_wigglegram) - [help i accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
-* [2026-06-22, 05:38:40](https://news.ycombinator.com/item?id=48626137) - [Deno Desktop](https://docs.deno.com/runtime/desktop/)
 * [2026-06-22, 03:48:00](https://tech.slashdot.org/story/26/06/22/028235/tiktok-shows-3x-more-ai-slop-than-youtube-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [TikTok Shows 3x More AI Slop Than YouTube, Report Finds](https://tech.slashdot.org/story/26/06/22/028235/tiktok-shows-3x-more-ai-slop-than-youtube-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-22, 02:47:00](https://soylentnews.org/article.pl?sid=26/06/20/0542204&amp;from=rss) - [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://soylentnews.org/article.pl?sid=26/06/20/0542204&amp;from=rss)
 * [2026-06-22, 01:48:00](https://linux.slashdot.org/story/26/06/22/0144240/someone-forked-systemd-over-its-new-birth-date-field?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Someone Forked systemd Over Its New Birth Date Field](https://linux.slashdot.org/story/26/06/22/0144240/someone-forked-systemd-over-its-new-birth-date-field?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-21, 23:27:00](https://hardware.slashdot.org/story/26/06/21/2324220/the-secret-revolution-in-battery-technology-3-d-printing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Secret Revolution in Battery Technology: 3-D Printing](https://hardware.slashdot.org/story/26/06/21/2324220/the-secret-revolution-in-battery-technology-3-d-printing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-21, 22:02:00](https://soylentnews.org/article.pl?sid=26/06/20/0543245&amp;from=rss) - [Chinese Fab SMIC&apos;s 7nm Metal Pitch Beats Intel 18A but Lags 38% on Density, Teardown Finds](https://soylentnews.org/article.pl?sid=26/06/20/0543245&amp;from=rss)
-* [2026-06-21, 19:57:17](https://lobste.rs/s/lbjdlo/what_s_advice_for_llm_poisoning_artwork) - [What&apos;s the advice for LLM poisoning of artwork these days?](https://lobste.rs/s/lbjdlo/what_s_advice_for_llm_poisoning_artwork)
 * [2026-06-21, 17:17:00](https://soylentnews.org/article.pl?sid=26/06/20/0538252&amp;from=rss) - [Bruce Scheier&apos;s Thoughts on Banning AI Models](https://soylentnews.org/article.pl?sid=26/06/20/0538252&amp;from=rss)
-* [2026-06-21, 15:08:44](https://lobste.rs/s/kn7fi8/postmarketos_v26_06_alpen_avocado) - [postmarketOS v26.06 (Alpen Avocado) released](https://postmarketos.org/blog/2026/06/21/v26.06-release/)
 * [2026-06-21, 12:29:00](https://soylentnews.org/article.pl?sid=26/06/20/0534212&amp;from=rss) - [NHS Palantir Claims Face Scrutiny After Data Suggests Uneven Results](https://soylentnews.org/article.pl?sid=26/06/20/0534212&amp;from=rss)
 * [2026-06-21, 07:42:00](https://soylentnews.org/article.pl?sid=26/06/20/0145259&amp;from=rss) - [Cyberattack Sees Crops Kept In The Ground](https://soylentnews.org/article.pl?sid=26/06/20/0145259&amp;from=rss)
+* [2026-06-21, 06:26:48](https://news.ycombinator.com/item?id=48616182) - [Improvements to Std:Format in C++26](https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/)
 * [2026-06-21, 02:56:00](https://soylentnews.org/article.pl?sid=26/06/20/0140256&amp;from=rss) - [Red Hat Gives Ubuntu A Bootc Up The Backside At Canonical Shindig](https://soylentnews.org/article.pl?sid=26/06/20/0140256&amp;from=rss)
 * [2026-06-21, 01:12:21](https://news.ycombinator.com/item?id=48614715) - [Polymarket has flooded social media with deceptive videos by paid creators](https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2)
-* [2026-06-20, 23:33:19](https://news.ycombinator.com/item?id=48614097) - [Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times](https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/)
 * [2026-06-20, 22:14:00](https://soylentnews.org/article.pl?sid=26/06/20/0135207&amp;from=rss) - [Where to Find the Colors Your Screen Can’t Show You](https://soylentnews.org/article.pl?sid=26/06/20/0135207&amp;from=rss)
+* [2026-06-20, 17:44:50](https://news.ycombinator.com/item?id=48611251) - [How Lume Works: The Retrieval Primitives](https://deepbluedynamics.com/blog/lume-retrieval-primitives)
 * [2026-06-20, 17:30:00](https://soylentnews.org/article.pl?sid=26/06/19/1232209&amp;from=rss) - [NASA Said Nyet to Roscosmos Plan to Cut Into Leaky ISS Segment](https://soylentnews.org/article.pl?sid=26/06/19/1232209&amp;from=rss)
 * [2026-06-20, 13:33:37](https://news.ycombinator.com/item?id=48609129) - [Canyon HUD helmet for road riding](https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/)
 * [2026-06-20, 12:45:00](https://soylentnews.org/article.pl?sid=26/06/19/1228210&amp;from=rss) - [Critical Copilot Vulnerability Allowed Hackers to Steal 2FA Code From Users](https://soylentnews.org/article.pl?sid=26/06/19/1228210&amp;from=rss)
