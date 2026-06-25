@@ -1,54 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Cybersecurity Developments
+## Open Source and Software Developments
 
-* [Anthropic Says Alibaba Must Be Punished For Largest Claude Cloning Attack](https://yro.slashdot.org/story/26/06/25/1810226/anthropic-says-alibaba-must-be-punished-for-largest-claude-cloning-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Anthropic accuses Alibaba of being behind an unprecedented AI cloning attack and calls for punitive measures. [Comments](https://yro.slashdot.org/comments.pl?sid=26/06/25/1810226)
+* [Announcing Silk: a silky smooth fiber runtime for ClickHouse](https://clickhouse.com/blog/silk) ([Article](https://lobste.rs/s/pd1ftk/announcing_silk_silky_smooth_fiber), [Comments](https://lobste.rs/s/pd1ftk/announcing_silk_silky_smooth_fiber))
 
-* [LastPass Says Hackers Stole Customer Support Case Data During Klue Breach](https://yro.slashdot.org/story/26/06/25/1816247/lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - LastPass discloses yet another data breach where customer support data was compromised. [Comments](https://yro.slashdot.org/comments.pl?sid=26/06/25/1816247)
+* [Flatpak.org Rewrite](https://blog.jimmac.eu/posts/flatpak-org-zola/) ([Article](https://lobste.rs/s/fvbrhb/flatpak_org_rewrite), [Comments](https://lobste.rs/s/fvbrhb/flatpak_org_rewrite))
 
-* [Stripe, Anthropic, and OpenAI Are Backing Effort To Stop Respiratory Infections](https://science.slashdot.org/story/26/06/24/1710253/stripe-anthropic-and-openai-are-backing-effort-to-stop-respiratory-infections?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Prominent tech companies unite to fund efforts aimed at combating respiratory infections. [Comments](https://science.slashdot.org/comments.pl?sid=26/06/24/1710253)
+* [Zig's new bitCast semantics and LLVM back end improvements](https://ziglang.org/devlog/2026/#2026-06-25) ([Article](https://news.ycombinator.com/item?id=48673825), [Comments](https://news.ycombinator.com/item?id=48673825))
 
-* [Meta Pauses Employee-Tracking Program Following Internal Data Leak](https://yro.slashdot.org/story/26/06/24/216239/meta-pauses-employee-tracking-program-following-internal-data-leak?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Meta halts a polarizing employee-tracking project after internal data leaks fuel privacy concerns. [Comments](https://yro.slashdot.org/comments.pl?sid=26/06/24/216239)
+* [tropius: detect AI tropes in prose](https://tangled.org/desertthunder.dev/tropius) ([Article](https://lobste.rs/s/schop7/tropius_detect_ai_tropes_prose), [Comments](https://lobste.rs/s/schop7/tropius_detect_ai_tropes_prose))
 
-* [Cyberattack Sees Crops Kept In The Ground](https://soylentnews.org/article.pl?sid=26/06/20/0145259&amp;from=rss) - A cyberattack disrupts agricultural logistics, delaying crop harvesting. [Comments](https://soylentnews.org/comments.pl?sid=26/06/20/0145259)
+* [Show HN: I made Google Trends for Hacker News by indexing 18 years of comments](https://hackernewstrends.com) ([Article](https://news.ycombinator.com/item?id=48673671), [Comments](https://news.ycombinator.com/item?id=48673671))
 
-## Innovations in Technology
+## Artificial Intelligence and Technology
 
-* [IBM debuts sub-1 nanometer chip technology](https://news.ycombinator.com/item?id=48674967) - IBM reveals groundbreaking chip technology, offering unprecedented processing power. [Comments](https://news.ycombinator.com/item?id=48674967)
+* [Linux Foundation Launches Akrites To Coordinate AI-Driven Open Source Security](https://linux.slashdot.org/story/26/06/25/2031228/linux-foundation-launches-akrites-to-coordinate-ai-driven-open-source-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Article](https://linux.slashdot.org/story/26/06/25/2031228/linux-foundation-launches-akrites-to-coordinate-ai-driven-open-source-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed), [Comments](https://linux.slashdot.org/story/26/06/25/2031228))
 
-* [NASA Rover Detects Potential Signatures of Ancient Microbial Life On Mars](https://science.slashdot.org/story/26/06/25/0516211/nasa-rover-detects-potential-signatures-of-ancient-microbial-life-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NASA’s Mars rover uncovers potential microbe-related signals, hinting at ancient life on the Red Planet. [Comments](https://science.slashdot.org/comments.pl?sid=26/06/25/0516211)
+* [Ford Rehires 350 Engineers After AI Fails To Preserve Expertise or Train Juniors](https://slashdot.org/story/26/06/25/1624241/ford-rehires-350-engineers-after-ai-fails-to-preserve-expertise-or-train-juniors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Article](https://slashdot.org/story/26/06/25/1624241), [Comments](https://slashdot.org/story/26/06/25/1624241))
 
-* [Nvidia&apos;s New AI Racks Run on 45°C Liquid Cooling](https://soylentnews.org/article.pl?sid=26/06/25/0339211&amp;from=rss) - Nvidia reveals new AI server technology featuring advanced liquid cooling for efficiency. [Comments](https://soylentnews.org/comments.pl?sid=26/06/25/0339211)
+* [Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/) ([Article](https://news.ycombinator.com/item?id=48679007), [Comments](https://news.ycombinator.com/item?id=48679007))
 
-* [Apple raises prices of MacBooks, iPads](https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/) - Apple increases prices for MacBooks and iPads due to rising memory production costs. [Comments](https://news.ycombinator.com/item?id=48672732)
+## Corporate and Industry News
 
-* [Half-Life 2 in a Browser](https://hl2.slqnt.dev/) - A coding marvel brings the classic 'Half-Life 2' game to web browsers. [Comments](https://news.ycombinator.com/item?id=48669534)
+* [Apple Raises Prices On Macs, iPads, and More By Hundreds of Dollars](https://news.slashdot.org/story/26/06/25/1821255/apple-raises-prices-on-macs-ipads-and-more-by-hundreds-of-dollars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Article](https://news.slashdot.org/story/26/06/25/1821255), [Comments](https://news.slashdot.org/story/26/06/25/1821255))
 
-## Tools and Open Source Projects
+* [OpenAI Leans Toward Waiting Until Next Year for IPO](https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html) ([Article](https://news.ycombinator.com/item?id=48678873), [Comments](https://news.ycombinator.com/item?id=48678873))
 
-* [Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](https://github.com/inkeep/open-knowledge) - Introducing OpenKnowledge, an open-source AI-enhanced productivity tool for managing notes and ideas. [Comments](https://news.ycombinator.com/item?id=48675435)
+* [Anthropic Says Alibaba Must Be Punished For Largest Claude Cloning Attack](https://yro.slashdot.org/story/26/06/25/1810226/anthropic-says-alibaba-must-be-punished-for-largest-claude-cloning-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Article](https://yro.slashdot.org/story/26/06/25/1810226), [Comments](https://yro.slashdot.org/story/26/06/25/1810226))
 
-* [Show HN: I made Google Trends for Hacker News by indexing 18 years of comments](https://hackernewstrends.com) - Explore HN trends with a new database indexing two decades of comment history. [Comments](https://news.ycombinator.com/item?id=48673671)
+## Historical and Scientific Discoveries
 
-* [Deno Desktop](https://ankursethi.com/blog/deno-desktop/) - A desktop runtime for building cross-platform desktop apps using Deno. [Comments](https://lobste.rs/s/elhkrh/deno_desktop)
+* [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll) ([Article](https://news.ycombinator.com/item?id=48675179), [Comments](https://news.ycombinator.com/item?id=48675179))
 
-* [Are We GlobalShortcuts Yet?](https://areweglobalshortcutsyet.github.io) - Progress tracker for global keyboard shortcuts implementation across operating systems. [Comments](https://lobste.rs/s/ebqmzl/are_we_globalshortcuts_yet)
+* [NASA Rover Detects Potential Signatures of Ancient Microbial Life On Mars](https://science.slashdot.org/story/26/06/25/0516211/nasa-rover-detects-potential-signatures-of-ancient-microbial-life-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Article](https://science.slashdot.org/story/26/06/25/0516211), [Comments](https://science.slashdot.org/story/26/06/25/0516211))
 
-## Historical Advancements and Insights
+* [How physicists track and trap the elusive neutrino](https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/) ([Article](https://news.ycombinator.com/item?id=48674619), [Comments](https://news.ycombinator.com/item?id=48674619))
 
-* [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll) - Researchers achieve a major breakthrough by decoding a complete ancient scroll using advanced technology. [Comments](https://news.ycombinator.com/item?id=48675179)
+## Creative and Niche Innovations
 
-* [Die Analysis of the 8087 Math Coprocessor&apos;s Fast Bit Shifter](https://soylentnews.org/article.pl?sid=26/06/25/0341243&amp;from=rss) - A detailed analysis uncovers the intricate design of the 8087 coprocessor’s bit-shifting mechanism. [Comments](https://soylentnews.org/comments.pl?sid=26/06/25/0341243)
+* [Can I texture 3D objects with oil paint?](https://www.youtube.com/watch?v=fdI1ZJtAJmI) ([Article](https://lobste.rs/s/hxkgmg/can_i_texture_3d_objects_with_oil_paint), [Comments](https://lobste.rs/s/hxkgmg/can_i_texture_3d_objects_with_oil_paint))
 
-* [Early adversity leaves lasting molecular imprint across the body: primate study](https://medicalxpress.com/news/2026-06-early-life-adversity-molecular-imprint.html) - Study reveals how early life stress affects an organism on a molecular level across its lifespan. [Comments](https://news.ycombinator.com/item?id=48615277)
+* [The Xteink X4 E-Ink Reader](https://blog.omgmog.net/post/xteink-x4-e-ink-reader/) ([Article](https://lobste.rs/s/oyurwh/xteink_x4_e_ink_reader), [Comments](https://lobste.rs/s/oyurwh/xteink_x4_e_ink_reader))
 
-* [AOL was down (1996) (2026)](https://ngrok.com/blog/aol-was-down-1996) - A retrospective on a significant moment in early internet history. [Comments](https://lobste.rs/s/0qfxpj/aol_was_down_1996_2026)
+* [Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](https://github.com/inkeep/open-knowledge) ([Article](https://news.ycombinator.com/item?id=48675435), [Comments](https://news.ycombinator.com/item?id=48675435))
 
-## Science and Discovery
-
-* [How physicists track and trap the elusive neutrino](https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/) - Delving into the remarkable efforts scientists make to capture one of the most elusive particles. [Comments](https://news.ycombinator.com/item?id=48674619)
-
-* [Voyager 1 Will Cross The 1 Light-Day Threshold On November 18, 2026](https://soylentnews.org/article.pl?sid=26/06/23/0941229&amp;from=rss) - Voyager 1 nearing a key milestone in its interstellar journey. [Comments](https://soylentnews.org/comments.pl?sid=26/06/23/0941229)
+* [The Exhaustion of Talking to a Tool](https://ohadravid.github.io/posts/2026-06-tool-talking/) ([Article](https://lobste.rs/s/csgzki/exhaustion_talking_tool), [Comments](https://lobste.rs/s/csgzki/exhaustion_talking_tool))
 
 ---
 
@@ -75,8 +71,17 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-06-25, 21:41:27](https://lobste.rs/s/pd1ftk/announcing_silk_silky_smooth_fiber) - [Announcing Silk: a silky smooth fiber runtime for ClickHouse](https://clickhouse.com/blog/silk)
+* [2026-06-25, 21:22:59](https://news.ycombinator.com/item?id=48679385) - [Migrating from Proxmox to NixOS and Incus](https://www.nijho.lt/post/proxmox-to-nixos/)
+* [2026-06-25, 21:00:00](https://linux.slashdot.org/story/26/06/25/2031228/linux-foundation-launches-akrites-to-coordinate-ai-driven-open-source-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linux Foundation Launches Akrites To Coordinate AI-Driven Open Source Security](https://linux.slashdot.org/story/26/06/25/2031228/linux-foundation-launches-akrites-to-coordinate-ai-driven-open-source-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-25, 20:50:02](https://news.ycombinator.com/item?id=48679007) - [Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/)
+* [2026-06-25, 20:36:05](https://news.ycombinator.com/item?id=48678873) - [OpenAI Leans Toward Waiting Until Next Year for IPO](https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html)
+* [2026-06-25, 20:33:37](https://news.ycombinator.com/item?id=48678852) - [Om Malik, 1966-2026](https://om.co/2026/06/24/1966-2026/)
+* [2026-06-25, 20:27:23](https://lobste.rs/s/8soruc/echoes_ai_winter_netzhansa) - [Echoes of the AI Winter | netzhansa](https://netzhansa.com/echoes-of-the-ai-winter/)
+* [2026-06-25, 20:14:35](https://news.ycombinator.com/item?id=48678645) - [An oral history of Bank Python (2021)](https://calpaterson.com/bank-python.html)
+* [2026-06-25, 20:12:24](https://news.ycombinator.com/item?id=48678623) - [Parallel Parentheses Matching](https://williamdue.github.io/blog/parallel-parentheses-matching)
+* [2026-06-25, 20:00:00](https://news.slashdot.org/story/26/06/25/1821255/apple-raises-prices-on-macs-ipads-and-more-by-hundreds-of-dollars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Raises Prices On Macs, iPads, and More By Hundreds of Dollars](https://news.slashdot.org/story/26/06/25/1821255/apple-raises-prices-on-macs-ipads-and-more-by-hundreds-of-dollars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-25, 19:12:44](https://lobste.rs/s/y0sy74/oxide_rack_3d_explorer) - [Oxide Rack 3D Explorer](https://explorer.oxide.computer/)
-* [2026-06-25, 19:08:28](https://lobste.rs/s/mfyfvq/limits_generalized_sync_ataxonomy) - [The Limits of Generalized Sync: ATaxonomy of Architectures, Trade‑offs, and Decision Factors](https://aaltodoc.aalto.fi/server/api/core/bitstreams/d485ca46-ef01-41bc-ae4c-d468afb209a8/content)
 * [2026-06-25, 19:00:00](https://yro.slashdot.org/story/26/06/25/1816247/lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [LastPass Says Hackers Stole Customer Support Case Data During Klue Breach](https://yro.slashdot.org/story/26/06/25/1816247/lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-25, 18:12:00](https://yro.slashdot.org/story/26/06/25/1810226/anthropic-says-alibaba-must-be-punished-for-largest-claude-cloning-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Says Alibaba Must Be Punished For Largest Claude Cloning Attack](https://yro.slashdot.org/story/26/06/25/1810226/anthropic-says-alibaba-must-be-punished-for-largest-claude-cloning-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-25, 17:54:00](https://soylentnews.org/article.pl?sid=26/06/25/0345250&amp;from=rss) - [Cory Doctorow on the Right — and Wrong — Way to Criticize AI](https://soylentnews.org/article.pl?sid=26/06/25/0345250&amp;from=rss)
@@ -87,7 +92,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-25, 16:17:24](https://lobste.rs/s/hh1fzr/pierre_zemb_from_clever_cloud_on) - [Pierre Zemb from Clever Cloud on FoundationDB](https://theconsensus.dev/p/2026/06/18/pierre-zemb-from-clever-cloud.html)
 * [2026-06-25, 16:04:46](https://news.ycombinator.com/item?id=48675435) - [Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](https://github.com/inkeep/open-knowledge)
 * [2026-06-25, 16:00:00](https://hardware.slashdot.org/story/26/06/25/0559247/micron-locks-in-historically-high-memory-prices-for-five-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Micron Locks In Historically High Memory Prices For Five Years](https://hardware.slashdot.org/story/26/06/25/0559247/micron-locks-in-historically-high-memory-prices-for-five-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-25, 15:59:54](https://news.ycombinator.com/item?id=48675369) - [Windows 10 quietly gets one more year of support and updates](https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/)
 * [2026-06-25, 15:48:07](https://news.ycombinator.com/item?id=48675179) - [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
 * [2026-06-25, 15:33:37](https://news.ycombinator.com/item?id=48674967) - [IBM debuts sub-1 nanometer chip technology](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology)
 * [2026-06-25, 15:11:48](https://news.ycombinator.com/item?id=48674619) - [How physicists track and trap the elusive neutrino](https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/)
@@ -104,35 +108,25 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-25, 13:10:00](https://soylentnews.org/article.pl?sid=26/06/25/0341243&amp;from=rss) - [Die Analysis of the 8087 Math Coprocessor&apos;s Fast Bit Shifter](https://soylentnews.org/article.pl?sid=26/06/25/0341243&amp;from=rss)
 * [2026-06-25, 13:08:31](https://news.ycombinator.com/item?id=48672779) - [Political bias in AI: Where the AI models stand](https://trakkr.ai/bias)
 * [2026-06-25, 13:02:56](https://news.ycombinator.com/item?id=48672732) - [Apple raises prices of MacBooks, iPads](https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/)
-* [2026-06-25, 11:29:13](https://news.ycombinator.com/item?id=48671886) - [Show HN: Turn native language audio into flashcards and shadowing practice](https://lingochunk.com/try)
 * [2026-06-25, 11:21:00](https://lobste.rs/s/uge7mm/new_bitcast_semantics_llvm_backend) - [New @bitCast Semantics and LLVM Backend Improvements](https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25)
 * [2026-06-25, 11:00:00](https://tech.slashdot.org/story/26/06/25/0531201/new-study-shows-that-tall-vehicle-hoods-cause-hundreds-more-deaths-per-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Study Shows That Tall Vehicle Hoods Cause Hundreds More Deaths Per Year](https://tech.slashdot.org/story/26/06/25/0531201/new-study-shows-that-tall-vehicle-hoods-cause-hundreds-more-deaths-per-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-25, 10:28:16](https://news.ycombinator.com/item?id=48671468) - [LastPass notifies users of yet another data breach](https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/)
 * [2026-06-25, 09:23:21](https://lobste.rs/s/schop7/tropius_detect_ai_tropes_prose) - [tropius: detect AI tropes in prose](https://tangled.org/desertthunder.dev/tropius)
 * [2026-06-25, 08:28:00](https://soylentnews.org/article.pl?sid=26/06/25/0339211&amp;from=rss) - [Nvidia&apos;s New AI Racks Run on 45°C Liquid Cooling](https://soylentnews.org/article.pl?sid=26/06/25/0339211&amp;from=rss)
 * [2026-06-25, 07:00:00](https://science.slashdot.org/story/26/06/25/0516211/nasa-rover-detects-potential-signatures-of-ancient-microbial-life-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [NASA Rover Detects Potential Signatures of Ancient Microbial Life On Mars](https://science.slashdot.org/story/26/06/25/0516211/nasa-rover-detects-potential-signatures-of-ancient-microbial-life-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-25, 06:20:45](https://lobste.rs/s/oyurwh/xteink_x4_e_ink_reader) - [The Xteink X4 E-Ink Reader](https://blog.omgmog.net/post/xteink-x4-e-ink-reader/)
-* [2026-06-25, 06:00:04](https://news.ycombinator.com/item?id=48669534) - [Half-Life 2 in a Browser](https://hl2.slqnt.dev/)
 * [2026-06-25, 04:27:35](https://lobste.rs/s/elhkrh/deno_desktop) - [Deno Desktop](https://ankursethi.com/blog/deno-desktop/)
 * [2026-06-25, 03:45:00](https://soylentnews.org/article.pl?sid=26/06/25/0336221&amp;from=rss) - [Brave Gives Linux Users Its Stripped Down Origin Browser for Free](https://soylentnews.org/article.pl?sid=26/06/25/0336221&amp;from=rss)
 * [2026-06-25, 03:30:00](https://science.slashdot.org/story/26/06/24/1710253/stripe-anthropic-and-openai-are-backing-effort-to-stop-respiratory-infections?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Stripe, Anthropic, and OpenAI Are Backing Effort To Stop Respiratory Infections](https://science.slashdot.org/story/26/06/24/1710253/stripe-anthropic-and-openai-are-backing-effort-to-stop-respiratory-infections?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-25, 02:18:10](https://news.ycombinator.com/item?id=48668033) - [OAuth for all](https://blog.cloudflare.com/oauth-for-all/)
 * [2026-06-25, 01:14:12](https://lobste.rs/s/ekeur9/free_threaded_python_past_present_future) - [Free-threaded Python: past, present, and future](https://lwn.net/SubscriberLink/1078367/eaa511915870fdb2/)
-* [2026-06-25, 01:11:10](https://news.ycombinator.com/item?id=48667560) - [Mixing Visual and Textual Code](https://arxiv.org/abs/2603.15855)
 * [2026-06-25, 00:28:15](https://lobste.rs/s/ebqmzl/are_we_globalshortcuts_yet) - [Are We GlobalShortcuts Yet?](https://areweglobalshortcutsyet.github.io)
-* [2026-06-24, 23:46:37](https://news.ycombinator.com/item?id=48666927) - [Blogging can just be stating the obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/)
 * [2026-06-24, 23:00:00](https://tech.slashdot.org/story/26/06/24/2113207/slate-autos-radically-simple-electric-truck-starts-at-24950?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Slate Auto&apos;s Radically Simple Electric Truck Starts At $24,950](https://tech.slashdot.org/story/26/06/24/2113207/slate-autos-radically-simple-electric-truck-starts-at-24950?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-24, 22:00:00](https://yro.slashdot.org/story/26/06/24/216239/meta-pauses-employee-tracking-program-following-internal-data-leak?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Pauses Employee-Tracking Program Following Internal Data Leak](https://yro.slashdot.org/story/26/06/24/216239/meta-pauses-employee-tracking-program-following-internal-data-leak?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-24, 21:10:00](https://soylentnews.org/article.pl?sid=26/06/23/0949209&amp;from=rss) - [Russian Satellites Cosmos 2546 Have Been Jamming GPS Signals Across Europe](https://soylentnews.org/article.pl?sid=26/06/23/0949209&amp;from=rss)
 * [2026-06-24, 21:00:00](https://games.slashdot.org/story/26/06/24/2053235/gta-vi-is-a-worrying-sign-for-the-future-of-physical-games?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GTA VI Is a Worrying Sign For the Future of Physical Games](https://games.slashdot.org/story/26/06/24/2053235/gta-vi-is-a-worrying-sign-for-the-future-of-physical-games?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-24, 20:17:33](https://news.ycombinator.com/item?id=48665093) - [52-hertz whale](https://en.wikipedia.org/wiki/52-hertz_whale)
 * [2026-06-24, 20:11:44](https://lobste.rs/s/zijb20/scaling_rails_41m_req_hour_8_dbs_disable) - [Scaling Rails: 41M Req/Hour, 8 DBs, disable_joins: true](https://andyatkinson.com/how-aura-frames-scales-for-peak-load-ruby-on-rails)
 * [2026-06-24, 20:00:00](https://hardware.slashdot.org/story/26/06/24/1755203/openai-unveils-first-chip-as-part-of-broadcom-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Unveils First Chip As Part of Broadcom Deal](https://hardware.slashdot.org/story/26/06/24/1755203/openai-unveils-first-chip-as-part-of-broadcom-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-24, 19:40:31](https://lobste.rs/s/pcuxjt/ignore_dnssec_if_you_like_mitm_attacks) - [Ignore DNSSEC if you like MITM attacks](https://whynothugo.nl/journal/2026/06/24/ignore-dnssec-if-you-like-mitm-attacks/)
 * [2026-06-24, 19:00:00](https://hardware.slashdot.org/story/26/06/24/175214/walmarts-first-nuclear-deal-shows-demand-beyond-ai-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Walmart&apos;s First Nuclear Deal Shows Demand Beyond AI Data Centers](https://hardware.slashdot.org/story/26/06/24/175214/walmarts-first-nuclear-deal-shows-demand-beyond-ai-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-24, 18:24:44](https://news.ycombinator.com/item?id=48663819) - [How to get your first customers [video]](https://www.ycombinator.com/library/SF-how-to-get-your-first-10-customers)
-* [2026-06-24, 18:00:00](https://apple.slashdot.org/story/26/06/24/170227/bob-igers-disney-wanted-apple-twitter-and-007?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bob Iger&apos;s Disney Wanted Apple, Twitter, and 007](https://apple.slashdot.org/story/26/06/24/170227/bob-igers-disney-wanted-apple-twitter-and-007?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-24, 17:00:00](https://developers.slashdot.org/story/26/06/24/1644216/boffin-claims-microsofts-quantum-leap-is-invalid-due-to-basic-python-errors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Boffin Claims Microsoft&apos;s &apos;Quantum Leap&apos; Is Invalid Due To &apos;Basic Python Errors&apos;](https://developers.slashdot.org/story/26/06/24/1644216/boffin-claims-microsofts-quantum-leap-is-invalid-due-to-basic-python-errors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-24, 16:25:00](https://soylentnews.org/article.pl?sid=26/06/23/0941229&amp;from=rss) - [Voyager 1 Will Cross The 1 Light-Day Threshold On November 18, 2026](https://soylentnews.org/article.pl?sid=26/06/23/0941229&amp;from=rss)
 * [2026-06-24, 16:09:01](https://lobste.rs/s/kmx6wx/how_write_effective_software_design) - [How to Write an Effective Software Design Document](https://refactoringenglish.com/excerpts/write-an-effective-design-doc/)
 * [2026-06-24, 15:56:58](https://lobste.rs/s/j3s5og/uk_wikipedia_workers_seek_union) - [UK Wikipedia Workers seek union recognition](https://utaw.tech/news/wikipedia-recognition)
@@ -140,22 +134,26 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-24, 13:57:08](https://lobste.rs/s/0qfxpj/aol_was_down_1996_2026) - [AOL was down (1996) (2026)](https://ngrok.com/blog/aol-was-down-1996)
 * [2026-06-24, 11:42:00](https://soylentnews.org/article.pl?sid=26/06/23/0934229&amp;from=rss) - [Crypto Clipper Spreads Over USB and Communicates Over Tor](https://soylentnews.org/article.pl?sid=26/06/23/0934229&amp;from=rss)
 * [2026-06-24, 10:11:58](https://lobste.rs/s/6vsofh/joy_power_understanding) - [The Joy and Power of Understanding](https://binaryigor.com/the-joy-and-power-of-understanding.html)
-* [2026-06-24, 09:37:56](https://lobste.rs/s/cmcklp/flatpak_package_for_gimp_0_54_1_1996) - [Flatpak package for GIMP 0.54.1 (1996)](https://gitlab.gnome.org/balooii/gimp-0.54)
 * [2026-06-24, 08:54:12](https://news.ycombinator.com/item?id=48657049) - [You can&apos;t unit test for taste](https://dev.karltryggvason.com/you-cant-unit-test-for-taste/)
+* [2026-06-24, 08:04:23](https://news.ycombinator.com/item?id=48656692) - [GloriousEggroll&apos;s Proton has been rebased on Proton 11](https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton11-1)
 * [2026-06-24, 06:54:00](https://soylentnews.org/article.pl?sid=26/06/23/0931228&amp;from=rss) - [Intel And AMD&apos;s New ACE CPU Extensions Bring An Efficient AI-Oriented Instruction Set To X86](https://soylentnews.org/article.pl?sid=26/06/23/0931228&amp;from=rss)
+* [2026-06-24, 02:56:03](https://news.ycombinator.com/item?id=48654540) - [RRB-Trees: Efficient Immutable Vectors (2012) [pdf]](https://infoscience.epfl.ch/server/api/core/bitstreams/e5d662ea-1e8d-4dda-b917-8cbb8bb40bf9/content)
 * [2026-06-24, 02:07:00](https://soylentnews.org/article.pl?sid=26/06/23/0928218&amp;from=rss) - [GM Replaces Over 1,000 Detroit Workers With Just 50 Robots](https://soylentnews.org/article.pl?sid=26/06/23/0928218&amp;from=rss)
 * [2026-06-23, 23:21:35](https://news.ycombinator.com/item?id=48652997) - [Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs](https://github.com/decrazyo/anes)
 * [2026-06-23, 21:24:00](https://soylentnews.org/article.pl?sid=26/06/23/0925237&amp;from=rss) - [We Treat the Eight-hour Day as an Acceptable Day&apos;s Work ....](https://soylentnews.org/article.pl?sid=26/06/23/0925237&amp;from=rss)
 * [2026-06-23, 16:38:00](https://soylentnews.org/article.pl?sid=26/06/22/039226&amp;from=rss) - [AI Economics for Dummies](https://soylentnews.org/article.pl?sid=26/06/22/039226&amp;from=rss)
 * [2026-06-23, 11:54:00](https://soylentnews.org/article.pl?sid=26/06/22/038218&amp;from=rss) - [Leaked Financial Docs Show OpenAI Is Losing Billions Of Dollars A Year](https://soylentnews.org/article.pl?sid=26/06/22/038218&amp;from=rss)
 * [2026-06-23, 09:38:45](https://news.ycombinator.com/item?id=48642503) - [I built a GPU back end for Emacs](https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/)
+* [2026-06-23, 09:35:26](https://news.ycombinator.com/item?id=48642474) - [A game where you&apos;re an OS and have to manage processes, memory and I/O events](https://github.com/plbrault/youre-the-os)
 * [2026-06-23, 07:03:00](https://soylentnews.org/article.pl?sid=26/06/22/034203&amp;from=rss) - [Think That Conversation Will be Boring? Science Says Think Again](https://soylentnews.org/article.pl?sid=26/06/22/034203&amp;from=rss)
 * [2026-06-23, 02:22:00](https://soylentnews.org/article.pl?sid=26/06/22/029235&amp;from=rss) - [Ozempic Literally Came From a Monster – And It&apos;s Not Alone](https://soylentnews.org/article.pl?sid=26/06/22/029235&amp;from=rss)
 * [2026-06-22, 23:44:59](https://news.ycombinator.com/item?id=48638120) - [The annotated PyTorch training loop](https://idlemachines.co.uk/essays/pytorch-training-loop)
+* [2026-06-22, 22:11:13](https://news.ycombinator.com/item?id=48636982) - [The anxiety of the perfect loaf: the illusion of culinary precision](https://iza.ac/posts/2026/06/intuitive-cooking/)
 * [2026-06-22, 21:37:00](https://soylentnews.org/article.pl?sid=26/06/21/2032230&amp;from=rss) - [Non-x86 Servers Now Nearly Half the Market](https://soylentnews.org/article.pl?sid=26/06/21/2032230&amp;from=rss)
 * [2026-06-22, 16:54:00](https://soylentnews.org/article.pl?sid=26/06/21/2026240&amp;from=rss) - [A Bold Satellite Rescue Mission Came Together in Record Time, but Will It Work?](https://soylentnews.org/article.pl?sid=26/06/21/2026240&amp;from=rss)
 * [2026-06-22, 15:21:04](https://news.ycombinator.com/item?id=48631450) - [Oxide computer 3D rack guided tour](https://explorer.oxide.computer/)
 * [2026-06-22, 15:12:36](https://news.ycombinator.com/item?id=48631302) - [Tw-fade: pure CSS scroll-driven edge masking](https://pete.design/tw-fade)
+* [2026-06-22, 15:00:04](https://news.ycombinator.com/item?id=48631119) - [The last Romans are still around](https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/)
 * [2026-06-22, 12:13:00](https://soylentnews.org/article.pl?sid=26/06/21/2015236&amp;from=rss) - [16-Year-Old SATA II SSD Survives 1 Petabyte of Writes](https://soylentnews.org/article.pl?sid=26/06/21/2015236&amp;from=rss)
 * [2026-06-22, 07:30:00](https://soylentnews.org/article.pl?sid=26/06/21/205254&amp;from=rss) - [Python Dev Saved From Disaster by Intuition...and AI](https://soylentnews.org/article.pl?sid=26/06/21/205254&amp;from=rss)
 * [2026-06-22, 02:47:00](https://soylentnews.org/article.pl?sid=26/06/20/0542204&amp;from=rss) - [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://soylentnews.org/article.pl?sid=26/06/20/0542204&amp;from=rss)
