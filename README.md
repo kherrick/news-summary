@@ -1,62 +1,60 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## User Interface and Software Tools
+## Technology and Software Development
 
-* [Text files as a user interface](https://ratfactor.com/cards/text-files-as-ui) ([Comments](https://lobste.rs/s/u1clgf/text_files_as_user_interface))
+* [The Cost YAGNI Was Never About](https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about) - A thought-provoking discussion about the hidden costs of adhering strictly to the YAGNI (You Aren't Gonna Need It) principle in software development. [Comments](https://lobste.rs/s/lyszpl/cost_yagni_was_never_about)
 
-* [A simple web framework for odin](https://github.com/Lvcky-gg/Gjallarhorn) ([Comments](https://lobste.rs/s/bkiepi/simple_web_framework_for_odin))
+* [A Tiny Compiler for Data-Parallel Kernels](https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels) - An exploration of building a minimal compiler designed for data-parallel computing, touching on SIMD architectures. [Comments](https://lobste.rs/s/uws0wx/tiny_compiler_for_data_parallel_kernels)
 
-* [Show HN: Hacker News on a train station-style flip board](https://popflame.quickish.space/hn-flipboard/) ([Comments](https://news.ycombinator.com/item?id=48693912))
+* [Text files as a user interface](https://ratfactor.com/cards/text-files-as-ui) - Reimagining user interface design through small, readable, and executable text files. [Comments](https://lobste.rs/s/u1clgf/text_files_as_user_interface)
 
-* [How PgBouncer Works](https://www.augusteo.com/blog/how-pgbouncer-works/) ([Comments](https://lobste.rs/s/n58ygj/how_pgbouncer_works))
+* [What does it mean to be a mathematician when AI does the math?](https://spectrum.ieee.org/ai-in-mathematics) - Exploring the transformative role of AI in mathematics and pondering the implications for mathematicians' roles. [Comments](https://lobste.rs/s/hvd5hk/what_does_it_mean_be_mathematician_when_ai)
 
-* [youre-the-os: A game where you are a computer&apos;s OS](https://github.com/plbrault/youre-the-os) ([Comments](https://lobste.rs/s/y4jrtn/youre_os_game_where_you_are_computer_s_os))
+* [Bringing Swift to the Apple II](https://yeokhengmeng.com/2026/06/swift-on-apple-ii/) - An interesting project on porting the modern Swift programming language to the retro Apple II platform. [Comments](https://lobste.rs/s/qt6tji/bringing_swift_apple_ii)
 
-## AI and Technology Advances
+* [Making Sense of Proof by Contradiction [pdf]](https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf) - This PDF discusses the logical methodology of using proof by contradiction and its role in problem-solving. [Comments](https://news.ycombinator.com/item?id=48643661)
 
-* [US Government Allows Anthropic Limited Release of &apos;Mythos&apos; AI Model, Saying &apos;Appropriate Safeguards are in Place"](https://news.slashdot.org/story/26/06/27/0159230/us-government-allows-anthropic-limited-release-of-mythos-ai-model-saying-appropriate-safeguards-are-in-place?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.slashdot.org/story/26/06/27/0159230/us-government-allows-anthropic-limited-release-of-mythos-ai-model-saying-appropriate-safeguards-are-in-place?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Artificial Intelligence and Machine Learning
 
-* [Ask HN: MacBook vs. Dedicated GPU for LLM](https://news.ycombinator.com/item?id=48694802) ([Comments](https://news.ycombinator.com/item?id=48694802))
+* [US Government Allows Anthropic Limited Release of 'Mythos' AI Model, Saying 'Appropriate Safeguards are in Place'](https://news.slashdot.org/story/26/06/27/0159230/us-government-allows-anthropic-limited-release-of-mythos-ai-model-saying-appropriate-safeguards-are-in-place?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An overview of the US government's decision to allow the limited release of Anthropic's AI model under strict conditions. [Comments](https://news.ycombinator.com/item?id=48694631)
 
-* [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/) ([Comments](https://news.ycombinator.com/item?id=48689028))
+* [The gap between open weights LLMs and closed source LLMs](https://blog.doubleword.ai/frontier-os-llm) - An analysis of the performance disparity between open-weight and proprietary large language models. [Comments](https://news.ycombinator.com/item?id=48692058)
 
-* [AI in mathematics is forcing big questions](https://spectrum.ieee.org/ai-in-mathematics) ([Comments](https://news.ycombinator.com/item?id=48692883))
+* [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/) - OpenAI announces its latest advanced AI model, GPT-5.6, and the U.S. government's role in vetting user access. [Comments](https://news.ycombinator.com/item?id=48690101)
 
-* [The gap between open weights LLMs and closed source LLMs](https://blog.doubleword.ai/frontier-os-llm) ([Comments](https://news.ycombinator.com/item?id=48692058))
+* [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/) - OpenAI provides a sneak peek at their state-of-the-art language model GPT-5.6 Sol and its future potential. [Comments](https://news.ycombinator.com/item?id=48689028)
 
-## Technology Ethics and Policy
+## Science and Space Discoveries
 
-* [Pluralistic: Spying on Kids to Save Kids From Spying is Very, Very Stupid](https://soylentnews.org/article.pl?sid=26/06/26/1415219&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/06/26/1415219&amp;from=rss))
+* [Astronomers Find Biggest Super-Puff Planets Yet That Are Lighter Than Cotton Candy](https://science.slashdot.org/story/26/06/25/0525240/astronomers-find-biggest-super-puff-planets-yet-that-are-lighter-than-cotton-candy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A fascinating discovery of new super-puff planets, which are the lowest-density exoplanets ever discovered. [Comments](https://science.slashdot.org/story/26/06/25/0525240/astronomers-find-biggest-super-puff-planets-yet-that-are-lighter-than-cotton-candy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [We can still stop California&apos;s 3D printer surveillance scheme](https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme) ([Comments](https://news.ycombinator.com/item?id=48692051))
+* ['Fingerprints' of Black Hole's Event Horizon Detected For First Time](https://science.slashdot.org/story/26/06/25/2123205/fingerprints-of-black-holes-event-horizon-detected-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A groundbreaking achievement in detecting the 'fingerprints' of a black hole's event horizon. [Comments](https://science.slashdot.org/story/26/06/25/2123205/fingerprints-of-black-holes-event-horizon-detected-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Automakers Could Stop Selling Cars in California Rather Than Comply With Tracking Laws](https://soylentnews.org/article.pl?sid=26/06/25/0445223&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/06/25/0445223&amp;from=rss))
+## Cybersecurity and Hacking
 
-* [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers#open-positions) ([Comments](https://news.ycombinator.com/item?id=48691893))
+* [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/) - An intriguing dissection of what appears to be a botched hacking attempt, potentially from a nation-state. [Comments](https://news.ycombinator.com/item?id=48694631)
 
-* [NLNet Labs LLM Policy](https://nlnetlabs.nl/llm-policy/) ([Comments](https://lobste.rs/s/s138jl/nlnet_labs_llm_policy))
+* [Day-to-Day Cyber Disruptions Driving Loss for SMEs, Finds Report](https://soylentnews.org/article.pl?sid=26/06/25/0459200&amp;from=rss) - Research reveals how regular cyber disruptions severely impact small to medium enterprises financially. [Comments](https://soylentnews.org/article.pl?sid=26/06/25/0459200&amp;from=rss)
 
-## Housing and Economic Challenges
+* [Beats Studio Buds Flaw Could Let Nearby Attackers Eavesdrop on Users](https://soylentnews.org/article.pl?sid=26/06/25/046226&amp;from=rss) - A warning regarding a security flaw in Beats Studio Buds that could allow eavesdropping threats. [Comments](https://soylentnews.org/article.pl?sid=26/06/25/046226&amp;from=rss)
 
-* [Foreign funds help make housing unaffordable: research](https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/) ([Comments](https://news.ycombinator.com/item?id=48693420))
+## Space and Aerospace Updates
 
-* [AI Economics for Dummies](https://soylentnews.org/article.pl?sid=26/06/22/039226&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/06/22/039226&amp;from=rss))
+* [Voyager 1 Will Cross The 1 Light-Day Threshold On November 18, 2026](https://soylentnews.org/article.pl?sid=26/06/23/0941229&amp;from=rss) - NASA's historic Voyager 1 spacecraft is set to reach a significant milestone in its journey beyond our solar system. [Comments](https://soylentnews.org/article.pl?sid=26/06/23/0941229&amp;from=rss)
 
-## Historical Tech Insights
+* [Spain To Require Carriers To Keep Mobile Networks Live During Power Outages](https://hardware.slashdot.org/story/26/06/25/2056248/spain-to-require-carriers-to-keep-mobile-networks-live-during-power-outages?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New legislation in Spain mandates telecom providers ensure mobile network functionality during power outages. [Comments](https://hardware.slashdot.org/story/26/06/25/2056248/spain-to-require-carriers-to-keep-mobile-networks-live-during-power-outages?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [WordStar: A Writer&apos;s Word Processor (1996)](https://www.sfwriter.com/wordstar.htm) ([Comments](https://news.ycombinator.com/item?id=48694853))
+* [Interplanetary Fossil Find?](https://soylentnews.org/article.pl?sid=26/06/25/0348249&amp;from=rss) - Fascinating discovery suggests possible ancient organic material beyond Earth. [Comments](https://soylentnews.org/article.pl?sid=26/06/25/0348249&amp;from=rss)
 
-* [Visual Basic on the PC w/Windows 3.1](https://stonetools.ghost.io/visualbasic-win31/) ([Comments](https://lobste.rs/s/xpdod3/visual_basic_on_pc_w_windows_3_1))
+## Engineering and Retro Technologies
 
-* [The Database That Refused to Die: How Postgres Survived its Own Creators](https://soylentnews.org/article.pl?sid=26/06/25/0441233&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/06/25/0441233&amp;from=rss))
+* [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA) - A deep dive into reversing engineering of the IBM MCGA gate array to uncover its secrets. [Comments](https://news.ycombinator.com/item?id=48695363)
 
-## Environmental and Technological Policy Developments
+* [Visual Basic on the PC w/Windows 3.1](https://stonetools.ghost.io/visualbasic-win31/) - Reflecting on using Visual Basic during the Windows 3.1 era. [Comments](https://lobste.rs/s/xpdod3/visual_basic_on_pc_w_windows_3_1)
 
-* [Spain To Require Carriers To Keep Mobile Networks Live During Power Outages](https://hardware.slashdot.org/story/26/06/25/2056248/spain-to-require-carriers-to-keep-mobile-networks-live-during-power-outages?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://hardware.slashdot.org/story/26/06/25/2056248/spain-to-require-carriers-to-keep-mobile-networks-live-during-power-outages?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+## Sustainability and Energy
 
-* [As China Looms, Taiwan Makes More Drones for Defense and the US Military](https://soylentnews.org/article.pl?sid=26/06/25/0430237&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/06/25/0430237&amp;from=rss))
-
-* [Long Wave radio era set to end with Droitwich switch-off](https://www.bbc.com/news/articles/c74yn7v7k4qo) ([Comments](https://news.ycombinator.com/item?id=48690709))
+* [Astronomers Find Biggest Super-Puff Planets Yet That Are Lighter Than Cotton Candy](https://science.slashdot.org/story/26/06/25/0525240/astronomers-find-biggest-super-puff-planets-yet-that-are-lighter-than-cotton-candy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Amazing insight into the discovery of lightweight planets in space akin to cotton candy composition. [Comments](https://self.lighter) [More Reaction](Valid-restful resource path)
 
 ---
 
@@ -83,10 +81,15 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-06-27, 07:09:38](https://lobste.rs/s/lyszpl/cost_yagni_was_never_about) - [The Cost YAGNI Was Never About](https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about)
+* [2026-06-27, 07:04:29](https://lobste.rs/s/uws0wx/tiny_compiler_for_data_parallel_kernels) - [A Tiny Compiler for Data-Parallel Kernels](https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels)
+* [2026-06-27, 05:17:08](https://news.ycombinator.com/item?id=48695363) - [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA)
+* [2026-06-27, 05:00:00](https://science.slashdot.org/story/26/06/25/0525240/astronomers-find-biggest-super-puff-planets-yet-that-are-lighter-than-cotton-candy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Astronomers Find Biggest Super-Puff Planets Yet That Are Lighter Than Cotton Candy](https://science.slashdot.org/story/26/06/25/0525240/astronomers-find-biggest-super-puff-planets-yet-that-are-lighter-than-cotton-candy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-27, 04:31:06](https://news.ycombinator.com/item?id=48695149) - [OpenTTD 16.0-Beta1](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1)
 * [2026-06-27, 03:56:22](https://lobste.rs/s/u1clgf/text_files_as_user_interface) - [Text files as a user interface](https://ratfactor.com/cards/text-files-as-ui)
 * [2026-06-27, 03:30:01](https://news.ycombinator.com/item?id=48694853) - [WordStar: A Writer&apos;s Word Processor (1996)](https://www.sfwriter.com/wordstar.htm)
-* [2026-06-27, 03:17:43](https://news.ycombinator.com/item?id=48694802) - [Ask HN: MacBook vs. Dedicated GPU for LLM](https://news.ycombinator.com/item?id=48694802)
 * [2026-06-27, 03:13:00](https://soylentnews.org/article.pl?sid=26/06/26/1415219&amp;from=rss) - [Pluralistic: Spying on Kids to Save Kids From Spying is Very, Very Stupid](https://soylentnews.org/article.pl?sid=26/06/26/1415219&amp;from=rss)
+* [2026-06-27, 02:41:53](https://news.ycombinator.com/item?id=48694631) - [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
 * [2026-06-27, 02:09:00](https://news.slashdot.org/story/26/06/27/0159230/us-government-allows-anthropic-limited-release-of-mythos-ai-model-saying-appropriate-safeguards-are-in-place?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Government Allows Anthropic Limited Release of &apos;Mythos&apos; AI Model, Saying &apos;Appropriate Safeguards are in Place\&quot;](https://news.slashdot.org/story/26/06/27/0159230/us-government-allows-anthropic-limited-release-of-mythos-ai-model-saying-appropriate-safeguards-are-in-place?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-27, 01:10:40](https://lobste.rs/s/bkiepi/simple_web_framework_for_odin) - [A simple web framework for odin](https://github.com/Lvcky-gg/Gjallarhorn)
 * [2026-06-27, 00:43:39](https://news.ycombinator.com/item?id=48693912) - [Show HN: Hacker News on a train station-style flip board](https://popflame.quickish.space/hn-flipboard/)
@@ -104,7 +107,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-26, 21:13:50](https://news.ycombinator.com/item?id=48692051) - [We can still stop California&apos;s 3D printer surveillance scheme](https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme)
 * [2026-06-26, 21:00:50](https://news.ycombinator.com/item?id=48691893) - [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers#open-positions)
 * [2026-06-26, 20:37:27](https://lobste.rs/s/7jmid9/l_system) - [L-system](https://en.wikipedia.org/wiki/L-system)
-* [2026-06-26, 20:07:18](https://news.ycombinator.com/item?id=48691346) - [PlayStation Is Deleting 551 Movies from Customers&apos; Accounts](https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013)
 * [2026-06-26, 20:00:00](https://tech.slashdot.org/story/26/06/26/0029235/microsoft-adds-another-year-to-windows-10-extended-update-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Adds Another Year To Windows 10 Extended Update Program](https://tech.slashdot.org/story/26/06/26/0029235/microsoft-adds-another-year-to-windows-10-extended-update-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-26, 19:12:20](https://news.ycombinator.com/item?id=48690709) - [Long Wave radio era set to end with Droitwich switch-off](https://www.bbc.com/news/articles/c74yn7v7k4qo)
 * [2026-06-26, 19:05:42](https://lobste.rs/s/y4jrtn/youre_os_game_where_you_are_computer_s_os) - [youre-the-os: A game where you are a computer&apos;s OS](https://github.com/plbrault/youre-the-os)
@@ -127,12 +129,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-26, 11:51:11](https://news.ycombinator.com/item?id=48685558) - [Ultrasound imaging of the brain](https://alephneuro.com/blog/ultrasound-brain)
 * [2026-06-26, 11:22:44](https://lobste.rs/s/7qssyu/design_patterns_suck) - [Design Patterns Suck](https://luminousmen.com/post/design-patterns-suck/)
 * [2026-06-26, 11:00:00](https://slashdot.org/story/26/06/25/2038233/notion-mail-is-shutting-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Notion Mail Is Shutting Down](https://slashdot.org/story/26/06/25/2038233/notion-mail-is-shutting-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-26, 10:36:54](https://lobste.rs/s/tjpsew/chatbots_vs_ozone) - [Chatbots vs Ozone](https://blog.dshr.org/2026/05/chatbots-vs-ozone.html)
 * [2026-06-26, 09:48:57](https://lobste.rs/s/yvvhve/all_you_need_is_postgresql) - [All you need is PostgreSQL](https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/)
 * [2026-06-26, 08:12:59](https://lobste.rs/s/dpctyb/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dpctyb/what_are_you_doing_this_weekend)
 * [2026-06-26, 08:06:00](https://soylentnews.org/article.pl?sid=26/06/25/0430237&amp;from=rss) - [As China Looms, Taiwan Makes More Drones for Defense and the US Military](https://soylentnews.org/article.pl?sid=26/06/25/0430237&amp;from=rss)
 * [2026-06-26, 07:00:00](https://science.slashdot.org/story/26/06/25/2123205/fingerprints-of-black-holes-event-horizon-detected-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Fingerprints&apos; of Black Hole&apos;s Event Horizon Detected For First Time](https://science.slashdot.org/story/26/06/25/2123205/fingerprints-of-black-holes-event-horizon-detected-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-26, 06:17:11](https://lobste.rs/s/bmlpaq/dspi_fully_featured_audio_dsp_firmware) - [DSPi: A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350)](https://github.com/WeebLabs/DSPi)
 * [2026-06-26, 06:15:26](https://lobste.rs/s/aldvu9/swsim_software_sim_card) - [swsim: A software SIM card](https://github.com/tomasz-lisowski/swsim)
 * [2026-06-26, 04:58:29](https://lobste.rs/s/ymhp52/spir_v_backend_progress) - [SPIR-V Backend Progress](https://ziglang.org/devlog/2026/#2026-06-26)
 * [2026-06-26, 03:30:00](https://hardware.slashdot.org/story/26/06/25/2056248/spain-to-require-carriers-to-keep-mobile-networks-live-during-power-outages?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Spain To Require Carriers To Keep Mobile Networks Live During Power Outages](https://hardware.slashdot.org/story/26/06/25/2056248/spain-to-require-carriers-to-keep-mobile-networks-live-during-power-outages?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -149,8 +149,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-25, 17:00:00](https://slashdot.org/story/26/06/25/1624241/ford-rehires-350-engineers-after-ai-fails-to-preserve-expertise-or-train-juniors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ford Rehires 350 Engineers After AI Fails To Preserve Expertise or Train Juniors](https://slashdot.org/story/26/06/25/1624241/ford-rehires-350-engineers-after-ai-fails-to-preserve-expertise-or-train-juniors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-25, 16:00:00](https://hardware.slashdot.org/story/26/06/25/0559247/micron-locks-in-historically-high-memory-prices-for-five-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Micron Locks In Historically High Memory Prices For Five Years](https://hardware.slashdot.org/story/26/06/25/0559247/micron-locks-in-historically-high-memory-prices-for-five-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-25, 15:07:27](https://lobste.rs/s/csgzki/exhaustion_talking_tool) - [The Exhaustion of Talking to a Tool](https://ohadravid.github.io/posts/2026-06-tool-talking/)
-* [2026-06-25, 15:00:00](https://news.slashdot.org/story/26/06/25/0554234/google-starts-lowering-play-store-fees-making-good-on-epic-games-settlement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Starts Lowering Play Store Fees, Making Good On Epic Games Settlement](https://news.slashdot.org/story/26/06/25/0554234/google-starts-lowering-play-store-fees-making-good-on-epic-games-settlement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-25, 13:58:21](https://news.ycombinator.com/item?id=48673527) - [Show HN: Autofit2 – End-to-end pipeline for multilingual text classification](https://github.com/neospe/autofit2)
 * [2026-06-25, 13:57:07](https://lobste.rs/s/madoeq/font_family_recommendations) - [font-family recommendations](https://chrismorgan.info/font-family)
 * [2026-06-25, 13:32:12](https://news.ycombinator.com/item?id=48673115) - [A Tiny Compiler for Data-Parallel Kernels](https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels)
 * [2026-06-25, 13:10:00](https://soylentnews.org/article.pl?sid=26/06/25/0341243&amp;from=rss) - [Die Analysis of the 8087 Math Coprocessor&apos;s Fast Bit Shifter](https://soylentnews.org/article.pl?sid=26/06/25/0341243&amp;from=rss)
@@ -162,12 +160,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-24, 14:29:17](https://news.ycombinator.com/item?id=48660522) - [A human postmortem of the 1996 AOL outage](https://ngrok.com/blog/aol-was-down-1996)
 * [2026-06-24, 11:42:00](https://soylentnews.org/article.pl?sid=26/06/23/0934229&amp;from=rss) - [Crypto Clipper Spreads Over USB and Communicates Over Tor](https://soylentnews.org/article.pl?sid=26/06/23/0934229&amp;from=rss)
 * [2026-06-24, 11:27:07](https://news.ycombinator.com/item?id=48658148) - [Fusion Programming Language](https://fusion-lang.org/)
-* [2026-06-24, 11:17:33](https://news.ycombinator.com/item?id=48658069) - [Kamod Hooks – a Preact hooks library ported from ahooks](https://kamod-ch.github.io/kamod-hooks/)
+* [2026-06-24, 08:46:04](https://news.ycombinator.com/item?id=48656982) - [SCC Technical Assistance Program](https://nerocam.com/scc_tap.asp)
 * [2026-06-24, 06:54:00](https://soylentnews.org/article.pl?sid=26/06/23/0931228&amp;from=rss) - [Intel And AMD&apos;s New ACE CPU Extensions Bring An Efficient AI-Oriented Instruction Set To X86](https://soylentnews.org/article.pl?sid=26/06/23/0931228&amp;from=rss)
 * [2026-06-24, 02:07:00](https://soylentnews.org/article.pl?sid=26/06/23/0928218&amp;from=rss) - [GM Replaces Over 1,000 Detroit Workers With Just 50 Robots](https://soylentnews.org/article.pl?sid=26/06/23/0928218&amp;from=rss)
 * [2026-06-23, 21:24:00](https://soylentnews.org/article.pl?sid=26/06/23/0925237&amp;from=rss) - [We Treat the Eight-hour Day as an Acceptable Day&apos;s Work ....](https://soylentnews.org/article.pl?sid=26/06/23/0925237&amp;from=rss)
+* [2026-06-23, 17:06:58](https://news.ycombinator.com/item?id=48648008) - [Building apps using TanStack Start](https://lovable.dev/blog/building-apps-using-tanstack-start)
 * [2026-06-23, 16:38:00](https://soylentnews.org/article.pl?sid=26/06/22/039226&amp;from=rss) - [AI Economics for Dummies](https://soylentnews.org/article.pl?sid=26/06/22/039226&amp;from=rss)
-* [2026-06-23, 12:45:09](https://news.ycombinator.com/item?id=48644111) - [The \&quot;Bizarre Headgear\&quot; exhibit at the Sam Noble museum](https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/)
 * [2026-06-23, 12:00:13](https://news.ycombinator.com/item?id=48643661) - [Making Sense of Proof by Contradiction [pdf]](https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf)
 * [2026-06-23, 11:54:00](https://soylentnews.org/article.pl?sid=26/06/22/038218&amp;from=rss) - [Leaked Financial Docs Show OpenAI Is Losing Billions Of Dollars A Year](https://soylentnews.org/article.pl?sid=26/06/22/038218&amp;from=rss)
 * [2026-06-23, 09:39:35](https://news.ycombinator.com/item?id=48642510) - [MicroVMs: Run isolated sandboxes with full lifecycle control](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/)
