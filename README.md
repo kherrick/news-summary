@@ -1,52 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software
+## Technology and Innovation
 
-* [Excessive nil pointer checks in Go](https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/) ([Comments](https://lobste.rs/s/z7eoo7/excessive_nil_pointer_checks_go))
+* [Forget Prompt Engineering: 'Loop Engineering' Is All the Rage Now](https://developers.slashdot.org/story/26/06/25/0546238/forget-prompt-engineering-loop-engineering-is-all-the-rage-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Explore 'loop engineering,' a new trend in machine learning and AI development, including its implications and use cases. [Comments](https://developers.slashdot.org/story/26/06/25/0546238/forget-prompt-engineering-loop-engineering-is-all-the-rage-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Shard your locks: benchmarking 6 Go cache designs](https://strebkov.dev/posts/shard-your-locks/) ([Comments](https://lobste.rs/s/oaq69a/shard_your_locks_benchmarking_6_go_cache))
+* [Comparing Transformers and Hybrid Models at the Token Level](https://arxiv.org/pdf/2606.20936) - This academic paper delves into comparisons between pure Transformers and hybrid models in processing token-level data. [Comments](https://lobste.rs/s/6c5c4j/comparing_transformers_hybrid_models_at)
 
-* [Beer CSS – Build material design in record time](https://www.beercss.com) ([Comments](https://news.ycombinator.com/item?id=48696510))
+* [SpaceX Plans To Build 'Starpipe' Natural Gas Pipeline To Fuel Starship Rockets](https://science.slashdot.org/story/26/06/26/0037206/spacex-plans-to-build-starpipe-natural-gas-pipeline-to-fuel-starship-rockets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Learn about SpaceX's new infrastructure plans to develop a natural gas pipeline named 'Starpipe' to fuel their Starship rockets. [Comments](https://science.slashdot.org/story/26/06/26/0037206/spacex-plans-to-build-starpipe-natural-gas-pipeline-to-fuel-starship-rockets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Artificial Intelligence and Big Data
+* [Researchers Have Developed Pixels That Can Emit and Analyse Light Together](https://ethz.ch/en/news-and-events/eth-news/news/2026/06/a-new-type-of-pixel.html) - A significant development in display technology introduces pixels capable of both emitting and analyzing light. [Comments](https://news.ycombinator.com/item?id=48696127)
 
-* [US Government Allows Anthropic Limited Release of 'Mythos' AI Model, Saying 'Appropriate Safeguards are in Place'](https://news.slashdot.org/story/26/06/27/0159230/us-government-allows-anthropic-limited-release-of-mythos-ai-model-saying-appropriate-safeguards-are-in-place?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=48692995))
+## Cybersecurity and Digital Platforms
 
-* [The gap between open weights LLMs and closed source LLMs](https://blog.doubleword.ai/frontier-os-llm) ([Comments](https://news.ycombinator.com/item?id=48692058))
+* [A Peek Into Reddit's Anti-Spam Internals](https://lyra.horse/blog/2026/06/reddit-spam-internals/) - Gain insights into how Reddit handles spam and moderates its online community. [Comments](https://lobste.rs/s/boap41/peek_into_reddit_s_anti_spam_internals)
 
-* [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/) ([Comments](https://news.ycombinator.com/item?id=48689028))
+* [Anonymous GitHub Account Mass-Dropping Undisclosed 0-Days](https://github.com/bikini/exploitarium) - Discover a controversial case of an anonymous GitHub account publicizing undisclosed zero-day vulnerabilities. [Comments](https://news.ycombinator.com/item?id=48698617)
 
-## Science and Space Exploration
+* [Post-Mythos Cybersecurity: Keep Calm and Carry On](https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/) - A piece on how to navigate cybersecurity challenges in a post-mythos age. [Comments](https://news.ycombinator.com/item?id=48698559)
 
-* [SpaceX Plans To Build 'Starpipe' Natural Gas Pipeline To Fuel Starship Rockets](https://science.slashdot.org/story/26/06/26/0037206/spacex-plans-to-build-starpipe-natural-gas-pipeline-to-fuel-starship-rockets?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=48697504))
+* [U.S. Government Allows Anthropic's Limited Release of 'Mythos' AI Model, Saying 'Appropriate Safeguards Are in Place'](https://news.slashdot.org/story/26/06/27/0159230/us-government-allows-anthropic-limited-release-of-mythos-ai-model-saying-appropriate-safeguards-are-in-place?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Learn about the government's conditional approval of Anthropics' cutting-edge AI model. [Comments](https://news.slashdot.org/story/26/06/27/0159230/us-government-allows-anthropic-limited-release-of-mythos-ai-model-saying-appropriate-safeguards-are-in-place?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Astronomers Find Biggest Super-Puff Planets Yet That Are Lighter Than Cotton Candy](https://science.slashdot.org/story/26/06/25/0525240/astronomers-find-biggest-super-puff-planets-yet-that-are-lighter-than-cotton-candy?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://soylentnews.org/article.pl?sid=26/06/25/0525240&from=rss))
+## Science and Space
 
-* ['Fingerprints' of Black Hole's Event Horizon Detected For First Time](https://science.slashdot.org/story/26/06/25/2123205/fingerprints-of-black-holes-event-horizon-detected-for-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=48685558))
+* [Astronomers Find Biggest Super-Puff Planets Yet That Are Lighter Than Cotton Candy](https://science.slashdot.org/story/26/06/25/0525240/astronomers-find-biggest-super-puff-planets-yet-that-are-lighter-than-cotton-candy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Researchers have identified enormous planets with density comparable to cotton candy. [Comments](https://science.slashdot.org/story/26/06/25/0525240/astronomers-find-biggest-super-puff-planets-yet-that-are-lighter-than-cotton-candy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-## Finance and Cryptocurrency
+* [Voyager 1 Will Cross the 1 Light-Day Threshold on November 18, 2026](https://soylentnews.org/article.pl?sid=26/06/23/0941229&amp;from=rss) - NASA announces a milestone as Voyager 1 is set to reach one light-day from Earth later this year. [Comments](https://soylentnews.org/article.pl?sid=26/06/23/0941229&amp;from=rss)
 
-* [Bitcoin Drops Again. Skeptical Investment Strategist Calls It 'Useless'](https://news.slashdot.org/story/26/06/27/0257237/bitcoin-drops-again-skeptical-investment-strategist-calls-it-useless?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=48696585))
+* ['Fingerprints' of Black Hole's Event Horizon Detected for First Time](https://science.slashdot.org/story/26/06/25/2123205/fingerprints-of-black-holes-event-horizon-detected-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A groundbreaking discovery reveals unique 'fingerprints' of a black hole's event horizon. [Comments](https://science.slashdot.org/story/26/06/25/2123205/fingerprints-of-black-holes-event-horizon-detected-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 
-* [Why does kinetic energy increase quadratically, not linearly, with speed?](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed) ([Comments](https://news.ycombinator.com/item?id=48692946))
+## Society and Policy
 
-## Cybersecurity and Privacy
+* [Zuckerberg's Increasingly Bizarre War on Whistleblowers](https://pluralistic.net/2026/06/27/zuckerstreisand-2/) - An analysis of Mark Zuckerberg's alleged targeting of whistleblowers. [Comments](https://news.ycombinator.com/item?id=48698684)
 
-* [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/) ([Comments](https://news.ycombinator.com/item?id=48695149))
+* [Texas' App Store Accountability Act: 'Like a Bouncer at a Bookstore'](https://cdt.org/insights/like-a-bouncer-at-a-bookstore-texas-app-store-accountability-act-is-unconstitutional/) - Questions are raised about the constitutionality of Texas' new App Store regulation law. [Comments](https://news.ycombinator.com/item?id=48698402)
 
-* [Beats Studio Buds Flaw Could Let Nearby Attackers Eavesdrop on Users](https://soylentnews.org/article.pl?sid=26/06/25/046226&from=rss) ([Comments](https://news.ycombinator.com/item?id=48682243))
+## Programming and Open Source
 
-## Gaming and Entertainment
+* [A Tiny Compiler for Data-Parallel Kernels](https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels) - A tutorial on building a compact but powerful compiler for processing data-parallel tasks. [Comments](https://lobste.rs/s/uws0wx/tiny_compiler_for_data_parallel_kernels)
 
-* [OpenRA](https://www.openra.net/) ([Comments](https://news.ycombinator.com/item?id=48697560))
-
-* [OpenTTD 16.0-Beta1](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1) ([Comments](https://news.ycombinator.com/item?id=48695149))
-
-## Miscellaneous
-
-* [The Memory Crisis Is Getting So Bad That Even Retro RAM Prices Are Becoming Ridiculous](https://soylentnews.org/article.pl?sid=26/06/26/1420245&from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/06/26/1420245&from=rss))
-
-* [Streaming services' obnoxiously loud ads become illegal on July 1 in California](https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/) ([Comments](https://news.ycombinator.com/item?id=48697768))
+* [GPT2-BASIC: Portable Machine Intelligence in BASIC](https://github.com/tsotchke/gpt2-basic) - GPT2-BASIC is aimed at bringing modern AI capabilities into a classic programming language. [Comments](https://lobste.rs/s/mhjlia/gpt2_basic_portable_machine)
 
 ---
 
@@ -73,16 +65,27 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-06-27, 15:34:00](https://developers.slashdot.org/story/26/06/25/0546238/forget-prompt-engineering-loop-engineering-is-all-the-rage-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Forget Prompt Engineering: &apos;Loop Engineering&apos; Is All the Rage Now](https://developers.slashdot.org/story/26/06/25/0546238/forget-prompt-engineering-loop-engineering-is-all-the-rage-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-27, 15:16:10](https://lobste.rs/s/6c5c4j/comparing_transformers_hybrid_models_at) - [Comparing Transformers and Hybrid Models at the Token Level](https://arxiv.org/pdf/2606.20936)
+* [2026-06-27, 15:15:46](https://lobste.rs/s/mhjlia/gpt2_basic_portable_machine) - [GPT2-BASIC: Portable Machine Intelligence in BASIC](https://github.com/tsotchke/gpt2-basic)
+* [2026-06-27, 15:10:14](https://lobste.rs/s/boap41/peek_into_reddit_s_anti_spam_internals) - [A peek into Reddit&apos;s anti-spam internals](https://lyra.horse/blog/2026/06/reddit-spam-internals/)
+* [2026-06-27, 14:38:05](https://news.ycombinator.com/item?id=48698684) - [Zuckerberg&apos;s Increasingly Bizarre War on Whistleblowers](https://pluralistic.net/2026/06/27/zuckerstreisand-2/)
+* [2026-06-27, 14:31:00](https://news.ycombinator.com/item?id=48698617) - [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium)
+* [2026-06-27, 14:29:27](https://lobste.rs/s/ciwbiq/linux_7_2_improves_anonymous_unnamed_pipe) - [Linux 7.2 Improves Anonymous/Unnamed Pipe Performance For Shell Pipelines &amp; More](https://www.phoronix.com/news/Linux-72-Faster-Anon-Pipe-Write)
+* [2026-06-27, 14:23:40](https://news.ycombinator.com/item?id=48698559) - [Post-Mythos Cybersecurity: Keep calm and carry on](https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/)
+* [2026-06-27, 14:18:23](https://lobste.rs/s/xmsj3r/data_access_patterns_makes_your_cpu) - [Data Access Patterns That Makes Your CPU Really Angry](https://blog.weineng.me/posts/slowest_add/)
+* [2026-06-27, 14:02:52](https://news.ycombinator.com/item?id=48698402) - [Like a Bouncer at a Bookstore: Texas&apos; App Store Accountability Act](https://cdt.org/insights/like-a-bouncer-at-a-bookstore-texas-app-store-accountability-act-is-unconstitutional/)
+* [2026-06-27, 13:32:20](https://news.ycombinator.com/item?id=48698151) - [Suspicious Discontinuities](https://danluu.com/discontinuities/)
 * [2026-06-27, 12:53:26](https://lobste.rs/s/z7eoo7/excessive_nil_pointer_checks_go) - [Excessive nil pointer checks in Go](https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/)
 * [2026-06-27, 12:43:16](https://news.ycombinator.com/item?id=48697768) - [Streaming services&apos; obnoxiously loud ads become illegal on July 1 in California](https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/)
 * [2026-06-27, 12:43:00](https://soylentnews.org/article.pl?sid=26/06/26/1420245&amp;from=rss) - [The Memory Crisis Is Getting So Bad That Even Retro RAM Prices Are Becoming Ridiculous](https://soylentnews.org/article.pl?sid=26/06/26/1420245&amp;from=rss)
+* [2026-06-27, 12:40:59](https://news.ycombinator.com/item?id=48697746) - [How Many Elementary Particles Are There, Really?](https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/)
 * [2026-06-27, 12:40:25](https://lobste.rs/s/oaq69a/shard_your_locks_benchmarking_6_go_cache) - [Shard your locks: benchmarking 6 Go cache designs](https://strebkov.dev/posts/shard-your-locks/)
 * [2026-06-27, 12:10:27](https://news.ycombinator.com/item?id=48697560) - [OpenRA](https://www.openra.net/)
 * [2026-06-27, 12:01:03](https://news.ycombinator.com/item?id=48697504) - [Nox Metals (YC S25) Is Hiring SWE](https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer)
 * [2026-06-27, 12:00:00](https://science.slashdot.org/story/26/06/26/0037206/spacex-plans-to-build-starpipe-natural-gas-pipeline-to-fuel-starship-rockets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SpaceX Plans To Build &apos;Starpipe&apos; Natural Gas Pipeline To Fuel Starship Rockets](https://science.slashdot.org/story/26/06/26/0037206/spacex-plans-to-build-starpipe-natural-gas-pipeline-to-fuel-starship-rockets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-27, 11:32:10](https://news.ycombinator.com/item?id=48697335) - [If you can&apos;t hold it, you don&apos;t own it](https://dervis.de/physical/)
 * [2026-06-27, 10:28:53](https://news.ycombinator.com/item?id=48696982) - [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/)
-* [2026-06-27, 09:20:44](https://lobste.rs/s/vaw8oy/essence_architectural_work_part_3) - [The essence of architectural work - Part 3](https://www.ufried.com/blog/essence_of_architecture_3)
 * [2026-06-27, 09:18:52](https://news.ycombinator.com/item?id=48696585) - [DSpark: Speculative decoding accelerates LLM inference [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
 * [2026-06-27, 09:17:42](https://lobste.rs/s/n2r6r6/how_think_about_ai_cory_doctorow_on_big) - [\&quot;How to Think About AI\&quot;: Cory Doctorow on Big Tech, Understanding AI, Labor Automation &amp; More](https://www.youtube.com/watch?v=OBUzl_IaWIw)
 * [2026-06-27, 09:06:11](https://news.ycombinator.com/item?id=48696510) - [Beer CSS – Build material design in record time](https://www.beercss.com)
@@ -90,25 +93,18 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-27, 08:00:00](https://news.slashdot.org/story/26/06/27/0257237/bitcoin-drops-again-skeptical-investment-strategist-calls-it-useless?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Bitcoin Drops Again. Skeptical Investment Strategist Calls It &apos;Useless&apos;](https://news.slashdot.org/story/26/06/27/0257237/bitcoin-drops-again-skeptical-investment-strategist-calls-it-useless?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-27, 07:57:00](https://soylentnews.org/article.pl?sid=26/06/26/1417252&amp;from=rss) - [Wikipedia Cofounder Larry Sanger Blocked From Editing Wikipedia](https://soylentnews.org/article.pl?sid=26/06/26/1417252&amp;from=rss)
 * [2026-06-27, 07:54:36](https://lobste.rs/s/klhhzq/fifa_interactive_bracket_world_cup) - [FIFA Interactive Bracket (World Cup)](https://worldcup.reeseric.ci)
-* [2026-06-27, 07:09:38](https://lobste.rs/s/lyszpl/cost_yagni_was_never_about) - [The Cost YAGNI Was Never About](https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about)
+* [2026-06-27, 07:51:26](https://news.ycombinator.com/item?id=48696127) - [Researchers have developed pixels that can emit and analyse light together](https://ethz.ch/en/news-and-events/eth-news/news/2026/06/a-new-type-of-pixel.html)
 * [2026-06-27, 07:04:29](https://lobste.rs/s/uws0wx/tiny_compiler_for_data_parallel_kernels) - [A Tiny Compiler for Data-Parallel Kernels](https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels)
-* [2026-06-27, 05:17:08](https://news.ycombinator.com/item?id=48695363) - [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA)
 * [2026-06-27, 05:00:00](https://science.slashdot.org/story/26/06/25/0525240/astronomers-find-biggest-super-puff-planets-yet-that-are-lighter-than-cotton-candy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Astronomers Find Biggest Super-Puff Planets Yet That Are Lighter Than Cotton Candy](https://science.slashdot.org/story/26/06/25/0525240/astronomers-find-biggest-super-puff-planets-yet-that-are-lighter-than-cotton-candy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-27, 04:31:06](https://news.ycombinator.com/item?id=48695149) - [OpenTTD 16.0-Beta1](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1)
 * [2026-06-27, 03:56:22](https://lobste.rs/s/u1clgf/text_files_as_user_interface) - [Text files as a user interface](https://ratfactor.com/cards/text-files-as-ui)
 * [2026-06-27, 03:30:01](https://news.ycombinator.com/item?id=48694853) - [WordStar: A Writer&apos;s Word Processor (1996)](https://www.sfwriter.com/wordstar.htm)
 * [2026-06-27, 03:13:00](https://soylentnews.org/article.pl?sid=26/06/26/1415219&amp;from=rss) - [Pluralistic: Spying on Kids to Save Kids From Spying is Very, Very Stupid](https://soylentnews.org/article.pl?sid=26/06/26/1415219&amp;from=rss)
 * [2026-06-27, 02:41:53](https://news.ycombinator.com/item?id=48694631) - [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
 * [2026-06-27, 02:09:00](https://news.slashdot.org/story/26/06/27/0159230/us-government-allows-anthropic-limited-release-of-mythos-ai-model-saying-appropriate-safeguards-are-in-place?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Government Allows Anthropic Limited Release of &apos;Mythos&apos; AI Model, Saying &apos;Appropriate Safeguards are in Place\&quot;](https://news.slashdot.org/story/26/06/27/0159230/us-government-allows-anthropic-limited-release-of-mythos-ai-model-saying-appropriate-safeguards-are-in-place?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-27, 01:10:40](https://lobste.rs/s/bkiepi/simple_web_framework_for_odin) - [A simple web framework for odin](https://github.com/Lvcky-gg/Gjallarhorn)
-* [2026-06-27, 00:43:39](https://news.ycombinator.com/item?id=48693912) - [Show HN: Hacker News on a train station-style flip board](https://popflame.quickish.space/hn-flipboard/)
 * [2026-06-27, 00:27:42](https://lobste.rs/s/hvd5hk/what_does_it_mean_be_mathematician_when_ai) - [What does it mean to be a mathematician when AI does the math?](https://spectrum.ieee.org/ai-in-mathematics)
 * [2026-06-27, 00:08:45](https://lobste.rs/s/s138jl/nlnet_labs_llm_policy) - [NLNet Labs LLM Policy](https://nlnetlabs.nl/llm-policy/)
-* [2026-06-26, 23:36:30](https://news.ycombinator.com/item?id=48693420) - [International investment and local rules push prices up faster than supply](https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/)
-* [2026-06-26, 22:48:28](https://news.ycombinator.com/item?id=48692995) - [U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
 * [2026-06-26, 22:43:29](https://news.ycombinator.com/item?id=48692946) - [Why does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)
 * [2026-06-26, 22:38:19](https://lobste.rs/s/xpdod3/visual_basic_on_pc_w_windows_3_1) - [Visual Basic on the PC w/Windows 3.1](https://stonetools.ghost.io/visualbasic-win31/)
-* [2026-06-26, 22:36:51](https://news.ycombinator.com/item?id=48692883) - [AI in mathematics is forcing big questions](https://spectrum.ieee.org/ai-in-mathematics)
 * [2026-06-26, 22:26:00](https://soylentnews.org/article.pl?sid=26/06/25/0459200&amp;from=rss) - [Day-to-Day Cyber Disruptions Driving Loss for SMEs, Finds Report](https://soylentnews.org/article.pl?sid=26/06/25/0459200&amp;from=rss)
 * [2026-06-26, 21:14:47](https://news.ycombinator.com/item?id=48692058) - [The gap between open weights LLMs and closed source LLMs](https://blog.doubleword.ai/frontier-os-llm)
 * [2026-06-26, 20:37:27](https://lobste.rs/s/7jmid9/l_system) - [L-system](https://en.wikipedia.org/wiki/L-system)
@@ -116,16 +112,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-26, 19:05:42](https://lobste.rs/s/y4jrtn/youre_os_game_where_you_are_computer_s_os) - [youre-the-os: A game where you are a computer&apos;s OS](https://github.com/plbrault/youre-the-os)
 * [2026-06-26, 18:36:13](https://lobste.rs/s/jespwh/aria_anti_patterns_you) - [ARIA, anti-patterns, and you](https://dbushell.com/2026/06/26/aria-anti-patterns-and-you/)
 * [2026-06-26, 18:27:04](https://lobste.rs/s/atsrpy/making_devenv_start_fast_whole_nixpkgs) - [Making devenv start fast, and the whole nixpkgs with it - devenv](https://devenv.sh/blog/2026/06/26/making-devenv-start-fast-and-the-whole-nixpkgs-with-it/)
-* [2026-06-26, 18:23:14](https://news.ycombinator.com/item?id=48690101) - [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)
 * [2026-06-26, 17:44:00](https://soylentnews.org/article.pl?sid=26/06/25/0445223&amp;from=rss) - [Automakers Could Stop Selling Cars in California Rather Than Comply With Tracking Laws](https://soylentnews.org/article.pl?sid=26/06/25/0445223&amp;from=rss)
 * [2026-06-26, 17:06:55](https://news.ycombinator.com/item?id=48689028) - [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)
+* [2026-06-26, 16:20:06](https://news.ycombinator.com/item?id=48688438) - [One man, two kernels, and a lot of RISC-V](https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858)
 * [2026-06-26, 15:42:28](https://lobste.rs/s/6q12d7/incident_report_cve_2026_lgtm) - [Incident Report: CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html)
 * [2026-06-26, 15:00:00](https://tech.slashdot.org/story/26/06/25/2113249/airbus-is-ordered-to-inspect-16-jets-after-cracks-are-found-in-wings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Airbus Is Ordered To Inspect 16 Jets After Cracks Are Found In Wings](https://tech.slashdot.org/story/26/06/25/2113249/airbus-is-ordered-to-inspect-16-jets-after-cracks-are-found-in-wings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-26, 14:58:54](https://lobste.rs/s/j2ua4f/anatomy_failed_nation_state_attack) - [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
 * [2026-06-26, 13:21:48](https://lobste.rs/s/rm7qnt/guixpkgs_every_guix_package_as_nix_flake) - [GuixPkgs: every Guix package, as a Nix flake](https://fzakaria.com/2026/06/25/guixpkgs-every-guix-package-as-a-nix-flake)
 * [2026-06-26, 12:55:00](https://soylentnews.org/article.pl?sid=26/06/25/0441233&amp;from=rss) - [The Database That Refused to Die: How Postgres Survived its Own Creators](https://soylentnews.org/article.pl?sid=26/06/25/0441233&amp;from=rss)
-* [2026-06-26, 12:52:38](https://lobste.rs/s/n58ygj/how_pgbouncer_works) - [How PgBouncer Works](https://www.augusteo.com/blog/how-pgbouncer-works/)
-* [2026-06-26, 11:51:11](https://news.ycombinator.com/item?id=48685558) - [Ultrasound imaging of the brain](https://alephneuro.com/blog/ultrasound-brain)
 * [2026-06-26, 11:22:44](https://lobste.rs/s/7qssyu/design_patterns_suck) - [Design Patterns Suck](https://luminousmen.com/post/design-patterns-suck/)
 * [2026-06-26, 11:00:00](https://slashdot.org/story/26/06/25/2038233/notion-mail-is-shutting-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Notion Mail Is Shutting Down](https://slashdot.org/story/26/06/25/2038233/notion-mail-is-shutting-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-26, 09:48:57](https://lobste.rs/s/yvvhve/all_you_need_is_postgresql) - [All you need is PostgreSQL](https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/)
@@ -142,10 +136,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-25, 20:00:00](https://news.slashdot.org/story/26/06/25/1821255/apple-raises-prices-on-macs-ipads-and-more-by-hundreds-of-dollars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Raises Prices On Macs, iPads, and More By Hundreds of Dollars](https://news.slashdot.org/story/26/06/25/1821255/apple-raises-prices-on-macs-ipads-and-more-by-hundreds-of-dollars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-25, 19:00:00](https://yro.slashdot.org/story/26/06/25/1816247/lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [LastPass Says Hackers Stole Customer Support Case Data During Klue Breach](https://yro.slashdot.org/story/26/06/25/1816247/lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-25, 18:42:17](https://news.ycombinator.com/item?id=48677564) - [Long Wave radio era set to end with switch-off](https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service)
-* [2026-06-25, 18:12:00](https://yro.slashdot.org/story/26/06/25/1810226/anthropic-says-alibaba-must-be-punished-for-largest-claude-cloning-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Anthropic Says Alibaba Must Be Punished For Largest Claude Cloning Attack](https://yro.slashdot.org/story/26/06/25/1810226/anthropic-says-alibaba-must-be-punished-for-largest-claude-cloning-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-25, 17:54:00](https://soylentnews.org/article.pl?sid=26/06/25/0345250&amp;from=rss) - [Cory Doctorow on the Right — and Wrong — Way to Criticize AI](https://soylentnews.org/article.pl?sid=26/06/25/0345250&amp;from=rss)
 * [2026-06-25, 15:54:17](https://news.ycombinator.com/item?id=48675290) - [Cultures of Making and Relating](https://blog.khinsen.net/posts/2026/06/25/cultures.html)
-* [2026-06-25, 15:07:27](https://lobste.rs/s/csgzki/exhaustion_talking_tool) - [The Exhaustion of Talking to a Tool](https://ohadravid.github.io/posts/2026-06-tool-talking/)
 * [2026-06-25, 13:10:00](https://soylentnews.org/article.pl?sid=26/06/25/0341243&amp;from=rss) - [Die Analysis of the 8087 Math Coprocessor&apos;s Fast Bit Shifter](https://soylentnews.org/article.pl?sid=26/06/25/0341243&amp;from=rss)
 * [2026-06-25, 08:28:00](https://soylentnews.org/article.pl?sid=26/06/25/0339211&amp;from=rss) - [Nvidia&apos;s New AI Racks Run on 45°C Liquid Cooling](https://soylentnews.org/article.pl?sid=26/06/25/0339211&amp;from=rss)
 * [2026-06-25, 07:26:06](https://news.ycombinator.com/item?id=48670103) - [The US Army Issued Ocarinas to Soldiers in World War II](https://www.flutetunes.com/articles/my-flute-goes-to-war/)
@@ -153,12 +145,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-25, 03:45:00](https://soylentnews.org/article.pl?sid=26/06/25/0336221&amp;from=rss) - [Brave Gives Linux Users Its Stripped Down Origin Browser for Free](https://soylentnews.org/article.pl?sid=26/06/25/0336221&amp;from=rss)
 * [2026-06-24, 21:10:00](https://soylentnews.org/article.pl?sid=26/06/23/0949209&amp;from=rss) - [Russian Satellites Cosmos 2546 Have Been Jamming GPS Signals Across Europe](https://soylentnews.org/article.pl?sid=26/06/23/0949209&amp;from=rss)
 * [2026-06-24, 21:09:07](https://news.ycombinator.com/item?id=48665671) - [Jest/Vitest interactive course (runs in the browser)](https://howtotestfrontend.com/courses/jest-vitest-fundamentals)
+* [2026-06-24, 18:42:12](https://news.ycombinator.com/item?id=48664063) - [Reducing tick density along recreational trails in Ottawa, Canada](https://www.sciencedirect.com/science/article/pii/S1877959X26000476)
 * [2026-06-24, 16:25:00](https://soylentnews.org/article.pl?sid=26/06/23/0941229&amp;from=rss) - [Voyager 1 Will Cross The 1 Light-Day Threshold On November 18, 2026](https://soylentnews.org/article.pl?sid=26/06/23/0941229&amp;from=rss)
 * [2026-06-24, 11:42:00](https://soylentnews.org/article.pl?sid=26/06/23/0934229&amp;from=rss) - [Crypto Clipper Spreads Over USB and Communicates Over Tor](https://soylentnews.org/article.pl?sid=26/06/23/0934229&amp;from=rss)
-* [2026-06-24, 11:27:07](https://news.ycombinator.com/item?id=48658148) - [Fusion Programming Language](https://fusion-lang.org/)
 * [2026-06-24, 06:54:00](https://soylentnews.org/article.pl?sid=26/06/23/0931228&amp;from=rss) - [Intel And AMD&apos;s New ACE CPU Extensions Bring An Efficient AI-Oriented Instruction Set To X86](https://soylentnews.org/article.pl?sid=26/06/23/0931228&amp;from=rss)
 * [2026-06-24, 02:07:00](https://soylentnews.org/article.pl?sid=26/06/23/0928218&amp;from=rss) - [GM Replaces Over 1,000 Detroit Workers With Just 50 Robots](https://soylentnews.org/article.pl?sid=26/06/23/0928218&amp;from=rss)
 * [2026-06-23, 21:24:00](https://soylentnews.org/article.pl?sid=26/06/23/0925237&amp;from=rss) - [We Treat the Eight-hour Day as an Acceptable Day&apos;s Work ....](https://soylentnews.org/article.pl?sid=26/06/23/0925237&amp;from=rss)
+* [2026-06-23, 20:21:19](https://news.ycombinator.com/item?id=48650794) - [Underarm Bowling Incident of 1981](https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981)
 * [2026-06-23, 16:38:00](https://soylentnews.org/article.pl?sid=26/06/22/039226&amp;from=rss) - [AI Economics for Dummies](https://soylentnews.org/article.pl?sid=26/06/22/039226&amp;from=rss)
 * [2026-06-23, 14:28:20](https://news.ycombinator.com/item?id=48645510) - [Task Failed Successfully: Saturating NIC and Disk Bandwidth](https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/)
 * [2026-06-23, 11:54:00](https://soylentnews.org/article.pl?sid=26/06/22/038218&amp;from=rss) - [Leaked Financial Docs Show OpenAI Is Losing Billions Of Dollars A Year](https://soylentnews.org/article.pl?sid=26/06/22/038218&amp;from=rss)
