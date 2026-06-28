@@ -1,46 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Breakthroughs and Innovations
+## Tech and Innovations
 
-* [I Stored a Website in a Favicon](https://soylentnews.org/article.pl?sid=26/06/27/1818212&amp;from=rss) - This article explores the technology behind storing and serving websites entirely through favicons, showcasing creativity in data embedding.
+* [MAX models can now run on Apple silicon GPUs](https://lobste.rs/s/4srepl/max_models_can_now_run_on_apple_silicon) - Key advancements enable MAX models to leverage the power of Apple silicon GPUs for enhanced performance. [Comments](https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283).
 
-* [Building an Open-Source Robot Vacuum — Meet oomwoo](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/) - A dive into the development of oomwoo, an innovative open-source robot vacuum integrating high-level technology.
+* [Building an Open-Source Robot Vacuum — Meet oomwoo](https://lobste.rs/s/qr1zhy/building_open_source_robot_vacuum_meet) - Discover 'oomwoo,' an open-source project aiming to create a customizable robot vacuum. [Comments](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/).
 
-* [IBM is Getting Ready to Scale Quantum Computing](https://hardware.slashdot.org/story/26/06/28/032226/ibm-is-getting-ready-to-scale-quantum-computing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - IBM announces advancements in scaling quantum computing, promising significant technological leaps in the field.
+* [Nourish - a wayland compositor with infinite zoom and pan](https://lobste.rs/s/cychnm/nourish_wayland_compositor_with) - A new addition to the Wayland ecosystem, enabling creative and innovative user interfaces. [Comments](https://github.com/y5-snowies/nourish).
 
-* [Scroll Burned in 79 AD Volcanic Eruption Finally Deciphered Using AI](https://science.slashdot.org/story/26/06/27/1825220/scroll-burned-in-79-ad-volcanic-eruption-finally-deciphered-using-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Cutting-edge AI technology has been used to decode ancient scrolls preserved in the eruption of Mount Vesuvius in 79 AD.
+* [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://news.ycombinator.com/item?id=48704373) - A router designed for deterministic management of queries for AI applications. [Comments](https://github.com/itsthelore/wayfinder-router).
 
-## Ethics and Challenges in Technology
+## Artificial Intelligence and Machine Learning
 
-* [An Amazon Seller Says They Were Offered a Way to Bribe an Amazon Employee](https://yro.slashdot.org/story/26/06/28/0459214/an-amazon-seller-says-they-were-offered-a-way-to-bribe-an-amazon-employee?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - An Amazon seller exposes attempts of internal bribery, highlighting challenges in e-commerce integrity.
+* [AI Learns the "Dark Art" of RF Chip Design](https://lobste.rs/s/bxhmjt/ai_learns_dark_art_rf_chip_design) - A new approach enabling deep learning algorithms to master complex radio frequency chip design. [Comments](https://spectrum.ieee.org/ai-radio-chip-design).
 
-* [Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html) - The downsides of replacing human workforce with AI are explored through Ford's automation misstep.
+* [Scroll Burned in 79 AD Volcanic Eruption Finally Deciphered Using AI](https://science.slashdot.org/story/26/06/27/1825220/scroll-burned-in-79-ad-volcanic-eruption-finally-deciphered-using-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - AI cracks the code of an ancient, charred scroll, unveiling new historical insights. [Comments](https://science.slashdot.org/comments.pl?sid=22297302&amp;cid=64931874).
 
-* [How a Seemingly Harmless Image Can Jailbreak Vision-Language AI Models](https://slashdot.org/story/26/06/27/2249212/how-a-seemingly-harmless-image-can-jailbreak-vision-language-ai-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Researchers reveal vulnerabilities in AI technology that can be exploited using seemingly benign images.
+* [US Government Allows Anthropic Limited Release of 'Mythos' AI Model, Saying 'Appropriate Safeguards Are In Place"](https://news.slashdot.org/story/26/06/27/0159230/us-government-allows-anthropic-limited-release-of-mythos-ai-model-saying-appropriate-safeguards-are-in-place?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - US authorities permit limited release of the controversial AI model 'Mythos.' [Comments](https://news.slashdot.org/comments.pl?sid=22297253&amp;cid=64931661).
 
-* [Post-Mythos Cybersecurity: Keep calm and carry on](https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/) - A discussion on maintaining cybersecurity resilience in the evolving technology landscape.
+## Cybersecurity and Digital Privacy
 
-* [Cory Doctorow on the Right — and Wrong — Way to Criticize AI](https://soylentnews.org/article.pl?sid=26/06/25/0345250&amp;from=rss) - Author Cory Doctorow shares his insights on how we should approach the criticism of AI and its implications for society.
+* [ASML Denies US Government Report That its EUV Chipmaking Tool Was Shipped to China](https://soylentnews.org/article.pl?sid=26/06/27/1815209&amp;from=rss) - ASML refutes allegations about violations of export control laws pertaining to high-end chipmaking tools. [Comments](https://soylentnews.org/comments.pl?sid=52386&amp;cid=1298442).
 
-## Programming and Open Source Innovations
+* [It's dead, Jim! (UEFI CA expiry)](https://lobste.rs/s/xz51yj/it_s_dead_jim_uefi_ca_expiry) - Details on the expiration of an essential Component Authority certificate for UEFI firmware. [Comments](https://blog.einval.com/2026/06/27#its_dead_jim).
 
-* [Bashblog – a single bash script to create blogs](https://github.com/cfenollosa/bashblog) - This guide introduces a lightweight solution to creating a personal blog using a single bash script.
+* [Anonymous GitHub account mass-dropping undisclosed 0-days](https://news.ycombinator.com/item?id=48698617) - An anonymous account uploads undisclosed security vulnerabilities, raising cybersecurity concerns. [Comments](https://github.com/bikini/exploitarium).
 
-* [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router) - A new tool for routing responsibilities effectively between local and hosted large language models (LLMs).
+## Environment and Energy
 
-* [WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups](https://clickhouse.com/blog/walrus-postgres-backups-in-rust) - A Rust-based reimplementation of the WAL-G tool aiming to optimize PostgreSQL backups.
+* [France's Heat This Week Was Worse Than a Dire Scenario Imagined For 2050](https://news.slashdot.org/story/26/06/27/2146244/frances-heat-this-week-was-worse-than-a-dire-scenario-imagined-for-2050?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Extreme heat in France surpasses projections for the year 2050 scenarios. [Comments](https://news.slashdot.org/comments.pl?sid=22297922&amp;cid=64931912).
 
-* [Dependently typed Clojure DSL with a Lean4 compatible kernel](https://github.com/replikativ/ansatz) - Exploring a dependently typed Clojure DSL crafted to enhance programming compatibility with Lean4.
+* [Renewable Energy Just Hit 30% of America's Electricity Generation](https://hardware.slashdot.org/story/26/06/28/0020230/renewable-energy-just-hit-30-of-americas-electricity-generation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Notable growth in renewable energy use within the US hits a significant milestone. [Comments](https://hardware.slashdot.org/comments.pl?sid=22297924&amp;cid=64931931).
 
-## Cultural Insight and Impacts of Technology
+## Historical Advances and Discoveries
 
-* [Turning music into a chore is how I became a musician (2022)](https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/) - A reflective piece on the process that led the author to embrace music as an art form.
+* [Die Analysis of the 8087 Math Coprocessor's Fast Bit Shifter](https://soylentnews.org/article.pl?sid=26/06/25/0341243&amp;from=rss) - A deep dive into the engineering of an integral part of the 8087 processor. [Comments](https://soylentnews.org/comments.pl?sid=52351&amp;cid=1298084).
 
-* [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep) - A unique perspective on the soothing power of radio broadcasts, designed to promote rest.
+* [Voyager 1 Will Cross The 1 Light-Day Threshold On November 18, 2026](https://soylentnews.org/article.pl?sid=26/06/23/0941229&amp;from=rss) - The Voyager mission reaches another monumental milestone in exploring outer space. [Comments](https://soylentnews.org/comments.pl?sid=52341&amp;cid=1298018).
 
-* [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium) - An investigation into concerns raised by an anonymous GitHub account releasing zero-day exploits.
+## Creative and Unconventional Innovations
 
-* [What does it mean to be a mathematician when AI does the math?](https://spectrum.ieee.org/ai-in-mathematics) - Investigating the evolving role of mathematicians as AI takes on increasingly complex analytical tasks.
+* [I Stored a Website in a Favicon](https://soylentnews.org/article.pl?sid=26/06/27/1818212&amp;from=rss) - A quirky project demonstrating the potential of encoding entire websites into favicon files. [Comments](https://soylentnews.org/comments.pl?sid=52387&amp;cid=1298446).
+
+* [Bashblog – a single bash script to create blogs](https://news.ycombinator.com/item?id=48704454) - A minimalistic approach to creating blogs utilizing just one Bash script. [Comments](https://github.com/cfenollosa/bashblog).
 
 ---
 
@@ -67,6 +69,9 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-06-28, 09:21:19](https://lobste.rs/s/4srepl/max_models_can_now_run_on_apple_silicon) - [MAX models can now run on Apple silicon GPUs](https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283)
+* [2026-06-28, 09:15:23](https://lobste.rs/s/1mgjz9/auditable_commercial_license_acl_v1_0) - [Auditable Commercial License (ACL) v1.0](https://www.auditablelicense.org)
+* [2026-06-28, 07:56:46](https://lobste.rs/s/cychnm/nourish_wayland_compositor_with) - [Nourish - a wayland compositor with infinite zoom and pan](https://github.com/y5-snowies/nourish)
 * [2026-06-28, 07:36:00](https://soylentnews.org/article.pl?sid=26/06/27/1818212&amp;from=rss) - [I Stored a Website in a Favicon](https://soylentnews.org/article.pl?sid=26/06/27/1818212&amp;from=rss)
 * [2026-06-28, 07:34:00](https://yro.slashdot.org/story/26/06/28/0459214/an-amazon-seller-says-they-were-offered-a-way-to-bribe-an-amazon-employee?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [An Amazon Seller Says They Were Offered a Way to Bribe an Amazon Employee](https://yro.slashdot.org/story/26/06/28/0459214/an-amazon-seller-says-they-were-offered-a-way-to-bribe-an-amazon-employee?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-28, 05:51:51](https://lobste.rs/s/64s29h/call_for_participation) - [Call for participation](https://emacsconf.org/2026/cfp/)
@@ -77,9 +82,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-28, 03:12:48](https://lobste.rs/s/xsig5e/working_around_dragons_with_lemote) - [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html)
 * [2026-06-28, 03:09:13](https://news.ycombinator.com/item?id=48703968) - [Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)
 * [2026-06-28, 02:54:00](https://soylentnews.org/article.pl?sid=26/06/27/1815209&amp;from=rss) - [ASML Denies US Government Report That its EUV Chipmaking Tool Was Shipped to China](https://soylentnews.org/article.pl?sid=26/06/27/1815209&amp;from=rss)
-* [2026-06-28, 02:51:15](https://lobste.rs/s/bh6usk/dependently_typed_clojure_dsl_with_lean4) - [Dependently typed Clojure DSL with a Lean4 compatible kernel](https://github.com/replikativ/ansatz)
 * [2026-06-28, 02:23:08](https://news.ycombinator.com/item?id=48703759) - [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
-* [2026-06-28, 01:55:21](https://news.ycombinator.com/item?id=48703613) - [Feds Killed Polestar and Spared Volvo](https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you)
 * [2026-06-28, 01:34:00](https://hardware.slashdot.org/story/26/06/28/0020230/renewable-energy-just-hit-30-of-americas-electricity-generation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [ Renewable Energy Just Hit 30% of America&apos;s Electricity Generation](https://hardware.slashdot.org/story/26/06/28/0020230/renewable-energy-just-hit-30-of-americas-electricity-generation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-28, 01:28:10](https://news.ycombinator.com/item?id=48703452) - [The best response to AI slop and online noise is from Robin Williams](https://jayacunzo.com/blog/your-move-chief)
 * [2026-06-28, 01:22:30](https://news.ycombinator.com/item?id=48703418) - [Turning music into a chore is how I became a musician (2022)](https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/)
@@ -99,7 +102,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-27, 19:39:10](https://lobste.rs/s/bgnc5q/prism_impure_functional_language_with) - [Prism: An Impure Functional Language With Typed Effects](https://www.stephendiehl.com/posts/prism/)
 * [2026-06-27, 19:34:00](https://science.slashdot.org/story/26/06/27/1825220/scroll-burned-in-79-ad-volcanic-eruption-finally-deciphered-using-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scroll Burned in 79 AD Volcanic Eruption Finally Deciphered Using AI](https://science.slashdot.org/story/26/06/27/1825220/scroll-burned-in-79-ad-volcanic-eruption-finally-deciphered-using-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-27, 19:31:05](https://lobste.rs/s/b0tn2i/pg_plan_advice_help_planner_get_right_plan) - [pg_plan_advice — help the planner get the right plan](https://www.postgresql.org/docs/19/pgplanadvice.html)
-* [2026-06-27, 19:09:49](https://news.ycombinator.com/item?id=48700834) - [IP Crawl: Living atlas of open webcams discovered on the public internet](https://ipcrawl.com/)
 * [2026-06-27, 18:34:00](https://yro.slashdot.org/story/26/06/27/0635220/california-sheriff-says-their-drone-disarmed-a-suspect-shares-video-on-instagram?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [California Sheriff Says Their Drone Disarmed a Suspect, Shares Video on Instagram](https://yro.slashdot.org/story/26/06/27/0635220/california-sheriff-says-their-drone-disarmed-a-suspect-shares-video-on-instagram?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-27, 18:03:29](https://lobste.rs/s/bxhmjt/ai_learns_dark_art_rf_chip_design) - [AI Learns the \&quot;Dark Art\&quot; of RF Chip Design](https://spectrum.ieee.org/ai-radio-chip-design)
 * [2026-06-27, 17:34:00](https://science.slashdot.org/story/26/06/26/221205/non-invasive-stimulation-of-the-brain-ended-opioid-addiction-cigarette-craving?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Non-Invasive Stimulation of the Brain Ended Opioid Addiction, Cigarette Craving](https://science.slashdot.org/story/26/06/26/221205/non-invasive-stimulation-of-the-brain-ended-opioid-addiction-cigarette-craving?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -133,11 +135,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-27, 03:56:22](https://lobste.rs/s/u1clgf/text_files_as_user_interface) - [Text files as a user interface](https://ratfactor.com/cards/text-files-as-ui)
 * [2026-06-27, 03:13:00](https://soylentnews.org/article.pl?sid=26/06/26/1415219&amp;from=rss) - [Pluralistic: Spying on Kids to Save Kids From Spying is Very, Very Stupid](https://soylentnews.org/article.pl?sid=26/06/26/1415219&amp;from=rss)
 * [2026-06-27, 02:09:00](https://news.slashdot.org/story/26/06/27/0159230/us-government-allows-anthropic-limited-release-of-mythos-ai-model-saying-appropriate-safeguards-are-in-place?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Government Allows Anthropic Limited Release of &apos;Mythos&apos; AI Model, Saying &apos;Appropriate Safeguards are in Place\&quot;](https://news.slashdot.org/story/26/06/27/0159230/us-government-allows-anthropic-limited-release-of-mythos-ai-model-saying-appropriate-safeguards-are-in-place?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-27, 00:27:42](https://lobste.rs/s/hvd5hk/what_does_it_mean_be_mathematician_when_ai) - [What does it mean to be a mathematician when AI does the math?](https://spectrum.ieee.org/ai-in-mathematics)
 * [2026-06-27, 00:08:45](https://lobste.rs/s/s138jl/nlnet_labs_llm_policy) - [NLNet Labs LLM Policy](https://nlnetlabs.nl/llm-policy/)
-* [2026-06-26, 22:38:19](https://lobste.rs/s/xpdod3/visual_basic_on_pc_w_windows_3_1) - [Visual Basic on the PC w/Windows 3.1](https://stonetools.ghost.io/visualbasic-win31/)
 * [2026-06-26, 22:26:00](https://soylentnews.org/article.pl?sid=26/06/25/0459200&amp;from=rss) - [Day-to-Day Cyber Disruptions Driving Loss for SMEs, Finds Report](https://soylentnews.org/article.pl?sid=26/06/25/0459200&amp;from=rss)
 * [2026-06-26, 17:44:00](https://soylentnews.org/article.pl?sid=26/06/25/0445223&amp;from=rss) - [Automakers Could Stop Selling Cars in California Rather Than Comply With Tracking Laws](https://soylentnews.org/article.pl?sid=26/06/25/0445223&amp;from=rss)
+* [2026-06-26, 17:32:35](https://news.ycombinator.com/item?id=48689407) - [From Hallmark to neon signs: A look at Jim Parkinson&apos;s career in letter art](https://typographica.org/on-typography/jim-parkinson-1941-2025/)
 * [2026-06-26, 14:58:54](https://lobste.rs/s/j2ua4f/anatomy_failed_nation_state_attack) - [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
 * [2026-06-26, 14:07:41](https://news.ycombinator.com/item?id=48686804) - [Reflecting to optimise](https://magnusross.github.io/posts/reflecting-to-optimise/)
 * [2026-06-26, 12:55:00](https://soylentnews.org/article.pl?sid=26/06/25/0441233&amp;from=rss) - [The Database That Refused to Die: How Postgres Survived its Own Creators](https://soylentnews.org/article.pl?sid=26/06/25/0441233&amp;from=rss)
@@ -156,6 +157,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-24, 16:25:00](https://soylentnews.org/article.pl?sid=26/06/23/0941229&amp;from=rss) - [Voyager 1 Will Cross The 1 Light-Day Threshold On November 18, 2026](https://soylentnews.org/article.pl?sid=26/06/23/0941229&amp;from=rss)
 * [2026-06-24, 14:02:16](https://news.ycombinator.com/item?id=48660021) - [AI learns the “dark art” of RFIC design](https://spectrum.ieee.org/ai-radio-chip-design)
 * [2026-06-24, 13:31:10](https://news.ycombinator.com/item?id=48659517) - [How do you keep Web MIDI from crashing a 1983 synthesizer?](https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer)
+* [2026-06-24, 12:51:21](https://news.ycombinator.com/item?id=48658960) - [Experimenting with Random() in CSS](https://polypane.app/blog/experimenting-with-random-in-css/)
 * [2026-06-24, 11:42:00](https://soylentnews.org/article.pl?sid=26/06/23/0934229&amp;from=rss) - [Crypto Clipper Spreads Over USB and Communicates Over Tor](https://soylentnews.org/article.pl?sid=26/06/23/0934229&amp;from=rss)
 * [2026-06-24, 06:54:00](https://soylentnews.org/article.pl?sid=26/06/23/0931228&amp;from=rss) - [Intel And AMD&apos;s New ACE CPU Extensions Bring An Efficient AI-Oriented Instruction Set To X86](https://soylentnews.org/article.pl?sid=26/06/23/0931228&amp;from=rss)
 * [2026-06-24, 02:07:00](https://soylentnews.org/article.pl?sid=26/06/23/0928218&amp;from=rss) - [GM Replaces Over 1,000 Detroit Workers With Just 50 Robots](https://soylentnews.org/article.pl?sid=26/06/23/0928218&amp;from=rss)
