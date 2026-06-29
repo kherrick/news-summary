@@ -1,46 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Scientific Discoveries and Space
+## Technology and Artificial Intelligence
 
-* [Scientists Think Neptune and Uranus May Not Be the Ice Giants We Imagined](https://science.slashdot.org/story/26/06/29/0135220/scientists-think-neptune-and-uranus-may-not-be-the-ice-giants-we-imagined?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New research is challenging the current understanding of Neptune and Uranus as 'ice giants,' potentially reshaping what we know about planetary formation.
+* [When Impressive Performance Gains Do Not Matter](https://blog.colinbreck.com/when-impressive-performance-gains-do-not-matter/) — Discusses how performance improvements may not always align with practical impacts or user benefits. ([Comments](https://lobste.rs/s/fok2dp/when_impressive_performance_gains_do_not))
 
-* [More evidence is consistent with possible ancient life on Mars (2025)](https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645) - A new study adds to the growing body of evidence supporting the hypothesis of ancient life on Mars.
+* [The Scanline Sweeper: A Glyph Rendering Algorithm](https://youtu.be/B9bztU1sTFA) — A video showcasing an innovative approach to glyph rendering using scanline algorithms. ([Comments](https://lobste.rs/s/sxzzzn/scanline_sweeper_glyph_rendering))
 
-## Cybersecurity and Privacy Concerns
+* [Five Eyes Spooks Warn AI Means Infosec Incidents Can Become 'Major Operational and Financial Crises'](https://soylentnews.org/article.pl?sid=26/06/28/1816241&amp;from=rss) — Intelligence agencies highlight the growing risks of using AI in cybersecurity scenarios. ([Comments](https://soylentnews.org/comments.pl?sid=26/06/28/1816241&amp;cid=0))
 
-* [Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026) - A thought-provoking piece on how age verification systems may pave the way for broader speech attribution and monitoring online.
+* [Knowledge Distillation of Black-Box Large Language Models (2024)](https://arxiv.org/abs/2401.07013) — Examines how to distill knowledge from black-box LLMs to smaller models. ([Comments](https://news.ycombinator.com/item?id=48712420))
 
-* [“Double Threat” to Private Communications: Undemocratic Chat Control Backroom Deals and Imminent Concessions Spark Relaunch of fightchatcontrol.eu](https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/) - Concerns are being raised about the erosion of privacy in digital communications due to regulatory and business practices.
+* [China's AI Matches Anthropic in Cybersecurity, Causing Worry Over US Restrictions](https://slashdot.org/story/26/06/28/1922225/chinas-ai-matches-anthropic-in-cybersecurity-causing-worry-over-us-restrictions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) — Rising capabilities of China's AI in cybersecurity spark concerns in the U.S. ([Comments](https://slashdot.org/comments.pl?sid=26/06/28/1922225))
 
-* [US Agency Cancels Contract For Warrantless Tracking of Mobile Devices](https://news.slashdot.org/story/26/06/28/0546256/us-agency-cancels-contract-for-warrantless-tracking-of-mobile-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A U.S. agency has decided to halt a controversial contract related to tracking mobile devices without warrants.
+* [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/) — A new AI model outperforms Claude in cybersecurity benchmarks. ([Comments](https://news.ycombinator.com/item?id=48709670))
 
-## Emerging Technologies and Innovations
+## Space and Science
 
-* [Herdr: Agent multiplexer that lives in your terminal](https://github.com/ogulcancelik/herdr) - A new multiplexer tool enables enhanced terminal-based process management through a single interface.
+* [Scientists Think Neptune and Uranus May Not Be the Ice Giants We Imagined ](https://science.slashdot.org/story/26/06/29/0135220/scientists-think-neptune-and-uranus-may-not-be-the-ice-giants-we-imagined?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) — A new hypothesis suggests these mysterious planets may differ significantly from previous assumptions. ([Comments](https://science.slashdot.org/comments.pl?sid=26/06/29/0135220))
 
-* [We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/) - The GLM 5.2 AI model demonstrates improved performance over Claude on cyber benchmarks.
+* [Interplanetary Fossil Find?](https://soylentnews.org/article.pl?sid=26/06/25/0348249&amp;from=rss) — Discusses the possibility of discovering interplanetary fossils. ([Comments](https://soylentnews.org/comments.pl?sid=26/06/25/0348249&amp;cid=0))
 
-* [Examining circuit boards from the Space Shuttle's I/O Processor](http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html) - A detailed look into the intricate circuit boards of the Space Shuttle’s I/O processor systems.
+* [IBM is Getting Ready to Scale Quantum Computing](https://hardware.slashdot.org/story/26/06/28/032226/ibm-is-getting-ready-to-scale-quantum-computing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) — IBM makes strides in scaling quantum computing technologies. ([Comments](https://hardware.slashdot.org/comments.pl?sid=26/06/28/032226))
 
-## Controversies and Ethics in Tech
+## Cybersecurity and Digital Privacy
 
-* [Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/) - Issues of censorship and corporate influence come to light as Google faces allegations of aiding in the removal of critical content about Pollen.
+* [Autocrypt v2 - Post-Quantum and Reliable Deletion](https://autocrypt2.org) — Announcement of Autocrypt v2, which focuses on post-quantum secure and reliable email deletion. ([Comments](https://lobste.rs/s/esy9xh/autocrypt_v2_post_quantum_reliable))
 
-* [Professor denounces mass AI fraud on an exam at Brown](https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html) - An academic scandal at Brown University draws attention to the use of AI in cheating during exams.
+* [Photoshop Now Censors Your Art as You Edit](https://soylentnews.org/article.pl?sid=26/06/28/183229&amp;from=rss) — Examines the unintended results of AI-driven automated content transparency in Adobe Photoshop. ([Comments](https://soylentnews.org/comments.pl?sid=26/06/28/183229&amp;cid=0))
 
-* [Trump-Shuttered Climate Change Site Now Back Online In Nonprofit Hands](https://news.slashdot.org/story/26/06/29/0115229/trump-shuttered-climate-change-site-now-back-online-in-nonprofit-hands?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A rebirth of a climate change monitoring platform previously shuttered by the Trump administration, now run by a nonprofit organization.
+* [Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026) — A critical look at the societal implications of age verification systems online. ([Comments](https://news.ycombinator.com/item?id=48714529))
 
-## Technology and Infrastructure
+* [Day-to-Day Cyber Disruptions Driving Loss for SMEs, Finds Report](https://soylentnews.org/article.pl?sid=26/06/25/0459200&amp;from=rss) — Reports on the increasing frequency and impact of daily cyber disruptions on small and medium enterprises. ([Comments](https://soylentnews.org/comments.pl?sid=26/06/25/0459200&amp;cid=0))
 
-* [US Grid Constraints: Towards 40GW+ of Behind-the-Meter Datacenter by 2028?](https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw) - A report discusses the challenges of expanding U.S. grid infrastructure to accommodate growing data center demand.
+## History, Culture, and Miscellaneous
 
-* [Microsoft Slammed for Building Copyright-Infringing Supercomputer for OpenAI in New Court Filing](https://yro.slashdot.org/story/26/06/28/2256226/microsoft-slammed-for-building-copyright-infringing-supercomputer-for-openai-in-new-court-filing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft faces allegations of copyright infringement in constructing a supercomputer for use by OpenAI.
+* [Why did this journal retract two 1940s papers by Max Planck?](https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/) — Looks into the mystery of why two historical scientific papers were recently retracted. ([Comments](https://news.ycombinator.com/item?id=48716634))
 
-## Software Development Insights
+* [The Baffling World of Masayoshi Son's Presentations (2020)](https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son) — Revisiting the eccentric and intriguing presentation styles of SoftBank's Masayoshi Son. ([Comments](https://news.ycombinator.com/item?id=48684315))
 
-* [A Core Calculus for Documents](https://dl.acm.org/doi/pdf/10.1145/3632865) - A new theoretical framework for managing document editing through computational calculus.
+## Cultural and Social Trends
 
-* [Introducing Test That](https://hovinen.me/announcements/2026/06/24/introducing-test-that.html) - This announcement presents a new testing framework designed to facilitate developer workflows.
+* [Caffeinated and decaffeinated coffee lower stress, depression and impulsivity](https://www.ucc.ie/en/advancement/alumni-benefits/bridge-newsletter/why-your-morning-brew-is-good-for-you.html) — Research suggests coffee, with or without caffeine, may have positive effects on mood and behavior. ([Comments](https://news.ycombinator.com/item?id=48717758))
+
+* [Students Around the World are Using AI-Powered Smart Glasses to Cheat on Tests](https://news.slashdot.org/story/26/06/27/1926233/students-around-the-world-are-using-ai-powered-smart-glasses-to-cheat-on-tests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) — Explores how students are leveraging smart glasses for academic dishonesty. ([Comments](https://news.slashdot.org/comments.pl?sid=26/06/27/1926233))
 
 ---
 
@@ -67,13 +69,19 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-06-29, 13:15:52](https://lobste.rs/s/fok2dp/when_impressive_performance_gains_do_not) - [When Impressive Performance Gains Do Not Matter](https://blog.colinbreck.com/when-impressive-performance-gains-do-not-matter/)
+* [2026-06-29, 13:13:29](https://lobste.rs/s/sxzzzn/scanline_sweeper_glyph_rendering) - [The Scanline Sweeper: A Glyph Rendering Algorithm](https://youtu.be/B9bztU1sTFA)
+* [2026-06-29, 12:02:00](https://soylentnews.org/article.pl?sid=26/06/28/1816241&amp;from=rss) - [Five Eyes Spooks Warn AI Means Infosec Incidents Can Become &apos;Major Operational and Financial Crises&apos;](https://soylentnews.org/article.pl?sid=26/06/28/1816241&amp;from=rss)
+* [2026-06-29, 11:34:36](https://news.ycombinator.com/item?id=48717905) - [Rebuilding the Computer Room](https://alexwlchan.net/2026/computer-room/)
+* [2026-06-29, 11:20:55](https://news.ycombinator.com/item?id=48717758) - [Caffeinated and decaffeinated coffee lower stress, depression and impulsivity](https://www.ucc.ie/en/advancement/alumni-benefits/bridge-newsletter/why-your-morning-brew-is-good-for-you.html)
+* [2026-06-29, 10:22:25](https://lobste.rs/s/esy9xh/autocrypt_v2_post_quantum_reliable) - [Autocrypt v2 - Post-Quantum and Reliable Deletion](https://autocrypt2.org)
+* [2026-06-29, 10:20:25](https://news.ycombinator.com/item?id=48717287) - [Sandia National Labs SA3000 8085 CPU](https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/)
 * [2026-06-29, 10:04:32](https://lobste.rs/s/ypba4x/integrity_on_embedded_linux_devices) - [Integrity on Embedded Linux Devices under the Cyber Resilience Act](https://sigma-star.at/blog/2026/06/integrity-on-embedded-linux-devices-under-the-cyber-resilience-act/)
 * [2026-06-29, 09:34:00](https://science.slashdot.org/story/26/06/29/0135220/scientists-think-neptune-and-uranus-may-not-be-the-ice-giants-we-imagined?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Think Neptune and Uranus May Not Be the Ice Giants We Imagined ](https://science.slashdot.org/story/26/06/29/0135220/scientists-think-neptune-and-uranus-may-not-be-the-ice-giants-we-imagined?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-29, 09:28:08](https://news.ycombinator.com/item?id=48716902) - [Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/)
 * [2026-06-29, 08:58:09](https://news.ycombinator.com/item?id=48716634) - [Why did this journal retract two 1940s papers by Max Planck?](https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/)
 * [2026-06-29, 07:57:12](https://lobste.rs/s/dfbps9/gleam_gathering_2026_lighting_talks) - [Gleam Gathering 2026 Lighting Talks](https://www.youtube.com/watch?v=rh2ePzHIQmU)
 * [2026-06-29, 07:55:57](https://lobste.rs/s/qzrdzu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/qzrdzu/what_are_you_doing_this_week)
-* [2026-06-29, 07:36:08](https://news.ycombinator.com/item?id=48716009) - [US Grid Constraints: Towards 40GW+ of Behind-the-Meter Datacenter by 2028?](https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw)
 * [2026-06-29, 07:24:49](https://lobste.rs/s/dkky2i/canvas_patch_we_need_testers) - [Canvas patch: we need testers](https://monadicsheep.org/blog/call-for-canvas-patch-testers.html)
 * [2026-06-29, 07:16:00](https://soylentnews.org/article.pl?sid=26/06/28/188242&amp;from=rss) - [SK Telecom Named as the Korean Carrier at the Center of Anthropic&apos;s Mythos Export Controls](https://soylentnews.org/article.pl?sid=26/06/28/188242&amp;from=rss)
 * [2026-06-29, 04:34:00](https://news.slashdot.org/story/26/06/29/0115229/trump-shuttered-climate-change-site-now-back-online-in-nonprofit-hands?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump-Shuttered Climate Change Site Now Back Online In Nonprofit Hands ](https://news.slashdot.org/story/26/06/29/0115229/trump-shuttered-climate-change-site-now-back-online-in-nonprofit-hands?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -92,7 +100,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-28, 22:05:00](https://science.slashdot.org/story/26/06/28/222254/spain-backed-fund-joins-fossas-sovereign-satellite-communications-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Spain-Backed Fund Joins FOSSA&apos;s Sovereign Satellite Communications Push ](https://science.slashdot.org/story/26/06/28/222254/spain-backed-fund-joins-fossas-sovereign-satellite-communications-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-28, 21:48:00](https://soylentnews.org/article.pl?sid=26/06/27/1833254&amp;from=rss) - [Acoustic Mapping App Uses Thousands of Networked Old Android Phones to Hunt Shahed Drones](https://soylentnews.org/article.pl?sid=26/06/27/1833254&amp;from=rss)
 * [2026-06-28, 21:04:00](https://slashdot.org/story/26/06/28/1922225/chinas-ai-matches-anthropic-in-cybersecurity-causing-worry-over-us-restrictions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China&apos;s AI Matches Anthropic in Cybersecurity, Causing Worry Over US Restrictions](https://slashdot.org/story/26/06/28/1922225/chinas-ai-matches-anthropic-in-cybersecurity-causing-worry-over-us-restrictions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-28, 20:12:03](https://lobste.rs/s/bbr7q9/core_calculus_for_documents) - [A Core Calculus for Documents](https://dl.acm.org/doi/pdf/10.1145/3632865)
+* [2026-06-28, 20:12:03](https://lobste.rs/s/bbr7q9/core_calculus_for_documents_2024) - [A Core Calculus for Documents (2024)](https://dl.acm.org/doi/pdf/10.1145/3632865)
 * [2026-06-28, 19:48:34](https://lobste.rs/s/tw0v1d/double_threat_private_communications) - [“Double Threat” to Private Communications: Undemocratic Chat Control Backroom Deals and Imminent Concessions Spark Relaunch of fightchatcontrol.eu](https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/)
 * [2026-06-28, 19:43:55](https://lobste.rs/s/osjghb/hypercard_on_macintosh) - [HyperCard on the Macintosh](https://stonetools.ghost.io/hypercard-mac/)
 * [2026-06-28, 19:38:00](https://news.ycombinator.com/item?id=48710775) - [TOP500 at ISC’26: We have a New Number 1 Supercomputer](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
@@ -119,11 +127,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-28, 14:50:20](https://lobste.rs/s/vgqcgi/towards_understandable_software) - [Towards Understandable Software](https://gracefulliberty.com/articles/towards-understandable-software/)
 * [2026-06-28, 14:44:56](https://news.ycombinator.com/item?id=48707763) - [5k menus from the New York Public Library’s Buttolph Collection (1880-1920)](https://pudding.cool/2026/06/menu-story/)
 * [2026-06-28, 13:18:41](https://lobste.rs/s/mq245g/regular_expressions_work_everywhere) - [Regular expressions that work “everywhere”](https://www.johndcook.com/blog/2026/06/23/regex-everywhere/)
-* [2026-06-28, 12:27:33](https://news.ycombinator.com/item?id=48706714) - [A way to exclude sensitive files issue still open for OpenAI Codex](https://github.com/openai/codex/issues/2847)
 * [2026-06-28, 12:23:53](https://lobste.rs/s/2m10ql/how_victorialogs_stores_your_logs) - [How VictoriaLogs Stores Your Logs in a Columnar Layout](https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/)
 * [2026-06-28, 12:19:00](https://soylentnews.org/article.pl?sid=26/06/27/1820224&amp;from=rss) - [‘Cost Me the Election’: Data Centers Trigger Voter Backlash](https://soylentnews.org/article.pl?sid=26/06/27/1820224&amp;from=rss)
 * [2026-06-28, 11:56:16](https://news.ycombinator.com/item?id=48706560) - [The KIDS Act would require age checks to get online](https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online)
-* [2026-06-28, 11:55:08](https://news.ycombinator.com/item?id=48706554) - [More evidence is consistent with possible ancient life on Mars (2025)](https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645)
 * [2026-06-28, 11:34:00](https://it.slashdot.org/story/26/06/28/0519223/developer-ai-token-costs-could-exceed-their-salaries-in-two-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Developer AI Token Costs Could Exceed Their Salaries in Two Years](https://it.slashdot.org/story/26/06/28/0519223/developer-ai-token-costs-could-exceed-their-salaries-in-two-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-28, 07:36:00](https://soylentnews.org/article.pl?sid=26/06/27/1818212&amp;from=rss) - [I Stored a Website in a Favicon](https://soylentnews.org/article.pl?sid=26/06/27/1818212&amp;from=rss)
 * [2026-06-28, 07:34:00](https://yro.slashdot.org/story/26/06/28/0459214/an-amazon-seller-says-they-were-offered-a-way-to-bribe-an-amazon-employee?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [An Amazon Seller Says They Were Offered a Way to Bribe an Amazon Employee](https://yro.slashdot.org/story/26/06/28/0459214/an-amazon-seller-says-they-were-offered-a-way-to-bribe-an-amazon-employee?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -133,17 +139,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-27, 22:52:00](https://slashdot.org/story/26/06/27/2249212/how-a-seemingly-harmless-image-can-jailbreak-vision-language-ai-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How a Seemingly Harmless Image Can Jailbreak Vision-Language AI Models](https://slashdot.org/story/26/06/27/2249212/how-a-seemingly-harmless-image-can-jailbreak-vision-language-ai-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-27, 22:10:00](https://soylentnews.org/article.pl?sid=26/06/26/1431252&amp;from=rss) - [Cloudflare Teams Up With Big Browsers to Help Websites Tell Welcome From Unwelcome Visitors](https://soylentnews.org/article.pl?sid=26/06/26/1431252&amp;from=rss)
 * [2026-06-27, 21:48:00](https://news.slashdot.org/story/26/06/27/2146244/frances-heat-this-week-was-worse-than-a-dire-scenario-imagined-for-2050?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [France&apos;s Heat This Week Was Worse Than a Dire Scenario Imagined For 2050](https://news.slashdot.org/story/26/06/27/2146244/frances-heat-this-week-was-worse-than-a-dire-scenario-imagined-for-2050?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-27, 21:07:28](https://lobste.rs/s/51qnh7/feature_oxcaml_more_languages_should) - [The feature in OxCaml that more languages should steal](https://theconsensus.dev/p/2026/06/27/the-feature-in-oxcaml-more-languages-should-steal.html)
 * [2026-06-27, 19:47:00](https://soylentnews.org/article.pl?sid=26/06/26/1429216&amp;from=rss) - [OpenC6 BIOS Project Brings PC-Like Firmware to ESP32-C6 MCU](https://soylentnews.org/article.pl?sid=26/06/26/1429216&amp;from=rss)
-* [2026-06-27, 19:39:10](https://lobste.rs/s/bgnc5q/prism_impure_functional_language_with) - [Prism: An Impure Functional Language With Typed Effects](https://www.stephendiehl.com/posts/prism/)
 * [2026-06-27, 17:24:00](https://soylentnews.org/article.pl?sid=26/06/26/1425225&amp;from=rss) - [Goalkeepers Beware: Trionda World Cup Ball Hits ‘Crisis’ Point at Certain Speed](https://soylentnews.org/article.pl?sid=26/06/26/1425225&amp;from=rss)
 * [2026-06-27, 15:10:14](https://lobste.rs/s/boap41/peek_into_reddit_s_anti_spam_internals) - [A peek into Reddit&apos;s anti-spam internals](https://lyra.horse/blog/2026/06/reddit-spam-internals/)
-* [2026-06-27, 14:18:23](https://lobste.rs/s/xmsj3r/data_access_patterns_makes_your_cpu) - [Data Access Patterns That Makes Your CPU Really Angry](https://blog.weineng.me/posts/slowest_add/)
 * [2026-06-27, 12:43:00](https://soylentnews.org/article.pl?sid=26/06/26/1420245&amp;from=rss) - [The Memory Crisis Is Getting So Bad That Even Retro RAM Prices Are Becoming Ridiculous](https://soylentnews.org/article.pl?sid=26/06/26/1420245&amp;from=rss)
 * [2026-06-27, 07:57:00](https://soylentnews.org/article.pl?sid=26/06/26/1417252&amp;from=rss) - [Wikipedia Cofounder Larry Sanger Blocked From Editing Wikipedia](https://soylentnews.org/article.pl?sid=26/06/26/1417252&amp;from=rss)
 * [2026-06-27, 03:13:00](https://soylentnews.org/article.pl?sid=26/06/26/1415219&amp;from=rss) - [Pluralistic: Spying on Kids to Save Kids From Spying is Very, Very Stupid](https://soylentnews.org/article.pl?sid=26/06/26/1415219&amp;from=rss)
 * [2026-06-26, 22:26:00](https://soylentnews.org/article.pl?sid=26/06/25/0459200&amp;from=rss) - [Day-to-Day Cyber Disruptions Driving Loss for SMEs, Finds Report](https://soylentnews.org/article.pl?sid=26/06/25/0459200&amp;from=rss)
 * [2026-06-26, 17:44:00](https://soylentnews.org/article.pl?sid=26/06/25/0445223&amp;from=rss) - [Automakers Could Stop Selling Cars in California Rather Than Comply With Tracking Laws](https://soylentnews.org/article.pl?sid=26/06/25/0445223&amp;from=rss)
+* [2026-06-26, 15:30:02](https://news.ycombinator.com/item?id=48687843) - [Type-checked non-empty strings](https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html)
 * [2026-06-26, 12:55:00](https://soylentnews.org/article.pl?sid=26/06/25/0441233&amp;from=rss) - [The Database That Refused to Die: How Postgres Survived its Own Creators](https://soylentnews.org/article.pl?sid=26/06/25/0441233&amp;from=rss)
 * [2026-06-26, 09:17:44](https://news.ycombinator.com/item?id=48684315) - [The Baffling World of Masayoshi Son&apos;s Presentations (2020)](https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son)
 * [2026-06-26, 08:06:00](https://soylentnews.org/article.pl?sid=26/06/25/0430237&amp;from=rss) - [As China Looms, Taiwan Makes More Drones for Defense and the US Military](https://soylentnews.org/article.pl?sid=26/06/25/0430237&amp;from=rss)
@@ -151,7 +155,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-25, 22:37:00](https://soylentnews.org/article.pl?sid=26/06/25/0348249&amp;from=rss) - [Interplanetary Fossil Find?](https://soylentnews.org/article.pl?sid=26/06/25/0348249&amp;from=rss)
 * [2026-06-25, 17:54:00](https://soylentnews.org/article.pl?sid=26/06/25/0345250&amp;from=rss) - [Cory Doctorow on the Right — and Wrong — Way to Criticize AI](https://soylentnews.org/article.pl?sid=26/06/25/0345250&amp;from=rss)
 * [2026-06-25, 15:54:46](https://news.ycombinator.com/item?id=48675295) - [The Boeing 747 begins its final descent](https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/)
-* [2026-06-25, 13:54:06](https://news.ycombinator.com/item?id=48673450) - [Model Training as Code](https://aleph-alpha.com/en/blog/model-training-as-code/)
+* [2026-06-25, 15:28:24](https://news.ycombinator.com/item?id=48674875) - [Halvar&apos;s Guide to Entrepreneurship](https://thomasdullien.github.io/guides/entrepreneurship/)
+* [2026-06-25, 13:37:52](https://news.ycombinator.com/item?id=48673197) - [Federating Clusters for Zero-Downtime Kubernetes](https://linkerd.io/2026/06/24/federating-clusters-for-zero-downtime-kubernetes/index.html)
 * [2026-06-25, 13:10:00](https://soylentnews.org/article.pl?sid=26/06/25/0341243&amp;from=rss) - [Die Analysis of the 8087 Math Coprocessor&apos;s Fast Bit Shifter](https://soylentnews.org/article.pl?sid=26/06/25/0341243&amp;from=rss)
 * [2026-06-25, 08:28:00](https://soylentnews.org/article.pl?sid=26/06/25/0339211&amp;from=rss) - [Nvidia&apos;s New AI Racks Run on 45°C Liquid Cooling](https://soylentnews.org/article.pl?sid=26/06/25/0339211&amp;from=rss)
 * [2026-06-25, 07:55:40](https://news.ycombinator.com/item?id=48670314) - [We found a bug in the hyper HTTP library](https://blog.cloudflare.com/hyper-bug/)
