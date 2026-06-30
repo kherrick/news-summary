@@ -1,52 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Innovations and Updates
+## Technological Innovations and Trends
 
-* [A native graphical shell for SSH](https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html) - A detailed look at a new graphical shell designed specifically for SSH, providing users with an intuitive visual interface for remote server management and operations. [Comments](https://lobste.rs/s/ewgrd8/native_graphical_shell_for_ssh)
+* [Ford Rehires 'Gray Beard' Engineers After AI Falls Short](https://tech.slashdot.org/story/26/06/29/0321238/ford-rehires-gray-beard-engineers-after-ai-falls-short?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A deep dive into Ford's decision to rehire experienced engineers in response to AI's shortcomings in meeting their technical expectations.
 
-* [LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active](https://longcat.chat/blog/longcat-2.0/) - Insights into LongCat-2.0, a massive mixture-of-experts machine learning model, exploring its potential to handle complex data tasks with 1.6 trillion total parameters. [Comments](https://news.ycombinator.com/item?id=48727116)
+* [LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active](https://longcat.chat/blog/longcat-2.0/) - Introducing LongCat-2.0, a cutting-edge model showcasing advancements in large-scale machine learning methodologies.
 
-* [IBM Says It Can Fit Nearly 100 Billion Transistors On a Chip](https://hardware.slashdot.org/story/26/06/29/0049218/ibm-says-it-can-fit-nearly-100-billion-transistors-on-a-chip?utm_source=rss1.0mainlinkanon&utm_medium=feed) - IBM claims a breakthrough in chip technology, announcing advancements that allow them to pack nearly 100 billion transistors on a single chip. [Comments](https://hardware.slashdot.org/story/26/06/29/0049218/ibm-says-it-can-fit-nearly-100-billion-transistors-on-a-chip?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [The AT-URI Syntax Mess](https://bnewbold.leaflet.pub/3mph4hzvbdc2v) - Analysis of the complications and challenges with the AT-URI syntax in modern-day usage.
 
-* [Rocketlab acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully) - Rocketlab announces its acquisition of Iridium, aiming to create a fully integrated space services company. [Comments](https://news.ycombinator.com/item?id=48719485)
+* [Spindle's new microVM engine](https://blog.tangled.org/spindle-microvm/) - Exploration of Spindle's newly developed microVM engine for optimized virtualization.
 
-## Scientific Discoveries and Developments
+* [Apple Neural Engine: Architecture, Programming, and Performance](https://arxiv.org/abs/2606.22283) - Examination of Apple's cutting-edge Neural Engine, highlighting its architecture and programming capabilities.
 
-* [300k-Year-Old Cave Site Explored in Northern Israel](https://archaeology.org/news/2026/06/18/300000-year-old-cave-site-explored-in-northern-israel/) - An exploration of a 300,000-year-old cave site in Northern Israel reveals insights into early human history. [Comments](https://news.ycombinator.com/item?id=48728441)
+## Cybersecurity and Data Protection
 
-* [Scientists find molecular-level evidence for two structures in liquid water](https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html) - New molecular evidence indicates the existence of two distinct structures within liquid water. [Comments](https://news.ycombinator.com/item?id=48726073)
+* [US Supreme Court Just Blew Up EU-US Data Transfers](https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers) - Major legal decision imposing challenges on cross-Atlantic data transfers between the EU and the US.
 
-* [Scientists Think Neptune and Uranus May Not Be the Ice Giants We Imagined](https://science.slashdot.org/story/26/06/29/0135220/scientists-think-neptune-and-uranus-may-not-be-the-ice-giants-we-imagined?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A reevaluation suggests that the gas planets Neptune and Uranus might differ significantly from previously held models. [Comments](https://science.slashdot.org/story/26/06/29/0135220/scientists-think-neptune-and-uranus-may-not-be-the-ice-giants-we-imagined?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Unprivileged root via a use-after-free in DRM GEM change_handle (CVE-2026-46215)](https://cyberstan.co.uk/drm-lpe-linux/) - Technical details on how a use-after-free vulnerability was exploited for unprivileged root access in Linux.
 
-## Artificial Intelligence and Machine Learning
+* [US Supreme Court rules geofence warrants require constitutional protections](https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision) - Landmark ruling emphasizing constitutional protections against invasive geofence warrants.
 
-* [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1) - Highlights the functionalities of the open-source, self-improving AI model for advanced autonomous coding capabilities. [Comments](https://news.ycombinator.com/item?id=48722052)
+## Science and Space Exploration
 
-* [Working With AI: A concrete example](https://htmx.org/essays/working-with-ai/) - A practical example of integrating artificial intelligence into real-world projects. [Comments](https://news.ycombinator.com/item?id=48720064)
+* [Scientists Think Neptune and Uranus May Not Be the Ice Giants We Imagined](https://science.slashdot.org/story/26/06/29/0135220/scientists-think-neptune-and-uranus-may-not-be-the-ice-giants-we-imagined?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New findings challenge longstanding assumptions about the composition of Neptune and Uranus.
 
-* [Five Eyes Spooks Warn AI Means Infosec Incidents Can Become 'Major Operational and Financial Crises'](https://soylentnews.org/article.pl?sid=26/06/28/1816241&from=rss) - National intelligence agencies raise concerns about increased cybersecurity risks due to advancements in AI. [Comments](https://soylentnews.org/article.pl?sid=26/06/28/1816241&from=rss)
+* [Rocketlab acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully) - A historical acquisition that merges Rocketlab with Iridium to expand satellite operations.
 
-## Global Developments and Policy Changes
+## Programming and Software Developments
 
-* [South Korea Plans To Train Entire Military As 'Drone Warriors'](https://tech.slashdot.org/story/26/06/29/0228207/south-korea-plans-to-train-entire-military-as-drone-warriors?utm_source=rss1.0mainlinkanon&utm_medium=feed) - South Korea unveils plans to revolutionize its military by training soldiers to use drones. [Comments](https://news.ycombinator.com/item?id=48727177)
+* [What is `std::pin::Pin` in Rust?](https://vrong.me/blog/what-is-pinning-in-rust/) - An educational article detailing the usage and importance of `std::pin::Pin` in Rust programming.
 
-* [US Supreme Court rules geofence warrants require constitutional protections](https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision) - The U.S. Supreme Court enforces constitutional limits on geofence warrants in a major ruling. [Comments](https://news.ycombinator.com/item?id=48720924)
+* [Loko Scheme 0.13.0](https://weinholt.se/articles/loko-scheme-0-13-0/) - Announcement of the latest release of Loko Scheme with new features and enhancements.
 
-* [Trump-Shuttered Climate Change Site Now Back Online In Nonprofit Hands](https://news.slashdot.org/story/26/06/29/0115229/trump-shuttered-climate-change-site-now-back-online-in-nonprofit-hands?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A once-shuttered climate change resource is revived for public use under nonprofit management. [Comments](https://news.slashdot.org/story/26/06/29/0115229/trump-shuttered-climate-change-site-now-back-online-in-nonprofit-hands?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Memory Safe Context Switching](https://fil-c.org/context_switches) - An exploration of advancements in designing memory-safe context-switching mechanisms.
 
-## Cybersecurity and Privacy Threats
+## Miscellaneous Highlights
 
-* [Unprivileged root via a use-after-free in DRM GEM change_handle (CVE-2026-46215)](https://cyberstan.co.uk/drm-lpe-linux/) - Details on a use-after-free vulnerability in Linux's DRM subsystem that leads to privilege escalation. [Comments](https://lobste.rs/s/hh5yyq/unprivileged_root_via_use_after_free_drm)
+* [The Boeing 747 Begins Its Final Descent](https://soylentnews.org/article.pl?sid=26/06/29/1844208&amp;from=rss) - Reflecting on the legacy of Boeing 747 as it nears the end of its production and operational journey.
 
-* [Photoshop Now Censors Your Art as You Edit](https://soylentnews.org/article.pl?sid=26/06/28/183229&from=rss) - Concerns rise as Photoshop implements AI-based censorship during the art editing process. [Comments](https://soylentnews.org/article.pl?sid=26/06/28/183229&from=rss)
-
-* [One million passports leaked online](https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal) - A concerning leak exposes personal passport information of nearly one million individuals online. [Comments](https://news.ycombinator.com/item?id=48706389)
-
-## Historical and Cultural Insights
-
-* [Exploring PDP-1 Lisp (1960)](https://obsolescence.dev/pdp1-lisp-introduction.html) - A deep dive into the origins and development of the PDP-1 Lisp from the 1960s. [Comments](https://news.ycombinator.com/item?id=48727323)
-
-* [Walter S. Arnold–Sculptor/Stone Carver](https://stonecarver.com/) - A detailed look at the work of Walter S. Arnold, an acclaimed sculptor specializing in stone carving. [Comments](https://news.ycombinator.com/item?id=48702523)
+* [I Stored a Website in a Favicon](https://soylentnews.org/article.pl?sid=26/06/27/1818212&amp;from=rss) - A quirky approach showcasing how a fully functional website is encoded in a favicon.
 
 ---
 
@@ -73,20 +65,24 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-06-30, 04:18:25](https://news.ycombinator.com/item?id=48728441) - [300k-Year-Old Cave Site Explored in Northern Israel](https://archaeology.org/news/2026/06/18/300000-year-old-cave-site-explored-in-northern-israel/)
-* [2026-06-30, 03:29:10](https://lobste.rs/s/ewgrd8/native_graphical_shell_for_ssh) - [A native graphical shell for SSH](https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html)
+* [2026-06-30, 07:33:16](https://lobste.rs/s/edml2s/platform_support_for_gnu_extensions) - [Platform Support for GNU Extensions to Basic Regular Expressions](https://www.wezm.net/v2/posts/2026/bre/)
+* [2026-06-30, 07:05:00](https://soylentnews.org/article.pl?sid=26/06/29/1848249&amp;from=rss) - [Mark Zuckerberg Is Selflessly Building Yet Another Horrible Product Nobody Asked For](https://soylentnews.org/article.pl?sid=26/06/29/1848249&amp;from=rss)
+* [2026-06-30, 06:34:57](https://lobste.rs/s/wenqxh/investigating_linux_graphics_2025) - [Investigating Linux graphics (2025)](https://roscidus.com/blog/blog/2025/06/24/graphics/)
+* [2026-06-30, 05:34:00](https://tech.slashdot.org/story/26/06/29/0321238/ford-rehires-gray-beard-engineers-after-ai-falls-short?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ford Rehires &apos;Gray Beard&apos; Engineers After AI Falls Short](https://tech.slashdot.org/story/26/06/29/0321238/ford-rehires-gray-beard-engineers-after-ai-falls-short?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-30, 05:17:02](https://news.ycombinator.com/item?id=48728740) - [US Supreme Court Just Blew Up EU-US Data Transfers](https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers)
+* [2026-06-30, 05:14:35](https://news.ycombinator.com/item?id=48728729) - [Popping the GPU Bubble](https://moondream.ai/blog/popping-the-gpu-bubble)
+* [2026-06-30, 04:51:12](https://news.ycombinator.com/item?id=48728599) - [The end of the AArch64 desktop experiment](https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/)
 * [2026-06-30, 02:18:00](https://soylentnews.org/article.pl?sid=26/06/29/1844208&amp;from=rss) - [The Boeing 747 Begins Its Final Descent](https://soylentnews.org/article.pl?sid=26/06/29/1844208&amp;from=rss)
 * [2026-06-30, 02:11:09](https://lobste.rs/s/1ggr8a/memory_safe_context_switching) - [Memory Safe Context Switching](https://fil-c.org/context_switches)
 * [2026-06-30, 01:28:05](https://lobste.rs/s/cxxgbt/revisiting_yliluoma_s_ordered_dither) - [Revisiting Yliluoma’s ordered dither algorithm](https://30fps.net/pages/revisiting-yliluoma-2/)
 * [2026-06-30, 00:56:42](https://news.ycombinator.com/item?id=48727323) - [Exploring PDP-1 Lisp (1960)](https://obsolescence.dev/pdp1-lisp-introduction.html)
-* [2026-06-30, 00:38:19](https://news.ycombinator.com/item?id=48727177) - [Memory Safe Context Switching (longjmp, setjmp) in Fil-C](https://fil-c.org/context_switches)
+* [2026-06-30, 00:38:19](https://news.ycombinator.com/item?id=48727177) - [Memory Safe Context Switching](https://fil-c.org/context_switches)
 * [2026-06-30, 00:34:00](https://tech.slashdot.org/story/26/06/29/0228207/south-korea-plans-to-train-entire-military-as-drone-warriors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [South Korea Plans To Train Entire Military As &apos;Drone Warriors&apos;](https://tech.slashdot.org/story/26/06/29/0228207/south-korea-plans-to-train-entire-military-as-drone-warriors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-30, 00:30:11](https://news.ycombinator.com/item?id=48727116) - [LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active](https://longcat.chat/blog/longcat-2.0/)
 * [2026-06-30, 00:14:40](https://lobste.rs/s/pjcplu/end_aarch64_desktopexperiment) - [The end of the AArch64 desktopexperiment](https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/)
 * [2026-06-29, 22:31:57](https://lobste.rs/s/ybcofm/spindle_s_new_microvm_engine) - [Spindle&apos;s new microVM engine](https://blog.tangled.org/spindle-microvm/)
 * [2026-06-29, 22:27:17](https://lobste.rs/s/29laqs/what_s_wrong_with_eu_age_verification) - [What&apos;s wrong with EU age verification? (Nothing)](https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/)
 * [2026-06-29, 22:21:00](https://news.ycombinator.com/item?id=48726102) - [South Korea to spend $1T on more memory chip production and humanoid robots](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/)
-* [2026-06-29, 22:18:26](https://news.ycombinator.com/item?id=48726073) - [Scientists find molecular-level evidence for two structures in liquid water](https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html)
 * [2026-06-29, 21:33:00](https://soylentnews.org/article.pl?sid=26/06/28/1824219&amp;from=rss) - [Administration Tells US Techies It Expects American Quantum Computer by 2028](https://soylentnews.org/article.pl?sid=26/06/28/1824219&amp;from=rss)
 * [2026-06-29, 20:34:46](https://lobste.rs/s/7fjqgc/at_uri_syntax_mess) - [The AT-URI Syntax Mess](https://bnewbold.leaflet.pub/3mph4hzvbdc2v)
 * [2026-06-29, 19:49:28](https://news.ycombinator.com/item?id=48724230) - [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)
@@ -107,7 +103,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-29, 14:53:41](https://news.ycombinator.com/item?id=48720064) - [Working With AI: A concrete example](https://htmx.org/essays/working-with-ai/)
 * [2026-06-29, 14:47:07](https://lobste.rs/s/0p04p0/evaluation_order_nontermination_query) - [Evaluation order and nontermination in query languages](https://www.rntz.net/post/2026-06-11-datalog-nontermination.html)
 * [2026-06-29, 14:34:00](https://hardware.slashdot.org/story/26/06/29/0049218/ibm-says-it-can-fit-nearly-100-billion-transistors-on-a-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [IBM Says It Can Fit Nearly 100 Billion Transistors On a Chip ](https://hardware.slashdot.org/story/26/06/29/0049218/ibm-says-it-can-fit-nearly-100-billion-transistors-on-a-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-29, 14:15:12](https://lobste.rs/s/ugm5fn/you_don_t_know_jack_about_formal) - [You Don’t Know Jack About Formal Verification](https://queue.acm.org/detail.cfm?id=3819084)
 * [2026-06-29, 14:09:24](https://news.ycombinator.com/item?id=48719485) - [Rocketlab acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully)
 * [2026-06-29, 14:08:54](https://lobste.rs/s/uofjjs/loko_scheme_0_13_0) - [Loko Scheme 0.13.0](https://weinholt.se/articles/loko-scheme-0-13-0/)
 * [2026-06-29, 13:57:28](https://lobste.rs/s/hj0exw/typst_designing_for_incrementality) - [Typst: Designing for Incrementality](https://youtu.be/yWWVhbyOWWE)
@@ -126,10 +121,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-28, 23:34:00](https://yro.slashdot.org/story/26/06/28/2256226/microsoft-slammed-for-building-copyright-infringing-supercomputer-for-openai-in-new-court-filing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Slammed for Building Copyright-Infringing Supercomputer for OpenAI in New Court Filing](https://yro.slashdot.org/story/26/06/28/2256226/microsoft-slammed-for-building-copyright-infringing-supercomputer-for-openai-in-new-court-filing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-28, 22:05:00](https://science.slashdot.org/story/26/06/28/222254/spain-backed-fund-joins-fossas-sovereign-satellite-communications-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Spain-Backed Fund Joins FOSSA&apos;s Sovereign Satellite Communications Push ](https://science.slashdot.org/story/26/06/28/222254/spain-backed-fund-joins-fossas-sovereign-satellite-communications-push?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-28, 21:48:00](https://soylentnews.org/article.pl?sid=26/06/27/1833254&amp;from=rss) - [Acoustic Mapping App Uses Thousands of Networked Old Android Phones to Hunt Shahed Drones](https://soylentnews.org/article.pl?sid=26/06/27/1833254&amp;from=rss)
-* [2026-06-28, 21:42:39](https://news.ycombinator.com/item?id=48711981) - [30-year sentence for transporting zines is a five-alarm fire for free speech](https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/)
 * [2026-06-28, 21:04:00](https://slashdot.org/story/26/06/28/1922225/chinas-ai-matches-anthropic-in-cybersecurity-causing-worry-over-us-restrictions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China&apos;s AI Matches Anthropic in Cybersecurity, Causing Worry Over US Restrictions](https://slashdot.org/story/26/06/28/1922225/chinas-ai-matches-anthropic-in-cybersecurity-causing-worry-over-us-restrictions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-28, 19:48:34](https://lobste.rs/s/tw0v1d/double_threat_private_communications) - [“Double Threat” to Private Communications: Undemocratic Chat Control Backroom Deals and Imminent Concessions Spark Relaunch of fightchatcontrol.eu](https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/)
 * [2026-06-28, 19:34:00](https://news.slashdot.org/story/26/06/28/1016244/are-checks-sent-through-the-mail-vulnerable-to-theft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Are Checks Sent Through the Mail Vulnerable to Theft?](https://news.slashdot.org/story/26/06/28/1016244/are-checks-sent-through-the-mail-vulnerable-to-theft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-28, 18:56:46](https://news.ycombinator.com/item?id=48710325) - [British Origami: the 1955 exhibition by Akira Yoshizawa (2005)](https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/)
 * [2026-06-28, 17:34:00](https://news.slashdot.org/story/26/06/28/0546256/us-agency-cancels-contract-for-warrantless-tracking-of-mobile-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Agency Cancels Contract For Warrantless Tracking of Mobile Devices](https://news.slashdot.org/story/26/06/28/0546256/us-agency-cancels-contract-for-warrantless-tracking-of-mobile-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-28, 17:01:00](https://soylentnews.org/article.pl?sid=26/06/27/1825233&amp;from=rss) - [How Do Airbags Deploy So Quickly in a Crash? The Physics, Explained](https://soylentnews.org/article.pl?sid=26/06/27/1825233&amp;from=rss)
 * [2026-06-28, 16:34:00](https://news.slashdot.org/story/26/06/27/1926233/students-around-the-world-are-using-ai-powered-smart-glasses-to-cheat-on-tests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Students Around the World are Using AI-Powered Smart Glasses to Cheat on Tests](https://news.slashdot.org/story/26/06/27/1926233/students-around-the-world-are-using-ai-powered-smart-glasses-to-cheat-on-tests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -140,17 +135,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-28, 11:22:49](https://news.ycombinator.com/item?id=48706389) - [One million passports leaked online](https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal)
 * [2026-06-28, 07:36:00](https://soylentnews.org/article.pl?sid=26/06/27/1818212&amp;from=rss) - [I Stored a Website in a Favicon](https://soylentnews.org/article.pl?sid=26/06/27/1818212&amp;from=rss)
 * [2026-06-28, 07:34:00](https://yro.slashdot.org/story/26/06/28/0459214/an-amazon-seller-says-they-were-offered-a-way-to-bribe-an-amazon-employee?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [An Amazon Seller Says They Were Offered a Way to Bribe an Amazon Employee](https://yro.slashdot.org/story/26/06/28/0459214/an-amazon-seller-says-they-were-offered-a-way-to-bribe-an-amazon-employee?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-28, 04:34:00](https://hardware.slashdot.org/story/26/06/28/032226/ibm-is-getting-ready-to-scale-quantum-computing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [IBM is Getting Ready to Scale Quantum Computing](https://hardware.slashdot.org/story/26/06/28/032226/ibm-is-getting-ready-to-scale-quantum-computing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-28, 02:54:00](https://soylentnews.org/article.pl?sid=26/06/27/1815209&amp;from=rss) - [ASML Denies US Government Report That its EUV Chipmaking Tool Was Shipped to China](https://soylentnews.org/article.pl?sid=26/06/27/1815209&amp;from=rss)
 * [2026-06-27, 23:30:14](https://news.ycombinator.com/item?id=48702825) - [Apple Neural Engine: Architecture, Programming, and Performance](https://arxiv.org/abs/2606.22283)
-* [2026-06-27, 22:49:06](https://news.ycombinator.com/item?id=48702523) - [Walter S. Arnold–Sculptor/Stone Carver](https://stonecarver.com/)
 * [2026-06-27, 22:18:50](https://news.ycombinator.com/item?id=48702320) - [Old Computer Challenge](http://occ.sdf.org/)
 * [2026-06-27, 22:10:00](https://soylentnews.org/article.pl?sid=26/06/26/1431252&amp;from=rss) - [Cloudflare Teams Up With Big Browsers to Help Websites Tell Welcome From Unwelcome Visitors](https://soylentnews.org/article.pl?sid=26/06/26/1431252&amp;from=rss)
 * [2026-06-27, 19:47:00](https://soylentnews.org/article.pl?sid=26/06/26/1429216&amp;from=rss) - [OpenC6 BIOS Project Brings PC-Like Firmware to ESP32-C6 MCU](https://soylentnews.org/article.pl?sid=26/06/26/1429216&amp;from=rss)
 * [2026-06-27, 17:24:00](https://soylentnews.org/article.pl?sid=26/06/26/1425225&amp;from=rss) - [Goalkeepers Beware: Trionda World Cup Ball Hits ‘Crisis’ Point at Certain Speed](https://soylentnews.org/article.pl?sid=26/06/26/1425225&amp;from=rss)
 * [2026-06-27, 15:05:17](https://news.ycombinator.com/item?id=48698908) - [Free the Icons](https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/)
 * [2026-06-27, 14:49:05](https://news.ycombinator.com/item?id=48698781) - [Alan Kay on the meaning of \&quot;object-oriented programming\&quot; (2003)](https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/)
-* [2026-06-27, 14:20:16](https://news.ycombinator.com/item?id=48698542) - [Netflix Simplified Batch Compute with Kueue](https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c)
 * [2026-06-27, 12:43:00](https://soylentnews.org/article.pl?sid=26/06/26/1420245&amp;from=rss) - [The Memory Crisis Is Getting So Bad That Even Retro RAM Prices Are Becoming Ridiculous](https://soylentnews.org/article.pl?sid=26/06/26/1420245&amp;from=rss)
 * [2026-06-27, 12:16:27](https://news.ycombinator.com/item?id=48697599) - [Kb – Prolog Knowledge Base](https://github.com/mat-mgm/kb-prolog)
 * [2026-06-27, 07:57:00](https://soylentnews.org/article.pl?sid=26/06/26/1417252&amp;from=rss) - [Wikipedia Cofounder Larry Sanger Blocked From Editing Wikipedia](https://soylentnews.org/article.pl?sid=26/06/26/1417252&amp;from=rss)
@@ -161,4 +153,5 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-26, 12:55:00](https://soylentnews.org/article.pl?sid=26/06/25/0441233&amp;from=rss) - [The Database That Refused to Die: How Postgres Survived its Own Creators](https://soylentnews.org/article.pl?sid=26/06/25/0441233&amp;from=rss)
 * [2026-06-26, 08:06:00](https://soylentnews.org/article.pl?sid=26/06/25/0430237&amp;from=rss) - [As China Looms, Taiwan Makes More Drones for Defense and the US Military](https://soylentnews.org/article.pl?sid=26/06/25/0430237&amp;from=rss)
 * [2026-06-26, 07:29:17](https://news.ycombinator.com/item?id=48683475) - [Wallace the 6 inch f/2.8 telescope, building it, and hiking with it](https://lucassifoni.info/blog/hiking-with-wallace/)
+* [2026-06-26, 06:35:17](https://news.ycombinator.com/item?id=48683098) - [Open Source Low Tech](https://opensourcelowtech.org/)
 * [2026-06-26, 03:24:00](https://soylentnews.org/article.pl?sid=26/06/25/046226&amp;from=rss) - [Beats Studio Buds Flaw Could Let Nearby Attackers Eavesdrop on Users](https://soylentnews.org/article.pl?sid=26/06/25/046226&amp;from=rss)
