@@ -1,48 +1,68 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## July 1
+## Technological Innovations and Research
 
-* [Lenovo Says The 'RAMageddon' Is The New Normal, Outlines Survival Guide](https://soylentnews.org/article.pl?sid=26/06/30/0934235&amp;from=rss) ([comments](https://soylentnews.org/comments.pl?sid=26/06/30/0934235)) - Lenovo shares insights on adapting to the challenges posed by the global RAM supply crisis, dubbing it the 'new normal'.
+* [Low-level Haskell: The cursed way to emulate inline assembly in Haskell/GHC](https://minoki.github.io/posts/2026-06-30-haskell-inline-asm.html) ([comments](https://lobste.rs/s/ceo3qf/low_level_haskell_cursed_way_emulate))
 
-* [The first early human eggs from stem cells](https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells) ([comments](https://news.ycombinator.com/item?id=48742483)) - A milestone in medical science as researchers succeed in creating the first early human eggs from stem cells.
+* [Hanami 3.0: In full bloom](https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom) ([comments](https://lobste.rs/s/vyosfg/hanami_3_0_full_bloom))
 
-* [Trump Drops Restrictions On Anthropic's Mythos and Fable Models](https://yro.slashdot.org/story/26/07/01/0545222/trump-drops-restrictions-on-anthropics-mythos-and-fable-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/comments.pl?sid=26/07/01/0545222)) - Former President Trump lifts restrictions on two AI models developed by Anthropic, fueling discussions on AI governance and intellectual property.
+* [Matrix Orthogonalization Improves Memory in Recurrent Models](https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/) ([comments](https://news.ycombinator.com/item?id=48742514))
 
-* [ArXiv's Next Chapter](https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/) ([comments](https://news.ycombinator.com/item?id=48741748)) - A new chapter unfolds for arXiv as the platform announces updates to enhance the accessibility and use of scientific resources.
+* [Building a passive Ethernet tap](https://blog.lvmbdv.dev/posts/building-a-passive-ethernet-tap/) ([comments](https://lobste.rs/s/qwk5vn/building_passive_ethernet_tap))
 
-## June 30
+* [Claude Science is Here, Antibiotics Designed by Text Prompt Among Applications](https://science.slashdot.org/story/26/06/30/1844221/claude-science-is-here-antibiotics-designed-by-text-prompt-among-applications?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=48736605))
 
-* [Claude Science is Here, Antibiotics Designed by Text Prompt Among Applications](https://science.slashdot.org/story/26/06/30/1844221/claude-science-is-here-antibiotics-designed-by-text-prompt-among-applications?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/comments.pl?sid=26/06/30/1844221)) - An exploration of how AI tools like Claude Science are being used for groundbreaking applications in designing new antibiotics.
+* [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser) ([comments](https://news.ycombinator.com/item?id=48738985))
 
-* [Microsoft Previews Linux Containers That Run In Windows](https://linux.slashdot.org/story/26/06/30/1742233/microsoft-previews-linux-containers-that-run-in-windows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://linux.slashdot.org/comments.pl?sid=26/06/30/1742233)) - Microsoft introduces a way for developers to run Linux containers on Windows, bridging the gap between two ecosystems.
+## Technology and the Changing Industry Landscape
 
-* [The Threat of Residential Proxies](https://www.feistyduck.com/newsletter/issue_138_the_threat_of_residential_proxies) ([comments](https://lobste.rs/s/x8qug8/threat_residential_proxies)) - Discussion on the growing threat posed by residential proxies and their implications for online security and privacy.
+* [DOT Announces 'Return of Supersonic Flight' For Commercial Airlines](https://tech.slashdot.org/story/26/07/01/0554258/dot-announces-return-of-supersonic-flight-for-commercial-airlines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/07/01/0554258/dot-announces-return-of-supersonic-flight-for-commercial-airlines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Generating the P3 Tiling](https://k-monk.org/blog/generating-the-p3-tiling/) ([comments](https://lobste.rs/s/uaubz8/generating_p3_tiling)) - A deep dive into the mathematics and aesthetics of generating Penrose-like P3 tiling patterns.
+* [Lenovo Says The 'RAMageddon' Is The New Normal, Outlines Survival Guide](https://soylentnews.org/article.pl?sid=26/06/30/0934235&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/30/0934235&amp;from=rss))
 
-## June 29
+* [Trump Drops Restrictions On Anthropic's Mythos and Fable Models](https://yro.slashdot.org/story/26/07/01/0545222/trump-drops-restrictions-on-anthropics-mythos-and-fable-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/07/01/0545222/trump-drops-restrictions-on-anthropics-mythos-and-fable-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [CERN bids farewell to the LHC and enters Long Shutdown 3](https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/) ([comments](https://news.ycombinator.com/item?id=48723484)) - The Large Hadron Collider enters its third extended maintenance phase, paving the way for future upgrades.
+* [South Korea To Spend $1 Trillion On More Memory Chip Production, Humanoid Robots](https://hardware.slashdot.org/story/26/06/30/0618243/south-korea-to-spend-1-trillion-on-more-memory-chip-production-humanoid-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/06/30/0618243/south-korea-to-spend-1-trillion-on-more-memory-chip-production-humanoid-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Photoshop Now Censors Your Art as You Edit](https://soylentnews.org/article.pl?sid=26/06/28/183229&amp;from=rss) ([comments](https://soylentnews.org/comments.pl?sid=26/06/28/183229)) - Controversy erupts around Photoshop's new feature that censors user content in real-time, raising concerns about artistic freedom.
+* [The Boeing 747 Begins Its Final Descent](https://soylentnews.org/article.pl?sid=26/06/29/1844208&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/29/1844208&amp;from=rss))
 
-* [Segmenting Robot Video into Actionable Subtasks](https://macrodata.co/blog/annotating-robot-video-subtasks) ([comments](https://news.ycombinator.com/item?id=48724274)) - A novel approach to efficiently annotate robot video footage by breaking tasks into smaller, actionable subtasks.
+* [Apple iPhone 18 Details Leaked In Tata Data Breach](https://it.slashdot.org/story/26/06/30/1856223/apple-iphone-18-details-leaked-in-tata-data-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://it.slashdot.org/story/26/06/30/1856223/apple-iphone-18-details-leaked-in-tata-data-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-## June 28
+## Policy and Ethical Developments
 
-* [How does a pull-back car work? Illustrated teardown](https://mechanical-pencil.com/products/car) ([comments](https://news.ycombinator.com/item?id=48712289)) - An educational exploration into the mechanics of a pull-back car using detailed illustrations.
+* [Godot will no longer accept AI-authored code contributions](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/) ([comments](https://news.ycombinator.com/item?id=48743472))
 
-* [Acoustic Mapping App Uses Thousands of Networked Old Android Phones to Hunt Shahed Drones](https://soylentnews.org/article.pl?sid=26/06/27/1833254&amp;from=rss) ([comments](https://soylentnews.org/comments.pl?sid=26/06/27/1833254)) - A fascinating use of outdated technology to track drones with the help of acoustic mapping.
+* [US Supreme Court Rules Geofence Warrants Require Constitutional Privacy Protections](https://yro.slashdot.org/story/26/06/30/064251/us-supreme-court-rules-geofence-warrants-require-constitutional-privacy-protections?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/06/30/064251/us-supreme-court-rules-geofence-warrants-require-constitutional-privacy-protections?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Building a custom octocopter from scratch with no prior hardware experience](https://karolina.mgdubiel.com/drone/) ([comments](https://news.ycombinator.com/item?id=48704289)) - Chronicles the journey of an individual building a custom octocopter, showcasing innovation without prior expertise.
+* [New Florida Law Bans Local Net-Zero Emissions Policies](https://yro.slashdot.org/story/26/06/30/2157253/new-florida-law-bans-local-net-zero-emissions-policies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/06/30/2157253/new-florida-law-bans-local-net-zero-emissions-policies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [I Stored a Website in a Favicon](https://soylentnews.org/article.pl?sid=26/06/27/1818212&amp;from=rss) ([comments](https://soylentnews.org/comments.pl?sid=26/06/27/1818212)) - A creative use of favicons to store and serve entire websites, pushing the boundaries of web design.
+* [What's wrong with EU age verification? (Nothing)](https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/) ([comments](https://lobste.rs/s/29laqs/what_s_wrong_with_eu_age_verification))
 
-## June 27
+## Scientific Exploration and Discoveries
 
-* [Wikipedia Cofounder Larry Sanger Blocked From Editing Wikipedia](https://soylentnews.org/article.pl?sid=26/06/26/1417252&amp;from=rss) ([comments](https://soylentnews.org/comments.pl?sid=26/06/26/1417252)) - Wikipedia cofounder Larry Sanger faces a ban from the platform he helped create.
+* [The first early human eggs from stem cells](https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells) ([comments](https://news.ycombinator.com/item?id=48742483))
 
-* [Pluralistic: Spying on Kids to Save Kids From Spying is Very, Very Stupid](https://soylentnews.org/article.pl?sid=26/06/26/1415219&amp;from=rss) ([comments](https://soylentnews.org/comments.pl?sid=26/06/26/1415219)) - A critical look at the paradox of surveillance technology aimed at protecting children.
+* [Scientists Build a Better Pixel Capable of Emitting and Receiving Light](https://soylentnews.org/article.pl?sid=26/06/30/0929204&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/30/0929204&amp;from=rss))
+
+* [From brain waves to words: a new path to communication without surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1) ([comments](https://news.ycombinator.com/item?id=48739466))
+
+* [Newly discovered spider builds spring loaded snare to catch ants](https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html) ([comments](https://news.ycombinator.com/item?id=48711052))
+
+* [Acoustic Mapping App Uses Thousands of Networked Old Android Phones to Hunt Shahed Drones](https://soylentnews.org/article.pl?sid=26/06/27/1833254&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/27/1833254&amp;from=rss))
+
+## Cultural and Historical Insights
+
+* [Register Korea's First PC 'SE-8001' as a National Important Material](https://www.dongascience.com/en/news/30374) ([comments](https://news.ycombinator.com/item?id=48743655))
+
+* [Forestiere Underground Gardens](https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens) ([comments](https://news.ycombinator.com/item?id=48741359))
+
+* [Hatari – Online Atari ST/STE/TT/Falcon Emulator](https://hatari.frama.io/hatari/online/hatari.html) ([comments](https://news.ycombinator.com/item?id=48740135))
+
+* [Tokyo has only two barley tea makers, we visited one to see how mugicha is made](https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/) ([comments](https://news.ycombinator.com/item?id=48738262))
+
+* [How does a pull-back car work? Illustrated teardown](https://mechanical-pencil.com/products/car) ([comments](https://news.ycombinator.com/item?id=48712289))
+
+* [I Stored a Website in a Favicon](https://soylentnews.org/article.pl?sid=26/06/27/1818212&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/06/27/1818212&amp;from=rss))
 
 ---
 
@@ -69,13 +89,20 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-07-01, 10:33:38](https://lobste.rs/s/ceo3qf/low_level_haskell_cursed_way_emulate) - [Low-level Haskell: The cursed way to emulate inline assembly in Haskell/GHC](https://minoki.github.io/posts/2026-06-30-haskell-inline-asm.html)
+* [2026-07-01, 10:32:50](https://lobste.rs/s/qwk5vn/building_passive_ethernet_tap) - [Building a passive Ethernet tap](https://blog.lvmbdv.dev/posts/building-a-passive-ethernet-tap/)
+* [2026-07-01, 10:22:06](https://lobste.rs/s/w01x4p/which_github_features_are_needed_code) - [Which GitHub features are needed in a code forge before you can migrate?](https://lobste.rs/s/w01x4p/which_github_features_are_needed_code)
+* [2026-07-01, 10:07:04](https://news.ycombinator.com/item?id=48744518) - [Asahi Linux 7.1 Progress Report](https://asahilinux.org/2026/06/progress-report-7-1/)
+* [2026-07-01, 09:57:07](https://news.ycombinator.com/item?id=48744446) - [Pine64 launch $50 smart speaker for Home Assistant tinkerers](https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch)
+* [2026-07-01, 09:18:43](https://news.ycombinator.com/item?id=48744213) - [Dexter (YC F24) Is Hiring a Founding Engineer in Berlin](https://news.ycombinator.com/item?id=48744213)
+* [2026-07-01, 09:00:00](https://tech.slashdot.org/story/26/07/01/0554258/dot-announces-return-of-supersonic-flight-for-commercial-airlines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DOT Announces &apos;Return of Supersonic Flight&apos; For Commercial Airlines](https://tech.slashdot.org/story/26/07/01/0554258/dot-announces-return-of-supersonic-flight-for-commercial-airlines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-01, 08:12:40](https://news.ycombinator.com/item?id=48743655) - [Register Korea&apos;s First PC &apos;SE-8001&apos; as a National Important Material](https://www.dongascience.com/en/news/30374)
 * [2026-07-01, 08:01:30](https://lobste.rs/s/ivfo77/who_s_hiring_q3_2026) - [Who&apos;s hiring? Q3 2026](https://lobste.rs/s/ivfo77/who_s_hiring_q3_2026)
+* [2026-07-01, 07:43:22](https://news.ycombinator.com/item?id=48743472) - [Godot will no longer accept AI-authored code contributions](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
 * [2026-07-01, 06:54:13](https://lobste.rs/s/ujlr19/uruky_paid_european_search_engine) - [Uruky - The Paid European Search Engine](https://robheghan.prose.sh/26_06_30_uruky)
 * [2026-07-01, 06:51:00](https://soylentnews.org/article.pl?sid=26/06/30/0934235&amp;from=rss) - [Lenovo Says The &apos;RAMageddon&apos; Is The New Normal, Outlines Survival Guide](https://soylentnews.org/article.pl?sid=26/06/30/0934235&amp;from=rss)
 * [2026-07-01, 06:28:06](https://lobste.rs/s/vyosfg/hanami_3_0_full_bloom) - [Hanami 3.0: In full bloom](https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom)
-* [2026-07-01, 06:24:06](https://lobste.rs/s/thjzbz/redeploying_claude_fable_5) - [Redeploying Claude Fable 5](https://www.anthropic.com/news/redeploying-fable-5)
 * [2026-07-01, 06:00:00](https://yro.slashdot.org/story/26/07/01/0545222/trump-drops-restrictions-on-anthropics-mythos-and-fable-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Drops Restrictions On Anthropic&apos;s Mythos and Fable Models](https://yro.slashdot.org/story/26/07/01/0545222/trump-drops-restrictions-on-anthropics-mythos-and-fable-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-01, 05:43:44](https://news.ycombinator.com/item?id=48742717) - [Meta is adding rate limits and soft paywall to smart glasses](https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit)
 * [2026-07-01, 05:13:22](https://news.ycombinator.com/item?id=48742514) - [Matrix Orthogonalization Improves Memory in Recurrent Models](https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/)
 * [2026-07-01, 05:09:30](https://news.ycombinator.com/item?id=48742483) - [The first early human eggs from stem cells](https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells)
 * [2026-07-01, 03:52:55](https://news.ycombinator.com/item?id=48742049) - [Single header Parser Combinators for C](https://github.com/steve-chavez/CParseC)
@@ -113,7 +140,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-30, 16:48:37](https://news.ycombinator.com/item?id=48735444) - [Nano Banana 2 Lite](https://deepmind.google/models/gemini-image/flash-lite/)
 * [2026-06-30, 16:41:00](https://soylentnews.org/article.pl?sid=26/06/29/1852228&amp;from=rss) - [Ford Rehires ‘Gray Beard’ Engineers After AI Falls Short](https://soylentnews.org/article.pl?sid=26/06/29/1852228&amp;from=rss)
 * [2026-06-30, 16:00:00](https://hardware.slashdot.org/story/26/06/30/0618243/south-korea-to-spend-1-trillion-on-more-memory-chip-production-humanoid-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [South Korea To Spend $1 Trillion On More Memory Chip Production, Humanoid Robots](https://hardware.slashdot.org/story/26/06/30/0618243/south-korea-to-spend-1-trillion-on-more-memory-chip-production-humanoid-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-30, 15:56:00](https://lobste.rs/s/la0dqv/run_any_dockerfile_on_vercel) - [Run any Dockerfile on Vercel](https://vercel.com/blog/dockerfile-on-vercel)
 * [2026-06-30, 15:55:13](https://lobste.rs/s/g6wquq/underappreciated_builtin_grand_unified) - [Underappreciated builtin: Grand Unified Debugger](https://tusharhero.codeberg.page/underappreciated-builtin-gud.html)
 * [2026-06-30, 15:44:24](https://news.ycombinator.com/item?id=48734373) - [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
 * [2026-06-30, 15:02:05](https://lobste.rs/s/lzewut/parse_don_t_validate_language_doesn_t_want) - [Parse, Don&apos;t Validate — In a Language That Doesn&apos;t Want You To](https://cekrem.github.io/posts/parse-dont-validate-typescript/)
@@ -134,18 +160,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-30, 00:14:40](https://lobste.rs/s/pjcplu/end_aarch64_desktop_experiment) - [The end of the AArch64 desktop experiment](https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/)
 * [2026-06-29, 22:27:17](https://lobste.rs/s/29laqs/what_s_wrong_with_eu_age_verification) - [What&apos;s wrong with EU age verification? (Nothing)](https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/)
 * [2026-06-29, 21:33:00](https://soylentnews.org/article.pl?sid=26/06/28/1824219&amp;from=rss) - [Administration Tells US Techies It Expects American Quantum Computer by 2028](https://soylentnews.org/article.pl?sid=26/06/28/1824219&amp;from=rss)
-* [2026-06-29, 19:52:51](https://news.ycombinator.com/item?id=48724274) - [Segmenting Robot Video into Actionable Subtasks](https://macrodata.co/blog/annotating-robot-video-subtasks)
-* [2026-06-29, 19:34:00](https://yro.slashdot.org/story/26/06/29/0548210/ex-governors-big-tech-launch-coalition-to-help-workers-navigate-the-ai-economy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ex-Governors, Big Tech Launch Coalition To Help Workers &apos;Navigate the AI Economy&apos;](https://yro.slashdot.org/story/26/06/29/0548210/ex-governors-big-tech-launch-coalition-to-help-workers-navigate-the-ai-economy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-29, 18:52:25](https://news.ycombinator.com/item?id=48723484) - [CERN bids farewell to the LHC and enters Long Shutdown 3](https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/)
 * [2026-06-29, 16:48:00](https://soylentnews.org/article.pl?sid=26/06/28/1820239&amp;from=rss) - [Brits Still Reckon Big Tech Isn&apos;t Paying Enough Tax](https://soylentnews.org/article.pl?sid=26/06/28/1820239&amp;from=rss)
-* [2026-06-29, 16:47:40](https://news.ycombinator.com/item?id=48721617) - [Homemade Transistor from Cadmium Sulfide Photocell (2009)](http://sparkbangbuzz.com/cds-fet/cds-fet.htm)
-* [2026-06-29, 16:37:43](https://lobste.rs/s/ltzfkv/what_is_std_pin_pin_rust) - [What is `std::pin::Pin` in Rust?](https://vrong.me/blog/what-is-pinning-in-rust/)
+* [2026-06-29, 14:15:40](https://news.ycombinator.com/item?id=48719573) - [I Don&apos;t Maintain My Homelab](https://cleberg.net/blog/homelab-maintenance.html)
 * [2026-06-29, 12:02:00](https://soylentnews.org/article.pl?sid=26/06/28/1816241&amp;from=rss) - [Five Eyes Spooks Warn AI Means Infosec Incidents Can Become &apos;Major Operational and Financial Crises&apos;](https://soylentnews.org/article.pl?sid=26/06/28/1816241&amp;from=rss)
 * [2026-06-29, 07:16:00](https://soylentnews.org/article.pl?sid=26/06/28/188242&amp;from=rss) - [SK Telecom Named as the Korean Carrier at the Center of Anthropic&apos;s Mythos Export Controls](https://soylentnews.org/article.pl?sid=26/06/28/188242&amp;from=rss)
 * [2026-06-29, 02:32:00](https://soylentnews.org/article.pl?sid=26/06/28/183229&amp;from=rss) - [Photoshop Now Censors Your Art as You Edit](https://soylentnews.org/article.pl?sid=26/06/28/183229&amp;from=rss)
 * [2026-06-28, 22:16:20](https://news.ycombinator.com/item?id=48712289) - [How does a pull-back car work? Illustrated teardown](https://mechanical-pencil.com/products/car)
 * [2026-06-28, 21:48:00](https://soylentnews.org/article.pl?sid=26/06/27/1833254&amp;from=rss) - [Acoustic Mapping App Uses Thousands of Networked Old Android Phones to Hunt Shahed Drones](https://soylentnews.org/article.pl?sid=26/06/27/1833254&amp;from=rss)
-* [2026-06-28, 21:22:49](https://news.ycombinator.com/item?id=48711788) - [How information theory saved my word game](https://motplot.app/helloworld)
+* [2026-06-28, 20:05:56](https://news.ycombinator.com/item?id=48711052) - [Newly discovered spider builds spring loaded snare to catch ants](https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html)
 * [2026-06-28, 19:37:45](https://news.ycombinator.com/item?id=48710770) - [Ante: A new way to blend borrow checking and reference counting](https://verdagon.dev/blog/ante-blending-borrowing-rc)
 * [2026-06-28, 17:01:00](https://soylentnews.org/article.pl?sid=26/06/27/1825233&amp;from=rss) - [How Do Airbags Deploy So Quickly in a Crash? The Physics, Explained](https://soylentnews.org/article.pl?sid=26/06/27/1825233&amp;from=rss)
 * [2026-06-28, 12:19:00](https://soylentnews.org/article.pl?sid=26/06/27/1820224&amp;from=rss) - [‘Cost Me the Election’: Data Centers Trigger Voter Backlash](https://soylentnews.org/article.pl?sid=26/06/27/1820224&amp;from=rss)
@@ -153,7 +176,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-28, 04:17:44](https://news.ycombinator.com/item?id=48704289) - [Building a custom octocopter from scratch with no prior hardware experience](https://karolina.mgdubiel.com/drone/)
 * [2026-06-28, 02:54:00](https://soylentnews.org/article.pl?sid=26/06/27/1815209&amp;from=rss) - [ASML Denies US Government Report That its EUV Chipmaking Tool Was Shipped to China](https://soylentnews.org/article.pl?sid=26/06/27/1815209&amp;from=rss)
 * [2026-06-27, 22:10:00](https://soylentnews.org/article.pl?sid=26/06/26/1431252&amp;from=rss) - [Cloudflare Teams Up With Big Browsers to Help Websites Tell Welcome From Unwelcome Visitors](https://soylentnews.org/article.pl?sid=26/06/26/1431252&amp;from=rss)
-* [2026-06-27, 21:01:43](https://news.ycombinator.com/item?id=48701721) - [Stroustrup&apos;s Rule (2024)](https://buttondown.com/hillelwayne/archive/stroustrups-rule/)
 * [2026-06-27, 19:47:00](https://soylentnews.org/article.pl?sid=26/06/26/1429216&amp;from=rss) - [OpenC6 BIOS Project Brings PC-Like Firmware to ESP32-C6 MCU](https://soylentnews.org/article.pl?sid=26/06/26/1429216&amp;from=rss)
 * [2026-06-27, 17:24:00](https://soylentnews.org/article.pl?sid=26/06/26/1425225&amp;from=rss) - [Goalkeepers Beware: Trionda World Cup Ball Hits ‘Crisis’ Point at Certain Speed](https://soylentnews.org/article.pl?sid=26/06/26/1425225&amp;from=rss)
 * [2026-06-27, 12:43:00](https://soylentnews.org/article.pl?sid=26/06/26/1420245&amp;from=rss) - [The Memory Crisis Is Getting So Bad That Even Retro RAM Prices Are Becoming Ridiculous](https://soylentnews.org/article.pl?sid=26/06/26/1420245&amp;from=rss)
