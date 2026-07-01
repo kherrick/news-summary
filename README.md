@@ -1,46 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Updates and Innovations
+## Technology Advancements and Innovations
 
-* [Google Pulls the Plug On Tenor API, Killing GIF Pickers Around the Web](https://tech.slashdot.org/story/26/06/30/2131216/google-pulls-the-plug-on-tenor-api-killing-gif-pickers-around-the-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google announces the discontinuation of the Tenor API, leaving many web-based GIF pickers non-functional. [Comments](https://tech.slashdot.org/story/26/06/30/2131216/google-pulls-the-plug-on-tenor-api-killing-gif-pickers-around-the-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [ZLUDA 6 release (run CUDA on non-Nvidia GPUs)](https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/) - The latest release of ZLUDA now enables users to run CUDA on non-Nvidia GPUs, expanding possibilities for developers leveraging GPU computation.
 
-* [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser) - A developer recounts the unique process and challenges faced in bringing Kubernetes directly to web browsers. [Comments](https://lobste.rs/s/pzqj6b/i_ported_kubernetes_browser).
+* [Hatari – Online Atari ST/STE/TT/Falcon Emulator](https://hatari.frama.io/hatari/online/hatari.html) - This online emulator enables users to relive old-school Atari computer gaming directly in their web browsers.
 
-* [Microsoft Previews Linux Containers That Run In Windows](https://linux.slashdot.org/story/26/06/30/1742233/microsoft-previews-linux-containers-that-run-in-windows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft unveils its latest development of running Linux containers directly on Windows. [Comments](https://linux.slashdot.org/story/26/06/30/1742233/microsoft-previews-linux-containers-that-run-in-windows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [TabFM: A zero-shot foundation model for tabular data](https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/) - Google's new AI model is designed specifically to process tabular data with no prior customization.
 
-## Artificial Intelligence and Brain-Computer Interfaces
+* [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser) - A remarkable feat of engineering has enabled the powerful Kubernetes container orchestration platform to run directly in a web browser.
 
-* [Meta's brain-scanning system reads sentences non-invasively, code open source](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1) - Meta showcases a breakthrough AI-powered brain interface system that can read sentences non-invasively, with the code now available open source. [Comments](https://news.ycombinator.com/item?id=48739466).
+* [Generating the P3 Tiling](https://k-monk.org/blog/generating-the-p3-tiling/) - Explore a mathematical approach to generating non-repeating tiling patterns with the P3 tiling technique.
 
-* [Claude Code Is Steganographically Marking Requests](https://thereallo.dev/blog/claude-code-prompt-steganography) - A blog post unveils how Claude Code is embedding information using steganography in requests. [Comments](https://lobste.rs/s/qs2sxd/claude_code_is_steganographically).
+* [Show HN: My 13-year-old built an ant colony tracker](https://formicarium.es) - A 13-year-old innovator creates a tool to track ant colonies, showcasing the next generation's talent for building insightful technology.
 
-* [Claude Science is Here, Antibiotics Designed by Text Prompt Among Applications](https://science.slashdot.org/story/26/06/30/1844221/claude-science-is-here-antibiotics-designed-by-text-prompt-among-applications?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Introducing 'Claude Science' with applications in antibiotic design powered by AI text prompts. [Comments](https://science.slashdot.org/story/26/06/30/1844221/claude-science-is-here-antibiotics-designed-by-text-prompt-among-applications?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+## Corporate and Economic Developments
 
-## Cybersecurity and Privacy Issues
+* [Amazon Blames Piracy Apps With Malware For Killing New Fire Stick Sideloading](https://yro.slashdot.org/story/26/06/30/2149243/amazon-blames-piracy-apps-with-malware-for-killing-new-fire-stick-sideloading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Amazon halts sideloading on its Fire Stick after attributing the feature's removal to the proliferation of malware in certain piracy apps.
 
-* [The Threat of Residential Proxies](https://www.feistyduck.com/newsletter/issue_138_the_threat_of_residential_proxies) - Exploration of how residential proxies can be exploited for nefarious purposes. [Comments](https://lobste.rs/s/x8qug8/threat_residential_proxies).
+* [Apple iPhone 18 Details Leaked In Tata Data Breach](https://it.slashdot.org/story/26/06/30/1856223/apple-iphone-18-details-leaked-in-tata-data-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A data breach reveals upcoming Apple products as Tata becomes the center of sensitive leaks.
 
-* [US Supreme Court Rules Geofence Warrants Require Constitutional Privacy Protections](https://yro.slashdot.org/story/26/06/30/064251/us-supreme-court-rules-geofence-warrants-require-constitutional-privacy-protections?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The U.S. Supreme Court decides that geofence warrants must comply with constitutional privacy protections. [Comments](https://yro.slashdot.org/story/26/06/30/064251/us-supreme-court-rules-geofence-warrants-require-constitutional-privacy-protections?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [South Korea To Spend $1 Trillion On More Memory Chip Production, Humanoid Robots](https://hardware.slashdot.org/story/26/06/30/0618243/south-korea-to-spend-1-trillion-on-more-memory-chip-production-humanoid-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - South Korea's ambitious investment plan aims to scale memory chip manufacturing and develop advanced humanoid robots.
 
-## Scientific Discoveries and Space Exploration
+* [Ford Rehires ‘Gray Beard’ Engineers After AI Falls Short](https://soylentnews.org/article.pl?sid=26/06/29/1852228&amp;from=rss) - Facing limitations with AI, Ford returns to experienced engineers to tackle complex challenges in automobile development.
 
-* [Scientists Think Neptune and Uranus May Not Be the Ice Giants We Imagined](https://science.slashdot.org/story/26/06/29/0135220/scientists-think-neptune-and-uranus-may-not-be-the-ice-giants-we-imagined?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new analysis challenges previous notions about the composition of Neptune and Uranus. [Comments](https://science.slashdot.org/story/26/06/29/0135220/scientists-think-neptune-and-uranus-may-not-be-the-ice-giants-we-imagined?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+* [US Supreme Court Rules Geofence Warrants Require Constitutional Privacy Protections](https://yro.slashdot.org/story/26/06/30/064251/us-supreme-court-rules-geofence-warrants-require-constitutional-privacy-protections?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A significant court ruling increases privacy protections related to geofence warrants, reconciling technology with constitutional rights.
 
-* [Acoustic Mapping App Uses Thousands of Networked Old Android Phones to Hunt Shahed Drones](https://soylentnews.org/article.pl?sid=26/06/27/1833254&amp;from=rss) - Innovative acoustic mapping technology employs discarded Android phones to track drones. [Comments](https://soylentnews.org/article.pl?sid=26/06/27/1833254&amp;from=rss).
+## Novel Research and Scientific Exploration
 
-## Engineering and Maker Projects
+* [Claude Science is Here, Antibiotics Designed by Text Prompt Among Applications](https://science.slashdot.org/story/26/06/30/1844221/claude-science-is-here-antibiotics-designed-by-text-prompt-among-applications?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - AI advances in Claude Science are enabling new capabilities like designing antibiotics through simple text prompts.
 
-* [I Built A Whole-Home Ad Blocker With A $7 ESP32-S3 Board - And It Took Just Minutes](https://soylentnews.org/article.pl?sid=26/06/29/191210&amp;from=rss) - A tech enthusiast builds a cost-effective ad blocker using just a $7 ESP32-S3 board in a short time. [Comments](https://soylentnews.org/article.pl?sid=26/06/29/191210&amp;from=rss).
+* [From brain waves to words: a new path to communication without surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1) - A cutting-edge system translates brain waves directly into words, offering new communication methods for users without invasive procedures.
 
-* [I built a 10 inch mini rack from aluminium extrusions](https://louwrentius.com/i-build-a-10-inch-mini-rack-from-aluminium-extrusions.html) - A DIY engineer shares insights and photos from building a custom mini server rack. [Comments](https://news.ycombinator.com/item?id=48702917).
+* [Local Reasoning for Global Properties](https://tratt.net/laurie/blog/2026/local_reasoning_for_global_properties.html) - A detailed discussion on how local reasoning can be applied to analyze complex global systems coherently.
 
-* [Building a custom octocopter from scratch with no prior hardware experience](https://karolina.mgdubiel.com/drone/) - A surprising journey creating a custom octocopter with limited initial knowledge. [Comments](https://news.ycombinator.com/item?id=48704289).
+## Cultural and Historical Insights
 
-## Cultural and Historical Perspectives
+* [Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)](https://www.gutenberg.org/ebooks/24518) - A revisiting of this classic work unpacks society's susceptibility to irrational behavior and collective mania.
 
-* [Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)](https://www.gutenberg.org/ebooks/24518) - Dive into a timeless historical analysis of crowd psychology and economic bubbles via this 1852 publication. [Comments](https://news.ycombinator.com/item?id=48731989).
+* [Tokyo has only two barley tea makers, we visited one to see how mugicha is made](https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/) - A fascinating look into the traditional process behind mugicha, an iconic Japanese barley tea.
 
-* [Remembering How Microsoft's Fake Windows Error Ended In a $280 Million Secret Settlement](https://slashdot.org/story/26/06/29/0642256/remembering-how-microsofts-fake-windows-error-ended-in-a-280-million-secret-settlement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Revisiting the story of Microsoft's settlement over fake Windows error messages. [Comments](https://slashdot.org/story/26/06/29/0642256/remembering-how-microsofts-fake-windows-error-ended-in-a-280-million-secret-settlement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
+## Security and Ethical Discourse
+
+* [Claude Code Is Steganographically Marking Requests](https://thereallo.dev/blog/claude-code-prompt-steganography) - Discover how Claude Code leverages steganography to embed marks within its request systems.
+
+* [stop asking writers about "AI"](https://benjaminhollon.com/musings/stop-asking-writers-about-ai/) - A thought-provoking perspective highlighting the conversations writers wish to avoid in an AI-driven landscape.
 
 ---
 
@@ -67,20 +71,27 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-07-01, 00:17:06](https://lobste.rs/s/rfkmw3/what_happened_fight_for_internet) - [What happened to the fight for the internet?](https://dustycloud.org/blog/what-happened-to-the-fight-for-the-internet/)
+* [2026-06-30, 23:55:12](https://news.ycombinator.com/item?id=48740771) - [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341)
+* [2026-06-30, 23:45:39](https://news.ycombinator.com/item?id=48740698) - [Google copybara: moving code between repositories](https://github.com/google/copybara)
+* [2026-06-30, 23:00:00](https://yro.slashdot.org/story/26/06/30/2149243/amazon-blames-piracy-apps-with-malware-for-killing-new-fire-stick-sideloading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Blames Piracy Apps With Malware For Killing New Fire Stick Sideloading](https://yro.slashdot.org/story/26/06/30/2149243/amazon-blames-piracy-apps-with-malware-for-killing-new-fire-stick-sideloading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-06-30, 22:46:36](https://lobste.rs/s/38nsyj/zluda_6_release_run_cuda_on_non_nvidia_gpus) - [ZLUDA 6 release (run CUDA on non-Nvidia GPUs)](https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/)
+* [2026-06-30, 22:34:23](https://news.ycombinator.com/item?id=48740135) - [Hatari – Online Atari ST/STE/TT/Falcon Emulator](https://hatari.frama.io/hatari/online/hatari.html)
+* [2026-06-30, 22:16:39](https://lobste.rs/s/96kp1m/jj_jj_jj_jj_jj) - [jj jj jj jj jj](https://caiustheory.com/jj-jj-jj-jj-jj/)
+* [2026-06-30, 22:08:38](https://news.ycombinator.com/item?id=48739919) - [TabFM: A zero-shot foundation model for tabular data](https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/)
 * [2026-06-30, 22:00:00](https://tech.slashdot.org/story/26/06/30/2131216/google-pulls-the-plug-on-tenor-api-killing-gif-pickers-around-the-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Pulls the Plug On Tenor API, Killing GIF Pickers Around the Web](https://tech.slashdot.org/story/26/06/30/2131216/google-pulls-the-plug-on-tenor-api-killing-gif-pickers-around-the-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-30, 21:33:59](https://lobste.rs/s/pzqj6b/i_ported_kubernetes_browser) - [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
-* [2026-06-30, 21:29:13](https://news.ycombinator.com/item?id=48739466) - [Meta&apos;s brain-scanning system reads sentences non-invasively, code open source](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1)
+* [2026-06-30, 21:29:13](https://news.ycombinator.com/item?id=48739466) - [From brain waves to words: a new path to communication without surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1)
 * [2026-06-30, 21:25:00](https://soylentnews.org/article.pl?sid=26/06/29/191210&amp;from=rss) - [I Built A Whole-Home Ad Blocker With A $7 ESP32-S3 Board - And It Took Just Minutes](https://soylentnews.org/article.pl?sid=26/06/29/191210&amp;from=rss)
 * [2026-06-30, 21:00:00](https://yro.slashdot.org/story/26/06/30/195215/california-bill-to-preserve-online-games-fails-committee-vote?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [California Bill To Preserve Online Games Fails Committee Vote](https://yro.slashdot.org/story/26/06/30/195215/california-bill-to-preserve-online-games-fails-committee-vote?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-30, 20:48:36](https://news.ycombinator.com/item?id=48738985) - [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
-* [2026-06-30, 20:17:21](https://news.ycombinator.com/item?id=48738606) - [Morbid: Debunking Modern Longevity Science](https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel)
+* [2026-06-30, 20:44:56](https://news.ycombinator.com/item?id=48738938) - [Leanstral 1.5](https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06)
 * [2026-06-30, 20:00:00](https://it.slashdot.org/story/26/06/30/1856223/apple-iphone-18-details-leaked-in-tata-data-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple iPhone 18 Details Leaked In Tata Data Breach](https://it.slashdot.org/story/26/06/30/1856223/apple-iphone-18-details-leaked-in-tata-data-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-30, 19:47:24](https://news.ycombinator.com/item?id=48738262) - [Tokyo has only two barley tea makers, we visited one to see how mugicha is made](https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/)
 * [2026-06-30, 19:43:05](https://lobste.rs/s/x8qug8/threat_residential_proxies) - [The Threat of Residential Proxies](https://www.feistyduck.com/newsletter/issue_138_the_threat_of_residential_proxies)
 * [2026-06-30, 19:04:44](https://lobste.rs/s/qs2sxd/claude_code_is_steganographically) - [Claude Code Is Steganographically Marking Requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
 * [2026-06-30, 19:00:00](https://science.slashdot.org/story/26/06/30/1844221/claude-science-is-here-antibiotics-designed-by-text-prompt-among-applications?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Claude Science is Here, Antibiotics Designed by Text Prompt Among Applications](https://science.slashdot.org/story/26/06/30/1844221/claude-science-is-here-antibiotics-designed-by-text-prompt-among-applications?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-30, 18:39:07](https://lobste.rs/s/uaubz8/generating_p3_tiling) - [Generating the P3 Tiling](https://k-monk.org/blog/generating-the-p3-tiling/)
-* [2026-06-30, 18:12:33](https://news.ycombinator.com/item?id=48736839) - [Amazon seller reveals glimpse of shadow bribery market](https://www.latimes.com/business/story/2026-06-30/shadow-bribery-market-inside-amazon-preys-on-desperate-sellers)
 * [2026-06-30, 18:00:00](https://linux.slashdot.org/story/26/06/30/1742233/microsoft-previews-linux-containers-that-run-in-windows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Previews Linux Containers That Run In Windows](https://linux.slashdot.org/story/26/06/30/1742233/microsoft-previews-linux-containers-that-run-in-windows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-30, 17:59:52](https://news.ycombinator.com/item?id=48736605) - [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
 * [2026-06-30, 17:29:36](https://news.ycombinator.com/item?id=48736137) - [I built a mmWave material classification radar (2025)](https://gauthier-lechevalier.com/radar)
@@ -104,22 +115,19 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-30, 12:54:01](https://news.ycombinator.com/item?id=48732056) - [Knoppix](https://www.knopper.net/knoppix/index-en.html)
 * [2026-06-30, 12:47:51](https://news.ycombinator.com/item?id=48731989) - [Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)](https://www.gutenberg.org/ebooks/24518)
 * [2026-06-30, 11:49:00](https://soylentnews.org/article.pl?sid=26/06/29/1850225&amp;from=rss) - [Intel&apos;s Next-Gen 52-Core Nova Lake CPU Could Pull Up To 474W — May Need Three 8-Pin Power Connectors](https://soylentnews.org/article.pl?sid=26/06/29/1850225&amp;from=rss)
-* [2026-06-30, 11:13:06](https://lobste.rs/s/rrtmck/diagrams_for_penrose_tiles) - [Diagrams for Penrose Tiles](https://readerunner.wordpress.com/2021/09/13/diagrams-for-penrose-tiles/)
-* [2026-06-30, 10:34:25](https://news.ycombinator.com/item?id=48730713) - [Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)](https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/)
 * [2026-06-30, 10:34:00](https://slashdot.org/story/26/06/29/0642256/remembering-how-microsofts-fake-windows-error-ended-in-a-280-million-secret-settlement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Remembering How Microsoft&apos;s Fake Windows Error Ended In a $280 Million Secret Settlement](https://slashdot.org/story/26/06/29/0642256/remembering-how-microsofts-fake-windows-error-ended-in-a-280-million-secret-settlement?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-30, 09:58:16](https://lobste.rs/s/4rfzbl/local_reasoning_for_global_properties) - [Local Reasoning for Global Properties](https://tratt.net/laurie/blog/2026/local_reasoning_for_global_properties.html)
-* [2026-06-30, 09:38:50](https://lobste.rs/s/r3ln3z/furality_ultra_club_v_writeup) - [Furality Ultra Club A/V Writeup](https://value.gay/blog/furality-ultra-av)
 * [2026-06-30, 08:47:25](https://lobste.rs/s/fg3sgh/jj_tui_terminal_user_interface_jujutsu) - [jj_tui: terminal user interface to jujutsu focused on speed and clarity](https://tangled.org/elidowling.com/jj_tui)
 * [2026-06-30, 07:33:16](https://lobste.rs/s/edml2s/platform_support_for_gnu_extensions) - [Platform Support for GNU Extensions to Basic Regular Expressions](https://www.wezm.net/v2/posts/2026/bre/)
 * [2026-06-30, 07:05:00](https://soylentnews.org/article.pl?sid=26/06/29/1848249&amp;from=rss) - [Mark Zuckerberg Is Selflessly Building Yet Another Horrible Product Nobody Asked For](https://soylentnews.org/article.pl?sid=26/06/29/1848249&amp;from=rss)
 * [2026-06-30, 06:34:57](https://lobste.rs/s/wenqxh/investigating_linux_graphics_2025) - [Investigating Linux graphics (2025)](https://roscidus.com/blog/blog/2025/06/24/graphics/)
 * [2026-06-30, 05:34:00](https://tech.slashdot.org/story/26/06/29/0321238/ford-rehires-gray-beard-engineers-after-ai-falls-short?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ford Rehires &apos;Gray Beard&apos; Engineers After AI Falls Short](https://tech.slashdot.org/story/26/06/29/0321238/ford-rehires-gray-beard-engineers-after-ai-falls-short?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-30, 03:29:10](https://lobste.rs/s/ewgrd8/native_graphical_shell_for_ssh) - [A native graphical shell for SSH](https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html)
+* [2026-06-30, 02:39:56](https://news.ycombinator.com/item?id=48727953) - [Loko Scheme 0.13.0](https://weinholt.se/articles/loko-scheme-0-13-0/)
 * [2026-06-30, 02:18:00](https://soylentnews.org/article.pl?sid=26/06/29/1844208&amp;from=rss) - [The Boeing 747 Begins Its Final Descent](https://soylentnews.org/article.pl?sid=26/06/29/1844208&amp;from=rss)
 * [2026-06-30, 02:11:09](https://lobste.rs/s/1ggr8a/memory_safe_context_switching) - [Memory Safe Context Switching](https://fil-c.org/context_switches)
 * [2026-06-30, 00:34:00](https://tech.slashdot.org/story/26/06/29/0228207/south-korea-plans-to-train-entire-military-as-drone-warriors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [South Korea Plans To Train Entire Military As &apos;Drone Warriors&apos;](https://tech.slashdot.org/story/26/06/29/0228207/south-korea-plans-to-train-entire-military-as-drone-warriors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-30, 00:14:40](https://lobste.rs/s/pjcplu/end_aarch64_desktop_experiment) - [The end of the AArch64 desktop experiment](https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/)
-* [2026-06-29, 22:31:57](https://lobste.rs/s/ybcofm/spindle_s_new_microvm_engine) - [Spindle&apos;s new microVM engine](https://blog.tangled.org/spindle-microvm/)
 * [2026-06-29, 22:27:17](https://lobste.rs/s/29laqs/what_s_wrong_with_eu_age_verification) - [What&apos;s wrong with EU age verification? (Nothing)](https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/)
 * [2026-06-29, 21:33:00](https://soylentnews.org/article.pl?sid=26/06/28/1824219&amp;from=rss) - [Administration Tells US Techies It Expects American Quantum Computer by 2028](https://soylentnews.org/article.pl?sid=26/06/28/1824219&amp;from=rss)
 * [2026-06-29, 19:34:00](https://yro.slashdot.org/story/26/06/29/0548210/ex-governors-big-tech-launch-coalition-to-help-workers-navigate-the-ai-economy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Ex-Governors, Big Tech Launch Coalition To Help Workers &apos;Navigate the AI Economy&apos;](https://yro.slashdot.org/story/26/06/29/0548210/ex-governors-big-tech-launch-coalition-to-help-workers-navigate-the-ai-economy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -127,37 +135,27 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-29, 16:48:00](https://soylentnews.org/article.pl?sid=26/06/28/1820239&amp;from=rss) - [Brits Still Reckon Big Tech Isn&apos;t Paying Enough Tax](https://soylentnews.org/article.pl?sid=26/06/28/1820239&amp;from=rss)
 * [2026-06-29, 16:37:43](https://lobste.rs/s/ltzfkv/what_is_std_pin_pin_rust) - [What is `std::pin::Pin` in Rust?](https://vrong.me/blog/what-is-pinning-in-rust/)
 * [2026-06-29, 14:34:00](https://hardware.slashdot.org/story/26/06/29/0049218/ibm-says-it-can-fit-nearly-100-billion-transistors-on-a-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [IBM Says It Can Fit Nearly 100 Billion Transistors On a Chip ](https://hardware.slashdot.org/story/26/06/29/0049218/ibm-says-it-can-fit-nearly-100-billion-transistors-on-a-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-06-29, 13:20:41](https://news.ycombinator.com/item?id=48718972) - [Counterexamples in type systems (2021)](https://counterexamples.org/)
 * [2026-06-29, 13:15:52](https://lobste.rs/s/fok2dp/when_impressive_performance_gains_do_not) - [When Impressive Performance Gains Do Not Matter](https://blog.colinbreck.com/when-impressive-performance-gains-do-not-matter/)
 * [2026-06-29, 12:59:49](https://news.ycombinator.com/item?id=48718716) - [Reading the internals of Postgres: Database cluster, databases, and tables](https://www.buraksen.dev/articles/internals-of-postgresql-db-cluster-and-tables)
 * [2026-06-29, 12:02:00](https://soylentnews.org/article.pl?sid=26/06/28/1816241&amp;from=rss) - [Five Eyes Spooks Warn AI Means Infosec Incidents Can Become &apos;Major Operational and Financial Crises&apos;](https://soylentnews.org/article.pl?sid=26/06/28/1816241&amp;from=rss)
 * [2026-06-29, 09:34:00](https://science.slashdot.org/story/26/06/29/0135220/scientists-think-neptune-and-uranus-may-not-be-the-ice-giants-we-imagined?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Think Neptune and Uranus May Not Be the Ice Giants We Imagined ](https://science.slashdot.org/story/26/06/29/0135220/scientists-think-neptune-and-uranus-may-not-be-the-ice-giants-we-imagined?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-29, 07:16:00](https://soylentnews.org/article.pl?sid=26/06/28/188242&amp;from=rss) - [SK Telecom Named as the Korean Carrier at the Center of Anthropic&apos;s Mythos Export Controls](https://soylentnews.org/article.pl?sid=26/06/28/188242&amp;from=rss)
-* [2026-06-29, 04:34:00](https://news.slashdot.org/story/26/06/29/0115229/trump-shuttered-climate-change-site-now-back-online-in-nonprofit-hands?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump-Shuttered Climate Change Site Now Back Online In Nonprofit Hands ](https://news.slashdot.org/story/26/06/29/0115229/trump-shuttered-climate-change-site-now-back-online-in-nonprofit-hands?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-29, 02:32:00](https://soylentnews.org/article.pl?sid=26/06/28/183229&amp;from=rss) - [Photoshop Now Censors Your Art as You Edit](https://soylentnews.org/article.pl?sid=26/06/28/183229&amp;from=rss)
 * [2026-06-28, 22:16:20](https://news.ycombinator.com/item?id=48712289) - [How does a pull-back car work? Illustrated teardown](https://mechanical-pencil.com/products/car)
 * [2026-06-28, 21:48:00](https://soylentnews.org/article.pl?sid=26/06/27/1833254&amp;from=rss) - [Acoustic Mapping App Uses Thousands of Networked Old Android Phones to Hunt Shahed Drones](https://soylentnews.org/article.pl?sid=26/06/27/1833254&amp;from=rss)
+* [2026-06-28, 19:37:45](https://news.ycombinator.com/item?id=48710770) - [Ante: A new way to blend borrow checking and reference counting](https://verdagon.dev/blog/ante-blending-borrowing-rc)
 * [2026-06-28, 17:01:00](https://soylentnews.org/article.pl?sid=26/06/27/1825233&amp;from=rss) - [How Do Airbags Deploy So Quickly in a Crash? The Physics, Explained](https://soylentnews.org/article.pl?sid=26/06/27/1825233&amp;from=rss)
+* [2026-06-28, 14:24:06](https://news.ycombinator.com/item?id=48707558) - [Hengefinder](https://hengefinder.com/)
+* [2026-06-28, 14:21:17](https://news.ycombinator.com/item?id=48707527) - [Deriving SVD without even aiming at it](https://stillthinking.net/posts/connections-in-math-svd/)
 * [2026-06-28, 12:19:00](https://soylentnews.org/article.pl?sid=26/06/27/1820224&amp;from=rss) - [‘Cost Me the Election’: Data Centers Trigger Voter Backlash](https://soylentnews.org/article.pl?sid=26/06/27/1820224&amp;from=rss)
 * [2026-06-28, 07:36:00](https://soylentnews.org/article.pl?sid=26/06/27/1818212&amp;from=rss) - [I Stored a Website in a Favicon](https://soylentnews.org/article.pl?sid=26/06/27/1818212&amp;from=rss)
 * [2026-06-28, 04:17:44](https://news.ycombinator.com/item?id=48704289) - [Building a custom octocopter from scratch with no prior hardware experience](https://karolina.mgdubiel.com/drone/)
 * [2026-06-28, 02:54:00](https://soylentnews.org/article.pl?sid=26/06/27/1815209&amp;from=rss) - [ASML Denies US Government Report That its EUV Chipmaking Tool Was Shipped to China](https://soylentnews.org/article.pl?sid=26/06/27/1815209&amp;from=rss)
 * [2026-06-27, 23:45:45](https://news.ycombinator.com/item?id=48702917) - [I built a 10 inch mini rack from aluminium extrusions](https://louwrentius.com/i-build-a-10-inch-mini-rack-from-aluminium-extrusions.html)
-* [2026-06-27, 22:24:35](https://news.ycombinator.com/item?id=48702361) - [Set up your own DoH (DNS over HTTPS) service](https://nochan.net/b/Internet-Crap/20260602-Set-Up-Your-Own-DoH-Service/)
 * [2026-06-27, 22:10:00](https://soylentnews.org/article.pl?sid=26/06/26/1431252&amp;from=rss) - [Cloudflare Teams Up With Big Browsers to Help Websites Tell Welcome From Unwelcome Visitors](https://soylentnews.org/article.pl?sid=26/06/26/1431252&amp;from=rss)
 * [2026-06-27, 21:01:43](https://news.ycombinator.com/item?id=48701721) - [Stroustrup&apos;s Rule (2024)](https://buttondown.com/hillelwayne/archive/stroustrups-rule/)
 * [2026-06-27, 19:47:00](https://soylentnews.org/article.pl?sid=26/06/26/1429216&amp;from=rss) - [OpenC6 BIOS Project Brings PC-Like Firmware to ESP32-C6 MCU](https://soylentnews.org/article.pl?sid=26/06/26/1429216&amp;from=rss)
 * [2026-06-27, 17:24:00](https://soylentnews.org/article.pl?sid=26/06/26/1425225&amp;from=rss) - [Goalkeepers Beware: Trionda World Cup Ball Hits ‘Crisis’ Point at Certain Speed](https://soylentnews.org/article.pl?sid=26/06/26/1425225&amp;from=rss)
-* [2026-06-27, 15:18:03](https://news.ycombinator.com/item?id=48699010) - [A peek into Reddit&apos;s anti-spam internals](https://lyra.horse/blog/2026/06/reddit-spam-internals/)
 * [2026-06-27, 12:43:00](https://soylentnews.org/article.pl?sid=26/06/26/1420245&amp;from=rss) - [The Memory Crisis Is Getting So Bad That Even Retro RAM Prices Are Becoming Ridiculous](https://soylentnews.org/article.pl?sid=26/06/26/1420245&amp;from=rss)
 * [2026-06-27, 07:57:00](https://soylentnews.org/article.pl?sid=26/06/26/1417252&amp;from=rss) - [Wikipedia Cofounder Larry Sanger Blocked From Editing Wikipedia](https://soylentnews.org/article.pl?sid=26/06/26/1417252&amp;from=rss)
 * [2026-06-27, 03:13:00](https://soylentnews.org/article.pl?sid=26/06/26/1415219&amp;from=rss) - [Pluralistic: Spying on Kids to Save Kids From Spying is Very, Very Stupid](https://soylentnews.org/article.pl?sid=26/06/26/1415219&amp;from=rss)
-* [2026-06-26, 23:29:51](https://news.ycombinator.com/item?id=48693369) - [Waveloop: What Fable left me](https://neynt.ca/writing/waveloop/)
-* [2026-06-26, 22:26:00](https://soylentnews.org/article.pl?sid=26/06/25/0459200&amp;from=rss) - [Day-to-Day Cyber Disruptions Driving Loss for SMEs, Finds Report](https://soylentnews.org/article.pl?sid=26/06/25/0459200&amp;from=rss)
-* [2026-06-26, 18:25:15](https://news.ycombinator.com/item?id=48690130) - [SedonaDB 0.4: GPU-accelerated spatial joins](https://sedona.apache.org/latest/blog/2026/06/26/sedonadb-04-gpu-accelerated-spatial-joins/)
-* [2026-06-26, 17:44:00](https://soylentnews.org/article.pl?sid=26/06/25/0445223&amp;from=rss) - [Automakers Could Stop Selling Cars in California Rather Than Comply With Tracking Laws](https://soylentnews.org/article.pl?sid=26/06/25/0445223&amp;from=rss)
-* [2026-06-26, 16:38:55](https://news.ycombinator.com/item?id=48688685) - [1.38 Millimeter Microcontroller](https://www.ti.com/product/MSPM0C1104)
-* [2026-06-26, 15:15:33](https://news.ycombinator.com/item?id=48687640) - [Matrix URIs, a URL syntax from Tim Berners-Lee that never shipped (1996)](https://www.w3.org/DesignIssues/MatrixURIs.html)
-* [2026-06-26, 12:55:00](https://soylentnews.org/article.pl?sid=26/06/25/0441233&amp;from=rss) - [The Database That Refused to Die: How Postgres Survived its Own Creators](https://soylentnews.org/article.pl?sid=26/06/25/0441233&amp;from=rss)
-* [2026-06-26, 08:06:00](https://soylentnews.org/article.pl?sid=26/06/25/0430237&amp;from=rss) - [As China Looms, Taiwan Makes More Drones for Defense and the US Military](https://soylentnews.org/article.pl?sid=26/06/25/0430237&amp;from=rss)
-* [2026-06-26, 03:24:00](https://soylentnews.org/article.pl?sid=26/06/25/046226&amp;from=rss) - [Beats Studio Buds Flaw Could Let Nearby Attackers Eavesdrop on Users](https://soylentnews.org/article.pl?sid=26/06/25/046226&amp;from=rss)
