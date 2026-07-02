@@ -1,42 +1,56 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Space Innovation
+## Tech Innovations and Developments
 
-* [SpaceX Reportedly Has an AI Device Prototype](https://hardware.slashdot.org/story/26/07/02/0217230/spacex-reportedly-has-an-ai-device-prototype?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - SpaceX is reportedly working on a prototype for an AI-powered device, showcasing its advancements in space technology.
+* [SpaceX Reportedly Has an AI Device Prototype](https://hardware.slashdot.org/story/26/07/02/0217230/spacex-reportedly-has-an-ai-device-prototype?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - SpaceX is reportedly developing an artificial intelligence device, hinting at potential advancements in AI applications for space exploration.
 
-* [NASA Wants To Send Spare Nuclear-Powered Mars Rover To the Moon](https://science.slashdot.org/story/26/07/01/0613245/nasa-wants-to-send-spare-nuclear-powered-mars-rover-to-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NASA explores using a spare nuclear-powered Mars rover on the Moon, signaling advancements in cross-planetary tech.
+* [Oomwoo, an open-source robot vacuum you build yourself](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/) - A new open-source robot vacuum cleaner, Oomwoo, allows users to create their own customized versions.
 
-## AI and Automation Developments
+* [Scientists Made a Cell From Scratch For First Time](https://science.slashdot.org/story/26/07/01/1912205/scientists-made-a-cell-from-scratch-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Researchers achieved a breakthrough in synthetic biology by creating a cell capable of growing and dividing from scratch.
 
-* [Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](https://senior-swe-bench.snorkel.ai/) - A new open-source benchmark helps evaluate AI agents' skills mirroring senior software engineers.
+* [NASA Wants To Send Spare Nuclear-Powered Mars Rover To the Moon](https://science.slashdot.org/story/26/07/01/0613245/nasa-wants-to-send-spare-nuclear-powered-mars-rover-to-the-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NASA considers repurposing a spare Mars rover for lunar exploration, leveraging its nuclear-powered capabilities.
 
-* [The Control Plane Was the Point: Revisiting autofz in the LLM Era](https://yfu.tw/blog/en/autofz-revisited/) - This article revisits autofz and its relevance within the context of the growing influence of large language models (LLMs).
+## Big Tech and Industry News
 
-* [Meta Is Reportedly Building Its Own Cloud Business](https://meta.slashdot.org/story/26/07/01/1952253/meta-is-reportedly-building-its-own-cloud-business?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Meta is reportedly expanding into the cloud infrastructure space.
+* [Google loses fight over record $4.7B EU antitrust fine](https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html) - Google loses its appeal against a historic $4.7 billion antitrust fine imposed by the EU in a high-profile legal battle.
 
-## Tech and Open Source Initiatives
+* [Meta Is Reportedly Building Its Own Cloud Business](https://meta.slashdot.org/story/26/07/01/1952253/meta-is-reportedly-building-its-own-cloud-business?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Reports suggest that Meta is possibly working on developing its own cloud business to support AI and data-heavy services.
 
-* [FreeBSD Vs. Linux: the Eternal Open-Source Showdown](https://soylentnews.org/article.pl?sid=26/07/01/0611205&amp;from=rss) - An ongoing examination of the features, community, and strengths of FreeBSD and Linux in the open-source ecosystem.
+* [Cloudflare Pushes AI Companies To Pay For Publishers' Content](https://tech.slashdot.org/story/26/07/01/1930218/cloudflare-pushes-ai-companies-to-pay-for-publishers-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Cloudflare is urging AI companies to compensate publishers for using their content in AI training.
 
-* [On Ditching Vagrant](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/) - A personal account exploring the decision to move away from Vagrant to modern development tools.
+* [Meta Loses Bid To Dismiss US States' Claims That Facebook, Instagram Addict Children](https://yro.slashdot.org/story/26/07/01/1721251/meta-loses-bid-to-dismiss-us-states-claims-that-facebook-instagram-addict-children?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Meta's legal efforts to dismiss claims by US states regarding detrimental effects of its platforms on minors fail in court.
 
-* [Improving token efficiency for GitHub Copilot in VS Code](https://code.visualstudio.com/blogs/2026/06/17/improving-token-efficiency-in-github-copilot) - Latest efforts to enhance GitHub Copilot's token efficiency in Visual Studio Code.
+## Programming and Developer Insights
 
-* [Pidgin 3.0 Alpha 2 (2.96.0) has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-2-2-96-0-has-been-released/398) - Update on Pidgin's upcoming version focused on open-source instant messaging tools.
+* [The Fall of the Theorem Economy](https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy) - A dive into the implications of the "theorem economy" and how it shapes academic and intellectual pursuits.
 
-## Advancements in Health and Safety
+* [Improving token efficiency for GitHub Copilot in VS Code](https://code.visualstudio.com/blogs/2026/06/17/improving-token-efficiency-in-github-copilot) - Details on enhancing the token efficiency in GitHub Copilot for users utilizing Visual Studio Code.
 
-* [Global review confirms mRNA vaccines are safe, effective and full of promise](https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/) - A global review affirms the safety, effectiveness, and potential of mRNA vaccines for global health.
+* [Bring back crappy forums](https://tedium.co/2026/07/01/online-web-forums-retrospective/) - An argument for the return of old-school online discussion forums as a way to foster deeper digital conversations.
 
-* [New Florida Law Bans Local Net-Zero Emissions Policies](https://yro.slashdot.org/story/26/06/30/2157253/new-florida-law-bans-local-net-zero-emissions-policies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A controversial law in Florida restricts municipalities from implementing net-zero emissions policies.
+* [Learn Vim motions with an ice-cream van](https://thisismodest.com/vimscoops/) - A unique approach to learning Vim motions through an engaging and interactive ice-cream van metaphor, aimed at beginners.
 
-## Consumer Technology Insights
+## Cybersecurity and Software Developments
 
-* [Sony PlayStation Will Stop Releasing Games On Discs In 2028](https://games.slashdot.org/story/26/07/01/1734219/sony-playstation-will-stop-releasing-games-on-discs-in-2028?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Sony announces plans to transition away from releasing PlayStation games on physical discs by 2028.
+* [On Ditching Vagrant](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/) - An exploration of the process and benefits of replacing Vagrant in software development workflows.
 
-* [The &lt;Usermedia&gt; HTML Element](https://developer.chrome.com/blog/usermedia-html-element) - Exploration of the potential applications of the new Usermedia HTML element for web developers and users.
+* [Unprivileged root via an out-of-bounds write in the FUSE readdir cache (CVE-2026-31694)](https://cyberstan.co.uk/fuse-readdir-oob/) - A detailed analysis of a critical vulnerability (CVE-2026-31694) allowing unprivileged root access via an out-of-bounds write in the FUSE readdir cache.
 
-* [Reddit Will Require You To Log In To Use Old Reddit](https://tech.slashdot.org/story/26/07/01/1743219/reddit-will-require-you-to-log-in-to-use-old-reddit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Reddit's new policy limits access to its 'Old Reddit' version, requiring users to log in to navigate the platform.
+* [Prompt Injection as Role Confusion](https://soylentnews.org/article.pl?sid=26/07/01/0552223&amp;from=rss) - An analysis of prompt injection attacks from a novel perspective, casting them as a form of role confusion in AI interactions.
+
+* [Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](https://senior-swe-bench.snorkel.ai/) - An open-source benchmarking tool designed to evaluate AI agents performing as senior software engineers, providing new insights into their capabilities.
+
+## Consumer Technology and Society
+
+* [Reddit Will Require You To Log In To Use Old Reddit](https://tech.slashdot.org/story/26/07/01/1743219/reddit-will-require-you-to-log-in-to-use-old-reddit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Reddit plans to roll out mandatory log-in requirements for accessing the 'Old Reddit' interface, a measure that might affect users' experience.
+
+* [Sony PlayStation Will Stop Releasing Games On Discs In 2028](https://games.slashdot.org/story/26/07/01/1734219/sony-playstation-will-stop-releasing-games-on-discs-in-2028?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Significant news for gamers: Sony announces its plan to phase out physical discs for PlayStation games starting in 2028.
+
+* [I Built A Whole-Home Ad Blocker With A $7 ESP32-S3 Board - And It Took Just Minutes](https://soylentnews.org/article.pl?sid=26/06/29/191210&amp;from=rss) - A fascinating creation of a cost-effective whole-home ad blocker using a $7 ESP32-S3 board.
+
+* [Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries](https://www.weaverobotics.com/isaac-1) - A glimpse into the future of home robotics as Weave Robotics introduces its new high-end model, Isaac 1.
+
+* [Mark Zuckerberg Is Selflessly Building Yet Another Horrible Product Nobody Asked For](https://soylentnews.org/article.pl?sid=26/06/29/1848249&amp;from=rss) - A critical look at Mark Zuckerberg’s latest product, sparking debates about consumer demand and tech trends.
 
 ---
 
@@ -63,6 +77,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-07-02, 10:05:50](https://lobste.rs/s/hejdhj/wordgard_release_0_1) - [Wordgard Release 0.1](https://marijnhaverbeke.nl/blog/wordgard-0.1.html)
+* [2026-07-02, 08:34:13](https://news.ycombinator.com/item?id=48758309) - [Google loses fight over record $4.7B EU antitrust fine](https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html)
+* [2026-07-02, 08:18:20](https://lobste.rs/s/aofhzo/type_definitions_retrieve_objects_from) - [Type definitions to retrieve objects from localStorage](https://taxorubio.com/blog/type-definitions-to-retrieve-objects-from-localstorage/)
+* [2026-07-02, 08:01:15](https://news.ycombinator.com/item?id=48758048) - [The Fall of the Theorem Economy](https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy)
 * [2026-07-02, 07:00:00](https://hardware.slashdot.org/story/26/07/02/0217230/spacex-reportedly-has-an-ai-device-prototype?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SpaceX Reportedly Has an AI Device Prototype](https://hardware.slashdot.org/story/26/07/02/0217230/spacex-reportedly-has-an-ai-device-prototype?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-02, 06:31:00](https://soylentnews.org/article.pl?sid=26/07/01/0611205&amp;from=rss) - [FreeBSD Vs. Linux: the Eternal Open-Source Showdown](https://soylentnews.org/article.pl?sid=26/07/01/0611205&amp;from=rss)
 * [2026-07-02, 05:21:42](https://lobste.rs/s/vuqsur/on_ditching_vagrant) - [On Ditching Vagrant](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
@@ -79,9 +97,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-02, 01:47:00](https://soylentnews.org/article.pl?sid=26/07/01/0552223&amp;from=rss) - [Prompt Injection as Role Confusion](https://soylentnews.org/article.pl?sid=26/07/01/0552223&amp;from=rss)
 * [2026-07-02, 01:11:56](https://lobste.rs/s/khdiby/artificial_adventures) - [Artificial adventures](https://www.scattered-thoughts.net/writing/artificial-adventures/)
 * [2026-07-02, 00:48:01](https://news.ycombinator.com/item?id=48755005) - [Oomwoo, an open-source robot vacuum you build yourself](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)
-* [2026-07-02, 00:40:14](https://news.ycombinator.com/item?id=48754963) - [Global review confirms mRNA vaccines are safe, effective and full of promise ](https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/)
 * [2026-07-02, 00:36:55](https://lobste.rs/s/0kc445/unprivileged_root_via_out_bounds_write) - [Unprivileged root via an out-of-bounds write in the FUSE readdir cache (CVE-2026-31694)](https://cyberstan.co.uk/fuse-readdir-oob/)
-* [2026-07-01, 23:56:15](https://news.ycombinator.com/item?id=48754700) - [The &lt;Usermedia&gt; HTML Element](https://developer.chrome.com/blog/usermedia-html-element)
 * [2026-07-01, 23:00:00](https://yro.slashdot.org/story/26/07/01/2255231/t-mobile-appears-to-be-quitting-vmware-amid-support-rights-lawsuit-with-broadcom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [T-Mobile Appears To Be Quitting VMware Amid Support Rights Lawsuit With Broadcom](https://yro.slashdot.org/story/26/07/01/2255231/t-mobile-appears-to-be-quitting-vmware-amid-support-rights-lawsuit-with-broadcom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-01, 22:39:15](https://news.ycombinator.com/item?id=48754080) - [The Underhanded C Contest](https://underhanded-c.org/)
 * [2026-07-01, 22:27:47](https://news.ycombinator.com/item?id=48753979) - [Opening up &apos;Zero-Knowledge Proof&apos; technology to promote privacy in age assurance](https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
@@ -90,7 +106,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-01, 21:42:57](https://news.ycombinator.com/item?id=48753524) - [Chip Off The Old Block](https://www.astralcodexten.com/p/chip-off-the-old-block)
 * [2026-07-01, 21:05:00](https://soylentnews.org/article.pl?sid=26/06/30/0946220&amp;from=rss) - [Malaysia Ponders Regulating Management of IP Addresses](https://soylentnews.org/article.pl?sid=26/06/30/0946220&amp;from=rss)
 * [2026-07-01, 21:01:42](https://news.ycombinator.com/item?id=48753069) - [Qualcomm Linux 2.0](https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available)
-* [2026-07-01, 21:00:14](https://news.ycombinator.com/item?id=48753045) - [Proliferate (YC S25) Is Hiring](https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer)
 * [2026-07-01, 21:00:00](https://tech.slashdot.org/story/26/07/01/1930218/cloudflare-pushes-ai-companies-to-pay-for-publishers-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cloudflare Pushes AI Companies To Pay For Publishers&apos; Content](https://tech.slashdot.org/story/26/07/01/1930218/cloudflare-pushes-ai-companies-to-pay-for-publishers-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-01, 20:47:41](https://news.ycombinator.com/item?id=48752905) - [Show HN: Searchable directory of 22k+ products from worker-owned co-ops](https://www.workerowned.info/)
 * [2026-07-01, 20:00:00](https://science.slashdot.org/story/26/07/01/1912205/scientists-made-a-cell-from-scratch-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Scientists Made a Cell From Scratch For First Time](https://science.slashdot.org/story/26/07/01/1912205/scientists-made-a-cell-from-scratch-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -113,8 +128,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-01, 14:10:28](https://news.ycombinator.com/item?id=48747116) - [FFmpeg 9.1&apos;s new AAC encoder](https://hydrogenaudio.org/index.php/topic,129691.0.html)
 * [2026-07-01, 14:00:35](https://lobste.rs/s/dvhioc/progress_report_linux_7_1_asahi_linux) - [Progress Report: Linux 7.1 - Asahi Linux](https://asahilinux.org/2026/06/progress-report-7-1/)
 * [2026-07-01, 13:59:13](https://news.ycombinator.com/item?id=48746914) - [Monetization Gateway: Charge for any resource behind Cloudflare via x402](https://blog.cloudflare.com/monetization-gateway/)
+* [2026-07-01, 13:48:44](https://news.ycombinator.com/item?id=48746752) - [Launch HN: Parsewise (YC P25) – Reason Across Documents with an API](https://news.ycombinator.com/item?id=48746752)
 * [2026-07-01, 13:38:39](https://lobste.rs/s/jcdcit/announcing_box3d) - [Announcing Box3D](https://box2d.org/posts/2026/06/announcing-box3d/)
-* [2026-07-01, 13:04:16](https://news.ycombinator.com/item?id=48746076) - [Internal Combustion Engine (2021)](https://ciechanow.ski/internal-combustion-engine/)
 * [2026-07-01, 12:00:00](https://science.slashdot.org/story/26/07/01/064221/the-vera-rubin-telescope-begins-surveying-our-cosmos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Vera Rubin Telescope Begins Surveying Our Cosmos](https://science.slashdot.org/story/26/07/01/064221/the-vera-rubin-telescope-begins-surveying-our-cosmos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-01, 11:58:15](https://lobste.rs/s/pth2bm/internet_i_grew_up_with_doesn_t_exist) - [The Internet I Grew Up With Doesn’t Exist Anymore](https://cleberg.net/blog/internet.html)
 * [2026-07-01, 11:38:00](https://soylentnews.org/article.pl?sid=26/06/30/0939227&amp;from=rss) - [PlayStation Removes Over 500 Purchased Movies](https://soylentnews.org/article.pl?sid=26/06/30/0939227&amp;from=rss)
@@ -129,29 +144,28 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-01, 06:00:00](https://yro.slashdot.org/story/26/07/01/0545222/trump-drops-restrictions-on-anthropics-mythos-and-fable-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Drops Restrictions On Anthropic&apos;s Mythos and Fable Models](https://yro.slashdot.org/story/26/07/01/0545222/trump-drops-restrictions-on-anthropics-mythos-and-fable-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-01, 03:30:00](https://yro.slashdot.org/story/26/06/30/2157253/new-florida-law-bans-local-net-zero-emissions-policies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Florida Law Bans Local Net-Zero Emissions Policies](https://yro.slashdot.org/story/26/06/30/2157253/new-florida-law-bans-local-net-zero-emissions-policies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-01, 02:10:00](https://soylentnews.org/article.pl?sid=26/06/30/0929204&amp;from=rss) - [Scientists Build a Better Pixel Capable of Emitting and Receiving Light](https://soylentnews.org/article.pl?sid=26/06/30/0929204&amp;from=rss)
-* [2026-07-01, 01:38:44](https://lobste.rs/s/v7ghbn/it_s_not_me_it_s_compiler) - [It&apos;s not me, it&apos;s the compiler](https://parsa.wtf/cast/)
 * [2026-07-01, 00:22:41](https://news.ycombinator.com/item?id=48740971) - [Why jet engines aren&apos;t made in China](https://aakash.substack.com/p/why-jet-engines-arent-made-in-china)
 * [2026-07-01, 00:17:06](https://lobste.rs/s/rfkmw3/what_happened_fight_for_internet) - [What happened to the fight for the internet?](https://dustycloud.org/blog/what-happened-to-the-fight-for-the-internet/)
 * [2026-06-30, 23:00:00](https://yro.slashdot.org/story/26/06/30/2149243/amazon-blames-piracy-apps-with-malware-for-killing-new-fire-stick-sideloading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Blames Piracy Apps With Malware For Killing New Fire Stick Sideloading](https://yro.slashdot.org/story/26/06/30/2149243/amazon-blames-piracy-apps-with-malware-for-killing-new-fire-stick-sideloading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-06-30, 22:16:39](https://lobste.rs/s/96kp1m/jj_jj_jj_jj_jj) - [jj jj jj jj jj](https://caiustheory.com/jj-jj-jj-jj-jj/)
 * [2026-06-30, 21:25:00](https://soylentnews.org/article.pl?sid=26/06/29/191210&amp;from=rss) - [I Built A Whole-Home Ad Blocker With A $7 ESP32-S3 Board - And It Took Just Minutes](https://soylentnews.org/article.pl?sid=26/06/29/191210&amp;from=rss)
-* [2026-06-30, 19:04:44](https://lobste.rs/s/qs2sxd/claude_code_is_steganographically) - [Claude Code Is Steganographically Marking Requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
 * [2026-06-30, 16:41:00](https://soylentnews.org/article.pl?sid=26/06/29/1852228&amp;from=rss) - [Ford Rehires ‘Gray Beard’ Engineers After AI Falls Short](https://soylentnews.org/article.pl?sid=26/06/29/1852228&amp;from=rss)
 * [2026-06-30, 13:59:32](https://news.ycombinator.com/item?id=48732860) - [How do wombats poop cubes?](https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery)
 * [2026-06-30, 11:49:00](https://soylentnews.org/article.pl?sid=26/06/29/1850225&amp;from=rss) - [Intel&apos;s Next-Gen 52-Core Nova Lake CPU Could Pull Up To 474W — May Need Three 8-Pin Power Connectors](https://soylentnews.org/article.pl?sid=26/06/29/1850225&amp;from=rss)
-* [2026-06-30, 08:58:41](https://news.ycombinator.com/item?id=48730151) - [Database Traffic Control](https://planetscale.com/blog/introducing-database-traffic-control)
 * [2026-06-30, 07:05:00](https://soylentnews.org/article.pl?sid=26/06/29/1848249&amp;from=rss) - [Mark Zuckerberg Is Selflessly Building Yet Another Horrible Product Nobody Asked For](https://soylentnews.org/article.pl?sid=26/06/29/1848249&amp;from=rss)
 * [2026-06-30, 02:18:00](https://soylentnews.org/article.pl?sid=26/06/29/1844208&amp;from=rss) - [The Boeing 747 Begins Its Final Descent](https://soylentnews.org/article.pl?sid=26/06/29/1844208&amp;from=rss)
 * [2026-06-29, 21:33:00](https://soylentnews.org/article.pl?sid=26/06/28/1824219&amp;from=rss) - [Administration Tells US Techies It Expects American Quantum Computer by 2028](https://soylentnews.org/article.pl?sid=26/06/28/1824219&amp;from=rss)
+* [2026-06-29, 19:42:15](https://news.ycombinator.com/item?id=48724127) - [Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction](https://www.mixedbread.com/blog/asymmetric-quant)
 * [2026-06-29, 18:23:02](https://news.ycombinator.com/item?id=48723102) - [The Apple Disk II Controller Card (2021)](https://www.bigmessowires.com/2021/11/12/the-amazing-disk-ii-controller-card/)
-* [2026-06-29, 18:04:41](https://news.ycombinator.com/item?id=48722819) - [Avo 4 released – 15 months and 2000 commits later](https://avohq.io/blog/avo-4)
+* [2026-06-29, 17:19:08](https://news.ycombinator.com/item?id=48722093) - [The Wisdom of Quinn the Eskimo (Apple Developer Technical Support Engineer)](https://github.com/macshome/The-Wisdom-of-Quinn)
 * [2026-06-29, 16:48:00](https://soylentnews.org/article.pl?sid=26/06/28/1820239&amp;from=rss) - [Brits Still Reckon Big Tech Isn&apos;t Paying Enough Tax](https://soylentnews.org/article.pl?sid=26/06/28/1820239&amp;from=rss)
 * [2026-06-29, 12:02:00](https://soylentnews.org/article.pl?sid=26/06/28/1816241&amp;from=rss) - [Five Eyes Spooks Warn AI Means Infosec Incidents Can Become &apos;Major Operational and Financial Crises&apos;](https://soylentnews.org/article.pl?sid=26/06/28/1816241&amp;from=rss)
+* [2026-06-29, 12:01:34](https://news.ycombinator.com/item?id=48718129) - [Aerial Photographs (2017)](https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-of-toronto-archives/whats-online/maps/aerial-photographs/)
 * [2026-06-29, 07:16:00](https://soylentnews.org/article.pl?sid=26/06/28/188242&amp;from=rss) - [SK Telecom Named as the Korean Carrier at the Center of Anthropic&apos;s Mythos Export Controls](https://soylentnews.org/article.pl?sid=26/06/28/188242&amp;from=rss)
+* [2026-06-29, 04:41:18](https://news.ycombinator.com/item?id=48714884) - [My Favorite Keyboards](https://fabiensanglard.net/keyboards/index.html)
 * [2026-06-29, 02:32:00](https://soylentnews.org/article.pl?sid=26/06/28/183229&amp;from=rss) - [Photoshop Now Censors Your Art as You Edit](https://soylentnews.org/article.pl?sid=26/06/28/183229&amp;from=rss)
 * [2026-06-28, 21:48:00](https://soylentnews.org/article.pl?sid=26/06/27/1833254&amp;from=rss) - [Acoustic Mapping App Uses Thousands of Networked Old Android Phones to Hunt Shahed Drones](https://soylentnews.org/article.pl?sid=26/06/27/1833254&amp;from=rss)
 * [2026-06-28, 17:01:00](https://soylentnews.org/article.pl?sid=26/06/27/1825233&amp;from=rss) - [How Do Airbags Deploy So Quickly in a Crash? The Physics, Explained](https://soylentnews.org/article.pl?sid=26/06/27/1825233&amp;from=rss)
-* [2026-06-28, 15:06:43](https://news.ycombinator.com/item?id=48707979) - [The vibration of the pager has a sound all its own](https://www.notyouremergency.com/triage-intro)
 * [2026-06-28, 12:19:00](https://soylentnews.org/article.pl?sid=26/06/27/1820224&amp;from=rss) - [‘Cost Me the Election’: Data Centers Trigger Voter Backlash](https://soylentnews.org/article.pl?sid=26/06/27/1820224&amp;from=rss)
 * [2026-06-28, 07:36:00](https://soylentnews.org/article.pl?sid=26/06/27/1818212&amp;from=rss) - [I Stored a Website in a Favicon](https://soylentnews.org/article.pl?sid=26/06/27/1818212&amp;from=rss)
 * [2026-06-28, 02:54:00](https://soylentnews.org/article.pl?sid=26/06/27/1815209&amp;from=rss) - [ASML Denies US Government Report That its EUV Chipmaking Tool Was Shipped to China](https://soylentnews.org/article.pl?sid=26/06/27/1815209&amp;from=rss)
