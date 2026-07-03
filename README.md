@@ -1,42 +1,66 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Emerging Technologies and Innovations
+## Technological Innovations and Challenges
 
-* [‘guix substitute‘ and ‘guix pull‘ vulnerabilities](https://guix.gnu.org/en/blog/2026/guix-substitute-pull-vulnerabilities/) - An in-depth analysis of vulnerabilities found in GNU Guix's substitute and pull processes, with recommendations to mitigate these risks. [Comments](https://lobste.rs/s/xg4bbg/guix_substitute_guix_pull)
+* [‘guix substitute‘ and ‘guix pull‘ vulnerabilities](https://guix.gnu.org/en/blog/2026/guix-substitute-pull-vulnerabilities/) - Addresses potential weaknesses in the Guix package manager’s substitute and pull operations.
 
-* [Until_Heat_Death_Do_Us_Part: Counting until the heat death of the universe, broadcasting counter every second over 100Mbps ethernet](https://github.com/Essenceia/Until_Heat_Death_Do_Us_Part) - A fascinating project to transmit a countdown to the universe's hypothetical end over wired ethernet. [Comments](https://lobste.rs/s/jlj10f/until_heat_death_do_us_part_counting_until)
+* [Amazon Has Enough Satellites To Launch Its Starlink Competitor](https://tech.slashdot.org/story/26/07/02/2149203/amazon-has-enough-satellites-to-launch-its-starlink-competitor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Amazon reaches critical mass for its satellite constellation, positioning itself as a competitor to SpaceX's Starlink.
 
-* [Amazon Has Enough Satellites To Launch Its Starlink Competitor](https://tech.slashdot.org/story/26/07/02/2149203/amazon-has-enough-satellites-to-launch-its-starlink-competitor?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Amazon's ambitious plans to challenge SpaceX's Starlink with its own satellite internet service. [Comments](https://tech.slashdot.org/story/26/07/02/2149203/amazon-has-enough-satellites-to-launch-its-starlink-competitor?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [14× faster embeddings: how we rebuilt the ONNX path in Manticore](https://manticoresearch.com/blog/onnx-embeddings-speedup/) - Explores how Manticore Research drastically improved embedding speeds in ONNX pipeline processing.
 
-* [NASA Tests An In-Orbit Refueling Device For Deep Space Missions](https://soylentnews.org/article.pl?sid=26/07/01/0621219&from=rss) - An exploration of NASA's test of an innovative device aimed at refueling spacecrafts for deep space exploration. [Comments](https://soylentnews.org/article.pl?sid=26/07/01/0621219&from=rss)
+* [Postgres transactions are a distributed systems superpower](https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data) - A detailed exploration of how PostgreSQL transactions can be leveraged as a powerful tool in distributed systems.
 
-## Cybersecurity Incidents and Tech Vulnerabilities
+* [proposal-async-context: Async Context for JavaScript](https://github.com/tc39/proposal-async-context) - Introduction to a new JavaScript proposal aimed at improving async programming paradigms.
 
-* [Arbitrary code execution breaking sandboxes in KDE Plasma](https://blog.kimiblock.top/2026/07/01/arbitrary-code-execution-in-kde-plasma/) - Exploring critical vulnerabilities in the KDE Plasma desktop environment that could lead to security risks. [Comments](https://lobste.rs/s/ovcwkm/arbitrary_code_execution_breaking)
+* [SpaceX Reportedly Has an AI Device Prototype](https://hardware.slashdot.org/story/26/07/02/0217230/spacex-reportedly-has-an-ai-device-prototype?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - SpaceX is rumored to be prototyping AI devices, signaling potential crossovers between aerospace and artificial intelligence domains.
 
-* [Core dump epidemiology: fixing an 18-year-old bug](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/) - The fascinating journey of fixing a nearly two-decade-old bug within system data infrastructure. [Comments](https://lobste.rs/s/qacs6u/core_dump_epidemiology_fixing_18_year_old)
+## Security and Privacy Concerns
 
-* [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data) - How Virginia is tackling privacy concerns by prohibiting the sale of geolocation data. [Comments](https://news.ycombinator.com/item?id=48767347)
+* [Until Heat Death Do Us Part: Counting until the heat death of the universe, broadcasting counter every second](https://github.com/Essenceia/Until_Heat_Death_Do_Us_Part) - A creative, humorous project demonstrating long-term computational durability.
 
-* [Meta Is Charging a Subscription for Smart Glasses Features](https://news.slashdot.org/story/26/07/02/182227/meta-is-charging-a-subscription-for-smart-glasses-features?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A look at Meta's decision to introduce subscription fees for advanced features in their smart glasses. [Comments](https://news.slashdot.org/story/26/07/02/182227/meta-is-charging-a-subscription-for-smart-glasses-features?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Arbitrary code execution breaking sandboxes in KDE Plasma](https://blog.kimiblock.top/2026/07/01/arbitrary-code-execution-in-kde-plasma/) - Highlights vulnerabilities in KDE Plasma, exposing risks associated with sandbox security.
 
-## Software Updates and Technologies
+* [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data) - Virginia enacts significant privacy protections by outlawing the sale of geolocation data.
 
-* [Podman v6.0.0](https://blog.podman.io/2026/07/introducing-podman-v6-0-0/) - Key updates and features introduced in the latest version of the Podman utility for managing Linux containers. [Comments](https://news.ycombinator.com/item?id=48762098)
+* [An American Privacy Emergency](https://scottaaronson.blog/?p=9902) - Offers a critical analysis of the state of privacy in the United States with particular emphasis on technology.
 
-* [Postgres transactions are a distributed systems superpower](https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data) - An explanation of why PostgreSQL’s transaction model sets it apart in distributed system architectures. [Comments](https://news.ycombinator.com/item?id=48765639)
+* [Preventing token theft](https://codon.org.uk/~mjg59/blog/p/preventing-token-theft/) - Examines methods for safeguarding tokens to mitigate risks associated with credential compromises.
 
-* [jj v0.43.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.43.0) - The latest release of jj, a VCS tool, highlighting its changelog and improvements. [Comments](https://lobste.rs/s/e1uduo/jj_v0_43_0_released)
+## Artificial Intelligence and Ethical Dilemmas
 
-## Cultural and Societal Insights
+* [Alibaba to ban Claude Code in workplace over alleged backdoor risks](https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/) - Reports of Alibaba banning Claude Code suggest growing fears of security vulnerabilities in AI tools.
 
-* [Six-part Series from the Internet Archive on Vanishing Culture](https://soylentnews.org/article.pl?sid=26/07/02/0455216&from=rss) - Documentation and research from the Internet Archive exploring disappearing cultural artifacts. [Comments](https://soylentnews.org/article.pl?sid=26/07/02/0455216&from=rss)
+* [Meta Is Charging a Subscription for Smart Glasses Features](https://news.slashdot.org/story/26/07/02/182227/meta-is-charging-a-subscription-for-smart-glasses-features?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Controversial move as Meta introduces subscription fees for unlocking smart glasses features.
 
-* [Why Switzerland has 25 gbit internet and America doesn’t](https://stefan.schueller.net/posts/the-free-market-lie/) - A deep dive into how market structures have influenced internet infrastructure disparities worldwide. [Comments](https://news.ycombinator.com/item?id=48770647)
+* [AI Agent Executes 'First' End-To-End Ransomware Attack](https://it.slashdot.org/story/26/07/02/1849243/ai-agent-executes-first-end-to-end-ransomware-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlights the alarming capabilities of AI agents as they execute a complete ransomware attack.
 
-* [Mystery identity of ‘Green Boots’ climber is finally solved after DNA test](https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html) - A breakthrough in identifying one of Mount Everest’s most well-known landmarks. [Comments](https://news.ycombinator.com/item?id=48768336)
+* [How to Burst the AI Bubble: Strike at its Roots](https://soylentnews.org/article.pl?sid=26/07/02/0453224&amp;from=rss) - Investigates systemic issues within the AI industry and ways to mitigate risks associated with its misuse.
 
-* [The Great Salt Lake Tracker – Grow the Flow](https://growtheflowutah.org/laketracker/) - Utilizing data and advocacy to address water shortages and preserve Utah's iconic Great Salt Lake. [Comments](https://news.ycombinator.com/item?id=48766286)
+## Scientific Advancements and Curiosities
+
+* [NASA Tests An In-Orbit Refueling Device For Deep Space Missions](https://soylentnews.org/article.pl?sid=26/07/01/0621219&amp;from=rss) - Revolutionary developments in space exploration as NASA experiments with refueling spacecraft in orbit.
+
+* [Remote-Controlled Cockroach Swarm Can Now Breathe Underwater](https://soylentnews.org/article.pl?sid=26/07/01/0619241&amp;from=rss) - A bioengineering breakthrough with potential applications for search and rescue missions in extreme environments.
+
+* [Scientists Build a Better Pixel Capable of Emitting and Receiving Light](https://soylentnews.org/article.pl?sid=26/06/30/0929204&amp;from=rss) - A novel pixel technology that can both emit and receive light, promising advancements in optical communication.
+
+## Societal Changes and Insights
+
+* [Labor Force Participation Rate Falls To Lowest In 50 years](https://news.slashdot.org/story/26/07/02/213229/labor-force-participation-rate-falls-to-lowest-in-50-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Key insights into the declining labor force participation rate in the U.S.
+
+* [Six-part Series from the Internet Archive on Vanishing Culture](https://soylentnews.org/article.pl?sid=26/07/02/0455216&amp;from=rss) - The Internet Archive presents a fascinating exploration into disappearing cultural artifacts and societal change.
+
+* [US Life Expectancy On Track To Reach Record High](https://news.slashdot.org/story/26/07/02/227222/us-life-expectancy-on-track-to-reach-record-high?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Encouraging projections for U.S. life expectancy reaching unprecedented heights.
+
+## Developer Tools and Software
+
+* [ds.css: A CSS framework recreating the DS / DS Lite's UI](https://github.com/spiritov/ds.css) - A creative framework for designers inspired by the Nintendo DS Lite user interface.
+
+* [Core dump epidemiology: fixing an 18-year-old bug](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/) - Chronicles the journey of squashing an 18-year-old bug impacting data infrastructure.
+
+* [The Safari MCP server for web developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/) - Apple introduces a new resource for web developers to streamline Safari testing.
+
+* [Gitignore Isn’t the Only Way To Ignore Files in Git](https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/) - Tips and techniques for better managing ignored files in Git.
 
 ---
 
@@ -63,13 +87,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-07-03, 10:00:00](https://news.slashdot.org/story/26/07/02/227222/us-life-expectancy-on-track-to-reach-record-high?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Life Expectancy On Track To Reach Record High](https://news.slashdot.org/story/26/07/02/227222/us-life-expectancy-on-track-to-reach-record-high?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-03, 08:31:37](https://news.ycombinator.com/item?id=48772443) - [Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says](https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/)
+* [2026-07-03, 08:23:32](https://news.ycombinator.com/item?id=48772388) - [Half-Baked Product](https://weli.dev/blog/half-baked-product/)
 * [2026-07-03, 06:45:52](https://lobste.rs/s/xg4bbg/guix_substitute_guix_pull) - [‘guix substitute‘ and ‘guix pull‘ vulnerabilities](https://guix.gnu.org/en/blog/2026/guix-substitute-pull-vulnerabilities/)
-* [2026-07-03, 06:21:44](https://news.ycombinator.com/item?id=48771515) - [Ask HN: Is anyone experimenting with different ways of using LLMs for coding?](https://news.ycombinator.com/item?id=48771515)
 * [2026-07-03, 06:16:09](https://lobste.rs/s/jlj10f/until_heat_death_do_us_part_counting_until) - [Until_Heat_Death_Do_Us_Part: Counting until the heat death of the universe, broadcasting counter every second over 100Mbps ethernet](https://github.com/Essenceia/Until_Heat_Death_Do_Us_Part)
 * [2026-07-03, 06:14:00](https://soylentnews.org/article.pl?sid=26/07/02/0455216&amp;from=rss) - [Six-part Series from the Internet Archive on Vanishing Culture](https://soylentnews.org/article.pl?sid=26/07/02/0455216&amp;from=rss)
 * [2026-07-03, 06:00:00](https://tech.slashdot.org/story/26/07/02/2149203/amazon-has-enough-satellites-to-launch-its-starlink-competitor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Has Enough Satellites To Launch Its Starlink Competitor](https://tech.slashdot.org/story/26/07/02/2149203/amazon-has-enough-satellites-to-launch-its-starlink-competitor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-03, 05:25:28](https://lobste.rs/s/asi79o/clickhouse_is_winning_observability) - [Clickhouse is winning the Observability Wars](https://matduggan.com/clickhouse-is-winning-the-observability-wars/)
-* [2026-07-03, 04:16:17](https://news.ycombinator.com/item?id=48770647) - [Why Switzerland has 25 gbit internet and America doesn&apos;t](https://stefan.schueller.net/posts/the-free-market-lie/)
 * [2026-07-03, 03:49:47](https://news.ycombinator.com/item?id=48770477) - [14× faster embeddings: how we rebuilt the ONNX path in Manticore](https://manticoresearch.com/blog/onnx-embeddings-speedup/)
 * [2026-07-03, 02:39:28](https://lobste.rs/s/ovcwkm/arbitrary_code_execution_breaking) - [Arbitrary code execution breaking sandboxes in KDE Plasma](https://blog.kimiblock.top/2026/07/01/arbitrary-code-execution-in-kde-plasma/)
 * [2026-07-03, 02:05:33](https://lobste.rs/s/qacs6u/core_dump_epidemiology_fixing_18_year_old) - [Core dump epidemiology: fixing an 18-year-old bug](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/)
@@ -90,7 +115,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-02, 20:19:52](https://lobste.rs/s/2eyryl/my_quest_see_all_tetris) - [My quest to see all of Tetris](https://antithesis.com/blog/2026/tetris-quest/)
 * [2026-07-02, 20:14:02](https://lobste.rs/s/loubrx/ds_css_css_framework_recreating_ds_ds_lite) - [ds.css: A css framework recreating the DS / DS Lite&apos;s UI](https://github.com/spiritov/ds.css)
 * [2026-07-02, 20:05:50](https://lobste.rs/s/bm2vcf/circular_obstacle_pathfinding) - [Circular Obstacle Pathfinding](https://redblobgames.github.io/circular-obstacle-pathfinding/)
-* [2026-07-02, 20:01:20](https://news.ycombinator.com/item?id=48766598) - [Lightning Memory-Mapped Database Manager (LMDB) 1.0](http://www.lmdb.tech/doc/)
 * [2026-07-02, 20:00:00](https://it.slashdot.org/story/26/07/02/1849243/ai-agent-executes-first-end-to-end-ransomware-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Agent Executes &apos;First&apos; End-To-End Ransomware Attack](https://it.slashdot.org/story/26/07/02/1849243/ai-agent-executes-first-end-to-end-ransomware-attack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-02, 19:33:55](https://news.ycombinator.com/item?id=48766286) - [Great Salt Lake Tracker – Grow the Flow](https://growtheflowutah.org/laketracker/)
 * [2026-07-02, 19:27:38](https://news.ycombinator.com/item?id=48766209) - [EFF letter to FTC on X consent order [pdf]](https://www.eff.org/deeplinks/2026/06/eff-and-allies-xs-ftc-petition-waive-privacy-violation-order-should-be-rejected)
@@ -132,7 +156,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-01, 23:00:00](https://yro.slashdot.org/story/26/07/01/2255231/t-mobile-appears-to-be-quitting-vmware-amid-support-rights-lawsuit-with-broadcom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [T-Mobile Appears To Be Quitting VMware Amid Support Rights Lawsuit With Broadcom](https://yro.slashdot.org/story/26/07/01/2255231/t-mobile-appears-to-be-quitting-vmware-amid-support-rights-lawsuit-with-broadcom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-01, 22:00:00](https://meta.slashdot.org/story/26/07/01/1952253/meta-is-reportedly-building-its-own-cloud-business?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Is Reportedly Building Its Own Cloud Business](https://meta.slashdot.org/story/26/07/01/1952253/meta-is-reportedly-building-its-own-cloud-business?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-01, 21:05:00](https://soylentnews.org/article.pl?sid=26/06/30/0946220&amp;from=rss) - [Malaysia Ponders Regulating Management of IP Addresses](https://soylentnews.org/article.pl?sid=26/06/30/0946220&amp;from=rss)
-* [2026-07-01, 21:00:00](https://tech.slashdot.org/story/26/07/01/1930218/cloudflare-pushes-ai-companies-to-pay-for-publishers-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Cloudflare Pushes AI Companies To Pay For Publishers&apos; Content](https://tech.slashdot.org/story/26/07/01/1930218/cloudflare-pushes-ai-companies-to-pay-for-publishers-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-01, 16:20:00](https://soylentnews.org/article.pl?sid=26/06/30/0941251&amp;from=rss) - [Australia&apos;s Floating Solar Panels Solve Two Resource Problems at Once](https://soylentnews.org/article.pl?sid=26/06/30/0941251&amp;from=rss)
 * [2026-07-01, 14:55:34](https://lobste.rs/s/thkwcf/us_supreme_court_just_blew_up_eu_us_data) - [US Supreme Court just blew up EU-US Data Transfers](https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers)
 * [2026-07-01, 11:38:00](https://soylentnews.org/article.pl?sid=26/06/30/0939227&amp;from=rss) - [PlayStation Removes Over 500 Purchased Movies](https://soylentnews.org/article.pl?sid=26/06/30/0939227&amp;from=rss)
@@ -142,9 +165,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-06-30, 21:25:00](https://soylentnews.org/article.pl?sid=26/06/29/191210&amp;from=rss) - [I Built A Whole-Home Ad Blocker With A $7 ESP32-S3 Board - And It Took Just Minutes](https://soylentnews.org/article.pl?sid=26/06/29/191210&amp;from=rss)
 * [2026-06-30, 16:41:00](https://soylentnews.org/article.pl?sid=26/06/29/1852228&amp;from=rss) - [Ford Rehires ‘Gray Beard’ Engineers After AI Falls Short](https://soylentnews.org/article.pl?sid=26/06/29/1852228&amp;from=rss)
 * [2026-06-30, 11:49:00](https://soylentnews.org/article.pl?sid=26/06/29/1850225&amp;from=rss) - [Intel&apos;s Next-Gen 52-Core Nova Lake CPU Could Pull Up To 474W — May Need Three 8-Pin Power Connectors](https://soylentnews.org/article.pl?sid=26/06/29/1850225&amp;from=rss)
-* [2026-06-30, 11:40:50](https://news.ycombinator.com/item?id=48731252) - [I Type Holes in Keyboard Covers – This One Survived](https://medium.com/@jamesgarside_/i-type-holes-in-keyboard-covers-e5664732ef93)
 * [2026-06-30, 07:05:00](https://soylentnews.org/article.pl?sid=26/06/29/1848249&amp;from=rss) - [Mark Zuckerberg Is Selflessly Building Yet Another Horrible Product Nobody Asked For](https://soylentnews.org/article.pl?sid=26/06/29/1848249&amp;from=rss)
 * [2026-06-30, 02:18:00](https://soylentnews.org/article.pl?sid=26/06/29/1844208&amp;from=rss) - [The Boeing 747 Begins Its Final Descent](https://soylentnews.org/article.pl?sid=26/06/29/1844208&amp;from=rss)
+* [2026-06-29, 21:59:28](https://news.ycombinator.com/item?id=48725857) - [How working with a blind client revealed invisible accessibility gaps](https://iinteractive.com/resources/blog/read-only)
 * [2026-06-29, 21:33:00](https://soylentnews.org/article.pl?sid=26/06/28/1824219&amp;from=rss) - [Administration Tells US Techies It Expects American Quantum Computer by 2028](https://soylentnews.org/article.pl?sid=26/06/28/1824219&amp;from=rss)
 * [2026-06-29, 20:54:14](https://news.ycombinator.com/item?id=48725093) - [Underwater Suit-Wearing Cyborg Insect Capable of Diving and Terra-Aqua Travel](https://www.nature.com/articles/s41467-026-74235-1)
 * [2026-06-29, 20:18:58](https://news.ycombinator.com/item?id=48724608) - [Perform DFU Restores on Apple Silicon Macs with Macvdmtool (2021)](https://www.bkurtz.io/posts/macvdmtool/)
