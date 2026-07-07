@@ -1,58 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advancements in AI and Technology
+## Technology Advancements and Updates
 
-* [AI Meets Cryptography 1: What AI Found in Cloudflare's Circl](https://blog.zksecurity.xyz/posts/circl-bugs/) - Exploration of how AI tools are being integrated into cryptographic analysis, uncovering potential vulnerabilities in Cloudflare's Circl.
+* [Microsoft Flips Windows Backup On By Default Outside the EU](https://tech.slashdot.org/story/26/07/07/1933209/microsoft-flips-windows-backup-on-by-default-outside-the-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft has decided to automatically enable Windows Backup for users outside the European Union, highlighting potential variations in features by geography. [Comments](https://tech.slashdot.org/story/26/07/07/1933209/microsoft-flips-windows-backup-on-by-default-outside-the-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Small AI Models Gain Traction Around the World](https://slashdot.org/story/26/07/06/221233/small-ai-models-gain-traction-around-the-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Discussion on the global rise of smaller AI models and their potential to disrupt larger, resource-intensive counterparts.
+* [Astro 7.0](https://astro.build/blog/astro-7/) - The release of Astro 7.0 brings new updates and features to the web framework, focusing on better performance and developer experience. [Comments](https://news.ycombinator.com/item?id=48821653).
 
-* [Automating AI Away](https://replicated.live/blog/away) - A thought-provoking piece on the implications of automating AI and its impact on technology ecosystems.
+* [Odin 1.0 Announcement](https://www.youtube.com/watch?v=dLPAqXi9In0) - The Odin programming language reaches version 1.0, celebrating its growth and maturity. [Comments](https://lobste.rs/s/5rvgim/odin_1_0_announcement).
 
-## Tech Innovations in Software
+* [GitHub Thumbs Nose At Sony's Controversial End to Physical Media With Its Introduction of Repo CDs](https://hardware.slashdot.org/story/26/07/07/0027252/github-thumbs-nose-at-sonys-controversial-end-to-physical-media-with-its-introduction-of-repo-cds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - GitHub makes a splash with repo CDs, taking a dig at Sony's decision to end PlayStation disc production. [Comments](https://hardware.slashdot.org/story/26/07/07/0027252/github-thumbs-nose-at-sonys-controversial-end-to-physical-media-with-its-introduction-of-repo-cds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Why we built yet another Postgres connection pooler](https://pgdog.dev/blog/why-yet-another-connection-pooler) - Explains the motivations and challenges behind creating a new PostgreSQL connection pooler.
+* [Amazon Will Stop Accepting New Customers For Mechanical Turk](https://tech.slashdot.org/story/26/07/07/0715252/amazon-will-stop-accepting-new-customers-for-mechanical-turk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Amazon announces it will halt new customer registrations for its Mechanical Turk platform. [Comments](https://tech.slashdot.org/story/26/07/07/0715252/amazon-will-stop-accepting-new-customers-for-mechanical-turk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Astro 7.0](https://astro.build/blog/astro-7/) - Announcement and features of the newly released version 7.0 of Astro, a next-gen front-end toolkit.
+## Artificial Intelligence and Machine Learning
 
-* [MacSurf 1.68 – NetSurf on OS 9 Released](https://github.com/mplsllc/macsurf/releases/tag/v1.86) - A lightweight web browser is now available for Mac OS 9, catering to retro computing aficionados.
+* [AI Meets Cryptography 1: What AI Found in Cloudflare's Circl](https://blog.zksecurity.xyz/posts/circl-bugs/) - Insights from the intersection of AI and cryptography, analyzing potential vulnerabilities in Cloudflare's Circl. [Comments](https://news.ycombinator.com/item?id=48821749).
 
-* [Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens](https://github.com/kklimuk/docx-cli) - A new CLI tool aimed at improving efficiency while processing Word documents.
+* [30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format](https://30papers.com/) - A curated list of machine learning papers for enthusiasts and beginners. [Comments](https://news.ycombinator.com/item?id=48819608).
 
-* [Faster Builds with Elm 0.19.2](https://elm-lang.org/news/faster-builds) - Enhancements to Elm's building process, promising improved performance and efficiency.
+* [Small AI Models Gain Traction Around the World](https://slashdot.org/story/26/07/06/221233/small-ai-models-gain-traction-around-the-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Smaller AI models are gaining popularity for their efficiency and reduced resource demands. [Comments](https://slashdot.org/story/26/07/06/221233/small-ai-models-gain-traction-around-the-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-## Data Security and Privacy
+* [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/) - A perspective on the economic implications of commoditization and competition in the AI space. [Comments](https://lobste.rs/s/ua1gxl/glm_5_2_coming_ai_margin_collapse).
 
-* [Microsoft Can Track Users Via a Windows Device ID](https://yro.slashdot.org/story/26/07/07/1650237/microsoft-can-track-users-via-a-windows-device-id?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Examination of how Microsoft tracks users through unique device IDs.
+## Science and Health
 
-* [GitHub Has Restricted Access to Star Data](https://www.star-history.com/blog/github-stargazer-api-restriction) - Analysis of GitHub's recent policy changes, impacting access to stargazer data on the platform.
+* [Men's average testosterone levels have halved in last 50 years](https://www.theguardian.com/society/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists) - New research reveals a significant drop in male testosterone levels over the past five decades. [Comments](https://news.ycombinator.com/item?id=48823368).
 
-* [US Cyber Agency Is Using Anthropic's Mythos To Audit Government Code](https://yro.slashdot.org/story/26/07/07/0036203/us-cyber-agency-is-using-anthropics-mythos-to-audit-government-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A deep dive into the cybersecurity application of Anthropic's AI for auditing government code.
+* [Learning Another Language Appears To Slow Brain Aging By Up To 13 Years](https://science.slashdot.org/story/26/07/07/076229/learning-another-language-appears-to-slow-brain-aging-by-up-to-13-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new study links bilingualism with slower cognitive aging. [Comments](https://science.slashdot.org/story/26/07/07/076229/learning-another-language-appears-to-slow-brain-aging-by-up-to-13-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-## Policy and Legal Updates
+* [For The First Time, A Cell Built From Scratch Grows And Divides](https://soylentnews.org/article.pl?sid=26/07/05/1924207&amp;from=rss) - Scientists achieve a groundbreaking step in synthetic biology, creating a cell that grows and divides from scratch. [Comments](https://soylentnews.org/article.pl?sid=26/07/05/1924207&amp;from=rss).
 
-* [Florida Bans Local Governments From Pursuing Net-Zero Emissions Goals](https://soylentnews.org/article.pl?sid=26/07/05/2125258&amp;from=rss) - Legislative actions in Florida to restrict municipalities from enforcing net-zero emissions policies.
+## Policy and Regulation
 
-* [Chat Control passed first round in EU Parliament](https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html) - The European Parliament advances controversial legislative measures on chat control and online privacy.
+* [FCC To End Biden-Era Rule That Forces ISPs To List All Their Fees](https://yro.slashdot.org/story/26/07/07/1918257/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A proposed rule rollback may make ISP fees less transparent for consumers. [Comments](https://yro.slashdot.org/story/26/07/07/1918257/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [New Law Could Let Tesla Ship Cars With No Brake Pedals Installed](https://soylentnews.org/article.pl?sid=26/07/05/092233&amp;from=rss) - Examination of legal policies that could impact the automotive industry's safety standards.
+* [Florida Bans Local Governments From Pursuing Net-Zero Emissions Goals](https://soylentnews.org/article.pl?sid=26/07/05/2125258&amp;from=rss) - A controversial law in Florida prevents local governments from adopting net-zero emissions targets. [Comments](https://soylentnews.org/article.pl?sid=26/07/05/2125258&amp;from=rss).
 
-## Economic and Business Trends
+* [Supreme Court Allows Texas To Require Age Verification For Mobile Apps](https://yro.slashdot.org/story/26/07/06/2144244/supreme-court-allows-texas-to-require-age-verification-for-mobile-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The court upholds a Texas law mandating age verification for mobile app users. [Comments](https://yro.slashdot.org/story/26/07/06/2144244/supreme-court-allows-texas-to-require-age-verification-for-mobile-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Major Banks In Talks To Exploit Debit Card Loophole](https://news.slashdot.org/story/26/07/07/1726247/major-banks-in-talks-to-exploit-debit-card-loophole?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Discussion about leading banks strategizing to capitalize on debit card regulations.
+## Significant Economic and Industry Developments
 
-* [South Korea's SK Hynix Launching $28 Billion US Listing To Ride Global AI Wave](https://hardware.slashdot.org/story/26/07/06/1859227/south-koreas-sk-hynix-launching-28-billion-us-listing-to-ride-global-ai-wave?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Analysis of SK Hynix's ambitious financial move in the AI sector.
+* [Samsung Passes Nvidia To Become Most Profitable Company In the World](https://hardware.slashdot.org/story/26/07/07/1927217/samsung-passes-nvidia-to-become-most-profitable-company-in-the-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Samsung overtakes Nvidia as the most profitable company globally, highlighting a shift in the tech industry. [Comments](https://hardware.slashdot.org/story/26/07/07/1927217/samsung-passes-nvidia-to-become-most-profitable-company-in-the-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-## Social and Cultural Impact
+* [China's DeepSeek Developing Its Own AI Chip](https://hardware.slashdot.org/story/26/07/07/1740259/chinas-deepseek-developing-its-own-ai-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - DeepSeek, a Chinese tech company, reveals its initiative to develop a proprietary AI chip. [Comments](https://hardware.slashdot.org/story/26/07/07/1740259/chinas-deepseek-developing-its-own-ai-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
-* [Learning Another Language Appears To Slow Brain Aging By Up To 13 Years](https://science.slashdot.org/story/26/07/07/076229/learning-another-language-appears-to-slow-brain-aging-by-up-to-13-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Research highlighting the cognitive benefits of learning additional languages.
-
-* [The revenge of the philosophy majors](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html) - Exploration of how philosophy majors are unexpectedly thriving in the AI-driven job market.
-
-## Environment and Sustainability
-
-* [Google’s exponential path to climate-wrecking digital bloat](https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/) - An investigative report into Google's environmental impact from its growing digital infrastructure.
-
-* [Engineer Open-Sources DIY Radar System That’s 95% Cheaper Than $250,000 Commercial Offerings](https://soylentnews.org/article.pl?sid=26/07/02/1516223&amp;from=rss) - The story of an innovative, affordable radar system challenging the status quo.
+* [Major Banks In Talks To Exploit Debit Card Loophole](https://news.slashdot.org/story/26/07/07/1726247/major-banks-in-talks-to-exploit-debit-card-loophole?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Financial institutions reportedly exploring a legal loophole regarding debit card transactions. [Comments](https://news.slashdot.org/story/26/07/07/1726247/major-banks-in-talks-to-exploit-debit-card-loophole?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed).
 
 ---
 
@@ -79,29 +71,35 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-07-07, 22:00:00](https://tech.slashdot.org/story/26/07/07/1933209/microsoft-flips-windows-backup-on-by-default-outside-the-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Flips Windows Backup On By Default Outside the EU](https://tech.slashdot.org/story/26/07/07/1933209/microsoft-flips-windows-backup-on-by-default-outside-the-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-07, 21:14:16](https://lobste.rs/s/qlw9wg/new_research_verified_github_commit_is) - [New Research: A \&quot;Verified\&quot; GitHub Commit Is NOT Unique](https://www.internationalcyberdigest.com/new-research-a-verified-github-commit-is-not-unique/)
+* [2026-07-07, 21:00:00](https://hardware.slashdot.org/story/26/07/07/1927217/samsung-passes-nvidia-to-become-most-profitable-company-in-the-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Samsung Passes Nvidia To Become Most Profitable Company In the World](https://hardware.slashdot.org/story/26/07/07/1927217/samsung-passes-nvidia-to-become-most-profitable-company-in-the-world?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-07, 20:50:46](https://news.ycombinator.com/item?id=48823557) - [Every new car sold in the European Union must include a driver monitoring camera](https://allaboutcookies.org/eu-mandatory-distracted-driver-system)
+* [2026-07-07, 20:36:01](https://news.ycombinator.com/item?id=48823368) - [Men&apos;s average testosterone levels have halved in last 50 years](https://www.theguardian.com/society/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists)
+* [2026-07-07, 20:00:00](https://yro.slashdot.org/story/26/07/07/1918257/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [FCC To End Biden-Era Rule That Forces ISPs To List All Their Fees](https://yro.slashdot.org/story/26/07/07/1918257/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-07, 19:00:00](https://hardware.slashdot.org/story/26/07/07/1740259/chinas-deepseek-developing-its-own-ai-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China&apos;s DeepSeek Developing Its Own AI Chip](https://hardware.slashdot.org/story/26/07/07/1740259/chinas-deepseek-developing-its-own-ai-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-07, 18:44:29](https://news.ycombinator.com/item?id=48821848) - [Show HN: Davit, a Apple Containers UI](https://davit.app)
 * [2026-07-07, 18:41:58](https://lobste.rs/s/qklyjk/why_we_built_yet_another_postgres) - [Why we built yet another Postgres connection pooler](https://pgdog.dev/blog/why-yet-another-connection-pooler)
-* [2026-07-07, 18:40:40](https://news.ycombinator.com/item?id=48821803) - [Ask HN: Is GitHub preparing to go behind a login wall?](https://news.ycombinator.com/item?id=48821803)
 * [2026-07-07, 18:36:35](https://news.ycombinator.com/item?id=48821749) - [AI Meets Cryptography 1: What AI Found in Cloudflare&apos;s Circl](https://blog.zksecurity.xyz/posts/circl-bugs/)
-* [2026-07-07, 18:32:26](https://news.ycombinator.com/item?id=48821691) - [Decrypting View State Messages](https://zeroed.tech/blog/decrypting-viewstate-messages/)
 * [2026-07-07, 18:30:02](https://news.ycombinator.com/item?id=48821653) - [Astro 7.0](https://astro.build/blog/astro-7/)
 * [2026-07-07, 18:24:10](https://news.ycombinator.com/item?id=48821576) - [Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/)
 * [2026-07-07, 18:19:00](https://news.ycombinator.com/item?id=48821500) - [Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens](https://github.com/kklimuk/docx-cli)
-* [2026-07-07, 18:08:29](https://news.ycombinator.com/item?id=48821378) - [A new runtime for k and q: l](https://lv1.sh/)
+* [2026-07-07, 18:14:50](https://news.ycombinator.com/item?id=48821441) - [Notes on Software Quality](https://anthonyhobday.com/blog/20260410)
+* [2026-07-07, 18:08:29](https://news.ycombinator.com/item?id=48821378) - [l: A new runtime for k and q](https://lv1.sh/)
 * [2026-07-07, 18:00:00](https://news.slashdot.org/story/26/07/07/1726247/major-banks-in-talks-to-exploit-debit-card-loophole?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Major Banks In Talks To Exploit Debit Card Loophole](https://news.slashdot.org/story/26/07/07/1726247/major-banks-in-talks-to-exploit-debit-card-loophole?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-07, 18:00:00](https://soylentnews.org/article.pl?sid=26/07/05/2125258&amp;from=rss) - [Florida Bans Local Governments From Pursuing Net-Zero Emissions Goals](https://soylentnews.org/article.pl?sid=26/07/05/2125258&amp;from=rss)
+* [2026-07-07, 17:51:14](https://lobste.rs/s/srmkur/your_rust_service_isn_t_leaking_it_could_be) - [Your Rust Service Isn&apos;t Leaking — It Could Be the Allocator](https://pranitha.dev/posts/rust-and-memory-allocators/)
 * [2026-07-07, 17:00:00](https://yro.slashdot.org/story/26/07/07/1650237/microsoft-can-track-users-via-a-windows-device-id?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Can Track Users Via a Windows Device ID](https://yro.slashdot.org/story/26/07/07/1650237/microsoft-can-track-users-via-a-windows-device-id?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-07, 16:42:41](https://news.ycombinator.com/item?id=48820274) - [Mapping homes you can buy from the US government for &lt;$100k](https://govauctions.app/research/cheapest-homes-in-america)
 * [2026-07-07, 16:38:08](https://news.ycombinator.com/item?id=48820220) - [China sentences official to death for taking $325M in bribes](https://www.bbc.com/news/articles/c33y0n1v1xjo)
-* [2026-07-07, 16:31:19](https://news.ycombinator.com/item?id=48820127) - [Reducing Doom Loops with Final Token Preference Optimization](https://www.liquid.ai/blog/antidoom)
 * [2026-07-07, 16:30:42](https://news.ycombinator.com/item?id=48820119) - [Jim&apos;s TrueType QR Code Font](https://github.com/jimparis/qr-font)
 * [2026-07-07, 16:24:40](https://news.ycombinator.com/item?id=48820022) - [MacSurf 1.68 – NetSurf on OS 9 Released](https://github.com/mplsllc/macsurf/releases/tag/v1.86)
+* [2026-07-07, 16:10:44](https://news.ycombinator.com/item?id=48819808) - [Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop](https://github.com/rowboatlabs/rowboat)
 * [2026-07-07, 16:03:16](https://lobste.rs/s/tk8spu/friction_is_feature) - [Friction is a Feature](https://philip.mallegolhansen.com/blog/2026-07-04-friction-is-a-feature.html)
 * [2026-07-07, 16:00:00](https://tech.slashdot.org/story/26/07/07/0715252/amazon-will-stop-accepting-new-customers-for-mechanical-turk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Will Stop Accepting New Customers For Mechanical Turk](https://tech.slashdot.org/story/26/07/07/0715252/amazon-will-stop-accepting-new-customers-for-mechanical-turk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-07, 15:58:13](https://news.ycombinator.com/item?id=48819608) - [30papers.com – Ilya&apos;s 30 essential ML papers, in a beginner friendly format](https://30papers.com/)
 * [2026-07-07, 15:36:49](https://news.ycombinator.com/item?id=48819308) - [Why we built yet another Postgres connection pooler](https://pgdog.dev/blog/why-yet-another-connection-pooler)
 * [2026-07-07, 15:33:20](https://news.ycombinator.com/item?id=48819244) - [Microsoft fire idTech team at Id software](https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/)
 * [2026-07-07, 15:16:15](https://news.ycombinator.com/item?id=48819008) - [Chat Control passed first round in EU Parliament](https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html)
-* [2026-07-07, 15:13:01](https://news.ycombinator.com/item?id=48818963) - [Amazon without the knockoffs](https://knockoff.shopping/)
 * [2026-07-07, 15:11:08](https://news.ycombinator.com/item?id=48818937) - [Automating AI Away](https://replicated.live/blog/away)
 * [2026-07-07, 15:00:00](https://science.slashdot.org/story/26/07/07/076229/learning-another-language-appears-to-slow-brain-aging-by-up-to-13-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Learning Another Language Appears To Slow Brain Aging By Up To 13 Years](https://science.slashdot.org/story/26/07/07/076229/learning-another-language-appears-to-slow-brain-aging-by-up-to-13-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-07, 14:41:56](https://news.ycombinator.com/item?id=48818544) - [The revenge of the philosophy majors](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html)
@@ -114,7 +112,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-07, 12:49:03](https://lobste.rs/s/hq8i1h/popup_says_quiet_part_out_loud) - [The Popup That Says the Quiet Part Out Loud](https://blog.ppb1701.com/the-popup-that-says-the-quiet-part-out-loud)
 * [2026-07-07, 12:45:14](https://news.ycombinator.com/item?id=48816959) - [98% isn&apos;t much](https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/)
 * [2026-07-07, 12:45:06](https://news.ycombinator.com/item?id=48816956) - [A better way to tie gym shorts (or any drawstring) [video]](https://www.youtube.com/watch?v=3R0Lp86GEBk)
-* [2026-07-07, 12:40:28](https://news.ycombinator.com/item?id=48816900) - [Show HN: PostgreSQL performance and cost across 23 EC2 instance types](https://postgres.saneengineer.com)
 * [2026-07-07, 12:38:35](https://news.ycombinator.com/item?id=48816883) - [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/)
 * [2026-07-07, 12:09:47](https://lobste.rs/s/hxjscx/how_i_m_using_css_view_transitions_on_this) - [How I&apos;m using CSS View Transitions on this blog](https://blog.omgmog.net/post/how-im-using-css-view-transitions-on-this-blog/)
 * [2026-07-07, 12:00:44](https://news.ycombinator.com/item?id=48816533) - [9 Mothers (YC P26) Is Hiring in Austin, TX](https://9mothers.com/careers)
@@ -142,19 +139,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-06, 20:15:25](https://lobste.rs/s/ua1gxl/glm_5_2_coming_ai_margin_collapse) - [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
 * [2026-07-06, 20:00:00](https://tech.slashdot.org/story/26/07/06/1844204/zombie-who-owns-unix-lawsuit-comes-alive-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Zombie &apos;Who Owns Unix?&apos; Lawsuit Comes Alive Again](https://tech.slashdot.org/story/26/07/06/1844204/zombie-who-owns-unix-lawsuit-comes-alive-again?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-06, 19:47:11](https://lobste.rs/s/eyojtx/reactos_open_source_windows_project_now) - [ReactOS \&quot;Open-Source Windows\&quot; Project Now Capable Of Running Half-Life 2](https://www.phoronix.com/news/Half-Life-2-ReactOS)
-* [2026-07-06, 19:00:00](https://yro.slashdot.org/story/26/07/06/1836230/secret-claude-tracker-shocks-users-after-anthropics-anti-surveillance-stance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Secret Claude Tracker Shocks Users After Anthropic&apos;s Anti-Surveillance Stance](https://yro.slashdot.org/story/26/07/06/1836230/secret-claude-tracker-shocks-users-after-anthropics-anti-surveillance-stance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-06, 18:30:00](https://games.slashdot.org/story/26/07/06/1827209/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Lays Off Nearly 5,000 Employees Across Xbox, Commercial Sales](https://games.slashdot.org/story/26/07/06/1827209/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-06, 18:23:00](https://soylentnews.org/article.pl?sid=26/07/05/1917212&amp;from=rss) - [Travel like it&apos;s 0 AD. ](https://soylentnews.org/article.pl?sid=26/07/05/1917212&amp;from=rss)
-* [2026-07-06, 17:00:00](https://hardware.slashdot.org/story/26/07/06/1636252/nintendo-switch-2-is-getting-a-replaceable-battery-in-europe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nintendo Switch 2 Is Getting a Replaceable Battery in Europe](https://hardware.slashdot.org/story/26/07/06/1636252/nintendo-switch-2-is-getting-a-replaceable-battery-in-europe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-06, 16:00:00](https://news.slashdot.org/story/26/07/06/056242/americans-of-all-ages-are-spending-less-time-socializing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Americans of All Ages Are Spending Less Time Socializing](https://news.slashdot.org/story/26/07/06/056242/americans-of-all-ages-are-spending-less-time-socializing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-06, 13:44:16](https://lobste.rs/s/27dxjg/petty_reason_we_didn_t_end_up_using_jj) - [The (Petty) Reason We Didn&apos;t End Up Using jj](https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle)
 * [2026-07-06, 13:42:00](https://soylentnews.org/article.pl?sid=26/07/05/1911206&amp;from=rss) - [Modern Life May be Outpacing the Human Mind](https://soylentnews.org/article.pl?sid=26/07/05/1911206&amp;from=rss)
 * [2026-07-06, 11:31:42](https://lobste.rs/s/krej7c/faster_builds_with_elm_0_19_2) - [Faster Builds with Elm 0.19.2](https://elm-lang.org/news/faster-builds)
 * [2026-07-06, 11:28:23](https://lobste.rs/s/vwni9c/sneakerweb) - [sneakerweb](https://sneakerweb.org/)
 * [2026-07-06, 09:00:00](https://soylentnews.org/article.pl?sid=26/07/05/092233&amp;from=rss) - [New Law Could Let Tesla Ship Cars With No Brake Pedals Installed](https://soylentnews.org/article.pl?sid=26/07/05/092233&amp;from=rss)
 * [2026-07-06, 04:16:00](https://soylentnews.org/article.pl?sid=26/07/05/0859246&amp;from=rss) - [The Weirdness of Neutrinos Could Completely Rewrite Particle Physics](https://soylentnews.org/article.pl?sid=26/07/05/0859246&amp;from=rss)
-* [2026-07-06, 03:25:50](https://lobste.rs/s/iztgtd/speed_limit_for_computers) - [A Speed Limit for Computers](https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm)
-* [2026-07-06, 02:06:55](https://news.ycombinator.com/item?id=48799930) - [GitHub Freno: cooperative, highly available throttler service](https://github.com/github/freno)
 * [2026-07-05, 23:35:00](https://soylentnews.org/article.pl?sid=26/07/04/0717219&amp;from=rss) - [What the US Was Like in the 1920s](https://soylentnews.org/article.pl?sid=26/07/04/0717219&amp;from=rss)
 * [2026-07-05, 18:52:00](https://soylentnews.org/article.pl?sid=26/07/04/0714213&amp;from=rss) - [Raspberry Pi OS Gets a New Kernel but Apparently Not a New Version Number](https://soylentnews.org/article.pl?sid=26/07/04/0714213&amp;from=rss)
 * [2026-07-05, 14:02:00](https://soylentnews.org/article.pl?sid=26/07/04/074205&amp;from=rss) - [61% of US Adults Use AI for Health Information Now - Up From 2% in 2024](https://soylentnews.org/article.pl?sid=26/07/04/074205&amp;from=rss)
@@ -168,6 +158,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-04, 05:54:00](https://soylentnews.org/article.pl?sid=26/07/02/1516223&amp;from=rss) - [Engineer Open-Sources DIY Radar System That&apos;s 95% Cheaper Than $250,000 Commercial Offerings, Has 20](https://soylentnews.org/article.pl?sid=26/07/02/1516223&amp;from=rss)
 * [2026-07-04, 04:16:00](https://soylentnews.org/article.pl?sid=26/07/02/1521222&amp;from=rss) - [Americans!  Enjoy Your 4th July Celebrations](https://soylentnews.org/article.pl?sid=26/07/02/1521222&amp;from=rss)
 * [2026-07-04, 01:13:00](https://soylentnews.org/article.pl?sid=26/07/02/1510239&amp;from=rss) - [It&apos;s Time to Step Up and Have Your Say for Science](https://soylentnews.org/article.pl?sid=26/07/02/1510239&amp;from=rss)
+* [2026-07-03, 20:54:36](https://news.ycombinator.com/item?id=48779844) - [Camera with transparent display launches for the equivalent of $29](https://www.notebookcheck.net/Camera-with-transparent-display-launches-for-the-equivalent-of-29.1334495.0.html)
 * [2026-07-03, 20:29:00](https://soylentnews.org/article.pl?sid=26/07/02/0510215&amp;from=rss) - [Bombshell Lawsuit Alleges that RAM Manufacturers are Colluding to Drive Up Prices](https://soylentnews.org/article.pl?sid=26/07/02/0510215&amp;from=rss)
 * [2026-07-03, 15:49:00](https://soylentnews.org/article.pl?sid=26/07/02/058229&amp;from=rss) - [Polestar Faces A Ban On Selling Its EVs In The US](https://soylentnews.org/article.pl?sid=26/07/02/058229&amp;from=rss)
 * [2026-07-03, 10:57:00](https://soylentnews.org/article.pl?sid=26/07/02/0458244&amp;from=rss) - [UN AI Great Risks and Rewards](https://soylentnews.org/article.pl?sid=26/07/02/0458244&amp;from=rss)
