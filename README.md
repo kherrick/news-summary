@@ -1,54 +1,76 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Regulatory and Legal Developments
+## Technology and Innovation
 
-* [US Food and Drug Administration Rejects Petition To Set PFAS Limits In Food](https://yro.slashdot.org/story/26/07/09/0359202/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Shoebox-Sized 'Detector Satellites' Could Sniff Out a Nuclear Bomb In Space](https://science.slashdot.org/story/26/07/09/0427237/shoebox-sized-detector-satellites-could-sniff-out-a-nuclear-bomb-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A new development in space technology could enable small satellites to detect nuclear explosions in space using advanced sensors.
 
-* [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
+* [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust) - The developers of Bun, a popular fast JavaScript runtime, announce plans to rewrite the project using the Rust programming language to improve performance and safety.
 
-* [Florida Bans Local Governments From Pursuing Net-Zero Emissions Goals](https://soylentnews.org/article.pl?sid=26/07/05/2125258&amp;from=rss)
+* [SpaceWASM: NASA/JPL's Wasm interpreter for spacecraft sequencing](https://github.com/nasa/spacewasm) - NASA/JPL introduces SpaceWASM, a WebAssembly interpreter designed for controlling spacecraft sequencing.
 
-* [Google Loses Final Appeal Over $4.7 Billion EU Android Antitrust Fine](https://soylentnews.org/article.pl?sid=26/07/05/222222&amp;from=rss)
+* [Announcing TypeScript 7.0](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/) - Microsoft announces TypeScript 7.0, focusing on improved type maintenance and development productivity.
 
-## Tech Innovations and Developments
+* [The best WebAssembly runtime may still be no runtime at all](https://00f.net/2026/07/08/webassembly-compilation-to-c-2026/) - This post explores the innovation of compiling WebAssembly directly to native code, challenging the need for a runtime.
 
-* [SpaceWASM: NASA/JPL's Wasm interpreter for spacecraft sequencing](https://github.com/nasa/spacewasm)
+* [Superconducting Thruster Harnesses Earth's Magnetic Field In First Orbital Test](https://science.slashdot.org/story/26/07/07/2327219/superconducting-thruster-harnesses-earths-magnetic-field-in-first-orbital-test?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Researchers achieve a groundbreaking orbital test of a superconducting thruster utilizing Earth's magnetic field.
 
-* [Apple Says It Will Spend $30 Billion To Design US-Made Broadcom Chips](https://hardware.slashdot.org/story/26/07/08/1744225/apple-says-it-will-spend-30-billion-to-design-us-made-broadcom-chips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [South Korea to Spend $1T on More Memory Chip Production and Humanoid Robots](https://soylentnews.org/article.pl?sid=26/07/06/1957237&from=rss) - South Korea announces a massive $1 trillion investment in advancing semiconductor technology and humanoid robotics.
 
-* [Eve Online's Carbon engine is now open source: Fenris Creations explains why](https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why)
+## Programming and Open Source
 
-* [Superconducting Thruster Harnesses Earth's Magnetic Field In First Orbital Test](https://science.slashdot.org/story/26/07/07/2327219/superconducting-thruster-harnesses-earths-magnetic-field-in-first-orbital-test?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Experimenting with random() in CSS](https://polypane.app/blog/experimenting-with-random-in-css/) - A deep dive into using the 'random()' function in CSS for dynamic and adaptive designs.
 
-## Artificial Intelligence
+* [Interview: Drew DeVault on an AI-free version of Vim](https://jasonpolak.substack.com/p/interview-drew-devault-on-an-ai-free) - An interview with the creator of an AI-free version of the popular text editor Vim, aiming to provide a purer developer experience.
 
-* [We made Grok 4.5, GPT-5.5, and Claude build the same apps](https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off)
+* [kparser - small, readable parser for K](https://github.com/ardentsia-cgs/kparser) - A GitHub project focused on creating a minimalist and comprehensible parser for the K programming language.
 
-* [MIRA: Multiplayer Interactive World Models Trained on Rocket League](https://mira-wm.com/)
+* [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust) - A significant development in the JavaScript community as one of the fastest runtimes, Bun, gets rewritten in Rust.
 
-* [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/)
+## Science and Environment
 
-* [Meta Now Lets Anyone Use Your Instagram Photos In AI Images](https://tech.slashdot.org/story/26/07/07/2239255/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [US Food and Drug Administration Rejects Petition To Set PFAS Limits In Food](https://yro.slashdot.org/story/26/07/09/0359202/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The FDA declines to regulate per- and polyfluoroalkyl substances in food, raising health concerns.
 
-## Open Source and Development
+* [Spider venom kills varroa mites without harming honeybees](https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming) - Scientists discover that spider venom could be a safe and efficient way to protect honeybees from the destructive varroa mites.
 
-* [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
+* [Large Hadron Collider Goes Offline to Make Room for its Enhanced Successor](https://soylentnews.org/article.pl?sid=26/07/04/0643229&from=rss) - The Large Hadron Collider is decommissioned to make way for a more advanced version, promising enhanced capabilities for future research.
 
-* [Chatto is now open source](https://www.hmans.dev/blog/chatto-is-open-source)
+* [Superconducting Thruster Harnesses Earth's Magnetic Field In First Orbital Test](https://science.slashdot.org/story/26/07/07/2327219/superconducting-thruster-harnesses-earths-magnetic-field-in-first-orbital-test?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A pioneering study demonstrates a novel propulsion system employing superconducting materials for space applications.
 
-* [Announcing TypeScript 7.0](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/)
+* [Japan Releases Snowman-Like Asteroid Image After Flyby](https://science.slashdot.org/story/26/07/07/2245233/japan-releases-snowman-like-asteroid-image-after-flyby?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Japanese researchers release a captivating image of a snowman-shaped asteroid, captured during a recent asteroid flyby mission.
 
-* [Democratizing Abandonware](https://geopjr.dev/blog/democratizing-abandonware)
+## Artificial Intelligence and Ethics
 
-## Miscellaneous Discoveries and Insights
+* [AI changes the economics of software rewrites](https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/) - AI advancements demonstrate a major impact on software development, shifting the economics of code rewrites.
 
-* [Japan Releases Snowman-Like Asteroid Image After Flyby](https://science.slashdot.org/story/26/07/07/2245233/japan-releases-snowman-like-asteroid-image-after-flyby?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [What’s slowing down the AI buildout](https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid) - Limitations in energy infrastructure are identified as key bottlenecks in scaling up AI capabilities.
 
-* [Mysterious Spheres Found In Australia Are Likely Space Debris](https://science.slashdot.org/story/26/07/08/078258/mysterious-spheres-found-in-australia-are-likely-space-debris?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Meta Now Lets Anyone Use Your Instagram Photos In AI Images](https://tech.slashdot.org/story/26/07/07/2239255/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Concerns over the use of Instagram photos in training datasets for AI-generated images without user consent.
 
-* [A bug which only affected left-handed users](https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/)
+* [New Attack Provides One More Reason Why AI Browsers Are A Bad Idea](https://soylentnews.org/article.pl?sid=26/07/05/2151242&from=rss) - Researchers highlight security risks in AI-powered browsers, prompting questions about their practicality and safety.
 
-* [My road trip with the do-gooding cactus smugglers](https://economist.com/1843/2026/03/06/my-road-trip-with-the-do-gooding-cactus-smugglers)
+## Cybersecurity and Privacy
+
+* [OpenMandriva Says Former Contributor Sabotaged Its Repositories](https://linuxiac.com/openmandriva-says-former-contributor-sabotaged-its-repositories/) - OpenMandriva alleges sabotage attempts by a former contributor, raising concerns over open-source project security.
+
+* [GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/) - Researchers exposed a vulnerability in GitHub's AI-enabled code review system that resulted in unintended data leaks.
+
+* [David Rosenthal on the LLM Negative Feedback Loop](https://soylentnews.org/article.pl?sid=26/07/05/1921216&from=rss) - A technical analysis of how large language models can create self-reinforcing data distortions over time.
+
+* [Meta's Glasses Will Turn Off the Camera If You Tamper With the Privacy Light](https://yro.slashdot.org/story/26/07/08/1750234/metas-glasses-will-turn-off-the-camera-if-you-tamper-with-the-privacy-light?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Meta implements new security features in its smart glasses, disabling cameras if the privacy light is tampered with.
+
+* [It’s Looking Like a Hot, Messy Summer for Security Teams as AI Finds Hidden Vulnerabilities](https://soylentnews.org/article.pl?sid=26/07/04/0653237&from=rss) - The rise in AI detection of hidden cybersecurity vulnerabilities is creating a challenging environment for security teams.
+
+## Society and Policy
+
+* [The Supreme Court Just Lit a Fuse Under Flock's License Plate Camera Empire](https://soylentnews.org/article.pl?sid=26/07/08/0151252&from=rss) - Recent judicial decisions could significantly impact the expansion and regulatory oversight of Flock Safety's surveillance technology.
+
+* [Florida Bans Local Governments From Pursuing Net-Zero Emissions Goals](https://soylentnews.org/article.pl?sid=26/07/05/2125258&from=rss) - A controversial law in Florida prevents local governments from implementing net-zero emissions policies, sparking environmental debates.
+
+* [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02) - John Deere reaches a right-to-repair agreement, resolving a long-standing dispute under a settlement with the FTC.
+
+* [Apple Loses EU Fight Over App Store Gatekeeper Label](https://apple.slashdot.org/story/26/07/08/1638234/apple-loses-eu-fight-over-app-store-gatekeeper-label?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Apple's legal battle with the EU concerning its App Store policies ends in a loss over its designation as a gatekeeper.
+
+* [New Law Could Let Tesla Ship Cars With No Brake Pedals Installed](https://soylentnews.org/article.pl?sid=26/07/05/092233&from=rss) - A new regulation raises eyebrows by potentially allowing Tesla to ship cars without traditional brake pedals under certain conditions.
 
 ---
 
@@ -75,12 +97,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-07-09, 07:51:00](https://soylentnews.org/article.pl?sid=26/07/08/0151252&amp;from=rss) - [The Supreme Court Just Lit a Fuse Under Flock&apos;s License Plate Camera Empire](https://soylentnews.org/article.pl?sid=26/07/08/0151252&amp;from=rss)
+* [2026-07-09, 07:00:00](https://science.slashdot.org/story/26/07/09/0427237/shoebox-sized-detector-satellites-could-sniff-out-a-nuclear-bomb-in-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Shoebox-Sized &apos;Detector Satellites&apos; Could Sniff Out a Nuclear Bomb In Space](https://science.slashdot.org/story/26/07/09/0427237/shoebox-sized-detector-satellites-could-sniff-out-a-nuclear-bomb-in-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-09, 06:31:50](https://lobste.rs/s/sdweip/experimenting_with_random_css) - [Experimenting with random() in CSS](https://polypane.app/blog/experimenting-with-random-in-css/)
+* [2026-07-09, 05:50:10](https://lobste.rs/s/wqqmxc/keygen_church_oscuro_domine) - [Keygen Church - Oscuro Domine](https://www.keygenchurch.com)
+* [2026-07-09, 05:46:50](https://news.ycombinator.com/item?id=48841446) - [AI changes the economics of software rewrites](https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/)
+* [2026-07-09, 05:14:45](https://news.ycombinator.com/item?id=48841259) - [Spider venom kills varroa mites without harming honeybees](https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming)
 * [2026-07-09, 04:00:00](https://yro.slashdot.org/story/26/07/09/0359202/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Food and Drug Administration Rejects Petition To Set PFAS Limits In Food](https://yro.slashdot.org/story/26/07/09/0359202/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-09, 03:51:49](https://lobste.rs/s/l0dyen/patching_mechcommander_s_left_arm_bug_for) - [Patching MechCommander’s “left arm bug” for fun and profit](https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/)
-* [2026-07-09, 03:08:32](https://news.ycombinator.com/item?id=48840497) - [Ergo: Long Form Philosophy Lectures](https://ergo.org/)
+* [2026-07-09, 03:26:02](https://news.ycombinator.com/item?id=48840620) - [What&apos;s slowing down the AI buildout](https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid)
 * [2026-07-09, 03:08:00](https://soylentnews.org/article.pl?sid=26/07/08/0149218&amp;from=rss) - [Rats Show Empathy, According to Model](https://soylentnews.org/article.pl?sid=26/07/08/0149218&amp;from=rss)
 * [2026-07-09, 02:59:03](https://lobste.rs/s/0d1vu1/kparser_small_readable_parser_for_k) - [kparser - small, readable parser for K](https://github.com/ardentsia-cgs/kparser)
-* [2026-07-09, 01:56:28](https://news.ycombinator.com/item?id=48839984) - [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/)
+* [2026-07-09, 01:56:28](https://news.ycombinator.com/item?id=48839984) - [I think I have LLM burnout](https://www.alecscollon.com/blog/llm-burnout/)
 * [2026-07-09, 00:43:32](https://lobste.rs/s/dbakbg/interview_drew_devault_on_ai_free_version) - [Interview: Drew DeVault on an AI-free version of Vim](https://jasonpolak.substack.com/p/interview-drew-devault-on-an-ai-free)
 * [2026-07-09, 00:32:33](https://news.ycombinator.com/item?id=48839397) - [Remote Attestation](https://www.liamcvw.com/p/remote-attestation)
 * [2026-07-09, 00:27:57](https://news.ycombinator.com/item?id=48839355) - [MIRA: Multiplayer Interactive World Models Trained on Rocket League](https://mira-wm.com/)
@@ -119,13 +147,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-08, 15:19:50](https://news.ycombinator.com/item?id=48833116) - [Chatto is now open source](https://www.hmans.dev/blog/chatto-is-open-source)
 * [2026-07-08, 15:00:00](https://science.slashdot.org/story/26/07/08/078258/mysterious-spheres-found-in-australia-are-likely-space-debris?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Mysterious Spheres Found In Australia Are Likely Space Debris](https://science.slashdot.org/story/26/07/08/078258/mysterious-spheres-found-in-australia-are-likely-space-debris?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-08, 14:29:42](https://lobste.rs/s/mp42ys/obfuscated_bash_script_by_akamai_being) - [Obfuscated bash script by Akamai being supplied to consumers via retail stores](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
-* [2026-07-08, 14:09:17](https://news.ycombinator.com/item?id=48832212) - [Mistral&apos;s Robostral Navigate: a state of the art robotics navigation model](https://mistral.ai/news/robostral-navigate/)
 * [2026-07-08, 14:04:11](https://lobste.rs/s/rcg4bo/gitlost_how_we_tricked_github_s_ai_agent) - [GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
 * [2026-07-08, 14:02:44](https://lobste.rs/s/qmzekw/funding_open_source_software_without) - [Funding open-source software without compromising it](https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/)
 * [2026-07-08, 13:59:35](https://lobste.rs/s/zcyy2u/zine_0_12_0) - [Zine 0.12.0](https://zine-ssg.io/log/?v0.12.0#v0.12.0)
 * [2026-07-08, 13:46:22](https://lobste.rs/s/zrvoqb/unicode_s_transliteration_rules_are) - [Unicode&apos;s Transliteration Rules Are Turing-Complete](https://seriot.ch/computation/uts35/)
 * [2026-07-08, 13:20:05](https://news.ycombinator.com/item?id=48831587) - [A bug which affected only left handed users](https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/)
-* [2026-07-08, 13:18:03](https://news.ycombinator.com/item?id=48831565) - [Cloudflare Meerkat - Globally distributed consensus](https://blog.cloudflare.com/meerkat-introduction/)
 * [2026-07-08, 13:01:25](https://lobste.rs/s/oj9lal/bug_which_only_affected_left_handed_users) - [A bug which only affected left-handed users](https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/)
 * [2026-07-08, 12:53:00](https://soylentnews.org/article.pl?sid=26/07/06/204247&amp;from=rss) - [Paper Mill Cancer Studies Get Double the Number of Citations as Genuine Papers](https://soylentnews.org/article.pl?sid=26/07/06/204247&amp;from=rss)
 * [2026-07-08, 12:29:10](https://lobste.rs/s/wkmhrv/democratizing_abandonware) - [Democratizing Abandonware](https://geopjr.dev/blog/democratizing-abandonware)
@@ -142,13 +168,10 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-08, 01:49:39](https://lobste.rs/s/8kxouk/software_engineering_interview) - [a software engineering interview question I like: computing the median](https://krisshamloo.com/blog/007)
 * [2026-07-07, 23:00:00](https://games.slashdot.org/story/26/07/07/1938210/doom-developer-id-software-is-reportedly-losing-half-its-staff?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Doom Developer id Software Is Reportedly Losing Half Its Staff](https://games.slashdot.org/story/26/07/07/1938210/doom-developer-id-software-is-reportedly-losing-half-its-staff?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-07, 22:44:00](https://soylentnews.org/article.pl?sid=26/07/05/2151242&amp;from=rss) - [New Attack Provides One More Reason Why AI Browsers Are A Bad Idea](https://soylentnews.org/article.pl?sid=26/07/05/2151242&amp;from=rss)
-* [2026-07-07, 22:00:00](https://tech.slashdot.org/story/26/07/07/1933209/microsoft-flips-windows-backup-on-by-default-outside-the-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Flips Windows Backup On By Default Outside the EU](https://tech.slashdot.org/story/26/07/07/1933209/microsoft-flips-windows-backup-on-by-default-outside-the-eu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-07, 18:00:00](https://soylentnews.org/article.pl?sid=26/07/05/2125258&amp;from=rss) - [Florida Bans Local Governments From Pursuing Net-Zero Emissions Goals](https://soylentnews.org/article.pl?sid=26/07/05/2125258&amp;from=rss)
 * [2026-07-07, 13:13:00](https://soylentnews.org/article.pl?sid=26/07/05/2113231&amp;from=rss) - [NetNut Cracked As Google And FBI Target 2 Million-Device Botnet](https://soylentnews.org/article.pl?sid=26/07/05/2113231&amp;from=rss)
 * [2026-07-07, 12:47:46](https://news.ycombinator.com/item?id=48816987) - [Show HN: Yamanote.fun – A complete soundscape for Tokyo&apos;s Yamanote line](https://www.yamanote.fun/)
-* [2026-07-07, 09:35:02](https://lobste.rs/s/709awc/together_for_healthier_clippy) - [Together for a healthier Clippy](https://blog.rust-lang.org/inside-rust/2026/07/06/unite-for-clippy/)
 * [2026-07-07, 08:34:00](https://soylentnews.org/article.pl?sid=26/07/05/1926209&amp;from=rss) - [Amazon is Ready to Deploy the LEO Satellite Broadband Service](https://soylentnews.org/article.pl?sid=26/07/05/1926209&amp;from=rss)
-* [2026-07-07, 07:33:16](https://lobste.rs/s/v8hk8q/google_s_exponential_path_climate) - [Google’s exponential path to climate-wrecking digital bloat](https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/)
 * [2026-07-07, 06:20:55](https://lobste.rs/s/5rvgim/odin_1_0_announcement) - [Odin 1.0 Announcement](https://www.youtube.com/watch?v=dLPAqXi9In0)
 * [2026-07-07, 03:52:00](https://soylentnews.org/article.pl?sid=26/07/05/1924207&amp;from=rss) - [For The First Time, A Cell Built From Scratch Grows And Divides](https://soylentnews.org/article.pl?sid=26/07/05/1924207&amp;from=rss)
 * [2026-07-07, 01:40:26](https://news.ycombinator.com/item?id=48812736) - [Apache Shiro security framework releases 3.0.0](https://shiro.apache.org/blog/2026/06/apache-shiro-300-released.html)
