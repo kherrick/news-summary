@@ -1,52 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Science and Technology Breakthroughs
+## Science and Technology Developments
 
-* [Record-Breaking Ocean Drilling Reveals Why Japan's 2011 Tsunami Was So Deadly](https://soylentnews.org/article.pl?sid=26/07/09/0335227&amp;from=rss) - A deep dive into the geological and seismic discoveries behind the devastating 2011 tsunami in Japan. [Comments](https://soylentnews.org/article.pl?sid=26/07/09/0335227&amp;from=rss)
+* [Humanoid Robots Controlled By Surgeons Did World-First Operation On Live Pigs](https://hardware.slashdot.org/story/26/07/10/0128252/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Surgeons utilize humanoid robots for unprecedented surgical operations on live animals.
 
-* [Humanoid Robots Controlled By Surgeons Did World-First Operation On Live Pigs](https://hardware.slashdot.org/story/26/07/10/0128252/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Pioneering surgical robotics demonstrates an inspiring collaboration between humans and machines in precision surgery. [Comments](https://hardware.slashdot.org/story/26/07/10/0128252/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [AI-generated videos to maximally drive a target brain region](https://nevo-project.epfl.ch/) - Research explores AI-generated content's potential to precisely target and stimulate brain regions.
 
-* [OpenAI Rolls Out GPT-5.6 After Government Greenlight, Announces 'ChatGPT Work'](https://slashdot.org/story/26/07/09/1821245/openai-rolls-out-gpt-56-after-government-greenlight-announces-chatgpt-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI delivers the latest generative AI, featuring sophisticated upgrades for professional use cases. [Comments](https://slashdot.org/story/26/07/09/1821245/openai-rolls-out-gpt-56-after-government-greenlight-announces-chatgpt-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## AI and Software Innovations
 
-* [Shoebox-Sized 'Detector Satellites' Could Sniff Out a Nuclear Bomb In Space](https://science.slashdot.org/story/26/07/09/0427237/shoebox-sized-detector-satellites-could-sniff-out-a-nuclear-bomb-in-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Satellite innovation aims to enhance nuclear detection capabilities in space. [Comments](https://science.slashdot.org/story/26/07/09/0427237/shoebox-sized-detector-satellites-could-sniff-out-a-nuclear-bomb-in-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Cpp2Rust: Automatic Translation of C++ to Safe Rust](https://github.com/Cpp2Rust/cpp2rust) - A tool enabling seamless, safer transitions from C++ to Rust programming.
 
-* [For The First Time, A Cell Built From Scratch Grows And Divides](https://soylentnews.org/article.pl?sid=26/07/05/1924207&amp;from=rss) - A groundbreaking synthetic biology milestone in creating and replicating life. [Comments](https://soylentnews.org/article.pl?sid=26/07/05/1924207&amp;from=rss)
+* [OpenAI Rolls Out GPT-5.6 After Government Greenlight, Announces 'ChatGPT Work'](https://slashdot.org/story/26/07/09/1821245/openai-rolls-out-gpt-56-after-government-greenlight-announces-chatgpt-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI introduces its next generation GPT AI with a focus on professional-use capabilities.
 
-## Programming and Software Development
+* [Launch HN: Context.dev (YC S26) – API to get structured data from any website](https://www.context.dev) - A new API service offering structured data extraction from various web platforms.
 
-* [Cpp2Rust: Automatic Translation of C++ to Safe Rust](https://github.com/Cpp2Rust/cpp2rust) - A tool for converting C++ codebases into Rust, emphasizing security and safety. [Comments](https://lobste.rs/s/xyotoa/cpp2rust_automatic_translation_c_safe)
+## Scientific Discoveries and Research
 
-* [Let’s Build a Simple Interpreter for APL](https://mathspp.com/blog/lsbasi-apl-part1) - An educational dive into the fundamentals of building an APL interpreter. [Comments](https://lobste.rs/s/skiumt/let_s_build_simple_interpreter_for_apl)
+* [Record-Breaking Ocean Drilling Reveals Why Japan's 2011 Tsunami Was So Deadly](https://soylentnews.org/article.pl?sid=26/07/09/0335227&amp;from=rss) - Groundbreaking oceanic research uncovers factors contributing to the immense destruction of Japan's 2011 tsunami.
 
-* [Announcing Rust 1.97.0](https://blog.rust-lang.org/2026/07/09/Rust-1.97.0/) - The latest iteration of Rust brings new features and improvements for developers. [Comments](https://lobste.rs/s/o9edbl/announcing_rust_1_97_0)
+* [Shoebox-Sized 'Detector Satellites' Could Sniff Out a Nuclear Bomb In Space](https://science.slashdot.org/story/26/07/09/0427237/shoebox-sized-detector-satellites-could-sniff-out-a-nuclear-bomb-in-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Innovations in satellite technology aimed at detecting nuclear threats in outer space.
 
-* [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust) - The Bun team reimagines their JavaScript runtime with the safety and speed of Rust. [Comments](https://lobste.rs/s/6rkdik/rewriting_bun_rust)
+* [Rats Show Empathy, According to Model](https://soylentnews.org/article.pl?sid=26/07/08/0149218&amp;from=rss) - New animal behavior studies reveal empathetic traits in rats.
 
-* [Postgres Rewritten in Rust, Now Passing 100% of the Postgres Regression Tests](https://github.com/malisper/pgrust) - A major engineering feat as Postgres is reimplemented in Rust with full test coverage. [Comments](https://news.ycombinator.com/item?id=48841676)
+## Programming and Open Source
 
-## AI and Machine Learning
+* [Let's build a simple interpreter for APL](https://mathspp.com/blog/lsbasi-apl-part1) - Dive into creating a simplistic interpreter for the programming language APL.
 
-* [Building a Real-Time AI Tutor for 5-Year-Olds](https://www.ello.com/blog/teaching-a-child-in-1000-ms) - How AI is being applied to enhance early education. [Comments](https://news.ycombinator.com/item?id=48852199)
+* [Chatto is now Open Source](https://www.hmans.dev/blog/chatto-is-open-source) - The Chatto live-streaming engine is now available as open source.
 
-* [Meta Patents AI Device That Tracks Your Emotions, Watches You Take Your Meds](https://yro.slashdot.org/story/26/07/09/1835232/meta-patents-ai-device-that-tracks-your-emotions-watches-you-take-your-meds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A controversial AI monitoring tool raises privacy concerns. [Comments](https://yro.slashdot.org/story/26/07/09/1835232/meta-patents-ai-device-that-tracks-your-emotions-watches-you-take-your-meds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust) - A complete rewrite of Postgres database in Rust passes all regression tests.
 
-* [A Silent Workspace In Claude Mirrors Key Features of Human Consciousness](https://slashdot.org/story/26/07/08/2059254/a-silent-workspace-in-claude-mirrors-key-features-of-human-consciousness?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New AI innovations take inspiration from human cognitive processes. [Comments](https://slashdot.org/story/26/07/08/2059254/a-silent-workspace-in-claude-mirrors-key-features-of-human-consciousness?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Regulatory and Industry Changes
 
-## Industry Insights and Trends
+* [Lawmakers Probe Growing Use of Chinese AI Models In US Companies](https://news.slashdot.org/story/26/07/09/1947218/lawmakers-probe-growing-use-of-chinese-ai-models-in-us-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Examination of the implications and impact of Chinese AI technologies in American businesses.
 
-* [Why American Ambulance Rides Are So Expensive](https://davidoks.blog/p/why-american-ambulance-rides-are) - Analyzing the cost crisis in emergency healthcare services. [Comments](https://news.ycombinator.com/item?id=48853091)
+* [Google Loses Final Appeal Over $4.7 Billion EU Android Antitrust Fine](https://soylentnews.org/article.pl?sid=26/07/05/222222&amp;from=rss) - The court upholds a substantial antitrust fine against Google's Android operations.
 
-* [Google Hands Open Health Stack To the Linux Foundation](https://news.slashdot.org/story/26/07/09/1659227/google-hands-open-health-stack-to-the-linux-foundation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A significant move showcasing Google's commitment to open healthcare platforms. [Comments](https://news.slashdot.org/story/26/07/09/1659227/google-hands-open-health-stack-to-the-linux-foundation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Florida Bans Local Governments From Pursuing Net-Zero Emissions Goals](https://soylentnews.org/article.pl?sid=26/07/05/2125258&amp;from=rss) - Controversial legislation prohibits pursuit of net-zero emissions goals at the local level in Florida.
 
-* [Lawmakers Probe Growing Use of Chinese AI Models in US Companies](https://news.slashdot.org/story/26/07/09/1947218/lawmakers-probe-growing-use-of-chinese-ai-models-in-us-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Assessing the influence and security concerns of Chinese AI technology in U.S. firms. [Comments](https://news.slashdot.org/story/26/07/09/1947218/lawmakers-probe-growing-use-of-chinese-ai-models-in-us-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Cultural and Societal Impacts of Technology
 
-## Miscellaneous
+* [Parents' Phone Addiction Affects Bond With Kids, New Study Finds](https://mobile.slashdot.org/story/26/07/09/0445259/parents-phone-addiction-affects-bond-with-kids-new-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Research highlights the negative effects of parental device usage on family relationships.
 
-* [Rats Show Empathy, According to Model](https://soylentnews.org/article.pl?sid=26/07/08/0149218&amp;from=rss) - A study reveals surprising insights into the empathetic behavior of rodents. [Comments](https://soylentnews.org/article.pl?sid=26/07/08/0149218&amp;from=rss)
+* [The glass backbone: Why the Army's logistics will break in the next war](https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/) - A critical analysis of infrastructure challenges for army logistics in future conflicts.
 
-* [Peace For All – Re: Factor](https://re.factorcode.org/2026/07/peace-for-all.html) - Advocating for peace through innovative use of technology and communication tools. [Comments](https://lobste.rs/s/sy980q/peace_for_all_re_factor)
-
-* [A Bug Which Only Affected Left-Handed Users](https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/) - A surprising software bug impacts only left-handed individuals. [Comments](https://lobste.rs/s/oj9lal/bug_which_only_affected_left_handed_users)
+* [Modern Life May be Outpacing the Human Mind](https://soylentnews.org/article.pl?sid=26/07/05/1911206&amp;from=rss) - A look at whether the rapid pace of modern advancements is eclipsing human adaptability.
 
 ---
 
@@ -73,6 +71,9 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-07-10, 09:00:00](https://science.slashdot.org/story/26/07/10/0830229/nobel-winning-us-chemist-will-move-to-china-to-lead-ai-institute?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nobel-Winning US Chemist Will Move to China to Lead AI Institute](https://science.slashdot.org/story/26/07/10/0830229/nobel-winning-us-chemist-will-move-to-china-to-lead-ai-institute?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-10, 08:21:10](https://news.ycombinator.com/item?id=48857230) - [In Emacs, Everything Looks Like a Service](http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html)
+* [2026-07-10, 07:39:11](https://news.ycombinator.com/item?id=48856904) - [AI-generated videos to maximally drive a target brain region](https://nevo-project.epfl.ch/)
 * [2026-07-10, 07:30:00](https://soylentnews.org/article.pl?sid=26/07/09/0335227&amp;from=rss) - [Record-Breaking Ocean Drilling Reveals Why Japan&apos;s 2011 Tsunami Was So Deadly](https://soylentnews.org/article.pl?sid=26/07/09/0335227&amp;from=rss)
 * [2026-07-10, 05:28:45](https://lobste.rs/s/skiumt/let_s_build_simple_interpreter_for_apl) - [Let&apos;s build a simple interpreter for APL](https://mathspp.com/blog/lsbasi-apl-part1)
 * [2026-07-10, 03:30:00](https://hardware.slashdot.org/story/26/07/10/0128252/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Humanoid Robots Controlled By Surgeons Did World-First Operation On Live Pigs](https://hardware.slashdot.org/story/26/07/10/0128252/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -108,9 +109,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-09, 15:25:25](https://news.ycombinator.com/item?id=48847511) - [A possible future for Damn Interesting](https://www.damninteresting.com/a-possible-future/)
 * [2026-07-09, 15:21:30](https://lobste.rs/s/tedi5h/you_paid_me_long_time_linux_user_use) - [You paid me, a long-time Linux user, to use Windows 11 exclusively for a month: here’s how it went](https://www.osnews.com/story/145459/you-paid-me-a-long-time-linux-user-to-use-windows-11-exclusively-for-a-month-heres-how-it-went/)
 * [2026-07-09, 15:00:00](https://mobile.slashdot.org/story/26/07/09/0445259/parents-phone-addiction-affects-bond-with-kids-new-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Parents&apos; Phone Addiction Affects Bond With Kids, New Study Finds](https://mobile.slashdot.org/story/26/07/09/0445259/parents-phone-addiction-affects-bond-with-kids-new-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-09, 14:57:02](https://news.ycombinator.com/item?id=48846995) - [TLS certificates for internal services done right](https://tuxnet.dev/posts/tls-for-internal-services/)
 * [2026-07-09, 14:56:32](https://lobste.rs/s/o9edbl/announcing_rust_1_97_0) - [Announcing Rust 1.97.0](https://blog.rust-lang.org/2026/07/09/Rust-1.97.0/)
 * [2026-07-09, 14:48:28](https://lobste.rs/s/qnipw7/physically_based_pbr_values_database) - [Physically Based - The PBR values database](https://physicallybased.info)
-* [2026-07-09, 14:20:14](https://news.ycombinator.com/item?id=48846332) - [SimPolitics: America’s quest to solve politics with computers](https://mitpress.mit.edu/9780262053198/simpolitics/)
 * [2026-07-09, 14:16:34](https://news.ycombinator.com/item?id=48846281) - [No leap second will be introduced at the end of December 2026](https://datacenter.iers.org/data/latestVersion/bulletinC.txt)
 * [2026-07-09, 14:10:22](https://news.ycombinator.com/item?id=48846184) - [Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/)
 * [2026-07-09, 13:52:12](https://lobste.rs/s/ad7cm6/prolog_library_for_interfacing_with_llms) - [A Prolog library for interfacing with LLMs](https://github.com/vagos/llmpl)
@@ -131,14 +132,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-09, 04:00:00](https://yro.slashdot.org/story/26/07/09/0359202/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Food and Drug Administration Rejects Petition To Set PFAS Limits In Food](https://yro.slashdot.org/story/26/07/09/0359202/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-09, 03:08:00](https://soylentnews.org/article.pl?sid=26/07/08/0149218&amp;from=rss) - [Rats Show Empathy, According to Model](https://soylentnews.org/article.pl?sid=26/07/08/0149218&amp;from=rss)
 * [2026-07-09, 00:43:32](https://lobste.rs/s/dbakbg/interview_drew_devault_on_ai_free_version) - [Interview: Drew DeVault on an AI-free version of Vim](https://jasonpolak.substack.com/p/interview-drew-devault-on-an-ai-free)
-* [2026-07-08, 23:37:43](https://news.ycombinator.com/item?id=48838876) - [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
 * [2026-07-08, 23:00:00](https://slashdot.org/story/26/07/08/2059254/a-silent-workspace-in-claude-mirrors-key-features-of-human-consciousness?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Silent Workspace In Claude Mirrors Key Features of Human Consciousness](https://slashdot.org/story/26/07/08/2059254/a-silent-workspace-in-claude-mirrors-key-features-of-human-consciousness?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-08, 22:22:00](https://soylentnews.org/article.pl?sid=26/07/08/0147225&amp;from=rss) - [Kernel Anti-Cheat Digital Restrictions Management Technology Is an Overreach](https://soylentnews.org/article.pl?sid=26/07/08/0147225&amp;from=rss)
-* [2026-07-08, 22:00:00](https://yro.slashdot.org/story/26/07/08/2049231/john-deere-agrees-to-10-year-right-to-repair-deal-in-ftc-antitrust-lawsuit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [John Deere Agrees To 10-Year Right-To-Repair Deal In FTC Antitrust Lawsuit](https://yro.slashdot.org/story/26/07/08/2049231/john-deere-agrees-to-10-year-right-to-repair-deal-in-ftc-antitrust-lawsuit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-08, 21:50:54](https://lobste.rs/s/6rkdik/rewriting_bun_rust) - [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
 * [2026-07-08, 17:37:00](https://soylentnews.org/article.pl?sid=26/07/06/2010203&amp;from=rss) - [Zombie ‘Who Owns Unix?’ Lawsuit Comes Alive Again](https://soylentnews.org/article.pl?sid=26/07/06/2010203&amp;from=rss)
 * [2026-07-08, 16:57:26](https://lobste.rs/s/txmyod/announcing_typescript_7_0) - [Announcing TypeScript 7.0](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/)
 * [2026-07-08, 14:29:42](https://lobste.rs/s/mp42ys/obfuscated_bash_script_by_akamai_being) - [Obfuscated bash script by Akamai being supplied to consumers via retail stores](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
+* [2026-07-08, 14:12:19](https://news.ycombinator.com/item?id=48832247) - [Tiny Tapeout Explorer: WASM FET-level circuit SIM&amp;vis](https://znah.net/tiny_explorer/)
 * [2026-07-08, 14:02:44](https://lobste.rs/s/qmzekw/funding_open_source_software_without) - [Funding open-source software without compromising it](https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/)
 * [2026-07-08, 13:01:25](https://lobste.rs/s/oj9lal/bug_which_only_affected_left_handed_users) - [A bug which only affected left-handed users](https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/)
 * [2026-07-08, 12:53:00](https://soylentnews.org/article.pl?sid=26/07/06/204247&amp;from=rss) - [Paper Mill Cancer Studies Get Double the Number of Citations as Genuine Papers](https://soylentnews.org/article.pl?sid=26/07/06/204247&amp;from=rss)
@@ -149,17 +149,15 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-07, 13:13:00](https://soylentnews.org/article.pl?sid=26/07/05/2113231&amp;from=rss) - [NetNut Cracked As Google And FBI Target 2 Million-Device Botnet](https://soylentnews.org/article.pl?sid=26/07/05/2113231&amp;from=rss)
 * [2026-07-07, 08:34:00](https://soylentnews.org/article.pl?sid=26/07/05/1926209&amp;from=rss) - [Amazon is Ready to Deploy the LEO Satellite Broadband Service](https://soylentnews.org/article.pl?sid=26/07/05/1926209&amp;from=rss)
 * [2026-07-07, 03:52:00](https://soylentnews.org/article.pl?sid=26/07/05/1924207&amp;from=rss) - [For The First Time, A Cell Built From Scratch Grows And Divides](https://soylentnews.org/article.pl?sid=26/07/05/1924207&amp;from=rss)
-* [2026-07-07, 03:01:03](https://news.ycombinator.com/item?id=48813214) - [Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule](https://debasishg.github.io/blog/part1-cache-conscious-data-layout-in-rust/)
 * [2026-07-06, 23:04:00](https://soylentnews.org/article.pl?sid=26/07/05/1921216&amp;from=rss) - [David Rosenthal on the LLM Negative Feedback Loop](https://soylentnews.org/article.pl?sid=26/07/05/1921216&amp;from=rss)
 * [2026-07-06, 20:40:14](https://news.ycombinator.com/item?id=48810218) - [Common prefix skipping, adaptive sort](http://smalldatum.blogspot.com/2026/01/common-prefix-skipping-adaptive-sort.html)
 * [2026-07-06, 19:46:30](https://news.ycombinator.com/item?id=48809574) - [Girls just wanna have fast MPMC queues with bounded waiting](https://nahla.dev/blog/waitfree_queue/)
 * [2026-07-06, 18:23:00](https://soylentnews.org/article.pl?sid=26/07/05/1917212&amp;from=rss) - [Travel like it&apos;s 0 AD. ](https://soylentnews.org/article.pl?sid=26/07/05/1917212&amp;from=rss)
+* [2026-07-06, 17:18:15](https://news.ycombinator.com/item?id=48807673) - [Damaged Earth Catalog](https://damaged.bleu255.com/)
 * [2026-07-06, 15:45:50](https://news.ycombinator.com/item?id=48806305) - [Life with Hazard Ratios](https://dynomight.net/hazard-ratios/)
 * [2026-07-06, 14:59:21](https://news.ycombinator.com/item?id=48805598) - [Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future](https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/)
-* [2026-07-06, 14:42:35](https://news.ycombinator.com/item?id=48805358) - [Harman and Dr. Sean Olive are reshaping headphone sound](https://www.crutchfield.com/S-ls67Oiva4Wu/learn/crutchfield-visits-harman.html)
+* [2026-07-06, 14:42:35](https://news.ycombinator.com/item?id=48805358) - [Harman and Dr. Sean Olive are reshaping headphone sound (2025)](https://www.crutchfield.com/S-ls67Oiva4Wu/learn/crutchfield-visits-harman.html)
 * [2026-07-06, 13:42:00](https://soylentnews.org/article.pl?sid=26/07/05/1911206&amp;from=rss) - [Modern Life May be Outpacing the Human Mind](https://soylentnews.org/article.pl?sid=26/07/05/1911206&amp;from=rss)
 * [2026-07-06, 13:36:58](https://news.ycombinator.com/item?id=48804400) - [Triple Dragon Fractal (2020)](https://paulbourke.net/fractals/tripledragon/)
-* [2026-07-06, 10:53:51](https://news.ycombinator.com/item?id=48803004) - [Buried Apple feature turns an iPhone into the perfect kids&apos; dumb phone](https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/)
 * [2026-07-06, 09:00:00](https://soylentnews.org/article.pl?sid=26/07/05/092233&amp;from=rss) - [New Law Could Let Tesla Ship Cars With No Brake Pedals Installed](https://soylentnews.org/article.pl?sid=26/07/05/092233&amp;from=rss)
-* [2026-07-06, 05:26:22](https://news.ycombinator.com/item?id=48800930) - [Patterncollider: Generate and explore quasiperiodic tiling patterns](https://github.com/aatishb/patterncollider)
 * [2026-07-06, 04:16:00](https://soylentnews.org/article.pl?sid=26/07/05/0859246&amp;from=rss) - [The Weirdness of Neutrinos Could Completely Rewrite Particle Physics](https://soylentnews.org/article.pl?sid=26/07/05/0859246&amp;from=rss)
