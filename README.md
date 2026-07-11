@@ -1,46 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## AI Advancements and Controversies
 
-* [FreeCAD in the Browser](https://magik.net/freecad/) - A browser-based version of FreeCAD introduces increased accessibility for 3D modeling enthusiasts. [Comments](https://news.ycombinator.com/item?id=48867264)
+* [Apple Sues OpenAI, Accusing It of Stealing Company Secrets](https://yro.slashdot.org/story/26/07/10/2223208/apple-sues-openai-accusing-it-of-stealing-company-secrets?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://lobste.rs/s/ovbeds/i_tried_netbsd_as_desktop_it_felt_like)
 
-* [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust) - A bold recreation of PostgreSQL database in Rust achieves full regression test compliance. [Comments](https://lobste.rs/s/le3iri/postgres_rewritten_rust_now_passing_100)
+* [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf) - [Comments](https://news.ycombinator.com/item?id=48863490)
 
-* [GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/) - A serious vulnerability in Linux distributions, undetected for over a decade, uncovered. [Comments](https://news.ycombinator.com/item?id=48864969)
+* [Brown Professor Suspects Majority of His Class Used AI To Cheat](https://news.slashdot.org/story/26/07/10/2215249/brown-professor-suspects-majority-of-his-class-used-ai-to-cheat?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://news.slashdot.org/story/26/07/10/2215249/brown-professor-suspects-majority-of-his-class-used-ai-to-cheat?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth](https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/) - SpaceX ambitiously plans a drastic increase in Starlink satellites to enhance global internet coverage. [Comments](https://news.ycombinator.com/item?id=48863064)
+## Scientific Discoveries and Innovations
 
-* [Moss (YC F25) Is Hiring](https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk) - YC-backed Moss looks for developers to enhance its payment solutions for businesses. [Comments](https://news.ycombinator.com/item?id=48865332)
+* [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) - [Comments](https://news.ycombinator.com/item?id=48866134)
 
-* [Adding Go to a browser code runner](https://blog.lvmbdv.dev/posts/adding-go-to-a-browser-code-runner/) - Exploring the integration of Go in a browser-based code execution environment. [Comments](https://lobste.rs/s/qtui32/adding_go_browser_code_runner)
+* [Humanoid Robots Controlled By Surgeons Did World-First Operation On Live Pigs](https://hardware.slashdot.org/story/26/07/10/0128252/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://hardware.slashdot.org/story/26/07/10/0128252/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Science and Research
-
-* [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) - Heavy element bonding elucidated through the lens of Einstein's theory of relativity. [Comments](https://news.ycombinator.com/item?id=48866134)
-
-* [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf) - OpenAI's new GPT model allegedly proves a significant mathematical conjecture. [Comments](https://news.ycombinator.com/item?id=48863490)
-
-* [An update on residential proxies and the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/) - Complexities of scraper usage and the impact on services scrutinized. [Comments](https://news.ycombinator.com/item?id=48864252)
-
-* [Debugging performance regressions](https://hpc.guix.info/blog/2026/07/debugging-performance-regressions/) - A walkthrough of advanced techniques for identifying and resolving coding inefficiencies. [Comments](https://lobste.rs/s/ifefxo/debugging_performance_regressions)
-
-* [War Atlas: An interactive cartography of every named war in human history](https://waratlas.org) - A comprehensive visualization of historical conflicts. [Comments](https://news.ycombinator.com/item?id=48863080)
+* [For The First Time, A Cell Built From Scratch Grows And Divides](https://soylentnews.org/article.pl?sid=26/07/05/1924207&from=rss) - [Comments](https://soylentnews.org/article.pl?sid=26/07/05/1924207&from=rss)
 
 ## Cybersecurity and Privacy
 
-* [Russia Hacks Doorbell Cameras To Spy On NATO Bases](https://tech.slashdot.org/story/26/07/10/1957214/russia-hacks-doorbell-cameras-to-spy-on-nato-bases?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Reports reveal surveillance tactics using civilian technology in strategic areas. [Comments](https://news.slashdot.org/story/26/07/10/1957214/russia-hacks-doorbell-cameras-to-spy-on-nato-bases?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/) - [Comments](https://news.ycombinator.com/item?id=48864969)
 
-* [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) - Apple initiates legal action against OpenAI over potential corporate espionage. [Comments](https://news.ycombinator.com/item?id=48865019)
+* [Russia Hacks Doorbell Cameras To Spy On NATO Bases](https://tech.slashdot.org/story/26/07/10/1957214/russia-hacks-doorbell-cameras-to-spy-on-nato-bases?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://tech.slashdot.org/story/26/07/10/1957214/russia-hacks-doorbell-cameras-to-spy-on-nato-bases?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-* [Feds Demand Autonomous Vehicle Companies Stop Interfering With First Responders](https://tech.slashdot.org/story/26/07/10/1947248/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Regulatory pushback against AV technologies hindering emergency services. [Comments](https://tech.slashdot.org/story/26/07/10/1947248/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Disable Autoplay and Infinite Scroll Or Risk Massive Fines, EU Tells Meta](https://meta.slashdot.org/story/26/07/10/1737224/disable-autoplay-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://meta.slashdot.org/story/26/07/10/1737224/disable-autoplay-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Education and AI Ethics
+## Space and Satellite Advancements
 
-* [Brown Professor Suspects Majority of His Class Used AI To Cheat](https://news.slashdot.org/story/26/07/10/2215249/brown-professor-suspects-majority-of-his-class-used-ai-to-cheat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Rising academic concerns over AI-facilitated cheating in higher education. [Comments](https://news.slashdot.org/story/26/07/10/2215249/brown-professor-suspects-majority-of-his-class-used-ai-to-cheat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth](https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/) - [Comments](https://news.ycombinator.com/item?id=48863064)
 
-* [How the terrorist group Boko Haram uses frontier AI](https://casp.ac/reports/ai-enabled-terrorism) - Examination of AI's potential exploitation by extremist groups. [Comments](https://news.ycombinator.com/item?id=48863707)
+* [NASA May Send A Backup, Nuclear-Powered Mars Rover To The Moon](https://soylentnews.org/article.pl?sid=26/07/08/0155211&from=rss) - [Comments](https://soylentnews.org/article.pl?sid=26/07/08/0155211&from=rss)
 
-* [Computation as a universal and fundamental concept](https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept) - A philosophical exploration of computation's foundational role. [Comments](https://news.ycombinator.com/item?id=48861213)
+## Technology and Programming Revelations
+
+* [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust) - [Comments](https://lobste.rs/s/le3iri/postgres_rewritten_rust_now_passing_100)
+
+* [Cpp2Rust: Automatic Translation of C++ to Safe Rust](https://github.com/Cpp2Rust/cpp2rust) - [Comments](https://lobste.rs/s/xyotoa/cpp2rust_automatic_translation_c_safe)
+
+* [Zeal Z80-based computer](https://zeal8bit.com/) - [Comments](https://lobste.rs/s/yabn7v/zeal_z80_based_computer)
+
+## Historic and Cultural Insights
+
+* [War Atlas: An interactive cartography of every named war in human history](https://waratlas.org) - [Comments](https://news.ycombinator.com/item?id=48863080)
+
+* [The tech of 'Terminator 2' – an oral history (2017)](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/) - [Comments](https://news.ycombinator.com/item?id=48862365)
+
+* [Late Bronze Age Collapse](https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/) - [Comments](https://news.ycombinator.com/item?id=48858737)
 
 ---
 
@@ -67,8 +71,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-07-11, 00:44:00](https://news.ycombinator.com/item?id=48867264) - [FreeCAD in the Browser](https://magik.net/freecad/)
-* [2026-07-11, 00:39:12](https://news.ycombinator.com/item?id=48867220) - [The iconic blue IKEA FRAKTA bag comes with a free lifetime warranty](https://ikeamuseum.com/en/explore/the-story-of-ikea/beloved-bag/)
+* [2026-07-11, 04:19:31](https://lobste.rs/s/yabn7v/zeal_z80_based_computer) - [Zeal Z80-based computer](https://zeal8bit.com/)
+* [2026-07-11, 03:30:18](https://lobste.rs/s/ovbeds/i_tried_netbsd_as_desktop_it_felt_like) - [I tried NetBSD as a desktop, and it felt like stepping into the &apos;90s in a good way](https://www.howtogeek.com/i-tried-netbsd-as-a-desktop-and-it-felt-like-stepping-into-the-90s-in-a-good-way/)
+* [2026-07-11, 03:30:00](https://yro.slashdot.org/story/26/07/10/2223208/apple-sues-openai-accusing-it-of-stealing-company-secrets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Sues OpenAI, Accusing It of Stealing Company Secrets](https://yro.slashdot.org/story/26/07/10/2223208/apple-sues-openai-accusing-it-of-stealing-company-secrets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-11, 02:54:00](https://soylentnews.org/article.pl?sid=26/07/09/1625207&amp;from=rss) - [Suspecting AI Cheating, Ivy League Prof Ordered an in-Person Final; Scores Fell 50%](https://soylentnews.org/article.pl?sid=26/07/09/1625207&amp;from=rss)
 * [2026-07-10, 23:02:53](https://lobste.rs/s/kpaxih/update_on_scraper_situation) - [An update on the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/)
 * [2026-07-10, 23:00:00](https://news.slashdot.org/story/26/07/10/2215249/brown-professor-suspects-majority-of-his-class-used-ai-to-cheat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Brown Professor Suspects Majority of His Class Used AI To Cheat](https://news.slashdot.org/story/26/07/10/2215249/brown-professor-suspects-majority-of-his-class-used-ai-to-cheat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-10, 22:30:44](https://news.ycombinator.com/item?id=48866134) - [Einstein&apos;s relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
@@ -84,9 +90,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-10, 19:12:27](https://lobste.rs/s/6fmohi/package_management_as_org_chart) - [Package Management as Org Chart](https://nesbitt.io/2026/07/10/package-management-as-org-chart.html)
 * [2026-07-10, 19:05:12](https://lobste.rs/s/le3iri/postgres_rewritten_rust_now_passing_100) - [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust)
 * [2026-07-10, 19:00:00](https://meta.slashdot.org/story/26/07/10/1737224/disable-autoplay-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Disable Autoplay and Infinite Scroll Or Risk Massive Fines, EU Tells Meta](https://meta.slashdot.org/story/26/07/10/1737224/disable-autoplay-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-10, 18:49:26](https://news.ycombinator.com/item?id=48863707) - [How the terrorist group Boko Haram uses frontier AI](https://casp.ac/reports/ai-enabled-terrorism)
 * [2026-07-10, 18:29:19](https://news.ycombinator.com/item?id=48863490) - [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf)
-* [2026-07-10, 18:26:24](https://news.ycombinator.com/item?id=48863464) - [New York City to to ban deceptive subscription practices](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban)
+* [2026-07-10, 18:26:24](https://news.ycombinator.com/item?id=48863464) - [New York City to ban deceptive subscription practices](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban)
 * [2026-07-10, 18:03:05](https://lobste.rs/s/ifefxo/debugging_performance_regressions) - [Debugging performance regressions](https://hpc.guix.info/blog/2026/07/debugging-performance-regressions/)
 * [2026-07-10, 18:00:58](https://lobste.rs/s/mcrqed/running_1000_tests_1s_2022) - [Running 1000 tests in 1s (2022)](https://marvinh.dev/blog/running-1000-test-in-1s/)
 * [2026-07-10, 18:00:00](https://entertainment.slashdot.org/story/26/07/10/1727227/disney-explores-a-free-tier-as-youtube-draws-tv-viewers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Disney+ Explores a Free Tier As YouTube Draws TV Viewers](https://entertainment.slashdot.org/story/26/07/10/1727227/disney-explores-a-free-tier-as-youtube-draws-tv-viewers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -105,6 +110,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-10, 15:30:44](https://news.ycombinator.com/item?id=48861319) - [A love letter to flashcards](https://lesleylai.info/en/flashcards/)
 * [2026-07-10, 15:23:42](https://news.ycombinator.com/item?id=48861213) - [Computation as a universal and fundamental concept](https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept)
 * [2026-07-10, 15:00:00](https://slashdot.org/story/26/07/10/052227/openais-ceo-of-agi-deployment-fidji-simo-is-stepping-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI&apos;s CEO of AGI Deployment, Fidji Simo, Is Stepping Down](https://slashdot.org/story/26/07/10/052227/openais-ceo-of-agi-deployment-fidji-simo-is-stepping-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-10, 13:31:08](https://news.ycombinator.com/item?id=48859678) - [Successful Companies Go Blind](https://ianreppel.org/how-successful-companies-go-blind/)
 * [2026-07-10, 13:30:41](https://news.ycombinator.com/item?id=48859673) - [After 7 years in production, Scarf has reluctantly moved away from Haskell](https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html)
 * [2026-07-10, 12:17:00](https://soylentnews.org/article.pl?sid=26/07/09/0339222&amp;from=rss) - [Back to Basics, or Masm. Writing a Tiny Notepad for W11.](https://soylentnews.org/article.pl?sid=26/07/09/0339222&amp;from=rss)
 * [2026-07-10, 12:01:41](https://lobste.rs/s/ey7far/two_ways_design) - [Two Ways To Design](https://wiki.c2.com/?TwoWaysToDesign)
@@ -113,18 +119,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-10, 10:44:48](https://lobste.rs/s/u9yf5l/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/u9yf5l/what_are_you_doing_this_weekend)
 * [2026-07-10, 10:32:41](https://news.ycombinator.com/item?id=48858121) - [Good Tools Are Invisible](https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/)
 * [2026-07-10, 09:00:00](https://science.slashdot.org/story/26/07/10/0830229/nobel-winning-us-chemist-will-move-to-china-to-lead-ai-institute?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Nobel-Winning US Chemist Will Move to China to Lead AI Institute](https://science.slashdot.org/story/26/07/10/0830229/nobel-winning-us-chemist-will-move-to-china-to-lead-ai-institute?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-10, 08:21:10](https://news.ycombinator.com/item?id=48857230) - [In Emacs, everything looks like a service](http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html)
 * [2026-07-10, 07:30:00](https://soylentnews.org/article.pl?sid=26/07/09/0335227&amp;from=rss) - [Record-Breaking Ocean Drilling Reveals Why Japan&apos;s 2011 Tsunami Was So Deadly](https://soylentnews.org/article.pl?sid=26/07/09/0335227&amp;from=rss)
-* [2026-07-10, 05:28:45](https://lobste.rs/s/skiumt/let_s_build_simple_interpreter_for_apl) - [Let&apos;s build a simple interpreter for APL](https://mathspp.com/blog/lsbasi-apl-part1)
 * [2026-07-10, 03:30:00](https://hardware.slashdot.org/story/26/07/10/0128252/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Humanoid Robots Controlled By Surgeons Did World-First Operation On Live Pigs](https://hardware.slashdot.org/story/26/07/10/0128252/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-10, 03:24:53](https://lobste.rs/s/xyotoa/cpp2rust_automatic_translation_c_safe) - [Cpp2Rust: Automatic Translation of C++ to Safe Rust](https://github.com/Cpp2Rust/cpp2rust)
 * [2026-07-10, 02:46:00](https://soylentnews.org/article.pl?sid=26/07/09/0329217&amp;from=rss) - [Bethesda, Id Software Reportedly Hit Hard by Microsoft Layoffs](https://soylentnews.org/article.pl?sid=26/07/09/0329217&amp;from=rss)
-* [2026-07-10, 01:25:59](https://lobste.rs/s/2jgiax/superoptimizer_look_at_smallest_program) - [Superoptimizer -- A Look at the Smallest Program](https://dl.acm.org/doi/epdf/10.1145/36177.36194)
 * [2026-07-10, 00:46:25](https://lobste.rs/s/e85zgh/road_lisp_why_lisp) - [A road to Lisp: Why Lisp](https://scotto.me/blog/2026-07-09-why-lisp/)
 * [2026-07-09, 23:00:00](https://news.slashdot.org/story/26/07/09/1947218/lawmakers-probe-growing-use-of-chinese-ai-models-in-us-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Lawmakers Probe Growing Use of Chinese AI Models In US Companies ](https://news.slashdot.org/story/26/07/09/1947218/lawmakers-probe-growing-use-of-chinese-ai-models-in-us-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-09, 22:06:00](https://soylentnews.org/article.pl?sid=26/07/08/0159235&amp;from=rss) - [Interoception:  the Sense of How You Feel Inside](https://soylentnews.org/article.pl?sid=26/07/08/0159235&amp;from=rss)
 * [2026-07-09, 22:00:00](https://tech.slashdot.org/story/26/07/09/1829252/google-search-hits-all-time-usage-record?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Search Hits All-Time Usage Record](https://tech.slashdot.org/story/26/07/09/1829252/google-search-hits-all-time-usage-record?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-09, 21:00:00](https://yro.slashdot.org/story/26/07/09/1835232/meta-patents-ai-device-that-tracks-your-emotions-watches-you-take-your-meds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Patents AI Device That Tracks Your Emotions, Watches You Take Your Meds](https://yro.slashdot.org/story/26/07/09/1835232/meta-patents-ai-device-that-tracks-your-emotions-watches-you-take-your-meds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-09, 20:36:43](https://lobste.rs/s/lep7wh/how_build_circular_lcd_clock) - [How to build a circular LCD clock](https://blinry.org/lcd-clock/)
 * [2026-07-09, 20:06:04](https://lobste.rs/s/eehcpl/page_weight_matters) - [Page weight matters](https://nh3.dev/blog/05-bloat)
 * [2026-07-09, 17:23:00](https://soylentnews.org/article.pl?sid=26/07/08/0155211&amp;from=rss) - [NASA May Send A Backup, Nuclear-Powered Mars Rover To The Moon](https://soylentnews.org/article.pl?sid=26/07/08/0155211&amp;from=rss)
@@ -137,6 +139,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-09, 12:32:00](https://soylentnews.org/article.pl?sid=26/07/08/0153215&amp;from=rss) - [The Twenty-Ninth International Obfuscated C Code Contest is back](https://soylentnews.org/article.pl?sid=26/07/08/0153215&amp;from=rss)
 * [2026-07-09, 11:16:18](https://news.ycombinator.com/item?id=48844046) - [Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine](https://github.com/dicroce/wyrm_math)
 * [2026-07-09, 08:23:07](https://lobste.rs/s/v5hkjy/two_case_studies_nan) - [two case studies of NaN](https://sebsite.pw/w/20260709-nan.html)
+* [2026-07-09, 08:05:04](https://news.ycombinator.com/item?id=48842459) - [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri)
 * [2026-07-09, 07:51:00](https://soylentnews.org/article.pl?sid=26/07/08/0151252&amp;from=rss) - [The Supreme Court Just Lit a Fuse Under Flock&apos;s License Plate Camera Empire](https://soylentnews.org/article.pl?sid=26/07/08/0151252&amp;from=rss)
 * [2026-07-09, 03:08:00](https://soylentnews.org/article.pl?sid=26/07/08/0149218&amp;from=rss) - [Rats Show Empathy, According to Model](https://soylentnews.org/article.pl?sid=26/07/08/0149218&amp;from=rss)
 * [2026-07-08, 22:22:00](https://soylentnews.org/article.pl?sid=26/07/08/0147225&amp;from=rss) - [Kernel Anti-Cheat Digital Restrictions Management Technology Is an Overreach](https://soylentnews.org/article.pl?sid=26/07/08/0147225&amp;from=rss)
@@ -146,10 +149,13 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-08, 12:53:00](https://soylentnews.org/article.pl?sid=26/07/06/204247&amp;from=rss) - [Paper Mill Cancer Studies Get Double the Number of Citations as Genuine Papers](https://soylentnews.org/article.pl?sid=26/07/06/204247&amp;from=rss)
 * [2026-07-08, 08:05:00](https://soylentnews.org/article.pl?sid=26/07/06/1957237&amp;from=rss) - [South Korea to Spend $1T on More Memory Chip Production and Humanoid Robots](https://soylentnews.org/article.pl?sid=26/07/06/1957237&amp;from=rss)
 * [2026-07-08, 03:21:00](https://soylentnews.org/article.pl?sid=26/07/05/222222&amp;from=rss) - [Google Loses Final Appeal Over $4.7 Billion EU Android Antitrust Fine](https://soylentnews.org/article.pl?sid=26/07/05/222222&amp;from=rss)
+* [2026-07-07, 23:06:09](https://news.ycombinator.com/item?id=48825216) - [Silent speech with ultrasound](https://alephneuro.com/blog/silent-speech)
 * [2026-07-07, 22:44:00](https://soylentnews.org/article.pl?sid=26/07/05/2151242&amp;from=rss) - [New Attack Provides One More Reason Why AI Browsers Are A Bad Idea](https://soylentnews.org/article.pl?sid=26/07/05/2151242&amp;from=rss)
 * [2026-07-07, 18:00:00](https://soylentnews.org/article.pl?sid=26/07/05/2125258&amp;from=rss) - [Florida Bans Local Governments From Pursuing Net-Zero Emissions Goals](https://soylentnews.org/article.pl?sid=26/07/05/2125258&amp;from=rss)
 * [2026-07-07, 13:30:17](https://news.ycombinator.com/item?id=48817539) - [An iroh powered smart fan](https://www.iroh.computer/blog/an-iroh-powered-smart-fan)
 * [2026-07-07, 13:13:00](https://soylentnews.org/article.pl?sid=26/07/05/2113231&amp;from=rss) - [NetNut Cracked As Google And FBI Target 2 Million-Device Botnet](https://soylentnews.org/article.pl?sid=26/07/05/2113231&amp;from=rss)
+* [2026-07-07, 13:05:15](https://news.ycombinator.com/item?id=48817218) - [Show HN: Phobos – A tiny scale-free kernel language with tile-DAG support](https://www.joa-ebert.com/posts/2026-07-07-phobos-lang/)
 * [2026-07-07, 08:34:00](https://soylentnews.org/article.pl?sid=26/07/05/1926209&amp;from=rss) - [Amazon is Ready to Deploy the LEO Satellite Broadband Service](https://soylentnews.org/article.pl?sid=26/07/05/1926209&amp;from=rss)
 * [2026-07-07, 06:06:25](https://news.ycombinator.com/item?id=48814170) - [Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit](https://mimo.xiaomi.com/blog/mimo-v2-5-inference)
 * [2026-07-07, 03:52:00](https://soylentnews.org/article.pl?sid=26/07/05/1924207&amp;from=rss) - [For The First Time, A Cell Built From Scratch Grows And Divides](https://soylentnews.org/article.pl?sid=26/07/05/1924207&amp;from=rss)
+* [2026-07-07, 03:04:46](https://news.ycombinator.com/item?id=48813246) - [The footgun of right-to-left decorative characters](https://blog.alexbeals.com/posts/the-footgun-of-right-to-left-decorative-characters)
