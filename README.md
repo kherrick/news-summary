@@ -1,50 +1,60 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI Advancements and Controversies
+## Technological Innovations
 
-* [Apple Sues OpenAI, Accusing It of Stealing Company Secrets](https://yro.slashdot.org/story/26/07/10/2223208/apple-sues-openai-accusing-it-of-stealing-company-secrets?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://lobste.rs/s/ovbeds/i_tried_netbsd_as_desktop_it_felt_like)
+* [China Lands Rocket During an Orbital Launch For First Time](https://science.slashdot.org/story/26/07/10/1840220/china-lands-rocket-during-an-orbital-launch-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A significant milestone for China's space program as they succeed in landing a rocket during an orbital launch, marking a new era in reusable launch technology.
 
-* [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf) - [Comments](https://news.ycombinator.com/item?id=48863490)
+* [Zeal Z80-based computer](https://zeal8bit.com/) - A deep dive into the Zeal project, which showcases a Z80-based computer for retro enthusiasts and hardware tinkerers.
 
-* [Brown Professor Suspects Majority of His Class Used AI To Cheat](https://news.slashdot.org/story/26/07/10/2215249/brown-professor-suspects-majority-of-his-class-used-ai-to-cheat?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://news.slashdot.org/story/26/07/10/2215249/brown-professor-suspects-majority-of-his-class-used-ai-to-cheat?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [I tried NetBSD as a desktop, and it felt like stepping into the '90s in a good way](https://www.howtogeek.com/i-tried-netbsd-as-a-desktop-and-it-felt-like-stepping-into-the-90s-in-a-good-way/) - Exploring the nostalgic experience of running NetBSD as a desktop operating system.
 
-## Scientific Discoveries and Innovations
+* [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf) - The latest iteration of GPT AI produces a mathematical proof, demonstrating advancements in AI's capabilities.
 
-* [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) - [Comments](https://news.ycombinator.com/item?id=48866134)
+* [Humanoid Robots Controlled By Surgeons Did World-First Operation On Live Pigs](https://hardware.slashdot.org/story/26/07/10/0128252/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A breakthrough in surgical robotics with operating humanoids performing procedures on live animals.
 
-* [Humanoid Robots Controlled By Surgeons Did World-First Operation On Live Pigs](https://hardware.slashdot.org/story/26/07/10/0128252/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://hardware.slashdot.org/story/26/07/10/0128252/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [War Atlas: An interactive cartography of every named war in human history](https://waratlas.org) - An innovative platform cataloging every named war throughout history in an interactive and navigable format.
 
-* [For The First Time, A Cell Built From Scratch Grows And Divides](https://soylentnews.org/article.pl?sid=26/07/05/1924207&from=rss) - [Comments](https://soylentnews.org/article.pl?sid=26/07/05/1924207&from=rss)
+## Artificial Intelligence and Ethics
 
-## Cybersecurity and Privacy
+* [Apple Sues OpenAI, Accusing It of Stealing Company Secrets](https://yro.slashdot.org/story/26/07/10/2223208/apple-sues-openai-accusing-it-of-stealing-company-secrets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Apple takes legal action against OpenAI over allegations of trade secret theft.
 
-* [GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/) - [Comments](https://news.ycombinator.com/item?id=48864969)
+* [Suspecting AI Cheating, Ivy League Prof Ordered an in-Person Final; Scores Fell 50%](https://soylentnews.org/article.pl?sid=26/07/09/1625207&amp;from=rss) - A professor examines the consequences of suspected AI-aided cheating, revealing major shifts in student performance during in-person finals.
 
-* [Russia Hacks Doorbell Cameras To Spy On NATO Bases](https://tech.slashdot.org/story/26/07/10/1957214/russia-hacks-doorbell-cameras-to-spy-on-nato-bases?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://tech.slashdot.org/story/26/07/10/1957214/russia-hacks-doorbell-cameras-to-spy-on-nato-bases?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Brown Professor Suspects Majority of His Class Used AI To Cheat](https://news.slashdot.org/story/26/07/10/2215249/brown-professor-suspects-majority-of-his-class-used-ai-to-cheat?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Insights into the challenges educators face with increased usage of AI tools in academic settings.
 
-* [Disable Autoplay and Infinite Scroll Or Risk Massive Fines, EU Tells Meta](https://meta.slashdot.org/story/26/07/10/1737224/disable-autoplay-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://meta.slashdot.org/story/26/07/10/1737224/disable-autoplay-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [AI 2040: Plan A](https://ai-2040.com/) - A futuristic perspective on how artificial intelligence might shape life by the year 2040.
 
-## Space and Satellite Advancements
+## Software Development and Cybersecurity
 
-* [SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth](https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/) - [Comments](https://news.ycombinator.com/item?id=48863064)
+* [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust) - An ambitious project to rewrite Postgres in the safe and modern Rust programming language achieves a milestone.
 
-* [NASA May Send A Backup, Nuclear-Powered Mars Rover To The Moon](https://soylentnews.org/article.pl?sid=26/07/08/0155211&from=rss) - [Comments](https://soylentnews.org/article.pl?sid=26/07/08/0155211&from=rss)
+* [GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/) - Disclosure of a potential security flaw impacting Linux distributions for over a decade.
 
-## Technology and Programming Revelations
+* [Cpp2Rust: Automatic Translation of C++ to Safe Rust](https://github.com/Cpp2Rust/cpp2rust) - An automated tool for translating C++ code to safe Rust is introduced, emphasizing memory safety and modern coding practices.
 
-* [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust) - [Comments](https://lobste.rs/s/le3iri/postgres_rewritten_rust_now_passing_100)
+## Academic and Scientific Discoveries
 
-* [Cpp2Rust: Automatic Translation of C++ to Safe Rust](https://github.com/Cpp2Rust/cpp2rust) - [Comments](https://lobste.rs/s/xyotoa/cpp2rust_automatic_translation_c_safe)
+* [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) - A novel study reveals how Einstein's theories influence the behavior of chemical bonds in heavy elements.
 
-* [Zeal Z80-based computer](https://zeal8bit.com/) - [Comments](https://lobste.rs/s/yabn7v/zeal_z80_based_computer)
+* [Record-Breaking Ocean Drilling Reveals Why Japan's 2011 Tsunami Was So Deadly](https://soylentnews.org/article.pl?sid=26/07/09/0335227&amp;from=rss) - Scientific breakthroughs on the geological factors that contributed to the devastation of Japan's 2011 tsunami.
 
-## Historic and Cultural Insights
+* [Silent speech with ultrasound](https://alephneuro.com/blog/silent-speech) - An innovative exploration into reading speech using ultrasound technology, without audible cues.
 
-* [War Atlas: An interactive cartography of every named war in human history](https://waratlas.org) - [Comments](https://news.ycombinator.com/item?id=48863080)
+## Business and Industry Updates
 
-* [The tech of 'Terminator 2' – an oral history (2017)](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/) - [Comments](https://news.ycombinator.com/item?id=48862365)
+* [SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth](https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/) - SpaceX's ambitious plans to expand its Starlink satellite network for significantly increased global connectivity.
 
-* [Late Bronze Age Collapse](https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/) - [Comments](https://news.ycombinator.com/item?id=48858737)
+* [Qualcomm Buys Lattner's Modular for Almost $4bn](https://soylentnews.org/article.pl?sid=26/07/09/0348202&amp;from=rss) - Qualcomm makes a significant acquisition, strengthening its position in modular technology.
+
+* [Disney+ Explores a Free Tier As YouTube Draws TV Viewers](https://entertainment.slashdot.org/story/26/07/10/1727227/disney-explores-a-free-tier-as-youtube-draws-tv-viewers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Disney+ considers ad-supported free-tier offerings to compete with YouTube's growing dominance.
+
+## Cultural and Historical Highlights
+
+* [The vintage beauty of Soviet control rooms (2018)](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/) - A nostalgic appreciation of the aesthetics and design of Soviet-era control rooms.
+
+* [Late Bronze Age Collapse](https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/) - An exploration of one of history's major societal declines and its underlying causes.
+
+* [The tech of 'Terminator 2' – an oral history (2017)](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/) - A retrospective look at the groundbreaking technology behind the iconic film *Terminator 2: Judgment Day*.
 
 ---
 
@@ -71,6 +81,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-07-11, 07:00:00](https://science.slashdot.org/story/26/07/10/1840220/china-lands-rocket-during-an-orbital-launch-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China Lands Rocket During an Orbital Launch For First Time](https://science.slashdot.org/story/26/07/10/1840220/china-lands-rocket-during-an-orbital-launch-for-first-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-11, 06:09:33](https://news.ycombinator.com/item?id=48869243) - [What&apos;s the best way to do authentication in modern applications](https://neciudan.dev/most-secure-way-to-store-auth-token)
+* [2026-07-11, 05:24:30](https://lobste.rs/s/vhbvwc/i_converted_android_app_webpage) - [I converted an Android app to a webpage](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/)
+* [2026-07-11, 05:19:41](https://news.ycombinator.com/item?id=48868996) - [The vintage beauty of Soviet control rooms (2018)](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
 * [2026-07-11, 04:19:31](https://lobste.rs/s/yabn7v/zeal_z80_based_computer) - [Zeal Z80-based computer](https://zeal8bit.com/)
 * [2026-07-11, 03:30:18](https://lobste.rs/s/ovbeds/i_tried_netbsd_as_desktop_it_felt_like) - [I tried NetBSD as a desktop, and it felt like stepping into the &apos;90s in a good way](https://www.howtogeek.com/i-tried-netbsd-as-a-desktop-and-it-felt-like-stepping-into-the-90s-in-a-good-way/)
 * [2026-07-11, 03:30:00](https://yro.slashdot.org/story/26/07/10/2223208/apple-sues-openai-accusing-it-of-stealing-company-secrets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Sues OpenAI, Accusing It of Stealing Company Secrets](https://yro.slashdot.org/story/26/07/10/2223208/apple-sues-openai-accusing-it-of-stealing-company-secrets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -110,7 +124,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-10, 15:30:44](https://news.ycombinator.com/item?id=48861319) - [A love letter to flashcards](https://lesleylai.info/en/flashcards/)
 * [2026-07-10, 15:23:42](https://news.ycombinator.com/item?id=48861213) - [Computation as a universal and fundamental concept](https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept)
 * [2026-07-10, 15:00:00](https://slashdot.org/story/26/07/10/052227/openais-ceo-of-agi-deployment-fidji-simo-is-stepping-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI&apos;s CEO of AGI Deployment, Fidji Simo, Is Stepping Down](https://slashdot.org/story/26/07/10/052227/openais-ceo-of-agi-deployment-fidji-simo-is-stepping-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-10, 13:31:08](https://news.ycombinator.com/item?id=48859678) - [Successful Companies Go Blind](https://ianreppel.org/how-successful-companies-go-blind/)
 * [2026-07-10, 13:30:41](https://news.ycombinator.com/item?id=48859673) - [After 7 years in production, Scarf has reluctantly moved away from Haskell](https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html)
 * [2026-07-10, 12:17:00](https://soylentnews.org/article.pl?sid=26/07/09/0339222&amp;from=rss) - [Back to Basics, or Masm. Writing a Tiny Notepad for W11.](https://soylentnews.org/article.pl?sid=26/07/09/0339222&amp;from=rss)
 * [2026-07-10, 12:01:41](https://lobste.rs/s/ey7far/two_ways_design) - [Two Ways To Design](https://wiki.c2.com/?TwoWaysToDesign)
@@ -126,7 +139,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-10, 00:46:25](https://lobste.rs/s/e85zgh/road_lisp_why_lisp) - [A road to Lisp: Why Lisp](https://scotto.me/blog/2026-07-09-why-lisp/)
 * [2026-07-09, 23:00:00](https://news.slashdot.org/story/26/07/09/1947218/lawmakers-probe-growing-use-of-chinese-ai-models-in-us-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Lawmakers Probe Growing Use of Chinese AI Models In US Companies ](https://news.slashdot.org/story/26/07/09/1947218/lawmakers-probe-growing-use-of-chinese-ai-models-in-us-companies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-09, 22:06:00](https://soylentnews.org/article.pl?sid=26/07/08/0159235&amp;from=rss) - [Interoception:  the Sense of How You Feel Inside](https://soylentnews.org/article.pl?sid=26/07/08/0159235&amp;from=rss)
-* [2026-07-09, 22:00:00](https://tech.slashdot.org/story/26/07/09/1829252/google-search-hits-all-time-usage-record?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Search Hits All-Time Usage Record](https://tech.slashdot.org/story/26/07/09/1829252/google-search-hits-all-time-usage-record?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-09, 20:36:43](https://lobste.rs/s/lep7wh/how_build_circular_lcd_clock) - [How to build a circular LCD clock](https://blinry.org/lcd-clock/)
 * [2026-07-09, 20:06:04](https://lobste.rs/s/eehcpl/page_weight_matters) - [Page weight matters](https://nh3.dev/blog/05-bloat)
 * [2026-07-09, 17:23:00](https://soylentnews.org/article.pl?sid=26/07/08/0155211&amp;from=rss) - [NASA May Send A Backup, Nuclear-Powered Mars Rover To The Moon](https://soylentnews.org/article.pl?sid=26/07/08/0155211&amp;from=rss)
@@ -137,24 +149,22 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-09, 14:56:32](https://lobste.rs/s/o9edbl/announcing_rust_1_97_0) - [Announcing Rust 1.97.0](https://blog.rust-lang.org/2026/07/09/Rust-1.97.0/)
 * [2026-07-09, 12:53:46](https://lobste.rs/s/3eo2nv/i_did_not_kill_stanley_lieber_how_draw_with) - [I Did Not Kill Stanley Lieber: How to draw (with 9front)](https://triapul.cz/automa/i_did_not_kill_stanley_lieber)
 * [2026-07-09, 12:32:00](https://soylentnews.org/article.pl?sid=26/07/08/0153215&amp;from=rss) - [The Twenty-Ninth International Obfuscated C Code Contest is back](https://soylentnews.org/article.pl?sid=26/07/08/0153215&amp;from=rss)
-* [2026-07-09, 11:16:18](https://news.ycombinator.com/item?id=48844046) - [Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine](https://github.com/dicroce/wyrm_math)
 * [2026-07-09, 08:23:07](https://lobste.rs/s/v5hkjy/two_case_studies_nan) - [two case studies of NaN](https://sebsite.pw/w/20260709-nan.html)
 * [2026-07-09, 08:05:04](https://news.ycombinator.com/item?id=48842459) - [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri)
 * [2026-07-09, 07:51:00](https://soylentnews.org/article.pl?sid=26/07/08/0151252&amp;from=rss) - [The Supreme Court Just Lit a Fuse Under Flock&apos;s License Plate Camera Empire](https://soylentnews.org/article.pl?sid=26/07/08/0151252&amp;from=rss)
 * [2026-07-09, 03:08:00](https://soylentnews.org/article.pl?sid=26/07/08/0149218&amp;from=rss) - [Rats Show Empathy, According to Model](https://soylentnews.org/article.pl?sid=26/07/08/0149218&amp;from=rss)
 * [2026-07-08, 22:22:00](https://soylentnews.org/article.pl?sid=26/07/08/0147225&amp;from=rss) - [Kernel Anti-Cheat Digital Restrictions Management Technology Is an Overreach](https://soylentnews.org/article.pl?sid=26/07/08/0147225&amp;from=rss)
-* [2026-07-08, 21:50:54](https://lobste.rs/s/6rkdik/rewriting_bun_rust) - [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
 * [2026-07-08, 17:37:00](https://soylentnews.org/article.pl?sid=26/07/06/2010203&amp;from=rss) - [Zombie ‘Who Owns Unix?’ Lawsuit Comes Alive Again](https://soylentnews.org/article.pl?sid=26/07/06/2010203&amp;from=rss)
 * [2026-07-08, 13:38:04](https://news.ycombinator.com/item?id=48831814) - [Preemption is GC for memory reordering (2019)](https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/)
 * [2026-07-08, 12:53:00](https://soylentnews.org/article.pl?sid=26/07/06/204247&amp;from=rss) - [Paper Mill Cancer Studies Get Double the Number of Citations as Genuine Papers](https://soylentnews.org/article.pl?sid=26/07/06/204247&amp;from=rss)
 * [2026-07-08, 08:05:00](https://soylentnews.org/article.pl?sid=26/07/06/1957237&amp;from=rss) - [South Korea to Spend $1T on More Memory Chip Production and Humanoid Robots](https://soylentnews.org/article.pl?sid=26/07/06/1957237&amp;from=rss)
+* [2026-07-08, 05:20:31](https://news.ycombinator.com/item?id=48827834) - [The Lindy effect in software](https://www.clemsau.com/posts/the-lindy-effect-in-software/)
 * [2026-07-08, 03:21:00](https://soylentnews.org/article.pl?sid=26/07/05/222222&amp;from=rss) - [Google Loses Final Appeal Over $4.7 Billion EU Android Antitrust Fine](https://soylentnews.org/article.pl?sid=26/07/05/222222&amp;from=rss)
 * [2026-07-07, 23:06:09](https://news.ycombinator.com/item?id=48825216) - [Silent speech with ultrasound](https://alephneuro.com/blog/silent-speech)
 * [2026-07-07, 22:44:00](https://soylentnews.org/article.pl?sid=26/07/05/2151242&amp;from=rss) - [New Attack Provides One More Reason Why AI Browsers Are A Bad Idea](https://soylentnews.org/article.pl?sid=26/07/05/2151242&amp;from=rss)
 * [2026-07-07, 18:00:00](https://soylentnews.org/article.pl?sid=26/07/05/2125258&amp;from=rss) - [Florida Bans Local Governments From Pursuing Net-Zero Emissions Goals](https://soylentnews.org/article.pl?sid=26/07/05/2125258&amp;from=rss)
 * [2026-07-07, 13:30:17](https://news.ycombinator.com/item?id=48817539) - [An iroh powered smart fan](https://www.iroh.computer/blog/an-iroh-powered-smart-fan)
 * [2026-07-07, 13:13:00](https://soylentnews.org/article.pl?sid=26/07/05/2113231&amp;from=rss) - [NetNut Cracked As Google And FBI Target 2 Million-Device Botnet](https://soylentnews.org/article.pl?sid=26/07/05/2113231&amp;from=rss)
-* [2026-07-07, 13:05:15](https://news.ycombinator.com/item?id=48817218) - [Show HN: Phobos – A tiny scale-free kernel language with tile-DAG support](https://www.joa-ebert.com/posts/2026-07-07-phobos-lang/)
 * [2026-07-07, 08:34:00](https://soylentnews.org/article.pl?sid=26/07/05/1926209&amp;from=rss) - [Amazon is Ready to Deploy the LEO Satellite Broadband Service](https://soylentnews.org/article.pl?sid=26/07/05/1926209&amp;from=rss)
 * [2026-07-07, 06:06:25](https://news.ycombinator.com/item?id=48814170) - [Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit](https://mimo.xiaomi.com/blog/mimo-v2-5-inference)
 * [2026-07-07, 03:52:00](https://soylentnews.org/article.pl?sid=26/07/05/1924207&amp;from=rss) - [For The First Time, A Cell Built From Scratch Grows And Divides](https://soylentnews.org/article.pl?sid=26/07/05/1924207&amp;from=rss)
