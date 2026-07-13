@@ -1,56 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology Developments
+## Tech Innovations and Discussions
 
-* [Linus Torvalds on AI, Junk Patches, Humans, and Godzilla](https://linux.slashdot.org/story/26/07/12/2053201/linus-torvalds-on-ai-junk-patches-humans-and-godzilla?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Linus Torvalds shares his perspective on artificial intelligence and its implications, while addressing the relevance of humans in an AI-driven future.
+* [MacKenzie Scott's Giving, in Quality-Adjusted Life Years (QALYs)](https://maxghenis.com/mackenzie-scott-qaly/) ([Comments](https://news.ycombinator.com/item?id=48886311)) - Analyzing charitable contributions through the lens of QALYs to evaluate the efficiency of donation impacts.
 
-* [Meta Removes Controversial AI Feature On Instagram After Backlash](https://tech.slashdot.org/story/26/07/12/0150219/meta-removes-controversial-ai-feature-on-instagram-after-backlash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Meta has decided to remove an AI feature from Instagram following public criticism.
+* [Overhauled homelab](https://timharek.no/blog/kaizen-4/) ([Comments](https://lobste.rs/s/feikm9/overhauled_homelab)) - Reflections on personal tech infrastructure improvements in a detailed homelab overhaul.
 
-* [Mechanistic interpretability researchers applying causality theory to LLMs](https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/) - Researchers are leveraging causality theory to improve the understanding and explainability of large language models (LLMs).
+* [Profiling the 'Abundance' housing bottleneck with real data](https://laxmena.com/same-capacity-less-throughput) ([Comments](https://news.ycombinator.com/item?id=48885138)) - Examining housing shortages using real-world throughput data for better urban planning.
 
-* [Adaptive Recall, persistent memory for AI assistants over MCP](https://www.adaptiverecall.com/) - A new persistent memory system aims to enhance the capabilities of AI assistants, utilizing MCP for adaptive recall.
+## AI and Machine Learning
 
-## Digital Security and Privacy
+* [Mechanistic interpretability researchers applying causality theory to LLMs](https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/) ([Comments](https://news.ycombinator.com/item?id=48883090)) - A deeper dive into how researchers aim to deconstruct machine reasoning through causality theory.
 
-* [Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/) - A new method of fingerprinting operating systems using the Math.tanh function in Chromium 148 raises privacy concerns.
+* [I love LLMs, I hate hype](https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html) ([Comments](https://news.ycombinator.com/item?id=48883343)) - A balanced critique of large language models amidst the surrounding media hype.
 
-* [The State of MCP Security [pdf]](https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf) - An in-depth analysis of current vulnerabilities and the evolving landscape of MCP security.
+## Security and Privacy
 
-* [Unauthenticated RCE in Motorola&apos;s MR2600 Router](https://mrbruh.com/motorola/) - A newly discovered remote code execution vulnerability in Motorola's MR2600 router raises security alarm.
+* [Hacking Apple - SQL Injection to Remote Code Execution](https://projectdiscovery.io/blog/hacking-apple-with-sql-injection) ([Comments](https://lobste.rs/s/axamxi/hacking_apple_sql_injection_remote_code)) - A detailed breakdown of vulnerabilities in Apple's systems leading to remote code execution.
 
-* [Hacking Apple - SQL Injection to Remote Code Execution](https://projectdiscovery.io/blog/hacking-apple-with-sql-injection) - A detailed dive into a security issue in Apple's system that allowed attackers to perform SQL injection attacks, leading to remote code execution.
+* [Unauthenticated RCE in Motorola's MR2600 Router](https://mrbruh.com/motorola/) ([Comments](https://lobste.rs/s/s1jwea/unauthenticated_rce_motorola_s_mr2600)) - Security risks explored in Motorola's MR2600 Router and potential preventative measures.
 
-* [Facial Recognition in UK Shops Will Soon Instantly Alert Police About Offenders](https://news.slashdot.org/story/26/07/12/0259226/facial-recognition-in-uk-shops-will-soon-instantly-alert-police-about-offenders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - UK shops to implement facial recognition systems that automatically alert police about offenders, prompting privacy debates.
+## Tech Industry Challenges
 
-## Emerging Technologies and Innovations
+* [SK Hynix CEO Warns 2027 Will Be Memory's 'Worst Year' Ever. Shortages May Outlast the Decade](https://hardware.slashdot.org/story/26/07/12/1747258/sk-hynix-ceo-warns-2027-will-be-memorys-worst-year-ever-shortages-may-outlast-the-decade?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://hardware.slashdot.org/story/26/07/12/1747258/sk-hynix-ceo-warns-2027-will-be-memorys-worst-year-ever-shortages-may-outlast-the-decade?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - Exploring warnings from SK Hynix amidst looming memory shortages.
 
-* [Kode Dot Programmable pocket device for makers, pentesters and geeks](https://kode.diy) - A new programmable pocket device for tech enthusiasts and professionals is now available.
+* [Meta Removes Controversial AI Feature On Instagram After Backlash](https://tech.slashdot.org/story/26/07/12/0150219/meta-removes-controversial-ai-feature-on-instagram-after-backlash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://tech.slashdot.org/story/26/07/12/0150219/meta-removes-controversial-ai-feature-on-instagram-after-backlash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - Meta's response to public concerns over AI's handling on social media.
 
-* [InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation](https://xandergos.github.io/terrain-diffusion/) - A hybrid approach to terrain generation using a mix of machine learning and procedural techniques.
+## Niche and Bold Concepts
 
-* [Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels](https://nanduruganesh.github.io/flash-msa/) - A research breakthrough enabling faster training for large-scale machine learning models through sparse attention kernels.
+* [Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels](https://nanduruganesh.github.io/flash-msa/) ([Comments](https://news.ycombinator.com/item?id=48884618)) - Innovations in machine learning for scalable token training using sparse attention techniques.
 
-* [New Dental Robot Attaches to Patient&apos;s Teeth for Drilling](https://soylentnews.org/article.pl?sid=26/07/11/0144241&amp;from=rss) - A novel dental robot promises more precise and less invasive dental procedures.
+* [An Agent in 100 Lines of Lisp](https://thebeach.dev/posts/lisp-agent/) ([Comments](https://lobste.rs/s/wsw7tq/agent_100_lines_lisp)) - The creation of minimalist agents using Lisp to explore practical AI design.
 
-## Environmental and Energy Concerns
+* [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html) ([Comments](https://news.ycombinator.com/item?id=48884395)) - Revival of retro-computing with highly compact emulators worth exploring.
 
-* [Irish datacenters now guzzle 23% of the country&apos;s electricity](https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013) - Data centers in Ireland now consume almost a quarter of the country's electricity, highlighting concerns about energy usage.
+## Society and Environment
 
-* [SK Hynix CEO Warns 2027 Will Be Memory&apos;s &apos;Worst Year&apos; Ever. Shortages May Outlast the Decade](https://hardware.slashdot.org/story/26/07/12/1747258/sk-hynix-ceo-warns-2027-will-be-memorys-worst-year-ever-shortages-may-outlast-the-decade?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - SK Hynix CEO warns about expected memory shortages in 2027 and potential long-term implications.
+* [10 Million Cubans Suffer Nationwide Blackout - For The Second Time This Week](https://hardware.slashdot.org/story/26/07/12/0327230/10-million-cubans-suffer-nationwide-blackout---for-the-second-time-this-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://hardware.slashdot.org/story/26/07/12/0327230/10-million-cubans-suffer-nationwide-blackout---for-the-second-time-this-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - Impacts of repeated infrastructure failures in Cuba on daily life and economy.
 
-## Unique Perspectives in Tech and AI
-
-* [Slow Software: The Case for High-latency Systems Development](https://www.sigops.org/2026/slow-software-the-case-for-high-latency-systems-development/) - A thought-provoking argument for developing high-latency systems in software development.
-
-* [Against Usefulness](https://www.motivenotes.ai/p/against-usefulness) - A critique of the current emphasis on functionality and utility in software design.
-
-* [I love LLMs, I hate hype](https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html) - A developer dives into their love for large language models while challenging the surrounding industry hype.
-
-## Noteworthy Business and Industry News
-
-* [Volkswagen Sales Plunge as German Automaker Lays Out Plan to Slash Number of Brands](https://soylentnews.org/article.pl?sid=26/07/11/1846204&amp;from=rss) - Volkswagen plans to cut down the number of brands under its umbrella amidst plummeting sales.
-
-* [Elon Musk And Sam Altman Spar On X After Apple Files OpenAI Lawsuit](https://tech.slashdot.org/story/26/07/12/1842219/elon-musk-and-sam-altman-spar-on-x-after-apple-files-openai-lawsuit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A high-profile confrontation between Elon Musk and Sam Altman unfolds on social media following a lawsuit by Apple against OpenAI.
+* [AI-driven Datacenter Builds Increased Microsoft's Emissions 25% In One Year](https://slashdot.org/story/26/07/11/1944220/ai-driven-datacenter-builds-increased-microsofts-emissions-25-in-one-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://slashdot.org/story/26/07/11/1944220/ai-driven-datacenter-builds-increased-microsofts-emissions-25-in-one-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - Analyzing the environmental costs of running heavy data-centric technologies.
 
 ---
 
@@ -77,19 +65,28 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-07-13, 00:18:16](https://news.ycombinator.com/item?id=48886311) - [MacKenzie Scott&apos;s Giving, in Quality-Adjusted Life Years (QALYs)](https://maxghenis.com/mackenzie-scott-qaly/)
+* [2026-07-13, 00:16:59](https://lobste.rs/s/feikm9/overhauled_homelab) - [Overhauled homelab](https://timharek.no/blog/kaizen-4/)
+* [2026-07-12, 23:45:35](https://news.ycombinator.com/item?id=48886065) - [Billion Dollar PDFs](https://billiondollarpdf.com/)
+* [2026-07-12, 23:42:41](https://news.ycombinator.com/item?id=48886040) - [Circular Obstacle Pathfinding (2017)](https://redblobgames.github.io/circular-obstacle-pathfinding/)
+* [2026-07-12, 23:34:00](https://news.slashdot.org/story/26/07/12/2326225/billionaire-exodus-california-drew-10x-more-venture-capital-than-any-other-state-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Billionaire Exodus? California Drew 10x More Venture Capital Than Any Other State This Year&apos;](https://news.slashdot.org/story/26/07/12/2326225/billionaire-exodus-california-drew-10x-more-venture-capital-than-any-other-state-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-12, 22:56:56](https://news.ycombinator.com/item?id=48885728) - [Designing and assembling my first PCB](https://vilkeliskis.com/b/2026/0711.html)
+* [2026-07-12, 22:54:07](https://news.ycombinator.com/item?id=48885708) - [Architecture Description Languages [pdf]](https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf)
+* [2026-07-12, 22:53:51](https://news.ycombinator.com/item?id=48885705) - [Why Vanilla JavaScript](https://guseyn.com/html/posts/why-vanilla-js.html)
+* [2026-07-12, 22:51:30](https://lobste.rs/s/x1a86b/make_it_right_next_steps_with_ctran) - [Make It Right - Next Steps With CTRAN](https://thelastpsion.com/posts/make-it-right-next-steps-with-ctran/)
+* [2026-07-12, 22:45:31](https://news.ycombinator.com/item?id=48885643) - [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/)
+* [2026-07-12, 22:29:46](https://news.ycombinator.com/item?id=48885525) - [A Speed Limit for Computers](https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm)
+* [2026-07-12, 22:29:00](https://it.slashdot.org/story/26/07/12/2224249/forget-coders-the-real-ai-threat-is-in-the-back-office?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Forget Coders. The Real AI Threat Is In the Back Office&apos;](https://it.slashdot.org/story/26/07/12/2224249/forget-coders-the-real-ai-threat-is-in-the-back-office?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-12, 22:12:06](https://lobste.rs/s/7ke9cs/know_thine_enemy_critical_engagement) - [Know thine enemy: A critical engagement with AI-assisted software development](https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1)
+* [2026-07-12, 21:45:28](https://news.ycombinator.com/item?id=48885138) - [Profiling the \&quot;Abundance\&quot; housing bottleneck with real data](https://laxmena.com/same-capacity-less-throughput)
 * [2026-07-12, 21:45:00](https://soylentnews.org/article.pl?sid=26/07/11/1846204&amp;from=rss) - [Volkswagen Sales Plunge as German Automaker Lays Out Plan to Slash Number of Brands](https://soylentnews.org/article.pl?sid=26/07/11/1846204&amp;from=rss)
 * [2026-07-12, 21:27:29](https://news.ycombinator.com/item?id=48884992) - [Kode Dot Programmable pocket device for makers, pentesters and geeks](https://kode.diy)
 * [2026-07-12, 21:26:41](https://news.ycombinator.com/item?id=48884984) - [Ask HN: What Are You Working On? (July 2026)](https://news.ycombinator.com/item?id=48884984)
-* [2026-07-12, 21:12:11](https://news.ycombinator.com/item?id=48884853) - [Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/)
-* [2026-07-12, 21:08:20](https://news.ycombinator.com/item?id=48884815) - [Show HN: Adaptive Recall, persistent memory for AI assistants over MCP](https://www.adaptiverecall.com/)
+* [2026-07-12, 21:12:11](https://news.ycombinator.com/item?id=48884853) - [Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/)
 * [2026-07-12, 20:55:00](https://linux.slashdot.org/story/26/07/12/2053201/linus-torvalds-on-ai-junk-patches-humans-and-godzilla?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linus Torvalds on AI, Junk Patches, Humans, and Godzilla](https://linux.slashdot.org/story/26/07/12/2053201/linus-torvalds-on-ai-junk-patches-humans-and-godzilla?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-12, 20:49:46](https://news.ycombinator.com/item?id=48884647) - [The State of MCP Security [pdf]](https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf)
 * [2026-07-12, 20:46:43](https://news.ycombinator.com/item?id=48884618) - [Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels](https://nanduruganesh.github.io/flash-msa/)
 * [2026-07-12, 20:23:05](https://news.ycombinator.com/item?id=48884395) - [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html)
-* [2026-07-12, 20:16:12](https://news.ycombinator.com/item?id=48884322) - [Irish datacenters now guzzle 23% of the country&apos;s electricity](https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013)
 * [2026-07-12, 19:56:07](https://lobste.rs/s/ncsslp/infinitediffusion_bridging_learned) - [InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation](https://xandergos.github.io/terrain-diffusion/)
-* [2026-07-12, 19:54:30](https://news.ycombinator.com/item?id=48884100) - [Defining new Jax types with hijax](https://docs.jax.dev/en/latest/hijax_types.html)
-* [2026-07-12, 19:49:53](https://news.ycombinator.com/item?id=48884052) - [Neocities: Create your own free website](https://neocities.org/)
 * [2026-07-12, 18:58:31](https://lobste.rs/s/7840ca/closing_three_year_old_issue_using_rust) - [Closing a three-year-old issue using Rust arenas](https://giacomocavalieri.me/writing/gleam-rust-arenas)
 * [2026-07-12, 18:50:00](https://tech.slashdot.org/story/26/07/12/1842219/elon-musk-and-sam-altman-spar-on-x-after-apple-files-openai-lawsuit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Elon Musk And Sam Altman Spar On X After Apple Files OpenAI Lawsuit](https://tech.slashdot.org/story/26/07/12/1842219/elon-musk-and-sam-altman-spar-on-x-after-apple-files-openai-lawsuit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-12, 18:41:15](https://news.ycombinator.com/item?id=48883415) - [The One-Step Trap (In AI Research)](http://incompleteideas.net/IncIdeas/OneStepTrap.html)
@@ -105,13 +102,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-12, 16:54:47](https://news.ycombinator.com/item?id=48882554) - [Automation Without Understanding](https://arxiv.org/abs/2607.06377)
 * [2026-07-12, 16:47:39](https://lobste.rs/s/3v4hbc/slow_software_case_for_high_latency) - [Slow Software: The Case for High-latency Systems Development](https://www.sigops.org/2026/slow-software-the-case-for-high-latency-systems-development/)
 * [2026-07-12, 16:34:00](https://slashdot.org/story/26/07/12/0643218/wsj-reports-on-hard-line-activists-ramping-up-for-the-war-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [WSJ Reports on &apos;Hard-line Activists Ramping Up for the War With AI&apos;](https://slashdot.org/story/26/07/12/0643218/wsj-reports-on-hard-line-activists-ramping-up-for-the-war-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-12, 15:53:53](https://news.ycombinator.com/item?id=48882097) - [Why study Diophantine equations?](https://hidden-phenomena.com/articles/modular)
-* [2026-07-12, 15:47:16](https://news.ycombinator.com/item?id=48882056) - [How to read more books](https://scotto.me/blog/2026-07-12-how-to-read-more-books/)
-* [2026-07-12, 15:35:36](https://news.ycombinator.com/item?id=48881967) - [The power of collaboration: How we can reduce traffic congestion](https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/)
+* [2026-07-12, 15:35:36](https://news.ycombinator.com/item?id=48881967) - [How we can reduce traffic congestion](https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/)
 * [2026-07-12, 15:34:00](https://tech.slashdot.org/story/26/07/12/0543243/is-the-cosmic-desktop-getting-better-than-kde-and-gnome?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is the COSMIC Desktop Getting Better Than KDE and GNOME?](https://tech.slashdot.org/story/26/07/12/0543243/is-the-cosmic-desktop-getting-better-than-kde-and-gnome?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-12, 15:23:59](https://news.ycombinator.com/item?id=48881874) - [The shingles vaccine may reduce the risk of dementia](https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain)
 * [2026-07-12, 15:19:32](https://lobste.rs/s/beqyuc/evan_s_jujutsu_tutorial) - [Evan&apos;s Jujutsu Tutorial](https://evmar.github.io/jjtut/)
-* [2026-07-12, 15:17:20](https://news.ycombinator.com/item?id=48881830) - [Don&apos;t you mean extinct?](https://fabiensanglard.net/extinct/index.html)
 * [2026-07-12, 14:34:00](https://slashdot.org/story/26/07/11/1944220/ai-driven-datacenter-builds-increased-microsofts-emissions-25-in-one-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI-driven Datacenter Builds Increased Microsoft&apos;s Emissions 25% In One Year](https://slashdot.org/story/26/07/11/1944220/ai-driven-datacenter-builds-increased-microsofts-emissions-25-in-one-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-12, 14:03:38](https://lobste.rs/s/s1jwea/unauthenticated_rce_motorola_s_mr2600) - [Unauthenticated RCE in Motorola&apos;s MR2600 Router](https://mrbruh.com/motorola/)
 * [2026-07-12, 14:02:22](https://lobste.rs/s/ovkyow/ef_core_11_makes_your_split_queries_faster) - [EF Core 11 makes your split queries faster](https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea)
@@ -122,7 +115,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-12, 10:50:03](https://lobste.rs/s/axamxi/hacking_apple_sql_injection_remote_code) - [Hacking Apple - SQL Injection to Remote Code Execution](https://projectdiscovery.io/blog/hacking-apple-with-sql-injection)
 * [2026-07-12, 09:24:30](https://lobste.rs/s/ksmsg3/make_your_own_windows_98_oem_install) - [Make your own Windows 98 OEM Install](https://www.youtube.com/watch?v=zUm5eW_XGMU)
 * [2026-07-12, 09:07:07](https://lobste.rs/s/shajxh/data_directed_programming_haskell_sicp2) - [Data-directed programming in Haskell (SICP2.4.3)](https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell)
-* [2026-07-12, 08:52:59](https://news.ycombinator.com/item?id=48879504) - [Ghostel.el: Terminal emulator powered by libghostty](https://dakra.github.io/ghostel/)
 * [2026-07-12, 07:52:00](https://news.slashdot.org/story/26/07/12/0259226/facial-recognition-in-uk-shops-will-soon-instantly-alert-police-about-offenders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Facial Recognition in UK Shops Will Soon Instantly Alert Police About Offenders](https://news.slashdot.org/story/26/07/12/0259226/facial-recognition-in-uk-shops-will-soon-instantly-alert-police-about-offenders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-12, 07:21:00](https://soylentnews.org/article.pl?sid=26/07/11/0138228&amp;from=rss) - [Failed Aussie Blockchain Project Ends With Big Fine for Fibs About It Being on Track](https://soylentnews.org/article.pl?sid=26/07/11/0138228&amp;from=rss)
 * [2026-07-12, 07:11:23](https://lobste.rs/s/n85thm/ant_lightweight_javascript_runtime) - [Ant, a lightweight JavaScript runtime](https://antjs.org/)
@@ -134,7 +126,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-12, 02:34:31](https://lobste.rs/s/ktew3s/who_does_anubis_actually_stop) - [Who does Anubis actually stop?](https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop)
 * [2026-07-12, 01:52:00](https://tech.slashdot.org/story/26/07/12/0150219/meta-removes-controversial-ai-feature-on-instagram-after-backlash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Meta Removes Controversial AI Feature On Instagram After Backlash](https://tech.slashdot.org/story/26/07/12/0150219/meta-removes-controversial-ai-feature-on-instagram-after-backlash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-12, 01:15:49](https://lobste.rs/s/zzdc8x/reaction_daemon_scans_program_outputs) - [reaction: A daemon that scans program outputs for repeated patterns, and takes action](https://framagit.org/ppom/reaction)
-* [2026-07-12, 01:01:33](https://lobste.rs/s/q4fx6x/odyssey_linux) - [Odyssey Linux](https://odysseylinux.org/)
 * [2026-07-11, 23:54:53](https://lobste.rs/s/pdbktp/today_i_rescued_7_234_old_gifs) - [Today I Rescued 7,234 Old GIFs](https://danq.me/2026/07/10/rescuing-7234-gifs/)
 * [2026-07-11, 22:47:00](https://slashdot.org/story/26/07/11/2129203/people-keep-sneaking-into-an-empty-ibm-campus---and-then-getting-arrested?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [People Keep Sneaking Into an Empty IBM Campus - and Then Getting Arrested](https://slashdot.org/story/26/07/11/2129203/people-keep-sneaking-into-an-empty-ibm-campus---and-then-getting-arrested?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-11, 21:49:00](https://soylentnews.org/article.pl?sid=26/07/11/0123222&amp;from=rss) - [Woman&apos;s Puzzling Decline Turns Out to be Cobalt Poisoning From Hip Replacement](https://soylentnews.org/article.pl?sid=26/07/11/0123222&amp;from=rss)
@@ -142,15 +133,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-11, 21:05:50](https://lobste.rs/s/tedtzz/where_did_my_segfault_go) - [Where did my segfault go?](https://rmpr.xyz/Where-did-my-segfault-go/)
 * [2026-07-11, 20:47:00](https://news.slashdot.org/story/26/07/11/2045206/duckduckgos-browser-now-blocks-most-youtube-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [DuckDuckGo&apos;s Browser Now Blocks Most YouTube Ads](https://news.slashdot.org/story/26/07/11/2045206/duckduckgos-browser-now-blocks-most-youtube-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-11, 20:41:48](https://lobste.rs/s/y23kkm/gamedev_zig_is_actually_pretty_good_2025) - [Gamedev in Zig is actually pretty good (2025)](https://www.youtube.com/watch?v=-xIFpg7sBVs)
-* [2026-07-11, 19:34:00](https://science.slashdot.org/story/26/07/11/1917235/orbital-datacenter-plans-need-an-environmental-review-fcc-told?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Orbital Datacenter Plans Need an Environmental Review, FCC Told](https://science.slashdot.org/story/26/07/11/1917235/orbital-datacenter-plans-need-an-environmental-review-fcc-told?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-11, 18:34:59](https://lobste.rs/s/gmzzeb/handsum_lqip_image_file_format) - [Handsum: An LQIP Image File Format](https://nigeltao.github.io/blog/2026/handsum.html)
-* [2026-07-11, 18:34:00](https://it.slashdot.org/story/26/07/11/0639259/this-factory-was-severely-short-on-workers-then-it-offered-flexible-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [This Factory Was Severely Short On Workers. Then It Offered Flexible Work.](https://it.slashdot.org/story/26/07/11/0639259/this-factory-was-severely-short-on-workers-then-it-offered-flexible-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-11, 18:02:54](https://lobste.rs/s/ydjxee/good_tools_are_invisible) - [Good Tools Are Invisible](https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/)
 * [2026-07-11, 17:07:00](https://soylentnews.org/article.pl?sid=26/07/10/0939213&amp;from=rss) - [Geopolitical Tensions Are Complicating Research Efforts in the Norwegian Archipelago of Svalbar](https://soylentnews.org/article.pl?sid=26/07/10/0939213&amp;from=rss)
 * [2026-07-11, 12:23:00](https://soylentnews.org/article.pl?sid=26/07/10/0919216&amp;from=rss) - [Secure Unix Ancestor KSOS Did Type Safety Before Rust Made It Cool](https://soylentnews.org/article.pl?sid=26/07/10/0919216&amp;from=rss)
 * [2026-07-11, 07:41:00](https://soylentnews.org/article.pl?sid=26/07/10/0916227&amp;from=rss) - [Scientists Discover the Deep Sleep Circuit That Builds Muscle, Burns Fat, and Boosts the Brain](https://soylentnews.org/article.pl?sid=26/07/10/0916227&amp;from=rss)
 * [2026-07-11, 05:24:30](https://lobste.rs/s/vhbvwc/i_converted_android_app_webpage) - [I converted an Android app to a webpage](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/)
-* [2026-07-11, 03:30:18](https://lobste.rs/s/ovbeds/i_tried_netbsd_as_desktop_it_felt_like) - [I tried NetBSD as a desktop, and it felt like stepping into the &apos;90s in a good way](https://www.howtogeek.com/i-tried-netbsd-as-a-desktop-and-it-felt-like-stepping-into-the-90s-in-a-good-way/)
 * [2026-07-11, 02:54:00](https://soylentnews.org/article.pl?sid=26/07/09/1625207&amp;from=rss) - [Suspecting AI Cheating, Ivy League Prof Ordered an in-Person Final; Scores Fell 50%](https://soylentnews.org/article.pl?sid=26/07/09/1625207&amp;from=rss)
 * [2026-07-10, 23:02:53](https://lobste.rs/s/kpaxih/update_on_scraper_situation) - [An update on the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/)
 * [2026-07-10, 21:44:00](https://soylentnews.org/article.pl?sid=26/07/09/0348202&amp;from=rss) - [Qualcomm Buys Lattner&apos;s Modular for Almost $4bn](https://soylentnews.org/article.pl?sid=26/07/09/0348202&amp;from=rss)
@@ -161,13 +148,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-10, 02:46:00](https://soylentnews.org/article.pl?sid=26/07/09/0329217&amp;from=rss) - [Bethesda, Id Software Reportedly Hit Hard by Microsoft Layoffs](https://soylentnews.org/article.pl?sid=26/07/09/0329217&amp;from=rss)
 * [2026-07-09, 22:06:00](https://soylentnews.org/article.pl?sid=26/07/08/0159235&amp;from=rss) - [Interoception:  the Sense of How You Feel Inside](https://soylentnews.org/article.pl?sid=26/07/08/0159235&amp;from=rss)
 * [2026-07-09, 17:23:00](https://soylentnews.org/article.pl?sid=26/07/08/0155211&amp;from=rss) - [NASA May Send A Backup, Nuclear-Powered Mars Rover To The Moon](https://soylentnews.org/article.pl?sid=26/07/08/0155211&amp;from=rss)
-* [2026-07-09, 13:15:26](https://news.ycombinator.com/item?id=48845321) - [The Seed Beneath the Snow](https://eli.li/the-seed-beneath-the-snow)
 * [2026-07-09, 12:32:00](https://soylentnews.org/article.pl?sid=26/07/08/0153215&amp;from=rss) - [The Twenty-Ninth International Obfuscated C Code Contest is back](https://soylentnews.org/article.pl?sid=26/07/08/0153215&amp;from=rss)
 * [2026-07-09, 07:51:00](https://soylentnews.org/article.pl?sid=26/07/08/0151252&amp;from=rss) - [The Supreme Court Just Lit a Fuse Under Flock&apos;s License Plate Camera Empire](https://soylentnews.org/article.pl?sid=26/07/08/0151252&amp;from=rss)
 * [2026-07-09, 03:08:00](https://soylentnews.org/article.pl?sid=26/07/08/0149218&amp;from=rss) - [Rats Show Empathy, According to Model](https://soylentnews.org/article.pl?sid=26/07/08/0149218&amp;from=rss)
-* [2026-07-08, 22:22:00](https://soylentnews.org/article.pl?sid=26/07/08/0147225&amp;from=rss) - [Kernel Anti-Cheat Digital Restrictions Management Technology Is an Overreach](https://soylentnews.org/article.pl?sid=26/07/08/0147225&amp;from=rss)
-* [2026-07-08, 17:37:00](https://soylentnews.org/article.pl?sid=26/07/06/2010203&amp;from=rss) - [Zombie ‘Who Owns Unix?’ Lawsuit Comes Alive Again](https://soylentnews.org/article.pl?sid=26/07/06/2010203&amp;from=rss)
-* [2026-07-08, 12:53:00](https://soylentnews.org/article.pl?sid=26/07/06/204247&amp;from=rss) - [Paper Mill Cancer Studies Get Double the Number of Citations as Genuine Papers](https://soylentnews.org/article.pl?sid=26/07/06/204247&amp;from=rss)
-* [2026-07-08, 08:05:00](https://soylentnews.org/article.pl?sid=26/07/06/1957237&amp;from=rss) - [South Korea to Spend $1T on More Memory Chip Production and Humanoid Robots](https://soylentnews.org/article.pl?sid=26/07/06/1957237&amp;from=rss)
-* [2026-07-08, 03:28:00](https://news.ycombinator.com/item?id=48827126) - [So you want to learn physics (second edition, 2021)](https://www.susanrigetti.com/physics)
-* [2026-07-08, 03:21:00](https://soylentnews.org/article.pl?sid=26/07/05/222222&amp;from=rss) - [Google Loses Final Appeal Over $4.7 Billion EU Android Antitrust Fine](https://soylentnews.org/article.pl?sid=26/07/05/222222&amp;from=rss)
