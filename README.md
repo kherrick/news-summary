@@ -1,44 +1,72 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Cybersecurity and Data Privacy
+## Cybersecurity and Tech Vulnerabilities
 
-* [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins) ([Comments](https://news.ycombinator.com/item?id=48915004))
+* [Iran Abused Mobile Networks' Vulnerabilities To Locate US Military In Middle East](https://tech.slashdot.org/story/26/07/14/2121249/iran-abused-mobile-networks-vulnerabilities-to-locate-us-military-in-middle-east?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - This article uncovers how Iran exploited vulnerabilities in mobile networks to track US military personnel in the Middle East and discusses the wider implications for cybersecurity.
 
-* [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/) ([Comments](https://news.ycombinator.com/item?id=48913190))
+* [Microsoft Admits Windows 11 Has a GDID Tracker With No Off Switch](https://soylentnews.org/article.pl?sid=26/07/14/0538220&amp;from=rss) - Microsoft's Windows 11 is revealed to include a GDID tracker, raising concerns about user privacy and the inability to disable it.
 
-* [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left) ([Comments](https://news.ycombinator.com/item?id=48910676))
+* [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins) - A new security bulletin exposes vulnerabilities in Tailscale SSH, which allows insecure argument handling that could grant unintended root access.
 
-## AI and Machine Learning Developments
+* [You should probably check on your smart appliances](https://xeiaso.net/notes/2026/check-your-smart-tv/) - This article highlights the security risks posed by smart appliances and the importance of monitoring them for potential exploits.
 
-* [Lawsuit Claims Meta's Layoff Decisions Were Made By AI, Not Humans](https://yro.slashdot.org/story/26/07/14/2054236/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=48913443))
+* [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left) - Discusses the importance and ethical dilemmas of disclosing zero-day vulnerabilities as a last resort to ensure better overall cybersecurity.
 
-* [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b) ([Comments](https://news.ycombinator.com/item?id=48910545))
+* [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/) - An analysis of Microsoft's recent massive security update, addressing 570 vulnerabilities.
 
-* [Over 200 Economists Say 'We Must Act Now' On AI's Economic Impact](https://slashdot.org/story/26/07/13/2210232/over-200-economists-say-we-must-act-now-on-ais-economic-impact?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://soylentnews.org/article.pl?sid=26/07/13/2210232&amp;from=rss))
+* [Scientist Models Way To Make Sure No One's Violating The Ban On Nuclear Weapons In Space](https://soylentnews.org/article.pl?sid=26/07/12/2143209&amp;from=rss) - A unique scientific proposal devises a system to monitor and enforce global bans on the deployment of nuclear weapons in space.
 
-## Innovative Devices and Technology
+## AI Developments and Ethical Questions
 
-* [OpenAI’s First Device Will Be Moveable, Screenless Speaker Built as AI Companion](https://hardware.slashdot.org/story/26/07/14/2116245/openais-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=48913763))
+* [OpenAI's First Device Will Be Moveable, Screenless Speaker Built as AI Companion](https://hardware.slashdot.org/story/26/07/14/2116245/openais-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI is planning to release its first hardware—a portable, screenless speaker designed to act as a hyper-intelligent personal companion.
 
-* [Google DeepMind Calls For US To Spearhead AI Standards Body](https://yro.slashdot.org/story/26/07/14/1934241/google-deepmind-calls-for-us-to-spearhead-ai-standards-body?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.slashdot.org/story/26/07/14/1934241/google-deepmind-calls-for-us-to-spearhead-ai-standards-body?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+* [Lawsuit Claims Meta's Layoff Decisions Were Made By AI, Not Humans](https://yro.slashdot.org/story/26/07/14/2054236/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A controversial lawsuit alleges that Meta's staff layoff decisions were determined by AI systems rather than human judgment.
 
-* [Quantum Mechanics Surprisingly Based on Real Numbers](https://soylentnews.org/article.pl?sid=26/07/11/1844243&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/07/11/1844243&amp;from=rss))
+* [Google DeepMind Calls For US To Spearhead AI Standards Body](https://yro.slashdot.org/story/26/07/14/1934241/google-deepmind-calls-for-us-to-spearhead-ai-standards-body?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google DeepMind advocates for the U.S. to lead the effort to establish global AI standards and ethical practices.
 
-## Web and Open Source Tools
+* [Over 200 Economists Say 'We Must Act Now' On AI's Economic Impact](https://slashdot.org/story/26/07/13/2210232/over-200-economists-say-we-must-act-now-on-ais-economic-impact?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A large group of economists urgently push for proactive measures to address the economic disruptions brought on by rapid advancements in AI technology.
 
-* [A modern HTTP request](https://nelsonslog.wordpress.com/2026/07/14/a-modern-http-request/) ([Comments](https://lobste.rs/s/q5rxuc/modern_http_request))
+## Innovative Technology and Breakthroughs
 
-* [LeMario: Training a JEPA World Model on Super Mario Bros](https://www.benjamin-bai.com/projects/lemario) ([Comments](https://news.ycombinator.com/item?id=48913763))
+* [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html) - Take a nostalgic journey through the technical details of the iconic computers featured in Jurassic Park.
 
-* [git-absorb: git commit --fixup, but automatic](https://github.com/tummychow/git-absorb) ([Comments](https://lobste.rs/s/nprldj/git_absorb_git_commit_fixup_automatic))
+* [Low Resource Computing 2026](https://lrc.cs.dartmouth.edu/) - Dartmouth College presents advancements in computing technologies designed for resource-limited environments, perfect for regions with limited access to power.
 
-## Society and Global Issues
+* [IBM Stock Collapses After a Grave Warning About AI](https://hardware.slashdot.org/story/26/07/14/1634227/ibm-stock-collapses-after-a-grave-warning-about-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Explores IBM's significant share price drop due to a major warning about the economic and technological risks associated with AI.
 
-* [Data centers have hiked electricity prices on the public by $23B](https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/) ([Comments](https://news.ycombinator.com/item?id=48914683))
+## Privacy and Surveillance
 
-* [New York Becomes First State To Impose Data Center Moratorium](https://news.slashdot.org/story/26/07/14/1520222/new-york-becomes-first-state-to-impose-data-center-moratorium?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.ycombinator.com/item?id=48911020))
+* [This UK Satellite's Thermal Camera Raises Major Privacy Concerns](https://soylentnews.org/article.pl?sid=26/07/12/2153233&amp;from=rss) - The deployment of a UK satellite equipped with thermal imaging technology has triggered debates over global privacy implications.
 
-* [Woman's Puzzling Decline Turns Out to be Cobalt Poisoning From Hip Replacement](https://soylentnews.org/article.pl?sid=26/07/11/0123222&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/07/11/0123222&amp;from=rss))
+* [Utility Companies Want To Take Control Of Your Home's Smart Thermostat](https://soylentnews.org/article.pl?sid=26/07/12/2137226&amp;from=rss) - Utility companies are seeking greater control over smart home thermostats, stirring privacy and autonomy concerns among consumers.
+
+## Key Scientific Findings
+
+* [Scientists Find Sugar Deep In Our Galaxy](https://science.slashdot.org/story/26/07/14/073233/scientists-find-sugar-deep-in-our-galaxy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A rare discovery uncovers traces of sugar in the depths of our galaxy, shedding light on the building blocks of life in space.
+
+* [Indian Scientists Produce Most Detailed 3D Atlas of the Human Brainstem](https://science.slashdot.org/story/26/07/14/0723207/indian-scientists-produce-most-detailed-3d-atlas-of-the-human-brainstem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Researchers in India have created the most intricate 3D atlas of the human brainstem, a breakthrough in neuroscience.
+
+## Environment and Infrastructure
+
+* [Data centers have hiked electricity prices on the public by $23B](https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/) - Examines how data centers are contributing to increased electricity bills, costing the public billions of dollars globally.
+
+* [New York Becomes First State To Impose Data Center Moratorium](https://news.slashdot.org/story/26/07/14/1520222/new-york-becomes-first-state-to-impose-data-center-moratorium?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - New York enforces a moratorium on data centers, aiming to regulate energy usage and environmental impact.
+
+## Inspirational and Unusual Research
+
+* [Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel](https://www.starfleetmath.com/) - A fascinating experiment showcases the power of AI tools in tackling 20 famous mathematical problems posed by Paul Erdős.
+
+* [Mathematical texts from a Maya site in Guatemala identify an ancient astronomer](https://www.nature.com/articles/d41586-026-02170-8) - Archaeological findings from a Maya site identify an ancient astronomer via mathematical texts, shedding light on historical astronomical practices.
+
+* [Estimating the heights of New Yorkers from their scuff marks](https://blog.jse.li/posts/smith9street/) - An innovative analysis attempts to estimate individuals' heights based on unique patterns of scuff marks on subway platforms.
+
+## Consumer Tech Updates
+
+* [OnePlus Is Reportedly Shutting Down In the US, Europe](https://mobile.slashdot.org/story/26/07/14/1641233/oneplus-is-reportedly-shutting-down-in-the-us-europe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Reports suggest that OnePlus might discontinue operations in both the US and Europe, a significant strategic shift for the smartphone brand.
+
+* [Google Images Gets a Pinterest-Like Redesign Focused On Discovery](https://tech.slashdot.org/story/26/07/14/215259/google-images-gets-a-pinterest-like-redesign-focused-on-discovery?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Google Images introduces a new design inspired by Pinterest, aimed at better content discoverability.
+
+* [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/) - A creative addition to Vancouver PD's website helps at-risk individuals quickly exit the page without leaving a trace in their web browser.
 
 ---
 
@@ -65,6 +93,10 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-07-15, 03:30:00](https://tech.slashdot.org/story/26/07/14/2121249/iran-abused-mobile-networks-vulnerabilities-to-locate-us-military-in-middle-east?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Iran Abused Mobile Networks&apos; Vulnerabilities To Locate US Military In Middle East](https://tech.slashdot.org/story/26/07/14/2121249/iran-abused-mobile-networks-vulnerabilities-to-locate-us-military-in-middle-east?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-15, 02:57:47](https://news.ycombinator.com/item?id=48915709) - [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
+* [2026-07-15, 02:13:19](https://lobste.rs/s/hkgxnm/low_resource_computing_2026) - [Low Resource Computing 2026](https://lrc.cs.dartmouth.edu/)
+* [2026-07-15, 01:42:00](https://soylentnews.org/article.pl?sid=26/07/14/0538220&amp;from=rss) - [Microsoft Admits Windows 11 Has a GDID Tracker With No Off Switch](https://soylentnews.org/article.pl?sid=26/07/14/0538220&amp;from=rss)
 * [2026-07-15, 01:08:26](https://news.ycombinator.com/item?id=48915004) - [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins)
 * [2026-07-15, 00:34:39](https://lobste.rs/s/q5rxuc/modern_http_request) - [A modern HTTP request](https://nelsonslog.wordpress.com/2026/07/14/a-modern-http-request/)
 * [2026-07-15, 00:20:31](https://news.ycombinator.com/item?id=48914683) - [Data centers have hiked electricity prices on the public by $23B](https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/)
@@ -72,7 +104,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-15, 00:15:53](https://news.ycombinator.com/item?id=48914644) - [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/)
 * [2026-07-15, 00:11:45](https://lobste.rs/s/lelroo/memory_heist) - [The Memory Heist](https://ayush.digital/blog/the-memory-heist)
 * [2026-07-14, 23:00:00](https://hardware.slashdot.org/story/26/07/14/2116245/openais-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI&apos;s First Device Will Be Moveable, Screenless Speaker Built as AI Companion](https://hardware.slashdot.org/story/26/07/14/2116245/openais-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-14, 22:47:58](https://news.ycombinator.com/item?id=48913910) - [Casio FX-870P Emulator](https://github.com/urbancamo/fx870p-emulator)
 * [2026-07-14, 22:30:47](https://news.ycombinator.com/item?id=48913763) - [LeMario: Training a JEPA World Model on Super Mario Bros](https://www.benjamin-bai.com/projects/lemario)
 * [2026-07-14, 22:19:13](https://lobste.rs/s/ipiook/generative_colors_with_css) - [Generative colors with CSS](https://gomakethings.com/articles/generative-colors-with-css/)
 * [2026-07-14, 22:02:25](https://lobste.rs/s/slrak5/you_should_probably_check_on_your_smart) - [You should probably check on your smart appliances](https://xeiaso.net/notes/2026/check-your-smart-tv/)
@@ -89,6 +120,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-14, 19:55:31](https://news.ycombinator.com/item?id=48912175) - [How I use HTMX with Go](https://www.alexedwards.net/blog/how-i-use-htmx-with-go)
 * [2026-07-14, 19:00:00](https://linux.slashdot.org/story/26/07/14/1853255/linux-foundations-latest-foray-is-to-standardize-internet-native-payments-for-ai-agents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linux Foundation&apos;s Latest Foray Is To Standardize Internet-Native Payments For AI Agents](https://linux.slashdot.org/story/26/07/14/1853255/linux-foundations-latest-foray-is-to-standardize-internet-native-payments-for-ai-agents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-14, 18:47:27](https://lobste.rs/s/s8tyov/trusty_boot_key_ventoy_alternative_for) - [A Trusty Boot Key (Ventoy Alternative), for Bastille Day](https://codeberg.org/aol/trusty-boot-key)
+* [2026-07-14, 18:42:51](https://lobste.rs/s/fvupsy/emacs_docs_modern_documentation_website) - [Emacs Docs: The modern documentation website Emacs deserves](https://emacsdocs.org)
 * [2026-07-14, 18:34:27](https://lobste.rs/s/rg1wee/how_i_use_htmx_with_go) - [How I use HTMX with Go](https://www.alexedwards.net/blog/how-i-use-htmx-with-go)
 * [2026-07-14, 18:07:13](https://lobste.rs/s/pw5yuk/measuring_input_latency_on_linux_x11_vs) - [Measuring input latency on Linux: X11 vs Wayland, VRR, and DXVK](https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/)
 * [2026-07-14, 18:00:00](https://mobile.slashdot.org/story/26/07/14/1641233/oneplus-is-reportedly-shutting-down-in-the-us-europe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OnePlus Is Reportedly Shutting Down In the US, Europe](https://mobile.slashdot.org/story/26/07/14/1641233/oneplus-is-reportedly-shutting-down-in-the-us-europe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -99,9 +131,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-14, 17:00:00](https://hardware.slashdot.org/story/26/07/14/1634227/ibm-stock-collapses-after-a-grave-warning-about-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [IBM Stock Collapses After a Grave Warning About AI](https://hardware.slashdot.org/story/26/07/14/1634227/ibm-stock-collapses-after-a-grave-warning-about-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-14, 16:57:54](https://news.ycombinator.com/item?id=48909785) - [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)
 * [2026-07-14, 16:56:25](https://lobste.rs/s/in1oer/temper_language) - [Temper Language](https://temperlang.dev/)
-* [2026-07-14, 16:47:18](https://lobste.rs/s/k3xjvf/hypervisor_less_denuvo_bypass_for_linux) - [A Hypervisor(-less) Denuvo bypass for Linux](https://cs.rin.ru/forum/viewtopic.php?f=10&amp;t=159989)
 * [2026-07-14, 16:35:18](https://lobste.rs/s/86lwsv/too_many_words_about_dids) - [Too many words about DIDs](https://steveklabnik.com/writing/too-many-words-about-dids/)
-* [2026-07-14, 16:06:18](https://news.ycombinator.com/item?id=48908950) - [Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations](https://agnost.ai)
 * [2026-07-14, 16:06:00](https://soylentnews.org/article.pl?sid=26/07/12/2149242&amp;from=rss) - [US Weighs Removing Steering Wheel Requirement For Driverless Cars](https://soylentnews.org/article.pl?sid=26/07/12/2149242&amp;from=rss)
 * [2026-07-14, 16:00:52](https://lobste.rs/s/2gbb6l/how_my_images_are_dithered) - [How my images are dithered](https://dead.garden/blog/how-my-images-are-dithered.html)
 * [2026-07-14, 16:00:00](https://news.slashdot.org/story/26/07/14/1520222/new-york-becomes-first-state-to-impose-data-center-moratorium?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New York Becomes First State To Impose Data Center Moratorium](https://news.slashdot.org/story/26/07/14/1520222/new-york-becomes-first-state-to-impose-data-center-moratorium?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -129,24 +159,22 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-13, 22:00:00](https://it.slashdot.org/story/26/07/13/2139254/us-government-warns-that-russia-state-hackers-are-coming-after-your-router?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Government Warns That Russia State Hackers Are Coming After Your Router](https://it.slashdot.org/story/26/07/13/2139254/us-government-warns-that-russia-state-hackers-are-coming-after-your-router?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-13, 21:57:56](https://news.ycombinator.com/item?id=48899473) - [The Estranged Worlds of J. G. Ballard](https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/)
 * [2026-07-13, 21:22:00](https://soylentnews.org/article.pl?sid=26/07/12/1514220&amp;from=rss) - [OpenAI Job Listing Suggests ChatGPT Could Someday Replace Junior Analysts at Goldman Sachs](https://soylentnews.org/article.pl?sid=26/07/12/1514220&amp;from=rss)
-* [2026-07-13, 21:12:00](https://slashdot.org/story/26/07/13/2111209/german-firm-files-for-insolvency-after-cybercriminals-shut-down-production-for-6-weeks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [German Firm Files For Insolvency After Cybercriminals Shut Down Production For 6 Weeks](https://slashdot.org/story/26/07/13/2111209/german-firm-files-for-insolvency-after-cybercriminals-shut-down-production-for-6-weeks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-13, 20:03:24](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite) - [lobste.rs is now running on SQLite](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite)
 * [2026-07-13, 16:40:00](https://soylentnews.org/article.pl?sid=26/07/12/1511228&amp;from=rss) - [China Recovered its First Reusable Rocket and Showed a New Way to Do It](https://soylentnews.org/article.pl?sid=26/07/12/1511228&amp;from=rss)
 * [2026-07-13, 16:18:36](https://lobste.rs/s/t0aqzy/human_emacs) - [Human Emacs](https://human-emacs.org/)
 * [2026-07-13, 16:01:28](https://lobste.rs/s/yf6vbc/just_let_me_write_digits) - [Just Let Me Write Digits](https://gendignoux.com/blog/2026/07/13/input-digits.html)
 * [2026-07-13, 11:53:00](https://soylentnews.org/article.pl?sid=26/07/12/2127219&amp;from=rss) - [Why Navies Around The World Keep Submarine Propeller Designs So Secretive](https://soylentnews.org/article.pl?sid=26/07/12/2127219&amp;from=rss)
 * [2026-07-13, 07:07:00](https://soylentnews.org/article.pl?sid=26/07/12/150251&amp;from=rss) - [Electric Drone Breaks World Air Speed Record at 434 Mph, Designed for Anti-Aircraft Interceptor Role](https://soylentnews.org/article.pl?sid=26/07/12/150251&amp;from=rss)
-* [2026-07-13, 03:33:01](https://lobste.rs/s/1an425/quadrupling_code_performance_with) - [Quadrupling code performance with a \&quot;useless\&quot; if](https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/)
 * [2026-07-13, 02:27:00](https://soylentnews.org/article.pl?sid=26/07/11/1848242&amp;from=rss) - [Higher Blood Glucose Levels Linked to Faster Brain Aging](https://soylentnews.org/article.pl?sid=26/07/11/1848242&amp;from=rss)
 * [2026-07-12, 21:45:00](https://soylentnews.org/article.pl?sid=26/07/11/1846204&amp;from=rss) - [Volkswagen Sales Plunge as German Automaker Lays Out Plan to Slash Number of Brands](https://soylentnews.org/article.pl?sid=26/07/11/1846204&amp;from=rss)
 * [2026-07-12, 18:28:15](https://news.ycombinator.com/item?id=48883305) - [Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE](https://github.com/juggler-ai/juggler)
+* [2026-07-12, 17:00:29](https://news.ycombinator.com/item?id=48882608) - [The Trade in Looted Antiquities Endures for One Reason: Demand](https://news.artnet.com/art-world/matt-campbell-cambodia-looted-antiquities-2779870)
 * [2026-07-12, 16:57:00](https://soylentnews.org/article.pl?sid=26/07/11/1844243&amp;from=rss) - [Quantum Mechanics Surprisingly Based on Real Numbers](https://soylentnews.org/article.pl?sid=26/07/11/1844243&amp;from=rss)
 * [2026-07-12, 12:10:00](https://soylentnews.org/article.pl?sid=26/07/11/0144241&amp;from=rss) - [New Dental Robot Attaches to Patient&apos;s Teeth for Drilling](https://soylentnews.org/article.pl?sid=26/07/11/0144241&amp;from=rss)
 * [2026-07-12, 07:21:00](https://soylentnews.org/article.pl?sid=26/07/11/0138228&amp;from=rss) - [Failed Aussie Blockchain Project Ends With Big Fine for Fibs About It Being on Track](https://soylentnews.org/article.pl?sid=26/07/11/0138228&amp;from=rss)
 * [2026-07-12, 02:38:00](https://soylentnews.org/article.pl?sid=26/07/11/0130201&amp;from=rss) - [NHTSA Calls Out Autonomous Cars for Interfering With First Responders](https://soylentnews.org/article.pl?sid=26/07/11/0130201&amp;from=rss)
 * [2026-07-11, 21:49:00](https://soylentnews.org/article.pl?sid=26/07/11/0123222&amp;from=rss) - [Woman&apos;s Puzzling Decline Turns Out to be Cobalt Poisoning From Hip Replacement](https://soylentnews.org/article.pl?sid=26/07/11/0123222&amp;from=rss)
 * [2026-07-11, 17:07:00](https://soylentnews.org/article.pl?sid=26/07/10/0939213&amp;from=rss) - [Geopolitical Tensions Are Complicating Research Efforts in the Norwegian Archipelago of Svalbar](https://soylentnews.org/article.pl?sid=26/07/10/0939213&amp;from=rss)
-* [2026-07-11, 16:10:19](https://news.ycombinator.com/item?id=48873275) - [C++20 Improved the For-Loop Syntax](https://lzon.ca/posts/tips/cpp-for-range-init/)
 * [2026-07-11, 14:32:19](https://news.ycombinator.com/item?id=48872401) - [The largest available Minecraft world, totalling 15 TB](https://2b2t.place/1million)
 * [2026-07-11, 12:23:00](https://soylentnews.org/article.pl?sid=26/07/10/0919216&amp;from=rss) - [Secure Unix Ancestor KSOS Did Type Safety Before Rust Made It Cool](https://soylentnews.org/article.pl?sid=26/07/10/0919216&amp;from=rss)
 * [2026-07-11, 09:08:08](https://news.ycombinator.com/item?id=48870217) - [The kids with phones are alright](https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/)
