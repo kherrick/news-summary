@@ -1,66 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Space and Astronomy
+## Advancements in Technology
 
-* [Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home](https://science.slashdot.org/story/26/07/18/0427249/alien-world-chemistry-found-inside-meteorite-that-struck-new-jersey-home?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The discovery of unique extraterrestrial chemistry inside a meteorite that hit a house in New Jersey provides new insights into the composition of alien worlds.
+* [PowerShell over SSH in 2026: OpenSSH on Windows, Key Auth, and PowerShell 7 Remoting](https://mattmichie.com/2026/07/11/powershell-over-ssh-twenty-years-later/) ([comments](https://lobste.rs/s/b6f3sf/powershell_over_ssh_2026_openssh_on))
 
-* [Astronomers Find an Atmosphere On a Nearby Earth-Like Planet](https://science.slashdot.org/story/26/07/17/0029203/astronomers-find-an-atmosphere-on-a-nearby-earth-like-planet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Astronomers have identified an atmosphere on a nearby Earth-like planet in a habitable zone, a significant step in the search for extraterrestrial life.
+* [Aurora DSQL: Scalable, Multi-Region OLTP](https://arxiv.org/abs/2607.13276) ([comments](https://lobste.rs/s/pygp0p/aurora_dsql_scalable_multi_region_oltp))
 
-* [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo) - Researchers confirm the first detection of an atmosphere around an Earth-like exoplanet, expanding the possibilities for finding habitable worlds beyond our solar system.
+* [In-toto: A framework to secure the integrity of software supply chains](https://in-toto.io/) ([comments](https://news.ycombinator.com/item?id=48942603))
 
-## Artificial Intelligence and Data Centers
+* [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/) ([comments](https://lobste.rs/s/qbvfll/microsoft_comic_chat_is_now_open_source))
 
-* [Australia To Put Environmental Brakes On AI Data Centers](https://slashdot.org/story/26/07/17/2142206/australia-to-put-environmental-brakes-on-ai-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Australia announces future environmental regulations on AI data centers, aiming to limit their carbon footprint.
+## Space Exploration and Science
 
-* [Xi Vows to Make AI for All in Debut at China&apos;s Top Tech Summit](https://slashdot.org/story/26/07/17/1929216/xi-vows-to-make-ai-for-all-in-debut-at-chinas-top-tech-summit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - China's President Xi Jinping commits to democratizing AI technology's benefits in his speech at a major tech summit.
+* [Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home](https://science.slashdot.org/story/26/07/18/0427249/alien-world-chemistry-found-inside-meteorite-that-struck-new-jersey-home?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/07/18/0427249/alien-world-chemistry-found-inside-meteorite-that-struck-new-jersey-home?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [AI Servers Will Consume More Power Than All Conventional Data Centers Combined By 2027](https://soylentnews.org/article.pl?sid=26/07/14/0547216&amp;from=rss) - Energy forecasts predict AI servers will surpass traditional data centers in power consumption by 2027.
+* [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo) ([comments](https://news.ycombinator.com/item?id=48947560))
 
-* [Linus Torvalds To Critics of AI Coding On Linux: &apos;Fork It. Or Just Walk Away.&apos;](https://linux.slashdot.org/story/26/07/17/1830258/linus-torvalds-to-critics-of-ai-coding-on-linux-fork-it-or-just-walk-away?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Linux creator Linus Torvalds pushes back against criticism of AI integration in Linux development.
+* [Miami-Based City Labs Achieves a First for Commercial Nuclear Power in Space](https://soylentnews.org/article.pl?sid=26/07/16/0225242&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/07/16/0225242&from=rss))
 
-## Technology and Tools
+## Artificial Intelligence and Technology Ethics
 
-* [Stenchill: 3D Printable Solder Paste Stencil Generator](https://www.stenchill.com/en/) - A new tool simplifies creating 3D-printed solder paste stencils for electronic prototyping.
+* [Australia To Put Environmental Brakes On AI Data Centers](https://slashdot.org/story/26/07/17/2142206/australia-to-put-environmental-brakes-on-ai-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/26/07/17/2142206/australia-to-put-environmental-brakes-on-ai-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/) - An innovative Lua runtime and package manager, written in Zig, promises a modern developer experience.
+* [Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) ([comments](https://news.ycombinator.com/item?id=48952880))
 
-* [Lobsters Interview with matheusmoreira about Lone Lisp](https://alexalejandre.com/interviews/interview-with-matheus-moreira/) - Insights on Lone Lisp, a minimalist Lisp implementation, from developer Matheus Moreira.
+* [Xi Vows to Make AI for All in Debut at China's Top Tech Summit](https://slashdot.org/story/26/07/17/1929216/xi-vows-to-make-ai-for-all-in-debut-at-chinas-top-tech-summit?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/26/07/17/1929216/xi-vows-to-make-ai-for-all-in-debut-at-chinas-top-tech-summit?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Reviving a 15-year-old netbook with Arch Linux](https://parksb.github.io/en/article/41.html) - Steps to breathe new life into an old netbook by installing Arch Linux.
+* [The state of open source AI](https://stateofopensource.ai/) ([comments](https://news.ycombinator.com/item?id=48947825))
 
-* [The Java Story | The Official Documentary](https://www.youtube.com/watch?v=ZqGSg4b_cZA) - An official documentary recounting the history and impact of the Java programming language.
+## Environment and Energy
 
-## Data Security and Privacy
+* [Irish Datacenters Now Guzzle 23% of the Country's Electricity](https://soylentnews.org/article.pl?sid=26/07/16/0229204&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/07/16/0229204&from=rss))
 
-* [TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years](https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md) - Security vulnerability in TP-Link cameras revealed GPS location data of users for six years.
+* [AI Servers Will Consume More Power Than All Conventional Data Centers Combined By 2027](https://soylentnews.org/article.pl?sid=26/07/14/0547216&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/07/14/0547216&from=rss))
 
-* [Microsoft&apos;s Secure Boot Has Been Broken for a Decade and No One Noticed Until Now](https://soylentnews.org/article.pl?sid=26/07/16/0231216&amp;from=rss) - Microsoft's Secure Boot has been vulnerable for a decade, unnoticed until researchers uncovered the issue.
+## Retro Computing and Nostalgia
 
-## Environmental Issues
+* [Classic console tech tricks](https://www.youtube.com/playlist?list=PLLM_oC5K01gS9rqn7PotAOE-fb0zrnvdu) ([comments](https://lobste.rs/s/ecuwk1/classic_console_tech_tricks))
 
-* [Irish Datacenters Now Guzzle 23% of the Country&apos;s Electricity](https://soylentnews.org/article.pl?sid=26/07/16/0229204&amp;from=rss) - Data centers in Ireland account for nearly a quarter of the nation's electricity consumption, raising sustainability concerns.
+* [Reviving a 15-year-old netbook with Arch Linux](https://parksb.github.io/en/article/41.html) ([comments](https://news.ycombinator.com/item?id=48907063))
 
-* [Painting the sides of railroad rails white to reduce derailment](https://www.up.com/news/safety/Tracking-Rail-Heat-260608) - Innovative use of white paint on railroad rails to reduce derailment risks caused by extreme heat.
+* [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html) ([comments](https://lobste.rs/s/y3qqzv/zilog_z80_has_turned_50))
 
-## Interesting Projects and Experimental Work
+## Notable Industry Developments
 
-* [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/) - A creative project exploring the aesthetic and technical dimensions of purposefully compressing JPEG images.
+* [Meta In Talks To Lease Computing Power To Anthropic In Potential $10 Billion Deal](https://hardware.slashdot.org/story/26/07/17/1732212/meta-in-talks-to-lease-computing-power-to-anthropic-in-potential-10-billion-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/07/17/1732212/meta-in-talks-to-lease-computing-power-to-anthropic-in-potential-10-billion-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-* [Show HN: A zoomable timeline of 4M Wikipedia events](https://app.everything.diena.co/) - A fascinating tool that provides a zoomable, interactive timeline of historical Wikipedia events.
-
-* [Here&apos;s how I host my own AIM server](https://veronicaexplains.net/open-oscar-server/) - A deep dive into setting up a personal AIM server using open-source software.
-
-* [Fedichat - Comic Chat for the Fediverse](https://lambadalambda.github.io/fedichat/client.html) - A comic-inspired social networking chat platform for decentralized communications.
-
-* [RAMpocalyse Pricing Prompts Maker To Construct His Own Memory Using Ancient Apollo-Era Tech](https://soylentnews.org/article.pl?sid=26/07/15/0036236&amp;from=rss) - A maker constructs memory from old Apollo space program technology to tackle modern pricing issues.
-
-## Corporate and Industry Developments
-
-* [Meta In Talks To Lease Computing Power To Anthropic In Potential $10 Billion Deal](https://hardware.slashdot.org/story/26/07/17/1732212/meta-in-talks-to-lease-computing-power-to-anthropic-in-potential-10-billion-deal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Tech giant Meta is negotiating a massive cloud computing deal worth $10 billion with AI company Anthropic.
-
-* [Apple Sends Legal Letters To Dozens of OpenAI Employees](https://apple.slashdot.org/story/26/07/17/1552258/apple-sends-legal-letters-to-dozens-of-openai-employees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Apple sends legal notices to numerous OpenAI employees under scrutiny for competitive concerns.
-
-* [FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html) - After a two-year pause, Boeing regains certification authority for its 737 MAX and 787 planes.
+* [HP Fined $14 Million For 'Cartelization' of Ink Cartridges, Toner, PCs](https://hardware.slashdot.org/story/26/07/16/2210245/hp-fined-14-million-for-cartelization-of-ink-cartridges-toner-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/07/16/2210245/hp-fined-14-million-for-cartelization-of-ink-cartridges-toner-pcs?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
 ---
 
@@ -87,34 +73,39 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-07-18, 09:01:53](https://lobste.rs/s/b6f3sf/powershell_over_ssh_2026_openssh_on) - [PowerShell over SSH in 2026: OpenSSH on Windows, Key Auth, and PowerShell 7 Remoting](https://mattmichie.com/2026/07/11/powershell-over-ssh-twenty-years-later/)
+* [2026-07-18, 08:30:39](https://lobste.rs/s/z3hzjm/neither_gcc_nor_clang_are_compliant_with) - [neither gcc nor clang are compliant with standard c++](https://sebsite.pw/w/20260708-badstdcxx.html)
+* [2026-07-18, 07:52:15](https://lobste.rs/s/z01edy/gitroot) - [GitRoot](https://gitroot.dev/)
+* [2026-07-18, 07:51:00](https://soylentnews.org/article.pl?sid=26/07/17/1454240&amp;from=rss) - [Hundreds Rally at Bethesda HQ to Protest Xbox Layoffs](https://soylentnews.org/article.pl?sid=26/07/17/1454240&amp;from=rss)
+* [2026-07-18, 07:27:47](https://lobste.rs/s/synvhi/dosbox_on_openvms_alpha_cpu) - [DOSBox on OpenVMS (Alpha CPU)](https://astr0baby.online/AXP/OpenVMS/DOSBOX/)
 * [2026-07-18, 07:00:00](https://science.slashdot.org/story/26/07/18/0427249/alien-world-chemistry-found-inside-meteorite-that-struck-new-jersey-home?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home](https://science.slashdot.org/story/26/07/18/0427249/alien-world-chemistry-found-inside-meteorite-that-struck-new-jersey-home?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-18, 06:32:24](https://news.ycombinator.com/item?id=48955740) - [Show HN: Find someone in the dark – light them or light yourself? (Three.js)](https://github.com/skorotkiewicz/signal-in-the-dark)
 * [2026-07-18, 06:25:54](https://lobste.rs/s/pygp0p/aurora_dsql_scalable_multi_region_oltp) - [Aurora DSQL: Scalable, Multi-Region OLTP](https://arxiv.org/abs/2607.13276)
 * [2026-07-18, 06:17:08](https://lobste.rs/s/femw5f/how_does_pangram_work) - [How does Pangram work?](https://pangram.substack.com/p/how-does-pangram-work)
 * [2026-07-18, 04:31:13](https://lobste.rs/s/ihel7n/regressive_jpegs) - [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
+* [2026-07-18, 03:51:42](https://news.ycombinator.com/item?id=48955042) - [Show HN: IKEA Complexity Index](https://ikea.greg.technology/)
 * [2026-07-18, 03:30:00](https://slashdot.org/story/26/07/17/2142206/australia-to-put-environmental-brakes-on-ai-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Australia To Put Environmental Brakes On AI Data Centers](https://slashdot.org/story/26/07/17/2142206/australia-to-put-environmental-brakes-on-ai-data-centers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-18, 03:14:20](https://news.ycombinator.com/item?id=48954851) - [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
 * [2026-07-18, 03:05:00](https://soylentnews.org/article.pl?sid=26/07/17/0436211&amp;from=rss) - [Teardown: A Generic 7-Port USB 3.0 Hub That Wasn&apos;t](https://soylentnews.org/article.pl?sid=26/07/17/0436211&amp;from=rss)
-* [2026-07-18, 01:18:15](https://news.ycombinator.com/item?id=48954175) - [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/)
-* [2026-07-18, 01:12:13](https://news.ycombinator.com/item?id=48954149) - [I started a \&quot;dirt notebook\&quot;](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/)
+* [2026-07-18, 01:12:13](https://news.ycombinator.com/item?id=48954149) - [I started a “dirt notebook”](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/)
 * [2026-07-18, 01:01:08](https://news.ycombinator.com/item?id=48954074) - [DrDroid (YC W23) Is Hiring](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory)
 * [2026-07-18, 00:48:37](https://news.ycombinator.com/item?id=48953981) - [Stenchill: 3D Printable Solder Paste Stencil Generator](https://www.stenchill.com/en/)
 * [2026-07-18, 00:43:53](https://lobste.rs/s/ycqq4r/road_lisp_which_lisp) - [A Road to Lisp: Which Lisp](https://scotto.me/blog/2026-07-17-which-lisp/)
-* [2026-07-18, 00:30:44](https://lobste.rs/s/dhnwz2/scala_on_go) - [Scala on Go](https://github.com/martianoff/gala)
 * [2026-07-17, 23:33:21](https://lobste.rs/s/ecuwk1/classic_console_tech_tricks) - [Classic console tech tricks](https://www.youtube.com/playlist?list=PLLM_oC5K01gS9rqn7PotAOE-fb0zrnvdu)
 * [2026-07-17, 23:26:35](https://news.ycombinator.com/item?id=48953406) - [The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold](https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier)
 * [2026-07-17, 23:03:22](https://lobste.rs/s/jvg8cy/another_taste_verse) - [Another Taste of Verse](https://www.youtube.com/watch?v=QIiU-QGzcqc&amp;list=PLQtDWkrawhsE&amp;index=2)
 * [2026-07-17, 23:00:00](https://hardware.slashdot.org/story/26/07/17/1944211/steve-wozniaks-foundation-partners-with-realbotix-to-build-ai-teacherbot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Steve Wozniak&apos;s Foundation Partners With Realbotix To Build AI Teacherbot](https://hardware.slashdot.org/story/26/07/17/1944211/steve-wozniaks-foundation-partners-with-realbotix-to-build-ai-teacherbot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-17, 22:45:28](https://lobste.rs/s/zmg7ot/topcoat_batteries_included_framework) - [topcoat: A batteries-included framework for building web apps](https://github.com/tokio-rs/topcoat)
-* [2026-07-17, 22:26:30](https://news.ycombinator.com/item?id=48952880) - [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+* [2026-07-17, 22:26:30](https://news.ycombinator.com/item?id=48952880) - [Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
 * [2026-07-17, 22:18:00](https://soylentnews.org/article.pl?sid=26/07/17/0430256&amp;from=rss) - [Mathematical Explanation for Accelerated Universe Expansion That Doesn&apos;t Require Dark Energy](https://soylentnews.org/article.pl?sid=26/07/17/0430256&amp;from=rss)
 * [2026-07-17, 22:00:00](https://slashdot.org/story/26/07/17/1929216/xi-vows-to-make-ai-for-all-in-debut-at-chinas-top-tech-summit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Xi Vows to Make AI for All in Debut at China&apos;s Top Tech Summit](https://slashdot.org/story/26/07/17/1929216/xi-vows-to-make-ai-for-all-in-debut-at-chinas-top-tech-summit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-17, 21:51:07](https://lobste.rs/s/zar7fc/enterprise_haskell_at_h_e_b) - [Enterprise Haskell at H-E-B](https://blog.haskell.org/enterprise-haskell-at-h-e-b/)
 * [2026-07-17, 21:42:43](https://news.ycombinator.com/item?id=48952565) - [TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years](https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md)
-* [2026-07-17, 21:22:53](https://news.ycombinator.com/item?id=48952439) - [FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
 * [2026-07-17, 21:07:10](https://lobste.rs/s/grutu0/lobsters_interview_with_matheusmoreira) - [Lobsters Interview with matheusmoreira about Lone Lisp](https://alexalejandre.com/interviews/interview-with-matheus-moreira/)
 * [2026-07-17, 21:00:00](https://news.slashdot.org/story/26/07/17/1835215/billing-software-error-sends-billion-dollar-aws-estimates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Billing Software Error Sends Billion-Dollar AWS Estimates](https://news.slashdot.org/story/26/07/17/1835215/billing-software-error-sends-billion-dollar-aws-estimates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-17, 20:55:38](https://lobste.rs/s/31bikj/java_story_official_documentary) - [The Java Story | The Official Documentary](https://www.youtube.com/watch?v=ZqGSg4b_cZA)
 * [2026-07-17, 20:47:57](https://news.ycombinator.com/item?id=48952135) - [Open Book Touch: open-source e-reader](https://www.crowdsupply.com/oddly-specific-objects/open-book-touch)
+* [2026-07-17, 20:41:43](https://news.ycombinator.com/item?id=48952067) - [Topcoat: The full full-stack framework for Rust](https://github.com/tokio-rs/topcoat)
 * [2026-07-17, 20:24:55](https://news.ycombinator.com/item?id=48951898) - [Static search trees: 40x faster than binary search (2024)](https://curiouscoding.nl/posts/static-search-tree/)
 * [2026-07-17, 20:12:59](https://news.ycombinator.com/item?id=48951780) - [Painting the sides of railroad rails white to reduce derailment](https://www.up.com/news/safety/Tracking-Rail-Heat-260608)
 * [2026-07-17, 20:00:00](https://linux.slashdot.org/story/26/07/17/1830258/linus-torvalds-to-critics-of-ai-coding-on-linux-fork-it-or-just-walk-away?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linus Torvalds To Critics of AI Coding On Linux: &apos;Fork It. Or Just Walk Away.&apos;](https://linux.slashdot.org/story/26/07/17/1830258/linus-torvalds-to-critics-of-ai-coding-on-linux-fork-it-or-just-walk-away?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -134,9 +125,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-17, 14:31:10](https://news.ycombinator.com/item?id=48947825) - [The state of open source AI](https://stateofopensource.ai/)
 * [2026-07-17, 14:21:51](https://news.ycombinator.com/item?id=48947717) - [Kimi K3, and what we can still learn from the pelican benchmark](https://simonwillison.net/2026/Jul/16/kimi-k3/)
 * [2026-07-17, 14:06:13](https://news.ycombinator.com/item?id=48947560) - [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo)
-* [2026-07-17, 14:05:15](https://news.ycombinator.com/item?id=48947548) - [Show HN: Watch bots interact with an SSH honeypot in real time](https://honeypotlive.cc/)
-* [2026-07-17, 14:00:04](https://news.ycombinator.com/item?id=48947490) - [Three ways people respond to a problem (other than solving it)](https://improvesomething.today/responses-to-problems/)
-* [2026-07-17, 13:26:04](https://lobste.rs/s/gxjzgq/fedichat_comic_chat_for_fediverse) - [Fedichat - Comic Chat for the Fediverse](https://lambadalambda.github.io/fedichat/client.html)
 * [2026-07-17, 12:51:36](https://lobste.rs/s/u9lvze/we_are_changing_our_developer) - [We are Changing our Developer Productivity Experiment Design](https://metr.org/blog/2026-02-24-uplift-update/)
 * [2026-07-17, 12:49:00](https://soylentnews.org/article.pl?sid=26/07/16/0231216&amp;from=rss) - [Microsoft&apos;s Secure Boot Has Been Broken for a Decade and No One Noticed Until Now](https://soylentnews.org/article.pl?sid=26/07/16/0231216&amp;from=rss)
 * [2026-07-17, 11:21:45](https://lobste.rs/s/x3xvou/freya_0_4_rust_gui_library) - [Freya 0.4 - Rust GUI library](https://freyaui.dev/posts/0.4)
@@ -148,7 +136,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-17, 06:01:54](https://lobste.rs/s/6pdyiy/pact_anonymous_credentials_for_web) - [PACT: Anonymous Credentials for the Web – Mozilla Hacks](https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/)
 * [2026-07-17, 03:30:00](https://tech.slashdot.org/story/26/07/17/0022208/truth-social-to-sell-wall-street-firms-the-fastest-access-to-trumps-post?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Truth Social To Sell Wall Street Firms the &apos;Fastest&apos; Access To Trump&apos;s Post](https://tech.slashdot.org/story/26/07/17/0022208/truth-social-to-sell-wall-street-firms-the-fastest-access-to-trumps-post?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-17, 03:23:00](https://soylentnews.org/article.pl?sid=26/07/16/0225242&amp;from=rss) - [Miami-Based City Labs Achieves a First for Commercial Nuclear Power in Space](https://soylentnews.org/article.pl?sid=26/07/16/0225242&amp;from=rss)
-* [2026-07-17, 02:23:49](https://lobste.rs/s/fftxis/stop_guard_act_age_verification_laws) - [Stop the GUARD Act and age verification laws worldwide](https://www.fsf.org/blogs/community/stop-the-guard-act)
 * [2026-07-17, 02:00:38](https://news.ycombinator.com/item?id=48942603) - [In-toto: A framework to secure the integrity of software supply chains](https://in-toto.io/)
 * [2026-07-17, 00:18:37](https://lobste.rs/s/4dcp6w/here_s_how_i_host_my_own_aim_server) - [Here&apos;s how I host my own AIM server](https://veronicaexplains.net/open-oscar-server/)
 * [2026-07-16, 23:00:00](https://hardware.slashdot.org/story/26/07/16/2210245/hp-fined-14-million-for-cartelization-of-ink-cartridges-toner-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [HP Fined $14 Million For &apos;Cartelization&apos; of Ink Cartridges, Toner, PCs](https://hardware.slashdot.org/story/26/07/16/2210245/hp-fined-14-million-for-cartelization-of-ink-cartridges-toner-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -157,7 +144,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-16, 22:03:22](https://lobste.rs/s/y3qqzv/zilog_z80_has_turned_50) - [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
 * [2026-07-16, 17:51:00](https://soylentnews.org/article.pl?sid=26/07/15/1451242&amp;from=rss) - [FreeBSD 16 Retires the Last of its GPL Code From its Base System](https://soylentnews.org/article.pl?sid=26/07/15/1451242&amp;from=rss)
 * [2026-07-16, 16:43:15](https://lobste.rs/s/qbvfll/microsoft_comic_chat_is_now_open_source) - [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
-* [2026-07-16, 13:51:27](https://lobste.rs/s/wveduf/readme_not) - [README, not](https://blog.yossarian.net/2026/07/16/README-not)
 * [2026-07-16, 11:31:41](https://lobste.rs/s/axdfjx/how_our_rust_zig_rewrite_is_going) - [How Our Rust-to-Zig Rewrite is Going](https://rtfeldman.com/rust-to-zig)
 * [2026-07-16, 11:07:00](https://soylentnews.org/article.pl?sid=26/07/15/0038203&amp;from=rss) - [Meta Data Center Water Discharges Suspended After Contaminating The City&apos;s Reclamation Water Supply ](https://soylentnews.org/article.pl?sid=26/07/15/0038203&amp;from=rss)
 * [2026-07-16, 06:15:00](https://soylentnews.org/article.pl?sid=26/07/15/0036236&amp;from=rss) - [RAMpocalyse Pricing Prompts Maker To Construct His Own Memory Using Ancient Apollo-Era Tech](https://soylentnews.org/article.pl?sid=26/07/15/0036236&amp;from=rss)
@@ -166,6 +152,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-15, 20:50:00](https://soylentnews.org/article.pl?sid=26/07/15/0032228&amp;from=rss) - [‘STEM Is Not Just About Formulas And Calculations, It Is Also About Creativity’](https://soylentnews.org/article.pl?sid=26/07/15/0032228&amp;from=rss)
 * [2026-07-15, 16:04:00](https://soylentnews.org/article.pl?sid=26/07/14/0547216&amp;from=rss) - [AI Servers Will Consume More Power Than All Conventional Data Centers Combined By 2027](https://soylentnews.org/article.pl?sid=26/07/14/0547216&amp;from=rss)
 * [2026-07-15, 11:19:00](https://soylentnews.org/article.pl?sid=26/07/14/0543205&amp;from=rss) - [AI Coding Agents Can be Tricked Into Installing Malware Via &apos;Clean&apos; GitHub Repositories](https://soylentnews.org/article.pl?sid=26/07/14/0543205&amp;from=rss)
+* [2026-07-15, 08:18:25](https://news.ycombinator.com/item?id=48917755) - [Porting nanochat to a TPU: what carries over from PyTorch, and what breaks](https://github.com/tucan9389/nanochat-jax/discussions/1)
 * [2026-07-15, 06:29:00](https://soylentnews.org/article.pl?sid=26/07/14/0540206&amp;from=rss) - [MPs Tell NHS to Start Packing Palantir&apos;s Bags Ahead of 2027 Contract Break](https://soylentnews.org/article.pl?sid=26/07/14/0540206&amp;from=rss)
 * [2026-07-15, 01:42:00](https://soylentnews.org/article.pl?sid=26/07/14/0538220&amp;from=rss) - [Microsoft Admits Windows 11 Has a GDID Tracker With No Off Switch](https://soylentnews.org/article.pl?sid=26/07/14/0538220&amp;from=rss)
 * [2026-07-14, 21:02:00](https://soylentnews.org/article.pl?sid=26/07/12/2153233&amp;from=rss) - [This UK Satellite&apos;s Thermal Camera Raises Major Privacy Concerns](https://soylentnews.org/article.pl?sid=26/07/12/2153233&amp;from=rss)
