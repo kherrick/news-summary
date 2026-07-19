@@ -1,48 +1,56 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Innovations and Discoveries
+## Technology Innovations and Challenges
 
-* [The computer at the bottom of a canal](https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/) - A fascinating story of an unexpected find: a piece of computing history resting at the bottom of a canal. [Comments](https://lobste.rs/s/0mljfd/computer_at_bottom_canal)
+* [Scrying the AMD GFX1250 LLVM Tea Leaves](https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea) ([Comments](https://news.ycombinator.com/item?id=48965161)) - A deep dive into the inner workings of AMD's upcoming GPU architecture, GFX1250, and its LLVM backend.
 
-* [Grok Build Coding Tool Open Sourced This Week, Promises to Respect Zero Data Retention](https://news.slashdot.org/story/26/07/19/034258/grok-build-coding-tool-open-sourced-this-week-promises-to-respect-zero-data-retention?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Open-source software for coding enthusiasts that promises better privacy with zero data retention. [Comments](https://news.slashdot.org/story/26/07/19/034258/grok-build-coding-tool-open-sourced-this-week-promises-to-respect-zero-data-retention?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [‘Grok Build’ Coding Tool Open Sourced This Week, Promises to Respect Zero Data Retention](https://news.slashdot.org/story/26/07/19/034258/grok-build-coding-tool-open-sourced-this-week-promises-to-respect-zero-data-retention?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.slashdot.org/story/26/07/19/034258/grok-build-coding-tool-open-sourced-this-week-promises-to-respect-zero-data-retention?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - A new open-source coding tool that emphasizes user data privacy is released.
 
-* [Google-Backed Satellites For Wildfire Detection Launch As Smoke Chokes US, Canada](https://news.slashdot.org/story/26/07/18/0436243/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A new effort to combat wildfires using Google-supported satellites to detect and monitor fire outbreaks. [Comments](https://news.slashdot.org/story/26/07/18/0436243/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [OpenSSL HollowByte: A DoS Hiding in 11 Bytes](https://sec.okta.com/articles/2026/06/openssl-hollowbtye-a-dos-hiding-in-11-bytes/) ([Comments](https://lobste.rs/s/tvpnsm/openssl_hollowbyte_dos_hiding_11_bytes)) - An exploration of a critical vulnerability within OpenSSL that can exploit just 11 bytes to execute a denial-of-service (DoS) attack.
 
-* [Long After Pluto Fly-By, NASA's New Horizon's Probe Wakes Up Again, Starts Doing New Science](https://science.slashdot.org/story/26/07/18/0537208/long-after-pluto-fly-by-nasas-new-horizons-probe-wakes-up-again-starts-doing-new-science?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - NASA's New Horizons spacecraft returns to operations to continue scientific exploration well past its initial Pluto flyby. [Comments](https://science.slashdot.org/story/26/07/18/0537208/long-after-pluto-fly-by-nasas-new-horizons-probe-wakes-up-again-starts-doing-new-science?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Linus Torvalds Puts His Foot Down, Tells Anti-AI Programmers To ‘Fork It’ - and Then This Happened](https://soylentnews.org/article.pl?sid=26/07/17/151212&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/07/17/151212&amp;from=rss)) - How a strong stance by Linus Torvalds on anti-AI perspectives is reshaping debates in the programming community.
 
-## Artificial Intelligence and Technology Concerns
+## Data Privacy and Security
 
-* [OpenAI Acknowledges GPT-5.6 May Accidentally Delete Files, Calls It 'Honest Mistake'](https://developers.slashdot.org/story/26/07/19/0129228/openai-acknowledges-gpt-56-may-accidentally-delete-files-calls-it-honest-mistake?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI admits to a flaw in GPT-5.6, sparking concerns about potential dangers from AI errors. [Comments](https://developers.slashdot.org/story/26/07/19/0129228/openai-acknowledges-gpt-56-may-accidentally-delete-files-calls-it-honest-mistake?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent) ([Comments](https://news.ycombinator.com/item?id=48956688)) - Concerns arise over LG monitors automatically installing software through Windows updates, raising privacy issues.
 
-* [AI Mania Is Eviscerating Global Decision-Making](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3) - Examination of how an overreliance on AI is potentially destabilizing decision-making processes on a global scale. [Comments](https://news.ycombinator.com/item?id=48964185)
+* [FDA approves new kind of cholesterol pill](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol) ([Comments](https://news.ycombinator.com/item?id=48964536)) - A groundbreaking oral PCSK9 inhibitor for reducing LDL cholesterol levels has been greenlit by the FDA.
 
-* [Software and AI - Plotting vs. Pantsing](https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html) - A creative exploration of software and AI development strategies, comparing systematic planning and on-the-fly improvisation. [Comments](https://lobste.rs/s/ba0j54/software_ai_plotting_vs_pantsing)
+* [France Orders ISPs to Block Access to Polymarket](https://yro.slashdot.org/story/26/07/18/2224236/france-orders-isps-to-block-access-to-polymarket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://yro.slashdot.org/story/26/07/18/2224236/france-orders-isps-to-block-access-to-polymarket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - France enforces a censorship order for internet service providers to block access to the Polymarket platform.
 
-## Artificial Intelligence in Education
+* [Google-Backed Satellites For Wildfire Detection Launch As Smoke Chokes US, Canada](https://news.slashdot.org/story/26/07/18/0436243/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.slashdot.org/story/26/07/18/0436243/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - A promising wildfire detection system using Google-backed satellites aims to assist in disaster management in North America.
 
-* [LLM-Integrated Multivariable Calculus Course](https://calculus.academa.ai/) - A new educational initiative utilizing large language models to teach higher-level mathematics. [Comments](https://news.ycombinator.com/item?id=48964585)
+## Artificial Intelligence Developments
 
-* [Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/) - A guide to repurposing old Macs to run AI-driven coding tools. [Comments](https://news.ycombinator.com/item?id=48959392)
+* [AI Mania Is Eviscerating Global Decision-Making](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3) ([Comments](https://news.ycombinator.com/item?id=48964185)) - A critique on how the global focus on AI might inadvertently compromise overall decision-making and other critical processes.
 
-## Scientific Discoveries and Innovations
+* [OpenAI Acknowledges GPT-5.6 May Accidentally Delete Files, Calls It ‘Honest Mistake’](https://developers.slashdot.org/story/26/07/19/0129228/openai-acknowledges-gpt-56-may-accidentally-delete-files-calls-it-honest-mistake?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://developers.slashdot.org/story/26/07/19/0129228/openai-acknowledges-gpt-56-may-accidentally-delete-files-calls-it-honest-mistake?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - OpenAI announces that its GPT-5.6 model has a critical bug resulting in accidental file deletion, garnering significant attention.
 
-* [Mathematical Explanation for Accelerated Universe Expansion That Doesn't Require Dark Energy](https://soylentnews.org/article.pl?sid=26/07/17/0430256&amp;from=rss) - New theory challenges current models of the universe and explains its accelerated expansion without invoking dark energy. [Comments](https://soylentnews.org/article.pl?sid=26/07/17/0430256&amp;from=rss)
+* [Reviewing AI Code Is Not A Viable Argument](https://softwaremaxims.com/blog/reviewing-ai-code) ([Comments](https://lobste.rs/s/5kgenk/reviewing_ai_code_is_not_viable_argument)) - A compelling argument is made against relying solely on reviewing AI-generated code to ensure quality and accuracy.
 
-* [Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home](https://science.slashdot.org/story/26/07/18/0427249/alien-world-chemistry-found-inside-meteorite-that-struck-new-jersey-home?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A meteorite crash in New Jersey leads to groundbreaking discoveries in extraterrestrial chemistry. [Comments](https://science.slashdot.org/story/26/07/18/0427249/alien-world-chemistry-found-inside-meteorite-that-struck-new-jersey-home?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Developing an Intuitive Sense of Scale](https://magworld.pw) ([Comments](https://news.ycombinator.com/item?id=48916541)) - Exploration of training AI systems to develop an 'intuitive sense of scale' in solving complex computational problems.
 
-## Innovative Engineering and Design
+## Programming, Tools, and Platforms
 
-* [wp2shell: Pre Authentication RCE in WordPress Core](https://wp2shell.com/) - Security researchers uncover critical vulnerability in WordPress that allows remote execution attacks. [Comments](https://lobste.rs/s/aipvbn/wp2shell_pre_authentication_rce)
+* [Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day](https://www.neatnik.net/hardcore-indieweb) ([Comments](https://lobste.rs/s/l9rap5/hardcore_indieweb_run_your_own_website)) - A detailed guide for setting up and maintaining a fully self-hosted, ultra-low-cost website.
 
-* [A better bitset for enum flags](https://www.elbeno.com/blog/?p=1836) - Exploration into developing a more efficient bitset structure for managing enum flags. [Comments](https://lobste.rs/s/vwocht/better_bitset_for_enum_flags)
+* [Show HN: Q3Edit – Edit and play Quake 3 maps in the browser](https://q3edit.com) ([Comments](https://news.ycombinator.com/item?id=48958854)) - A browser-based platform for editing and playing Quake 3 maps.
 
-* [Studying Linux Schedulers, and Why Metrics Matter](https://pradyun.net/blog/metrics_matter.html) - Insights into Linux schedulers and the necessity of accurate metrics in assessing performance. [Comments](https://lobste.rs/s/i0nfve/studying_linux_schedulers_why_metrics)
+* [neither gcc nor clang are compliant with standard c++](https://sebsite.pw/w/20260708-badstdcxx.html) ([Comments](https://lobste.rs/s/z3hzjm/neither_gcc_nor_clang_are_compliant_with)) - A critical exploration of compliance issues in standard C++ implementations by gcc and clang compilers.
 
-## Society and Policy
+* [Supabase just announced searchable encryption](https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash) ([Comments](https://news.ycombinator.com/item?id=48920328)) - Introduction of Supabase's new feature for field-level searchable encryption, redefining secure data handling for app developers.
 
-* [France Orders ISPs to Block Access to Polymarket](https://yro.slashdot.org/story/26/07/18/2224236/france-orders-isps-to-block-access-to-polymarket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A regulatory move requiring French ISPs to block access to prediction market Polymarket. [Comments](https://yro.slashdot.org/story/26/07/18/2224236/france-orders-isps-to-block-access-to-polymarket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [PowerShell over SSH in 2026: OpenSSH on Windows, Key Auth, and PowerShell 7 Remoting](https://mattmichie.com/2026/07/11/powershell-over-ssh-twenty-years-later/) ([Comments](https://lobste.rs/s/b6f3sf/powershell_over_ssh_2026_openssh_on)) - Analysis of the evolution and challenges of utilizing PowerShell over SSH with modern tools like OpenSSH and PowerShell v7.
 
-* [ECHR confirms ethical veganism is a protected philosophical belief](https://veganfta.com/articles/2026/07/17/european-court-confirms-ethical-veganism-is-a-protected-philosophical-belief-in-europe/) - The European Court of Human Rights protects ethical veganism as a philosophical belief under EU rights. [Comments](https://news.ycombinator.com/item?id=48963402)
+## Science and Engineering
+
+* [Experts May Have Drastically Underestimated the Lifespan of EV Batteries](https://soylentnews.org/article.pl?sid=26/07/17/1524222&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/07/17/1524222&amp;from=rss)) - New research suggests that the longevity of electric vehicle batteries may be significantly greater than previously thought.
+
+* [Archaeologists Found Homer's Iliad Inside a 1,600-Year-Old Egyptian Mummy](https://soylentnews.org/article.pl?sid=26/07/17/1518215&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/07/17/1518215&amp;from=rss)) - Fascinating archaeological discovery of a 1,600-year-old Egyptian mummy with hidden verses from Homer's Iliad.
+
+## Cultural Trends and Insights
+
+* [Gen Z and Millennials are Buying CDs - Though Half Don’t Have CD Players](https://entertainment.slashdot.org/story/26/07/18/1948235/gen-z-and-millennials-are-buying-cds---though-half-dont-have-cd-players?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://entertainment.slashdot.org/story/26/07/18/1948235/gen-z-and-millennials-are-buying-cds---though-half-dont-have-cd-players?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)) - An exploration into the unexpected revival of CD purchases among younger generations lacking physical players.
 
 ---
 
@@ -69,30 +77,28 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-07-19, 05:07:08](https://news.ycombinator.com/item?id=48965161) - [Scrying the AMD GFX1250 LLVM Tea Leaves](https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea)
 * [2026-07-19, 04:32:58](https://lobste.rs/s/0mljfd/computer_at_bottom_canal) - [The computer at the bottom of a canal](https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/)
 * [2026-07-19, 04:07:17](https://lobste.rs/s/l9rap5/hardcore_indieweb_run_your_own_website) - [Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day](https://www.neatnik.net/hardcore-indieweb)
 * [2026-07-19, 03:34:00](https://news.slashdot.org/story/26/07/19/034258/grok-build-coding-tool-open-sourced-this-week-promises-to-respect-zero-data-retention?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Grok Build&apos; Coding Tool Open Sourced This Week, Promises to Respect Zero Data Retention](https://news.slashdot.org/story/26/07/19/034258/grok-build-coding-tool-open-sourced-this-week-promises-to-respect-zero-data-retention?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-19, 02:55:43](https://news.ycombinator.com/item?id=48964585) - [LLM-Integrated Multivariable Calculus Course](https://calculus.academa.ai/)
 * [2026-07-19, 02:53:00](https://soylentnews.org/article.pl?sid=26/07/17/1524222&amp;from=rss) - [Experts May Have Drastically Underestimated the Lifespan of EV Batteries](https://soylentnews.org/article.pl?sid=26/07/17/1524222&amp;from=rss)
 * [2026-07-19, 02:40:22](https://news.ycombinator.com/item?id=48964536) - [FDA approves new kind of cholesterol pill](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol)
+* [2026-07-19, 02:17:03](https://news.ycombinator.com/item?id=48964424) - [I built a browser-based P2P file transfer tool using WebRTC](https://airdows.com/)
 * [2026-07-19, 02:14:13](https://lobste.rs/s/ba0j54/software_ai_plotting_vs_pantsing) - [Software and AI - Plotting vs. Pantsing](https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html)
 * [2026-07-19, 01:34:00](https://developers.slashdot.org/story/26/07/19/0129228/openai-acknowledges-gpt-56-may-accidentally-delete-files-calls-it-honest-mistake?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Acknowledges GPT-5.6 May Accidentally Delete Files, Calls It &apos;Honest Mistake&apos;](https://developers.slashdot.org/story/26/07/19/0129228/openai-acknowledges-gpt-56-may-accidentally-delete-files-calls-it-honest-mistake?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-19, 01:33:32](https://news.ycombinator.com/item?id=48964215) - [Deepsec](https://github.com/vercel-labs/deepsec)
 * [2026-07-19, 01:29:19](https://news.ycombinator.com/item?id=48964185) - [AI Mania Is Eviscerating Global Decision-Making](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
 * [2026-07-19, 00:59:55](https://news.ycombinator.com/item?id=48964015) - [Better and Cheaper Than IPTV](https://github.com/stupside/castor)
 * [2026-07-19, 00:51:40](https://lobste.rs/s/qp6s8s/dictionaries_tables) - [Dictionaries and Tables](https://www.defconq.tech/docs/concepts/dictionariesTables)
 * [2026-07-19, 00:45:01](https://lobste.rs/s/i0nfve/studying_linux_schedulers_why_metrics) - [Studying Linux Schedulers, and Why Metrics Matter](https://pradyun.net/blog/metrics_matter.html)
 * [2026-07-19, 00:38:26](https://news.ycombinator.com/item?id=48963879) - [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp)
 * [2026-07-19, 00:17:00](https://yro.slashdot.org/story/26/07/18/2224236/france-orders-isps-to-block-access-to-polymarket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [France Orders ISPs to Block Access to Polymarket](https://yro.slashdot.org/story/26/07/18/2224236/france-orders-isps-to-block-access-to-polymarket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-18, 23:27:36](https://news.ycombinator.com/item?id=48963483) - [Harness Engineering](https://github.com/lopopolo/harness-engineering)
 * [2026-07-18, 23:24:26](https://news.ycombinator.com/item?id=48963465) - [Codex Resets](https://codex-resets.com/)
 * [2026-07-18, 23:17:00](https://yro.slashdot.org/story/26/07/18/0513229/how-microsofts-little-workaround-created-a-major-threat-to-americas-defense-department?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Microsoft&apos;s &apos;Little Workaround&apos; Created a Major Threat to America&apos;s Defense Department](https://yro.slashdot.org/story/26/07/18/0513229/how-microsofts-little-workaround-created-a-major-threat-to-americas-defense-department?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-18, 23:15:32](https://news.ycombinator.com/item?id=48963402) - [ECHR confirms ethical veganism is a protected philosophical belief](https://veganfta.com/articles/2026/07/17/european-court-confirms-ethical-veganism-is-a-protected-philosophical-belief-in-europe/)
 * [2026-07-18, 22:17:00](https://news.slashdot.org/story/26/07/18/2214208/next-uk-prime-minister-drops-digital-id-scheme?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Next UK Prime Minister Drops Digital ID Scheme](https://news.slashdot.org/story/26/07/18/2214208/next-uk-prime-minister-drops-digital-id-scheme?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-18, 22:15:17](https://lobste.rs/s/ib6aav/repeatable_read_vs_snapshot_isolation) - [Repeatable Read vs Snapshot Isolation](https://jaymcor.github.io/notes/isolation_rr_si.html)
 * [2026-07-18, 22:13:39](https://news.ycombinator.com/item?id=48962983) - [Mayor Mamdani Says Landlords Can&apos;t Use AI Images to Advertise](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
-* [2026-07-18, 22:09:07](https://news.ycombinator.com/item?id=48962944) - [Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]](https://www.tug.org/tug2026/preprints/lode-realtime.pdf)
 * [2026-07-18, 22:03:00](https://soylentnews.org/article.pl?sid=26/07/17/1520210&amp;from=rss) - [CXMT&apos;s DDR5 RAM Isn&apos;t As Performant Or As Consistent As SK Hynix Dies, Early Testing Shows](https://soylentnews.org/article.pl?sid=26/07/17/1520210&amp;from=rss)
-* [2026-07-18, 22:02:31](https://news.ycombinator.com/item?id=48962893) - [Judge a book by its first pages](https://uncovered.ink)
 * [2026-07-18, 21:55:27](https://news.ycombinator.com/item?id=48962838) - [Classic Amiga titles, free to download](https://amigafreeware.downer.tech/)
 * [2026-07-18, 21:45:12](https://news.ycombinator.com/item?id=48962758) - [Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day](https://www.neatnik.net/hardcore-indieweb)
 * [2026-07-18, 21:21:41](https://lobste.rs/s/n6hm1q/gleam_has_mirrored_its_source_code_on) - [Gleam has mirrored its source code on tangled (an AT-protocol based forge)](https://tangled.org/gleam.run/gleam)
@@ -108,7 +114,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-18, 16:25:19](https://lobste.rs/s/5kgenk/reviewing_ai_code_is_not_viable_argument) - [Reviewing AI Code Is Not A Viable Argument](https://softwaremaxims.com/blog/reviewing-ai-code)
 * [2026-07-18, 16:19:03](https://lobste.rs/s/oc7su3/apl_case_studies) - [APL Case Studies](https://www.dyalog.com/case-studies/index.htm)
 * [2026-07-18, 16:12:08](https://news.ycombinator.com/item?id=48959392) - [Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/)
-* [2026-07-18, 16:02:45](https://news.ycombinator.com/item?id=48959297) - [Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind](https://deepmind.google/blog/our-approach-to-bioresilience/)
 * [2026-07-18, 15:44:04](https://news.ycombinator.com/item?id=48959143) - [Gleam Is Now on Tangled](https://tangled.org/gleam.run/gleam)
 * [2026-07-18, 15:37:01](https://news.ycombinator.com/item?id=48959090) - [If You Build It, They Will Come](https://www.benlandautaylor.com/p/if-you-build-it-they-will-come)
 * [2026-07-18, 15:34:00](https://games.slashdot.org/story/26/07/18/0723247/union-fights-microsoft-over-layoffs-at-game-studios?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Union Fights Microsoft Over Layoffs at Game Studios](https://games.slashdot.org/story/26/07/18/0723247/union-fights-microsoft-over-layoffs-at-game-studios?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -150,6 +155,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-16, 01:32:00](https://soylentnews.org/article.pl?sid=26/07/15/0034229&amp;from=rss) - [Mapped: Where It Costs the Most to Own a Car in America](https://soylentnews.org/article.pl?sid=26/07/15/0034229&amp;from=rss)
 * [2026-07-15, 20:50:00](https://soylentnews.org/article.pl?sid=26/07/15/0032228&amp;from=rss) - [‘STEM Is Not Just About Formulas And Calculations, It Is Also About Creativity’](https://soylentnews.org/article.pl?sid=26/07/15/0032228&amp;from=rss)
 * [2026-07-15, 16:04:00](https://soylentnews.org/article.pl?sid=26/07/14/0547216&amp;from=rss) - [AI Servers Will Consume More Power Than All Conventional Data Centers Combined By 2027](https://soylentnews.org/article.pl?sid=26/07/14/0547216&amp;from=rss)
+* [2026-07-15, 13:10:01](https://news.ycombinator.com/item?id=48920328) - [Supabase just announced searchable encryption](https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash)
 * [2026-07-15, 11:19:00](https://soylentnews.org/article.pl?sid=26/07/14/0543205&amp;from=rss) - [AI Coding Agents Can be Tricked Into Installing Malware Via &apos;Clean&apos; GitHub Repositories](https://soylentnews.org/article.pl?sid=26/07/14/0543205&amp;from=rss)
 * [2026-07-15, 06:29:00](https://soylentnews.org/article.pl?sid=26/07/14/0540206&amp;from=rss) - [MPs Tell NHS to Start Packing Palantir&apos;s Bags Ahead of 2027 Contract Break](https://soylentnews.org/article.pl?sid=26/07/14/0540206&amp;from=rss)
 * [2026-07-15, 05:13:55](https://news.ycombinator.com/item?id=48916541) - [Developing an Intuitive Sense of Scale](https://magworld.pw)
