@@ -1,62 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovation
+## Technology and Innovations
 
-* [Zilog Z80 8-Bit CPU Turns 50, Open-source Replacement Heads To Drop-in DIP40 Silicon](https://hardware.slashdot.org/story/26/07/20/0046231/zilog-z80-8-bit-cpu-turns-50-open-source-replacement-heads-to-drop-in-dip40-silicon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Celebrating 50 years of the Zilog Z80, one of the most influential 8-bit CPUs, as it gets a modern, open-source replacement designed to fit into DIP40 sockets.
+* [Zilog Z80 8-Bit CPU Turns 50, Open-source Replacement Heads To Drop-in DIP40 Silicon](https://hardware.slashdot.org/story/26/07/20/0046231/zilog-z80-8-bit-cpu-turns-50-open-source-replacement-heads-to-drop-in-dip40-silicon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A classic CPU, the Zilog Z80, celebrates its 50th anniversary with the announcement of an open-source replacement designed for drop-in compatibility with DIP40 sockets.
 
-* [Biggest Probabilistic Computer Turns Noise into Answers](https://spectrum.ieee.org/biggest-probabilistic-computer) - Insights into the development of the world's largest probabilistic computer, designed to harness the power of randomness to find solutions.
+* [Moonshine: Lets you stream games from your PC to any device running Moonlight](https://github.com/hgaiser/moonshine) - An innovative game streaming tool enabling users to play PC games on any device with Moonlight.
 
-* [A new Intel Itanium (IA-64) emulator that boots Windows](https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html) - A new emulator for the Intel Itanium architecture successfully boots Windows, making old systems operational again.
+* [Cagire - Forth-based live coding sequencer](https://cagire.raphaelforment.fr) - Introduction to Cagire, a live coding sequencer based on the Forth programming language, offering creative possibilities for music and sound enthusiasts.
 
-* [The Last MPEG-4 Visual Patent Has Expired](https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired) - The expiration of the last MPEG-4 patent marks a significant milestone, freeing usage from licensing constraints.
+## AI Impacts on Technology and Society
 
-* [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/) - The Claude Code has transitioned to using the high-performance JavaScript runtime written in Rust, Bun.
+* [As AI Transforms Silicon Valley, Some Tech Workers Face Evaporating Financial Security](https://it.slashdot.org/story/26/07/20/0212244/as-ai-transforms-silicon-valley-some-tech-workers-face-evaporating-financial-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Examining AI's disruptive impacts on Silicon Valley's workforce and the potential loss of financial stability among tech workers.
 
-* [Mathematicians still don’t know the fastest way to multiply numbers](https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/) - Despite numerous breakthroughs, mathematicians are still unraveling the ultimate algorithm for optimal multiplication.
+* [AI advice made people less accurate but more confident – sudy](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study) - A study reveals that AI-driven suggestions may reduce accuracy by suppressing critical thinking, while paradoxically boosting user confidence in incorrect conclusions.
 
-## Artificial Intelligence and Ethics
+* [AI Mania is Eviscerating Global Decision-Making](https://soylentnews.org/article.pl?sid=26/07/19/036256&amp;from=rss) - A critical look at how the rise of artificial intelligence is impacting key decision-making processes around the world.
 
-* [AI advice made people 3x less accurate but 2x confident, researchers found](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study) - Researchers discovered that while AI advice bolsters user confidence, it often leads to poorer decision-making.
+## Space and Astronomy
 
-* [Moonshot AI suspends new subscriptions due to Kimi K3 demand](https://twitter.com/kimi_moonshot/status/2078855608565207130) - A spike in demand for Moonshot AI's Kimi K3 model leads the company to halt new subscriptions temporarily.
+* [The Galaxy's Coldest “Stars” Might Actually be Alien Megastructures](https://soylentnews.org/article.pl?sid=26/07/20/0318228&amp;from=rss) - Could some of the coldest objects in the galaxy actually be massive alien-engineered structures? This article dives into the intriguing possibilities.
 
-* [OpenAI Acknowledges GPT-5.6 May Accidentally Delete Files, Calls It 'Honest Mistake'](https://developers.slashdot.org/story/26/07/19/0129228/openai-acknowledges-gpt-56-may-accidentally-delete-files-calls-it-honest-mistake?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - OpenAI admits that its latest GPT-5.6 model is prone to erroneously deleting files, dubbing it an 'honest mistake'.
+* [James Webb Space Telescope Discovers How Black Holes Feed Themselves](https://science.slashdot.org/story/26/07/19/191239/james-webb-space-telescope-discovers-how-black-holes-feed-themselves?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Insights from the James Webb Space Telescope reveal the mechanisms behind how black holes sustain themselves by drawing in surrounding materials.
 
-## Environment and Sustainability
+## Scientific Discoveries and Curious Phenomena
 
-* [Natural experiments prove phytoplankton carbon removal works](https://www.onepercentbrighter.com/p/natural-experiments-prove-feeding) - Research corroborates that phytoplankton play a critical role in carbon dioxide removal through natural processes.
+* [Natural experiments prove phytoplankton carbon removal works](https://www.onepercentbrighter.com/p/natural-experiments-prove-feeding) - Evidence shows that natural processes involving phytoplankton can play a significant role in carbon removal from the atmosphere.
 
-* [How to Abandon Your Climate Commitments and Get Away with It](https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html) - Insightful analysis on how companies can sidestep their climate promises without facing significant backlash.
+* [Mathematicians still don’t know the fastest way to multiply numbers](https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/) - Despite advancements, the mathematical community remains stumped on identifying the quickest method to multiply numbers efficiently.
 
-* [Finland Is Preparing to Hide an Entire City Underground](https://soylentnews.org/article.pl?sid=26/07/19/034232&amp;from=rss) - Exploring Finland's innovative measures to counter climate challenges by creating a city underground.
+* [Claude Fable produced a counterexample to the Jacobian Conjecture](https://xcancel.com/__alpoge__/status/2079028340955197566) - A counterexample to the long-standing and complex Jacobian Conjecture has generated significant interest in mathematical circles.
 
-## Space and Science
+## Infrastructure and Security Developments
 
-* [James Webb Space Telescope Discovers How Black Holes Feed Themselves](https://science.slashdot.org/story/26/07/19/191239/james-webb-space-telescope-discovers-how-black-holes-feed-themselves?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The James Webb Space Telescope offers groundbreaking insights into the mechanisms through which black holes sustain themselves.
+* [Finland is Preparing to Hide an Entire City Underground](https://soylentnews.org/article.pl?sid=26/07/19/034232&amp;from=rss) - Examining Finland's ambitious plans to secure and hide an entire city underground for safety and resilience.
 
-* [Mathematical Explanation for Accelerated Universe Expansion That Doesn&apos;t Require Dark Energy](https://soylentnews.org/article.pl?sid=26/07/17/0430256&amp;from=rss) - A novel mathematical theory suggests a possible alternative explanation for the universe's accelerated expansion without involving dark energy.
+* [Microsoft's Secure Boot Has Been Broken for a Decade and No One Noticed Until Now](https://soylentnews.org/article.pl?sid=26/07/16/0231216&amp;from=rss) - A decade-long vulnerability in Microsoft's Secure Boot system has been discovered, raising significant cybersecurity concerns.
 
-* [NTP Server That Traveled Back In Time Caused Massive Aussie Mobile Outage](https://soylentnews.org/article.pl?sid=26/07/17/1611241&amp;from=rss) - Unusual event where an NTP server going 'back in time' disrupted mobile services across Australia.
+## Notable Events
 
-## Culture and Society
+* [Robot 'Decapitated' in World's First-Ever Humanoid UFC Fight](https://hardware.slashdot.org/story/26/07/19/1746241/robot-decapitated-in-worlds-first-ever-humanoid-ufc-fight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Highlights from the world's first humanoid UFC fight, including a dramatic 'decapitation' of a robot competitor.
 
-* [We want Texans to know their rights](https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion) - An initiative aiming to educate Texans about their rights and protections concerning health and surveillance around abortion.
+* [NTP Server That Traveled Back In Time Caused Massive Aussie Mobile Outage](https://soylentnews.org/article.pl?sid=26/07/17/1611241&amp;from=rss) - A malfunctioning NTP server that displayed dates far in the past caused widespread mobile network outages across Australia.
 
-* [Bananas sprout in Rayleigh Garden UK after 15 years](https://www.bbc.com/news/articles/cvg8edqq5g5o) - A rare event sees bananas thriving in a UK garden after 15 years of cultivation.
+## Retro Tech and DIY Endeavors
 
-* [Linus Torvalds Puts His Foot Down, Tells Anti-AI Programmers To &apos;Fork It&apos; - and Then This Happened](https://soylentnews.org/article.pl?sid=26/07/17/151212&amp;from=rss) - Linus Torvalds makes a polarizing statement addressing developers in the open-source AI community.
+* [I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606) - A maker shares an inspiring story of replacing an expensive bowling center system with a cost-effective DIY setup using ESP32s.
 
-## Security and Privacy
-
-* [France Orders ISPs to Block Access to Polymarket](https://yro.slashdot.org/story/26/07/18/2224236/france-orders-isps-to-block-access-to-polymarket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - France enforces restrictions on internet service providers, blocking access to Polymarket.
-
-* [Microsoft&apos;s Secure Boot Has Been Broken for a Decade and No One Noticed Until Now](https://soylentnews.org/article.pl?sid=26/07/16/0231216&amp;from=rss) - A decade-long flaw in Microsoft's Secure Boot system went undetected, raising questions about cybersecurity standards.
-
-## Miscellaneous
-
-* [Robot 'Decapitated' in World&apos;s First-Ever Humanoid UFC Fight](https://hardware.slashdot.org/story/26/07/19/1746241/robot-decapitated-in-worlds-first-ever-humanoid-ufc-fight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - The inaugural humanoid UFC fight ends with one of the robots being 'decapitated'.
-
-* [I Built an Even Better Ropebot Dog](https://www.youtube.com/watch?v=GFLa1b1juUo) - A new and improved version of a ropebot dog wows with its capabilities.
+* [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard) - Lessons from selling a niche hardware product, revealing insights into hardware development and marketing.
 
 ---
 
@@ -83,51 +73,57 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-07-20, 04:20:00](https://developers.slashdot.org/story/26/07/20/0417244/rust-will-help-linux-succeed-and-makes-coding-fun-says-greg-kroah-hartman?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Rust Will Help Linux Succeed and Makes Coding Fun, Says Greg Kroah-Hartman](https://developers.slashdot.org/story/26/07/20/0417244/rust-will-help-linux-succeed-and-makes-coding-fun-says-greg-kroah-hartman?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-20, 03:24:00](https://soylentnews.org/article.pl?sid=26/07/20/0318228&amp;from=rss) - [The Galaxy&apos;s Coldest “Stars” Might Actually be Alien Megastructures](https://soylentnews.org/article.pl?sid=26/07/20/0318228&amp;from=rss)
+* [2026-07-20, 02:51:16](https://news.ycombinator.com/item?id=48973869) - [Claude Fable produced a counterexample to the Jacobian Conjecture](https://xcancel.com/__alpoge__/status/2079028340955197566)
+* [2026-07-20, 02:46:27](https://lobste.rs/s/qyacql/who_s_responsible_for_bug_reports_on_old) - [Who’s responsible for bug reports on old software versions?](https://pointieststick.com/2026/07/19/whos-responsible-for-bug-reports-on-old-software-versions/)
+* [2026-07-20, 02:15:00](https://it.slashdot.org/story/26/07/20/0212244/as-ai-transforms-silicon-valley-some-tech-workers-face-evaporating-financial-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [As AI Transforms Silicon Valley, Some Tech Workers Face Evaporating Financial Security](https://it.slashdot.org/story/26/07/20/0212244/as-ai-transforms-silicon-valley-some-tech-workers-face-evaporating-financial-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-20, 01:01:25](https://lobste.rs/s/u93mkb/cagire_forth_based_live_coding_sequencer) - [Cagire - Forth-based live coding sequencer](https://cagire.raphaelforment.fr)
 * [2026-07-20, 00:50:00](https://hardware.slashdot.org/story/26/07/20/0046231/zilog-z80-8-bit-cpu-turns-50-open-source-replacement-heads-to-drop-in-dip40-silicon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Zilog Z80 8-Bit CPU Turns 50, Open-source Replacement Heads To Drop-in DIP40 Silicon](https://hardware.slashdot.org/story/26/07/20/0046231/zilog-z80-8-bit-cpu-turns-50-open-source-replacement-heads-to-drop-in-dip40-silicon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-20, 00:16:50](https://news.ycombinator.com/item?id=48972970) - [Moonshine: Lets you stream games from your PC to any device running Moonlight](https://github.com/hgaiser/moonshine)
 * [2026-07-19, 23:09:00](https://tech.slashdot.org/story/26/07/19/236218/dozens-of-robotaxi-riders-are-falling-asleep-sparking-frantic-calls-for-emergency-services?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Dozens of Robotaxi Riders Are Falling Asleep, Sparking Frantic Calls For Emergency Services](https://tech.slashdot.org/story/26/07/19/236218/dozens-of-robotaxi-riders-are-falling-asleep-sparking-frantic-calls-for-emergency-services?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-19, 22:03:11](https://news.ycombinator.com/item?id=48972062) - [We want Texans to know their rights](https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion)
 * [2026-07-19, 21:53:00](https://soylentnews.org/article.pl?sid=26/07/19/0313244&amp;from=rss) - [Welcome to DebConf26!](https://soylentnews.org/article.pl?sid=26/07/19/0313244&amp;from=rss)
 * [2026-07-19, 21:42:12](https://news.ycombinator.com/item?id=48971938) - [Biggest Probabilistic Computer Turns Noise into Answers](https://spectrum.ieee.org/biggest-probabilistic-computer)
-* [2026-07-19, 21:31:48](https://news.ycombinator.com/item?id=48971847) - [Show HN: A canvas-based note taking and organizer app](https://www.passinote.app/)
-* [2026-07-19, 21:24:03](https://news.ycombinator.com/item?id=48971781) - [How to Abandon Your Climate Commitments and Get Away with It](https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html)
-* [2026-07-19, 21:18:10](https://news.ycombinator.com/item?id=48971738) - [AI advice made people 3x less accurate but 2x confident, researchers found](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
+* [2026-07-19, 21:18:10](https://news.ycombinator.com/item?id=48971738) - [AI advice made people less accurate but more confident – sudy](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
 * [2026-07-19, 21:04:00](https://news.slashdot.org/story/26/07/19/210221/californias-truth-in-recycling-law-blocked-by-judge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [California&apos;s &apos;Truth in Recycling&apos; Law Blocked by Judge](https://news.slashdot.org/story/26/07/19/210221/californias-truth-in-recycling-law-blocked-by-judge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-19, 20:50:42](https://news.ycombinator.com/item?id=48971566) - [A new Intel Itanium (IA-64) emulator that boots Windows](https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html)
-* [2026-07-19, 20:50:07](https://news.ycombinator.com/item?id=48971561) - [Americans are angry about data centers. Politicians are feeling the pressure](https://www.reuters.com/world/us/americans-are-angry-about-data-centers-politicians-are-feeling-pressure-2026-07-16/)
 * [2026-07-19, 20:19:38](https://lobste.rs/s/m2shhj/zen_parallel_programming) - [The Zen of Parallel Programming](https://smolnero.com/posts/the-zen-of-parallel-programming)
 * [2026-07-19, 19:45:09](https://lobste.rs/s/plztql/dependable_c) - [Dependable C](https://dependablec.org/)
 * [2026-07-19, 19:31:26](https://lobste.rs/s/fdmitg/running_microvms_proxmox_ve_easy_way) - [Running microVMs in Proxmox VE, The Easy Way](https://taoofmac.com/space/blog/2026/06/18/1845)
-* [2026-07-19, 19:27:16](https://news.ycombinator.com/item?id=48970991) - [Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV](https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv)
+* [2026-07-19, 19:13:29](https://news.ycombinator.com/item?id=48970894) - [Orion Browser by Kagi](https://orionbrowser.com/)
 * [2026-07-19, 19:05:00](https://science.slashdot.org/story/26/07/19/191239/james-webb-space-telescope-discovers-how-black-holes-feed-themselves?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [James Webb Space Telescope Discovers How Black Holes Feed Themselves](https://science.slashdot.org/story/26/07/19/191239/james-webb-space-telescope-discovers-how-black-holes-feed-themselves?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-19, 18:57:01](https://news.ycombinator.com/item?id=48970772) - [HomeLab #1: MikroTik as a Home Router](https://justsomebody.dev/blog/mikrotik-home-router)
 * [2026-07-19, 18:34:40](https://lobste.rs/s/ectsvy/notification_gave_up_after_minute) - [The notification that gave up after a minute](https://jva.lol/weblog/the-notification-that-gave-up-after-a-minute/)
 * [2026-07-19, 17:49:00](https://hardware.slashdot.org/story/26/07/19/1746241/robot-decapitated-in-worlds-first-ever-humanoid-ufc-fight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Robot &apos;Decapitated&apos; in World&apos;s First-Ever Humanoid UFC Fight](https://hardware.slashdot.org/story/26/07/19/1746241/robot-decapitated-in-worlds-first-ever-humanoid-ufc-fight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-19, 17:35:03](https://lobste.rs/s/ymnnmv/introduction_formal_verification_with) - [Introduction to Formal Verification with Lean (Part 1)](https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1))
-* [2026-07-19, 17:08:00](https://soylentnews.org/article.pl?sid=26/07/19/036256&amp;from=rss) - [AI Mania Is Eviscerating Global Decision-Making](https://soylentnews.org/article.pl?sid=26/07/19/036256&amp;from=rss)
-* [2026-07-19, 16:45:17](https://news.ycombinator.com/item?id=48969635) - [The Last MPEG-4 Visual Patent Has Expired](https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired)
+* [2026-07-19, 17:25:03](https://news.ycombinator.com/item?id=48969983) - [HMD Touch 4G](https://www.hmd.com/en_int/hmd-touch-4g)
+* [2026-07-19, 17:08:00](https://soylentnews.org/article.pl?sid=26/07/19/036256&amp;from=rss) - [AI Mania is Eviscerating Global Decision-Making](https://soylentnews.org/article.pl?sid=26/07/19/036256&amp;from=rss)
 * [2026-07-19, 16:34:00](https://tech.slashdot.org/story/26/07/18/2130259/windows-10-still-being-used-often-unpatched-and-insecure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Windows 10 Still Being Used, Often Unpatched and Insecure](https://tech.slashdot.org/story/26/07/18/2130259/windows-10-still-being-used-often-unpatched-and-insecure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-19, 16:02:25](https://news.ycombinator.com/item?id=48969291) - [Moonshot AI suspends new subscriptions due to Kimi K3 demand](https://twitter.com/kimi_moonshot/status/2078855608565207130)
 * [2026-07-19, 15:34:00](https://tech.slashdot.org/story/26/07/19/0559215/aptera-announces-us-wide-repair-network-for-its-upcoming-solar-electric-car?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Aptera Announces US-Wide Repair Network for Its Upcoming Solar Electric Car](https://tech.slashdot.org/story/26/07/19/0559215/aptera-announces-us-wide-repair-network-for-its-upcoming-solar-electric-car?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-19, 15:20:22](https://news.ycombinator.com/item?id=48968949) - [C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)](https://retrogamecoders.com/c64-basic-dungeon-part8/)
 * [2026-07-19, 14:51:57](https://news.ycombinator.com/item?id=48968701) - [Natural experiments prove phytoplankton carbon removal works](https://www.onepercentbrighter.com/p/natural-experiments-prove-feeding)
 * [2026-07-19, 14:41:16](https://news.ycombinator.com/item?id=48968606) - [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606)
-* [2026-07-19, 14:39:59](https://lobste.rs/s/oqi98d/i_built_even_better_ropebot_dog) - [I Built an Even Better Ropebot Dog](https://www.youtube.com/watch?v=GFLa1b1juUo)
 * [2026-07-19, 14:34:00](https://news.slashdot.org/story/26/07/19/0631207/former-richard-stallman-colleague-now-argues-for-open-ai-models-too?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Former Richard Stallman Colleague Now Argues for Open AI Models Too](https://news.slashdot.org/story/26/07/19/0631207/former-richard-stallman-colleague-now-argues-for-open-ai-models-too?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-19, 14:32:11](https://lobste.rs/s/ukyvbo/codesizer_why_is_binary_so_big) - [CodeSizer: Why is that binary so big?](https://github.com/Wren6991/CodeSizer)
+* [2026-07-19, 14:30:31](https://news.ycombinator.com/item?id=48968515) - [Terence McKenna&apos;s Mega Bad Trip (2025)](https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip)
+* [2026-07-19, 14:28:24](https://lobste.rs/s/t56kjo/zta_zero_token_architecture) - [ZTA: Zero Token Architecture](https://www.youtube.com/watch?v=A7WFt2JQ5sg)
+* [2026-07-19, 14:02:59](https://lobste.rs/s/jdcxr0/git_email_patch_review_addon_for) - [Git email patch review addon for Thunderbird](https://mccd.space/git/thunderbird-patch-review/file/README.html.html)
 * [2026-07-19, 13:29:29](https://news.ycombinator.com/item?id=48968063) - [Bananas sprout in Rayleigh Garden UK after 15 years](https://www.bbc.com/news/articles/cvg8edqq5g5o)
 * [2026-07-19, 13:21:02](https://lobste.rs/s/fq2z79/shake_blog) - [Shake Blog](https://abhin4v.github.io/shake-blog/)
 * [2026-07-19, 13:14:39](https://lobste.rs/s/69mche/what_is_your_favorite_blog_read_recently) - [What is your favorite blog to read recently?](https://lobste.rs/s/69mche/what_is_your_favorite_blog_read_recently)
-* [2026-07-19, 12:23:00](https://soylentnews.org/article.pl?sid=26/07/19/034232&amp;from=rss) - [Finland Is Preparing to Hide an Entire City Underground](https://soylentnews.org/article.pl?sid=26/07/19/034232&amp;from=rss)
+* [2026-07-19, 12:41:16](https://lobste.rs/s/xhjzmc/skred_is_now_midi_aware_synth_drum_machine) - [Skred is now a MIDI aware synth and drum machine construction kit](https://lobste.rs/s/xhjzmc/skred_is_now_midi_aware_synth_drum_machine)
+* [2026-07-19, 12:23:00](https://soylentnews.org/article.pl?sid=26/07/19/034232&amp;from=rss) - [Finland is Preparing to Hide an Entire City Underground](https://soylentnews.org/article.pl?sid=26/07/19/034232&amp;from=rss)
+* [2026-07-19, 12:01:53](https://news.ycombinator.com/item?id=48967355) - [I burned all my tokens researching how to save tokens](https://quesma.com/blog/custom-deep-research-pipeline/)
 * [2026-07-19, 11:48:18](https://news.ycombinator.com/item?id=48967256) - [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4)
 * [2026-07-19, 11:43:23](https://lobste.rs/s/y8okbv/triton_language_for_alibaba_sail) - [Triton language for Alibaba SAIL](https://github.com/t-head/triton-for-sail)
 * [2026-07-19, 11:34:00](https://tech.slashdot.org/story/26/07/19/046258/are-there-cybersecurity-risks-in-over-the-air-tech-used-in-autos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Are There Cybersecurity Risks in Over-the-Air Tech Used in Autos? ](https://tech.slashdot.org/story/26/07/19/046258/are-there-cybersecurity-risks-in-over-the-air-tech-used-in-autos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-19, 11:14:38](https://news.ycombinator.com/item?id=48966984) - [I joined the IndieWeb, here&apos;s what I learned](https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/)
-* [2026-07-19, 10:44:31](https://news.ycombinator.com/item?id=48966769) - [The death and rebirth of my home server](https://sgt.hootr.club/blog/home-server-rebirth/)
 * [2026-07-19, 10:40:29](https://lobste.rs/s/k6ph7c/death_rebirth_my_home_server) - [The death and rebirth of my home server](https://sgt.hootr.club/blog/home-server-rebirth/)
 * [2026-07-19, 10:34:58](https://news.ycombinator.com/item?id=48966713) - [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard)
 * [2026-07-19, 10:03:23](https://news.ycombinator.com/item?id=48966569) - [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)
 * [2026-07-19, 08:44:57](https://news.ycombinator.com/item?id=48966120) - [Qwen 3.8](https://twitter.com/Alibaba_Qwen/status/2078759124914098291)
 * [2026-07-19, 08:37:50](https://lobste.rs/s/01ypky/more_emulation_goodness_intel_itanium_ia) - [More emulation goodness, an Intel Itanium (IA-64) emulator that boots Windows](https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html)
-* [2026-07-19, 07:54:39](https://news.ycombinator.com/item?id=48965850) - [OpenAI reduces Codex Model Context Size from 372k to 272k](https://github.com/openai/codex/pull/33972/files)
+* [2026-07-19, 07:59:44](https://news.ycombinator.com/item?id=48965880) - [Ollama: All Aboard Open Models](https://ollama.com/blog/all-aboard-open-models)
 * [2026-07-19, 07:50:55](https://lobste.rs/s/otiash/mathematicians_still_don_t_know_fastest) - [Mathematicians still don’t know the fastest way to multiply numbers](https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/)
 * [2026-07-19, 07:40:00](https://soylentnews.org/article.pl?sid=26/07/17/1611241&amp;from=rss) - [NTP Server That Traveled Back In Time Caused Massive Aussie Mobile Outage](https://soylentnews.org/article.pl?sid=26/07/17/1611241&amp;from=rss)
 * [2026-07-19, 07:34:00](https://science.slashdot.org/story/26/07/18/0327200/new-study-links-teen-boys-adhd-symptoms-to-addictive-social-media-use?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Study Links Teen Boys&apos; ADHD Symptoms To Addictive Social Media Use](https://science.slashdot.org/story/26/07/18/0327200/new-study-links-teen-boys-adhd-symptoms-to-addictive-social-media-use?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -138,26 +134,19 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-19, 01:34:00](https://developers.slashdot.org/story/26/07/19/0129228/openai-acknowledges-gpt-56-may-accidentally-delete-files-calls-it-honest-mistake?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Acknowledges GPT-5.6 May Accidentally Delete Files, Calls It &apos;Honest Mistake&apos;](https://developers.slashdot.org/story/26/07/19/0129228/openai-acknowledges-gpt-56-may-accidentally-delete-files-calls-it-honest-mistake?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-19, 00:45:01](https://lobste.rs/s/i0nfve/studying_linux_schedulers_why_metrics) - [Studying Linux Schedulers, and Why Metrics Matter](https://pradyun.net/blog/metrics_matter.html)
 * [2026-07-19, 00:17:00](https://yro.slashdot.org/story/26/07/18/2224236/france-orders-isps-to-block-access-to-polymarket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [France Orders ISPs to Block Access to Polymarket](https://yro.slashdot.org/story/26/07/18/2224236/france-orders-isps-to-block-access-to-polymarket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-18, 23:17:00](https://yro.slashdot.org/story/26/07/18/0513229/how-microsofts-little-workaround-created-a-major-threat-to-americas-defense-department?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [How Microsoft&apos;s &apos;Little Workaround&apos; Created a Major Threat to America&apos;s Defense Department](https://yro.slashdot.org/story/26/07/18/0513229/how-microsofts-little-workaround-created-a-major-threat-to-americas-defense-department?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-18, 22:17:00](https://news.slashdot.org/story/26/07/18/2214208/next-uk-prime-minister-drops-digital-id-scheme?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Next UK Prime Minister Drops Digital ID Scheme](https://news.slashdot.org/story/26/07/18/2214208/next-uk-prime-minister-drops-digital-id-scheme?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-18, 22:03:00](https://soylentnews.org/article.pl?sid=26/07/17/1520210&amp;from=rss) - [CXMT&apos;s DDR5 RAM Isn&apos;t As Performant Or As Consistent As SK Hynix Dies, Early Testing Shows](https://soylentnews.org/article.pl?sid=26/07/17/1520210&amp;from=rss)
 * [2026-07-18, 21:28:38](https://news.ycombinator.com/item?id=48962600) - [UnifiedIR for Julia](https://github.com/JuliaLang/julia/pull/62334)
 * [2026-07-18, 21:21:41](https://lobste.rs/s/n6hm1q/gleam_has_mirrored_its_source_code_on) - [Gleam has mirrored its source code on tangled (an AT-protocol based forge)](https://tangled.org/gleam.run/gleam)
-* [2026-07-18, 21:10:27](https://lobste.rs/s/tvpnsm/openssl_hollowbyte_dos_hiding_11_bytes) - [OpenSSL HollowByte: A DoS Hiding in 11 Bytes](https://sec.okta.com/articles/2026/06/openssl-hollowbtye-a-dos-hiding-in-11-bytes/)
 * [2026-07-18, 18:12:17](https://lobste.rs/s/aipvbn/wp2shell_pre_authentication_rce) - [wp2shell: Pre Authentication RCE in WordPress Core](https://wp2shell.com/)
 * [2026-07-18, 17:20:00](https://soylentnews.org/article.pl?sid=26/07/17/1518215&amp;from=rss) - [Archaeologists Found Homer&apos;s Iliad Inside a 1,600-Year-Old Egyptian Mummy](https://soylentnews.org/article.pl?sid=26/07/17/1518215&amp;from=rss)
-* [2026-07-18, 13:59:49](https://lobste.rs/s/bgtxi5/haunt_0_4_0_released) - [Haunt 0.4.0 released](https://git.dthompson.us/haunt/commit/?id=100da093a804f04d3b10c9db49da663f2246c446)
+* [2026-07-18, 16:25:19](https://lobste.rs/s/5kgenk/reviewing_ai_code_is_not_viable_argument) - [Reviewing AI Code Is Not A Viable Argument (2025)](https://softwaremaxims.com/blog/reviewing-ai-code)
 * [2026-07-18, 12:36:00](https://soylentnews.org/article.pl?sid=26/07/17/151212&amp;from=rss) - [Linus Torvalds Puts His Foot Down, Tells Anti-AI Programmers To &apos;Fork It&apos; - and Then This Happened](https://soylentnews.org/article.pl?sid=26/07/17/151212&amp;from=rss)
-* [2026-07-18, 08:30:39](https://lobste.rs/s/z3hzjm/neither_gcc_nor_clang_are_compliant_with) - [neither gcc nor clang are compliant with standard c++](https://sebsite.pw/w/20260708-badstdcxx.html)
 * [2026-07-18, 07:52:15](https://lobste.rs/s/z01edy/gitroot) - [GitRoot](https://gitroot.dev/)
 * [2026-07-18, 07:51:00](https://soylentnews.org/article.pl?sid=26/07/17/1454240&amp;from=rss) - [Hundreds Rally at Bethesda HQ to Protest Xbox Layoffs](https://soylentnews.org/article.pl?sid=26/07/17/1454240&amp;from=rss)
 * [2026-07-18, 04:31:13](https://lobste.rs/s/ihel7n/regressive_jpegs) - [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
 * [2026-07-18, 03:05:00](https://soylentnews.org/article.pl?sid=26/07/17/0436211&amp;from=rss) - [Teardown: A Generic 7-Port USB 3.0 Hub That Wasn&apos;t](https://soylentnews.org/article.pl?sid=26/07/17/0436211&amp;from=rss)
 * [2026-07-17, 22:18:00](https://soylentnews.org/article.pl?sid=26/07/17/0430256&amp;from=rss) - [Mathematical Explanation for Accelerated Universe Expansion That Doesn&apos;t Require Dark Energy](https://soylentnews.org/article.pl?sid=26/07/17/0430256&amp;from=rss)
-* [2026-07-17, 21:51:07](https://lobste.rs/s/zar7fc/enterprise_haskell_at_h_e_b) - [Enterprise Haskell at H-E-B](https://blog.haskell.org/enterprise-haskell-at-h-e-b/)
-* [2026-07-17, 21:07:10](https://lobste.rs/s/grutu0/lobsters_interview_with_matheusmoreira) - [Lobsters Interview with matheusmoreira about Lone Lisp](https://alexalejandre.com/interviews/interview-with-matheus-moreira/)
 * [2026-07-17, 17:33:00](https://soylentnews.org/article.pl?sid=26/07/16/0415252&amp;from=rss) - [Why the Human Body Has So Many Design Flaws](https://soylentnews.org/article.pl?sid=26/07/16/0415252&amp;from=rss)
-* [2026-07-17, 15:50:25](https://news.ycombinator.com/item?id=48948800) - [Building an Arch Linux Aarch64 Port for Holo Core](https://www.collabora.com/news-and-blog/news-and-events/building-an-arch-linux-aarch64-port-for-holo-core.html)
 * [2026-07-17, 12:49:00](https://soylentnews.org/article.pl?sid=26/07/16/0231216&amp;from=rss) - [Microsoft&apos;s Secure Boot Has Been Broken for a Decade and No One Noticed Until Now](https://soylentnews.org/article.pl?sid=26/07/16/0231216&amp;from=rss)
 * [2026-07-17, 08:07:00](https://soylentnews.org/article.pl?sid=26/07/16/0229204&amp;from=rss) - [Irish Datacenters Now Guzzle 23% of the Country&apos;s Electricity](https://soylentnews.org/article.pl?sid=26/07/16/0229204&amp;from=rss)
 * [2026-07-17, 03:23:00](https://soylentnews.org/article.pl?sid=26/07/16/0225242&amp;from=rss) - [Miami-Based City Labs Achieves a First for Commercial Nuclear Power in Space](https://soylentnews.org/article.pl?sid=26/07/16/0225242&amp;from=rss)
