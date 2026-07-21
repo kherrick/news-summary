@@ -1,52 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Developments
+## Technology and Security Developments
 
-* [GitHub suddenly rejected my SSH key (the fix was a .pub file?!)](https://thorsell.io/2026/07/21/github-ssh-keys.html) ([comments](https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix))
+* [GitHub suddenly rejected my SSH key (the fix was a .pub file?!)](https://thorsell.io/2026/07/21/github-ssh-keys.html) - A user details an unexpected issue with GitHub rejecting their SSH key and how they resolved it with a simple `.pub` file, offering insight into SSH key handling.
 
-* [Linux kernel will support $ORIGIN, sort of](https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of) ([comments](https://news.ycombinator.com/item?id=48988793))
+* [432 Linux kernel CVEs published in the last 24 hours](https://lore.kernel.org/linux-cve-announce/) - Concerns over the sheer volume of CVEs for the Linux kernel flood in, raising questions about security practices.
 
-* [Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts](https://exsitu.app/map) ([comments](https://news.ycombinator.com/item?id=48988158))
+* [Hackers Are Exploiting Recently Patched WordPress Bugs, Putting Millions of Websites at Risk](https://tech.slashdot.org/story/26/07/20/234246/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Exploitation of WordPress vulnerabilities causes risk for website owners, emphasizing the importance of timely patching.
 
-* [Running Doom on Our Custom CPU and Going Viral](https://www.armaangomes.com/blogs/doom/) ([comments](https://news.ycombinator.com/item?id=48987846))
+* [NTP Server That Traveled Back In Time Caused Massive Aussie Mobile Outage](https://soylentnews.org/article.pl?sid=26/07/17/1611241&from=rss) - A bizarre incident involving an NTP server disrupts mobile services in Australia, highlighting the fragility of network systems.
 
-* [Why l (new runtime for k and q)](https://lv1.sh/blog/why-l/) ([comments](https://lobste.rs/s/wkm8tk/why_l_new_runtime_for_k_q))
+## AI Progress and Applications
 
-* [30 to 70 PRs a Day: How We Managed to Not Wreck Our Systems](https://www.honeycomb.io/blog/30-70-prs-day-how-we-managed-not-wreck-systems) ([comments](https://lobste.rs/s/daa59s/30_70_prs_day_how_we_managed_not_wreck_our))
+* [Running Doom on Our Custom CPU and Going Viral](https://www.armaangomes.com/blogs/doom/) - A fascinating project that involves running the iconic Doom game on a custom-made CPU.
 
-## Artificial Intelligence
+* [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0) - An upgraded AI visual technology promising enriched content with authentic detail and depth.
 
-* [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0) ([comments](https://news.ycombinator.com/item?id=48989701))
+* [China’s open-weights AI strategy is winning](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/) - A discussion on China's strategy in making AI technology more accessible and its global implications.
 
-* [China’s open-weights AI strategy is winning](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/) ([comments](https://news.ycombinator.com/item?id=48979269))
+* [Rust Will Help Linux Succeed and Makes Coding Fun, Says Greg Kroah-Hartman](https://developers.slashdot.org/story/26/07/20/0417244/rust-will-help-linux-succeed-and-makes-coding-fun-says-greg-kroah-hartman?utm_source=rss1.0mainlinkanon&utm_medium=feed) - An open critique about how adopting Rust could significantly elevate the Linux platform's future.
 
-* [LSU Physicists Create First Room-Temperature Quantum Material](https://tech.slashdot.org/story/26/07/20/0438205/lsu-physicists-create-first-room-temperature-quantum-material?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/07/20/0438205/lsu-physicists-create-first-room-temperature-quantum-material?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Scientific and Environmental Discoveries
 
-* [How we measured AI writing across arXiv, and where the measurement breaks](https://unslop.run/blog/measuring-ai-writing-on-arxiv) ([comments](https://news.ycombinator.com/item?id=48981206))
+* [Eating Chili Peppers May Raise the Risk of One Deadly Cancer](https://soylentnews.org/article.pl?sid=26/07/20/0431234&from=rss) - A surprising health finding linking chili pepper consumption with cancer risk.
 
-## Cybersecurity and Data Issues
+* [The Galaxy's Coldest “Stars” Might Actually be Alien Megastructures](https://soylentnews.org/article.pl?sid=26/07/20/0318228&from=rss) - Scientists speculate whether unexplained cold spots in space could be engineered alien megastructures.
 
-* [Hackers Are Exploiting Recently Patched WordPress Bugs, Putting Millions of Websites at Risk](https://tech.slashdot.org/story/26/07/20/234246/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/07/20/234246/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Great Ape Laughter Reveals a Hidden Origin of Human Speech](https://soylentnews.org/article.pl?sid=26/07/20/0338215&from=rss) - A study that links ape laughter to the evolutionary roots of human speech.
 
-* [Fake Go DNS Scanner Spread Malware Through Over 200 GitHub Repos](https://soylentnews.org/article.pl?sid=26/07/20/0325216&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/07/20/0325216&from=rss))
+* [Deep-Sea Life Has a Secret Food Source Scientists Never Expected](https://soylentnews.org/article.pl?sid=26/07/21/0550247&from=rss) - Discoveries reveal unexpected food sources in deep-sea life ecosystems.
 
-* [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/) ([comments](https://lobste.rs/s/wfmpqr/human_mathematicians_are_being))
+## Invention and Creativity
 
-## Health and Science Innovations
+* [A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste](https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/) - A creative and environmentally friendly use of 3D printer waste turned into a beautiful koi pond mosaic.
 
-* [Eating Chili Peppers May Raise the Risk of One Deadly Cancer](https://soylentnews.org/article.pl?sid=26/07/20/0431234&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/07/20/0431234&from=rss))
+* [Immersive Gaussian Splat tour of grace cathedral, San Francisco](https://vincentwoo.com/3d/grace_cathedral/) - A visually stunning 3D tour leveraging advanced Gaussian splatting techniques for immersive experiences.
 
-* [Drinking 5 Cups of Coffee a Day Could Reduce Heart Risk](https://developers.slashdot.org/story/26/07/21/0053206/drinking-5-cups-of-coffee-a-day-could-reduce-heart-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://developers.slashdot.org/story/26/07/21/0053206/drinking-5-cups-of-coffee-a-day-could-reduce-heart-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+* [Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects](https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/) - Arduino introduces modular solutions aimed at more efficient long-range sensor systems.
 
-* [The Galaxy's Coldest 'Stars' Might Actually be Alien Megastructures](https://soylentnews.org/article.pl?sid=26/07/20/0318228&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/07/20/0318228&from=rss))
+## Cultural and Historical Revelations
 
-## Culture and Unique Stories
+* [Archaeologists Found Homer’s Iliad Inside a 1,600-Year-Old Egyptian Mummy](https://soylentnews.org/article.pl?sid=26/07/17/1518215&from=rss) - Researchers uncover a manuscript of Homer's Iliad in an Egyptian mummy's wrappings, merging literature and archaeology.
 
-* [A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste](https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/) ([comments](https://news.ycombinator.com/item?id=48987831))
-
-* [NTP Server That Traveled Back In Time Caused Massive Aussie Mobile Outage](https://soylentnews.org/article.pl?sid=26/07/17/1611241&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/07/17/1611241&from=rss))
-
-* [How Gnutella Scaled to Handle Query Traffic](https://rickcarlino.com/notes/p2p/how-gnutella-scaled-to-handle-query-traffic.html) ([comments](https://lobste.rs/s/4kp1wg/how_gnutella_scaled_handle_query_traffic))
+* [VTubing: How a Japanese Phenomenon Is Going Worldwide](https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide) - An exploration of VTubing's evolution from Japan to a massive global trend.
 
 ---
 
@@ -73,15 +69,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-07-21, 12:31:15](https://lobste.rs/s/cxz7vd/git_end_options) - [git --end-of-options](https://nesbitt.io/2026/07/21/end-of-options.html)
+* [2026-07-21, 12:16:08](https://lobste.rs/s/s4gljc/thoughts_on_integers_2023) - [Thoughts On Integers (2023)](https://blog.xoria.org/integers/)
+* [2026-07-21, 12:03:14](https://news.ycombinator.com/item?id=48991139) - [New US homeownership measure puts people first](https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first)
+* [2026-07-21, 11:45:00](https://soylentnews.org/article.pl?sid=26/07/21/0550247&amp;from=rss) - [Deep-Sea Life Has a Secret Food Source Scientists Never Expected](https://soylentnews.org/article.pl?sid=26/07/21/0550247&amp;from=rss)
+* [2026-07-21, 11:00:00](https://mobile.slashdot.org/story/26/07/21/0541215/us-police-now-armed-with-israeli-spy-vans-simulating-mobile-phone-towers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [US Police Now Armed With Israeli Spy Vans Simulating Mobile Phone Towers](https://mobile.slashdot.org/story/26/07/21/0541215/us-police-now-armed-with-israeli-spy-vans-simulating-mobile-phone-towers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-21, 10:11:59](https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix) - [GitHub suddenly rejected my SSH key (the fix was a .pub file?!)](https://thorsell.io/2026/07/21/github-ssh-keys.html)
 * [2026-07-21, 10:03:51](https://lobste.rs/s/ivtjcv/escape_intellij_scala_kotlin_lsps_on) - [Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot](https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html)
-* [2026-07-21, 09:59:57](https://lobste.rs/s/jpq033/ggg_declarative_svg_badge_generation) - [GGG – Declarative SVG badge generation using Guile Scheme and SXML](https://codeberg.org/jjba23/ggg)
 * [2026-07-21, 08:44:23](https://news.ycombinator.com/item?id=48989701) - [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0)
 * [2026-07-21, 07:59:00](https://soylentnews.org/article.pl?sid=26/07/20/0431234&amp;from=rss) - [Eating Chili Peppers May Raise the Risk of One Deadly Cancer](https://soylentnews.org/article.pl?sid=26/07/20/0431234&amp;from=rss)
 * [2026-07-21, 07:20:43](https://lobste.rs/s/qlg8xj/kde_for_enterprise_needs_strong_pim) - [KDE for Enterprise Needs a Strong PIM Infrastructure](https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/)
 * [2026-07-21, 07:00:00](https://developers.slashdot.org/story/26/07/21/0053206/drinking-5-cups-of-coffee-a-day-could-reduce-heart-risk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Drinking 5 Cups of Coffee a Day Could Reduce Heart Risk](https://developers.slashdot.org/story/26/07/21/0053206/drinking-5-cups-of-coffee-a-day-could-reduce-heart-risk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-21, 06:50:14](https://lobste.rs/s/wkm8tk/why_l_new_runtime_for_k_q) - [Why l (new runtime for k and q)](https://lv1.sh/blog/why-l/)
-* [2026-07-21, 06:29:22](https://news.ycombinator.com/item?id=48988793) - [Linux kernel will support $ORIGIN, sort of](https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of)
 * [2026-07-21, 06:26:16](https://lobste.rs/s/daa59s/30_70_prs_day_how_we_managed_not_wreck_our) - [30 to 70 PRs a Day: How We Managed to Not Wreck Our Systems](https://www.honeycomb.io/blog/30-70-prs-day-how-we-managed-not-wreck-systems)
 * [2026-07-21, 04:48:32](https://news.ycombinator.com/item?id=48988158) - [Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts](https://exsitu.app/map)
 * [2026-07-21, 03:54:16](https://news.ycombinator.com/item?id=48987846) - [Running Doom on Our Custom CPU and Going Viral](https://www.armaangomes.com/blogs/doom/)
@@ -101,7 +100,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-20, 22:40:00](https://news.slashdot.org/story/26/07/20/2239204/longtime-web-weirdness-site-fark-faces-ad-pinch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Longtime Web-Weirdness Site Fark Faces Ad Pinch](https://news.slashdot.org/story/26/07/20/2239204/longtime-web-weirdness-site-fark-faces-ad-pinch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-20, 22:27:00](https://soylentnews.org/article.pl?sid=26/07/20/040231&amp;from=rss) - [A Moment Of Silence, Please, For The Final Release Of Debian On X86-32](https://soylentnews.org/article.pl?sid=26/07/20/040231&amp;from=rss)
 * [2026-07-20, 22:16:00](https://lobste.rs/s/wfmpqr/human_mathematicians_are_being) - [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
-* [2026-07-20, 21:51:15](https://lobste.rs/s/4kp1wg/how_gnutella_scaled_handle_query_traffic) - [How Gnutella Scaled to Handle Query Traffic](https://rickcarlino.com/notes/p2p/how-gnutella-scaled-to-handle-query-traffic.html)
 * [2026-07-20, 21:48:43](https://lobste.rs/s/piabis/postgres_19_compression_from_pglz_lz4) - [Postgres 19 Compression: from pglz to LZ4](https://www.crunchydata.com/blog/postgres-19-compression-from-pglz-to-lz4)
 * [2026-07-20, 21:00:00](https://hardware.slashdot.org/story/26/07/20/205250/chinas-new-ai-model-halts-new-subscriptions-as-demand-swamps-capacity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China&apos;s New AI Model Halts New Subscriptions As Demand Swamps Capacity](https://hardware.slashdot.org/story/26/07/20/205250/chinas-new-ai-model-halts-new-subscriptions-as-demand-swamps-capacity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-20, 20:12:19](https://news.ycombinator.com/item?id=48984270) - [I wrote an bash enumerator because I was sick of xargs](https://numerlab.org/2025/07/20/bashumerate-enumerator/)
@@ -124,6 +122,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-20, 16:00:00](https://tech.slashdot.org/story/26/07/20/0438205/lsu-physicists-create-first-room-temperature-quantum-material?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [LSU Physicists Create First Room-Temperature Quantum Material](https://tech.slashdot.org/story/26/07/20/0438205/lsu-physicists-create-first-room-temperature-quantum-material?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-20, 15:47:28](https://news.ycombinator.com/item?id=48980520) - [I Stopped “Creating Content”](https://refactoringenglish.com/blog/why-i-stopped-creating-content/)
 * [2026-07-20, 15:21:15](https://lobste.rs/s/kdflhr/invisicaps_fil_c_capability_model) - [InvisiCaps: The Fil-C Capability Model](https://fil-c.org/invisicaps)
+* [2026-07-20, 15:07:31](https://news.ycombinator.com/item?id=48979931) - [Corners Don&apos;t Look Like That: Regarding Screenspace Ambient Occlusion (2012)](https://nothings.org/gamedev/ssao/)
 * [2026-07-20, 15:00:00](https://news.slashdot.org/story/26/07/20/0431217/libreoffice-once-again-slams-microsoft-for-using-lock-in-with-office-files?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [LibreOffice Once Again Slams Microsoft For Using &apos;Lock-In&apos; With Office Files](https://news.slashdot.org/story/26/07/20/0431217/libreoffice-once-again-slams-microsoft-for-using-lock-in-with-office-files?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-20, 14:33:55](https://lobste.rs/s/bper0d/7_sandbox_escape_vulnerabilities_across) - [7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors](https://www.pillar.security/blog/the-week-of-sandbox-escapes)
 * [2026-07-20, 14:21:47](https://news.ycombinator.com/item?id=48979269) - [China’s open-weights AI strategy is winning](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
@@ -143,10 +142,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-20, 07:04:02](https://lobste.rs/s/op1k28/i_wrote_api_client_for_my_water_cooled_bed) - [I wrote an API client for my water-cooled bed](https://tinkering.xyz/bedctl/)
 * [2026-07-20, 04:20:00](https://developers.slashdot.org/story/26/07/20/0417244/rust-will-help-linux-succeed-and-makes-coding-fun-says-greg-kroah-hartman?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Rust Will Help Linux Succeed and Makes Coding Fun, Says Greg Kroah-Hartman](https://developers.slashdot.org/story/26/07/20/0417244/rust-will-help-linux-succeed-and-makes-coding-fun-says-greg-kroah-hartman?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-20, 03:24:00](https://soylentnews.org/article.pl?sid=26/07/20/0318228&amp;from=rss) - [The Galaxy&apos;s Coldest “Stars” Might Actually be Alien Megastructures](https://soylentnews.org/article.pl?sid=26/07/20/0318228&amp;from=rss)
-* [2026-07-20, 02:15:00](https://it.slashdot.org/story/26/07/20/0212244/as-ai-transforms-silicon-valley-some-tech-workers-face-evaporating-financial-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [As AI Transforms Silicon Valley, Some Tech Workers Face Evaporating Financial Security](https://it.slashdot.org/story/26/07/20/0212244/as-ai-transforms-silicon-valley-some-tech-workers-face-evaporating-financial-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-19, 21:53:00](https://soylentnews.org/article.pl?sid=26/07/19/0313244&amp;from=rss) - [Welcome to DebConf26!](https://soylentnews.org/article.pl?sid=26/07/19/0313244&amp;from=rss)
 * [2026-07-19, 17:08:00](https://soylentnews.org/article.pl?sid=26/07/19/036256&amp;from=rss) - [AI Mania is Eviscerating Global Decision-Making](https://soylentnews.org/article.pl?sid=26/07/19/036256&amp;from=rss)
-* [2026-07-19, 14:25:38](https://news.ycombinator.com/item?id=48968474) - [Postmortem of a British Startup: Tract](https://buildwithtract.com/)
 * [2026-07-19, 12:23:00](https://soylentnews.org/article.pl?sid=26/07/19/034232&amp;from=rss) - [Finland is Preparing to Hide an Entire City Underground](https://soylentnews.org/article.pl?sid=26/07/19/034232&amp;from=rss)
 * [2026-07-19, 07:40:00](https://soylentnews.org/article.pl?sid=26/07/17/1611241&amp;from=rss) - [NTP Server That Traveled Back In Time Caused Massive Aussie Mobile Outage](https://soylentnews.org/article.pl?sid=26/07/17/1611241&amp;from=rss)
 * [2026-07-19, 02:53:00](https://soylentnews.org/article.pl?sid=26/07/17/1524222&amp;from=rss) - [Experts May Have Drastically Underestimated the Lifespan of EV Batteries](https://soylentnews.org/article.pl?sid=26/07/17/1524222&amp;from=rss)
