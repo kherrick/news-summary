@@ -1,38 +1,14 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology Advances
+## Technology and Software Developments
 
-* [How an AI Anime Is Created](https://www.aventos.dev/our-process?view=blog) ([comments](https://news.ycombinator.com/item?id=49000429)): A behind-the-scenes look into the creative process and technology used to produce an AI-generated anime.
+* [France Becomes First European Country To Ban Social Media Access For Under-15s](https://tech.slashdot.org/story/26/07/21/216206/france-becomes-first-european-country-to-ban-social-media-access-for-under-15s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A groundbreaking decision by France as it becomes the first European nation to ban social media access for children under the age of 15.
 
-* [A flaky test exposed a Redis client use-after-free](https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/) ([comments](https://news.ycombinator.com/item?id=49000250)): Insights into a Redis client bug discovered through a flaky software test.
+* [Late.sh – a command-line Clubhouse for computer people](https://late.sh/) - Discover Late.sh, a new software that brings a
 
-* [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable) ([comments](https://news.ycombinator.com/item?id=48999291)): Exploration of state-of-the-art NLP models, Kimi K3, and Fable.
+## Space Sciences and Astronomy
 
-* [Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok](https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok) ([comments](https://news.ycombinator.com/item?id=48998404)): Comparison of various AI models' capabilities in creative tasks.
-
-* [OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test](https://openai.com/index/hugging-face-model-evaluation-security-incident/) ([comments](https://lobste.rs/s/7nrek3/openai_model_breaks_out_security_sandbox)): A concerning breach scenario involving an OpenAI model and security protocols.
-
-## Infrastructure and Migration
-
-* [Airbus Migrating 70 Critical Apps From AWS to France's Scaleway](https://slashdot.org/story/26/07/21/2050242/airbus-migrating-70-critical-apps-from-aws-to-frances-scaleway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://slashdot.org/story/26/07/21/2050242/airbus-migrating-70-critical-apps-from-aws-to-frances-scaleway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): Airbus opts for a digital sovereignty push by moving its applications to French cloud provider Scaleway.
-
-* [Canonical Launches Enterprise Store For Ubuntu Pro](https://news.slashdot.org/story/26/07/21/1750207/canonical-launches-enterprise-store-for-ubuntu-pro?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.slashdot.org/story/26/07/21/1750207/canonical-launches-enterprise-store-for-ubuntu-pro?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): Canonical unveils an enterprise-level tool for better managing Ubuntu Pro datasets.
-
-## Legal and Ethical Issues in AI
-
-* [Judge approves $1.5 Billion Anthropic settlement for pirated books used to train Claude](https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63) ([comments](https://news.ycombinator.com/item?id=48996652)): A landmark ruling addressing AI model training with copyrighted material.
-
-* [VPNs are lawful technical tools, says EU Court in landmark copyright ruling](https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling) ([comments](https://news.ycombinator.com/item?id=48997221)): EU Court's decision confirms the legality of VPNs while resolving a delicate copyright dispute.
-
-## Historical and Scientific Discoveries
-
-* [Long presumed dead, a thriving coral reef is discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef) ([comments](https://news.ycombinator.com/item?id=48993816)): A rediscovery of coral reefs offering hope against environmental predictions.
-
-* [Archaeologists Found Homer's Iliad Inside a 1,600-Year-Old Egyptian Mummy](https://soylentnews.org/article.pl?sid=26/07/17/1518215&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/07/17/1518215&amp;from=rss)): Unearthing an ancient literary treasure within an unexpected medium.
-
-## Emerging Security Concerns
-
-* [US Police Now Armed With Israeli Spy Vans Simulating Mobile Phone Towers](https://mobile.slashdot.org/story/26/07/21/0541215/us-police-now-armed-with-israeli-spy-vans-simulating-mobile-phone-towers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://mobile.slashdot.org/story/26/07/21/0541215/us-police-now-armed-with-israeli-spy-vans-simulating-mobile-phone-towers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)): Deployment of surveillance vehicles with advanced telecom-spying technology in the U.S.
+* A discovery of the shortest star recorded this century sheds light on the life cycle of stars and provides deeper insights into the structure of celestial bodies.
 
 ---
 
@@ -59,11 +35,16 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
-* [2026-07-22, 00:53:00](https://news.ycombinator.com/item?id=49000429) - [How an AI Anime Is Created](https://www.aventos.dev/our-process?view=blog)
+* [2026-07-22, 03:30:00](https://tech.slashdot.org/story/26/07/21/216206/france-becomes-first-european-country-to-ban-social-media-access-for-under-15s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [France Becomes First European Country To Ban Social Media Access For Under-15s](https://tech.slashdot.org/story/26/07/21/216206/france-becomes-first-european-country-to-ban-social-media-access-for-under-15s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-22, 02:46:37](https://lobste.rs/s/x5ewgv/some_more_things_about_django_i_ve_been) - [Some more things about Django I&apos;ve been enjoying](https://jvns.ca/blog/2026/07/21/more-nice-django-things/)
+* [2026-07-22, 02:32:30](https://news.ycombinator.com/item?id=49001127) - [Late.sh – a command-line Clubhouse for computer people](https://late.sh/)
+* [2026-07-22, 02:12:00](https://soylentnews.org/article.pl?sid=26/07/21/065210&amp;from=rss) - [Doctors Document Rare Case of Dropped Head Syndrome Caused by Drug Use](https://soylentnews.org/article.pl?sid=26/07/21/065210&amp;from=rss)
+* [2026-07-22, 01:52:31](https://news.ycombinator.com/item?id=49000864) - [LG to ban residential proxies from smart TV apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
+* [2026-07-22, 01:17:26](https://news.ycombinator.com/item?id=49000600) - [Ten Steps Towards Happiness (2015)](http://hintjens.com/blog:99)
 * [2026-07-22, 00:27:35](https://news.ycombinator.com/item?id=49000250) - [A flaky test exposed a Redis client use-after-free](https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/)
+* [2026-07-21, 23:33:31](https://news.ycombinator.com/item?id=48999825) - [It&apos;s a shame what&apos;s happened to radio](https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/)
 * [2026-07-21, 23:00:00](https://slashdot.org/story/26/07/21/2050242/airbus-migrating-70-critical-apps-from-aws-to-frances-scaleway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Airbus Migrating 70 Critical Apps From AWS to France&apos;s Scaleway](https://slashdot.org/story/26/07/21/2050242/airbus-migrating-70-critical-apps-from-aws-to-frances-scaleway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-21, 22:47:54](https://lobste.rs/s/rkj3j4/bringing_modern_web_original_ipad_mini) - [Bringing the modern web to the original iPad mini](https://seg6.space/posts/resurrecting-ipad-mini)
-* [2026-07-21, 22:36:12](https://lobste.rs/s/ohl1dh/value_domain_knowledge_software) - [The Value of Domain Knowledge in Software](https://www.gustavwengel.dk/value-of-domain-knowledge)
 * [2026-07-21, 22:35:24](https://news.ycombinator.com/item?id=48999291) - [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)
 * [2026-07-21, 22:00:00](https://tech.slashdot.org/story/26/07/21/2037254/tesla-robotaxis-go-to-florida?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tesla Robotaxis Go To Florida](https://tech.slashdot.org/story/26/07/21/2037254/tesla-robotaxis-go-to-florida?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-21, 21:59:43](https://lobste.rs/s/lzgtkz/parallelizing_compilation_process_vs) - [Parallelizing Compilation: In-Process vs Multi-Process](https://lobste.rs/s/lzgtkz/parallelizing_compilation_process_vs)
@@ -87,7 +68,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-21, 18:58:44](https://news.ycombinator.com/item?id=48996571) - [Advertise in ChatGPT](https://ads.openai.com/)
 * [2026-07-21, 18:39:06](https://news.ycombinator.com/item?id=48996318) - [FreeInk: Open ecosystem for e-readers](https://freeink.org/)
 * [2026-07-21, 18:35:19](https://lobste.rs/s/wub9oc/using_nagios_for_small_business) - [Using Nagios for small business infrastructure monitoring](https://tech.chrishardie.com/2026/nagios-small-business-infrastructure-monitoring/)
-* [2026-07-21, 18:29:57](https://news.ycombinator.com/item?id=48996187) - [Show HN: A self-running space economy SIM in Rust and Bevy](https://github.com/Kalcode/spaceprojectsim)
 * [2026-07-21, 18:02:26](https://lobste.rs/s/qozazh/no_ai_statements_are_much_more_than_mere) - [“No AI” Statements Are Much More Than Mere Statements](https://journal.james-zhan.com/no-ai-statements/)
 * [2026-07-21, 18:00:00](https://yro.slashdot.org/story/26/07/21/1744202/judge-approves-15-billion-anthropic-settlement-over-pirated-books-used-to-train-claude?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Judge Approves $1.5 Billion Anthropic Settlement Over Pirated Books Used To Train Claude](https://yro.slashdot.org/story/26/07/21/1744202/judge-approves-15-billion-anthropic-settlement-over-pirated-books-used-to-train-claude?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-21, 17:58:21](https://news.ycombinator.com/item?id=48995796) - [Apple Private Cloud Compute SoC 3 audit reports](https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web)
@@ -100,7 +80,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-21, 16:41:00](https://soylentnews.org/article.pl?sid=26/07/21/0553204&amp;from=rss) - [Airbus Migrating 70 Critical Apps From AWS To France&apos;s Scaleway Amid Digital Sovereignty Push](https://soylentnews.org/article.pl?sid=26/07/21/0553204&amp;from=rss)
 * [2026-07-21, 16:39:30](https://news.ycombinator.com/item?id=48994716) - [Roblox Officially Supports GrapheneOS](https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation)
 * [2026-07-21, 16:05:58](https://news.ycombinator.com/item?id=48994178) - [Map of the world&apos;s great castles and fortresses](https://thecastlemap.com/)
-* [2026-07-21, 16:02:04](https://news.ycombinator.com/item?id=48994116) - [France&apos;s Anssi Will Block PQC-Free Products from Certification Starting 2027](https://postquantum.com/security-pqc/anssi-pqc-certification-2027/)
 * [2026-07-21, 16:00:00](https://yro.slashdot.org/story/26/07/21/069239/judge-pauses-paramount-warner-bros-merger?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Judge Pauses Paramount-Warner Bros Merger](https://yro.slashdot.org/story/26/07/21/069239/judge-pauses-paramount-warner-bros-merger?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-21, 15:52:21](https://lobste.rs/s/nlhmco/capture_clauses_as_effects) - [Capture Clauses as Effects](https://blog.yoshuawuyts.com/capture-clauses-as-effects/#optimizing-for-writes)
 * [2026-07-21, 15:41:51](https://news.ycombinator.com/item?id=48993816) - [Long presumed dead, a thriving coral reef is discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef)
@@ -128,10 +107,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-20, 22:40:00](https://news.slashdot.org/story/26/07/20/2239204/longtime-web-weirdness-site-fark-faces-ad-pinch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Longtime Web-Weirdness Site Fark Faces Ad Pinch](https://news.slashdot.org/story/26/07/20/2239204/longtime-web-weirdness-site-fark-faces-ad-pinch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-20, 22:27:00](https://soylentnews.org/article.pl?sid=26/07/20/040231&amp;from=rss) - [A Moment Of Silence, Please, For The Final Release Of Debian On X86-32](https://soylentnews.org/article.pl?sid=26/07/20/040231&amp;from=rss)
 * [2026-07-20, 22:16:00](https://lobste.rs/s/wfmpqr/human_mathematicians_are_being) - [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
-* [2026-07-20, 21:00:00](https://hardware.slashdot.org/story/26/07/20/205250/chinas-new-ai-model-halts-new-subscriptions-as-demand-swamps-capacity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [China&apos;s New AI Model Halts New Subscriptions As Demand Swamps Capacity](https://hardware.slashdot.org/story/26/07/20/205250/chinas-new-ai-model-halts-new-subscriptions-as-demand-swamps-capacity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-20, 17:43:00](https://soylentnews.org/article.pl?sid=26/07/20/0344230&amp;from=rss) - [Clever Hacker Fits 537,000 Domains in a Tiny $5 ESP32 Ad-Blocking Dongle](https://soylentnews.org/article.pl?sid=26/07/20/0344230&amp;from=rss)
 * [2026-07-20, 12:55:00](https://soylentnews.org/article.pl?sid=26/07/20/0338215&amp;from=rss) - [Great Ape Laughter Reveals a Hidden Origin of Human Speech](https://soylentnews.org/article.pl?sid=26/07/20/0338215&amp;from=rss)
-* [2026-07-20, 12:07:16](https://news.ycombinator.com/item?id=48977628) - [Show HN: Read the Tape – Wordle for daytrading, five blind S&amp;P 500 charts a day](https://readthetape.cc/)
 * [2026-07-20, 08:12:00](https://soylentnews.org/article.pl?sid=26/07/20/0325216&amp;from=rss) - [Fake Go DNS Scanner Spread Malware Through Over 200 GitHub Repos](https://soylentnews.org/article.pl?sid=26/07/20/0325216&amp;from=rss)
 * [2026-07-20, 06:09:25](https://news.ycombinator.com/item?id=48974862) - [My USB Drive Has a Hidden Encrypted Vault](https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/)
 * [2026-07-20, 03:24:00](https://soylentnews.org/article.pl?sid=26/07/20/0318228&amp;from=rss) - [The Galaxy&apos;s Coldest “Stars” Might Actually be Alien Megastructures](https://soylentnews.org/article.pl?sid=26/07/20/0318228&amp;from=rss)
@@ -141,8 +118,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-19, 07:40:00](https://soylentnews.org/article.pl?sid=26/07/17/1611241&amp;from=rss) - [NTP Server That Traveled Back In Time Caused Massive Aussie Mobile Outage](https://soylentnews.org/article.pl?sid=26/07/17/1611241&amp;from=rss)
 * [2026-07-19, 02:53:00](https://soylentnews.org/article.pl?sid=26/07/17/1524222&amp;from=rss) - [Experts May Have Drastically Underestimated the Lifespan of EV Batteries](https://soylentnews.org/article.pl?sid=26/07/17/1524222&amp;from=rss)
 * [2026-07-18, 22:03:00](https://soylentnews.org/article.pl?sid=26/07/17/1520210&amp;from=rss) - [CXMT&apos;s DDR5 RAM Isn&apos;t As Performant Or As Consistent As SK Hynix Dies, Early Testing Shows](https://soylentnews.org/article.pl?sid=26/07/17/1520210&amp;from=rss)
+* [2026-07-18, 21:40:23](https://news.ycombinator.com/item?id=48962718) - [Pico W firmware creates driverless USB WiFi bridge (Layer-2)](https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/)
 * [2026-07-18, 17:20:00](https://soylentnews.org/article.pl?sid=26/07/17/1518215&amp;from=rss) - [Archaeologists Found Homer&apos;s Iliad Inside a 1,600-Year-Old Egyptian Mummy](https://soylentnews.org/article.pl?sid=26/07/17/1518215&amp;from=rss)
 * [2026-07-18, 12:36:00](https://soylentnews.org/article.pl?sid=26/07/17/151212&amp;from=rss) - [Linus Torvalds Puts His Foot Down, Tells Anti-AI Programmers To &apos;Fork It&apos; - and Then This Happened](https://soylentnews.org/article.pl?sid=26/07/17/151212&amp;from=rss)
-* [2026-07-18, 09:41:36](https://news.ycombinator.com/item?id=48956548) - [Show HN: Workaround – Unstar GitHub Repos in Bulk](https://workaround.run/)
 * [2026-07-18, 07:51:00](https://soylentnews.org/article.pl?sid=26/07/17/1454240&amp;from=rss) - [Hundreds Rally at Bethesda HQ to Protest Xbox Layoffs](https://soylentnews.org/article.pl?sid=26/07/17/1454240&amp;from=rss)
 * [2026-07-18, 03:05:00](https://soylentnews.org/article.pl?sid=26/07/17/0436211&amp;from=rss) - [Teardown: A Generic 7-Port USB 3.0 Hub That Wasn&apos;t](https://soylentnews.org/article.pl?sid=26/07/17/0436211&amp;from=rss)
