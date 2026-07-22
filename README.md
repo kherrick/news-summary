@@ -1,14 +1,68 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Software Developments
+## AI and Technology Innovations
 
-* [France Becomes First European Country To Ban Social Media Access For Under-15s](https://tech.slashdot.org/story/26/07/21/216206/france-becomes-first-european-country-to-ban-social-media-access-for-under-15s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A groundbreaking decision by France as it becomes the first European nation to ban social media access for children under the age of 15.
+* [OpenAI Says Its AI Models Acted On Its Own In An 'Unprecedented' Hack](https://it.slashdot.org/story/26/07/22/0348206/openai-says-its-ai-models-acted-on-its-own-in-an-unprecedented-hack?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Article](https://it.slashdot.org/story/26/07/22/0348206/openai-says-its-ai-models-acted-on-its-own-in-an-unprecedented-hack?utm_source=rss1.0mainlinkanon&utm_medium=feed).
 
-* [Late.sh – a command-line Clubhouse for computer people](https://late.sh/) - Discover Late.sh, a new software that brings a
+* [Show HN: ReadKinetic – a free, local-first speed reader for your own books](https://www.readkinetic.com/app/) - [Comment](https://news.ycombinator.com/item?id=49002344).
 
-## Space Sciences and Astronomy
+* [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11) - [Comment](https://news.ycombinator.com/item?id=49002166).
 
-* A discovery of the shortest star recorded this century sheds light on the life cycle of stars and provides deeper insights into the structure of celestial bodies.
+* [France Becomes First European Country To Ban Social Media Access For Under-15s](https://tech.slashdot.org/story/26/07/21/216206/france-becomes-first-european-country-to-ban-social-media-access-for-under-15s?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Article](https://tech.slashdot.org/story/26/07/21/216206/france-becomes-first-european-country-to-ban-social-media-access-for-under-15s?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+
+* [Tesla Robotaxis Go To Florida](https://tech.slashdot.org/story/26/07/21/2037254/tesla-robotaxis-go-to-florida?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Article](https://tech.slashdot.org/story/26/07/21/2037254/tesla-robotaxis-go-to-florida?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+
+* [Free Ink · An open ecosystem for e-readers](https://freeink.org/) - [Comment](https://lobste.rs/s/rwdmjn/free_ink_open_ecosystem_for_e_readers).
+
+* [Laguna S 2.1](https://poolside.ai/blog/introducing-laguna-s-2-1) - [Comment](https://news.ycombinator.com/item?id=48995261).
+
+* [Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git) - [Comment](https://news.ycombinator.com/item?id=48995213).
+
+## Cybersecurity Updates
+
+* [How a Gang of Thieves Pulled Off a Multimillion-Dollar Data Center Heist](https://soylentnews.org/article.pl?sid=26/07/21/069235&from=rss) - [Article](https://soylentnews.org/article.pl?sid=26/07/21/069235&from=rss).
+
+* [OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test](https://openai.com/index/hugging-face-model-evaluation-security-incident/) - [Comment](https://lobste.rs/s/7nrek3/openai_model_breaks_out_security_sandbox).
+
+* [Hackers Are Exploiting Recently Patched WordPress Bugs, Putting Millions of Websites at Risk](https://tech.slashdot.org/story/26/07/20/234246/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Article](https://tech.slashdot.org/story/26/07/20/234246/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+
+* [My USB Drive Has a Hidden Encrypted Vault](https://rootkitlabs.com/2026/06/22/I'm-Building-a-Secure-USB-Drive/) - [Comment](https://news.ycombinator.com/item?id=48974862).
+
+## Surprising Discoveries and Research
+
+* [Doctors Document Rare Case of Dropped Head Syndrome Caused by Drug Use](https://soylentnews.org/article.pl?sid=26/07/21/065210&from=rss) - [Article](https://soylentnews.org/article.pl?sid=26/07/21/065210&from=rss).
+
+* [Deep-Sea Life Has a Secret Food Source Scientists Never Expected](https://soylentnews.org/article.pl?sid=26/07/21/0550247&from=rss) - [Article](https://soylentnews.org/article.pl?sid=26/07/21/0550247&from=rss).
+
+* [Long presumed dead, a thriving coral reef is discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef) - [Comment](https://news.ycombinator.com/item?id=48993816).
+
+* [Archaeologists Found Homer’s Iliad Inside a 1,600-Year-Old Egyptian Mummy](https://soylentnews.org/article.pl?sid=26/07/17/1518215&from=rss) - [Article](https://soylentnews.org/article.pl?sid=26/07/17/1518215&from=rss).
+
+## Legal and Policy Shifts
+
+* [Judge approves $1.5B Anthropic settlement for pirated books used to train Claude](https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63) - [Comment](https://news.ycombinator.com/item?id=48996652).
+
+* [‘VPNs are lawful technical tools,’ says EU Court in landmark copyright ruling](https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling) - [Comment](https://news.ycombinator.com/item?id=48997221).
+
+* [US Sanctions First VPN In Crackdown On Ransomware Criminals](https://soylentnews.org/article.pl?sid=26/07/20/0413210&from=rss) - [Article](https://soylentnews.org/article.pl?sid=26/07/20/0413210&from=rss).
+
+## Cultural and Historical Perspectives
+
+* [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/) - [Comment](https://news.ycombinator.com/item?id=48998362).
+
+* [Five moments in snapping history](https://unsung.aresluna.org/five-moments-in-snapping-history/) - [Comment](https://lobste.rs/s/e7x0ha/five_moments_snapping_history).
+
+* [Great Ape Laughter Reveals a Hidden Origin of Human Speech](https://soylentnews.org/article.pl?sid=26/07/20/0338215&from=rss) - [Article](https://soylentnews.org/article.pl?sid=26/07/20/0338215&from=rss).
+
+* [NTP Server That Traveled Back In Time Caused Massive Aussie Mobile Outage](https://soylentnews.org/article.pl?sid=26/07/17/1611241&from=rss) - [Article](https://soylentnews.org/article.pl?sid=26/07/17/1611241&from=rss).
+
+## Environmental and Space Advancements
+
+* [Intel Starts Shipping High-NA EUV Silicon](https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv) - [Comment](https://news.ycombinator.com/item?id=48961698).
+
+* [Eating Chili Peppers May Raise the Risk of One Deadly Cancer](https://soylentnews.org/article.pl?sid=26/07/20/0431234&from=rss) - [Article](https://soylentnews.org/article.pl?sid=26/07/20/0431234&from=rss).
+
+* [The Galaxy's Coldest “Stars” Might Actually be Alien Megastructures](https://soylentnews.org/article.pl?sid=26/07/20/0318228&from=rss) - [Article](https://soylentnews.org/article.pl?sid=26/07/20/0318228&from=rss).
 
 ---
 
@@ -35,20 +89,26 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-07-22, 07:00:00](https://it.slashdot.org/story/26/07/22/0348206/openai-says-its-ai-models-acted-on-its-own-in-an-unprecedented-hack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Says Its AI Models Acted On Its Own In An &apos;Unprecedented&apos; Hack](https://it.slashdot.org/story/26/07/22/0348206/openai-says-its-ai-models-acted-on-its-own-in-an-unprecedented-hack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-22, 06:57:00](https://soylentnews.org/article.pl?sid=26/07/21/069235&amp;from=rss) - [How a Gang of Thieves Pulled Off a Multimillion-Dollar Data Center Heist](https://soylentnews.org/article.pl?sid=26/07/21/069235&amp;from=rss)
+* [2026-07-22, 06:19:17](https://lobste.rs/s/mbge4p/ecc_ddr5) - [ECC and DDR5](https://etbe.coker.com.au/2026/07/19/ecc-ddr5/)
+* [2026-07-22, 05:56:08](https://lobste.rs/s/ny0yzm/lg_ban_residential_proxies_from_smart_tv) - [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
+* [2026-07-22, 05:49:51](https://news.ycombinator.com/item?id=49002344) - [Show HN: ReadKinetic – a free, local-first speed reader for your own books](https://www.readkinetic.com/app/)
+* [2026-07-22, 05:39:31](https://news.ycombinator.com/item?id=49002276) - [Show HN: A new kind of FPS aim trainer](https://openaim.pramit.gg/)
+* [2026-07-22, 05:18:08](https://news.ycombinator.com/item?id=49002166) - [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11)
 * [2026-07-22, 03:30:00](https://tech.slashdot.org/story/26/07/21/216206/france-becomes-first-european-country-to-ban-social-media-access-for-under-15s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [France Becomes First European Country To Ban Social Media Access For Under-15s](https://tech.slashdot.org/story/26/07/21/216206/france-becomes-first-european-country-to-ban-social-media-access-for-under-15s?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-22, 02:46:37](https://lobste.rs/s/x5ewgv/some_more_things_about_django_i_ve_been) - [Some more things about Django I&apos;ve been enjoying](https://jvns.ca/blog/2026/07/21/more-nice-django-things/)
 * [2026-07-22, 02:32:30](https://news.ycombinator.com/item?id=49001127) - [Late.sh – a command-line Clubhouse for computer people](https://late.sh/)
 * [2026-07-22, 02:12:00](https://soylentnews.org/article.pl?sid=26/07/21/065210&amp;from=rss) - [Doctors Document Rare Case of Dropped Head Syndrome Caused by Drug Use](https://soylentnews.org/article.pl?sid=26/07/21/065210&amp;from=rss)
 * [2026-07-22, 01:52:31](https://news.ycombinator.com/item?id=49000864) - [LG to ban residential proxies from smart TV apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
 * [2026-07-22, 01:17:26](https://news.ycombinator.com/item?id=49000600) - [Ten Steps Towards Happiness (2015)](http://hintjens.com/blog:99)
-* [2026-07-22, 00:27:35](https://news.ycombinator.com/item?id=49000250) - [A flaky test exposed a Redis client use-after-free](https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/)
 * [2026-07-21, 23:33:31](https://news.ycombinator.com/item?id=48999825) - [It&apos;s a shame what&apos;s happened to radio](https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/)
 * [2026-07-21, 23:00:00](https://slashdot.org/story/26/07/21/2050242/airbus-migrating-70-critical-apps-from-aws-to-frances-scaleway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Airbus Migrating 70 Critical Apps From AWS to France&apos;s Scaleway](https://slashdot.org/story/26/07/21/2050242/airbus-migrating-70-critical-apps-from-aws-to-frances-scaleway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-21, 22:47:54](https://lobste.rs/s/rkj3j4/bringing_modern_web_original_ipad_mini) - [Bringing the modern web to the original iPad mini](https://seg6.space/posts/resurrecting-ipad-mini)
+* [2026-07-21, 22:38:33](https://lobste.rs/s/0btjlt/engineer_s_guide_usb_type_c) - [An Engineer’s Guide to USB Type-C](https://www.ti.com/lit/eb/slyy228/slyy228.pdf)
 * [2026-07-21, 22:35:24](https://news.ycombinator.com/item?id=48999291) - [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)
 * [2026-07-21, 22:00:00](https://tech.slashdot.org/story/26/07/21/2037254/tesla-robotaxis-go-to-florida?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tesla Robotaxis Go To Florida](https://tech.slashdot.org/story/26/07/21/2037254/tesla-robotaxis-go-to-florida?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-21, 21:59:43](https://lobste.rs/s/lzgtkz/parallelizing_compilation_process_vs) - [Parallelizing Compilation: In-Process vs Multi-Process](https://lobste.rs/s/lzgtkz/parallelizing_compilation_process_vs)
-* [2026-07-21, 21:48:19](https://news.ycombinator.com/item?id=48998828) - [Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want](https://www.getcomputable.com/)
 * [2026-07-21, 21:27:54](https://news.ycombinator.com/item?id=48998606) - [Gemini last models: temperature, top_p, and top_k are deprecated and ignored](https://ai.google.dev/gemini-api/docs/latest-model)
 * [2026-07-21, 21:24:00](https://soylentnews.org/article.pl?sid=26/07/21/0559241&amp;from=rss) - [The Shocking Secrets of Madison Square Garden’s Surveillance Machine](https://soylentnews.org/article.pl?sid=26/07/21/0559241&amp;from=rss)
 * [2026-07-21, 21:13:20](https://news.ycombinator.com/item?id=48998404) - [\&quot;Drawing\&quot; the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok](https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok)
@@ -61,13 +121,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-21, 20:09:52](https://news.ycombinator.com/item?id=48997548) - [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
 * [2026-07-21, 19:57:49](https://lobste.rs/s/nv7xhn/cosmic_de_s_first_seven_months) - [COSMIC DE’s First Seven Months](https://system76.com/blog/post/cosmic-de-first-seven-months)
 * [2026-07-21, 19:43:59](https://news.ycombinator.com/item?id=48997221) - [&apos;VPNs are lawful technical tools,&apos; says EU Court in landmark copyright ruling](https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling)
-* [2026-07-21, 19:33:38](https://lobste.rs/s/ovdlje/ap8l_apl_for_pico_8) - [AP8L - APL for the Pico-8](https://www.lexaloffle.com/bbs/?tid=152582)
 * [2026-07-21, 19:04:39](https://news.ycombinator.com/item?id=48996652) - [Judge approves $1.5B Anthropic settlement for pirated books used to train Claude](https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63)
 * [2026-07-21, 19:02:41](https://lobste.rs/s/7v1k7i/cosy_language) - [Cosy Language](https://cosy.com/y26/NL202603.html)
 * [2026-07-21, 19:00:00](https://news.slashdot.org/story/26/07/21/1750207/canonical-launches-enterprise-store-for-ubuntu-pro?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Canonical Launches Enterprise Store For Ubuntu Pro](https://news.slashdot.org/story/26/07/21/1750207/canonical-launches-enterprise-store-for-ubuntu-pro?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-21, 18:58:44](https://news.ycombinator.com/item?id=48996571) - [Advertise in ChatGPT](https://ads.openai.com/)
 * [2026-07-21, 18:39:06](https://news.ycombinator.com/item?id=48996318) - [FreeInk: Open ecosystem for e-readers](https://freeink.org/)
-* [2026-07-21, 18:35:19](https://lobste.rs/s/wub9oc/using_nagios_for_small_business) - [Using Nagios for small business infrastructure monitoring](https://tech.chrishardie.com/2026/nagios-small-business-infrastructure-monitoring/)
 * [2026-07-21, 18:02:26](https://lobste.rs/s/qozazh/no_ai_statements_are_much_more_than_mere) - [“No AI” Statements Are Much More Than Mere Statements](https://journal.james-zhan.com/no-ai-statements/)
 * [2026-07-21, 18:00:00](https://yro.slashdot.org/story/26/07/21/1744202/judge-approves-15-billion-anthropic-settlement-over-pirated-books-used-to-train-claude?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Judge Approves $1.5 Billion Anthropic Settlement Over Pirated Books Used To Train Claude](https://yro.slashdot.org/story/26/07/21/1744202/judge-approves-15-billion-anthropic-settlement-over-pirated-books-used-to-train-claude?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-21, 17:58:21](https://news.ycombinator.com/item?id=48995796) - [Apple Private Cloud Compute SoC 3 audit reports](https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web)
@@ -75,7 +133,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-21, 17:34:01](https://lobste.rs/s/9dpycz/k2_reference_manual_1998) - [K2 Reference Manual (1998)](https://web.archive.org/web/20050111142057/http://www.kx.com/technical/documents/kreflite.pdf)
 * [2026-07-21, 17:17:06](https://news.ycombinator.com/item?id=48995261) - [Laguna S 2.1](https://poolside.ai/blog/introducing-laguna-s-2-1)
 * [2026-07-21, 17:14:06](https://news.ycombinator.com/item?id=48995213) - [Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
-* [2026-07-21, 17:00:20](https://news.ycombinator.com/item?id=48995037) - [Bloomy (YC S26) is hiring a founding engineer](https://news.ycombinator.com/item?id=48995037)
 * [2026-07-21, 17:00:00](https://yro.slashdot.org/story/26/07/21/0617230/att-loses-key-ruling-in-bid-to-stop-offering-basic-phone-service-in-california?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AT&amp;amp;T Loses Key Ruling In Bid To Stop Offering Basic Phone Service In California](https://yro.slashdot.org/story/26/07/21/0617230/att-loses-key-ruling-in-bid-to-stop-offering-basic-phone-service-in-california?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-21, 16:41:00](https://soylentnews.org/article.pl?sid=26/07/21/0553204&amp;from=rss) - [Airbus Migrating 70 Critical Apps From AWS To France&apos;s Scaleway Amid Digital Sovereignty Push](https://soylentnews.org/article.pl?sid=26/07/21/0553204&amp;from=rss)
 * [2026-07-21, 16:39:30](https://news.ycombinator.com/item?id=48994716) - [Roblox Officially Supports GrapheneOS](https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation)
@@ -84,10 +141,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-21, 15:52:21](https://lobste.rs/s/nlhmco/capture_clauses_as_effects) - [Capture Clauses as Effects](https://blog.yoshuawuyts.com/capture-clauses-as-effects/#optimizing-for-writes)
 * [2026-07-21, 15:41:51](https://news.ycombinator.com/item?id=48993816) - [Long presumed dead, a thriving coral reef is discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef)
 * [2026-07-21, 15:17:16](https://news.ycombinator.com/item?id=48993414) - [Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/)
-* [2026-07-21, 15:14:38](https://lobste.rs/s/z1alry/lazy_tmux_restore_tmux_sessions_lazily) - [lazy-tmux: restore tmux sessions lazily, with scrollback](https://lazy-tmux.xyz)
 * [2026-07-21, 15:00:00](https://news.slashdot.org/story/26/07/21/0551243/the-galaxy-card-is-samsungs-answer-to-the-apple-card?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [The Galaxy Card Is Samsung&apos;s Answer To the Apple Card](https://news.slashdot.org/story/26/07/21/0551243/the-galaxy-card-is-samsungs-answer-to-the-apple-card?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-21, 14:31:41](https://news.ycombinator.com/item?id=48992870) - [Apple defeats liability for not scanning iCloud for CSAM](https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm)
-* [2026-07-21, 13:48:35](https://news.ycombinator.com/item?id=48992323) - [PCjs Machines](https://www.pcjs.org/)
 * [2026-07-21, 12:31:15](https://lobste.rs/s/cxz7vd/git_end_options) - [git --end-of-options](https://nesbitt.io/2026/07/21/end-of-options.html)
 * [2026-07-21, 12:16:08](https://lobste.rs/s/s4gljc/thoughts_on_integers_2023) - [Thoughts On Integers (2023)](https://blog.xoria.org/integers/)
 * [2026-07-21, 11:45:00](https://soylentnews.org/article.pl?sid=26/07/21/0550247&amp;from=rss) - [Deep-Sea Life Has a Secret Food Source Scientists Never Expected](https://soylentnews.org/article.pl?sid=26/07/21/0550247&amp;from=rss)
@@ -104,7 +159,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-21, 03:15:00](https://soylentnews.org/article.pl?sid=26/07/20/0413210&amp;from=rss) - [US Sanctions First VPN In Crackdown On Ransomware Criminals](https://soylentnews.org/article.pl?sid=26/07/20/0413210&amp;from=rss)
 * [2026-07-21, 03:02:24](https://lobste.rs/s/v3xuxn/95_reasons_for_having_your_own_website) - [95 reasons for having your own website](https://bellkiosk.website/blog/reasons-to-website.html)
 * [2026-07-20, 23:00:00](https://news.slashdot.org/story/26/07/20/2259204/new-orleans-cops-published-policy-document-allowing-weaponized-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [New Orleans Cops Published Policy Document Allowing Weaponized Drones](https://news.slashdot.org/story/26/07/20/2259204/new-orleans-cops-published-policy-document-allowing-weaponized-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-20, 22:40:00](https://news.slashdot.org/story/26/07/20/2239204/longtime-web-weirdness-site-fark-faces-ad-pinch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Longtime Web-Weirdness Site Fark Faces Ad Pinch](https://news.slashdot.org/story/26/07/20/2239204/longtime-web-weirdness-site-fark-faces-ad-pinch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-20, 22:27:00](https://soylentnews.org/article.pl?sid=26/07/20/040231&amp;from=rss) - [A Moment Of Silence, Please, For The Final Release Of Debian On X86-32](https://soylentnews.org/article.pl?sid=26/07/20/040231&amp;from=rss)
 * [2026-07-20, 22:16:00](https://lobste.rs/s/wfmpqr/human_mathematicians_are_being) - [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
 * [2026-07-20, 17:43:00](https://soylentnews.org/article.pl?sid=26/07/20/0344230&amp;from=rss) - [Clever Hacker Fits 537,000 Domains in a Tiny $5 ESP32 Ad-Blocking Dongle](https://soylentnews.org/article.pl?sid=26/07/20/0344230&amp;from=rss)
@@ -118,7 +172,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-19, 07:40:00](https://soylentnews.org/article.pl?sid=26/07/17/1611241&amp;from=rss) - [NTP Server That Traveled Back In Time Caused Massive Aussie Mobile Outage](https://soylentnews.org/article.pl?sid=26/07/17/1611241&amp;from=rss)
 * [2026-07-19, 02:53:00](https://soylentnews.org/article.pl?sid=26/07/17/1524222&amp;from=rss) - [Experts May Have Drastically Underestimated the Lifespan of EV Batteries](https://soylentnews.org/article.pl?sid=26/07/17/1524222&amp;from=rss)
 * [2026-07-18, 22:03:00](https://soylentnews.org/article.pl?sid=26/07/17/1520210&amp;from=rss) - [CXMT&apos;s DDR5 RAM Isn&apos;t As Performant Or As Consistent As SK Hynix Dies, Early Testing Shows](https://soylentnews.org/article.pl?sid=26/07/17/1520210&amp;from=rss)
-* [2026-07-18, 21:40:23](https://news.ycombinator.com/item?id=48962718) - [Pico W firmware creates driverless USB WiFi bridge (Layer-2)](https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/)
+* [2026-07-18, 19:56:33](https://news.ycombinator.com/item?id=48961698) - [Intel Starts Shipping High-NA EUV Silicon](https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv)
 * [2026-07-18, 17:20:00](https://soylentnews.org/article.pl?sid=26/07/17/1518215&amp;from=rss) - [Archaeologists Found Homer&apos;s Iliad Inside a 1,600-Year-Old Egyptian Mummy](https://soylentnews.org/article.pl?sid=26/07/17/1518215&amp;from=rss)
 * [2026-07-18, 12:36:00](https://soylentnews.org/article.pl?sid=26/07/17/151212&amp;from=rss) - [Linus Torvalds Puts His Foot Down, Tells Anti-AI Programmers To &apos;Fork It&apos; - and Then This Happened](https://soylentnews.org/article.pl?sid=26/07/17/151212&amp;from=rss)
 * [2026-07-18, 07:51:00](https://soylentnews.org/article.pl?sid=26/07/17/1454240&amp;from=rss) - [Hundreds Rally at Bethesda HQ to Protest Xbox Layoffs](https://soylentnews.org/article.pl?sid=26/07/17/1454240&amp;from=rss)
