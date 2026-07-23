@@ -1,16 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Industry Developments
+## Technology and Innovation
 
-* [GM Is Quietly Becoming a Subscriptions Company](https://tech.slashdot.org/story/26/07/22/2010225/gm-is-quietly-becoming-a-subscriptions-company?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://lobste.rs/s/uibzl8/frag_gap_cve_2026_53362_cve_2026_53366)
+* [Pan Am Plane Crash That Inspired Modern Safety Briefings Found After 74 Years](https://news.slashdot.org/story/26/07/23/033235/pan-am-plane-crash-that-inspired-modern-safety-briefings-found-after-74-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - After 74 years, the Pan Am plane crash that led to the establishment of current safety protocols has been discovered.
 
-* [Apple Partners With Klarna To Offer iPhones, Macs On a Subscription Basis](https://hardware.slashdot.org/story/26/07/22/1958256/apple-partners-with-klarna-to-offer-iphones-macs-on-a-subscription-basis?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://news.ycombinator.com/item?id=49014537)
+* [Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs](https://arxiv.org/abs/2607.20386) - Research explores AI-powered monitoring tools for honeybee colonies using IoT sensors and recurrent neural networks.
 
-* [Linux Kernel Team Publishes 432 CVEs In Two Days](https://linux.slashdot.org/story/26/07/22/2033256/linux-kernel-team-publishes-432-cves-in-two-days?utm_source=rss1.0mainlinkanon&utm_medium=feed) - [Comments](https://lobste.rs/s/uibzl8/frag_gap_cve_2026_53362_cve_2026_53366)
+* [Petals: Run LLMs at home, BitTorrent-style](https://petals.dev/) - A new decentralized approach to running large language models locally using BitTorrent technology.
 
-## Innovations in Open Source & AI
+* [Microsoft Announces Xbox Backward Compatibility For PC](https://games.slashdot.org/story/26/07/22/1659215/microsoft-announces-xbox-backward-compatibility-for-pc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Microsoft's announcement introduces an enhanced backward compatibility feature for Xbox games on PCs.
 
-* [Protecting our FLOSS commons from LLMs](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html)-Comments
+* [Jack Dorsey Takes On Slack and GitHub With New AI Workplace Platform 'Buzz'](https://news.slashdot.org/story/26/07/22/040209/jack-dorsey-takes-on-slack-and-github-with-new-ai-workplace-platform-buzz?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Jack Dorsey launches 'Buzz', an ambitious AI-driven workplace platform aimed to compete with major incumbents.
+
+## Security and Privacy
+
+* [Frag Gap (CVE-2026-53362, CVE-2026-53366)](https://blog.qwerty.or.kr/en/posts/cdf3008a-c1a4-4eca-a373-aa3a2bcf1489/) - Details on a newly identified vulnerability impacting specific network protocols.
+
+* [RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)](https://blog.qualys.com/vulnerabilities-threat-research/2026/07/22/refluxfs-a-linux-kernel-local-privilege-escalation-to-root-in-xfs-cve-2026-64600) - A critical Linux Kernel vulnerability allows privilege escalation in XFS systems.
+
+## Major Discoveries and Mysteries
+
+* [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria) - Modern DNA techniques have shed light on a centuries-old mystery involving the Medici family.
+
+* [Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa](https://news.slashdot.org/story/26/07/22/049248/long-presumed-dead-a-thriving-coral-reef-is-discovered-in-west-africa?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Scientists uncover a thriving coral reef ecosystem thought to have vanished in West Africa.
+
+## Key Industry Movements
+
+* [GM Is Quietly Becoming a Subscriptions Company](https://tech.slashdot.org/story/26/07/22/2010225/gm-is-quietly-becoming-a-subscriptions-company?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - GM shifts towards introducing recurring subscription models in its product lineup.
+
+* [Airbus Migrating 70 Critical Apps From AWS to France's Scaleway](https://slashdot.org/story/26/07/21/2050242/airbus-migrating-70-critical-apps-from-aws-to-frances-scaleway?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Airbus announces a major migration to support Europe's digital sovereignty goals.
+
+## Cultural and Historical Reflections
+
+* [John C. Dvorak has died](http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html) - The tech journalism world mourns the loss of John C. Dvorak, a pivotal figure in technology commentary.
+
+* [My Hunt for the Original McDonald’s French-Fry Recipe](https://soylentnews.org/article.pl?sid=26/07/21/2222218&amp;from=rss) - A nostalgic dive into the origins of one of America’s favorite snacks.
 
 ---
 
@@ -37,10 +61,19 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-07-23, 03:30:00](https://news.slashdot.org/story/26/07/23/033235/pan-am-plane-crash-that-inspired-modern-safety-briefings-found-after-74-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Pan Am Plane Crash That Inspired Modern Safety Briefings Found After 74 Years](https://news.slashdot.org/story/26/07/23/033235/pan-am-plane-crash-that-inspired-modern-safety-briefings-found-after-74-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-23, 02:34:20](https://lobste.rs/s/nohrpm/algebraic_effects_handlers_portable_c99) - [Algebraic effects and handlers in portable C99](https://github.com/koka-lang/libhandler)
+* [2026-07-23, 02:28:23](https://news.ycombinator.com/item?id=49016099) - [Restructuring GitHub&apos;s bug bounty program](https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/)
+* [2026-07-23, 02:26:09](https://lobste.rs/s/fmyrgy/calm_technologies_excite_me) - [Calm technologies that excite me](https://abhi.now/blog/calm-technologies/)
+* [2026-07-23, 02:09:50](https://lobste.rs/s/ap3z0l/john_c_dvorak_has_died) - [John C. Dvorak has died](http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html)
+* [2026-07-23, 01:58:18](https://news.ycombinator.com/item?id=49015878) - [Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs](https://arxiv.org/abs/2607.20386)
+* [2026-07-23, 01:56:00](https://soylentnews.org/article.pl?sid=26/07/21/2227215&amp;from=rss) - [Open Source Misses the Point and Cannot Save Us](https://soylentnews.org/article.pl?sid=26/07/21/2227215&amp;from=rss)
+* [2026-07-23, 01:54:48](https://lobste.rs/s/5nhto6/i_inspected_my_take_home_interview) - [I Inspected My Take-Home Interview Project. It Was a Whole Operation](https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/)
+* [2026-07-23, 01:33:12](https://news.ycombinator.com/item?id=49015735) - [Petals: Run LLMs at home, BitTorrent-style](https://petals.dev/)
+* [2026-07-23, 01:06:56](https://news.ycombinator.com/item?id=49015588) - [Codeberg Bans Cryptocurrency Projects](https://codeberg.org/Codeberg/org/pulls/1254)
 * [2026-07-23, 01:04:08](https://lobste.rs/s/ax914v/protecting_our_floss_commons_from_llms) - [Protecting our FLOSS commons from LLMs](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html)
 * [2026-07-22, 23:07:39](https://lobste.rs/s/uibzl8/frag_gap_cve_2026_53362_cve_2026_53366) - [Frag Gap (CVE-2026-53362, CVE-2026-53366)](https://blog.qwerty.or.kr/en/posts/cdf3008a-c1a4-4eca-a373-aa3a2bcf1489/)
 * [2026-07-22, 23:00:00](https://tech.slashdot.org/story/26/07/22/2010225/gm-is-quietly-becoming-a-subscriptions-company?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [GM Is Quietly Becoming a Subscriptions Company](https://tech.slashdot.org/story/26/07/22/2010225/gm-is-quietly-becoming-a-subscriptions-company?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-22, 22:49:58](https://news.ycombinator.com/item?id=49014537) - [Anthropomorphism in Children&apos;s Interactions with LLM Chatbots](https://arxiv.org/abs/2607.18250)
 * [2026-07-22, 22:00:00](https://apple.slashdot.org/story/26/07/22/2050240/ios-27-code-suggests-apple-could-restrict-leased-devices-after-missed-payments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [iOS 27 Code Suggests Apple Could Restrict Leased Devices After Missed Payments](https://apple.slashdot.org/story/26/07/22/2050240/ios-27-code-suggests-apple-could-restrict-leased-devices-after-missed-payments?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-22, 21:55:34](https://news.ycombinator.com/item?id=49014007) - [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria)
 * [2026-07-22, 21:54:30](https://news.ycombinator.com/item?id=49013995) - [Any text-to-SQL benchmark should address difficulties of real-world data stores](https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/)
@@ -49,9 +82,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-22, 21:33:12](https://lobste.rs/s/lv12lc/why_care_about_programming_languages) - [Why care about programming languages](https://ebellani.github.io/blog/2026/why-care-about-programming-languages/)
 * [2026-07-22, 21:15:26](https://news.ycombinator.com/item?id=49013538) - [Malleable Computing, Emacs, and You](http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html)
 * [2026-07-22, 21:14:00](https://soylentnews.org/article.pl?sid=26/07/21/2225209&amp;from=rss) - [Five Tech Giants are Hiding $1.65tn in AI Debt, Using the Trick that Toppled Enron](https://soylentnews.org/article.pl?sid=26/07/21/2225209&amp;from=rss)
-* [2026-07-22, 21:00:26](https://news.ycombinator.com/item?id=49013356) - [Safari Technology Preview 248 Released](https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/)
 * [2026-07-22, 21:00:00](https://linux.slashdot.org/story/26/07/22/2033256/linux-kernel-team-publishes-432-cves-in-two-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Linux Kernel Team Publishes 432 CVEs In Two Days](https://linux.slashdot.org/story/26/07/22/2033256/linux-kernel-team-publishes-432-cves-in-two-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-22, 20:33:44](https://news.ycombinator.com/item?id=49013036) - [I Inspected My Take-Home Interview Project. It Was a Whole Operation](https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/)
 * [2026-07-22, 20:24:10](https://lobste.rs/s/tltlwf/refluxfs_linux_kernel_local_privilege) - [RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)](https://blog.qualys.com/vulnerabilities-threat-research/2026/07/22/refluxfs-a-linux-kernel-local-privilege-escalation-to-root-in-xfs-cve-2026-64600)
 * [2026-07-22, 20:16:01](https://news.ycombinator.com/item?id=49012777) - [Fairphone 6 wide camera experimental Linux support](https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/)
 * [2026-07-22, 20:00:00](https://hardware.slashdot.org/story/26/07/22/1958256/apple-partners-with-klarna-to-offer-iphones-macs-on-a-subscription-basis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Partners With Klarna To Offer iPhones, Macs On a Subscription Basis](https://hardware.slashdot.org/story/26/07/22/1958256/apple-partners-with-klarna-to-offer-iphones-macs-on-a-subscription-basis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -60,11 +91,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-22, 18:55:42](https://news.ycombinator.com/item?id=49011687) - [Clarity didn&apos;t work, trying mysterianism (2012)](https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html)
 * [2026-07-22, 18:00:00](https://games.slashdot.org/story/26/07/22/1659215/microsoft-announces-xbox-backward-compatibility-for-pc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Microsoft Announces Xbox Backward Compatibility For PC](https://games.slashdot.org/story/26/07/22/1659215/microsoft-announces-xbox-backward-compatibility-for-pc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-22, 17:56:29](https://news.ycombinator.com/item?id=49010782) - [Show HN: Cactus Hybrid: We taught Gemma 4 to know when it&apos;s wrong](https://github.com/cactus-compute/cactus-hybrid)
-* [2026-07-22, 17:48:18](https://news.ycombinator.com/item?id=49010648) - [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
+* [2026-07-22, 17:48:18](https://news.ycombinator.com/item?id=49010648) - [Everyone should know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
 * [2026-07-22, 17:35:25](https://lobste.rs/s/l8hiip/announcing_topcoat_framework_for) - [Announcing Topcoat: a framework for building full-stack reactive web apps with Rust](https://tokio.rs/blog/2026-07-22-announcing-topcoat)
-* [2026-07-22, 17:30:40](https://news.ycombinator.com/item?id=49010345) - [Terrence Tao&apos;s ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
+* [2026-07-22, 17:30:40](https://news.ycombinator.com/item?id=49010345) - [Terence Tao&apos;s ChatGPT conversation about the Jacobian Conjecture counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
 * [2026-07-22, 17:20:38](https://news.ycombinator.com/item?id=49010167) - [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/)
-* [2026-07-22, 17:17:54](https://news.ycombinator.com/item?id=49010129) - [Are AI Labs Pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html)
+* [2026-07-22, 17:17:54](https://news.ycombinator.com/item?id=49010129) - [Are AI labs pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html)
 * [2026-07-22, 17:00:00](https://mobile.slashdot.org/story/26/07/22/1652232/samsung-galaxy-z-fold-8-announced-to-compete-with-future-iphone-fold?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Samsung Galaxy Z Fold 8 Announced to Compete With Future iPhone Fold](https://mobile.slashdot.org/story/26/07/22/1652232/samsung-galaxy-z-fold-8-announced-to-compete-with-future-iphone-fold?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-22, 16:23:00](https://soylentnews.org/article.pl?sid=26/07/21/2223243&amp;from=rss) - [German Startup Qurie Bags Funding for Molecular Heat Pump](https://soylentnews.org/article.pl?sid=26/07/21/2223243&amp;from=rss)
 * [2026-07-22, 16:02:03](https://news.ycombinator.com/item?id=49008901) - [Launch HN: Unlayer (YC W22) – Add email and document builders to your app](https://unlayer.com)
@@ -91,7 +122,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-22, 07:00:00](https://it.slashdot.org/story/26/07/22/0348206/openai-says-its-ai-models-acted-on-its-own-in-an-unprecedented-hack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI Says Its AI Models Acted On Its Own In An &apos;Unprecedented&apos; Hack](https://it.slashdot.org/story/26/07/22/0348206/openai-says-its-ai-models-acted-on-its-own-in-an-unprecedented-hack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-22, 06:57:00](https://soylentnews.org/article.pl?sid=26/07/21/069235&amp;from=rss) - [How a Gang of Thieves Pulled Off a Multimillion-Dollar Data Center Heist](https://soylentnews.org/article.pl?sid=26/07/21/069235&amp;from=rss)
 * [2026-07-22, 06:36:31](https://lobste.rs/s/roovnv/rewriting_futhark_type_checker) - [Rewriting the Futhark type checker](https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html)
-* [2026-07-22, 06:19:17](https://lobste.rs/s/mbge4p/ecc_ddr5) - [ECC and DDR5](https://etbe.coker.com.au/2026/07/19/ecc-ddr5/)
 * [2026-07-22, 05:56:08](https://lobste.rs/s/ny0yzm/lg_ban_residential_proxies_from_smart_tv) - [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
 * [2026-07-22, 05:49:05](https://lobste.rs/s/x8soyh/prefactoring_clear_way_for_your_new) - [Prefactoring: Clear the Way for Your New Feature](https://testing.googleblog.com/2026/07/prefactoring-clear-way-for-your-new.html)
 * [2026-07-22, 05:34:36](https://lobste.rs/s/7a2nvk/slash_pages) - [Slash Pages](https://slashpages.net/)
@@ -101,18 +131,16 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-21, 22:47:54](https://lobste.rs/s/rkj3j4/bringing_modern_web_original_ipad_mini) - [Bringing the modern web to the original iPad mini](https://seg6.space/posts/resurrecting-ipad-mini)
 * [2026-07-21, 22:00:00](https://tech.slashdot.org/story/26/07/21/2037254/tesla-robotaxis-go-to-florida?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Tesla Robotaxis Go To Florida](https://tech.slashdot.org/story/26/07/21/2037254/tesla-robotaxis-go-to-florida?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-21, 21:24:00](https://soylentnews.org/article.pl?sid=26/07/21/0559241&amp;from=rss) - [The Shocking Secrets of Madison Square Garden’s Surveillance Machine](https://soylentnews.org/article.pl?sid=26/07/21/0559241&amp;from=rss)
-* [2026-07-21, 21:00:00](https://news.slashdot.org/story/26/07/21/2022247/firefox-153-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Firefox 153 Released](https://news.slashdot.org/story/26/07/21/2022247/firefox-153-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-21, 20:39:54](https://lobste.rs/s/rwdmjn/free_ink_open_ecosystem_for_e_readers) - [Free Ink · An open ecosystem for e-readers](https://freeink.org/)
 * [2026-07-21, 20:38:04](https://lobste.rs/s/7nrek3/openai_model_breaks_out_security_sandbox) - [OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
-* [2026-07-21, 19:57:49](https://lobste.rs/s/nv7xhn/cosmic_de_s_first_seven_months) - [COSMIC DE’s First Seven Months](https://system76.com/blog/post/cosmic-de-first-seven-months)
-* [2026-07-21, 18:02:26](https://lobste.rs/s/qozazh/no_ai_statements_are_much_more_than_mere) - [“No AI” Statements Are Much More Than Mere Statements](https://journal.james-zhan.com/no-ai-statements/)
 * [2026-07-21, 16:41:00](https://soylentnews.org/article.pl?sid=26/07/21/0553204&amp;from=rss) - [Airbus Migrating 70 Critical Apps From AWS To France&apos;s Scaleway Amid Digital Sovereignty Push](https://soylentnews.org/article.pl?sid=26/07/21/0553204&amp;from=rss)
-* [2026-07-21, 12:31:15](https://lobste.rs/s/cxz7vd/git_end_options) - [git --end-of-options](https://nesbitt.io/2026/07/21/end-of-options.html)
+* [2026-07-21, 13:13:47](https://news.ycombinator.com/item?id=48991882) - [git&apos;s –end-of-options Flag](https://nesbitt.io/2026/07/21/end-of-options.html)
 * [2026-07-21, 11:45:00](https://soylentnews.org/article.pl?sid=26/07/21/0550247&amp;from=rss) - [Deep-Sea Life Has a Secret Food Source Scientists Never Expected](https://soylentnews.org/article.pl?sid=26/07/21/0550247&amp;from=rss)
 * [2026-07-21, 10:11:59](https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix) - [GitHub suddenly rejected my SSH key (the fix was a .pub file?!)](https://thorsell.io/2026/07/21/github-ssh-keys.html)
 * [2026-07-21, 07:59:00](https://soylentnews.org/article.pl?sid=26/07/20/0431234&amp;from=rss) - [Eating Chili Peppers May Raise the Risk of One Deadly Cancer](https://soylentnews.org/article.pl?sid=26/07/20/0431234&amp;from=rss)
 * [2026-07-21, 03:15:00](https://soylentnews.org/article.pl?sid=26/07/20/0413210&amp;from=rss) - [US Sanctions First VPN In Crackdown On Ransomware Criminals](https://soylentnews.org/article.pl?sid=26/07/20/0413210&amp;from=rss)
 * [2026-07-20, 22:27:00](https://soylentnews.org/article.pl?sid=26/07/20/040231&amp;from=rss) - [A Moment Of Silence, Please, For The Final Release Of Debian On X86-32](https://soylentnews.org/article.pl?sid=26/07/20/040231&amp;from=rss)
+* [2026-07-20, 20:34:52](https://news.ycombinator.com/item?id=48984534) - [ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)](https://github.com/exlee/ascdraw)
 * [2026-07-20, 17:43:00](https://soylentnews.org/article.pl?sid=26/07/20/0344230&amp;from=rss) - [Clever Hacker Fits 537,000 Domains in a Tiny $5 ESP32 Ad-Blocking Dongle](https://soylentnews.org/article.pl?sid=26/07/20/0344230&amp;from=rss)
 * [2026-07-20, 12:55:00](https://soylentnews.org/article.pl?sid=26/07/20/0338215&amp;from=rss) - [Great Ape Laughter Reveals a Hidden Origin of Human Speech](https://soylentnews.org/article.pl?sid=26/07/20/0338215&amp;from=rss)
 * [2026-07-20, 08:12:00](https://soylentnews.org/article.pl?sid=26/07/20/0325216&amp;from=rss) - [Fake Go DNS Scanner Spread Malware Through Over 200 GitHub Repos](https://soylentnews.org/article.pl?sid=26/07/20/0325216&amp;from=rss)
@@ -121,6 +149,5 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-19, 21:53:00](https://soylentnews.org/article.pl?sid=26/07/19/0313244&amp;from=rss) - [Welcome to DebConf26!](https://soylentnews.org/article.pl?sid=26/07/19/0313244&amp;from=rss)
 * [2026-07-19, 17:08:00](https://soylentnews.org/article.pl?sid=26/07/19/036256&amp;from=rss) - [AI Mania is Eviscerating Global Decision-Making](https://soylentnews.org/article.pl?sid=26/07/19/036256&amp;from=rss)
 * [2026-07-19, 12:23:00](https://soylentnews.org/article.pl?sid=26/07/19/034232&amp;from=rss) - [Finland is Preparing to Hide an Entire City Underground](https://soylentnews.org/article.pl?sid=26/07/19/034232&amp;from=rss)
-* [2026-07-19, 12:20:56](https://news.ycombinator.com/item?id=48967506) - [MemoryPack: Zero encoding extreme performance binary serializer for C#](https://github.com/Cysharp/MemoryPack)
 * [2026-07-19, 07:40:00](https://soylentnews.org/article.pl?sid=26/07/17/1611241&amp;from=rss) - [NTP Server That Traveled Back In Time Caused Massive Aussie Mobile Outage](https://soylentnews.org/article.pl?sid=26/07/17/1611241&amp;from=rss)
 * [2026-07-19, 02:53:00](https://soylentnews.org/article.pl?sid=26/07/17/1524222&amp;from=rss) - [Experts May Have Drastically Underestimated the Lifespan of EV Batteries](https://soylentnews.org/article.pl?sid=26/07/17/1524222&amp;from=rss)
