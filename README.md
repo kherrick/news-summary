@@ -1,14 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Innovations and Breakthroughs
+## Technological Innovations and Updates
 
-* [Alan Turing's Top Secret DIY Project](https://soylentnews.org/article.pl?sid=26/07/24/1448254&amp;from=rss) explores a newly discovered endeavor by the pioneering computer scientist. [Comments](https://news.ycombinator.com/item?id=49045446)
+* [Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits](https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits) ([comments](https://news.ycombinator.com/item?id=49048645))
 
-* [SpaceX's Starship Megarocket Hits Key Milestones In Its 'Lucky 13' Test Flight](https://science.slashdot.org/story/26/07/25/0511222/spacexs-starship-megarocket-hits-key-milestones-in-its-lucky-13-test-flight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) marks advancements in reusable space technology. [Comments](https://yro.slashdot.org/story/26/07/25/0059247/openais-rogue-agent-went-unnoticed-for-a-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [SpaceX's Starship Megarocket Hits Key Milestones in 'Lucky 13' Test Flight](https://science.slashdot.org/story/26/07/25/0511222/spacexs-starship-megarocket-hits-key-milestones-in-lucky-13-test-flight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/07/25/0511222/spacexs-starship-megarocket-hits-key-milestones-in-lucky-13-test-flight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [MouthPad: A Tongue-Controlled Touchpad](https://www.augmental.tech/) unveils a transformative tool for accessibility. [Comments](https://news.ycombinator.com/item?id=49045446)
+* [MouthPad: A Tongue-Controlled Touchpad](https://www.augmental.tech/) ([comments](https://news.ycombinator.com/item?id=49045446))
 
-* [Humans Can Learn To Echolocate In Just 10 Weeks, and It Rewires the Brain](https://science.slashdot.org/story/26/07/24/021238/humans-can-learn-to-echolocate-in-just-10-weeks-and-it-rewires-the-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) details groundbreaking research into sensory adaptation. [Comments](https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/)
+* [Sending packets directly from BPF](https://lwn.net/Articles/1081696/) ([comments](https://lobste.rs/s/3ttebv/sending_packets_directly_from_bpf))
+
+* [Wine 11.14 Released](https://tech.slashdot.org/story/26/07/25/014225/wine-1114-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/07/25/014225/wine-1114-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Zig by Example](https://zigbyexample.neocities.org/) ([comments](https://lobste.rs/s/s75zd9/zig_by_example))
+
+## Scientific and Technological Discoveries
+
+* [Risks of Parkinson's Disease May Increase With Prolonged Exposure to Road Traffic Noise](https://science.slashdot.org/story/26/07/24/2246224/risks-of-parkinsons-disease-may-increase-with-prolonged-exposure-to-road-traffic-noise?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/07/24/2246224/risks-of-parkinsons-disease-may-increase-with-prolonged-exposure-to-road-traffic-noise?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+* [Scientists Believed This Near-Earth Object Was an Asteroid for 28 Years. They Were Wrong](https://soylentnews.org/article.pl?sid=26/07/23/225237&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/07/23/225237&amp;from=rss))
+
+* [Astronomers May Have Discovered First Moon Outside Our Solar System](https://science.slashdot.org/story/26/07/24/0712238/astronomers-may-have-discovered-first-moon-outside-our-solar-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://science.slashdot.org/story/26/07/24/0712238/astronomers-may-have-discovered-first-moon-outside-our-solar-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+## AI and Computational Advancements
+
+* [OpenAI's Rogue Agents are a Wake-up Call to Risks Posed by Artificial Intelligence](https://soylentnews.org/article.pl?sid=26/07/24/1428215&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/07/24/1428215&amp;from=rss))
+
+* [Anthropic's New Opus 5 Model Rivals Fable 5 For Half the Price](https://slashdot.org/story/26/07/24/1853236/anthropics-new-opus-5-model-rivals-fable-5-for-half-the-price?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49038433))
+
+* [Nvidia, Microsoft, Meta Warn Against 'Premature Restrictions' of Open-Weight Models](https://meta.slashdot.org/story/26/07/24/1911233/nvidia-microsoft-meta-warn-against-premature-restrictions-of-open-weight-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([comments](https://meta.slashdot.org/story/26/07/24/1911233/nvidia-microsoft-meta-warn-against-premature-restrictions-of-open-weight-models?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
+
+## Other Notable Topics
+
+* [Alan Turing's Top Secret DIY Project](https://soylentnews.org/article.pl?sid=26/07/24/1448254&amp;from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/07/24/1448254&amp;from=rss))
+
+* [Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico](https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html) ([comments](https://news.ycombinator.com/item?id=49014034))
+
+* [Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize) ([comments](https://news.ycombinator.com/item?id=49043724))
 
 ---
 
@@ -35,6 +63,13 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-07-25, 16:00:00](https://science.slashdot.org/story/26/07/24/2246224/risks-of-parkinsons-disease-may-increase-with-prolonged-exposure-to-road-traffic-noise?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Risks of Parkinson&apos;s Disease May Increase With Prolonged Exposure to Road Traffic Noise](https://science.slashdot.org/story/26/07/24/2246224/risks-of-parkinsons-disease-may-increase-with-prolonged-exposure-to-road-traffic-noise?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-25, 15:51:26](https://news.ycombinator.com/item?id=49048645) - [Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits](https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits)
+* [2026-07-25, 15:34:00](https://soylentnews.org/article.pl?sid=26/07/24/1452216&amp;from=rss) - [There Isn&apos;t a Single Consumer Wi-Fi Router That is 100% American-Made](https://soylentnews.org/article.pl?sid=26/07/24/1452216&amp;from=rss)
+* [2026-07-25, 15:13:27](https://lobste.rs/s/ljg2qr/languages_as_designed_latent_spaces) - [Languages as designed latent spaces](https://blog.jsbarretto.com/post/languages-as-latent-spaces)
+* [2026-07-25, 15:00:00](https://yro.slashdot.org/story/26/07/24/2111219/trump-threatens-new-tariffs-against-eu-over-google-fine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Threatens New Tariffs Against EU Over Google Fine](https://yro.slashdot.org/story/26/07/24/2111219/trump-threatens-new-tariffs-against-eu-over-google-fine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-25, 13:18:49](https://news.ycombinator.com/item?id=49047365) - [Bitchat Is Now on Radicle](https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6)
+* [2026-07-25, 12:58:43](https://lobste.rs/s/s75zd9/zig_by_example) - [Zig by Example](https://zigbyexample.neocities.org/)
 * [2026-07-25, 12:00:04](https://news.ycombinator.com/item?id=49046858) - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
 * [2026-07-25, 11:33:00](https://lobste.rs/s/eidh3u/shell_colon_does_nothing_use_it_anyway) - [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
 * [2026-07-25, 11:14:51](https://lobste.rs/s/pqkfur/emacs_writing_machine) - [Emacs Writing Machine](https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html)
@@ -45,7 +80,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-25, 09:59:40](https://lobste.rs/s/3ttebv/sending_packets_directly_from_bpf) - [Sending packets directly from BPF](https://lwn.net/Articles/1081696/)
 * [2026-07-25, 09:10:12](https://lobste.rs/s/bvgaff/stinkpot_sqlite_backed_shell_history) - [stinkpot: sqlite-backed shell history](https://tangled.org/oppi.li/stinkpot)
 * [2026-07-25, 07:51:19](https://news.ycombinator.com/item?id=49045446) - [MouthPad: A Tongue-Controlled Touchpad](https://www.augmental.tech/)
-* [2026-07-25, 07:00:00](https://science.slashdot.org/story/26/07/25/0511222/spacexs-starship-megarocket-hits-key-milestones-in-its-lucky-13-test-flight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SpaceX&apos;s Starship Megarocket Hits Key Milestones In Its &apos;Lucky 13&apos; Test Flight](https://science.slashdot.org/story/26/07/25/0511222/spacexs-starship-megarocket-hits-key-milestones-in-its-lucky-13-test-flight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-25, 07:00:00](https://science.slashdot.org/story/26/07/25/0511222/spacexs-starship-megarocket-hits-key-milestones-in-lucky-13-test-flight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SpaceX&apos;s Starship Megarocket Hits Key Milestones in &apos;Lucky 13&apos; Test Flight](https://science.slashdot.org/story/26/07/25/0511222/spacexs-starship-megarocket-hits-key-milestones-in-lucky-13-test-flight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-25, 06:57:14](https://news.ycombinator.com/item?id=49045159) - [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
 * [2026-07-25, 06:31:40](https://news.ycombinator.com/item?id=49045040) - [ARC-AGI Leaderboard](https://arcprize.org/leaderboard)
 * [2026-07-25, 06:07:49](https://lobste.rs/s/ypgw9x/perils_parsing_type_inference) - [the perils of parsing type inference declarations in c](https://sebsite.pw/w/20260725-auto.html)
@@ -54,13 +89,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-25, 05:29:51](https://lobste.rs/s/yajc8q/i_m_running_icfp_programming_contest_2026) - [I&apos;m running the ICFP programming contest (2026)](https://eieio.games/blog/im-running-the-icfp-programming-contest/)
 * [2026-07-25, 04:20:21](https://news.ycombinator.com/item?id=49044492) - [UK AISI / Caisi Preliminary Assessment of Kimi K3&apos;s Cyber Capabilities](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)
 * [2026-07-25, 03:30:00](https://yro.slashdot.org/story/26/07/25/0059247/openais-rogue-agent-went-unnoticed-for-a-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [OpenAI&apos;s Rogue Agent Went Unnoticed For a Week](https://yro.slashdot.org/story/26/07/25/0059247/openais-rogue-agent-went-unnoticed-for-a-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-25, 03:00:20](https://lobste.rs/s/zfvln5/we_are_not_special) - [We Are Not Special](https://www.hillelwayne.com/post/we-are-not-special/)
+* [2026-07-25, 03:00:20](https://lobste.rs/s/zfvln5/we_are_not_special_2021) - [We Are Not Special (2021)](https://www.hillelwayne.com/post/we-are-not-special/)
 * [2026-07-25, 01:44:12](https://news.ycombinator.com/item?id=49043724) - [Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize)
 * [2026-07-25, 01:34:26](https://lobste.rs/s/fw69uj/microformats_building_blocks_for_data) - [Microformats – building blocks for data-rich web pages](https://microformats.org/)
 * [2026-07-25, 01:21:00](https://soylentnews.org/article.pl?sid=26/07/24/1423206&amp;from=rss) - [US Blocks SSL Security Certificates for Iran&apos;s Fars News Agency](https://soylentnews.org/article.pl?sid=26/07/24/1423206&amp;from=rss)
 * [2026-07-25, 01:00:00](https://tech.slashdot.org/story/26/07/24/2212248/instagram-is-now-banning-pickup-artists-pranksters-who-use-meta-glasses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Instagram Is Now Banning Pickup Artists, Pranksters Who Use Meta Glasses](https://tech.slashdot.org/story/26/07/24/2212248/instagram-is-now-banning-pickup-artists-pranksters-who-use-meta-glasses?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-25, 00:23:02](https://lobste.rs/s/aibmo4/2026_stack_overflow_developer_survey) - [2026 Stack Overflow Developer Survey](https://take.survey.stackoverflow.co/jfe/form/SV_4GHunpL3IfJ3rRc)
-* [2026-07-24, 23:13:18](https://news.ycombinator.com/item?id=49042751) - [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)
 * [2026-07-24, 23:04:57](https://lobste.rs/s/c76s0r/chrome_registers_global_shortcut_for) - [Chrome registers a global shortcut for Gemini popup window](https://unsung.aresluna.org/chromes-breaking-and-entering/)
 * [2026-07-24, 23:00:00](https://yro.slashdot.org/story/26/07/24/2235232/paramount-agrees-to-postpone-warner-bros-merger-until-june-2027?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Paramount Agrees to Postpone Warner Bros. Merger Until June 2027](https://yro.slashdot.org/story/26/07/24/2235232/paramount-agrees-to-postpone-warner-bros-merger-until-june-2027?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-24, 22:11:44](https://lobste.rs/s/yia0pc/systems_delays_2026) - [Systems and Delays (2026)](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html)
@@ -84,24 +118,17 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-24, 14:38:42](https://lobste.rs/s/rbfmuh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rbfmuh/what_are_you_doing_this_weekend)
 * [2026-07-24, 14:24:29](https://lobste.rs/s/td8rne/don_t_take_black_pill) - [Don&apos;t take the black pill](https://www.youtube.com/watch?v=zLZwpH5lCD4)
 * [2026-07-24, 14:01:24](https://lobste.rs/s/gqgbrz/open_weights_american_ai_leadership) - [Open Weights and American AI Leadership](https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/)
-* [2026-07-24, 12:53:59](https://news.ycombinator.com/item?id=49034868) - [Half-Life 2 running natively on HaikuOS](https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18)
 * [2026-07-24, 11:54:41](https://news.ycombinator.com/item?id=49034292) - [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/)
 * [2026-07-24, 11:08:00](https://soylentnews.org/article.pl?sid=26/07/23/221216&amp;from=rss) - [I Wanted a Clock That Never Needed Setting. Things Escalated.](https://soylentnews.org/article.pl?sid=26/07/23/221216&amp;from=rss)
 * [2026-07-24, 11:00:00](https://science.slashdot.org/story/26/07/24/021238/humans-can-learn-to-echolocate-in-just-10-weeks-and-it-rewires-the-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Humans Can Learn To Echolocate In Just 10 Weeks, and It Rewires the Brain](https://science.slashdot.org/story/26/07/24/021238/humans-can-learn-to-echolocate-in-just-10-weeks-and-it-rewires-the-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-24, 09:56:24](https://lobste.rs/s/troy2w/case_for_muds_modern_times) - [The case for MUDs in modern times](https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times)
-* [2026-07-24, 09:52:58](https://news.ycombinator.com/item?id=49033240) - [IRGC claims it destroyed Amazon&apos;s Bahrain data center](https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/)
-* [2026-07-24, 09:29:44](https://news.ycombinator.com/item?id=49033110) - [Future euro banknote design proposals](https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html)
-* [2026-07-24, 07:00:00](https://hardware.slashdot.org/story/26/07/24/0152240/worlds-first-wave-power-generator-receives-certification-for-regular-use?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [World&apos;s First Wave Power Generator Receives Certification For Regular Use](https://hardware.slashdot.org/story/26/07/24/0152240/worlds-first-wave-power-generator-receives-certification-for-regular-use?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-24, 06:26:00](https://soylentnews.org/article.pl?sid=26/07/23/0249220&amp;from=rss) - [I Could&apos;ve Rickrolled the Entire FIFA World Cup and All I Needed Was My ID](https://soylentnews.org/article.pl?sid=26/07/23/0249220&amp;from=rss)
 * [2026-07-24, 05:29:28](https://lobste.rs/s/ewh4v6/making_gifs_from_35mm_film_photography) - [Making GIFs from 35mm film photography](https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html)
 * [2026-07-24, 05:05:03](https://lobste.rs/s/h9gdj8/freebsd_ports_frozen_after_someone) - [FreeBSD ports frozen after someone commits the entire 150MB Linux Copilot binary](https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/)
-* [2026-07-24, 03:30:00](https://yro.slashdot.org/story/26/07/24/0144247/google-adds-selfie-video-as-a-log-in-option?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Google Adds Selfie Video As a Log-In Option](https://yro.slashdot.org/story/26/07/24/0144247/google-adds-selfie-video-as-a-log-in-option?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-24, 01:43:00](https://soylentnews.org/article.pl?sid=26/07/23/0234212&amp;from=rss) - [Former OpenAI CTO Does What Altman Won&apos;t: Releases a Frontier AI Model That&apos;s Actually Open](https://soylentnews.org/article.pl?sid=26/07/23/0234212&amp;from=rss)
 * [2026-07-23, 21:10:09](https://lobste.rs/s/x3x2aw/you_should_selfhost_your_mail_2026) - [You should selfhost your mail (in 2026)](https://blog.haschek.at/2026/you-should-selfhost-your-mail.html)
 * [2026-07-23, 20:55:00](https://soylentnews.org/article.pl?sid=26/07/23/0228206&amp;from=rss) - [NASA&apos;s Artemis III Will Need Three Rockets to Do the Job Apollo Did With One](https://soylentnews.org/article.pl?sid=26/07/23/0228206&amp;from=rss)
 * [2026-07-23, 17:10:02](https://news.ycombinator.com/item?id=49024938) - [Kimi K3 exploited the latest Redis server](https://twitter.com/fried_rice/status/2080059356322918777)
 * [2026-07-23, 16:08:00](https://soylentnews.org/article.pl?sid=26/07/23/029223&amp;from=rss) - [Could China and Russia Really Destroy Starlink?](https://soylentnews.org/article.pl?sid=26/07/23/029223&amp;from=rss)
-* [2026-07-23, 15:33:26](https://lobste.rs/s/gpqa52/everyone_should_know_simd) - [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
 * [2026-07-23, 12:31:21](https://news.ycombinator.com/item?id=49020545) - [Show HN: I simulated closing the Strait of Hormuz on real oil trade data](https://globaloilnetwork.staffinganalytics.io/)
 * [2026-07-23, 11:20:00](https://soylentnews.org/article.pl?sid=26/07/23/023217&amp;from=rss) - [Sweet! Sugar Found in Raspberries Was Discovered Near the Milky Way&apos;s Center](https://soylentnews.org/article.pl?sid=26/07/23/023217&amp;from=rss)
 * [2026-07-23, 06:38:00](https://soylentnews.org/article.pl?sid=26/07/22/0039239&amp;from=rss) - [Zilog Z80 Turns 50 as an Open-Source Replacement Heads to Drop-in DIP40 Silicon](https://soylentnews.org/article.pl?sid=26/07/22/0039239&amp;from=rss)
@@ -112,7 +139,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-22, 18:09:26](https://news.ycombinator.com/item?id=49010993) - [Building a Tiny 3D Renderer for a Tiny Handheld](https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld)
 * [2026-07-22, 16:23:00](https://soylentnews.org/article.pl?sid=26/07/21/2223243&amp;from=rss) - [German Startup Qurie Bags Funding for Molecular Heat Pump](https://soylentnews.org/article.pl?sid=26/07/21/2223243&amp;from=rss)
 * [2026-07-22, 15:37:25](https://news.ycombinator.com/item?id=49008512) - [An old patent inspired the new \&quot;Y-zipper\&quot;, a three-sided fastener](https://news.mit.edu/2026/three-sided-y-zipper-design-0504)
+* [2026-07-22, 15:29:44](https://news.ycombinator.com/item?id=49008396) - [Zero roadkill as Amazon canopy bridges secure 15,000 crossings](https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/)
 * [2026-07-22, 14:20:34](https://news.ycombinator.com/item?id=49007291) - [PyPI Blog: Releases now reject new files after 14 days](https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/)
+* [2026-07-22, 14:03:21](https://news.ycombinator.com/item?id=49007018) - [Spatial languages: Writing code in 2D](https://shukla.io/blog/2026-07/cccx.html)
 * [2026-07-22, 13:41:00](https://soylentnews.org/article.pl?sid=26/07/21/2222218&amp;from=rss) - [My Hunt for the Original McDonald’s French-Fry Recipe](https://soylentnews.org/article.pl?sid=26/07/21/2222218&amp;from=rss)
 * [2026-07-22, 13:00:29](https://news.ycombinator.com/item?id=49006096) - [My Images Are Dithered](https://dead.garden/blog/how-my-images-are-dithered.html)
 * [2026-07-22, 11:36:00](https://soylentnews.org/article.pl?sid=26/07/22/0025243&amp;from=rss) - [The 2024 New York City Meteorite Contains Amino Acids](https://soylentnews.org/article.pl?sid=26/07/22/0025243&amp;from=rss)
@@ -121,7 +150,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-21, 21:24:00](https://soylentnews.org/article.pl?sid=26/07/21/0559241&amp;from=rss) - [The Shocking Secrets of Madison Square Garden’s Surveillance Machine](https://soylentnews.org/article.pl?sid=26/07/21/0559241&amp;from=rss)
 * [2026-07-21, 17:27:59](https://news.ycombinator.com/item?id=48995409) - [Firefox Containers Preview](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
 * [2026-07-21, 16:41:00](https://soylentnews.org/article.pl?sid=26/07/21/0553204&amp;from=rss) - [Airbus Migrating 70 Critical Apps From AWS To France&apos;s Scaleway Amid Digital Sovereignty Push](https://soylentnews.org/article.pl?sid=26/07/21/0553204&amp;from=rss)
-* [2026-07-21, 13:19:13](https://news.ycombinator.com/item?id=48991945) - [PartialString – A finite-difference time-domain physical modelling synthesiser](https://differentinstruments.com/)
 * [2026-07-21, 11:45:00](https://soylentnews.org/article.pl?sid=26/07/21/0550247&amp;from=rss) - [Deep-Sea Life Has a Secret Food Source Scientists Never Expected](https://soylentnews.org/article.pl?sid=26/07/21/0550247&amp;from=rss)
 * [2026-07-21, 07:59:00](https://soylentnews.org/article.pl?sid=26/07/20/0431234&amp;from=rss) - [Eating Chili Peppers May Raise the Risk of One Deadly Cancer](https://soylentnews.org/article.pl?sid=26/07/20/0431234&amp;from=rss)
 * [2026-07-21, 03:15:00](https://soylentnews.org/article.pl?sid=26/07/20/0413210&amp;from=rss) - [US Sanctions First VPN In Crackdown On Ransomware Criminals](https://soylentnews.org/article.pl?sid=26/07/20/0413210&amp;from=rss)
