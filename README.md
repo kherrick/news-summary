@@ -1,46 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology and Innovations
+## Science and Space Discoveries
 
-* [Scanwheel: a drum style mechanical television you can build yourself](https://github.com/AncientJames/Scanwheel/) - A fascinating open-source project enabling individuals to construct a vintage-inspired, drum-style mechanical television.
+* [Astronomers Found the First Atmosphere on a Planet in Another Star's Habitable Zone](https://soylentnews.org/article.pl?sid=26/07/25/2045217&amp;from=rss) - Scientists have identified the first known planet within a star's habitable zone with a detectable atmosphere, sparking interest in exoplanet habitability.
 
-* [JetZero](https://www.jetzero.aero) - An intriguing aerospace project aimed at reducing carbon footprints in aviation with innovative aircraft designs.
+* [Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home](https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/) - Researchers are analyzing the unexpected chemical compositions found in a meteorite that landed in a New Jersey home.
 
-* [Show HN: I mapped every US golf course – 16k+ courses, free, no signup](https://golfcoursebrowser.com/) - An interactive map that lists over 16,000 U.S. golf courses, accessible freely and without registration.
+* [The 2024 New York City Meteorite Contains Amino Acids](https://soylentnews.org/article.pl?sid=26/07/22/0025243&amp;from=rss) - A meteorite discovered in NYC contained organic compounds, offering key insights into prebiotic chemistry.
 
-* [Show HN: What 180k words look like as a temporal knowledge graph (Oz series)](https://synaptale.com/graph?ch=100) - An insightful visualization of 180,000 words from the Oz series as a temporal knowledge graph.
+* [Sweet! Sugar Found in Raspberries Was Discovered Near the Milky Way's Center](https://soylentnews.org/article.pl?sid=26/07/23/023217&amp;from=rss) - Sugars, building blocks of life, were identified near the galactic center, deepening the understanding of life's origins in space.
 
-* [Himalaya v2.0.0: CLI to manage emails](https://fosstodon.org/@pimalaya/116983467890532240) - A command-line tool for email management, packed with new features in its latest release.
+## Cutting-Edge Technology Innovations
 
-* [LLM Usage in Debian: Three Proposals](https://www.debian.org/vote/2026/vote_002) - A detailed discussion on proposed methods for integrating large language models within the Debian project.
+* [W4ME Station – a WASM-4 runtime for Java ME phones](https://github.com/mulfyx/w4me-station) - Explore a WASM-4 emulator tailored for running classic Java ME applications on modern devices.
 
-* [Open-weight AI is having its Kubernetes moment](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/) - A captivating perspective on the growing traction and framework adjustments for open-weight AI models.
+* [Scanwheel: a drum style mechanical television you can build yourself](https://github.com/AncientJames/Scanwheel/) - Detailed instructions to construct a working drum-style mechanical TV, marrying retro tech and DIY innovation.
 
-## Artificial Intelligence and Robotics
+* [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/) - Learn how a hobbyist crafted a plane tracking radar using the ESP32 microcontroller and shared their process.
 
-* [32 of 35 Students Caught Using Hilariously Wrong AI-Generated Answers for Professor's Midterm](https://news.slashdot.org/story/26/07/25/2114259/32-of-35-students-caught-using-hilariously-wrong-ai-generated-answers-for-professors-midterm?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A humorous yet concerning account of AI's impact on academic integrity.
+* [JetZero](https://www.jetzero.aero) - JetZero's futuristic innovations promise significant transformations in aerospace design and performance.
 
-* [MIT to Become Hotbed of AI Video Surveillance](https://soylentnews.org/article.pl?sid=26/07/25/2042256&from=rss) - A controversial report on MIT's role in advancing AI-based video surveillance technologies.
+## Artificial Intelligence and Its Implications
 
-* [Aliens World Chemistry Found Inside Meteorite That Struck New Jersey Home](https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/) - Scientists uncover compounds hinting at extraterrestrial biochemistry.
+* [32 of 35 Students Caught Using Hilariously Wrong AI-Generated Answers for Professor's Midterm](https://news.slashdot.org/story/26/07/25/2114259/32-of-35-students-caught-using-hilariously-wrong-ai-generated-answers-for-professors-midterm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Misapplications of generative AI led to absurdly wrong exam answers, raising questions about ethical AI use in academics.
 
-* [OpenAI's Rogue Agents are a Wake-up Call to Risks Posed by Artificial Intelligence](https://soylentnews.org/article.pl?sid=26/07/24/1428215&from=rss) - OpenAI grapples with challenges presented by rogue AI behavior.
+* [Amazon Cracks Down On Use of AI Images By Sellers](https://slashdot.org/story/26/07/25/0545246/amazon-cracks-down-on-use-of-ai-images-by-sellers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Amazon enforces controls over AI-generated images to address authenticity and copyright challenges for sellers.
 
-## Space and Astronomy
+* [Cloudflare's new AI traffic options for customers](https://blog.cloudflare.com/content-independence-day-ai-options/) - Cloudflare unveils advanced AI tools to empower users in analyzing and enhancing web traffic.
 
-* [SpaceX's Starship Megarocket Hits Key Milestones in 'Lucky 13' Test Flight](https://science.slashdot.org/story/26/07/25/0511222/spacexs-starship-megarocket-hits-key-milestones-in-lucky-13-test-flight) - SpaceX achieves significant progress with its groundbreaking Starship test flight.
+## Historical and Cultural Insights
 
-* [China is Creating a Herd of 100 Elite Yak Clones](https://science.slashdot.org/story/26/07/25/1656259/china-is-creating-a-herd-of-100-elite-yak-clones?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Scientists aim to clone 'elite' yaks in a revolutionary genetic project.
+* [Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?](https://www.historicmysteries.com/unexplained-mysteries/agatha-christie-disappearance/23136/) - An exploration of the perplexing case of Agatha Christie's 11-day disappearance in 1926.
 
-* [Sweet! Sugar Found in Raspberries Was Discovered Near the Milky Way's Center](https://soylentnews.org/article.pl?sid=26/07/23/023217&from=rss) - An unusual discovery of sugar molecules in space raises questions about the building blocks of life.
+* [Alan Turing's Top Secret DIY Project](https://soylentnews.org/article.pl?sid=26/07/24/1448254&amp;from=rss) - A deep dive into a lesser-known project by Alan Turing exemplifying his inventive spirit outside computer science.
 
-## Sustainability and Climate
+## Environmental Concerns and Renewable Energy
 
-* [Drying Lakebeds Are Releasing Massive Amounts of Carbon, Study Finds](https://news.slashdot.org/story/26/07/25/0417232/drying-lakebeds-are-releasing-massive-amounts-of-carbon-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A critical report on the environmental consequences of drying lakebeds and their contribution to carbon release.
+* [Drying Lakebeds Are Releasing Massive Amounts of Carbon, Study Finds](https://news.slashdot.org/story/26/07/25/0417232/drying-lakebeds-are-releasing-massive-amounts-of-carbon-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Scientists uncover how dried-up lakebeds contribute significantly to atmospheric carbon release.
 
-* [GM Backs Sodium Ion Batteries for U.S. Grid Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy) - A renewable energy breakthrough with GM backing the use of sodium-ion batteries in US grids.
+* [Producing ammonia and fertiliser using wind power in Morris, Minnesota](https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/) - Efforts to manufacture ammonia with wind energy represent a sustainable revolution in agriculture.
 
-* [Producing ammonia and fertiliser using wind power in Morris, Minnesota](https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/) - An innovative project exploring sustainable production of ammonia and fertilizer using renewable energy in Minnesota.
+## Quirky Innovations and Fun Projects
+
+* [Show HN: I mapped every US golf course](https://golfcoursebrowser.com/) - A comprehensive, fascinating map of all US golf courses for enthusiasts and curious minds.
+
+* [Show HN: Brolly, a plain-text weather forecast site](https://brolly.sh/forecast/RWFP2qW8) - Brolly delivers minimalist, text-based weather forecasts for clarity over clutter.
+
+* [I Could've Rickrolled the Entire FIFA World Cup and All I Needed Was My ID](https://soylentnews.org/article.pl?sid=26/07/23/0249220&amp;from=rss) - A light-hearted tale of finding security loopholes that could've led to one epic Rickroll.
 
 ---
 
@@ -67,21 +73,20 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-07-26, 05:43:00](https://soylentnews.org/article.pl?sid=26/07/25/2045217&amp;from=rss) - [Astronomers Found the First Atmosphere on a Planet in Another Star&apos;s Habitable Zone](https://soylentnews.org/article.pl?sid=26/07/25/2045217&amp;from=rss)
 * [2026-07-26, 04:53:21](https://lobste.rs/s/jgaxxy/beginner_j_dealing_cards) - [Beginner J: Dealing Cards](https://www.youtube.com/watch?v=eXGKK8BkCkg)
+* [2026-07-26, 04:19:59](https://news.ycombinator.com/item?id=49054697) - [W4ME Station – a WASM-4 runtime for Java ME phones](https://github.com/mulfyx/w4me-station)
 * [2026-07-26, 03:34:00](https://news.slashdot.org/story/26/07/25/2114259/32-of-35-students-caught-using-hilariously-wrong-ai-generated-answers-for-professors-midterm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [32 of 35 Students Caught Using Hilariously Wrong AI-Generated Answers for Professor&apos;s Midterm](https://news.slashdot.org/story/26/07/25/2114259/32-of-35-students-caught-using-hilariously-wrong-ai-generated-answers-for-professors-midterm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-26, 03:15:08](https://lobste.rs/s/asgpfk/scanwheel_drum_style_mechanical) - [Scanwheel: a drum style mechanical television you can build yourself](https://github.com/AncientJames/Scanwheel/)
-* [2026-07-26, 03:09:46](https://news.ycombinator.com/item?id=49054307) - [Humans Haven&apos;t Stopped Evolving](https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure)
 * [2026-07-26, 02:55:50](https://news.ycombinator.com/item?id=49054224) - [JetZero](https://www.jetzero.aero)
 * [2026-07-26, 02:35:43](https://news.ycombinator.com/item?id=49054107) - [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
-* [2026-07-26, 02:22:26](https://news.ycombinator.com/item?id=49054010) - [Show HN: I mapped every US golf course – 16k+ courses, free, no signup](https://golfcoursebrowser.com/)
-* [2026-07-26, 02:18:31](https://news.ycombinator.com/item?id=49053986) - [Show HN: What 180k words look like as a temporal knowledge graph (Oz series)](https://synaptale.com/graph?ch=100)
+* [2026-07-26, 02:22:26](https://news.ycombinator.com/item?id=49054010) - [Show HN: I mapped every US golf course](https://golfcoursebrowser.com/)
 * [2026-07-26, 01:35:03](https://news.ycombinator.com/item?id=49053708) - [Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home](https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/)
-* [2026-07-26, 01:34:00](https://news.slashdot.org/story/26/07/25/1944229/firefox-new-tab-page-will-get-widgets---including-an-ai-powered-daily-crossword?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Firefox&apos; New Tab Page Will Get Widgets - Including an AI-Powered Daily Crossword](https://news.slashdot.org/story/26/07/25/1944229/firefox-new-tab-page-will-get-widgets---including-an-ai-powered-daily-crossword?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-26, 01:34:00](https://news.slashdot.org/story/26/07/25/1944229/firefoxs-new-tab-page-will-get-widgets---including-an-ai-powered-daily-crossword?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Firefox&apos;s New Tab Page Will Get Widgets - Including an AI-Powered Daily Crossword](https://news.slashdot.org/story/26/07/25/1944229/firefoxs-new-tab-page-will-get-widgets---including-an-ai-powered-daily-crossword?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-26, 01:00:00](https://soylentnews.org/article.pl?sid=26/07/25/2042256&amp;from=rss) - [MIT to Become Hotbed of AI Video Surveillance](https://soylentnews.org/article.pl?sid=26/07/25/2042256&amp;from=rss)
 * [2026-07-26, 00:45:08](https://lobste.rs/s/sd5em2/himalaya_v2_0_0_cli_manage_emails) - [Himalaya v2.0.0: CLI to manage emails](https://fosstodon.org/@pimalaya/116983467890532240)
 * [2026-07-26, 00:37:30](https://news.ycombinator.com/item?id=49053382) - [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html)
 * [2026-07-26, 00:36:30](https://news.ycombinator.com/item?id=49053375) - [Inflect-Micro-v2: complete voice in 9.36M parameters](https://huggingface.co/owensong/Inflect-Micro-v2)
-* [2026-07-25, 23:32:50](https://news.ycombinator.com/item?id=49052912) - [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf)
 * [2026-07-25, 23:00:00](https://hardware.slashdot.org/story/26/07/25/1747227/did-virginia-regulators-downplay-data-center-health-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Did Virginia Regulators Downplay Data Center Health Concerns?](https://hardware.slashdot.org/story/26/07/25/1747227/did-virginia-regulators-downplay-data-center-health-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-25, 22:57:17](https://news.ycombinator.com/item?id=49052628) - [Clinical failure rates over the decades: yikes](https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes)
 * [2026-07-25, 22:50:49](https://news.ycombinator.com/item?id=49052564) - [Cloudflare&apos;s new AI traffic options for customers](https://blog.cloudflare.com/content-independence-day-ai-options/)
@@ -92,7 +97,6 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-25, 21:38:29](https://lobste.rs/s/x7jtkt/memory_safety_absolutists) - [Memory Safety Absolutists](https://itsallaboutthebit.com/memory-safety-absolutists/)
 * [2026-07-25, 21:32:58](https://lobste.rs/s/sh9bbn/how_self_host_servers_your_living_room_on) - [How to self-host servers in your living room on static IPs](https://vimuser.org/l2tp.html)
 * [2026-07-25, 21:00:00](https://hardware.slashdot.org/story/26/07/25/0343230/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Hyundai Claims Humanoid Robot Plan Is Not Part of Talks With Striking Workers ](https://hardware.slashdot.org/story/26/07/25/0343230/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-25, 20:55:12](https://news.ycombinator.com/item?id=49051463) - [Multicast TV Distribution on My Home Network](https://www.apalrd.net/posts/2026/isp_mcast/)
 * [2026-07-25, 20:52:49](https://lobste.rs/s/utnhmy/how_i_find_problems_solve_as_staff) - [How I Find Problems to Solve as a Staff Engineer](https://lalitm.com/post/find-problems-staff-engineer/)
 * [2026-07-25, 20:43:11](https://news.ycombinator.com/item?id=49051369) - [Turn And Face The Strange](https://fly.io/blog/kurt-scott-money-sprites/)
 * [2026-07-25, 20:42:35](https://news.ycombinator.com/item?id=49051361) - [The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)
@@ -115,6 +119,8 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-25, 15:13:27](https://lobste.rs/s/ljg2qr/languages_as_designed_latent_spaces) - [Languages as designed latent spaces](https://blog.jsbarretto.com/post/languages-as-latent-spaces)
 * [2026-07-25, 15:00:00](https://yro.slashdot.org/story/26/07/24/2111219/trump-threatens-new-tariffs-against-eu-over-google-fine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Threatens New Tariffs Against EU Over Google Fine](https://yro.slashdot.org/story/26/07/24/2111219/trump-threatens-new-tariffs-against-eu-over-google-fine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-25, 14:49:49](https://news.ycombinator.com/item?id=49048034) - [Open-weight AI is having its Kubernetes moment](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
+* [2026-07-25, 13:33:49](https://news.ycombinator.com/item?id=49047453) - [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
+* [2026-07-25, 13:18:49](https://news.ycombinator.com/item?id=49047365) - [Bitchat is now on Radicle](https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6)
 * [2026-07-25, 12:58:43](https://lobste.rs/s/s75zd9/zig_by_example) - [Zig by Example](https://zigbyexample.neocities.org/)
 * [2026-07-25, 11:33:00](https://lobste.rs/s/eidh3u/shell_colon_does_nothing_use_it_anyway) - [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
 * [2026-07-25, 11:14:51](https://lobste.rs/s/pqkfur/emacs_writing_machine) - [Emacs Writing Machine](https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html)
@@ -123,6 +129,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-25, 10:01:03](https://lobste.rs/s/t5os1h/android_may_soon_restrict_on_device_adb) - [Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
 * [2026-07-25, 09:10:12](https://lobste.rs/s/bvgaff/stinkpot_sqlite_backed_shell_history) - [stinkpot: sqlite-backed shell history](https://tangled.org/oppi.li/stinkpot)
 * [2026-07-25, 07:00:00](https://science.slashdot.org/story/26/07/25/0511222/spacexs-starship-megarocket-hits-key-milestones-in-lucky-13-test-flight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [SpaceX&apos;s Starship Megarocket Hits Key Milestones in &apos;Lucky 13&apos; Test Flight](https://science.slashdot.org/story/26/07/25/0511222/spacexs-starship-megarocket-hits-key-milestones-in-lucky-13-test-flight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-25, 06:57:14](https://news.ycombinator.com/item?id=49045159) - [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
 * [2026-07-25, 06:07:49](https://lobste.rs/s/ypgw9x/perils_parsing_type_inference) - [the perils of parsing type inference declarations in c](https://sebsite.pw/w/20260725-auto.html)
 * [2026-07-25, 06:04:00](https://soylentnews.org/article.pl?sid=26/07/24/1428215&amp;from=rss) - [OpenAI&apos;s Rogue Agents are a Wake-up Call to Risks Posed by Artificial Intelligence](https://soylentnews.org/article.pl?sid=26/07/24/1428215&amp;from=rss)
 * [2026-07-25, 05:29:51](https://lobste.rs/s/yajc8q/i_m_running_icfp_programming_contest) - [I&apos;m running the ICFP programming contest](https://eieio.games/blog/im-running-the-icfp-programming-contest/)
@@ -138,6 +145,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-24, 18:37:06](https://news.ycombinator.com/item?id=49039868) - [Show HN: I made some transistor animations](https://brandonli.net/semisim/animations)
 * [2026-07-24, 15:55:00](https://soylentnews.org/article.pl?sid=26/07/23/225237&amp;from=rss) - [Scientists Believed This Near-Earth Object Was an Asteroid for 28 Years. They Were Wrong](https://soylentnews.org/article.pl?sid=26/07/23/225237&amp;from=rss)
 * [2026-07-24, 14:24:29](https://lobste.rs/s/td8rne/don_t_take_black_pill) - [Don&apos;t take the black pill](https://www.youtube.com/watch?v=zLZwpH5lCD4)
+* [2026-07-24, 12:44:32](https://news.ycombinator.com/item?id=49034777) - [Stinkpot: SQLite-backed shell history](https://tangled.org/oppi.li/stinkpot)
 * [2026-07-24, 11:08:00](https://soylentnews.org/article.pl?sid=26/07/23/221216&amp;from=rss) - [I Wanted a Clock That Never Needed Setting. Things Escalated.](https://soylentnews.org/article.pl?sid=26/07/23/221216&amp;from=rss)
 * [2026-07-24, 06:26:00](https://soylentnews.org/article.pl?sid=26/07/23/0249220&amp;from=rss) - [I Could&apos;ve Rickrolled the Entire FIFA World Cup and All I Needed Was My ID](https://soylentnews.org/article.pl?sid=26/07/23/0249220&amp;from=rss)
 * [2026-07-24, 01:43:00](https://soylentnews.org/article.pl?sid=26/07/23/0234212&amp;from=rss) - [Former OpenAI CTO Does What Altman Won&apos;t: Releases a Frontier AI Model That&apos;s Actually Open](https://soylentnews.org/article.pl?sid=26/07/23/0234212&amp;from=rss)
@@ -152,7 +160,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-22, 21:09:59](https://news.ycombinator.com/item?id=49013464) - [SIMD for Collision](https://box2d.org/posts/2026/07/simd-for-collision/)
 * [2026-07-22, 16:23:00](https://soylentnews.org/article.pl?sid=26/07/21/2223243&amp;from=rss) - [German Startup Qurie Bags Funding for Molecular Heat Pump](https://soylentnews.org/article.pl?sid=26/07/21/2223243&amp;from=rss)
 * [2026-07-22, 15:29:44](https://news.ycombinator.com/item?id=49008396) - [Zero roadkill as Amazon canopy bridges secure 15,000 crossings](https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/)
+* [2026-07-22, 15:07:39](https://news.ycombinator.com/item?id=49008001) - [Retry Storm Lab](https://github.com/telemetry-sh/retry-storm-lab)
 * [2026-07-22, 13:41:00](https://soylentnews.org/article.pl?sid=26/07/21/2222218&amp;from=rss) - [My Hunt for the Original McDonald’s French-Fry Recipe](https://soylentnews.org/article.pl?sid=26/07/21/2222218&amp;from=rss)
 * [2026-07-22, 11:36:00](https://soylentnews.org/article.pl?sid=26/07/22/0025243&amp;from=rss) - [The 2024 New York City Meteorite Contains Amino Acids](https://soylentnews.org/article.pl?sid=26/07/22/0025243&amp;from=rss)
 * [2026-07-22, 06:57:00](https://soylentnews.org/article.pl?sid=26/07/21/069235&amp;from=rss) - [How a Gang of Thieves Pulled Off a Multimillion-Dollar Data Center Heist](https://soylentnews.org/article.pl?sid=26/07/21/069235&amp;from=rss)
+* [2026-07-22, 05:31:22](https://news.ycombinator.com/item?id=49002235) - [Librrd Playground](https://systemf.epfl.ch/etc/librrd/)
 * [2026-07-22, 02:12:00](https://soylentnews.org/article.pl?sid=26/07/21/065210&amp;from=rss) - [Doctors Document Rare Case of Dropped Head Syndrome Caused by Drug Use](https://soylentnews.org/article.pl?sid=26/07/21/065210&amp;from=rss)
