@@ -1,66 +1,68 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Innovations and Developments
+## Technology and Computing
 
-* [GitHub Slashes Public Bug Bounty Payouts as AI Report Flood Buries its Security Team](https://soylentnews.org/article.pl?sid=26/07/26/0345250&amp;from=rss)
+* [History of John Backus's FP languages](https://softwarepreservation.computerhistory.org/FP/) ([Comments](https://lobste.rs/s/dmuqxg/history_john_backus_s_fp_languages))
 
-* [US citizen charged after GrapheneOS phone wipes during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
+* [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc) ([Comments](https://news.ycombinator.com/item?id=49063175))
 
-* [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc)
+* [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/) ([Comments](https://news.ycombinator.com/item?id=49060856))
 
-* [India's First Privately Developed Rocket Reaches Orbit on Dramatic Debut Launch](https://soylentnews.org/article.pl?sid=26/07/26/0337236&amp;from=rss)
+* [Being Linux Torvalds](https://antirez.com/news/171) ([Comments](https://lobste.rs/s/uwhqhi/being_linux_torvalds))
 
-* [Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy](https://swag.htmx.org/en-cad/products/htmx-4-the-game)
+* [Introduction to Data-Oriented Design [pdf]](https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf) ([Comments](https://news.ycombinator.com/item?id=49060724))
 
-* [Former Microsoft AI Leaders Are Spending $1M to Prove AI Can Replace CEOs](https://soylentnews.org/article.pl?sid=26/07/23/229219&amp;from=rss)
+## Artificial Intelligence
 
-* [OpenAI's Rogue Agents are a Wake-up Call to Risks Posed by Artificial Intelligence](https://soylentnews.org/article.pl?sid=26/07/24/1428215&amp;from=rss)
+* [Kimi-K3 Releases on HuggingFace 6/27](https://huggingface.co/moonshotai/Kimi-K3) ([Comments](https://news.ycombinator.com/item?id=49065752))
 
-## Space Exploration
+* [Former OpenAI CTO Does What Altman Won't: Releases a Frontier AI Model That's Actually Open](https://soylentnews.org/article.pl?sid=26/07/23/0234212&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/07/23/0234212&amp;from=rss))
 
-* [NASA Replaces ULA's Vulcan Centaur With SpaceX Falcon Heavy For Solar Storm Research](https://science.slashdot.org/story/26/07/26/2144224/nasa-replaces-ulas-vulcan-centaur-with-spacex-falcon-heavy-for-solar-storm-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [The New AI Superpowers: Focus and Followthrough](https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and) ([Comments](https://news.ycombinator.com/item?id=49057877))
 
-* [Astronomers Found the First Atmosphere on a Planet in Another Star's Habitable Zone](https://soylentnews.org/article.pl?sid=26/07/25/2045217&amp;from=rss)
+* [GitHub Slashes Public Bug Bounty Payouts as AI Report Flood Buries its Security Team](https://soylentnews.org/article.pl?sid=26/07/26/0345250&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/07/26/0345250&amp;from=rss))
 
-* [Three Astronauts Safely Return from Space Station, Landing in Kazakhstan Steppe](https://science.slashdot.org/story/26/07/26/1536241/three-astronauts-safely-return-from-space-station-landing-in-kazakhstan-steppe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Scientific Discoveries
 
-## Privacy and Security
+* [Orange-Lipped Monkey That Roars and Snorts Deep in Congo Rainforest is New Species to Science](https://soylentnews.org/article.pl?sid=26/07/26/041247&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/07/26/041247&amp;from=rss))
 
-* [Inside the Dystopian World of Germany's Free Speech Crackdown](https://yro.slashdot.org/story/26/07/27/0037219/inside-the-dystopian-world-of-germanys-free-speech-crackdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [India's First Privately Developed Rocket Reaches Orbit on Dramatic Debut Launch](https://soylentnews.org/article.pl?sid=26/07/26/0337236&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/07/26/0337236&amp;from=rss))
 
-* [Typo-Squatting Scammers Con South Carolina Town Out of $545K](https://yro.slashdot.org/story/26/07/26/0138257/typo-squatting-scammers-con-south-carolina-town-out-of-545k?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Astronomers Found the First Atmosphere on a Planet in Another Star's Habitable Zone](https://soylentnews.org/article.pl?sid=26/07/25/2045217&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/07/25/2045217&amp;from=rss))
 
-* [AI-Equipped Garbage Trucks Could Soon Start Spying On People in the US](https://news.slashdot.org/story/26/07/26/0536218/ai-equipped-garbage-trucks-could-soon-start-spying-on-people-in-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [NASA Replaces ULA's Vulcan Centaur With SpaceX Falcon Heavy For Solar Storm Research](https://science.slashdot.org/story/26/07/26/2144224/nasa-replaces-ulas-vulcan-centaur-with-spacex-falcon-heavy-for-solar-storm-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://science.slashdot.org/story/26/07/26/2144224/nasa-replaces-ulas-vulcan-centaur-with-spacex-falcon-heavy-for-solar-storm-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [The relay market powering token resellers and fraud](https://vectoral.com/blog/token-relay-market)
+* [Zilog Z80 Turns 50 as an Open-Source Replacement Heads to Drop-in DIP40 Silicon](https://soylentnews.org/article.pl?sid=26/07/22/0039239&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/07/22/0039239&amp;from=rss))
 
-## Unique Tools and Projects
+## Business and Regulation
 
-* [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
+* [EU Fines Google $1.02B for Favoring Its Own Services](https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb) ([Comments](https://news.ycombinator.com/item?id=49065498))
 
-* [Fonts In Use – Find out where a font is used](https://fontsinuse.com/)
+* [Google's Anti-search-scraping Lawsuit Dismissed](https://yro.slashdot.org/story/26/07/26/1939229/googles-anti-search-scraping-lawsuit-dismissed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://yro.slashdot.org/story/26/07/26/1939229/googles-anti-search-scraping-lawsuit-dismissed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Simulate cassette tape audio profiles using FFmpeg](https://github.com/AARomanov1985/Audio-Cassette-Simulation)
+* [US citizen charged after GrapheneOS phone wipes during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html) ([Comments](https://news.ycombinator.com/item?id=49063022))
 
-* [Scanwheel: a drum style mechanical television you can build yourself](https://github.com/AncientJames/Scanwheel/)
+* [Typo-Squatting Scammers Con South Carolina Town Out of $545K](https://yro.slashdot.org/story/26/07/26/0138257/typo-squatting-scammers-con-south-carolina-town-out-of-545k?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://yro.slashdot.org/story/26/07/26/0138257/typo-squatting-scammers-con-south-carolina-town-out-of-545k?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in)
+## Environment and Space
 
-## Entertainment Highlights
+* [Wildfires, Evacuations, and Smoke Hit Europe and North America](https://news.slashdot.org/story/26/07/26/188255/wildfires-evacuations-and-smoke-hit-europe-and-north-america?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://news.slashdot.org/story/26/07/26/188255/wildfires-evacuations-and-smoke-hit-europe-and-north-america?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [2.1 Million People View Leaked 'Odyssey' Bootleg on X](https://entertainment.slashdot.org/story/26/07/27/0124231/21-million-people-view-leaked-odyssey-bootleg-on-x?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Three Astronauts Safely Return from Space Station, Landing in Kazakhstan Steppe](https://science.slashdot.org/story/26/07/26/1536241/three-astronauts-safely-return-from-space-station-landing-in-kazakhstan-steppe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) ([Comments](https://science.slashdot.org/story/26/07/26/1536241/three-astronauts-safely-return-from-space-station-landing-in-kazakhstan-steppe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed))
 
-* [Comic-Con 2026 Debuts Trailers for 'Coyote vs Acme' Movie, Plus 'Neuromancer' and 'Blade Runner 2099' Series](https://entertainment.slashdot.org/story/26/07/26/038200/comic-con-2026-debuts-trailers-for-coyote-vs-acme-movie-plus-neuromancer-and-blade-runner-2099-series?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Plasma Tunnels Reveal How Dying Satellites Fall to Earth](https://spectrum.ieee.org/space-debris-atmosphere-burn-up) ([Comments](https://news.ycombinator.com/item?id=49062120))
 
-## Science and Engineering Marvels
+## Cybersecurity
 
-* [Plasma Tunnels Reveal How Dying Satellites Fall to Earth](https://spectrum.ieee.org/space-debris-atmosphere-burn-up)
+* [What does GitHub’s security team even do?](https://orchidfiles.com/github-security-team/) ([Comments](https://lobste.rs/s/jnhyrh/what_does_github_s_security_team_even_do))
 
-* [The secret life of data in Valkey](https://valkey.io/blog/secret-life-of-data/)
+* [How to Block Some of the Bots](https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/) ([Comments](https://news.ycombinator.com/item?id=49060945))
 
-* [French firefighters face 'pyrocumulonimbus' for first time](https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time)
+* [The relay market powering token resellers and fraud](https://vectoral.com/blog/token-relay-market) ([Comments](https://news.ycombinator.com/item?id=49058993))
 
-* [Sweet! Sugar Found in Raspberries Was Discovered Near the Milky Way's Center](https://soylentnews.org/article.pl?sid=26/07/23/023217&amp;from=rss)
+* [The ACLU is Arming Lawyers to Expose State Surveillance Secrets](https://soylentnews.org/article.pl?sid=26/07/25/2052238&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/07/25/2052238&amp;from=rss))
+
+* [OpenAI&apos;s Rogue Agents are a Wake-up Call to Risks Posed by Artificial Intelligence](https://soylentnews.org/article.pl?sid=26/07/24/1428215&amp;from=rss) ([Comments](https://soylentnews.org/article.pl?sid=26/07/24/1428215&amp;from=rss))
 
 ---
 
@@ -87,6 +89,14 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-07-27, 07:13:02](https://lobste.rs/s/dmuqxg/history_john_backus_s_fp_languages) - [History of John Backus&apos;s FP languages](https://softwarepreservation.computerhistory.org/FP/)
+* [2026-07-27, 06:18:10](https://news.ycombinator.com/item?id=49065752) - [Kimi-K3 Releases on HuggingFace 6/27](https://huggingface.co/moonshotai/Kimi-K3)
+* [2026-07-27, 06:06:58](https://lobste.rs/s/jnhyrh/what_does_github_s_security_team_even_do) - [What does GitHub’s security team even do?](https://orchidfiles.com/github-security-team/)
+* [2026-07-27, 05:39:14](https://lobste.rs/s/lhnggy/interconverting_std_function_with) - [Interconverting std::function with copyable_function](https://quuxplusone.github.io/blog/2026/07/26/function-explosion/)
+* [2026-07-27, 05:38:00](https://soylentnews.org/article.pl?sid=26/07/26/041247&amp;from=rss) - [Orange-Lipped Monkey That Roars and Snorts Deep in Congo Rainforest is New Species to Science](https://soylentnews.org/article.pl?sid=26/07/26/041247&amp;from=rss)
+* [2026-07-27, 05:37:02](https://lobste.rs/s/lwztjw/authoritative_dnsmasq_mikrotik) - [Authoritative dnsmasq in a MikroTik container](https://op-co.de/blog/posts/mikrotik_authoritative_dnsmasq/)
+* [2026-07-27, 05:31:33](https://news.ycombinator.com/item?id=49065498) - [EU Fines Google $1.02B for Favoring Its Own Services](https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb)
+* [2026-07-27, 05:25:16](https://lobste.rs/s/uwhqhi/being_linux_torvalds) - [Being Linux Torvalds](https://antirez.com/news/171)
 * [2026-07-27, 04:34:00](https://entertainment.slashdot.org/story/26/07/27/0124231/21-million-people-view-leaked-odyssey-bootleg-on-x?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [2.1 Million People View Leaked &apos;Odyssey&apos; Bootleg on X](https://entertainment.slashdot.org/story/26/07/27/0124231/21-million-people-view-leaked-odyssey-bootleg-on-x?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-27, 01:34:00](https://yro.slashdot.org/story/26/07/27/0037219/inside-the-dystopian-world-of-germanys-free-speech-crackdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [&apos;Inside the Dystopian World of Germany&apos;s Free Speech Crackdown&apos;](https://yro.slashdot.org/story/26/07/27/0037219/inside-the-dystopian-world-of-germanys-free-speech-crackdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-27, 00:52:00](https://soylentnews.org/article.pl?sid=26/07/26/0345250&amp;from=rss) - [GitHub Slashes Public Bug Bounty Payouts as AI Report Flood Buries its Security Team](https://soylentnews.org/article.pl?sid=26/07/26/0345250&amp;from=rss)
@@ -114,7 +124,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-26, 17:39:27](https://lobste.rs/s/exipox/forth_moving_lisp_moving_forth) - [Forth Moving Lisp Moving Forth](https://letoverlambda.com/textmode.cl/guest/chap8.html)
 * [2026-07-26, 17:39:00](https://news.slashdot.org/story/26/07/26/0536218/ai-equipped-garbage-trucks-could-soon-start-spying-on-people-in-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI-Equipped Garbage Trucks Could Soon Start Spying On People in the US](https://news.slashdot.org/story/26/07/26/0536218/ai-equipped-garbage-trucks-could-soon-start-spying-on-people-in-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-26, 17:38:00](https://lobste.rs/s/9fqugm/openloco_version_26_07_release) - [OpenLoco version 26.07  Release](https://openloco.io/news/2026/07/openloco-v26.07.html)
-* [2026-07-26, 17:29:35](https://news.ycombinator.com/item?id=49060295) - [How to Write English Prose](https://thelampmagazine.com/blog/how-to-write-english-prose)
+* [2026-07-26, 17:29:35](https://news.ycombinator.com/item?id=49060295) - [How to write English prose (2023)](https://thelampmagazine.com/blog/how-to-write-english-prose)
 * [2026-07-26, 16:39:00](https://hardware.slashdot.org/story/26/07/26/0613242/is-huawei-building-its-own-dram-fab?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Is Huawei Building Its Own DRAM Fab?](https://hardware.slashdot.org/story/26/07/26/0613242/is-huawei-building-its-own-dram-fab?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-26, 15:54:26](https://lobste.rs/s/1o4ba2/fast_deflate_compression_lean) - [Fast DEFLATE compression in Lean](https://kim-em.github.io/blog/2026-7-24-why-lean-is-faster-than-rust/)
 * [2026-07-26, 15:53:55](https://news.ycombinator.com/item?id=49059398) - [Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](https://github.com/gmrandazzo/CheapSecurity)
@@ -134,15 +144,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-26, 10:35:00](https://soylentnews.org/article.pl?sid=26/07/25/2048246&amp;from=rss) - [Your Cookware Got Worse on Purpose](https://soylentnews.org/article.pl?sid=26/07/25/2048246&amp;from=rss)
 * [2026-07-26, 07:34:00](https://entertainment.slashdot.org/story/26/07/26/038200/comic-con-2026-debuts-trailers-for-coyote-vs-acme-movie-plus-neuromancer-and-blade-runner-2099-series?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Comic-Con 2026 Debuts Trailers for &apos;Coyote vs Acme&apos; Movie, Plus &apos;Neuromancer&apos; and &apos;Blade Runner 2099&apos; Series](https://entertainment.slashdot.org/story/26/07/26/038200/comic-con-2026-debuts-trailers-for-coyote-vs-acme-movie-plus-neuromancer-and-blade-runner-2099-series?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-26, 05:43:00](https://soylentnews.org/article.pl?sid=26/07/25/2045217&amp;from=rss) - [Astronomers Found the First Atmosphere on a Planet in Another Star&apos;s Habitable Zone](https://soylentnews.org/article.pl?sid=26/07/25/2045217&amp;from=rss)
-* [2026-07-26, 04:53:21](https://lobste.rs/s/jgaxxy/beginner_j_dealing_cards) - [Beginner J: Dealing Cards](https://www.youtube.com/watch?v=eXGKK8BkCkg)
 * [2026-07-26, 03:34:00](https://news.slashdot.org/story/26/07/25/2114259/32-of-35-students-caught-using-hilariously-wrong-ai-generated-answers-for-professors-midterm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [32 of 35 Students Caught Using Hilariously Wrong AI-Generated Answers for Professor&apos;s Midterm](https://news.slashdot.org/story/26/07/25/2114259/32-of-35-students-caught-using-hilariously-wrong-ai-generated-answers-for-professors-midterm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-26, 03:15:08](https://lobste.rs/s/asgpfk/scanwheel_drum_style_mechanical) - [Scanwheel: a drum style mechanical television you can build yourself](https://github.com/AncientJames/Scanwheel/)
 * [2026-07-26, 01:34:00](https://news.slashdot.org/story/26/07/25/1944229/firefoxs-new-tab-page-will-get-widgets---including-an-ai-powered-daily-crossword?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Firefox&apos;s New Tab Page Will Get Widgets - Including an AI-Powered Daily Crossword](https://news.slashdot.org/story/26/07/25/1944229/firefoxs-new-tab-page-will-get-widgets---including-an-ai-powered-daily-crossword?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-26, 01:00:00](https://soylentnews.org/article.pl?sid=26/07/25/2042256&amp;from=rss) - [MIT to Become Hotbed of AI Video Surveillance](https://soylentnews.org/article.pl?sid=26/07/25/2042256&amp;from=rss)
 * [2026-07-26, 00:45:08](https://lobste.rs/s/sd5em2/himalaya_v2_0_0_cli_manage_emails) - [Himalaya v2.0.0: CLI to manage emails](https://fosstodon.org/@pimalaya/116983467890532240)
 * [2026-07-25, 23:00:00](https://hardware.slashdot.org/story/26/07/25/1747227/did-virginia-regulators-downplay-data-center-health-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Did Virginia Regulators Downplay Data Center Health Concerns?](https://hardware.slashdot.org/story/26/07/25/1747227/did-virginia-regulators-downplay-data-center-health-concerns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-25, 22:13:07](https://lobste.rs/s/krsvrp/maybe_we_should_revisit_microkernels) - [Maybe we should revisit microkernels](https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html)
-* [2026-07-25, 21:39:39](https://lobste.rs/s/bvjwbk/banner_highway_01) - [Banner Highway 01](https://highway-01.banner-depot-2000.net/)
 * [2026-07-25, 21:38:29](https://lobste.rs/s/x7jtkt/memory_safety_absolutists) - [Memory Safety Absolutists](https://itsallaboutthebit.com/memory-safety-absolutists/)
 * [2026-07-25, 21:32:58](https://lobste.rs/s/sh9bbn/how_self_host_servers_your_living_room_on) - [How to self-host servers in your living room on static IPs](https://vimuser.org/l2tp.html)
 * [2026-07-25, 20:52:49](https://lobste.rs/s/utnhmy/how_i_find_problems_solve_as_staff) - [How I Find Problems to Solve as a Staff Engineer](https://lalitm.com/post/find-problems-staff-engineer/)
@@ -156,11 +163,9 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-25, 10:01:03](https://lobste.rs/s/t5os1h/android_may_soon_restrict_on_device_adb) - [Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
 * [2026-07-25, 09:10:12](https://lobste.rs/s/bvgaff/stinkpot_sqlite_backed_shell_history) - [stinkpot: sqlite-backed shell history](https://tangled.org/oppi.li/stinkpot)
 * [2026-07-25, 06:04:00](https://soylentnews.org/article.pl?sid=26/07/24/1428215&amp;from=rss) - [OpenAI&apos;s Rogue Agents are a Wake-up Call to Risks Posed by Artificial Intelligence](https://soylentnews.org/article.pl?sid=26/07/24/1428215&amp;from=rss)
-* [2026-07-25, 03:00:20](https://lobste.rs/s/zfvln5/we_are_not_special_2021) - [We Are Not Special (2021)](https://www.hillelwayne.com/post/we-are-not-special/)
 * [2026-07-25, 01:21:00](https://soylentnews.org/article.pl?sid=26/07/24/1423206&amp;from=rss) - [US Blocks SSL Security Certificates for Iran&apos;s Fars News Agency](https://soylentnews.org/article.pl?sid=26/07/24/1423206&amp;from=rss)
-* [2026-07-24, 23:04:57](https://lobste.rs/s/c76s0r/chrome_registers_global_shortcut_for) - [Chrome registers a global shortcut for Gemini popup window](https://unsung.aresluna.org/chromes-breaking-and-entering/)
 * [2026-07-24, 20:37:00](https://soylentnews.org/article.pl?sid=26/07/23/229219&amp;from=rss) - [Former Microsoft AI Leaders Are Spending $1M to Prove AI Can Replace CEOs](https://soylentnews.org/article.pl?sid=26/07/23/229219&amp;from=rss)
-* [2026-07-24, 16:32:23](https://news.ycombinator.com/item?id=49038035) - [History of John Backus&apos;s functional programming project [draft]](https://softwarepreservation.computerhistory.org/FP/)
+* [2026-07-24, 16:32:23](https://news.ycombinator.com/item?id=49038035) - [History of John Backus&apos;s functional programming project (draft)](https://softwarepreservation.computerhistory.org/FP/)
 * [2026-07-24, 15:55:00](https://soylentnews.org/article.pl?sid=26/07/23/225237&amp;from=rss) - [Scientists Believed This Near-Earth Object Was an Asteroid for 28 Years. They Were Wrong](https://soylentnews.org/article.pl?sid=26/07/23/225237&amp;from=rss)
 * [2026-07-24, 11:08:00](https://soylentnews.org/article.pl?sid=26/07/23/221216&amp;from=rss) - [I Wanted a Clock That Never Needed Setting. Things Escalated.](https://soylentnews.org/article.pl?sid=26/07/23/221216&amp;from=rss)
 * [2026-07-24, 06:26:00](https://soylentnews.org/article.pl?sid=26/07/23/0249220&amp;from=rss) - [I Could&apos;ve Rickrolled the Entire FIFA World Cup and All I Needed Was My ID](https://soylentnews.org/article.pl?sid=26/07/23/0249220&amp;from=rss)
@@ -170,7 +175,7 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-23, 14:37:13](https://news.ycombinator.com/item?id=49022355) - [I learned PCB design, 3D printing and C just to listen to music](https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/)
 * [2026-07-23, 13:29:24](https://news.ycombinator.com/item?id=49021270) - [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in)
 * [2026-07-23, 12:58:02](https://news.ycombinator.com/item?id=49020842) - [The Usefulness of Useless Knowledge (1939) [pdf]](https://faculty.lsu.edu/kharms/files/flexner_1939.pdf)
+* [2026-07-23, 12:01:52](https://news.ycombinator.com/item?id=49020219) - [I wanted a clock that never needed setting. Things escalated](https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/)
 * [2026-07-23, 11:20:00](https://soylentnews.org/article.pl?sid=26/07/23/023217&amp;from=rss) - [Sweet! Sugar Found in Raspberries Was Discovered Near the Milky Way&apos;s Center](https://soylentnews.org/article.pl?sid=26/07/23/023217&amp;from=rss)
 * [2026-07-23, 06:38:00](https://soylentnews.org/article.pl?sid=26/07/22/0039239&amp;from=rss) - [Zilog Z80 Turns 50 as an Open-Source Replacement Heads to Drop-in DIP40 Silicon](https://soylentnews.org/article.pl?sid=26/07/22/0039239&amp;from=rss)
-* [2026-07-23, 04:25:24](https://news.ycombinator.com/item?id=49016917) - [Using sed to make indexes for books (1997)](https://www.pement.org/sed/make_indexes.txt)
 * [2026-07-23, 01:56:00](https://soylentnews.org/article.pl?sid=26/07/21/2227215&amp;from=rss) - [Open Source Misses the Point and Cannot Save Us](https://soylentnews.org/article.pl?sid=26/07/21/2227215&amp;from=rss)
