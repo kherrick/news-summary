@@ -1,56 +1,62 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Advanced Technologies and Innovations
+## AI and Robotics Developments
 
-* * [Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design](https://transformer-transformer.github.io/) - [Hacker News Comments](https://news.ycombinator.com/item?id=49093232)
+* [Trump Administration Bans New Chinese Humanoid Robots](https://hardware.slashdot.org/story/26/07/29/0441240/trump-administration-bans-new-chinese-humanoid-robots?utm_source=rss1.0mainlinkanon&utm_medium=feed) - The U.S. government has moved to block the import of new Chinese humanoid robots, citing security concerns and intensifying trade tensions.
 
-* * [LearnVector – Andrew Ng's AI company building one-to-one learning experiences](https://learnvector.ai/) - [Hacker News Comments](https://news.ycombinator.com/item?id=49092499)
+* [Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design](https://transformer-transformer.github.io/) - A transformative unified model is presented for developing motion-conditioned robotic designs, showcasing advancements in co-design.
 
-* * [Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU](https://studio.academa.ai/) - [Hacker News Comments](https://news.ycombinator.com/item?id=49091703)
+* [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/) - Andrew Ng's AI firm aims to create personalized learning platforms, featuring advanced AI-tutored educational technology.
 
-* * [JWST Just Examined Two Stars Suspected of Harboring Dyson Spheres](https://soylentnews.org/article.pl?sid=26/07/28/1925225&amp;from=rss) - [Comments](https://soylentnews.org/comment.pl?sid=26/07/28/1925225)
+* [Personalized AI Tutoring: LearnVector Aims for Tailored Knowledge](https://learnvector.ai/) - Andrew Ng explores futuristic one-on-one learning experiences through advanced AI capabilities.
 
-* * [Parallel JSON parsing on the GPU with compute shaders](https://github.com/friendlymatthew/slurpjson#slurpjson) - [Lobsters Comments](https://lobste.rs/s/nhixqy/parallel_json_parsing_on_gpu_with_compute)
+## Privacy and Security Issues
 
-## Artificial Intelligence and Cryptography
+* [Activist Charged With Felony After Giving Border Agent “Duress Code” That Wiped His Phone](https://soylentnews.org/article.pl?sid=26/07/28/1933258&from=rss) - Legal implications arise as an activist faces charges for activating a phone-wiping code during a border interaction.
 
-* * [Workplaces Look For Cheaper AI As 'Tokenmaxxing' Fades As a Corporate Fad](https://news.slashdot.org/story/26/07/28/2242250/workplaces-look-for-cheaper-ai-as-tokenmaxxing-fades-as-a-corporate-fad?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Slashdot Comments](https://news.slashdot.org/story/26/07/28/2242250/workplaces-look-for-cheaper-ai-as-tokenmaxxing-fades-as-a-corporate-fad?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [GrapheneOS Defends Data-Wiping Function That Blocked US Border Search](https://yro.slashdot.org/story/26/07/28/1652243/grapheneos-defends-data-wiping-function-that-blocked-us-border-search?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Privacy-focused OS justifies its built-in security feature that erases data under pressure, emphasizing users’ rights and encryption.
 
-* * [Anthropic AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms](https://it.slashdot.org/story/26/07/28/1911218/anthropic-ai-model-finds-flaws-in-tough-to-crack-encryption-algorithms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Slashdot Comments](https://it.slashdot.org/story/26/07/28/1911218/anthropic-ai-model-finds-flaws-in-tough-to-crack-encryption-algorithms?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Innovations in Software and Development
 
-* * [Discovering Cryptographic Weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses) - [Hacker News Comments](https://news.ycombinator.com/item?id=49087091)
+* [Writing Toy Software Is A Joy (2025)](https://blog.jsbarretto.com/post/software-is-joy) - A reflective take on the joys of creating fun, experimental software projects.
 
-* * [The Cipher Behind QSYRUPWD: Reconstructing IBM i Password Hashes](https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/) - [Lobsters Comments](https://lobste.rs/s/2dc0gb/cipher_behind_qsyrupwd_reconstructing)
+* [Manganin: tools matter](https://blog.manganin.dev/blog/tools-matter/) - Explores the importance of using the right tools in software development and their impact on productivity.
 
-## Space and Science Discoveries
+* [State of multi-player Wayland](https://blinry.org/multi-seat-wayland/) - Updates on enhancements in Wayland for multi-user graphical interfaces.
 
-* * [Astronomers Found the First Atmosphere on a Planet in Another Star's Habitable Zone](https://soylentnews.org/article.pl?sid=26/07/25/2045217&amp;from=rss) - [Comments](https://soylentnews.org/comment.pl?sid=26/07/25/2045217)
+* [Starling: A Linux Desktop written from scratch](https://starling.build) - A minimalist reimagining of what a Linux desktop should be, built entirely from scratch.
 
-* * [Earth's Biggest Disasters Strike In a Hidden Pattern Every 27 Million Years](https://science.slashdot.org/story/26/07/28/0047230/earths-biggest-disasters-strike-in-a-hidden-pattern-every-27-million-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Slashdot Comments](https://science.slashdot.org/story/26/07/28/0047230/earths-biggest-disasters-strike-in-a-hidden-pattern-every-27-million-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+## Space and Science Advancements
 
-* * [India's First Privately Developed Rocket Reaches Orbit on Dramatic Debut Launch](https://soylentnews.org/article.pl?sid=26/07/26/0337236&amp;from=rss) - [Comments](https://soylentnews.org/comment.pl?sid=26/07/26/0337236)
+* [JWST Just Examined Two Stars Suspected of Harboring Dyson Spheres](https://soylentnews.org/article.pl?sid=26/07/28/1925225&from=rss) - Findings from the James Webb Space Telescope reignite discussions on the potential for advanced extraterrestrial civilizations.
 
-## Developer Tools and Programming
+* [Astronomers Found the First Atmosphere on a Planet in Another Star's Habitable Zone](https://soylentnews.org/article.pl?sid=26/07/25/2045217&from=rss) - A major milestone as scientists identify an exoplanet with atmospheric conditions possibly supportive of life.
 
-* * [Lightweight Spring Boot Monitoring Without Prometheus and Grafana](https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html) - [Hacker News Comments](https://news.ycombinator.com/item?id=49091895)
+## Technology and Hardware Highlights
 
-* * [Starling, a Linux Desktop written from scratch](https://starling.build) - [Lobsters Comments](https://lobste.rs/s/tahynj/starling_linux_desktop_written_from)
+* [Cracking Windows Open: Porting RADV to Win32](https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html) - Developers succeed in bringing RADV, a Vulkan-based open-source driver, to Windows.
 
-* * [Inside Zig's Incremental Compilation](https://mlugg.co.uk/posts/incremental-compilation-internals/) - [Lobsters Comments](https://lobste.rs/s/rmzzdb/inside_zig_s_incremental_compilation)
+* [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/) - The classic game makes a surprising appearance on a legacy operating system.
 
-* * [Una GPS smart watch – Repairable, USB-C charging, developer-friendly](https://unawatch.com/) - [Hacker News Comments](https://news.ycombinator.com/item?id=49084813)
+* [Review Roundup: Framework Laptop 13 Pro](https://hardware.slashdot.org/story/26/07/28/0123243/review-roundup-framework-laptop-13-pro?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A deeper dive into the modular Framework Laptop for improved durability and repairability.
 
-* * [Hubble: Open-source notetaking app for you and your agents](https://www.hubble.md/) - [Hacker News Comments](https://news.ycombinator.com/item?id=49091730)
+## Digital Ethics and Market Dynamics
 
-## Cultural and Societal Highlights
+* [Tons of Peoples' Claude Chats and Creations Are Exposed On Google](https://yro.slashdot.org/story/26/07/28/0052221/tons-of-peoples-claude-chats-and-creations-are-exposed-on-google?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Recent exposures reveal a concerning lack of privacy protections for AI conversations and creations.
 
-* * [Arizona State Launches Influencer Degree Where Students Must Gain Real Followers](https://news.slashdot.org/story/26/07/28/012244/arizona-state-launches-influencer-degree-where-students-must-gain-real-followers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Slashdot Comments](https://news.slashdot.org/story/26/07/28/012244/arizona-state-launches-influencer-degree-where-students-must-gain-real-followers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [Judge Blocks First State Law That Would Have Banned Prediction Markets](https://yro.slashdot.org/story/26/07/28/1858208/judge-blocks-first-state-law-that-would-have-banned-prediction-markets?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A legal ruling protects the continued operation of prediction markets, preserving their informational utility.
 
-* * [If You're Reading This, You're Probably an AI Bot](https://soylentnews.org/article.pl?sid=26/07/26/2115230&amp;from=rss) - [Comments](https://soylentnews.org/comment.pl?sid=26/07/26/2115230)
+## AI Impact on Industries
 
-* * [Blogging Can Just Be Stating The Obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/) - [Lobsters Comments](https://lobste.rs/s/yijxwe/blogging_can_just_be_stating_obvious)
+* [Workplaces Look For Cheaper AI As 'Tokenmaxxing' Fades As a Corporate Fad](https://news.slashdot.org/story/26/07/28/2242250/workplaces-look-for-cheaper-ai-as-tokenmaxxing-fades-as-a-corporate-fad?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Businesses start rethinking cost-heavy AI trends in search of more sustainable solutions.
 
-* * [The Fight Against AI Data Centers is Important – but It's Just a Starting Point](https://soylentnews.org/article.pl?sid=26/07/27/0440212&amp;from=rss) - [Comments](https://soylentnews.org/comment.pl?sid=26/07/27/0440212)
+* [Google Just Had Its First Negative Cash Flow Quarter Due To Massive AI Spending](https://soylentnews.org/article.pl?sid=26/07/26/1920201&from=rss) - AI investments impact Google's financial performance, highlighting the cost of staying ahead in AI tech.
+
+## Historical and Cultural Reflections
+
+* [Earth's Biggest Disasters Strike In a Hidden Pattern Every 27 Million Years](https://science.slashdot.org/story/26/07/28/0047230/earths-biggest-disasters-strike-in-a-hidden-pattern-every-27-million-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Research uncovers intriguing periodic patterns in Earth's catastrophic events.
+
+* [60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)](https://www.popularmechanics.com/military/weapons/a32009109/operation-sandblast-sumbarine-circumnavigation/) - A retrospective on a groundbreaking naval achievement in submarine technology.
 
 ---
 
@@ -77,18 +83,23 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-07-29, 05:30:00](https://hardware.slashdot.org/story/26/07/29/0441240/trump-administration-bans-new-chinese-humanoid-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Trump Administration Bans New Chinese Humanoid Robots](https://hardware.slashdot.org/story/26/07/29/0441240/trump-administration-bans-new-chinese-humanoid-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-29, 05:14:46](https://lobste.rs/s/ax6col/writing_toy_software_is_joy_2025) - [Writing Toy Software Is A Joy (2025)](https://blog.jsbarretto.com/post/software-is-joy)
+* [2026-07-29, 05:04:00](https://soylentnews.org/article.pl?sid=26/07/28/1933258&amp;from=rss) - [Activist Charged With Felony After Giving Border Agent “Duress Code” That Wiped His Phone](https://soylentnews.org/article.pl?sid=26/07/28/1933258&amp;from=rss)
+* [2026-07-29, 04:58:46](https://news.ycombinator.com/item?id=49093569) - [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
+* [2026-07-29, 04:44:39](https://lobste.rs/s/c9xa6h/manganin_tools_matter) - [Manganin: tools matter](https://blog.manganin.dev/blog/tools-matter/)
+* [2026-07-29, 04:30:47](https://news.ycombinator.com/item?id=49093435) - [Cracking Windows Open: Porting RADV to Win32](https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html)
+* [2026-07-29, 04:30:36](https://news.ycombinator.com/item?id=49093434) - [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/)
 * [2026-07-29, 03:52:29](https://news.ycombinator.com/item?id=49093232) - [Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design](https://transformer-transformer.github.io/)
 * [2026-07-29, 03:30:00](https://news.slashdot.org/story/26/07/28/2242250/workplaces-look-for-cheaper-ai-as-tokenmaxxing-fades-as-a-corporate-fad?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Workplaces Look For Cheaper AI As &apos;Tokenmaxxing&apos; Fades As a Corporate Fad](https://news.slashdot.org/story/26/07/28/2242250/workplaces-look-for-cheaper-ai-as-tokenmaxxing-fades-as-a-corporate-fad?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-29, 02:25:29](https://news.ycombinator.com/item?id=49092754) - [Hooray for the Sockets Interface](https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/)
-* [2026-07-29, 02:22:04](https://news.ycombinator.com/item?id=49092730) - [Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects](https://github.com/jagg-ix/zil-lean)
 * [2026-07-29, 01:49:19](https://news.ycombinator.com/item?id=49092499) - [LearnVector – Andrew Ng&apos;s AI company building one‑to‑one learning experiences](https://learnvector.ai/)
 * [2026-07-29, 01:41:06](https://lobste.rs/s/o2couk/cp_m_68k_emulator) - [CP/M-68K emulator](https://kobolt.github.io/article-264.html)
+* [2026-07-29, 01:30:21](https://lobste.rs/s/0yc3r0/lobste_rs_on_spinel) - [Lobste.rs on Spinel](https://intertwingly.net/blog/2026/07/28/What-Happens-After-You-IPO.html)
 * [2026-07-29, 00:59:37](https://news.ycombinator.com/item?id=49092112) - [Multiple Mouse Cursors in Wayland](https://blinry.org/multi-seat-wayland/)
 * [2026-07-29, 00:32:08](https://news.ycombinator.com/item?id=49091895) - [Lightweight Spring Boot Monitoring Without Prometheus and Grafana](https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html)
 * [2026-07-29, 00:19:00](https://soylentnews.org/article.pl?sid=26/07/28/1925225&amp;from=rss) - [JWST Just Examined Two Stars Suspected of Harboring Dyson Spheres](https://soylentnews.org/article.pl?sid=26/07/28/1925225&amp;from=rss)
-* [2026-07-29, 00:12:14](https://news.ycombinator.com/item?id=49091738) - [The Difference Between a Button and a Link](https://unplannedobsolescence.com/blog/buttons-vs-links/)
 * [2026-07-29, 00:11:23](https://news.ycombinator.com/item?id=49091730) - [Hubble: Open-source notetaking app for you and your agents](https://www.hubble.md/)
-* [2026-07-29, 00:07:43](https://news.ycombinator.com/item?id=49091703) - [Show HN: Manim (3Blue1Brown&apos;s animation engine) in the browser via WebGPU](https://studio.academa.ai/)
 * [2026-07-28, 23:27:09](https://news.ycombinator.com/item?id=49091379) - [ReFrame – The EPaper Camera](https://reframe.camera/)
 * [2026-07-28, 23:00:00](https://mobile.slashdot.org/story/26/07/28/2121200/apple-retires-iphone-upgrade-program-for-klarna-backed-leases?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Retires iPhone Upgrade Program For Klarna-Backed Leases](https://mobile.slashdot.org/story/26/07/28/2121200/apple-retires-iphone-upgrade-program-for-klarna-backed-leases?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-28, 22:30:05](https://lobste.rs/s/wdo7aj/proof_types_dart_using_final_classes_as) - [Proof types in Dart: Using final classes as computational witnesses](https://modulovalue.com/blog/proof-types-in-dart/)
@@ -127,16 +138,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-28, 14:38:19](https://lobste.rs/s/jyiecw/where_are_third_places_for_learners) - [Where are the third places for learners?](https://kernelkennel.com/blog/where-is-the-middle-space/)
 * [2026-07-28, 14:14:06](https://lobste.rs/s/rmzzdb/inside_zig_s_incremental_compilation) - [Inside Zig&apos;s Incremental Compilation](https://mlugg.co.uk/posts/incremental-compilation-internals/)
 * [2026-07-28, 13:33:00](https://lobste.rs/s/49nob7/i_designed_custom_pcb_avoid_pressing) - [I Designed A Custom PCB To Avoid Pressing A Button Three Times](https://blog.tymscar.com/posts/opensourcedimmer/)
-* [2026-07-28, 13:12:01](https://news.ycombinator.com/item?id=49083314) - [New HIV vaccine shows unprecedented success in preclinical study](https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/)
 * [2026-07-28, 13:10:24](https://lobste.rs/s/wdopf8/building_systems_software_with_nix) - [Building (systems) software with Nix](https://hondu.co/blog/building-systems-software)
 * [2026-07-28, 12:14:24](https://lobste.rs/s/7qtdhk/what_even_are_microservices) - [What even are microservices?](https://var0.xyz/posts/what-even-are-microservices.html)
-* [2026-07-28, 11:51:29](https://lobste.rs/s/ngcurk/improving_heuristics_2015) - [Improving Heuristics (2015)](https://www.redblobgames.com/pathfinding/heuristics/differential.html)
 * [2026-07-28, 11:00:00](https://news.slashdot.org/story/26/07/28/012244/arizona-state-launches-influencer-degree-where-students-must-gain-real-followers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Arizona State Launches Influencer Degree Where Students Must Gain Real Followers](https://news.slashdot.org/story/26/07/28/012244/arizona-state-launches-influencer-degree-where-students-must-gain-real-followers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-28, 10:52:30](https://news.ycombinator.com/item?id=49082022) - [Kimi Linear: An Expressive, Efficient Attention Architecture (2025)](https://arxiv.org/abs/2510.26692)
 * [2026-07-28, 10:32:54](https://lobste.rs/s/jrq2d9/develop_cross_platform_cli_gui_tools_with) - [Develop Cross-Platform CLI and GUI Tools With Tcl/Tk](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide)
 * [2026-07-28, 10:11:18](https://lobste.rs/s/ewifzf/making_kio_copy_many_files_fast) - [Making KIO copy many files fast](https://blogs.kde.org/2026/07/28/making-kio-copy-many-files-fast/)
 * [2026-07-28, 10:05:00](https://soylentnews.org/article.pl?sid=26/07/27/0428208&amp;from=rss) - [South Korea Making its Own Security-Centric AI Model](https://soylentnews.org/article.pl?sid=26/07/27/0428208&amp;from=rss)
-* [2026-07-28, 08:57:54](https://lobste.rs/s/db0m6j/one_ring_rule_them_all_wiring_radios) - [One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way](https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way)
 * [2026-07-28, 07:00:00](https://science.slashdot.org/story/26/07/28/0047230/earths-biggest-disasters-strike-in-a-hidden-pattern-every-27-million-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Earth&apos;s Biggest Disasters Strike In a Hidden Pattern Every 27 Million Years](https://science.slashdot.org/story/26/07/28/0047230/earths-biggest-disasters-strike-in-a-hidden-pattern-every-27-million-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-28, 05:24:00](https://soylentnews.org/article.pl?sid=26/07/26/2115230&amp;from=rss) - [If You&apos;re Reading This, You&apos;re Probably an AI Bot](https://soylentnews.org/article.pl?sid=26/07/26/2115230&amp;from=rss)
 * [2026-07-28, 03:30:00](https://yro.slashdot.org/story/26/07/28/0037231/a-missing-underscore-sent-innocent-man-to-prison-for-18-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [A Missing Underscore Sent Innocent Man To Prison For 18 Months](https://yro.slashdot.org/story/26/07/28/0037231/a-missing-underscore-sent-innocent-man-to-prison-for-18-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -145,15 +152,14 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-28, 00:38:00](https://soylentnews.org/article.pl?sid=26/07/26/1939241&amp;from=rss) - [China Advances Plans For National Single-Stack IPv6 Network, And Its Surveillance-Friendly Version](https://soylentnews.org/article.pl?sid=26/07/26/1939241&amp;from=rss)
 * [2026-07-27, 23:33:04](https://news.ycombinator.com/item?id=49077040) - [Interview with Boris Cherny [video]](https://www.youtube.com/watch?v=qyPCVqFUyDo)
 * [2026-07-27, 23:00:00](https://news.slashdot.org/story/26/07/27/1942254/peacock-to-be-included-with-youtube-premium-in-major-streaming-tie-up?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Peacock to Be Included With YouTube Premium In Major Streaming Tie-Up](https://news.slashdot.org/story/26/07/27/1942254/peacock-to-be-included-with-youtube-premium-in-major-streaming-tie-up?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-27, 22:42:11](https://news.ycombinator.com/item?id=49076450) - [60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)](https://www.popularmechanics.com/military/weapons/a32009109/operation-sandblast-sumbarine-circumnavigation/)
 * [2026-07-27, 22:27:54](https://lobste.rs/s/nfcclq/setup_simple_self_hosted_web_server_with) - [Setup a Simple, Self-Hosted Web Server with OpenBSD](https://btxx.org/posts/self-hosted-openbsd/)
-* [2026-07-27, 22:00:00](https://tech.slashdot.org/story/26/07/27/1936209/amazon-trying-to-launch-a-global-satellite-cellphone-network-in-2028?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Amazon Trying to Launch a Global Satellite Cellphone Network In 2028](https://tech.slashdot.org/story/26/07/27/1936209/amazon-trying-to-launch-a-global-satellite-cellphone-network-in-2028?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-27, 19:55:00](https://soylentnews.org/article.pl?sid=26/07/26/1934211&amp;from=rss) - [When Your Vehicle Outlives its Cloud: What Happens Next?](https://soylentnews.org/article.pl?sid=26/07/26/1934211&amp;from=rss)
 * [2026-07-27, 18:04:30](https://news.ycombinator.com/item?id=49073357) - [Beyond Greece and Rome](https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome)
 * [2026-07-27, 15:09:00](https://soylentnews.org/article.pl?sid=26/07/26/1927253&amp;from=rss) - [Firefox Containers Preview: Introducing Native Containers in Firefox 153 ](https://soylentnews.org/article.pl?sid=26/07/26/1927253&amp;from=rss)
 * [2026-07-27, 13:34:39](https://lobste.rs/s/yijxwe/blogging_can_just_be_stating_obvious) - [Blogging Can Just Be Stating The Obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/)
 * [2026-07-27, 12:56:36](https://news.ycombinator.com/item?id=49069033) - [Truth is not a direction: a Tarski attack on LLM probes](https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html)
 * [2026-07-27, 10:23:00](https://soylentnews.org/article.pl?sid=26/07/26/1920201&amp;from=rss) - [Google Just Had Its First Negative Cash Flow Quarter Due To Massive AI Spending](https://soylentnews.org/article.pl?sid=26/07/26/1920201&amp;from=rss)
-* [2026-07-27, 08:52:37](https://lobste.rs/s/zljfgp/on_ai) - [On AI](https://jcs.org/2026/07/23/ai)
 * [2026-07-27, 05:38:00](https://soylentnews.org/article.pl?sid=26/07/26/041247&amp;from=rss) - [Orange-Lipped Monkey That Roars and Snorts Deep in Congo Rainforest is New Species to Science](https://soylentnews.org/article.pl?sid=26/07/26/041247&amp;from=rss)
 * [2026-07-27, 00:52:00](https://soylentnews.org/article.pl?sid=26/07/26/0345250&amp;from=rss) - [GitHub Slashes Public Bug Bounty Payouts as AI Report Flood Buries its Security Team](https://soylentnews.org/article.pl?sid=26/07/26/0345250&amp;from=rss)
 * [2026-07-26, 20:06:00](https://soylentnews.org/article.pl?sid=26/07/26/0337236&amp;from=rss) - [India&apos;s First Privately Developed Rocket Reaches Orbit on Dramatic Debut Launch](https://soylentnews.org/article.pl?sid=26/07/26/0337236&amp;from=rss)
