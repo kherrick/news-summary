@@ -1,62 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technological Innovations and Advancements
+## Aviation and Aerospace
 
-* [C++ float-to-int conversion can be undefined behavior](https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/) ([comments](https://lobste.rs/s/ba2yfy/c_float_int_conversion_can_be_undefined))
+* [Qantas Plane Flies For More Than 24 Hours In Record-Breaking Flight](https://tech.slashdot.org/story/26/07/30/0022247/qantas-plane-flies-for-more-than-24-hours-in-record-breaking-flight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Qantas successfully completed a record-breaking flight lasting over 24 hours, showcasing advancements in long-haul aviation technology. [Comments](https://news.ycombinator.com/item?id=49106568).
 
-* [NSF pilots 4-year PhDs with industry research placements](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four) ([comments](https://news.ycombinator.com/item?id=49105642))
+## AI and Robotics Developments
 
-* [Kuna: Decompiler Development in the Age of Coding Agents](https://noelo.org/blog/kuna-release/) ([comments](https://news.ycombinator.com/item?id=49105563))
+* [Who Wins and Who Loses After US Bans Foreign Robots?](https://hardware.slashdot.org/story/26/07/29/2152220/who-wins-and-who-loses-after-us-bans-foreign-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - Analysis of the impact of U.S. restrictions on foreign robotics, exploring potential winners in the domestic industry. [Comments](https://lobste.rs/s/c9xa6h/manganin_tools_matter).
 
-* [Logic for Programmers by Hillel Wayne](https://logicforprogrammers.com/) ([comments](https://news.ycombinator.com/item?id=49104937))
+* [Claude Opus 5 Became Downright Ruthless When Tasked With Running a Vending Machine](https://slashdot.org/story/26/07/29/2047205/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - A humorous and thought-provoking account of AI's behavior in unexpected scenarios. [Comments](https://news.ycombinator.com/item?id=49103285).
 
-* [Show HN: A local merge queue for parallel Claude Code agents](https://github.com/funador/claude-code-merge-queue) ([comments](https://news.ycombinator.com/item?id=49104747))
+* [AI Companies Are Recruiting Electricians and Carpenters By the Thousands](https://news.slashdot.org/story/26/07/29/2213243/ai-companies-are-recruiting-electricians-and-carpenters-by-the-thousands?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - AI-driven companies scale operations, opening opportunities outside of traditional tech roles. [Comments](https://lobste.rs/s/g78pit).
 
-* [Valve Sponsors Work Bringing Open-Source RADV Driver To Windows](https://news.slashdot.org/story/26/07/29/2140215/valve-sponsors-work-bringing-open-source-radv-driver-to-windows?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49104335))
+## Education and Learning
 
-* [First CHERIoT Silicon](https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html) ([comments](https://lobste.rs/s/l3sj7g/first_cheriot_silicon))
+* [NSF pilots 4-year PhDs with industry research placements](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four) - A new academic model emerges combining doctoral education with significant industry exposure. [Comments](https://news.ycombinator.com/item?id=49105642).
 
-* [Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman](https://www.staszewski.xyz/blog/recursive-filters/) ([comments](https://news.ycombinator.com/item?id=49080031))
+* [Librarians Are Hosting Viral 'Avoiding AI' Workshops for People Who Are Fed Up With Big Tech](https://soylentnews.org/article.pl?sid=26/07/29/078223&amp;from=rss) - Unique educational initiatives aimed at equipping individuals to disengage from pervasive AI use. [Comments](https://news.ycombinator.com/item?id=49104140).
 
-## AI and Its Impacts
+## Software and Technology Insights
 
-* [AI Companies Are Recruiting Electricians and Carpenters By the Thousands](https://news.slashdot.org/story/26/07/29/2213243/ai-companies-are-recruiting-electricians-and-carpenters-by-the-thousands?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49098198))
+* [Logic for Programmers](https://logicforprogrammers.com/) - A comprehensive resource geared towards developers looking to strengthen their understanding of logical fundamentals. [Comments](https://news.ycombinator.com/item?id=49104937).
 
-* [Librarians Are Hosting Viral 'Avoiding AI' Workshops for People Who Are Fed Up With Big Tech](https://soylentnews.org/article.pl?sid=26/07/29/078223&from=rss) ([comments](https://news.ycombinator.com/item?id=49099804))
+* [Kuna: Decompiler Development in the Era of Coding Agents](https://noelo.org/blog/kuna-release/) - A look at a new decompiler tool addressing modern coding challenges. [Comments](https://news.ycombinator.com/item?id=49105563).
 
-* [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) ([comments](https://news.ycombinator.com/item?id=49103285))
+* [Man and the Computer by John G. Kemeny (1972)](https://archive.org/details/mancomputerbyjoh0000john) - A retrospective on foundational computing ideas from one of the creators of the BASIC language. [Comments](https://lobste.rs/s/ndprns/man_computer_john_g_kemeny_1972).
 
-* [Claude Opus 5 Became Downright Ruthless When Tasked With Running a Vending Machine](https://slashdot.org/story/26/07/29/2047205/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49103026))
+## Science and Exploration
 
-* [OpenAI's Rogue AI Agent Hacked More Than Just Hugging Face](https://it.slashdot.org/story/26/07/29/0517201/openais-rogue-ai-agent-hacked-more-than-just-hugging-face?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49099715))
+* [Astronomers Found the First Atmosphere on a Planet in Another Star's Habitable Zone](https://soylentnews.org/article.pl?sid=26/07/25/2045217&amp;from=rss) - A milestone in astronomy, offering insights into exoplanetary atmospheres and their potential to support life. [Comments](https://news.ycombinator.com/item?id=49096129).
 
-* [Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals](https://www.emergingtrajectories.com/lh/commodification-and-circularity/) ([comments](https://news.ycombinator.com/item?id=49101529))
-
-* [Workplaces Look For Cheaper AI As 'Tokenmaxxing' Fades As a Corporate Fad](https://news.slashdot.org/story/26/07/28/2242250/workplaces-look-for-cheaper-ai-as-tokenmaxxing-fades-as-a-corporate-fad?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49080031))
-
-## Global Politics and Security
-
-* [Who Wins and Who Loses After US Bans Foreign Robots?](https://hardware.slashdot.org/story/26/07/29/2152220/who-wins-and-who-loses-after-us-bans-foreign-robots?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49101852))
-
-* [Russia Charges Telegram Founder Durov With Facilitating Terrorism](https://yro.slashdot.org/story/26/07/29/1752235/russia-charges-telegram-founder-durov-with-facilitating-terrorism?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49104117))
-
-* [Activist Charged With Felony After Giving Border Agent “Duress Code” That Wiped His Phone](https://soylentnews.org/article.pl?sid=26/07/28/1933258&from=rss) ([comments](https://lobste.rs/s/5z7akz/gnu_hyperbole_implicit_buttons_build))
-
-## Unique Perspectives and Discussions
-
-* [The Productivity Mirage](https://frantic.im/mirage/) ([comments](https://news.ycombinator.com/item?id=49104335))
-
-* [What side projects have you enjoyed the most?](https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most) ([comments](https://news.ycombinator.com/item?id=49101852))
-
-* [The strain in your brain](https://anirudh.fi/strain) ([comments](https://lobste.rs/s/rulynz/strain_your_brain))
-
-* [Refactoring cuisine: how an Iraqi stew sailed to Singapore](https://iza.ac/posts/2026/07/the-journey-of-bamya/) ([comments](https://news.ycombinator.com/item?id=49080131))
-
-## Space and Science Discoveries
-
-* [JWST Just Examined Two Stars Suspected of Harboring Dyson Spheres](https://soylentnews.org/article.pl?sid=26/07/28/1925225&from=rss) ([comments](https://news.ycombinator.com/item?id=49080031))
-
-* [Astronomers Found the First Atmosphere on a Planet in Another Star's Habitable Zone](https://soylentnews.org/article.pl?sid=26/07/25/2045217&from=rss) ([comments](https://news.ycombinator.com/item?id=49054884))
+* [JWST Just Examined Two Stars Suspected of Harboring Dyson Spheres](https://soylentnews.org/article.pl?sid=26/07/28/1925225&amp;from=rss) - The James Webb Space Telescope explores intriguing possibilities surrounding megastructures. [Comments](https://lobste.rs/s/5z7akz).
 
 ---
 
@@ -83,13 +57,18 @@ Rules:
 
 Highlight the most unique and interesting articles from within the bulleted list that follows:
 
+* [2026-07-30, 07:00:00](https://tech.slashdot.org/story/26/07/30/0022247/qantas-plane-flies-for-more-than-24-hours-in-record-breaking-flight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Qantas Plane Flies For More Than 24 Hours In Record-Breaking Flight](https://tech.slashdot.org/story/26/07/30/0022247/qantas-plane-flies-for-more-than-24-hours-in-record-breaking-flight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
+* [2026-07-30, 06:09:35](https://news.ycombinator.com/item?id=49106568) - [Claude is down for 2nd consecutive day](https://status.claude.com/incidents/fsh2zzzl2c4l)
+* [2026-07-30, 06:03:26](https://news.ycombinator.com/item?id=49106529) - [Show HN: Edge Drop- #1 productivity and unique clipboard 200 stars on GitHub](https://github.com/Deepender25/Edge-Drop)
+* [2026-07-30, 05:03:00](https://soylentnews.org/article.pl?sid=26/07/29/0711249&amp;from=rss) - [Signals Are Grim for Jodrell Bank Observatory After UK Science Funding Decision](https://soylentnews.org/article.pl?sid=26/07/29/0711249&amp;from=rss)
 * [2026-07-30, 03:47:26](https://lobste.rs/s/ba2yfy/c_float_int_conversion_can_be_undefined) - [C++ float-to-int conversion can be undefined behavior](https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/)
+* [2026-07-30, 03:42:59](https://lobste.rs/s/hkemqm/difference_between_button_link) - [The Difference Between a Button and a Link](https://unplannedobsolescence.com/blog/buttons-vs-links/)
 * [2026-07-30, 03:30:00](https://news.slashdot.org/story/26/07/29/2213243/ai-companies-are-recruiting-electricians-and-carpenters-by-the-thousands?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI Companies Are Recruiting Electricians and Carpenters By the Thousands](https://news.slashdot.org/story/26/07/29/2213243/ai-companies-are-recruiting-electricians-and-carpenters-by-the-thousands?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-30, 02:55:21](https://news.ycombinator.com/item?id=49105642) - [NSF pilots 4-year PhDs with industry research placements](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four)
+* [2026-07-30, 02:46:57](https://lobste.rs/s/ndprns/man_computer_john_g_kemeny_1972) - [Man and the Computer - John G. Kemeny (1972)](https://archive.org/details/mancomputerbyjoh0000john)
 * [2026-07-30, 02:41:16](https://news.ycombinator.com/item?id=49105563) - [Kuna: Decompiler Development in the Age of Coding Agents](https://noelo.org/blog/kuna-release/)
 * [2026-07-30, 01:40:31](https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most) - [What side projects have you enjoyed the most?](https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most)
-* [2026-07-30, 01:27:12](https://news.ycombinator.com/item?id=49105136) - [Flume Water Monitor 915 MHz Security Is Pretty Good](https://waveformsecurity.com/blog/flume/)
-* [2026-07-30, 00:51:39](https://news.ycombinator.com/item?id=49104937) - [Logic for Programmers by Hillel Wayne](https://logicforprogrammers.com/)
+* [2026-07-30, 00:51:39](https://news.ycombinator.com/item?id=49104937) - [Logic for Programmers](https://logicforprogrammers.com/)
 * [2026-07-30, 00:20:16](https://news.ycombinator.com/item?id=49104747) - [Show HN: A local merge queue for parallel Claude Code agents](https://github.com/funador/claude-code-merge-queue)
 * [2026-07-30, 00:15:00](https://soylentnews.org/article.pl?sid=26/07/29/078223&amp;from=rss) - [Librarians Are Hosting Viral &apos;Avoiding AI&apos; Workshops for People Who Are Fed Up With Big Tech](https://soylentnews.org/article.pl?sid=26/07/29/078223&amp;from=rss)
 * [2026-07-30, 00:00:00](https://hardware.slashdot.org/story/26/07/29/2152220/who-wins-and-who-loses-after-us-bans-foreign-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Who Wins and Who Loses After US Bans Foreign Robots?](https://hardware.slashdot.org/story/26/07/29/2152220/who-wins-and-who-loses-after-us-bans-foreign-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
@@ -131,14 +110,11 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-29, 13:25:07](https://lobste.rs/s/vjelns/postgresql_mvcc_tradeoffs_compared) - [PostgreSQL MVCC: tradeoffs compared to other engines](https://boringsql.com/posts/mvcc-bad-bad/)
 * [2026-07-29, 13:22:18](https://lobste.rs/s/ozules/overengineered_calculator_zig_qbe) - [Overengineered calculator: Zig + QBE](https://tomekw.com/overengineered-calculator-zig-qbe/)
 * [2026-07-29, 13:12:17](https://lobste.rs/s/w1va9j/it_doesn_t_matter_whether_matz_is_nice) - [It doesn’t matter whether “Matz is nice”](https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice)
-* [2026-07-29, 13:01:57](https://news.ycombinator.com/item?id=49096969) - [Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398)
 * [2026-07-29, 13:00:44](https://lobste.rs/s/5z7akz/gnu_hyperbole_implicit_buttons_build) - [GNU Hyperbole Implicit Buttons: Build your Hyperverse](https://www.chiply.dev/post-hyperbole-implicit-buttons)
 * [2026-07-29, 13:00:00](https://it.slashdot.org/story/26/07/29/057255/more-than-30-minnesota-water-systems-targeted-in-cyberattack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [More Than 30 Minnesota Water Systems Targeted In Cyberattack](https://it.slashdot.org/story/26/07/29/057255/more-than-30-minnesota-water-systems-targeted-in-cyberattack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-29, 12:35:26](https://lobste.rs/s/hrhb42/dark_night_mathematics) - [The Dark Night of Mathematics](https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics)
-* [2026-07-29, 12:33:02](https://news.ycombinator.com/item?id=49096654) - [Darktable](https://www.darktable.org/)
 * [2026-07-29, 12:20:10](https://lobste.rs/s/rgn8u4/copilot_will_propagate_malicious_worm) - [Copilot will propagate a malicious worm from one Word document to another](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
 * [2026-07-29, 10:42:50](https://lobste.rs/s/xi6azw/ai_mania_is_eviscerating_global_decision) - [AI Mania Is Eviscerating Global Decision-Making](https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking)
-* [2026-07-29, 10:29:13](https://lobste.rs/s/7pjq5g/sovereignty_is_substrate) - [Sovereignty is a substrate](https://negroniventurestudios.com/2026/07/28/sovereignty-is-a-substrate/)
 * [2026-07-29, 09:51:00](https://soylentnews.org/article.pl?sid=26/07/28/1936202&amp;from=rss) - [Sony&apos;s Decision to Ditch Discs Was Practically Inevitable, Data Shows](https://soylentnews.org/article.pl?sid=26/07/28/1936202&amp;from=rss)
 * [2026-07-29, 09:00:00](https://science.slashdot.org/story/26/07/29/0455211/your-brain-can-rewire-itself-to-allow-true-multitasking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Your Brain Can Rewire Itself To Allow True Multitasking](https://science.slashdot.org/story/26/07/29/0455211/your-brain-can-rewire-itself-to-allow-true-multitasking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-29, 08:07:13](https://lobste.rs/s/csff09/user_interfaces_demo_scene) - [User Interfaces of the Demo Scene](https://datagubbe.se/scenegui/)
@@ -149,14 +125,12 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-29, 03:30:00](https://news.slashdot.org/story/26/07/28/2242250/workplaces-look-for-cheaper-ai-as-tokenmaxxing-fades-as-a-corporate-fad?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Workplaces Look For Cheaper AI As &apos;Tokenmaxxing&apos; Fades As a Corporate Fad](https://news.slashdot.org/story/26/07/28/2242250/workplaces-look-for-cheaper-ai-as-tokenmaxxing-fades-as-a-corporate-fad?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-29, 00:19:00](https://soylentnews.org/article.pl?sid=26/07/28/1925225&amp;from=rss) - [JWST Just Examined Two Stars Suspected of Harboring Dyson Spheres](https://soylentnews.org/article.pl?sid=26/07/28/1925225&amp;from=rss)
 * [2026-07-28, 23:00:00](https://mobile.slashdot.org/story/26/07/28/2121200/apple-retires-iphone-upgrade-program-for-klarna-backed-leases?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [Apple Retires iPhone Upgrade Program For Klarna-Backed Leases](https://mobile.slashdot.org/story/26/07/28/2121200/apple-retires-iphone-upgrade-program-for-klarna-backed-leases?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
-* [2026-07-28, 22:00:00](https://it.slashdot.org/story/26/07/28/212240/ai-found-bugs-arent-proving-any-easier-to-exploit-despite-the-hype?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed) - [AI-Found Bugs Aren&apos;t Proving Any Easier to Exploit Despite the Hype](https://it.slashdot.org/story/26/07/28/212240/ai-found-bugs-arent-proving-any-easier-to-exploit-despite-the-hype?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed)
 * [2026-07-28, 21:16:29](https://lobste.rs/s/vnh6b2/why_rocq_is_better_than_lean_for_program) - [Why Rocq is better than Lean for program verification](https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html)
 * [2026-07-28, 21:14:59](https://lobste.rs/s/anvtjk/state_multi_player_wayland) - [State of multi-player Wayland](https://blinry.org/multi-seat-wayland/)
 * [2026-07-28, 20:28:33](https://news.ycombinator.com/item?id=49089500) - [Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline)
 * [2026-07-28, 19:34:00](https://soylentnews.org/article.pl?sid=26/07/27/0445232&amp;from=rss) - [Google Breaks Alibaba’s Record For Europe’s Largest DMA Fine](https://soylentnews.org/article.pl?sid=26/07/27/0445232&amp;from=rss)
 * [2026-07-28, 14:52:00](https://soylentnews.org/article.pl?sid=26/07/27/0440212&amp;from=rss) - [The Fight Against AI Data Centers is Important – but It&apos;s Just a Starting Point](https://soylentnews.org/article.pl?sid=26/07/27/0440212&amp;from=rss)
 * [2026-07-28, 14:14:06](https://lobste.rs/s/rmzzdb/inside_zig_s_incremental_compilation) - [Inside Zig&apos;s Incremental Compilation](https://mlugg.co.uk/posts/incremental-compilation-internals/)
-* [2026-07-28, 13:33:00](https://lobste.rs/s/49nob7/i_designed_custom_pcb_avoid_pressing) - [I Designed A Custom PCB To Avoid Pressing A Button Three Times](https://blog.tymscar.com/posts/opensourcedimmer/)
 * [2026-07-28, 10:05:00](https://soylentnews.org/article.pl?sid=26/07/27/0428208&amp;from=rss) - [South Korea Making its Own Security-Centric AI Model](https://soylentnews.org/article.pl?sid=26/07/27/0428208&amp;from=rss)
 * [2026-07-28, 06:11:18](https://news.ycombinator.com/item?id=49080031) - [Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman](https://www.staszewski.xyz/blog/recursive-filters/)
 * [2026-07-28, 05:24:00](https://soylentnews.org/article.pl?sid=26/07/26/2115230&amp;from=rss) - [If You&apos;re Reading This, You&apos;re Probably an AI Bot](https://soylentnews.org/article.pl?sid=26/07/26/2115230&amp;from=rss)
@@ -172,5 +146,4 @@ Highlight the most unique and interesting articles from within the bulleted list
 * [2026-07-26, 15:19:00](https://soylentnews.org/article.pl?sid=26/07/25/2052238&amp;from=rss) - [The ACLU is Arming Lawyers to Expose State Surveillance Secrets](https://soylentnews.org/article.pl?sid=26/07/25/2052238&amp;from=rss)
 * [2026-07-26, 10:35:00](https://soylentnews.org/article.pl?sid=26/07/25/2048246&amp;from=rss) - [Your Cookware Got Worse on Purpose](https://soylentnews.org/article.pl?sid=26/07/25/2048246&amp;from=rss)
 * [2026-07-26, 05:43:00](https://soylentnews.org/article.pl?sid=26/07/25/2045217&amp;from=rss) - [Astronomers Found the First Atmosphere on a Planet in Another Star&apos;s Habitable Zone](https://soylentnews.org/article.pl?sid=26/07/25/2045217&amp;from=rss)
-* [2026-07-26, 05:00:46](https://news.ycombinator.com/item?id=49054884) - [Thanatos Rising](https://theamericanscholar.org/thanatos-rising/)
 * [2026-07-26, 01:00:00](https://soylentnews.org/article.pl?sid=26/07/25/2042256&amp;from=rss) - [MIT to Become Hotbed of AI Video Surveillance](https://soylentnews.org/article.pl?sid=26/07/25/2042256&amp;from=rss)
