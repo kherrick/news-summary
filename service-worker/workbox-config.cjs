@@ -1,10 +1,6 @@
 module.exports = {
   globDirectory: "./",
-  globPatterns: [
-    "404.html",
-    "index.html",
-    "service-worker/init.mjs",
-  ],
+  globPatterns: ["404.html", "index.html", "service-worker/init.mjs"],
   globIgnores: [
     "**/node_modules/**",
     "**/templates/**",
