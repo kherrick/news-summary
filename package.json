@@ -2,7 +2,6 @@
   "name": "news-summary",
   "version": "1.0.0",
   "type": "module",
-  "main": "index.mjs",
   "scripts": {
     "clean": "npx rimraf service-worker.js* workbox-*.js*",
     "build:html:minify": "posthtml index.html -u htmlnano",
@@ -11,7 +10,7 @@
     "build:service-worker": "workbox generateSW ./service-worker/workbox-config.cjs",
     "build": "bin/build.sh",
     "serve": "npx serve .",
-    "start": "node --experimental-json-modules index.mjs",
+    "start": "npm run -s build && npm run -s serve",
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "author": "",
