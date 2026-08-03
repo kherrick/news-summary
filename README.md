@@ -2,33 +2,35 @@
 
 ## AI & Machine Learning
 
-- [Launch HN: Hoplite](https://hoplite.sh) - Automate cloud coding agents
-- [MirrorCode](https://epoch.ai/MirrorCode) - AI completes large software projects autonomously
-- [Qwen3.8-Max](https://qwen.ai/blog?id=qwen3.8) - New large language model for coding and collaboration
-- [AirLLM 70B](https://github.com/lyogavin/airllm) - Run 70B models on single 4GB GPU
-- [MiniMax H3](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui) - Open weights with native audio/video support
-- [SQLite Critical CVEs](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/) - Critical security vulnerabilities in LLMs
+- [Company Offering Printed Books To Train AI Stops After 404 Media Coverage](https://news.slashdot.org/story/26/08/03/0714207/company-offering-printed-books-to-train-ai-stops-after-404-media-coverage?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [AI's Decimation of Call Center Jobs Has Begun](https://it.slashdot.org/story/26/08/03/031248/ais-decimation-of-call-center-jobs-has-begun?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Impostor Chinese Models Pretend They're Claude](https://soylentnews.org/article.pl?sid=26/07/30/1212210&from=rss)
+- [OpenAI Says the Rogue Agent That Hacked Hugging Face Also Breached Other Services](https://soylentnews.org/article.pl?sid=26/07/30/2224202&from=rss)
 
 ## Security & Privacy
 
-- [Kill the Cookie Banner](https://killthecookiebanner.eu/) - Advocate for removing intrusive privacy warnings
-- [Claude Chats Published](https://soylentnews.org/article.pl?sid=26/07/29/0621219) - User chat data leaked to Google
-- [JSON Is Lying](https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/) - Integrity issues in data parsing
+- [Why does Mail app contact iCloud when sending a non-iCloud email?](https://lapcatsoftware.com/articles/2026/8/2.html)
+- [Kill the Cookie Banner](https://killthecookiebanner.eu/)
+- [On Flock License Plate Tracking Cameras](https://soylentnews.org/article.pl?sid=26/07/29/1151240&from=rss)
+- [Covertly Transmitting Data From Air-Gapped Systems Via Video Cable Emissions](https://soylentnews.org/article.pl?sid=26/07/29/0716213&from=rss)
+- [Google Breaks Alibaba’s Record For Europe’s Largest DMA Fine](https://soylentnews.org/article.pl?sid=26/07/27/0445232&from=rss)
 
 ## Open Source & Development
 
-- [Devtools Must Be Open Source](https://blog.exe.dev/devtools-must-be-open-source) - Strong advocacy for transparency
-- [9front Release](https://9front.org/releases/2026/08/02/0/) - Lightweight OS with Plan 9 roots
-- [OxygenDB Rumor](https://jaredsell.org/2026/08/03/oxygen-db-is-not-open-source/) - Controversial claims about database licensing
+- [Devtools must be open source](https://lapcatsoftware.com/articles/2026/8/2.html)
+- [Kraid is a now a real compiler](https://www.collabora.com/news-and-blog/news-and-events/kraid-is-a-now-a-real-compiler.html)
+- [Open Source Project Fools AI Scrapers With Poisoned Font](https://soylentnews.org/article.pl?sid=26/07/31/1430212&from=rss)
+- [Linux Desktop Market Share Surpasses 10% in North America](https://linux.slashdot.org/story/26/08/02/0631208/linux-desktop-market-share-surpasses-10-in-north-america?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ## Science & Space
 
-- [Wind/Solar Dominance in Germany](https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/) - Renewable energy milestone
-- [Super-Earth Atmosphere](https://science.slashdot.org/story/26/08/02/0029242/in-a-first-super-earth-planet-shows-it-could-have-an-atmosphere?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Potential alien world discovery
-- [Mars' Honeycomb Structures](https://soylentnews.org/article.pl?sid=26/08/03/043448) - Geological findings from Curiosity Rover
+- [Utah produced more power from solar than any other source in May, a new first](https://www.sltrib.com/news/environment/2026/08/03/utah-sets-solar-power-record/)
+- [Wind and solar overtake fossil fuels in Germany for the first time](https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/)
+- [JWST Just Examined Two Stars Suspected of Harboring Dyson Spheres](https://soylentnews.org/article.pl?sid=26/07/28/1925225&from=rss)
 
 ## Technology & Society
 
-- [AI in Call Centers](https://it.slashdot.org/story/26/08/03/031248/ais-decimation-of-call-center-jobs-has-begun?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Automation impact on employment
-- [Apple Vision Pro](https://snknews.com/news/apple-vision-pro-returns-are-slow-08-03-2026) - Consumer VR market entry
-- [South Korea's LPG](https://news.slashdot.org/story/26/08/03/0714207/company-offering-printed-books-to-train-ai-stops-after-404-media-coverage?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Energy policy shift
+- [Americans Give All-Day School Phone Bans a Ringing Endorsement](https://soylentnews.org/article.pl?sid=26/08/02/2131203&from=rss)
+- [Controlling Your Environment Makes You Happy (2000)](https://www.joelonsoftware.com/2000/04/10/controlling-your-environment-makes-you-happy/)
+- [The Fight Against AI Data Centers is Important – but It's Just a Starting Point](https://soylentnews.org/article.pl?sid=26/07/27/0440212&from=rss)
+- [Hollywood Stopped Making Movies in Hollywood](https://www.statsignificant.com/p/how-hollywood-stopped-making-movies)
