@@ -25,5 +25,3 @@
 - [Color Space Equity Development (2026-08-04)](https://toneyalexander.github.io/inclusive-color-space/)
 - [US Military Robotics Import Restrictions (2026-08-04)](https://soylentnews.org/article.pl?sid=26/08/03/2126256&from=rss)
 - [Educational AI Tool Failures (2026-08-03)](https://news.slashdot.org/story/26/08/03/233245/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-Last Updated: 2026-08-04 18:30:00
