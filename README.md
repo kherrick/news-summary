@@ -17,7 +17,7 @@
 - [Midnight Blizzard Group Hijacks Hotel Wi-Fi...](https://yro.slashdot.org/story/26/08/04/0523203/russia-linked-midnight-blizzard-group-hijacks-hotel-wi-fi-with-captivecrunch)
 - [Nix sandbox is a hidden input](https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input)
 - [USA Bans Imported Robots Due To Supply Chain And Security Risks](https://soylentnews.org/article.pl?sid=26/08/04/0330000&from=rss)
-- [Ad Tech Privacy](https://athonlineschema.readthedocs.io/en/latest/
+- [Ad Tech Privacy](https://athonlineschema.readthedocs.io/en/latest/)
 
 ## Science & Space
 - [Germany Records Historic 12B KWh Solar Feed-In](https://solarquarter.com/2026/08/03/germany-records-historic-12-billion-kwh-solar-feed-in-in-july-2026/)
@@ -32,7 +32,7 @@
 - [The Future of GNOME Boxes](https://blogs.gnome.org/feborges/future-of-boxes/)
 
 ## Technology & Society
-- [Schools Ditch Chromebooks for MacBooks](https://apple.slashdot.org/story/26/08/03/2115259/schools-are-ditching-chromebooks-for-macbooks-by-the-thousands)
+- [Schools Ditch Chromebooks For MacBooks](https://apple.slashdot.org/story/26/08/03/2115259/schools-are-ditching-chromebooks-for-macbooks-by-the-thousands)
 - [Xbox Goes Down - Game Access Implications](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/)
 - [AI's Decimation of Call Center Jobs](https://it.slashdot.org/story/26/08/03/031248/ais-decimation-of-call-center-jobs-has-begun)
 - [US Robot Import Ban](https://soylentnews.org/article.pl?sid=26/08/04/0330000&from=rss)
