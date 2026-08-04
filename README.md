@@ -1,14 +1,14 @@
-# [News Summary](https://kherrick.github.io/news-summary/)
+# News Summary
 
 ## AI & Machine Learning
 - [IntelliJ IDEA Goes LSP](https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/)
-- [Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet)
+- [Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and the 35B on an iPhone](https://github.com/leonickson1/Swiftlet)
 - [Learning Rust Programming Language Tutorials for Everyone](https://learning-rust.github.io)
 - [Quantum Computing Breakthroughs](https://nobelprize.org/quantum/)
 
 ## Security & Privacy
 - [Midnight Blizzard's Hotel Wi-Fi Hijack](https://yro.slashdot.org/story/26/08/04/0523203/)
-- [Keyv Supply Chain Compromise](https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack)
+- [Keyv Supply Chain Compromise](https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack/)
 - [Apple's iCloud Exploit](https://apple.slashdot.org/story/26/08/03/195248/)
 - [SQLite Critical CVEs](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
 
