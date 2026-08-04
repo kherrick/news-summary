@@ -1,29 +1,29 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI & Machine Learning
+## AI Breakthroughs and Challenges
+- [OpenAI's Astra Solved Decades-Old Math Problems For $2,000](https://science.slashdot.org/story/26/08/04/0054251/openais-astra-solved-decades-old-math-problems-for-2000?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Microsoft CEO Touts His Own DIY AI Project To Wall Street and His 20 Million Followers](https://slashdot.org/story/26/08/03/1934211/microsoft-ceo-touts-his-own-diy-ai-project-to-wall-street-and-his-20-million-followers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Mistral's Shieldstral: 3B open-weights model for multimodal moderation](https://mistral.ai/news/shieldstral/)
-- [DeepSeek V4 Flash on a Single AMD MI300X](https://github.com/ryanzhou/deepseek-v4-flash-mi300x)
-- [When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](https://arxiv.org/abs/2602.16763)
+- [AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](https://arxiv.org/abs/2602.16763)
+- [Microsoft Tells Engineers 'Tokenmaxxing Is Not What We Are Optimizing For'](https://slashdot.org/story/26/08/04/1833219/microsoft-tells-engineers-tokenmaxxing-is-not-what-we-are-optimizing-for?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ## Security & Privacy
-- [Excuses Like 'AI Did It' Don't Exist In The Eyes Of The Law](https://soylentnews.org/article.pl?sid=26/08/03/2135236&from=rss)
-- [Security is Hard, Y'all](https://textslashplain.com/2026/08/04/security-is-hard-yall/)
-- [Russia-Linked 'Midnight Blizzard' Group Hijacks Hotel Wi-Fi With CaptiveCrunch](https://yro.slashdot.org/story/26/08/04/0523203/russia-linked-midnight-blizzard-group-hijacks-hotel-wi-fi-with-captivecrunch?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Covertly Transmitting Data From Air-Gapped Systems Via Video Cable Emissions](https://soylentnews.org/article.pl?sid=26/07/29/0716213&from=rss)
+- [Keyv and Friends Compromised in NPM Supply Chain Attack](https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack)
+- [Russia-Linked 'Midnight Blizzard' Group Hijacks Hotel Wi-Fi](https://yro.slashdot.org/story/26/08/04/0523203/russia-linked-midnight-blizzard-group-hijacks-hotel-wi-fi-with-captivecrunch?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Apple Says More Ex-Employees May Have Taken Confidential Data to OpenAI](https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/)
+- [Web Security is Too Hard](https://textslashplain.com/2026/08/04/security-is-hard-yall/)
 
-## Open Source & Development
-- [A Revised Haskell 2010 Language Report](https://blog.haskell.org/revised-haskell-2010-report/)
-- [Enabling the next iteration of the borrow checker on nightly](https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/)
-- [IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows](https://lobste.rs/s/culsub/intellij_idea_goes_lsp:java_and_kotlin)
+## Open Source Development
+- [React's New Pricing Model Affects Open Source Maintainers](https://news.ycombinator.com/item?id=49168921)
+- [NixOS Sandbox Becomes a Hidden Input](https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input)
+- [Vlt 1.0 and Hosted Package Registries](https://www.vlt.io/blog/1-0)
 
-## Space & Exploration
-- [Spain Offers $1.14 Billion To Get Thirty Meter Telescope Moved To Canary Islands](https://science.slashdot.org/story/26/08/04/0040200/spain-offers-114-billion-to-get-thirty-meter-telescope-moved-to-canary-islands?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [JWST Just Examined Two Stars Suspected of Harboring Dyson Spheres](https://soylentnews.org/article.pl?sid=26/07/28/1925225&from=rss)
-- [Space Force-Backed Mission Does its Best Impression of Top Gun in Orbit](https://soylentnews.org/article.pl?sid=26/08/02/1231203&from=rss)
+## Science & Space
+- [Mars Honeycomb Discovery by Curiosity Rover](https://soylentnews.org/article.pl?sid=26/08/04/0316232&from=rss)
+- [JWST Examines Stars Suspected of Dyson Spheres](https://soylentnews.org/article.pl?sid=26/07/28/1925225&from=rss)
+- [Spain's $1.14 Billion Telescope Project](https://science.slashdot.org/story/26/08/04/0040200/spain-offers-114-billion-to-get-thirty-meter-telescope-moved-to-canary-islands?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Policy & Society
-- [Three US States to Deploy 60 Mph Drones Armed With Pepper Spray to Neutralize School Shooters](https://soylentnews.org/article.pl?sid=26/08/03/2125201&from=rss)
-- [US Government Just Banned Roombas](https://soylentnews.org/article.pl?sid=26/08/03/044211&from=rss)
-- [Apple Says More Ex-Employees May Have Taken Confidential Data to OpenAI](https://yro.slashdot.org/story/26/08/04/1719218/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [The EU's Right to Repair Directive Has Kicked in](https://soylentnews.org/article.pl?sid=26/08/03/0359239&from=rss)
+## Technology & Society
+- [UK Launches Legal Challenge Against Encrypted Data Access](https://it.slashdot.org/story/26/08/04/0557231/apple-launches-legal-challenge-against-uk-demand-to-access-encrypted-user-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [US Bans Imported Robots Due to Security Risks](https://soylentnews.org/article.pl?sid=26/08/04/0326256&from=rss)
+- [Librarians Host 'Avoiding AI' Workshops](https://soylentnews.org/article.pl?sid=26/07/29/078223&from=rss)
+- [Apple's iCloud Led to Ex-Employees Accessing Secrets](https://apple.slashdot.org/story/26/08/03/195248/apples-icloud-file-sharing-left-ex-employees-with-access-to-secret-documents?utm_source=rss1.0mainlinkanon&utm_medium=feed)
