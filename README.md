@@ -1,33 +1,33 @@
 # News Summary
 
+## Technology & Society
+- [Sandisk and SK Hynix Publish First Open High Bandwidth Flash Standard](https://hardware.slashdot.org/story/26/08/04/0511224/sandisk-and-sk-hynix-publish-first-open-high-bandwidth-flash-standard?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows](https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/)
+- [Agent skills that bring team coding standards to Claude Code and Codex](https://github.com/tikalk/adlc-team-skills)
+- [IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows](https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/)
+- [FFmpeg 9.0](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES)
+
 ## AI & Machine Learning
-- [IntelliJ IDEA Goes LSP](https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/)
-- [Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and the 35B on an iPhone](https://github.com/leonickson1/Swiftlet)
-- [Learning Rust Programming Language Tutorials for Everyone](https://learning-rust.github.io)
-- [Quantum Computing Breakthroughs](https://nobelprize.org/quantum/)
+- [Xbox goes down. You can't play games you own on disc](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/)
+- [NO Meat Proxy](https://nomeatproxy.com/)
+- [DeepSeek V4 Flash on a Single AMD MI300X](https://github.com/ryanzhou/deepseek-v4-flash-mi300x)
+- [OpenAI's Astra Solved Decades-Old Math Problems For $2,000](https://science.slashdot.org/story/26/08/04/0054251/openais-astra-solved-decades-old-math-problems-for-2000?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- ['AI's Decimation of Call Center Jobs Has Begun'](https://it.slashdot.org/story/26/08/03/031248/ais-decimation-of-call-center-jobs-has-begun?utm_source=rss1.0mainlinkanonymous&utm_medium=feed)
+
+## Science & Space
+- [Reaction Wheel Failures Leave Swift Rescue Mission Spinning In Orbit](https://soylentnews.org/article.pl?sid=26/08/03/2132222&from=rss)
+- [No Meat Proxy](https://nomeatproxy.com/)
+- [Stranger Things on Mars: No Giant Space Bees](https://soylentnews.org/article.pl?sid=26/08/03/0316232&from=rss)
+- [Tesla Burns Through a Billion as Musk Bets the Farm on Chips and Bots](https://soylentnews.org/article.pl?sid=26/08/03/044211&from=rss)
 
 ## Security & Privacy
-- [Midnight Blizzard's Hotel Wi-Fi Hijack](https://yro.slashdot.org/story/26/08/04/0523203/)
-- [Keyv Supply Chain Compromise](https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack/)
-- [Apple's iCloud Exploit](https://apple.slashdot.org/story/26/08/03/195248/)
-- [SQLite Critical CVEs](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
+- [Keyv and friends compromised in active Shai-Hulud supply chain attack](https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack)
+- [Russia-Linked 'Midnight Blizzard' Group Hijacks Hotel Wi-Fi With CaptiveCrunch](https://yro.slashdot.org/story/26/08/04/0523203/russia-linked-midnight-blizzard-group-hijacks-hotel-wi-fi-with-captivecrunch?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Kill the Cookie Banner](https://killthecookiebanner.eu/)
 
-## Open Source & Development
-- [20 Years of Pandoc](https://pandoc.org/twenty-years-of-pandoc.html)
-- [Rust Project Goals: Immutable Types](https://github.com/rust-lang/rust-project-goals)
-- [FFmpeg 9.0 Release](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES)
-
-## Science & Society
-- [Nobel Disease in Modern Research](https://en.wikipedia.org/wiki/Nobel_disease)
-- [Midnight Blizzard's Hotel Wi-Fi Hijack](https://yro.slashdot.org/story/26/08/04/0523203/)
-- [Space Force-Backed Orbital Mission](https://soylentnews.org/article.pl?sid=26/08/02/0930227/)
-
-## Technology & Society
-- [Hollywood's AI Strategy](https://entertainment.slashdot.org/story/26/08/03/0350223/)
-- [AI's Decimation of Call Centers](https://it.slashdot.org/story/26/08/03/031248/)
-- [China's AI Race Leadership](https://soylentnews.org/article.pl?sid=26/08/02/085258/)
-
-## Nature and Space
-- [Mars Honeycomb Discovery](https://soylentnews.org/article.pl?sid=26/08/03/0316232/)
-- [Amazon Ancient Civilization Glyphs](https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html)
-- [South Korea Heat Record](https://news.slashdot.org/story/26/08/03/0721235/)
+## Open Source
+- [Agent skills that bring team coding standards to Claude Code and Codex](https://github.com/tikalk/adlc-team-skills)
+- [Learning-Rust.GitHub.io: Rust Programming Language Tutorials for Everyone](https://learning-rust.github.io)
+- [Bibliograph: A Prototypical AppView for Books](https://discourse.atmosphere.community/t/bibliograph-a-prototypical-appview-for-books/1047)
+- [BorrowSanitizer](https://borrowsanitizer.com/)
+- [Don't Take the Black Pill (Text Adaptation)](https://andrewkelley.me/post/dont-take-black-pill.html)
