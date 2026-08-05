@@ -7,7 +7,6 @@
 
 ## Security & Privacy
 - [IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay](https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/)
-- [A Reverse Engineering of the 'Don't Track' Web Platform Feature](https://example.com/dont-track-feature) (Hypothetical example for demonstration)
 - [Keyv and friends compromised in active Shai-Hulud supply chain attack](https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack)
 
 ## Open Source & Development
