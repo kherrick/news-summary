@@ -1,27 +1,33 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
 ## AI & Machine Learning
-- [Jeff Dean Leaving Google](https://twitter.com/JeffDean/status/2085034604172603724)
-- [Google DeepMind CEO Stepping Down](https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai)
-- [Next Chapter of AI Momentum](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/)
+- [Google Overhauls AI Leadership As DeepMind CEO Steps Aside](https://news.ycombinator.com/item?id=49186621)
+- [Why the Legendary Erdos Problems Are Falling to AI](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/)
+- [Qwen 3.0 Image Pro](https://www.qwencloud.com/models/qwen-image-3.0-pro)
+- [Building an Advanced Agentic Harness](https://data4sci.com/blog/building-an-advanced-agentic-harness)
+- [rust-lang/rust is adopting an LLM policy](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/)
 
 ## Security & Privacy
-- [Cops Used Flock to Track a Man](https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/)
-- [Judge Refuses XAI's Request to Stop Minnesota 'Nudify' Ban](https://soylentnews.org/article.pl?sid=26/08/04/0723205&from=rss)
-- [Apple Challenges UK Encryption Order](https://it.slashdot.org/story/26/08/04/0557231/apple-launches-legal-challenge-against-uk-demand-to-access-encrypted-user-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Atlassian Rovo Exfiltrates Data, Bypassing Controls](https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data)
+- [Phishers are hijacking legitimate cloud infrastructure](https://securelist.com/cloud-platforms-in-phishing/120832/)
+- [Judge Refuses XAI's Request to Stop a Minnesota Law Banning 'Nudify' Apps](https://soylentnews.org/article.pl?sid=26/08/04/0723205&from=rss)
 
 ## Open Source & Development
-- [TSON – JSON superset with immutable schemas](https://tson.io/)
-- [Cloudflare OS – Open Platform for Agents and Apps](https://blog.cloudflare.com/cloudflare-os/)
-- [Oracle Halves Always Free ARM Limits](https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/)
+- [Celld: Self-hosted, distributed Durable Objects](https://github.com/denoland/celld)
+- [Cloudflare Announces Open-Source Cloudflare OS As AI 'Operating System'](https://blog.cloudflare.com/cloudflare-os/)
+- [Faster Than Ninja](https://build2.org/blog/faster-than-ninja.xhtml)
+- [C++26: #embed](https://www.sandordargo.com/blog/2026/08/05/cpp26-embed)
+- [Nix Overrides That Expire Themselves](https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/)
 
 ## Science & Space
-- [Rubin Observatory LSST Camera Releases 500k Galaxies](https://rubinobservatory.org/news/rubin-new-window-cosmos-field)
-- [SpaceX Rocket Crashes Into the Moon](https://science.slashdot.org/story/26/08/04/2245236/watch-a-spacex-rocket-crash-into-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Alloy Forged by Hiroshima Atomic Blast](https://www.science.org/doi/10.1126/sciadv.aeg8299)
+- [Watch a SpaceX Rocket Crash Into the Moon](https://science.slashdot.org/story/26/08/04/2245236/watch-a-spacex-rocket-crash-into-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field](https://rubinobservatory.org/news/rubin-new-window-cosmos-field)
+- [The Entropy of a Markov Chain](https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain)
 
 ## Technology & Society
-- [T-Mobile Store Experience May End](https://mobile.slashdot.org/story/26/08/05/0028248/the-days-of-walking-into-a-t-mobile-store-may-be-numbered?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Senators Crack Down on Wildfire Prediction Markets](https://yro.slashdot.org/story/26/08/05/0021220/senators-demand-crackdown-on-wildfire-prediction-markets?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [US Bans Imported Robots](https://soylentnews.org/article.pl?sid=26/08/03/2126256&from=rss)
-- [Librarians Host 'Avoiding AI' Workshops](https://soylentnews.org/article.pl?sid=26/08/04/078223&from=rss)
+- [Tech Buyers Are Opting for Sovereignty From Day One](https://soylentnews.org/article.pl?sid=26/08/04/1147244&from=rss)
+- [The Valley of Webhooks](https://weli.dev/blog/the-valley-of-webhooks/)
+- [Senators Demand Crackdown On Wildfire 'Prediction Markets'](https://yro.slashdot.org/story/26/08/05/0021220/senators-demand-crackdown-on-wildfire-prediction-markets?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Why I'm leaving OpenAI to build telepathy](https://naomibashkansky.com/blog/telepathy/)
+- [Open Source Project Fools AI Scrapers With Poisoned Font](https://soylentnews.org/article.pl?sid=26/07/31/1430212&from=rss)
+- [The Metric System Encodes 18th Century Lab Equipment](https://soylentnews.org/article.pl?sid=26/07/31/1425202&from=rss)
