@@ -1,4 +1,4 @@
-# [News Summary](https://kherrick.github.io/news-summary/)
+# [News Summary](https://kherick.github.io/news-summary/)
 
 ## AI & Machine Learning
 - [Zero-Mem: Zero-Token Memory Operations for LLM Agents](https://arxiv.org/abs/2607.29377)
