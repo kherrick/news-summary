@@ -1,27 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
 ## AI & Machine Learning
-- [Cloud Giants Pour Nearly $600B Into Capex as AI Demand Surges](https://soylentnews.org/article.pl?sid=26/08/05/029207&from=rss)
-- [Meta Debuts First AI Coding Agent To Take On Anthropic and OpenAI](https://developers.slashdot.org/story/26/08/05/2013222/meta-debuts-first-ai-coding-agent-to-take-on-anthropic-and-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Anthropic's AI Used Fake Identities, Malware In Rogue Attack On GitHub Project](https://it.slashdot.org/story/26/08/05/2157224/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Impostor Chinese Models Pretend They're Claude](https://soylentnews.org/article.pl?sid=26/07/30/1212210&from=rss)
+
+* [OpenAI’s Rogue Agent Breached Hugging Face and Other Services](https://soylentnews.org/article.pl?sid=26/07/30/2224202&from=rss)
+* [Claude Code – A Terminal Session Manager](https://github.com/pradipta/wallfacer)
+* [Nova: An Open-Source AI Coding Agent](https://blog.cloudflare.com/cloudflare-os/)
+* [Google Overhauls AI Leadership](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/)
+* [Celld: Distributed Durable Objects](https://github.com/denoland/celld)
 
 ## Security & Privacy
-- [Ship Safe, an open source security scanner for coding agents](https://github.com/asamassekou10/ship-safe)
-- [Apple Limits Bug Bounty Submissions After Flood of AI Slop](https://it.slashdot.org/story/26/08/04/2045214/apple-limits-bug-bounty-submissions-after-flood-of-ai-slop?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [Apple’s Private Relay Exposing IPs](https://yro.slashdot.org/story/26/08/05/1918253/apples-private-relay-is-exposing-users-real-ip-addresses?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Corporate AI Used Fake IDs and Malware](https://it.slashdot.org/story/26/08/05/2157224/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Police Scanner Data Exfiltration](https://lobste.rs/s/l9jtnl/gnu_hurd_news_2026_q2)
+* [Google’s Nova AI Coding Agent Data Exfiltration](https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data)
 
 ## Open Source & Development
-- [Cloudflare OS: an open platform for agents, apps, and work](https://blog.cloudflare.com/cloudflare-os/)
-- [Celld: Self-hosted, distributed Durable Objects](https://github.com/denoland/celld)
-- [C++26: #embed](https://www.sandordargo.com/blog/2026/08/05/cpp26-embed)
-- [Open Source Project Fools AI Scrapers With Poisoned Font](https://soylentnews.org/article.pl?sid=26/07/31/1430212&from=rss)
+
+* [GNU Hurd 2026-Q2 Release](https://www.gnu.org/software/hurd/news/2026-q2.html)
+* [Proxmox Supports Arm](https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/)
+* [Awesome Rust Adopts LLM Policy](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/)
+* [C++26 #embed Feature](https://www.sandordargo.com/blog/2026/08/05/cpp26-embed)
 
 ## Science & Space
-- [New Images of the Sun Show Its Surface In the Finest Detail Yet](https://science.slashdot.org/story/26/08/05/2226251/new-images-of-the-sun-show-its-surface-in-the-finest-detail-yet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Watch a SpaceX Rocket Crash Into the Moon](https://science.slashdot.org/story/26/08/04/2245236/watch-a-spacex-rocket-crash-into-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+* [New Extremely Detailed Solar Surface Images](https://science.slashdot.org/story/26/08/05/2226251/new-images-of-the-sun-show-its-surface-in-the-finest-detail-yet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [SpaceX Rocket Crashes Into the Moon](https://science.slashdot.org/story/26/08/04/2245236/watch-a-spacex-rocket-crash-into-the-moon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Ch32V203 RISC-V Board Project](https://linuxgizmos.com/comu-fits-a-144mhz-ch32v203-risc-v-board-inside-a-usb-a-port/)
 
 ## Technology & Society
-- [Apple's 'Private Relay' Is Exposing Users' Real IP Addresses](https://yro.slashdot.org/story/26/08/05/1918253/apples-private-relay-is-exposing-users-real-ip-addresses?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Nashville Uses Eminent Domain to Block Data Center Near Zoo](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)
-- [Lawmaker Who Wants Data Center Pause Wins Kansas Democratic Primary](https://politics.slashdot.org/story/26/08/05/1737252/lawmaker-who-wants-data-center-pause-wins-kansas-democratic-primary?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Three US States to Deploy 60 Mph Drones Armed With Pepper Spray to Neutralize School Shooters](https://soylentnews.org/article.pl?sid=26/08/03/2125201&from=rss)
+
+* [Nashville Blocks Data Center Near Zoo](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)
+* [Texas Halts Data Center Power Connections](https://hardware.slashdot.org/story/26/08/04/231207/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand)
+* [EU Right-to-Repair Directive Enforcement](https://soylentnews.org/article.pl?sid=26/08/03/0359239&from=rss)
+* [Data Brokerage Resistance Workshops](https://soylentnews.org/article.pl?sid=26/07/29/078223&from=rss)
