@@ -1,31 +1,30 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
 ## Space and Science Milestones
-- [NASA Figured Out How To Keep Its 48-Year-Old Voyager 2 Probe Running For Yet Another Year](https://science.slashdot.org/story/26/08/08/0415215/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/08/08/0415215/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Dress Made of Living Mycelium Can Renew and Repair Itself](https://science.slashdot.org/story/26/08/06/2210253/dress-made-of-living-mycelium-can-renew-and-repair-itself?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/08/06/2210253/dress-made-of-living-mycelium-can-renew-and-repair-itself?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [DeepMind's WeatherNext Model Achieves Breakthrough Forecasting Cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) ([comments](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/))
-- [Europe's Free Satellite Service Makes Tracking Wildfires Easier](https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/) ([comments](https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/))
+- [NASA Figured Out How To Keep Its 48-Year-Old Voyager 2 Probe Running For Yet Another Year](https://science.slashdot.org/story/26/08/08/0415215/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Europe's Free Satellite Service Makes Tracking Wildfires Easier](https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/)
+- [NASA's Swift Rescue Slips To Late August As LINK Battles Its Spin](https://soylentnews.org/article.pl?sid=26/08/04/0720220&from=rss)
 
 ## Cybersecurity and Government
-- [Russian Spies Turn Public Wi-Fi Into Malware Delivery Systems](https://soylentnews.org/article.pl?sid=26/08/07/022233&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/07/022233&from=rss))
-- [US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide](https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide) ([comments](https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide))
-- [Iran-Linked CyberAv3ngers Suspected In Attacks On Minnesota Water Systems](https://soylentnews.org/article.pl?sid=26/08/03/2129241&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/03/2129241&from=rss))
-- [Cyberattacks Hit Water Facilities in Seven States Across the US](https://soylentnews.org/article.pl?sid=26/08/05/1214213&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/05/1214213&from=rss))
+- [Russian Spies Turn Public Wi-Fi Into Malware Delivery Systems](https://soylentnews.org/article.pl?sid=26/08/07/022233&from=rss)
+- [Hardware Backdoors Found in Some x86 CPUs](https://github.com/xoreaxeaxeax/rosenbridge)
+- [AI Slop Pollutes the CVE Pipeline With Fake Vulns](https://soylentnews.org/article.pl?sid=26/08/07/0157223&from=rss)
 
 ## Artificial Intelligence and Ethics
-- [AI Slop Pollutes the CVE Pipeline With Fake Vulns](https://soylentnews.org/article.pl?sid=26/08/07/0157223&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/07/0157223&from=rss))
-- [Oracle Bans AI-Generated Code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) ([comments](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code))
-- [Scientists Make First Viruses Designed By AI](https://science.slashdot.org/story/26/08/06/1824255/scientists-make-first-viruses-designed-by-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/08/06/1824255/scientists-make-first-viruses-designed-by-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [OpenAI Reveals Rogue Agent Swarm Ahead of Hugging Face Hack](https://soylentnews.org/article.pl?sid=26/08/06/1431225&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/06/1431225&from=rss))
+- [OpenAI Reveals Its Rogue Agent Swarm Went a Little Bit Borg Ahead of Hugging Face Hack](https://soylentnews.org/article.pl?sid=26/08/06/1431225&from=rss)
+- [OpenAI Accidental Attack Against Hugging Face Timeline](https://simonwillison.net/2026/Aug/7/openai-timeline/)
+- [ByteDance Is Training a 10-Trillion-Parameter Model To Chase the Frontier](https://slashdot.org/story/26/08/07/174223/bytedance-is-training-a-10-trillion-parameter-model-to-chase-the-frontier?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ## Tech Industry and Infrastructure
-- [Apple Introduces Leasing Program for iPhones and Other Devices](https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html) ([comments](https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html))
-- [New Amazon Data Center Will House Most Polluting Power Plant in the U.S.](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html) ([comments](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html))
-- [AMD Acquires AI Chip Startup Taalas](https://hardware.slashdot.org/story/26/08/07/016216/amd-buys-ai-chip-startup-taalas-that-hardwires-ai-models-into-its-silicon?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/08/07/016216/amd-buys-ai-chip-startup-taalas-that-hardwires-ai-models-into-its-silicon?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Space Force-Backed Mission Tests Top Gun‑Style Tactics in Orbit](https://soylentnews.org/article.pl?sid=26/08/02/0930227&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/02/0930227&from=rss))
+- [Microsoft Edge Locks Out Older Ad Blockers, Mirroring Chrome's Move](https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3)
+- [New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)
+- [SpaceX to Acquire 130,000 Acres of Marshland in Southern Louisiana](https://soylentnews.org/article.pl?sid=26/08/05/0212222&from=rss)
 
-## Society, Policy, and Culture
-- [Virginia Governor Intervenes in Dominion‑NextEra Merger](https://news.slashdot.org/story/26/08/07/2142258/virginia-governor-to-intervene-in-dominion-nextera-merger?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/08/07/2142258/virginia-governor-to-intervene-in-dominion-nextera-merger?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [UK Plans Fee for Data Center Grid Connection Requests](https://soylentnews.org/article.pl?sid=26/08/05/024251&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/05/024251&from=rss))
-- [Asimov’s Rules for Robots Still Hold, Says Ex‑US Cyber Director](https://it.slashdot.org/story/26/08/07/1829239/asimov-was-right-about-rules-for-robots-says-ex-us-cyber-director?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/26/08/07/1829239/asimov-was-right-about-rules-for-robots-says-ex-us-cyber-director?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Trump Administration to Pay German Firm $1.2 Billion to Halt Wind Projects](https://hardware.slashdot.org/story/26/08/07/2157219/trump-administration-to-pay-german-firm-12-billion-to-halt-us-wind-projects?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/08/07/2157219/trump-administration-to-pay-german-firm-12-billion-to-halt-us-wind-projects?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Society and Culture
+- [Woman Pulled From Car at Gunpoint By Police After Mistaken Flock Alert - Twice](https://yro.slashdot.org/story/26/08/08/042259/woman-pulled-from-car-at-gunpoint-by-police-after-mistaken-flock-alert---twice?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [They Don't Make 'Em Like Sublime Text Anymore](https://lobste.rs/s/uny1fo/they_don_t_make_em_like_sublime_text)
+- [Farewell, Etaoin Shrdlu](https://archive.org/details/FarewellEtaoinShrdlu)
+
+## Policy and Regulation
+- [Trump Administration To Pay German Firm $1.2 Billion To Halt US Wind Projects](https://hardware.slashdot.org/story/26/08/07/2157219/trump-administration-to-pay-german-firm-12-billion-to-halt-us-wind-projects?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [UK Wants Datacenters To Pay A Fee For Grid Connection Requests](https://soylentnews.org/article.pl?sid=26/08/05/024251&from=rss)
