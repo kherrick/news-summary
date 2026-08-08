@@ -1,22 +1,32 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI Advancements and Corporate Strategies
+## AI and Technology Advancements
+- [Should AI labs be treated like the owners of dangerous animals?](https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals)
 - [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
-- [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
-- [ByteDance trains 10-trillion-parameter model to chase AI frontier](https://slashdot.org/story/26/08/07/174223/bytedance-is-training-a-10-trillion-parameter-model-to-chase-the-frontier?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [OpenAI's rogue agent swarm discussed pre-Hugging Face breach](https://soylentnews.org/article.pl?sid=26/08/06/1431225&from=rss)
+- [ByteDance Is Training a 10-Trillion-Parameter Model](https://slashdot.org/story/26/08/07/174223/bytedance-is-training-a-10-trillion-parameter-model-to-chase-the-frontier)
+- [AMD Buys AI Chip Startup Taalas](https://hardware.slashdot.org/story/26/08/07/016216/amd-buys-ai-chip-startup-taalas-that-hardwires-ai-models-into-its-silicon)
+- [How OpenAI's Agent Escaped](https://soylentnews.org/article.pl?sid=26/08/04/1145222&from=rss)
 
-## Cybersecurity Incidents and Data Privacy
-- [Framework notifies users of data breach via compromised Metabase BI service](https://yro.slashdot.org/story/26/08/07/1757230/framework-notifies-all-customers-of-a-data-breach-via-compromised-metabase-bi-service?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49214468))
-- [LinkedIn realizes users have been bathing in AI slop, makes changes](https://soylentnews.org/article.pl?sid=26/07/31/1417222&from=rss)
-- [Poisoned font project fools AI scrapers](https://soylentnews.org/article.pl?sid=26/08/01/1430212&from=rss)
+## Cybersecurity and Data Breaches
+- [Iran-Linked Cyberattacks on Water Systems](https://soylentnews.org/article.pl?sid=26/08/03/2129241&from=rss)
+- [Framework Notifies Customers of Data Breach via Compromised Metabase](https://yro.slashdot.org/story/26/08/07/1757230/framework-notifies-all-customers-of-a-data-breach-via-compromised-metabase-bi-service)
+- [US Bans Imported Robots Due to Security Risks](https://soylentnews.org/article.pl?sid=26/08/03/2126256&from=rss)
 
-## Regulatory and Ethical Developments
-- [UK mandates employers ask before installing bossware](https://soylentnews.org/article.pl?sid=26/08/06/124251&from=rss)
-- [US bans imported robots due to security risks](https://soylentnews.org/article.pl?sid=26/08/04/085258&from=rss)
-- [EU's right to repair directive takes effect](https://soylentnews.org/article.pl?sid=26/08/03/0359239&from=rss)
+## Environmental and Infrastructure Challenges
+- [Google's $15B India Data Center Project](https://tech.slashdot.org/story/26/08/06/223250/googles-15-billion-india-data-center-project-battles-water-wildlife-concerns)
+- [Water Systems Controllers on the Internet](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)
+- [Solar Farm Shutdown Due to Grid Overload](https://soylentnews.org/article.pl?sid=26/08/02/207211&from=rss)
 
-## Tech and Environmental Challenges
-- [Google's $15B India data center project faces water/wildlife pushback](https://tech.slashdot.org/story/26/08/06/223250/googles-15-billion-india-data-center-project-battles-water-wildlife-concerns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [NASA's Swift Rescue mission faces rotation wheel failures](https://soylentnews.org/article.pl?sid=26/08/04/2132222&from=rss)
-- [Dress made of living mycelium can self-repair](https://science.slashdot.org/story/26/08/06/2210253/dress-made-of-living-mycelium-can-renew-and-repair-itself?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Pioneering Projects and Innovations
+- [Ancient Library with Clickable Words](https://ancientlibrary.net/)
+- [Taalas Hardware Integration](https://hardware.slashdot.org/story/26/08/07/016216/amd-buys-ai-chip-startup-taalas-that-hardwires-ai-models-into-its-silicon)
+- [Open Source Poisoned Font Project](https://soylentnews.org/article.pl?sid=26/07/31/1430212&from=rss)
+
+## Regulatory and Legal Actions
+- [Meta's $567M Fund for Child Harm Reduction](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
+- [EU Right to Repair Directive Implemented](https://soylentnews.org/article.pl?sid=26/08/03/0359239&from=rss)
+
+## Scientific Discoveries and Research
+- [Study Suggests Life on Earth Arose Twice](https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice)
+- [Supermassive Black Hole Map](https://www.sdss.org/black-hole-mapper-release-20/)
+- [AI-Designed Viruses](https://science.slashdot.org/story/26/08/06/1824255/scientists-make-first-viruses-designed-by-ai)
