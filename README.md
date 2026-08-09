@@ -1,8 +1,6 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI & Technolog
-
-y
+## AI & Technology
 
 * [OpenAI Enhances Security Controls, Pausing Work on New AI Model Astra](https://it.slashdot.org/story/26/08/09/1640211/openai-announces-its-enhancing-security-controls-pausing-some-work-for-new-ai-model-astra?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
@@ -32,9 +30,7 @@ y
 
 * [NOAA Ditches Weather-Predicting Supercomputers for Google Cloud](https://soylentnews.org/article.pl?sid=26/08/04/1127256&from=rss)
 
-## Space & Scienc
-
-e
+## Space & Science
 
 * [Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon](https://frequal.com/aptera/ProductionImminent.html) ([comments](https://news.ycombinator.com/item?id=49233394))
 
@@ -54,9 +50,7 @@ e
 
 * [A partial digestion of the HRT counterexample](https://terrytao.wordpress.com/2026/08/06/a-partial-digestion-of-the-hrt-counterexample/) ([comments](https://news.ycombinator.com/item?id=49232253))
 
-## Hardware & Computin
-
-g
+## Hardware & Computing
 
 * [RAMageddon? 2027 Memory Capacity Reportedly Sold Out](https://hardware.slashdot.org/story/26/08/09/0547220/ramageddon-2027-memory-capacity-reportedly-sold-out?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49232221))
 
@@ -68,9 +62,7 @@ g
 
 * [Tesla Burns Through a Billion as Musk Bets the Farm on Chips and Bots](https://soylentnews.org/article.pl?sid=26/08/03/044211&from=rss) ([comments](https://news.ycombinator.com/item?id=49231279))
 
-## Privacy, Security & Regulatio
-
-n
+## Privacy, Security & Regulation
 
 * [FCC moves to ban Lidar-equipped foreign drones from US](https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows) ([comments](https://news.ycombinator.com/item?id=49232857))
 
@@ -94,9 +86,7 @@ n
 
 * [Google Should Still Be Forced To Shed Chrome, Advocacy Group Argues](https://tech.slashdot.org/story/26/08/09/0351205/google-should-still-be-forced-to-shed-chrome-advocacy-group-argues?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49232221))
 
-## Space Exploration & Robotic
-
-s
+## Space Exploration & Robotics
 
 * [Three US States to Deploy 60 Mph Drones Armed With Pepper Spray to Neutralize School Shooters](https://soylentnews.org/article.pl?sid=26/08/03/2125201&from=rss) ([comments](https://news.ycombinator.com/item?id=49231279))
 
@@ -104,9 +94,7 @@ s
 
 * [US Military GPS Jamming Exercise Suspected of Contributing to Civilian Plane Crash in New Mexico](https://soylentnews.org/article.pl?sid=26/08/06/1423227&from=rss) ([comments](https://news.ycombinator.com/item?id=49231809))
 
-## Software Development & Open Sourc
-
-e
+## Software Development & Open Source
 
 * [Slashdot Reader Builds 'Spaced Linux', a New Devuan-Based, User-Friendly Desktop Distro](https://linux.slashdot.org/story/26/08/09/0226209/slashdot-reader-builds-spaced-linux-a-new-devuan-based-user-friendly-desktop-distro?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49232410))
 
@@ -138,9 +126,7 @@ e
 
 * [We replaced Redis with MySQL for inventory reservations and it scaled](https://shopify.engineering/scaling-inventory-reservations) ([comments](https://news.ycombinator.com/item?id=49226536))
 
-## SpaceX & Venture New
-
-s
+## SpaceX & Venture News
 
 * [SpaceX is Set to Acquire 130,000 Acres of Marshland in Southern Louisiana](https://soylentnews.org/article.pl?sid=26/08/05/0212222&from=rss)
 
@@ -148,9 +134,7 @@ s
 
 * [UK Wants Datacenters To Pay A Fee For Grid Connection Requests](https://soylentnews.org/article.pl?sid=26/08/05/024251&from=rss)
 
-## Automotive & Mobilit
-
-y
+## Automotive & Mobility
 
 * [Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone](https://www.techeblog.com/tom-stanton-supersonic-trebuchet/) ([comments](https://news.ycombinator.com/item?id=49232318))
 
@@ -158,8 +142,6 @@ y
 
 * [New Orleans Will Use AI To Answer 911 Calls Instead of a Human](https://slashdot.org/story/26/08/08/2155204/new-orleans-will-use-ai-to-answer-911-calls-instead-of-a-human?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49231279))
 
-## Lunar Eclipse & Astronom
-
-y
+## Lunar Eclipse & Astronomy
 
 * [The End Of August Will Feature A Lunar Eclipse Visible All Over North America](https://soylentnews.org/article.pl?sid=26/08/09/0110234&from=rss) ([comments](https://news.ycombinator.com/item?id=49232942))
