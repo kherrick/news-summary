@@ -1,19 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Machine Learning
-- [ChatGPT Stops Cloning Famous Voices](https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/) ([comments](https://news.ycombinator.com/item?id=49227718))
-- [OpenAI's Rogue Agent Swarm](https://soylentnews.org/article.pl?sid=26/08/06/1431225&from=rss)
+## AI & Machine Learning
+- [ChatGPT starts blocking direct requests to copy an author's style](https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/) ([comments](https://news.ycombinator.com/item?id=49227718)) — OpenAI restricts ChatGPT from directly mimicking specific authors, though it may still produce a similar feeling.
+- [Message your other Claude Code sessions](https://code.claude.com/docs/en/cross-session-messaging) ([comments](https://news.ycombinator.com/item?id=49222824)) — Claude Code now supports cross-session messaging between independent coding sessions.
+- [TheoremDB – A public workspace for machine mathematics](https://theoremdb.org/) ([comments](https://news.ycombinator.com/item?id=49227505)) — A collaborative platform for machine-verifiable mathematical theorems and proofs.
+- [Revision Prompting improves industrial LLM processes](https://revisionprompting.info/) ([comments](https://lobste.rs/s/wkx6jf/revision_prompting_improves_industrial)) — A paper showing how prompting models to revise their outputs boosts quality in production LLM workflows.
+- [Real-time MCP interceptor that blocks .env reads and dangerous commands agents](https://marketnow.site/) ([comments](https://news.ycombinator.com/item?id=49228086)) — A live MCP server interceptor that prevents AI agents from reading .env files and running destructive commands.
+- [Shopify replaced Redis with MySQL for inventory reservations – and it scaled](https://shopify.engineering/scaling-inventory-reservations) ([comments](https://news.ycombinator.com/item?id=49226536)) — Shopify's migration from Redis to MySQL for inventory reservations dramatically improved consistency and scalability.
 
-## Cybersecurity
-- [Police Database Leak](https://soylentnews.org/article.pl?sid=26/08/09/0049242&from=rss)
-- [AI Slop Pollutes the CVE Pipeline With Fake Vulns](https://soylentnews.org/article.pl?sid=26/08/07/0157223&from=rss)
+## Privacy, Security & Surveillance
+- [Illinois just told every operating system to start reporting your kid's age](https://itsfoss.com/news/illinois-age-verification-bill/) ([comments](https://news.ycombinator.com/item?id=49228350)) — A new Illinois bill requires all operating systems to implement age verification and reporting mechanisms.
+- [More Police Officers Fired, Investigated, or Arrested for Misusing Flock Camera Systems](https://yro.slashdot.org/story/26/08/08/0453229/more-police-officers-fired-investigated-or-arrested-for-misusing-flock-camera-systems) ([comments](https://yro.slashdot.org/story/26/08/08/0453229/more-police-officers-fired-investigated-or-arrested-for-misusing-flock-camera-systems)) — Police misuse of automated license plate readers continues to generate disciplinary action.
+- [Police National Legal Database Confirms Data Theft After Dark Web Leak](https://soylentnews.org/article.pl?sid=26/08/08/0049242) ([comments](https://soylentnews.org/article.pl?sid=26/08/08/0049242)) — A UK police legal database suffered a confirmed data breach with stolen records appearing on the dark web.
+- [_for-sale DNS records](https://specification.website/spec/foundations/for-sale-dns/) ([comments](https://news.ycombinator.com/item?id=49221668)) — Exploring the concept of DNS domains as saleable, market-driven resources.
+- [Iran-Linked CyberAv3ngers Suspected In Attacks On Minnesota Water Systems](https://soylentnews.org/article.pl?sid=26/08/03/2129241) ([comments](https://soylentnews.org/article.pl?sid=26/08/03/2129241)) — The Iranian hacking group CyberAv3ngers is suspected in attacks targeting Minnesota water infrastructure.
+- [AI Slop Pollutes the CVE Pipeline With Fake Vulns](https://soylentnews.org/article.pl?sid=26/08/07/0157223) ([comments](https://soylentnews.org/article.pl?sid=26/08/07/0157223)) — Low-quality AI-generated submissions are flooding the CVE vulnerability reporting system with fake entries.
 
-## Open Source and Technology
-- [Triton DirectX 11 Driver](https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/)
-- [DREI WYSIWYG Emacs](https://speechcode.com/blog/drei)
-- [TheoremDB Math Workspace](https://theoremdb.org/)
+## Programming & Developer Tools
+- [my server is a phone now](https://seg6.space/posts/phone-server/) ([comments](https://lobste.rs/s/ykuqrc/my_server_is_phone_now)) — Running a full server stack on a smartphone, including web serving, database, and reverse proxy.
+- [OS8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/) ([comments](https://news.ycombinator.com/item?id=49226923)) — A new operating system that brings a Mac-like interface to vintage IBM PCs from the 1980s.
+- [Triton: DirectX 11 Driver for QEMU](https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/) ([comments](https://lobste.rs/s/0gmfid/triton_directx_11_driver_for_qemu)) — A new DirectX 11 implementation enabling Windows gaming inside QEMU virtual machines.
+- [OpenSSH Key Structure Guide](https://sshref.dev/) ([comments](https://lobste.rs/s/lnxdje/openssh_key_structure_guide)) — A comprehensive reference for understanding OpenSSH key formats and structure.
+- [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413) ([comments](https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded)) — The core team maintaining the Nix package collection has announced its dissolution.
+- [DDisasm: Reversible (bi-directional) Disassembler](https://github.com/GrammaTech/ddisasm) ([comments](https://news.ycombinator.com/item?id=49151146)) — A disassembly tool that can reverse-engineer binaries and also re-assemble the output.
+- [Soar package manager](https://soar.qaidvoid.dev/) ([comments](https://lobste.rs/s/bmohqw/soar_package_manager)) — A new declarative package manager for software dependency management.
 
-## Notable Stories
-- [Phone Server at Home](https://seg6.space/posts/phone-server/)
-- [Lost Phone Tracking](https://twitter.com/un1c0rnioz/status/2084686552299634805)
-- [Abandoned Rocket Hits Moon](https://soylentnews.org/article.pl?sid=26/08/06/101249&from=rss)
+## Infrastructure, Energy & Hardware
+- [America's First Grid-Scale Sodium-Ion Battery Plant Gets Its First Big Test](https://hardware.slashdot.org/story/26/08/08/1940232/americas-first-grid-scale-sodium-ion-battery-plant-gets-its-first-big-test) ([comments](https://hardware.slashdot.org/story/26/08/08/1940232/americas-first-grid-scale-sodium-ion-battery-plant-gets-its-first-big-test)) — The first commercial sodium-ion battery grid storage facility in the US undergoes initial operational testing.
+- [Can Intel finally beat ARM on performance per Watt?](https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/) ([comments](https://news.ycombinator.com/item?id=49223079)) — Intel's latest processors are compared against ARM in the battle for energy-efficient computing.
+- [Cloud Giants Pour Nearly $600B Into Capex as AI Demand Surges](https://soylentnews.org/article.pl?sid=26/08/05/029207) ([comments](https://soylentnews.org/article.pl?sid=26/08/05/029207)) — Major cloud providers are investing hundreds of billions in infrastructure to meet soaring AI demand.
+- [Texas Halts Data Center Connections to Power Grid Amid Overwhelming Demand](https://soylentnews.org/article.pl?sid=26/08/07/0152201) ([comments](https://soylentnews.org/article.pl?sid=26/08/07/0152201)) — Grid operators in Texas temporarily cut off new data center connections due to capacity constraints.
+- [Microsoft Vows to Make Windows 11 Fly on 8GB RAM Amid Memory Shortage](https://soylentnews.org/article.pl?sid=26/08/02/087237) ([comments](https://soylentnews.org/article.pl?sid=26/08/02/087237)) — Windows 11 performance optimizations target systems with only 8GB of RAM as memory prices spike.
+- [Landmark Solar Farm Forced to Shut Down as Grid Overload Worries Worsen](https://soylentnews.org/article.pl?sid=26/08/02/207211) ([comments](https://soylentnews.org/article.pl?sid=26/08/02/207211)) — A major solar installation was curtailed due to grid stability concerns from excess renewable energy.
+
+## Space & Science
+- [NASA Figured Out How To Keep Its 48-Year-Old Voyager 2 Probe Running For Yet Another Year](https://science.slashdot.org/story/26/08/08/0415215/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year) ([comments](https://science.slashdot.org/story/26/08/08/0415215/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)) — Creative engineering has extended Voyager 2's mission life well beyond its planned retirement.
+- [Curiosity Rover Spots Field of Giant Honeycomb on Mars – but No Giant Space Bees](https://soylentnews.org/article.pl?sid=26/08/03/0316232) ([comments](https://soylentnews.org/article.pl?sid=26/08/03/0316232)) — Perseverance's ChemCam instrument discovers honeycomb-like rock formations on Mars.
+- [Melatonin impairs morning cognition in healthy young adults](https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621) ([comments](https://news.ycombinator.com/item?id=49227365)) — A study finds that melatonin supplementation can negatively affect cognitive performance in the morning.
+- [Before and After Views of SpaceX Rocket's Moon Crash](https://science.slashdot.org/story/26/08/08/0410218/before-and-after-views-of-spacex-rockets-moon-crash) ([comments](https://science.slashdot.org/story/26/08/08/0410218/before-and-after-views-of-spacex-rockets-moon-crash)) — High-resolution images show the impact site from SpaceX's intentional lunar impact.
+- [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cubra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cubra-live%3A0.2&zoom=6&palier=minute) ([comments](https://news.ycombinator.com/item?id=49225139)) — A community-built map for the upcoming total solar eclipse with multiple data layers.
+- [Retraction: The App Store Rejection of the Week That Was a Correct Rejection](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week) ([comments](https://news.ycombinator.com/item?id=49228166)) — A developer walked back criticism after Apple's App Store rejection was found to be justified.
