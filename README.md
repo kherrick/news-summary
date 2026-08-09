@@ -1,24 +1,41 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology Innovations
-- [New Orleans Will Use AI To Answer 911 Calls Instead of a Human](https://slashdot.org/story/26/08/08/2155204/new-orleans-will-use-ai-to-answer-911-calls-instead-of-a-human?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Malicious Aging in Circuits/Cores (MAGIC)](https://dl.acm.org/doi/10.1145/2724718)
-- [OpenSSL Key Structure Guide](https://sshref.dev/)
-- [Revision Prompting improves industrial LLM processes](https://revisionprompting.info/)
-- [Turning molecules into reliable electronic devices](https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803)
+## AI and Technology Developments
+- [FAAH - Filesystem As An AI Handler](https://github.com/sebastiancarlos/faaah) ([https://lobste.rs/s/lxy0ea/faaah_filesystem_as_ai_handler](https://lobste.rs/s/lxy0ea/faaah_filesystem_as_ai_handler))
+- [New Orleans Will Use AI To Answer 911 Calls Instead of a Human](https://slashdot.org/story/26/08/08/2155204/new-orleans-will-use-ai-to-answer-911-calls-instead-of-a-human?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([https://slashdot.org/story/26/08/08/2155204/new-orleans-will-use-ai-to-answer-911-calls-instead-of-a-human?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/26/08/08/2155204/new-orleans-will-use-ai-to-answer-911-calls-instead-of-a-human?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [atomstr - RSS/Atom-to-Nostr bridge](https://atomstr.data.haus/) ([https://lobste.rs/s/hzqxq5/atomstr_rss_atom_nostr_bridge](https://lobste.rs/s/hzqxq5/atomstr_rss_atom_nostr_bridge))
+- [Revision Prompting improves industrial LLM processes](https://revisionprompting.info/) ([https://lobste.rs/s/wkx6jf/revision_prompting_improves_industrial](https://lobste.rs/s/wkx6jf/revision_prompting_improves_industrial))
 
-## Cybersecurity and Security Issues
-- [Russia-Sprays Malware Through Public Wi-Fi](https://soylentnews.org/article.pl?sid=26/08/08/0045213&from=rss)
-- [Police Misuse of Flock Camera Systems](https://yro.slashdot.org/story/26/08/08/0453229/more-police-officers-fired-investigated-or-arrested-for-misusing-flock-camera-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Hardware and Security
+- [MAGIC: Malicious Aging in Circuits/Cores](https://dl.acm.org/doi/10.1145/2724718) ([https://lobste.rs/s/nhdcw6/magic_malicious_aging_circuits_cores](https://lobste.rs/s/nhdcw6/magic_malicious_aging_circuits_cores))
+- [Hardware backdoors in some x86 CPUs](https://github.com/xoreaxeaxeax/rosenbridge) ([https://news.ycombinator.com/item?id=49219508](https://news.ycombinator.com/item?id=49219508))
+- [OpenSSH Key Structure Guide](https://sshref.dev/) ([https://lobste.rs/s/lnxdje/openssh_key_structure_guide](https://lobste.rs/s/lnxdje/openssh_key_structure_guide))
 
-## Space and Aerospace
-- [America's First Grid-Scale Sodium-Ion Battery Plant Test](https://hardware.slashdot.org/story/26/08/08/1940232/americas-first-grid-scale-sodium-ion-battery-plant-gets-its-first-big-test?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Voyager 1 FDS Computer Emulator](https://zaneham.github.io/voyager-fds-emulator/)
-- [SpaceX Rocket's Moon Crash](https://science.slashdot.org/story/26/08/08/0410218/before-and-after-views-of-spacex-rockets-moon-crash?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Space and Science
+- [NASA Puts Astronauts' Lives In The Hands Of Tesla's Flaky Cybertruck](https://soylentnews.org/article.pl?sid=26/08/08/0047257&from=rss) ([https://soylentnews.org/article.pl?sid=26/08/08/0047257&from=rss](https://soylentnews.org/article.pl?sid=26/08/08/0047257&from=rss))
+- [America's First Grid-Scale Sodium-Ion Battery Plant Gets Its First Big Test](https://hardware.slashdot.org/story/26/08/08/1940232/americas-first-grid-scale-sodium-ion-battery-plant-gets-its-first-big-test?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([https://hardware.slashdot.org/story/26/08/08/1940232/americas-first-grid-scale-sodium-ion-battery-plant-gets-its-first-big-test?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/26/08/08/1940232/americas-first-grid-scale-sodium-ion-battery-plant-gets-its-first-big-test?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [NASA Figured Out How To Keep Its 48-Year-Old Voyager 2 Probe Running For Yet Another Year](https://science.slashdot.org/story/26/08/08/0415215/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([https://science.slashdot.org/story/26/08/08/0415215/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/26/08/08/0415215/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Environment and Energy
-- [Denmark Requires Oral Defenses to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
-- [Amazon's Data Center Pollution Impact](https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country)
+## Programming and Development
+- [They don't make 'em like Sublime Text anymore](https://dbushell.com/2026/08/07/sublime-text/) ([https://lobste.rs/s/uny1fo/they_don_t_make_em_like_sublime_text](https://lobste.rs/s/uny1fo/they_don_t_make_em_like_sublime_text))
+- [Systemd Dynamic Users (2020)](https://ethulhu.co.uk/systemd-dynamicuser) ([https://lobste.rs/s/kjuxof/systemd_dynamic_users_2020](https://lobste.rs/s/kjuxof/systemd_dynamic_users_2020))
+- [The Object Model in Livelymerge](https://www.inkandswitch.com/livelymerge/notebook/lm-03/) ([https://lobste.rs/s/tiwdxn/object_model_livelymerge](https://lobste.rs/s/tiwdxn/object_model_livelymerge))
 
-## Policy and Society
-- [Maryland Park Closures After Beaver Attacks](https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/)
+## Social and Policy Issues
+- [More Police Officers Fired, Investigated, or Arrested for Misusing Flock Camera Systems](https://yro.slashdot.org/story/26/08/08/0453229/more-police-officers-fired-investigated-or-arrested-for-misusing-flock-camera-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([https://yro.slashdot.org/story/26/08/08/0453229/more-police-officers-fired-investigated-or-arrested-for-misusing-flock-camera-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/26/08/08/0453229/more-police-officers-fired-investigated-or-arrested-for-misusing-flock-camera-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Woman Pulled From Car at Gunpoint By Police After Mistaken Flock Alert - Twice](https://yro.slashdot.org/story/26/08/08/042259/woman-pulled-from-car-at-gunpoint-by-police-after-mistaken-flock-alert---twice?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([https://yro.slashdot.org/story/26/08/08/042259/woman-pulled-from-car-at-gunpoint-by-police-after-mistaken-flock-alert---twice?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/26/08/08/042259/woman-pulled-from-car-at-gunpoint-by-police-after-mistaken-flock-alert---twice?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Three US States to Deploy 60 Mph Drones Armed With Pepper Spray to Neutralize School Shooters](https://soylentnews.org/article.pl?sid=26/08/03/2125201&from=rss) ([https://soylentnews.org/article.pl?sid=26/08/03/2125201&from=rss](https://soylentnews.org/article.pl?sid=26/08/03/2125201&from=rss))
+
+## Unusual Stories
+- [Some Moral and Technical Consequences of Automation (1960)](https://www.cs.umd.edu/users/gasarch/BLOGPAPERS/moral.pdf) ([https://lobste.rs/s/rgzoku/some_moral_technical_consequences](https://lobste.rs/s/rgzoku/some_moral_technical_consequences))
+- [â€˜Farewell, Etaoin Shrdluâ€™](https://archive.org/details/FarewellEtaoinShrdlu) ([https://lobste.rs/s/robrw0/farewell_etaoin_shrdlu](https://lobste.rs/s/robrw0/farewell_etaoin_shrdlu))
+- [Gateway 2000's hilariously bad ads in the 90s (Part II)](https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/) ([https://news.ycombinator.com/item?id=49221220](https://news.ycombinator.com/item?id=49221220))
+
+## Other Notable Articles
+- [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731) ([https://news.ycombinator.com/item?id=49214008](https://news.ycombinator.com/item?id=49214008))
+- [PS3 emulation is fast on ARM now](https://www.youtube.com/watch?v=-aI_XEwmKFk) ([https://lobste.rs/s/ykzv1a/ps3_emulation_is_fast_on_arm_now](https://lobste.rs/s/ykzv1a/ps3_emulation_is_fast_on_arm_now))
+- [BYOC Anywhere: The Spectrum of Bring Your Own Cloud Deployments](https://omnistrate.com/blog/byoc-anywhere-the-spectrum-of-bring-your-own-cloud-deployments) ([https://news.ycombinator.com/item?id=49163466](https://news.ycombinator.com/item?id=49163466))
+- [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute) ([https://news.ycombinator.com/item?id=49225139](https://news.ycombinator.com/item?id=49225139))
+- [US Military's cyber command unit grapples with cluster of deaths by suicide](https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide) ([https://news.ycombinator.com/item?id=49220339](https://news.ycombinator.com/item?id=49220339))
+- [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413) ([https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded](https://lobste.rs/s/9cv8me/nixpkgs_core_team_has_disbanded))
+- [Microsoft, Google, Amazon, Meta and Oracle Expect a Negative Cash Flow of $125 Billion Next Year](https://developers.slashdot.org/story/26/08/08/1727226/microsoft-google-amazon-meta-and-oracle-expect-a-negative-cash-flow-of-125-billion-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([https://developers.slashdot.org/story/26/08/08/1727226/microsoft-google-amazon-meta-and-oracle-expect-a-negative-cash-flow-of-125-billion-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://developers.slashdot.org/story/26/08/08/1727226/microsoft-google-amazon-meta-and-oracle-expect-a-negative-cash-flow-of-125-billion-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed))
