@@ -5,7 +5,7 @@
 
 ## Policy & Governance
 - [Illinois just told every operating system to start reporting your kid's age](https://itsfoss.com/news/illinois-age-verification-bill/) ([comments](https://news.ycombinator.com/item?id=49228663))
-- [Google Should Still Be Forced To Shed Chrome, Advocacy Group Argues](https://tech.slashdot.org/story/26/08/09/0351205/google-should-still-be-forced-to-shed-chrome-advocacy-group-argues?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49228350))
+- [Google Should Still Be Forced To Shed Chrome, Advocacy Group Argues](https://tech.slashdot.org/story/26/08/09/0351205/google-should-stsill-forced-to-shed-chrome-advocacy-group-argues?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49228350))
 
 ## Science & Research
 - [Investigating Power-Confluent Drawings for Network Visualization](https://arxiv.org/pdf/1810.09948)
