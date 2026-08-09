@@ -1,107 +1,33 @@
-# News Summary
+# [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Machine Learning
-- [OpenAI Announces It's Enhancing Security Controls, Pausing Some Work for New AI Model Astra](https://it.slashdot.org/story/26/08/09/1640211/openai-announces-its-enhancing-security-controls-pausing-some-work-for-new-ai-model-astra?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [OpenAI Says Apple 'Is Getting This Wrong' After Trade Secret Lawsuit](https://soylentnews.org/article.pl?sid=26/08/09/013207&from=rss)
-- [An OpenAI Strategist Says AI Labs Should Rival Government Power](https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/)
+## AI and Technology
+- [AI-Powered Browser Just Generates Every Website From Scratch](https://idle.slashdot.org/story/26/08/09/2048241/ai-powered-browser-just-generates-every-website-from-scratch?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://idle.slashdot.org/story/26/08/09/2048241/ai-powered-browser-just-generates-every-website-from-scratch?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Is it all just vapourware?](https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware) ([comments](https://news.ycombinator.com/item?id=49235859))
+- [OpenAI Announces It's Enhancing Security Controls](https://it.slashdot.org/story/26/08/09/1640211/openai-announces-its-enhancing-security-controls-pausing-some-work-for-new-ai-model-astra?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
 - [AI Chatbots Have Failed People in Crisis. Can That be Fixed?](https://soylentnews.org/article.pl?sid=26/08/08/0045213&from=rss)
-- [How OpenAI's Agent Escaped: Sprung by Humans in a Series of Preventable Events](https://soylentnews.org/article.pl?sid=26/08/04/1145222&from=rss)
-- [UnYOLO: Agent credential broker and policy engine for your GitHub account](https://unyolo.io/)
-- [Human vs. AI – Diff-based line-level provenance for text under agentic editing](https://github.com/eighttrigrams/us-vs-them)
-- [Analyzing data from Silicon Valley ventures and founders prosecuted for fraud](https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981)
-- [Silicon Valley misreads science fiction and undermines democracy](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/)
-- [Microsoft, Google, Amazon, Meta and Oracle Expect a Negative Cash Flow of $125 Billion Next Year](https://developers.slashdot.org/story/26/08/08/1727226/microsoft-google-amazon-meta-and-oracle-expect-a-negative-cash-flow-of-125-billion-next-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## Cybersecurity and Privacy
-- [Excuses Like 'AI Did It' Don't Exist In The Eyes Of The Law](https://soylentnews.org/article.pl?sid=26/08/04/185400&from=rss)
-- [Russian Spies Turn Public Wi-Fi Into Malware Delivery Systems](https://soylentnews.org/article.pl?sid=26/08/07/022233&from=rss)
-- [Cyberattacks Hit Water Facilities in Seven States Across the US](https://soylentnews.org/article.pl?sid=26/08/06/131300&from=rss)
-- [Iran-Linked CyberAv3ngers Suspected In Attacks On Minnesota Water Systems](https://soylentnews.org/article.pl?sid=26/08/03/2129241&from=rss)
-- [Police National Legal Database Confirms Data Theft After Dark Web Leak](https://soylentnews.org/article.pl?sid=26/08/08/0049242&from=rss)
 - [AI Slop Pollutes the CVE Pipeline With Fake Vulns](https://soylentnews.org/article.pl?sid=26/08/07/0157223&from=rss)
-- [Flock Camera Vandalism Continues Around America, While 100 Communities Reject ALPRs](https://yro.slashdot.org/story/26/08/08/0453229/more-police-officers-fired-investigated-or-arrested-for-misusing-flock-camera-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [More Police Officers Fired, Investigated, or Arrested for Misusing Flock Camera Systems](https://yro.slashdot.org/story/26/08/08/0453229/more-police-officers-fired-investigated-or-arrested-for-misusing-flock-camera-systems?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Judge Refuses XAI's Request to Stop a Minnesota Law Banning 'Nudify' Apps](https://soylentnews.org/article.pl?sid=26/08/04/0723205&from=rss)
 
-## Hardware and Electronics
-- [RAMageddon? 2027 Memory Capacity Reportedly Sold Out](https://hardware.slashdot.org/story/26/08/09/0547220/ramageddon-2027-memory-capacity-reportedly-sold-out?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [America's First Grid-Scale Sodium-Ion Battery Plant Gets Its First Big Test](https://hardware.slashdot.org/story/26/08/08/1940232/americas-first-grid-scale-sodium-ion-battery-plant-gets-its-first-big-test?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Windows 11's built-in Weather app wastes more than 1 GB of RAM](https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html)
-- [Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone](https://www.techeblog.com/tom-stanton-supersonic-trebuchet/)
-- [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)
-- [Triton: DirectX 11 driver for QEMU](https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/)
+## Cybersecurity and Surveillance
+- [Ransomware gangs skip the CEO, head straight for the 40-something IT manager](https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499) ([comments](https://news.ycombinator.com/item?id=49234675))
+- [Flock Camera Vandalism Continues Around America](https://yro.slashdot.org/story/26/08/08/059204/flock-camera-vandalism-continues-around-america-while-100-communities-reject-alprs?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/08/08/059204/flock-camera-vandalism-continues-around-america-while-100-communities-reject-alprs?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Everything you do is being recorded](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/) ([comments](https://news.ycombinator.com/item?id=49230477))
 
-## Space and Science
-- [The First Self-Driving Vehicle On Mars Has Proven To Be A Smashing Success](https://soylentnews.org/article.pl?sid=26/08/09/010257&from=rss)
-- [An Abandoned SpaceX Rocket Crashed Into the Moon](https://soylentnews.org/article.pl?sid=26/08/06/101249&from=rss)
-- [NASA's Swift Rescue Slips To Late August As LINK Battles Its Spin](https://soylentnews.org/article.pl?sid=26/08/04/0720220&from=rss)
-- [Reaction Wheel Failures Leave Swift Rescue Mission Spinning In Orbit](https://soylentnews.org/article.pl?sid=26/08/03/2132222&from=rss)
-- [US Military GPS Jamming Exercise Suspected of Contributing to Civilian Plane Crash in New Mexico](https://soylentnews.org/article.pl?sid=26/08/06/1423227&from=rss)
-- [Brain Activity Reveals the Melodies That People Imagine](https://science.slashdot.org/story/26/08/09/0050249/brain-activity-reveals-the-melodies-that-people-imagine?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
-- [Taxi drivers rarely die of Alzheimer's](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650)
-- [The End Of August Will Feature A Lunar Eclipse Visible All Over North America](https://soylentnews.org/article.pl?sid=26/08/09/0110234&from=rss)
+## Science and Space
+- [New Zealand lost its music media, and what we're building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media) ([comments](https://news.ycombinator.com/item?id=49235641))
+- [The tragedy of the commons, AI edition](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition) ([comments](https://news.ycombinator.com/item?id=49234980))
+- [The first self-driving vehicle on Mars has proven to be a smashing success](https://soylentnews.org/article.pl?sid=26/08/09/010257&from=rss)</
 
-## Linux and Open Source
-- [Spaced Linux: A New Devuan-Based, User-Friendly Desktop Distro](https://linux.slashdot.org/story/26/08/09/0226209/slashdot-reader-builds-spaced-linux-a-new-devuan-based-user-friendly-desktop-distro?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Desktop Linux Just Cracked 10% Market Share - and Windows 11 is Mostly the Reason](https://soylentnews.org/article.pl?sid=26/08/06/1421244&from=rss)
-- [GNOME Receiving Additional Design Help From Germany's Sovereign Tech Agency Fellowship](https://news.slashdot.org/story/26/08/09/0519238/gnome-receiving-additional-design-help-from-germanys-sovereign-tech-agency-fellowship?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [PostmarketOS in 2026-07: libcamera 0.7.2](https://postmarketos.org/blog/2026/08/06/pmOS-update-2026-07/)
-- [On Arch Linux scripts and hooks](https://devblog.archlinux.page/2026/on-scripts-and-hooks/)
-- [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
-- [Port the Enlightenment desktop environment to NetBSD](https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment)
-- [ddisasm: A fast and accurate disassembler](https://github.com/GrammaTech/ddisasm)
-- [Rails is done](https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/)
-- [Tracking down a Zsh history data loss bug](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/)
-
-## Programming and Development
-- [OpenChamber: An Agentic Development Environment](https://openchamber.dev/)
-- [A partial digestion of the HRT counterexample](https://terrytao.wordpress.com/2026/08/06/a-partial-digestion-of-the-hrt-counterexample/)
-- [Every fast write moves work somewhere else](https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/)
-- [Show HN: A replayable A2A jury for tracing how agents influence decisions](https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom)
-- [Show HN: Today's cities on a globe of Earth's tectonic past and future](https://douwe.com/projects/tectonic_globe)
-- [Show HN: A Project Oberon System version running on RISC-V instead of RISC-5](https://github.com/rochus-keller/OberonSystem/tree/op2-rv32)
-- [Show HN: Airy – Free, fast, and simple voice content creation](https://airy.so)
-- [Relying on Go](https://antonz.org/relying-on-go/)
-- [Cross-compilation with Wails (2025)](https://chriswheeler.dev/posts/cross-compilation-with-wails/)
-- [Human vs. AI – Diff-based line-level provenance for text under agentic editing](https://github.com/eighttrigrams/us-vs-them)
-- [If experience is the goal, then you always win](https://www.startingfromnix.com/p/if-experience-is-the-goal-then-you)
-- [Getting off the Modernization Treadmill](https://www.youtube.com/watch?v=vRJVw8Di-4s)
-- [I think the vibecoding tag has gotten out of hand](https://lobste.rs/s/he9j7y/i_think_vibecoding_tag_has_gotten_out_hand)
-- [Who Should Pay For Source Code Availability?](https://kristoff.it/blog/source-code-availability/)
-- [3G at last](https://nickvsnetworking.com/3g-at-last/)
-- [My server is a phone now](https://seg6.space/posts/phone-server/)
-- [Multistack Concatenative Programming Languages](https://www.sheeeeeeeeep.art/multistack-catlangs.html)
-- [Dithered QR codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
-- [Counting the days, revisited](https://dotat.at/@/2026-08-09-rata-die.html)
-- [Some software talks I like](https://char.lt/blog/2026/08/talks-i-like/)
-- [The Alpha 21264 CPU: NT's Greatest RISC (1998)](https://halfhill.com/byte/1998-12_alpha.html)
-- [Quake Celebrates 30th Anniversary: New Official Episode With New Maps and Mechanics](https://games.slashdot.org/story/26/08/09/0628245/quake-celebrates-30th-anniversary-new-official-episode-with-new-maps-and-mechanics?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Mea Culpa - Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
-- [The Grid That Doubles the Strength of the Ground](https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground)
-- [Crickets as Pets](https://en.wikipedia.org/wiki/Crickets_as_pets)
-- [Cool URIs Don't Change (1998)](https://www.w3.org/Provider/Style/URI)
-- [John C. Lilly on solid state intelligence and the elimination of man (1978)](https://kibotronics.net/unlisted/lilly-machines/)
-- [Literary Sins](https://www.thedial.world/articles/news/seven-literary-sins)
-
-## Business and Economics
-- [Cloud Giants Pour Nearly $600B Into Capex as AI Demand Surges](https://soylentnews.org/article.pl?sid=26/08/06/034600&from=rss)
-- [Tesla Burns Through a Billion as Musk Bets the Farm on Chips and Bots](https://soylentnews.org/article.pl?sid=26/08/03/044211&from=rss)
-- [UK Wants Datacenters To Pay A Fee For Grid Connection Requests](https://soylentnews.org/article.pl?sid=26/08/05/024251&from=rss)
-- [UK Mulls Making Employers Ask Before Installing Bossware](https://soylentnews.org/article.pl?sid=26/08/06/131300&from=rss)
-- [Tech Buyers Are Opting for Sovereignty From Day One](https://soylentnews.org/article.pl?sid=26/08/05/181600&from=rss)
-- [Google Should Still Be Forced To Shed Chrome, Advocacy Group Argues](https://tech.slashdot.org/story/26/08/09/0351205/google-should-still-be-forced-to-shed-chrome-advocacy-group-argues?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Technology and Innovation
+- [Spaced Linux, a New Devuan-Based Desktop Distro](https://linux.slashdot.org/story/26/08/09/0226209/slashdot-reader-builds-spaced-linux-a-new-devuan-based-user-friendly-desktop-distro?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://linux.slashdot.org/story/26/08/09/0226209/slashdot-reader-builds-spaced-linux-a-new-devuan-based-user-friendly-desktop-distro?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [OpenChamber: An Agentic Development Environment](https://openchamber.dev/) ([comments](https://news.ycombinator.com/item?id=49233448))
+- [Saying No](https://rozumem.xyz/posts/19) ([comments](https://news.ycombinator.com/item?id=49234379))
+- [Dithered QR codes](https://www.andrewt.net/dithered-qr-codes/wtf/) ([comments](https://lobste.rs/s/urdoby/dithered_qr_codes))
 
 ## Society and Culture
-- [New Orleans Will Use AI To Answer 911 Calls Instead of a Human](https://slashdot.org/story/26/08/08/2155204/new-orleans-will-use-ai-to-answer-911-calls-instead-of-a-human?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Backlash Against BMW for Ads in Cars](https://soylentnews.org/article.pl?sid=26/08/07/0145239&from=rss)
-- [America Bans Imported Robots Due To Supply Chain And Security Risks](https://soylentnews.org/article.pl?sid=26/08/03/2126256&from=rss)
-- [Three US States to Deploy 60 Mph Drones Armed With Pepper Spray to Neutralize School Shooters](https://soylentnews.org/article.pl?sid=26/08/03/2125201&from=rss)
-- [The US Government Just Banned Roombas](https://soylentnews.org/article.pl?sid=26/08/03/0442238&from=rss)
-- [Paper Goods Company Is Investigating an Alternative to Trees](https://news.slashdot.org/story/26/08/08/065247/paper-goods-company-is-investigating-an-alternative-to-trees?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Prime Minister Leaves Door Open For Reviewing Policy of No Nuclear Weapons in Japan](https://tech.slashdot.org/story/26/08/08/0217224/prime-minister-leaves-door-open-for-reviewing-policy-of-no-nuclear-weapons-in-japan?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Texas Halts Data Center Connections to Power Grid Amid Overwhelming Demand](https://soylentnews.org/article.pl?sid=26/08/07/0152201&from=rss)
-- [Everything Counts. in Large Amounts. Even AI Tokens.](https://soylentnews.org/article.pl?sid=26/08/06/224300&from=rss)
+- [Taxi drivers rarely die of Alzheimer's](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650) ([comments](https://news.ycombinator.com/item?id=49232253))
+- [How not to turn ideologically crazy](https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn) ([comments](https://news.ycombinator.com/item?id=49235349))
+- [Why I Hate 'Boring' (And Why You Should Too)](https://soylentnews.org/article.pl?sid=26/08/09/0505220&from=rss)</
 
-## Ask HN and Community Discussions
-- [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423)
+## Industry and Business
+- [Google Should Still Be Forced To Shed Chrome](https://tech.slashdot.org/story/26/08/09/0351205/google-should-still-be-forced-to-shed-chrome-advocacy-group-argues?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/08/09/0351205/google-should-still-be-forced-to-shed-chrome-advocacy-group-argues?utm_source=rss1.0mainlinkanon&utm_medium=feed))
