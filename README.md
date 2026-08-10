@@ -16,7 +16,7 @@
 - [NASA Boss Balks At Billion-Dollar Estimate For Recycled Moon Rover](https://soylentnews.org/article.pl?sid=26/08/09/2116241&from=rss)
 - [Quake Celebrates 30th Anniversary: New Official Episode With New Maps and Mechanics](https://games.slashdot.org/story/26/08/09/0628245/quake-celebrates-30th-anniversary-new-official-episode-with-new-maps-and-mechanics?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Turn satellite imagery into a paper globe you fold yourself](https://foldingglobes.com/)
-- [Japanese court overturns Red RAW video patent](https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/)
+- [Japanese court overturns Red RAW video patent](https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldn't-overturn-a-red-raw-video-patent/)
 
 ## Economic Trends & Labor
 - [The Philippines' big offshoring industry is growing despite AI](https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai)
