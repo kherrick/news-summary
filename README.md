@@ -1,22 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI Innovations & Policy
-- [AI Assistant Hacks Gym Website In First Known Australian Autonomous Cyber Attack](https://it.slashdot.org/story/26/08/10/0518257/ai-assistant-hacks-gym-website-in-first-known-australian-autonomous-cyber-attack?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/26/08/10/0518257/ai-assistant-hacks-gym-website-in-first-known-australian-autonomous-cyber-attack?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [OpenAI's New Device Will Be Hockey Puck-Sized and Cost over $300](https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300) ([comments](https://news.ycombinator.com/item?id=49245062))
-- [Mistral Patent for "Code Implemented Tool Calls"](https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html) ([comments](https://news.ycombinator.com/item?id=49243397))
-- [Meta Muse Glimmer — open weights 30B local coding model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) ([comments](https://news.ycombinator.com/item?id=49241679))
-- [EU Announces New Rules On AI Transparency](https://soylentnews.org/article.pl?sid=26/08/09/0113218&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/09/0113218&from=rss))
+## AI and Technology
+- [Launch HN: Stoa Markets (YC S26) — A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com)
+- [Show HN: Ante, a coding agent in a single binary that runs offline](https://github.com/AntigmaLabs/ante)
+- [What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)
+- [Explore Claude/GPT Knowledge Cutoffs and Pre-Training Timelines](https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs)
+- [Humanising LLM Outputs Is Dumb](https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb)
+- [AI Chatbots Have Failed People in Crisis. Can That be Fixed?](https://soylentnews.org/article.pl?sid=26/08/08/0045213&from=rss)
 
-## Cybersecurity & Privacy
-- [Pervert glasses: Backlash against Meta's smart glasses grows](https://www.seattletimes.com/business/technology/pervert-glasses-backlash-against-metas-smart-glasses-grows/) ([comments](https://news.ycombinator.com/item?id=49244783))
-- [Flock Accused of Reactivating Its Cameras Without Notifying a Town](https://yro.slashdot.org/story/26/08/08/0621205/flock-accused-of-reactivating-its-cameras-without-notifying-a-town?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/08/08/0621205/flock-accused-of-reactivating-its-cameras-without-notifying-a-town?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Police National Legal Database Confirms Data Theft After Dark Web Leak](https://soylentnews.org/article.pl?sid=26/08/08/0049242&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/08/0049242&from=rss))
-- [Russian Spies Turn Public Wi-Fi Into Malware Delivery Systems](https://soylentnews.org/article.pl?sid=26/08/07/022233&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/07/022233&from=rss))
-- [AI Slop Pollutes the CVE Pipeline With Fake Vulns](https://soylentnews.org/article.pl?sid=26/08/07/0157223&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/07/0157223&from=rss))
+## Science and Space
+- [The First Self-Driving Vehicle On Mars Has Proven To Be A Smashing Success](https://soylentnews.org/article.pl?sid=26/08/09/010257&from=rss)
+- [NASA Boss Balks At Billion-Dollar Estimate For Recycled Moon Rover](https://soylentnews.org/article.pl?sid=26/08/09/2116241&from=rss)
+- [An Abandoned SpaceX Rocket Crashed Into the Moon](https://soylentnews.org/article.pl?sid=26/08/06/101249&from=rss)
+- [The End Of August Will Feature A Lunar Eclipse Visible All Over North America](https://soylentnews.org/article.pl?sid=26/08/09/0110234&from=rss)
+- [China Launches Mysterious Probe Into Security of Palo Alto Networks' Products](https://soylentnews.org/article.pl?sid=26/08/10/0247256&from=rss)
 
-## Space, Science & Environment
-- [Magnitude 7.4 Earthquake — 5 km S of San José del Palmar, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive) ([comments](https://news.ycombinator.com/item?id=49245251))
-- [NASA Boss Balks At Billion-Dollar Estimate For Recycled Moon Rover](https://soylentnews.org/article.pl?sid=26/08/09/2116241&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/09/2116241&from=rss))
-- [Abandoned SpaceX Rocket Crashed Into the Moon](https://soylentnews.org/article.pl?sid=26/08/06/101249&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/06/101249&from=rss))
-- [Toxic Underground Fires Are Spreading at California Landfills](https://news.slashdot.org/story/26/08/09/2232249/toxic-underground-fires-are-spreading-at-california-landfills?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/08/09/2232249/toxic-underground-fires-are-spreading-at-california-landfills?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [The First Self-Driving Vehicle On Mars Has Proven To Be A Smashing Success](https://soylentnews.org/article.pl?sid=26/08/09/010257&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/09/010257&from=rss))
+## Cybersecurity
+- [Thousands Of Servers Can Be Backdoored By Exploiting Buggy Motherboard Controllers](https://soylentnews.org/article.pl?sid=26/08/10/0236212&from=rss)
+- [Police National Legal Database Confirms Data Theft After Dark Web Leak](https://soylentnews.org/article.pl?sid=26/08/08/0049242&from=rss)
+- [Russia Spies Turn Public Wi-Fi Into Malware Delivery Systems](https://soylentnews.org/article.pl?sid=26/08/08/0045213&from=rss)
+- [AI Slop Pollutes the CVE Pipeline With Fake Vulns](https://soylentnews.org/article.pl?sid=26/08/07/0157223&from=rss)
+- [OpenAI Reveals its Rogue Agent Swarm Went a Little Bit Borg Ahead of Hugging Face Hack](https://soylentnews.org/article.pl?sid=26/08/06/1431225&from=rss)
+
+## Environment and Policy
+- [Texas Halts Data Center Connections to Power Grid Amid Overwhelming Demand](https://soylentnews.org/article.pl?sid=26/08/07/0152201&from=rss)
+- [UK Wants Datacenters To Pay A Fee For Grid Connection Requests](https://soylentnews.org/article.pl?sid=26/08/05/024251&from=rss)
+- [Tech Buyers Are Opting for Sovereignty From Day One](https://soylentnews.org/article.pl?sid=26/08/04/1147244&from=rss)
+
+## Health and Society
+- [Midlife Vascular Risk Burden and Dementia-Free Survival Years](https://www.neurology.org/doi/10.1212/WN9.0000000000000152)
+- [After Price Hikes Due To AI Data Centers, Firms To Pay For All Dedicated Upstream Infrastructure](https://soylentnews.org/article.pl?sid=26/08/10/0247256&from=rss)
+- [Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints](https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/)
+
+## Tech & Infrastructure
+- [Docker Sandboxes — Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
+- [GitHub Actions needs OIDC audience constraints](https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints)
+- [Mistral Patent for "Code implemented tool calls"](https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html)
+- [Microsoft Responds to Outcry After Quietly Installing Beta 'Photos' App on Enterprise Machines](https://tech.slashdot.org/story/26/08/10/0229237/microsoft-responds-to-outcry-after-quietly-installing-beta-photos-app-on-enterprise-machines?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [IBM i (OS/400) The Database Operating System](https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/)
