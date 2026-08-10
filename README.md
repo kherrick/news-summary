@@ -1,31 +1,37 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
 ## AI and Emerging Technologies
-- [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
-- [Auto mode is now the default in Claude Code](https://claude.com/blog/auto-mode-default-in-claude-code)
-- [Make the PDS Your Own: Customization and Metrics](https://atproto.com/blog/pds-customization-and-metrics)
-- [OpenChamber: An Agentic Development Environment](https://openchamber.dev/)
+- [OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas](https://openai.com/index/responsible-ai-infrastructure-texas/) ([comments](https://news.ycombinator.com/item?id=49244308))
+- [Meta's claim against closed AI rivals](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878) ([comments](https://news.ycombinator.com/item?id=49243880))
+- [Mistral's code-tool-calling patent](https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html)
+- [Meta Muse Glimmer model (30B weights)](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) ([comments](https://news.ycombinator.com/item?id=49241679))
+- [Vector coding tool Patents](https://news.ycombinator.com/item?id=49243397)
+- [Docker Sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/) ([comments](https://news.ycombinator.com/item?id=49239751))
+- [Prompt language efficiency research](https://danluu.com/pl-tokens/)
 
 ## Cybersecurity & Privacy
-- [China Launches Mysterious Probe Into Security of Palo Alto Networks' Products](https://soylentnews.org/article.pl?sid=26/08/09/2121234&from=rss)
-- [Privacy Backlash Explodes Against Meta's Smart Glasses](https://yro.slashdot.org/story/26/08/10/0152228/privacy-backlash-explodes-against-metas-smart-glasses?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [AI Slop Pollutes the CVE Pipeline With Fake Vulns](https://soylentnews.org/article.pl?sid=26/08/07/0157223&from=rss)
-- [Microsoft Responds to Outcry After Quietly Installing Beta 'Photos' App on Enterprise Machines](https://tech.slashdot.org/story/26/08/10/0229237/microsoft-responds-to-outcry-after-quietly-installing-beta-photos-app-on-enterprise-machines?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [60k+ AI meeting recordings exposed](https://bobdahacker.com/blog/tldv-hack) ([comments](https://news.ycombinator.com/item?id=49243029))
+- [California landfill toxic fires](https://news.slashdot.org/story/26/08/09/2232249) ([comments](https://news.slashdot.org/story/26/08/09/2232249))
+- [FACEBOOK smart glasses privacy backlash](https://yro.slashdot.org/story/26/08/10/0152228) ([comments](https://yro.slashdot.org/story/26/08/10/0152228))
+- [Chip vulnerability risks](https://news.ycombinator.com/item?id=49242739) ([comments](https://news.ycombinator.com/item?id=49242739))
+- [National security data leak via Moon Rover](https://soylentnews.org/article.pl?sid=26/08/10/0236212) ([comments](https://soylentnews.org/article.pl?sid=26/08/10/0236212))
 
-## Space and Exploration
-- [NASA Boss Balks At Billion-Dollar Estimate For Recycled Moon Rover](https://soylentnews.org/article.pl?sid=26/08/09/2116241&from=rss)
-- [Quake Celebrates 30th Anniversary: New Official Episode With New Maps and Mechanics](https://games.slashdot.org/story/26/08/09/0628245/quake-celebrates-30th-anniversary-new-official-episode-with-new-maps-and-mechanics?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Turn satellite imagery into a paper globe you fold yourself](https://foldingglobes.com/)
-- [Japanese court overturns Red RAW video patent](https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/)
+## Space & Exploration
+- [NASA's solar-powered Mars rover success](https://soylentnews.org/article.pl?sid=26/08/09/2116241) ([comments](https://soylentnews.org/article.pl?sid=26/08/09/2116241))
+- [SpaceX's Louisiana marshland acquisition](https://soylentnews.org/article.pl?sid=26/08/06/0212222) ([comments](https://news.ycombinator.com/item?id=49243029))
+- [Crashed SpaceX rocket on Moon](https://soylentnews.org/article.pl?sid=26/08/07/101249) ([comments](https://news.ycombinator.com/item?id=49241846))
 
 ## Economic Trends & Labor
-- [The Philippines' big offshoring industry is growing despite AI](https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai)
-- [Why do we assume everyone should be working?](https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/)
-- [Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)](https://www.nber.org/papers/w35560)
-- [The tragedy of the commons, AI edition](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
+- [Data center CPU costs surge 600B](https://soylentnews.org/article.pl?sid=26/08/05/029207) ([comments](https://news.ycombinator.com/item?id=49243029))
+- [UK bossware legislation demands](https://soylentnews.org/article.pl?sid=26/08/05/124251) ([comments](https://soylentnews.org/item?id=49243397))
+- [Texas power grid data center limits](https://soylentnews.org/article.pl?sid=26/08/07/0152201) ([comments](https://news.ycombinator.com/item?id=49242739))
 
 ## Policy & Regulation
-- [EU Announces New Rules On AI Transparency](https://soylentnews.org/article.pl?sid=26/08/09/0113218&from=rss)
-- [UK Mulls Making Employers Ask Before Installing Bossware](https://soylentnews.org/article.pl?sid=26/08/05/124251&from=rss)
-- [UK Wants Datacenters To Pay A Fee For Grid Connection Requests](https://soylentnews.org/article.pl?sid=26/08/05/024251&from=rss)
-- [Excuses Like 'AI Did It' Don't Exist In The Eyes Of The Law](https://soylentnews.org/article.pl?sid=26/08/03/2135236&from=rss)
+- [EU AI transparency mandates](https://soylentnews.org/article.pl?sid=26/08/09/0113218) ([comments](https://news.ycombinator.com/item?id=49241679))
+- [XAI vs Minnesota AI nudes law](https://soylentnews.org/article.pl?sid=26/08/04/0723205) ([comments](https://news.ycombinator.com/item?id=49241846))
+- [US robot import ban](https://soylentnews.org/article.pl?sid=26/08/03/2126256) ([comments](https://news.ycombinator.com/item?id=49241846))
+
+## Unique Developments
+- [50k unique boat names database](https://www.beautifulpublicdata.com/boat-names/) ([comments](https://news.ycombinator.com/item?id=49243029))
+- [Zsh history corruption bug](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/) ([comments](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/))
+- [1954 Japanese parametron computer](https://ethw.org/Milestones:Parametron,_1954) ([comments](https://news.ycombinator.com/item?id=49241846))
