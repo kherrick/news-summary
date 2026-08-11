@@ -1,35 +1,47 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
 ## AI & Machine Learning
-- [Nvidia Nemotron 3.5 Lightning](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4) ([comments]https://news.ycombinator.com/item?id=49257876)
-- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) ([comments]https://news.ycombinator.com/item?id=49257377)
-- [Apple Silicon and macOS VMs: 11-16% Faster LLM Inference with Llama.cpp](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md) ([comments]https://news.ycombinator.com/item?id=49259339)
-- [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c) ([comments]https://news.ycombinator.com/item?id=49252179)
+- [Nvidia Nemotron 3.5 Lightning](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4) ([comments](https://news.ycombinator.com/item?id=49257947))
+- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/)
+- [Meta's 'Open' Muse Glimmer Model Can Run On a Single Computer](https://tech.slashdot.org/story/26/08/10/163237/metas-open-muse-glimmer-model-can-run-on-a-single-computer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [How Claude marks AI-generated content](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content) ([comments](https://news.ycombinator.com/item?id=49250109))
+- [Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?](https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave) ([comments](https://news.ycombinator.com/item?id=49258581))
+- [OpenAI Reveals its Rogue Agent Swarm Went a Little Bit Borg Ahead of Hugging Face Hack](https://soylentnews.org/article.pl?sid=26/08/06/1431225&from=rss)
 
-## Health & Society
-- [England Set To Eliminate Hepatitis C](https://science.slashdot.org/story/26/08/11/0544250/england-set-to-eliminate-hepatitis-c?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments]https://science.slashdot.org/story/26/08/11/0544250/england-set-to-eliminate-hepatitis-c?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [University of Michigan Drops First-Semester Grades To'Curb Mental Health Crisis](https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4) ([comments]https://news.ycombinator.com/item?id=49260250)
-- [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html) ([comments]https://news.ycombinator.com/item?id=49254880)
-- [The US tried to stop cartel money-laundering; devastated mom-and-pop businesses](https://www.theguardian.com/us-news/2026/aug/11/us-mexico-border-area-money-transfer-rule-change-small-businesses) ([comments]https://news.ycombinator.com/item?id=49258970)
-- [Reddit Bans 11-Year Account for GPL Game Post, Testing the EU's DSA](https://tech.slashdot.org/story/26/08/11/0532213/reddit-bans-11-year-account-for-gpl-game-post-testing-the-eus-dsa?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments]https://tech.slashdot.org/story/26/08/11/0532213/reddit-bans-11-year-account-for-gpl-game-post-testing-the-eus-dsa?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Tech Policy & Regulation
+- [France Bans Unsolicited Telemarketing Calls](https://mobile.slashdot.org/story/26/08/11/1657250/france-bans-unsolicited-telemarking-calls?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49254880))
+- [Why 'Click-to-Cancel' Rules Are Popping Up Across the US](https://soylentnews.org/article.pl?sid=26/08/10/1129225&from=rss)
+- [EU Announces New Rules On AI Transparency](https://soylentnews.org/article.pl?sid=26/08/09/0113218&from=rss)
 
-## Technology & Computing
-- [Show HN: Git-knife edit commit messages, authors, and dates like a spreadsheet](https://github.com/TheRealYT/git-knife) ([comments]https://news.ycombinator.com/item?id=49259611)
-- [msword: Port of Microsoft Word 1.1a to x64](https://github.com/jmarshall23/msword) ([comments]https://lobste.rs/s/8k3c7u/msword_port_microsoft_word_1_1a_x64)
-- [GNOME Shell Design Dreams](https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/) ([comments]https://lobste.rs/s/b3uky6/gnome_shell_design_dreams)
-- [The Roboguard Revolution Is Short-Circuiting](https://hardware.slashdot.org/story/26/08/11/0538200/the-roboguard-revolution-is-short-circuiting?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments]https://hardware.slashdot.org/story/26/08/11/0538200/the-roboguard-revolution-is-short-circuiting?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Reviewing code is a skill](https://typesanitizer.com/blog/code-review.html) ([comments]https://lobste.rs/s/gyxkma/reviewing_code_is_skill)
-- [Squeak 6.1](https://squeak.org/release_notes/6.1/) ([comments]https://lobste.rs/s/tgpjez/squeak_6_1)
+## Developer Tools & Programming
+- [Git-knife – edit commit messages, authors, and dates like a spreadsheet](https://github.com/TheRealYT/git-knife) ([comments](https://news.ycombinator.com/item?id=49259611))
+- [The fastest double-to-string algorithm you've never heard of](https://vitaut.net/posts/2026/yy-dtoa/)
+- [Performance impact of Alignment](https://eme64.github.io/blog/2026/01/12/Alignment-Performance.html)
+- [Squeak 6.1](https://squeak.org/release_notes/6.1/)
+- [Faster floating point math with Rust's new API](https://pythonspeed.com/articles/faster-float-math-rust/) ([comments](https://news.ycombinator.com/item?id=49196581))
+- [Chicken Scheme 6.0 released](https://code.call-cc.org/releases/6.0.0/NEWS)
 
-## Science & Space
-- [$580M undersea cable rerouted to avoid the grave of Dobby the House Elf](https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site) ([comments]https://news.ycombinator.com/item?id=49258202)
-- [NASA Puts Astronauts Lives In The Hands Of Tesla’s Flaky Cybertruck](https://soylentnews.org/article.pl?sid=26/08/08/0047257&from=rss) ([comments]https://soylentnews.org/article.pl?sid=26/08/08/0047257&from=rss)
-- [An Abandoned SpaceX Rocket Crashed Into the Moon](https://soylentnews.org/article.pl?sid=26/08/06/101249&from=rss) ([comments]https://soylentnews.org/article.pl?sid=26/08/06/101249&from=rss)
-- [The End Of August Will Feature A Lunar Eclipse Visible All Over North America](https://soylentnews.org/article.pl?sid=26/08/09/0110234&from=rss) ([comments]https://soylentnews.org/article.pl?sid=26/08/09/0110234&from=rss)
+## Hardware & Computing
+- [Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md) ([comments](https://news.ycombinator.com/item?id=49259339))
+- [Reducing Graphics API Complexity: A Clean Slate Design for Modern GPUs](https://www.youtube.com/watch?v=aQv9pUl9PBM)
+- [The Roboguard Revolution Is Short-Circuiting](https://hardware.slashdot.org/story/26/08/11/0538200/the-roboguard-revolution-is-short-circuiting?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c) ([comments](https://news.ycombinator.com/item?id=49252179))
+- [Launch HN: Keet (YC S24) – An app to create video courses on anything](https://www.trykeet.com/) ([comments](https://news.ycombinator.com/item?id=49259309))
 
-## Entertainment & Culture
-- [Show HN: Write.md, a free, open-source, themeable Markdown editor for macOS](https://writemd.app/) ([comments]https://news.ycombinator.com/item?id=49258011)
-- [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/) ([comments]https://news.ycombinator.com/item?id=49251179)
-- [Stowaway – Take the window seat on any plane or satellite overhead](https://stowaway.live/) ([comments]https://news.ycombinator.com/item?id=49209918)
-- [Bevy's Sixth Birthday](https://bevy.org/news/bevys-sixth-birthday/) ([comments]https://lobste.rs/s/oppmip/bevy_s_sixth_birthday)
-- [The mechanical miracle that ruined Mark Twain’s life](https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined) ([comments]https://news.ycombinator.com/item?id=49184220)
+## Science & Health
+- [England Set To Eliminate Hepatitis C](https://science.slashdot.org/story/26/08/11/0544250/england-set-to-eliminate-hepatitis-c?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [England set to be one of the first countries to eliminate hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o) ([comments](https://news.ycombinator.com/item?id=49257377))
+- [Taxi Drivers Rarely Die of Alzheimer's](https://science.slashdot.org/story/26/08/11/0515205/taxi-drivers-rarely-die-of-alzheimers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## Security & Privacy
+- [Cyber Vulnerability Sweep Picks Up Royal Navy Drones Sending Data To China](https://tech.slashdot.org/story/26/08/10/2043251/cyber-vulnerability-sweep-picks-up-royal-navy-drones-sending-data-to-china?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [A researcher bought noreply.net. Companies started sending him secrets](https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/) ([comments](https://lobste.rs/s/exgfc0/researcher_bought_noreply_net_companies))
+- [Court Orders Meta to Pay an Additional $567 Million in New Mexico Child Safety Case](https://soylentnews.org/article.pl?sid=26/08/10/118233&from=rss) ([comments](https://news.ycombinator.com/item?id=49259043))
+- [AI Assistant Hacks Gym Website In First Known Australian Autonomous Cyber Attack](https://it.slashdot.org/story/26/08/10/0518257/ai-assistant-hacks-gym-website-in-first-known-australian-autonomous-cyber-attack?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## Open Source Projects
+- [Show HN: Write.md, a free, open-source, themeable Markdown editor for macOS](https://writemd.app/) ([comments](https://news.ycombinator.com/item?id=49258011))
+- [msword: Port of Microsoft Word 1.1a to x64](https://github.com/jmarshall23/msword)
+- [Jolt: Clojure compiler implemented with Chez Scheme](https://jolt-lang.github.io) ([comments](https://news.ycombinator.com/item?id=49223965))
+- [No, local models will not win](https://www.seangoedecke.com/local-models-will-not-win/) ([comments](https://news.ycombinator.com/item?id=49257908))
+- [GNOME Shell Design Dreams](https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/)
