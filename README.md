@@ -44,4 +44,4 @@
 - [msword: Port of Microsoft Word 1.1a to x64](https://github.com/jmarshall23/msword)
 - [Jolt: Clojure compiler implemented with Chez Scheme](https://jolt-lang.github.io) ([comments](https://news.ycombinator.com/item?id=49223965))
 - [No, local models will not win](https://www.seangoedecke.com/local-models-will-not-win/) ([comments](https://news.ycombinator.com/item?id=49257908))
-- [GNOME Shell Design Dreams](https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/)
+- [GNOME Shell Design Dreams](https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/)])
