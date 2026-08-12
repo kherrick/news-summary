@@ -1,46 +1,25 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## 2026-08-11
-- [US hires over 2k video gamers as air traffic controllers](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/)
-- [Linux Desktop Use Surged To 22% On One Workday](https://linux.slashdot.org/story/26/08/11/2047228/linux-desktop-use-surged-to-22-on-one-workday-cloudflare-data-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Freenet Creator Ian Clarke Shares Progress on Its New Decentralized Network](https://tech.slashdot.org/story/26/08/11/2030205/freenet-creator-ian-clarke-shares-progress-on-its-new-decentralized-network?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## AI and Machine Learning Innovations
+- [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
+- [Linus Torvalds Says AI Has Made 'Huge' Linux Kernel Updates The New Normal](https://soylentnews.org/article.pl?sid=26/08/10/1132250&from=rss)
 - [Google Gemini Hits 1 Billion Users In Record Time](https://tech.slashdot.org/story/26/08/11/2020246/google-gemini-hits-1-billion-users-in-record-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices On a Call](https://it.slashdot.org/story/26/08/11/1951224/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [OpenSSH 10.5/10.5p1](https://www.openssh.org/releasenotes.html#10.5)
+- [OpenAI Reveals its Rogue Agent Swarm Went a Little Bit Borg Ahead of Hugging Face Hack](https://soylentnews.org/article.pl?sid=26/08/06/1431225&from=rss)
+- [AI Slop Pollutes the CVE Pipeline With Fake Vulns](https://soylentnews.org/article.pl?sid=26/08/07/0157223&from=rss)
 
-## 2026-08-10
-- [Cyber Vulnerability Sweep Picks UP Royal Navy Drones Sending Data To China](https://tech.slashdot.org/story/26/08/10/2043251/cyber-vulnerability-sweep-picks-up-royal-navy-drones-sending-data-to-china?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [A Data Breach At Shipping Giant Ceva Logistics Is Rippling Across Banks](https://yro.slashdot.org/story/26/08/10/2035248/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Firefox Containers Preview](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
+## Space Exploration and Technology
+- [An Abandoned SpaceX Rocket Crashed Into the Moon](https://soylentnews.org/article.pl?sid=26/08/06/101249&from=rss)
+- [NASA Puts Astronauts' Lives In The Hands Of Tesla's Flaky Cybertruck](https://soylentnews.org/article.pl?sid=26/08/08/0047257&from=rss)
+- [NASA's Swift Rescue Slips To Late August As LINK Battles Its Spin](https://soylentnews.org/article.pl?sid=26/08/04/0720220&from=rss)
 
-## 2026-08-09
-- [EU Announces New Rules On AI Transparency](https://soylentnews.org/article.pl?sid=26/08/09/0113218&from=rss)
-- [OpenAI Says Apple 'Is Getting This Wrong' After Trade Secret Lawsuit](https://soylentnews.org/article.pl?sid=26/08/09/013207&from=rss)
+## Cybersecurity and Infrastructure
+- [Cyberattacks Hit Water Facilities in Seven States Across the US](https://soylentnews.org/article.pl?sid=26/08/05/1214213&from=rss)
+- [A Data Breach At Shipping Giant Ceva Logistics Is Rippling Across Banks, Retailers, Steam Gamers, and Beyond](https://yro.slashdot.org/story/26/08/10/2035248/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices On a Call](https://it.slashdot.org/story/26/08/11/1951224/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [The Roboguard Revolution Is Short-Circuiting](https://hardware.slashdot.org/story/26/08/11/0538200/the-roboguard-revolution-is-short-circuiting?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## 2026-08-08
-- [Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo](https://photosynthesis.camera)
-- [Jolt: Clojure compiler implemented with Chez Scheme](https://jolt-lang.github.io)
-
-## 2026-08-07
-- [Backlash Against BMW for Ads in Cars](https://soylentnews.org/article.pl?sid=26/08/07/0145239&from=rss)
-- [Desktop Linux Just Cracked 10% Market Share](https://soylentnews.org/article.pl?sid=26/08/06/1421244&from=rss)
-
-## 2026-08-06
-- [Cyberattacks Hit Water Facilities in Seven States](https://soylentnews.org/article.pl?sid=26/08/05/1214213&from=rss)
-- [UK Mulls Making Employers Ask Before Installing Bossware](https://soylentnews.org/article.pl?sid=26/08/05/124251&from=rss)
-
-## 2026-08-05
-- [UK Wants Datacenters To Pay A Fee For Grid Connection Requests](https://soylentnews.org/article.pl?sid=26/08/05/024251&from=rss)
-- [Judge Refuses XAI's Request to Stop a Minnesota Law Banning Nudify Apps](https://soylentnews.org/article.pl?sid=26/08/04/0723205&from=rss)
-
-## 2026-08-04
-- [NASA's Swift Rescue Slips To Late August](https://soylentnews.org/article.pl?sid=26/08/04/0720220&from=rss)
-
-## 2026-08-03
-- [Cloud Giants Pour Nearly $600B Into Capex as AI Demand Surges](https://soylentnews.org/article.pl?sid=26/08/03/2132222&from=rss)
-
-## 2026-08-02
-- [Everything Counts. in Large Amounts. Even AI Tokens.](https://soylentnews.org/article.pl?sid=26/08/05/024251&from=rss)
-
-## 2026-08-01
-- [Cloud Giants Pour Nearly $600B Into Capex as AI Demand Surges](https://soylentnews.org/article.pl?sid=26/08/03/2132222&from=rss)
+## Science, Health, and Society
+- [England Set To Eliminate Hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o)
+- [Taxi Drivers Rarely Die of Alzheimer's](https://science.slashdot.org/story/26/08/11/0515205/taxi-drivers-rarely-die-of-alzheimers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Spotify Will Label 'AI Persona' Profiles, Exclude Their Music From Recommendations](https://entertainment.slashdot.org/story/26/08/11/1741252/spotify-will-label-ai-persona-profiles-exclude-their-music-from-recommendations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [France Bans Unsolicited Telemarking Calls](https://mobile.slashdot.org/story/26/08/11/1657250/france-bans-unsolicited-telemarking-calls?utm_source=rss1.0mainlinkanon&utm_medium=feed)
