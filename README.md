@@ -1,4 +1,4 @@
-# News Summary
+# [News Summary](https://kherrick.github.io/news-summary/)
 
 ## Artificial Intelligence & Machine Learning
 - [Linus Torvalds Says AI Has Made 'Huge' Linux Kernel Updates The New Normal](https://soylentnews.org/article.pl?sid=26/08/10/1132250&from=rss)
