@@ -1,33 +1,25 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI & Machine Learning Innovations
-- [Price Hikes May be Coming for PC Motherboards Next](https://soylentnews.org/article.pl?sid=26/08/10/1138213&from=rss)
-- [Price Hikes May be Coming for PC Motherboards Next](https://soylentnews.org/article.pl?sid=26/08/10/1138213&from=rss)
-- [The lifesaving secret hidden inside a horseshoe crab's blue blood](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/)
+## Climate and Environmental Updates
+- [Contiguous US Breaks Its Record For Hottest Month Ever, NOAA Says](https://news.slashdot.org/story/26/08/11/2054244/contiguous-us-breaks-its-record-for-hottest-month-ever-noaa-says)
+- [The Lifesaving Secret Hidden Inside a Horseshoe Crab's Blue Blood](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/)
+- [New Bedford Police Officer Accused of Using Flock Cameras to Track Ex-Partner](https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/)
 - [Text Watermarking for Non-Academics](https://blog.gaborkoos.com/posts/2026-08-12-Text-Watermarking-for-Non-Academics/)
-- [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
-- [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
+
+## AI and Technology Advances
+- [Making a game on a custom bytecode VM in 7 days and 3kB](https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb)
 - [Google Gemini Hits 1 Billion Users In Record Time](https://tech.slashdot.org/story/26/08/11/2020246/google-gemini-hits-1-billion-users-in-record-time)
-- [Linus Torvalds Says AI Has Made 'Huge' Linux Kernel Updates The New Normal](https://soylentnews.org/article.pl?sid=26/08/10/1132250&from=rss)
-- [OpenAI's head of ethics leaves less than a year after joining](https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0)
-- [Mojo 1.0 is here](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here)
+- [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
+- [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
+- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/)
+- [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
 
-## Space Exploration & Technology
-- [The First Self-Driving Vehicle On Mars Has Proven To Be A Smashing Success](https://soylentnews.org/article.pl?sid=26/08/09/010257&from=rss)
-- [SpaceX is Set to Acquire 130,000 Acres of Marshland in Southern Louisiana](https://soylentnews.org/article.pl?sid=26/08/05/0212222&from=rss)
-- [NASA Puts Astronauts' Lives In The Hands Of Tesla's Flaky Cybertruck](https://soylentnews.org/article.pl?sid=26/08/08/0047257&from=rss)
-- [The End Of August Will Feature A Lunar Eclipse Visible All Over North America](https://soylentnews.org/article.pl?sid=26/08/09/0110234&from=rss)
-
-## Cybersecurity & Infrastructure
-- [DEF CON crowd suspected in fake-hotspot attack on Delta flight](https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/)
-- [Cyber Vulnerability Sweep Picks Up Royal Navy Drones Sending Data To China](https://tech.slashdot.org/story/26/08/10/2043251/cyber-vulnerability-sweep-picks-up-royal-navy-drones-sending-data-to-china)
-- [A Data Breach At Shipping Giant Ceva Logistics Is Rippling Across Banks, Retailers, Steam Gamers, and Beyond](https://yro.slashdot.org/story/26/08/10/2035248/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond)
-- [Thousands Of Servers Can Be Backdoored By Exploiting Buggy Motherboard Controllers](https://soylentnews.org/article.pl?sid=26/08/08/0047257&from=rss)
-- [Cyber Vulnerability Sweep Picks Up Royal Navy Drones Sending Data To China](https://tech.slashdot.org/story/26/08/10/2043251/cyber-vulnerability-sweep-picks-up-royal-navy-drones-sending-data-to-china)
-
-## Science, Health, & Society
-- [England Set To Eliminate Hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o)
-- [The End Of August Will Feature A Lunar Eclipse Visible All Over North America](https://soylentnews.org/article.pl?sid=26/08/09/0110234&from=rss)
-- [Poop Made Life on Earth Possible. Yes, Poop.](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/)
+## Security, Privacy, and Digital Threats
+- [Company Offering 100% Human-Written Never AI Medical Research Is 100% AI](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
+- [London Underground begins scanning passengers' faces](https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/)
 - [EU Announces New Rules On AI Transparency](https://soylentnews.org/article.pl?sid=26/08/09/0113218&from=rss)
-- [The lifesaving secret hidden inside a horseshoe crab's blue blood](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/)
+
+## Space, Science, and Innovation
+- [An Abandoned SpaceX Rocket Crashed Into the Moon](https://soylentnews.org/article.pl?sid=26/08/06/101249&from=rss)
+- [Cyberattacks Hit Water Facilities in Seven States Across the US](https://soylentnews.org/article.pl?sid=26/08/05/1214213&from=rss)
+- [Show HN: Git-knife — Edit commit messages, authors, and dates like a spreadsheet](https://github.com/TheRealYT/git-knife)
