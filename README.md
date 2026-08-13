@@ -5,9 +5,9 @@
 - [Behold the 'Glueball,' a Strange New Form of Matter](https://science.slashdot.org/story/26/08/12/0551225/behold-the-glueball-a-strange-new-form-of-matter?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ## AI & Emerging Tech
-- [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/) ([comments](https://news.ycombinator.com/item?id=49281916))
+- [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/)
 - [Godmother of AI Says Biggest AI Risk In Schools Is Students Losing the Desire to Learn](https://news.slashdot.org/story/26/08/12/2021223/godmother-of-ai-says-biggest-ai-risk-in-schools-is-students-losing-the-desire-to-learn?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) ([comments](https://news.ycombinator.com/item?id=49274600))
+- [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
 
 ## Cybersecurity & Geopolitical Threats
 - [Trump Administration Enlists Private Companies To Hack Foreign Cybercrime Groups](https://news.slashdot.org/story/26/08/13/0052208/trump-administration-enlists-private-companies-to-hack-foreign-cybercrime-groups?utm_source=rss1.0mainlinkanon&utm_medium=feed)
