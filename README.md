@@ -1,22 +1,28 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence & Emerging Technology
-- [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/) ([comments](https://news.ycombinator.com/item?id=49281916))
-- [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) ([comments](https://news.ycombinator.com/item?id=49274600))
-- [The punched card tabulator](https://www.ibm.com/history/punched-card-tabulator)
+## AI & Machine Intelligence
+- [Text AI watermarks will always be trivial to remove](https://www.seangoedecke.com/text-ai-watermarks/)
+- [AI is removing the middle class of software engineering](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
+- [Graduate Student Proves a Quantum Uncertainty Principle for Fractals](https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/)
+- [AI agents lie, cheat and steal. That is putting off users](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
+- [Anthropic: Introducing The Conceptual Reasoning Index](https://alignment.anthropic.com/2026/conceptual-reasoning-index/)
+- [Choosing an AI model: one prompt, 11 models, different results](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
+- [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
+- [DeepSeek API Pricing Update](https://twitter.com/deepseek_ai/status/2087864589895798968)
 
-## Space, Science, and Exploration
+## Computing & Infrastructure
+- [Kubernetes on Oxide: How Customer Needs Shaped Our Integrations](https://oxide.computer/blog/kubernetes-on-oxide)
+- [MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5](https://github.com/fellowgeek/mcp-memory)
+- [SQLite: How it Works, by Richard Hipp (2024)](https://www.youtube.com/watch?v=ZSKLA81tBis)
+- [Windows 11's Built-In Weather App Hogs More Than 1.2 Gigabytes of RAM](https://soylentnews.org/article.pl?sid=26/08/12/0010209&from=rss)
+- [Spaghettifying DRAM](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+
+## Science & Research
 - [Scientists Create Largest 2D Map of the Universe](https://science.slashdot.org/story/26/08/13/014211/scientists-create-largest-2d-map-of-the-universe?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [VA Launches Psilocybin Trial For Veterans With Treatment-Resistant Depression](https://science.slashdot.org/story/26/08/13/0426242/va-launches-psilocybin-trial-for-veterans-with-treatment-resistant-depression?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [The First Self-Driving Vehicle On Mars Has Proven To Be A Smashing Success](https://soylentnews.org/article.pl?sid=26/08/09/010257&from=rss)
+- [Digitizing Super 8 Film Yourself](https://nibblestew.blogspot.com/2026/08/digitizing-super-8-film-yourself.html)
 
-## Cybersecurity & Geopolitics
-- [Russian Spies Turn Public Wi-Fi Into Malware Delivery Systems](https://soylentnews.org/article.pl?sid=26/08/07/022233&from=rss)
-- [China Launches Mysterious Probe Into Security of Palo Alto Networks' Products](https://soylentnews.org/article.pl?sid=26/08/09/2121234&from=rss)
-- [Cyberattacks Hit Water Facilities in Seven States Across the US](https://soylentnews.org/article.pl?sid=26/08/05/1214213&from=rss)
-
-## Culture & Society
-- [Windows 11'S Built-In Weather App Hogs More Than 1.2 Gigabytes Of RAM Just To Tell The Forecast](https://soylentnews.org/article.pl?sid=26/08/12/0010209&from=rss)
-- [Digitizing super 8 film yourself](https://nibblestew.blogspot.com/2026/08/digitizing-super-8-film-yourself.html)
-- [Picking berries is my meditation](https://www.tsoon.com/posts/picking-berries-meditation/)
-- [The lattice of sets of natural numbers is rich (2021)](https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/)
+## Industry & Technology
+- [Heart Aerospace Completes First Flight of Largest Electric Aircraft](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
+- [Deutsche Bank becomes first foreign yuan clearing bank in Europe](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/)
+- [US Hires Over 2,000 Video Gamers as Air Traffic Controllers](https://games.slashdot.org/story/26/08/12/0542256/us-hires-over-2000-video-gamers-as-air-traffic-controllers)
+- [US Tries to Override New York Gambling Laws, Orders Kalshi to Keep Operating](https://yro.slashdot.org/story/26/08/12/1949247/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating)
