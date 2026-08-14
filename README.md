@@ -1,86 +1,41 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence & Machine Learning
-- [Google's Gemini 3.7 Flash Targets Coding and Agents With a 50% Price Cut](https://developers.slashdot.org/story/26/08/13/217215/googles-gemini-37-flash-targets-coding-and-agents-with-a-50-price-cut?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49289260))
-- [Anthropic Could Be Worth $2 Trillion When It Goes Public](https://slashdot.org/story/26/08/13/1846256/anthropic-could-be-worth-2-trillion-when-it-goes-public?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49290299))
-- [How Organizations Use AI: Evidence from ChatGPT](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf) ([comments](https://news.ycombinator.com/item?id=49290768))
-- [Cerebras Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) ([comments](https://news.ycombinator.com/item?id=49289844))
-- [Mistral OCR 4.1 Released](https://docs.mistral.ai/models/ocr-4-1) ([comments](https://news.ycombinator.com/item?id=49288889))
-- [AMD Acquires AI Chip Startup Taalas to Boost Inference Performance](https://soylentnews.org/article.pl?sid=26/08/13/1157232&from=rss) ([comments](https://news.ycombinator.com/item?id=49291268))
-- [AI is Removing the Middle Class of Software Engineering](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html) ([comments](https://news.ycombinator.com/item?id=49286485))
-- [Understanding is the New Bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck) ([comments](https://news.ycombinator.com/item?id=49290299))
-- [Linus Torvalds: AI Has Made 'Huge' Linux Kernel Updates the New Normal](https://soylentnews.org/article.pl?sid=26/08/10/1132250&from=rss)
-- [Big Tech Wants to Harvest Your Thoughts](https://tech.slashdot.org/story/26/08/12/2031245/big-tech-wants-to-harvest-your-thoughts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## Cybersecurity & Privacy
-- [New Pass-Ta-Key Attack Reveals All the Things We Didn't Know About Passkeys](https://soylentnews.org/article.pl?sid=26/08/13/125234&from=rss)
-- [US Conducted Mass Spying Campaign Against Leftwing and Anti-ICE Protesters](https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters) ([comments](https://news.ycombinator.com/item?id=49294199))
-- [License Plate Reader Searches Should Require a Warrant](https://soylentnews.org/article.pl?sid=26/08/13/1152214&from=rss)
-- [Thousands of Servers Can Be Backdoored By Exploiting Buggy Motherboard Controllers](https://soylentnews.org/article.pl?sid=26/08/10/0236212&from=rss)
-- [AI Slop Pollutes the CVE Pipeline With Fake Vulns](https://soylentnews.org/article.pl?sid=26/08/07/0157223&from=rss)
-- [Russian Spies Turn Public Wi-Fi Into Malware Delivery Systems](https://soylentnews.org/article.pl?sid=26/08/07/022233&from=rss)
-- [Cyberattacks Hit Water Facilities in Seven States Across the US](https://soylentnews.org/article.pl?sid=26/08/05/1214213&from=rss)
-- [Police National Legal Database Confirms Data Theft After Dark Web Leak](https://soylentnews.org/article.pl?sid=26/08/08/0049242&from=rss)
-- [China Launches Probe Into Security of Palo Alto Networks' Products](https://soylentnews.org/article.pl?sid=26/08/09/2121234&from=rss)
-- [Trump Administration Enlists Private Companies to Hack Foreign Cybercrime Groups](https://news.slashdot.org/story/26/08/13/0052208/trump-administration-enlists-private-companies-to-hack-foreign-cybercrime-groups?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49283063))
-
-## Programming Languages & Developer Tools
-- [A Preview of Roc 0.1.0](https://youtu.be/a7qEOtkkDb8) ([comments](https://lobste.rs/s/utpgi9/preview_roc_0_1_0))
-- [The SvelteKit 3 Release Candidate is Here](https://svelte.dev/blog/sveltekit-3-release-candidate) ([comments](https://lobste.rs/s/avlnjl/sveltekit_3_release_candidate_is_here))
-- [C3 0.8.3 Feature Flags](https://c3-lang.org/blog/c3_0_8_3_feature_flags/) ([comments](https://lobste.rs/s/e9v9qi/c3_0_8_3_feature_flags))
-- [Write a SQL Optimizer using Egg (2023)](https://rustmagazine.org/issue-2/write-a-sql-optimizer-using-egg) ([comments](https://lobste.rs/s/iarwcp/write_sql_optimizer_using_egg_2023))
-- [OxiSH: SSH Server Written in Rust](https://github.com/djc/oxish) ([comments](https://lobste.rs/s/xi7txx/oxish_ssh_server_written_rust))
-- [GitHub Stacks in Jujutsu](https://alan.norbauer.com/articles/github-stacks-with-jujutsu/) ([comments](https://lobste.rs/s/keiw21/github_stacks_jujutsu))
-- [EuroZig Conference](http://eurozig.eu/) ([comments](https://lobste.rs/s/rn4sp8/eurozig))
-- [Crown 0.64 – Native and Cross-Platform Game Engine](https://www.crownengine.org/news/crown-0-64/) ([comments](https://news.ycombinator.com/item?id=49243860))
-- [How Tailscale Helped Find the SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug) ([comments](https://lobste.rs/s/e0lkmi/how_tailscale_helped_find_sqlite_wal))
-- [SQLite: How It Works, by Richard Hipp (2024)](https://www.youtube.com/watch?v=ZSKLA81tBis) ([comments](https://lobste.rs/s/v2xrcm/sqlite_how_it_works_by_richard_hipp_2024))
-
-## Space & Aerospace
-- [World's Largest 106-Foot Electric Plane Takes Maiden Flight In New York](https://tech.slashdot.org/story/26/08/13/1625200/worlds-largest-106-foot-electric-plane-takes-maiden-flight-in-new-york?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49289654))
-- [Scientists Create Largest 2D Map of the Universe](https://science.slashdot.org/story/26/08/13/014211/scientists-create-largest-2d-map-of-the-universe?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49283063))
-- [NASA Boss Balks At Billion-Dollar Estimate For Recycled Moon Rover](https://soylentnews.org/article.pl?sid=26/08/09/2116241&from=rss)
-- [The First Self-Driving Vehicle On Mars Has Proven To Be A Smashing Success](https://soylentnews.org/article.pl?sid=26/08/09/010257&from=rss)
-- [An Abandoned SpaceX Rocket Crashed Into the Moon](https://soylentnews.org/article.pl?sid=26/08/06/101249&from=rss)
-- [The End Of August Will Feature A Lunar Eclipse Visible All Over North America](https://soylentnews.org/article.pl?sid=26/08/09/0110234&from=rss)
-- [NASA Puts Astronauts' Lives In The Hands Of Tesla's Flaky Cybertruck](https://soylentnews.org/article.pl?sid=26/08/08/0047257&from=rss)
-
-## Business, Policy & Industry
-- [Microsoft Retreats In China](https://tech.slashdot.org/story/26/08/13/2114239/microsoft-retreats-in-china?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49293087))
-- [Microsoft Is Combining Its Copilot Apps Ahead of a 'Super App'](https://slashdot.org/story/26/08/13/1943229/microsoft-is-combining-its-copilot-apps-ahead-of-a-super-app?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Amazon Will Train On Twitch Streamers' Content By Default, Unless They Opt Out](https://games.slashdot.org/story/26/08/13/1853232/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49290969))
-- [Apple Turns to Publishers For Help With Siri AI](https://apple.slashdot.org/story/26/08/13/1616254/apple-turns-to-publishers-for-help-with-siri-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [EU Announces New Rules On AI Transparency](https://soylentnews.org/article.pl?sid=26/08/09/0113218&from=rss)
-- [Texas Halts Data Center Connections to Power Grid Amid Overwhelming Demand](https://soylentnews.org/article.pl?sid=26/08/07/0152201&from=rss)
-- [After Price Hikes Due To AI Data Centers, Firms To Pay For All Dedicated Upstream Infrastructure](https://soylentnews.org/article.pl?sid=26/08/10/0247256&from=rss)
-- [Terafab To Be Larger Than The Pentagon, Apple Park, Mall Of America, And Giga Texas Combined](https://soylentnews.org/article.pl?sid=26/08/10/1747216&from=rss)
-- [Protesters Haul A Guillotine To City Council Meeting About A Potential AI Data Center](https://soylentnews.org/article.pl?sid=26/08/10/1750239&from=rss)
-- [Court Orders Meta to Pay Additional $567 Million in New Mexico Child Safety Case](https://soylentnews.org/article.pl?sid=26/08/10/118233&from=rss)
-
-## Science & Health
-- [UK Scientists To Grow Miniature Human Organs For Drug Testing](https://science.slashdot.org/story/26/08/13/2120250/uk-scientists-to-grow-miniature-human-organs-for-drug-testing?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49293294))
-- [VA Launches Psilocybin Trial For Veterans With Treatment-Resistant Depression](https://science.slashdot.org/story/26/08/13/0426242/va-launches-psilocybin-trial-for-veterans-with-treatment-resistant-depression?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [University of Michigan Drops First-Semester Grades to 'Curb Mental Health Crisis'](https://news.slashdot.org/story/26/08/13/0433248/university-of-michigan-drops-first-semester-grades-to-curb-mental-health-crisis?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Poop Made Life on Earth Possible. Yes, Poop.](https://soylentnews.org/article.pl?sid=26/08/10/1124248&from=rss)
+## AI and Machine Learning
+- [AI is removing the middle class of software engineering](https://lobste.rs/s/xk3ley/ai_is_removing_middle_class_software)
+- [Google's Gemini 3.7 Flash Targets Coding and Agents With a 50% Price Cut](https://developers.slashdot.org/story/26/08/13/217215/googles-gemini-37-flash-targets-coding-and-agents-with-a-50-price-cut?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Anthropic Could Be Worth $2 Trillion When It Goes Public](https://slashdot.org/story/26/08/13/1846256/anthropic-could-be-worth-2-trillion-when-it-goes-public?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - ['Godmother of AI' Says Biggest AI Risk In Schools Is Students Losing the Desire to Learn](https://news.slashdot.org/story/26/08/12/2021223/godmother-of-ai-says-biggest-ai-risk-in-schools-is-students-losing-the-desire-to-learn?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [OpenAI Reveals its Rogue Agent Swarm Went a Little Bit Borg Ahead of Hugging Face Hack](https://soylentnews.org/article.pl?sid=26/08/06/1431225&from=rss)
+- [AI Chatbots Have Failed People in Crisis. Can That be Fixed?](https://soylentnews.org/article.pl?sid=26/08/08/0045213&from=rss)
+- [AI Slop Pollutes the CVE Pipeline With Fake Vulns](https://soylentnews.org/article.pl?sid=26/08/07/0157223&from=rss)
 
-## Software Engineering & Tech Culture
-- [Let's Not Call It "Tech Debt," It's Just "Mess"](https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/) ([comments](https://lobste.rs/s/dnlhah/let_s_not_call_it_tech_debt_it_s_just_mess))
-- [Blog About Things You Don't Understand Yet](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/) ([comments](https://news.ycombinator.com/item?id=49293087))
-- [Write for People](https://newsletter.vickiboykis.com/archive/write-for-people/) ([comments](https://lobste.rs/s/0fokml/write_for_people))
-- [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology) ([comments](https://news.ycombinator.com/item?id=49289512))
-- [NP-Overrated](https://gruhn.me/blog/2026-08-13/) ([comments](https://news.ycombinator.com/item?id=49291268))
-- [Where Did the Old Web Go? We Followed 657,607 Links to Find Out](https://0.mk/blog/link-rot) ([comments](https://news.ycombinator.com/item?id=49289532))
-- [On Hacking](https://stallman.org/articles/on-hacking.html) ([comments](https://lobste.rs/s/0o3xpp/on_hacking))
-- [Let Them Write RFCs](https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/) ([comments](https://lobste.rs/s/nyk5kd/let_them_write_rfcs))
-- [My Homelab Got Hacked - A Postmortem](https://phunky.cafe/my-homelab-got-hacked/) ([comments](https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem))
-- [I Hate Packaging My Software for Linux](https://getfresh.dev/docs/blog/packaging-for-linux/) ([comments](https://lobste.rs/s/ixbrmc/i_hate_packaging_my_software_for_linux))
+## Technology and Security
+- [Logging into a Linux machine from a flip phone over Bluetooth over Bluetooth (2020)](https://www.youtube.com/watch?v=eETHOyuSiMA)
+- [New Pass-Ta-Key Attack Reveals All the Things We Didn't Know About Passkeys](https://soylentnews.org/article.pl?sid=26/08/14/014200&from=rss)
+- [UNlocking _everything_ on the CPU with DRAM scrambling](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+- [ZOOMSDAY, Zoom Zero-Click Vulnerabilities Via Annotation](https://a.security/blog/asecurity-zoomsday)
+- [OxiSH: SSH server written in Rust](https://github.com/djc/oxish)
+- [My Homelab Got Hacked - A Postmortem](https://phunky.cafe/my-homelab-got-hacked/)
+- [Thousands Of Servers Can Be Backdoored By Exploiting Buggy Motherboard Controllers](https://soylentnews.org/article.pl?sid=26/08/10/0236212&from=rss)
+- [Chinese Spies Turn Public Wi-Fi Into Malware Delivery Systems](https://soylentnews.org/article.pl?sid=26/08/07/022233&from=rss)
 
-## Decentralized & Open Web
-- [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services) ([comments](https://news.ycombinator.com/item?id=49293324))
-- [SparrowMap – Cameras That Watch Government Vehicles](https://sparrowmap.com/) ([comments](https://news.ycombinator.com/item?id=49293294))
-- [How a Device Finds Encrypted DNS by Itself](https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/) ([comments](https://news.ycombinator.com/item?id=49210740))
-- [Open-Source Stealth USB Hides An Encrypted Partition Behind An 8GB Decoy Drive](https://soylentnews.org/article.pl?sid=26/08/10/1752257&from=rss)
-- [A "secure-ish" Pi Setup with Permission, Sandbox, and Auto-Review](https://ptgamr.substack.com/p/a-pi-setup-with-permission-sandbox) ([comments](https://lobste.rs/s/h1jpd4/secure_ish_pi_setup_with_permission))
-- [Finite State Machines in Forth (1994)](https://www.forth.org/literature/noble.html) ([comments](https://news.ycombinator.com/item?id=49223964))
-- [Donkey.bas is 45 Years Old – 131 Lines of Glory](https://donkeybas.com/) ([comments](https://news.ycombinator.com/item?id=49289465))
+## Space and Science
+- [World's Largest 106-Foot Electric Plane Takes Maiden Flight In New York](https://tech.slashdot.org/story/26/08/13/1625200/worlds-largest-106-foot-electric-plane-takes-maiden-flight-in-new-york?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [NASA Puts Astronauts' Lives In The Hands Of Tesla's Flaky Cybertruck](https://soylentnews.org/article.pl?sid=26/08/08/0047257&from=rss)
+- [An Abandoned SpaceX Rocket Crashed Into the Moon](https://soylentnews.org/article.pl?sid=26/08/06/101249&from=rss)
+- [Scientists Create Largest 2D Map of the Universe](https://science.slashdot.org/story/26/08/13/014211/scientists-create-largest-2d-map-of-the-universe?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [VA Launches Psilocybin Trial For Veterans With Treatment-Resistant Depression](https://science.slashdot.org/story/26/08/13/0426242/va-launches-psilocybin-trial-for-veterans-with-treatment-resistant-depression?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## Society and Culture
+- [University of Michigan Drops First-Semester Grades to 'Curb Mental Health Crisis'](https://news.slashdot.org/story/26/08/13/0433248/university-of-michigan-drops-first-semester-grades-to-curb-mental-health-crisis?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Amazon Will Train On Twitch Streamers' Content By Default, Unless They Opt Out](https://games.slashdot.org/story/26/08/13/1853232/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Big Tech Wants to Harvest Your Thoughts](https://tech.slashdot.org/story/26/08/12/2031245/big-tech-wants-to-harvest-your-thoughts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [How Social Media Spurred a Refugee Crisis Between Spain and Morocco](https://news.slashdot.org/story/26/08/12/2052214/how-social-media-spurred-a-refugee-crisis-between-spain-and-morocco?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Microsoft Retreats In China](https://tech.slashdot.org/story/26/08/13/2114239/microsoft-retreats-in-china?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Protesters Haul A Guillotine To City Council Meeting About A Potential AI Data Center](https://soylentnews.org/article.pl?sid=26/08/10/1750239&from=rss)
+
+## Business and Industry
+- [Desktop Linux Just Cracked 10% Market Share - and Windows 11 is Mostly the Reason](https://soylentnews.org/article.pl?sid=26/08/06/1421244&from=rss)
+- [Price Hikes May be Coming for PC Motherboards Next](https://soylentnews.org/article.pl?sid=26/08/10/1138213&from=rss)
+- [Microsoft Is Combining Its Copilot Apps Ahead of a 'Super App'](https://slashdot.org/story/26/08/13/1943229/microsoft-is-combining-its-copilot-apps-ahead-of-a-super-app?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Court Orders Meta to Pay an Additional $567 Million in New Mexico Child Safety Case](https://soylentnews.org/article.pl?sid=26/08/10/118233&from=rss)
