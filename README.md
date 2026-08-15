@@ -1,72 +1,26 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI, Ethics, and Tech Regulation
-- [Surprise, Surprise: CBP Officers Misusing Surveillance Tech](https://soylentnews.org/article.pl?sid=26/08/13/2037237&from=rss)
-- ["That's not SoC 2 compliant"](https://ampcode.com/notes/thats-not-soc-2-compliant)
-- [Section 230 Rewrites and Licensing](https://soylentnews.org/article.pl?sid=26/08/13/2031207&from=rss)
-- [EU AI Transparency Rules](https://soylentnews.org/article.pl?sid=26/08/09/0113218&from=rss)
+## AI and Technology Innovations
+- [Meta AI Glasses with Facial Recognition](https://yro.slashdot.org/story/26/08/14/2112242/meta-patents-ai-glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [comments](https://news.ycombinator.com/item?id=49307592)
+- [ThoughtDAG for LLM Conversation Contexts](https://chenxiachan.github.io/thoughtdag/)
+- [comments](https://chenxiachan.github.io/thoughtdag/#discussion)
+- [Deltix AI-Driven Testing Platform](https://app.deltix.ai)
+- [comments](https://app.deltix.ai#discussion)
 - [Claude's Invisible Watermark](https://soylentnews.org/article.pl?sid=26/08/13/2034239&from=rss)
-- [AI by Hand](https://www.byhand.ai/)
-- [Google's Homomorphic Encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
-- [AI Slop Polluting CVEs](https://soylentnews.org/article.pl?sid=26/08/08/0157223&from=rss)
-- [AI Chatbots Failing in Crisis](https://soylentnews.org/article.pl?sid=26/08/08/0045213&from=rss)
-- [AI in Linux Kernel](https://soylentnews.org/article.pl?sid=26/08/10/1132250&from=rss)
+- [Firefox Supporting uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html)
+- [comments](https://news.ycombinator.com/item?id=49307700)
+- [RVA23 vs ARMv9 Experiment](https://gist.github.com/camel-cdr/3a7aed17e017e8cab675ad696c7d14af)
 
-## Cybersecurity and Privacy
-- [CBP Surveillance Misuse](https://soylentnews.org/article.pl?sid=26/08/13/2037237&from=rss)
-- [Tracking You with DecryptAds](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
-- [Backdoors in Motherboards](https://soylentnews.org/article.pl?sid=26/08/10/0236212&from=rss)
-- [AI-Generated CVE Vulns](https://soylentnews.org/article.pl?sid=26/08/08/0157223&from=rss)
-- [Ninth Circuit Section 230 Changes](https://soylentnews.org/article.pl?sid=26/08/13/2031207&from=rss)
-- [Flock's License Plate Reader Changes](https://yro.slashdot.org/story/26/08/14/2044246/flock-announces-changes-amid-backlash-over-its-license-plate-reader-network?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Surveillance and Privacy Concerns
+- [CBP Officers Misusing Surveillance Tech](https://soylentnews.org/article.pl?sid=26/08/13/2037237&from=rss)
+- [Tracking via Cookies and DecryptAds](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
 
-## Infrastructure and AI
-- [RISC-V and IPv8 Implementation](https://goonhost.rocks/blog/implementing-ipv8-internet-draft)
-- [Terafab Scale](https://soylentnews.org/article.pl?sid=26/08/10/1747216&from=rss)
-- [Texas Power Grid Strain](https://soylentnews.org/article.pl?sid=26/08/07/0152201&from=rss)
-- [NASA Cybertruck Concerns](https://soylentnews.org/article.pl?sid=26/08/08/0047257&from=rss)
-- [AI in Legal Filings (Prompt Injection)](https://yro.slashdot.org/story/26/08/14/0941240/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [New Pass-TA-Key Attack](https://soylentnews.org/article.pl?sid=26/08/13/125234&from=rss)
+## Hardware and Infrastructure
+- [Robots in Car Factories](https://hardware.slashdot.org/story/26/08/14/215204/robots-that-walk-and-talk-are-coming-to-car-factories?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Ploopy A+ Trackball](https://blog.ploopy.co/the-aplus-is-finally-here-499)
+- [RVA23 vs ARMv9 Experiment](https://gist.github.com/camel-cdr/3a7aed17e017e8cab675ad696c7d14af)
 
-## Legal and Social Issues
-- [Plagiarism-Related Death](https://news.slashdot.org/story/26/08/14/2050245/ex-cambridge-professor-at-center-of-plagiarism-row-found-dead?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Tesla Cybertruck for Astronauts](https://soylentnews.org/article.pl?sid=26/08/08/0047257&from=rss)
-- [Court Orders Meta to Pay $567M](https://soylentnews.org/article.pl?sid=26/08/11/118233&from=rss)
-- [License Plate Reader Warrant Requirement](https://soylentnews.org/article.pl?sid=26/08/13/1152214&from=rss)
-
-## Science and Tech Innovation
-- [TLA+ for System Safety](https://depot.dev/blog/tla-verification)
-- [Treasure Hunt for Historical Photos](https://yesterdays.maprva.org/)
-- [Self-Driving on Mars](https://soylentnews.org/article.pl?sid=26/08/09/010257&from=rss)
-- [Human Organs for Drug Testing](https://science.slashdot.org/story/26/08/14/0931237/three-supermassive-black-holes-discovered-in-a-single-galaxy-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Climate Data from Starlink](https://science.slashdot.org/story/26/08/14/0230250/scientists-turn-starlink-into-a-giant-scanner-for-earths-upper-atmosphere?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Lunar Eclipse in August](https://soylentnews.org/article.pl?sid=26/08/09/0110234&from=rss)
-
-## Miscellaneous
-- [Ask HN: Keeping Up with HN](https://news.ycombinator.com/item?id=49308059)
-- ["The Other Sean Byrne"](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
-- [Airport Scanner Hack](https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/)
-- [Lunar Eclipse](https://soylentnews.org/article.pl?sid=26/08/09/0110234&from=rss)
-- [Terafab Project](https://soylentnews.org/article.pl?sid=26/08/10/1747216&from=rss)
-- [Paul Allen's Moon Rover Controversy](https://soylentnews.org/article.pl?sid=26/08/09/2116241&from=rss)
-- [RPCV vs ARMv9 Experiment](https://gist.github.com/camel-cdr/3a7aed17e017e8cab675ad696c7d14af)
-- [Poop's Role in Evolution](https://soylentnews.org/article.pl?sid=26/08/11/1124248&from=rss)
-- [Claude Code Sessions Optimization](https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions)
-- [Climate Data from Starlink](https://science.slashdot.org/story/26/08/14/0230250/scientists-turn-starlink-into-a-giant-scanner-for-earths-upper-atmosphere?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Moon Rover Controversy](https://soylentnews.org/article.pl?sid=26/08/09/2116241&from=rss)
-- [Starlink Climate Data](https://science.slashdot.org/story/26/08/14/0230250/scientists-turn-starlink-into-a-giant-scanner-for-earths-upper-atmosphere?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Firefox and uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html)
-- [Gruilt-Driven Development](https://markuseliasson.se/article/guilt-driven-development)
-- [Ember Color Palettes](https://github.com/carpdiem/ember)
-- [Apache 2.0 vs Royalty-Free](https://soylentnews.org/article.pl?sid=26/08/10/1752257&from=rss)
-- [Show HN: ThoughtDAG](https://chenxiachan.github.io/thoughtdag/)
-- [Ember Color Palettes](https://github.com/carpdiem/ember)
-- [Terafab Project](https://soylentnews.org/article.pl?sid=26/08/10/1747216&from=rss)
-- [Claude's Watermark](https://soylentnews.org/article.pl?sid=26/08/13/2034239&from=rss)
-- [Gloria's Basic RegExp](https://github.com/zeef/gloria/#%E2%80%8CBasic-Regexp"
-- [OpenAI vs. Apple Lawsuit](https://soylentnews.org/article.pl?sid=26/08/09/013207&from=rss)
-- [Miniature Human Organs](https://science.slashdot.org/story/26/08/13/2120250/uk-scientists-to-grow-miniature-human-organs-for-drug-testing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Anrolling Error on the Internet](https://soylentnews.org/article.pl?sid=26/08/10/0250210&from=rss)
-- [AI's Rounding Error Statement](https://soylentnews.org/article.pl?sid=26/08/10/0250210&from=rss)
-- [Judge Orders Google App Store Changes](https://tech.slashdot.org/story/26/08/14/1733213/judge-orders-google-to-make-rival-app-store-installs-easier?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [RustDesk Wayland Support](https://rustdesk.com/blog/unattended-remote-access-wayland/)
+## Science and Current Events
+- [Magnitude 7.7 Earthquake in Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
+- [Ex-Cambridge Professor Found Dead](https://news.slashdot.org/story/26/08/14/2050245/ex-cambridge-professor-at-center-of-plagiarism-row-found-dead?utm_source=rss1.0mainlinkanon&utm_medium=feed)
