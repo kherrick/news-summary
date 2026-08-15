@@ -1,24 +1,20 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Recent Articles of Note
+## AI Ethics & Implementation
+- [AI in drug discovery – what it is, where we stand and the path forward](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really) ([comments](https://news.ycombinator.com/item?id=49313367))
+- [AI fails to deliver a 4-Day Work Week - Especially at AI Companies](https://it.slashdot.org/story/26/08/15/079216/ai-fails-to-deliver-a-4-day-work-week---especially-at-ai-companies)
+- [Meta Patents AI glasses to identify people, create highlight reels](https://yro.slashdot.org/story/26/08/14/2112242/meta-patents-ai-glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party)
+
+## Environmental & Technological Impacts
+- [How Swarming Jellyfish Overran Three French Nuclear Power Reactors](https://hardware.slashdot.org/story/26/08/15/2231253/how-swarming-jellyfish-overran-three-french-nuclear-power-reactors)
+- [Europe's Record Heatwave Kills 25,000, Dries Rivers, Shuts Nuclear Plant, Exposes Submerged Warships](https://news.slashdot.org/story/26/08/15/067213/europes-record-heatwave-kills-25000-dries-rivers-shuts-nuclear-plant-exposes-submerged-warships)
+
+## Software Development & Innovation
+- [Modeling and Verification of Keeta's Consensus [pdf]](https://xescu.re/keeta-consensus.pdf) ([comments](https://news.ycombinator.com/item?id=49314642))
 - [Zig Day Seattle, WA](https://zig.day/usa/seattle/)
-- [AI Fails to Deliver a 4-Day Work Week](https://it.slashdot.org/story/26/08/15/079216/ai-fails-to-deliver-a-4-day-work-week---especially-at-ai-companies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [What You Gain by Building Your Own Game Engine](https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html)
-- [Thunderbird’s Desktop Calendar Visual Redesign](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
-- [Meta Patents AI Glasses to Use Facial Recognition](https://yro.slashdot.org/story/26/08/14/2112242/meta-patents-ai-glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)
 
-## Podcast/Data Collections
-- [ActivityPub Won by Being Boring](https://o.ee/blog/activitypub-won-by-being-boring/)
-- [The Free Lunch Is Over: Concurrency in Software (2005)](http://www.gotw.ca/publications/concurrency-ddj.htm)
+## Space & Astronomy
+- [NASA Telescopes Create Colorful 'Craft' From Nearby Nebula](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss)
 
-## Technical Updates
-- [Linux's Symbolic Links Dependency](https://goonhost.rocks/blog/implementing-ipv8-internet-draft)
-- [NASA's Lunar Base Planning](https://soylentnews.org/article.pl?sid=26/08/09/2116241&from=rss)
-- [Firefox Supports uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html)
-
-## Niche Topics
-- [Printytron: Type & 3D Print](https://printytron.com)
-- [AI in Drug Discovery (Nature Article)](https://www.nature.com/articles/s41573-026-01496-2)
-- [Thunderbird's Email Client Evolution](https://news.ycombinator.com/item?id=49313367)
-- [NASA's Perseverance Mars Rover Updates](https://news.ycombinator.com/item?id=49310362)
+## Legal & Policy Updates
+- [EU Announces New Rules On AI Transparency](https://soylentnews.org/article.pl?sid=26/08/09/0113218&from=rss)
