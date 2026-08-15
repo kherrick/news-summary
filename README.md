@@ -1,34 +1,32 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence
-- [Are Latent Reasoning Models Easily Interpretable?](https://arxiv.org/abs/2604.04902) ([comments](https://lobste.rs/s/obo3ie/are_latent_reasoning_models_easily))
-- [The AI Situation in Software Development](https://srikanth.ch/posts/the-ai-situation/) ([comments](https://news.ycombinator.com/item?id=49310755))
-- [Yadda 3.0.0: BDD in the Age of AI Agents](http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html) ([comments](https://news.ycombinator.com/item?id=49310495))
-- [Working with AI Feels More Like Leadership Than Coding](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/) ([comments](https://news.ycombinator.com/item?id=49309451))
+## Climate & Environment
+- [Europe's scorched landscapes seen from space after summer heatwaves](https://www.bbc.com/news/articles/c4gxy0wqqd9o) [comments](https://news.ycombinator.com/item?id=49312413)
+- [Europe's Record Heatwave Kills 25,000, Dries Rivers, Shuts Nuclear Plant, Exposes Submerged Warships](https://news.slashdot.org/story/26/08/15/067213/europes-record-heatwave-kills-25000-dries-rivers-shuts-nuclear-plant-exposes-submerged-warships?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## AI Safety & Ethics
-- [AI Can Now Design Functional Viruses. Should We Worry?](https://spectrum.ieee.org/ai-designed-virus)
-- [Person Hides Prompt Injection In Legal Filing Telling AI To Side With Them](https://yro.slashdot.org/story/26/08/14/0941240/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Why I remain a skeptic](https://blog.jsbarretto.com/post/i-remain-a-skeptic) ([comments](https://lobste.rs/s/fooyux/why_i_remain_skeptic))
+## Health & Biology
+- [A controversial Alzheimer's surgery is said to reverse symptoms](https://www.nature.com/articles/d41586-026-02448-x) [comments](https://news.ycombinator.com/item?id=49312008)
+- [Semaglutide linked to 26% lower 5-year predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432) [comments](https://news.ycombinator.com/item?id=49311651)
+- [The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/) [comments](https://news.ycombinator.com/item?id=49306333)
 
-## Cybersecurity
-- [Vulnerability Giving Attackers Full Control of Macs Is Under Active Exploitation](https://apple.slashdot.org/story/26/08/14/2213230/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49310682))
-- [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV) ([comments](https://lobste.rs/s/pu3yzg/risc_v_they_should_have_known_better))
-- [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/) ([comments](https://news.ycombinator.com/item?id=49304447))
-- [Firefox Is Now the Last Major Browser That Still Supports uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html) ([comments](https://news.ycombinator.com/item?id=49303202))
+## Artificial Intelligence & Machine Learning
+- [Are Latent Reasoning Models Easily Interpretable?](https://arxiv.org/abs/2604.04902) [comments](https://lobste.rs/s/8r7thh/ironies_automation_1983)
+- [Yadda 3.0.0: BDD in the Age of AI Agents](http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html) [comments](https://lobste.rs/s/scwuwv/flirt_github_mailing_list_backends)
+- [Google is making private AI practical with homomorphic encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/) [comments](https://news.ycombinator.com/item?id=49300314)
+- [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) [comments](https://news.ycombinator.com/item?id=49299605)
+- [Could a computer scientist build a brain?](https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/) [comments](https://lobste.rs/s/hxur8w/how_is_compression_prediction)
 
-## Space & Science
+## Space & Astronomy
 - [Astronomers Discover a New Kind of Cosmic Object: a Black Hole 'Star'](https://science.slashdot.org/story/26/08/14/2224234/astronomers-discover-a-new-kind-of-cosmic-object-a-black-hole-star?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Three Supermassive Black Holes Discovered In a Single Galaxy For the First Time](https://science.slashdot.org/story/26/08/14/0931237/three-supermassive-black-holes-discovered-in-a-single-galaxy-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [A Spectre Is Haunting Unicode](https://www.dampfkraft.com/ghost-characters.html)
 
-## Policy & Regulation
+## Cybersecurity & Privacy
+- [Vulnerability giving attackers full control of Macs is under active exploitation](https://apple.slashdot.org/story/26/08/14/2213230/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/) [comments](https://news.ycombinator.com/item?id=49304447)
+
+## Policy & Governance
 - [France's Top Court Blocks Social Media Ban For Under-15s](https://yro.slashdot.org/story/26/08/14/2019223/frances-top-court-blocks-social-media-ban-for-under-15s?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Apple Adds Blockchain Support to iOS 17.4](https://i.kchu.co/blockchain-f10435a.pdf)
-- [EU Announces New Rules On AI Transparency](https://soylentnews.org/article.pl?sid=26/08/09/0113218)
-- [Judge Orders Google To Make Rival App Store Installs Easier](https://tech.slashdot.org/story/26/08/14/1733213/judge-orders-google-to-make-rival-app-store-installs-easier?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Trump Slaps a 100% Tariff On Heavy and 'Sensitive' Drones](https://yro.slashdot.org/story/26/08/14/0952221/trump-slaps-a-100-tariff-on-heavy-and-sensitive-drones?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Notable Mentions
-- [The Price of a Costco Hot Dog Has Gone Up](https://sina.bio/posts/costco-hotdog.html)
-- [Show HN: Quasicrystals Animation Playground with WebXR](https://hypnagogic-quasicrystals.github.io/)
-- [Xorshift Generators](https://www.alanzucconi.com/2026/08/15/xorshift-generators/)]
+## Innovative Tools & Community
+- [Printytron – Type it. 3D Print it](https://printytron.com) [comments](https://news.ycombinator.com/item?id=49310829)
+- [The Dutch Community Where People Live on Strips of Land in a Lake](https://www.core77.com/posts/144869) [comments](https://news.ycombinator.com/item?id=49312165)
