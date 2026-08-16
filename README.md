@@ -1,17 +1,30 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Emerging Technologies
-- [Patterns and problems in emerging multi-agent systems](https://www.anthropic.com/research/multiagent-systems)
-- [AI in drug discovery – what it is, where we stand and the path forward](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
+## AI & Scientific Advancements
+- [AI in Drug Discovery](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
+- [Copper's Melting Behavior for Fusion Energy](https://science.slashdot.org/story/26/08/16/0227237/coppers-surprising-melting-behavior-provides-insights-for-future-fusion_power plant-design)
+- [Reproducible Builds on PyPI](https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/)
+- [SugarTrack - Offline Blood Sugar Logbook](https://sugartrack-beta.vercel.app/)
 
-## Hardware and Infrastructure
-- [It's Not Just RAM: Windows Licenses Are Also Pushing Up PC Prices](https://hardware.slashdot.org/story/26/08/15/0635210/its-not-just-ram-windows-licenses-are-also-pushing-up-pc-prices)
-- [Open-Source Stealth USB Hides An Encrypted Partition Behind An 8GB Decoy Drive](https://soylentnews.org/article.pl?sid=26/08/10/1752257)
+## Hardware & AI Integration
+- [AMD Acquires AI Chip Startup Taalas](https://soylentnews.org/article.pl?sid=26/08/13/1157232&from=rss)
 
-## Climate and Environment
-- [Europe's Record Heatwave Kills 25,000, Dries Rivers, Shuts Nuclear Plant, Exposes Submerged Warships](https://news.slashdot.org/story/26/08/15/067213)
-- [How Swarming Jellyfish Overran Three French Nuclear Power Reactors](https://hardware.slashdot.org/story/26/08/15/2231253)
+## Security Vulnerabilities
+- [Zoomsday Flaw in Zoom Calls](https://soylentnews.org/article.pl?sid=26/08/16/012644&from=rss)
+- [USB Stealth Backdoor Exploit](https://soylentnews.org/article.pl?sid=26/08/12/1750239&from=rss)
 
-## Health and Social
-- [Abdominal fat predicts heart disease risk better than BMI](https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi)
-- [At-home test for infected ticks could improve Lyme Disease diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/)
+## Environmental Tech
+- [Swarming Jellyfish Disrupting Nuclear Reactors](https://hardware.slashdot.org/story/26/08/15/2231253/how-swarming-jellyfish-overran-three-french-nuclear_power reactors)
+- [Stimulated Geologic Hydrogen Extraction](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
+
+## Software Engineering
+- [Leveraging Functional Programming in Modern Development](https://blog.pickcode.io/program-with-paint-brushes-not-pencils/)
+- [Software Engineering Fundamentals Matter](https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/)
+
+## AI Ethics & Regulation
+- [EU AI Transparency Rules](https://soylentnews.org/article.pl?sid=26/08/09/0113218&from=rss)
+- [Meta's Facial Recognition AI Glasses](https://yro.slashdot.org/story/26/08/14/2112242/meta-patents-ai_glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party)
+
+## Notable Incidents
+- [Heatwave Death Toll in Europe](https://news.slashdot.org/story/26/08/15/067213/europes-record-heatwave-kills-25000-dries-rivers-shuts-nuclear-plant-exposes-submerged_warships)
+- [University Plagiarism Professor's Death](https://news.slashdot.org/story/26/08/14/2050245/ex-cambridge-professor-at-center-of-plagiarism-row-found-dead)
