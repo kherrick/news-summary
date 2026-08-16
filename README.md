@@ -1,30 +1,22 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI & Scientific Advancements
-- [AI in Drug Discovery](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
-- [Copper's Melting Behavior for Fusion Energy](https://science.slashdot.org/story/26/08/16/0227237/coppers-surprising-melting-behavior-provides-insights-for-future-fusion_power plant-design)
-- [Reproducible Builds on PyPI](https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/)
-- [SugarTrack - Offline Blood Sugar Logbook](https://sugartrack-beta.vercel.app/)
+## Artificial Intelligence & Machine Learning
+- [Muse Glimmer 30B Open Weight Model for Local Deployment](https://soylentnews.org/article.pl?sid=26/08/15/0320242&from=rss)
+- [Patterns and problems in emerging multi-agent systems](https://www.anthropic.com/research/multiagent-systems)
+- [AI has access to a vastly larger working memory than the human brain](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
-## Hardware & AI Integration
-- [AMD Acquires AI Chip Startup Taalas](https://soylentnews.org/article.pl?sid=26/08/13/1157232&from=rss)
+## Energy & Advanced Power Technologies
+- [Copper's Surprising Melting Behavior Provides Insights for Future Fusion Power Plant Design](https://science.slashdot.org/story/26/08/16/0227237/coppers-surprising-melting-behavior-provides-insights-for-future-fusion-power-plant-design?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Zapping Rocks Unlocks Stimulated Geologic Hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
 
-## Security Vulnerabilities
-- [Zoomsday Flaw in Zoom Calls](https://soylentnews.org/article.pl?sid=26/08/16/012644&from=rss)
-- [USB Stealth Backdoor Exploit](https://soylentnews.org/article.pl?sid=26/08/12/1750239&from=rss)
+## Health & Biotechnology
+- [Abdominal fat predicts heart disease risk better than BMI](https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi)
+- [AI in drug discovery – what it is, where we stand and the path forward](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
 
-## Environmental Tech
-- [Swarming Jellyfish Disrupting Nuclear Reactors](https://hardware.slashdot.org/story/26/08/15/2231253/how-swarming-jellyfish-overran-three-french-nuclear_power reactors)
-- [Stimulated Geologic Hydrogen Extraction](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
+## Space, Physics, and Astronomy
+- [Astronomers Discover a New Kind of Cosmic Object: a Black Hole 'Star'](https://science.slashdot.org/story/26/08/14/2224234/astronomers-discover-a-new-kind-of-cosmic-object-a-black-hole-star?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter](https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/)
 
-## Software Engineering
-- [Leveraging Functional Programming in Modern Development](https://blog.pickcode.io/program-with-paint-brushes-not-pencils/)
-- [Software Engineering Fundamentals Matter](https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/)
-
-## AI Ethics & Regulation
-- [EU AI Transparency Rules](https://soylentnews.org/article.pl?sid=26/08/09/0113218&from=rss)
-- [Meta's Facial Recognition AI Glasses](https://yro.slashdot.org/story/26/08/14/2112242/meta-patents-ai_glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party)
-
-## Notable Incidents
-- [Heatwave Death Toll in Europe](https://news.slashdot.org/story/26/08/15/067213/europes-record-heatwave-kills-25000-dries-rivers-shuts-nuclear-plant-exposes-submerged_warships)
-- [University Plagiarism Professor's Death](https://news.slashdot.org/story/26/08/14/2050245/ex-cambridge-professor-at-center-of-plagiarism-row-found-dead)
+## Software Development & Policy
+- [Software Engineering fundamentals matter more than ever](https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/)
+- [EU Announces New Rules On AI Transparency](https://soylentnews.org/article.pl?sid=26/08/09/0113218&from=rss)
