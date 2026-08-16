@@ -1,36 +1,29 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Space Exploration
+## AI and Machine Learning
+- [Anthropic Discovers AI Agents Given Conflicting Instructions Soon Tried to Sabotage Each Other](https://slashdot.org/story/26/08/16/0632252/anthropic-discovers-ai-agents-given-conflicting-instructions-soon-tried-to-sabotage-each-other?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Patterns and problems in emerging multi-agent systems](https://www.anthropic.com/research/multiagent-systems) ([comments](https://news.ycombinator.com/item?id=49316395))
+
+## Space and Technology
 - [SpaceX Launches Two Falcon 9 Rockets just 38 Minutes Apart](https://science.slashdot.org/story/26/08/16/0647207/spacex-launches-two-falcon-9-rockets-just-38-minutes-apart?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [NASA Telescopes Create Colorful 'Craft' From Nearby Nebula](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss)
-
-## AI & Machine Learning
-- [On Knowledge Representation](https://sifter.org/~simon/journal/20130713.h.html)
-- [AI in drug discovery – what it is, where we stand and the path forward](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
-- [Patterns and problems in emerging multi-agent systems](https://www.anthropic.com/research/multiagent-systems)
-- [AI Fails to Deliver a 4-Day Work Week - Especially at AI Companies](https://it.slashdot.org/story/26/08/15/079216/ai-fails-to-deliver-a-4-day-work-week---especially-at-ai-companies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Semaglutide linked to lower predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432)
-
-## Energy & Environment
 - [Copper's Surprising Melting Behavior Provides Insights for Future Fusion Power Plant Design](https://science.slashdot.org/story/26/08/16/0227237/coppers-surprising-melting-behavior-provides-insights-for-future-fusion-power-plant-design?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [How Swarming Jellyfish Overran Three French Nuclear Power Reactors](https://hardware.slashdot.org/story/26/08/15/2231253/how-swarming-jellyfish-overran-three-french-nuclear-power-reactors?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter](https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/)
-- [Why Europe Keeps Being Pummeled by Heat Waves](https://news.slashdot.org/story/26/08/15/0544251/why-europe-keeps-being-pummeled-by-heat-waves?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Zapping Rocks Unlocks Stimulated Geologic Hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
 
-## Society & Policy
-- [X Open Sources Its Ranking and Filtering Algorithms](https://slashdot.org/story/26/08/16/0223258/x-open-sources-its-ranking-and-filtering-algorithms?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Ninth Circuit Rewrites Section 230 To Remove The Part That Actually Mattered](https://soylentnews.org/article.pl?sid=26/08/13/2031207&from=rss)
-- [Recap: Software Should Work 2026](https://bencornia.com/blog/recap-software-should-work-2026)
-- [EU Announces New Rules On AI Transparency](https://soylentnews.org/article.pl?sid=26/08/09/0113218&from=rss)
+## Systems, Infrastructure, and DevOps
+- [Monitoring SystemD services with Healthchecks.io](https://passbe.com/2022/healthchecks-io-systemd-checks/) ([comments](https://lobste.rs/s/dxfl0r/monitoring_systemd_services_with))
+- [A Tour of Magit's Status Interface](https://heiwiper.com/posts/magit-status-tour/) ([comments](https://lobste.rs/s/bhhcf3/tour_magit_s_status_interface))
+- [The essence of architectural work - Part 5](https://www.ufried.com/blog/essence_of_architecture_5/) ([comments](https://lobste.rs/s/cdzcx4/essence_architectural_work_part_5))
+- [On Knowledge Representation](https://sifter.org/~simon/journal/20130713.h.html) ([comments](https://lobste.rs/s/fk1u5s/on_knowledge_representation))
 
-## Hardware & Software Development
-- [A Tour of Magit's Status Interface](https://heiwiper.com/posts/magit-status-tour/)
-- [Falstad Math and Physics Simulations](https://www.falstad.com/mathphysics.html)
+## Science and Health
+- [Abdominal fat predicts heart disease risk better than BMI](https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi))
+
+## Programming Languages and Tools
+- [Haskell: origins, evolution, and future](https://www.youtube.com/watch?v=MQeIerDsReA&t=673s) ([comments](https://lobste.rs/s/5rh6fs/haskell_origins_evolution_future))
+- [What's missing to have reproducible builds on PyPI](https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/) ([comments](https://lobste.rs/s/rexoqj/what_s_missing_have_reproducible_builds_on_pypi/))
+- [Ironies of Automation (1983)](https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf) ([comments](https://lobste.rs/s/8r7thh/ironies_automation_1983))
+
+## Law, Policy, and Ethics
+- [Ninth Circuit rewrites Section 230 to remove the part that actually mattered](https://soylentnews.org/article.pl?sid=26/08/13/2031207&from=rss)
 - [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
-- [Firefox is now the last major browser that still supports uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html)
-
-## Science & Mathematics
-- [The essence of architectural work - Part 5](https://www.ufried.com/blog/essence_of_architecture_5/)
-- [How Is Compression Prediction?](https://lukefleed.xyz/posts/compression/)
-- [Everything is about to “go dark”](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
-- [Astronomers Discover a New Kind of Cosmic Object: a Black Hole 'Star'](https://science.slashdot.org/story/26/08/14/2224234/astronomers-discover-a-new-kind-of-cosmic-object-a-black-hole-star?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [ActivityPub won by being boring](https://o.ee/blog/activitypub-won-by-being-boring/)
