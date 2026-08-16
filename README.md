@@ -1,28 +1,21 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Climate and Environmental Shocks
-- [Why Europe Keeps Being Pummeled by Heat Waves](https://news.slashdot.org/story/26/08/15/0544251/why-europe-keeps-being-pummeled-by-heat-waves?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49314962))
+## Climate & Environment
+- [Why Europe Keeps Being Pummeled by Heat Waves](https://news.slashdot.org/story/26/08/15/0544251/why-europe-keeps-being-pummeled-by-heat-waves?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter](https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/) ([comments](https://news.ycombinator.com/item?id=49313428))
 - [How Swarming Jellyfish Overran Three French Nuclear Power Reactors](https://hardware.slashdot.org/story/26/08/15/2231253/how-swarming-jellyfish-overran-three-french-nuclear-power-reactors?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Super El Niño Keeps Growing as New Forecasts Reach Record Territory](https://news.ycombinator.com/item?id=49313428)
 
-## AI and Technology Trends
-- [AI in Drug Discovery – What It Is and the Path Forward](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
-- [LazyPromise as a Lightweight Alternative to Effect](https://github.com/lazy-promise/lazy-promise) ([comments](https://lobste.rs/s/djlv1s/what-do-you-think-lazypromise-as))
-- [RISC-V Developments and AI Kernel Updates](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV) ([comments](https://news.ycombinator.com/item?id=49298035))
-- [Claude's New Watermark and AI-Generated Content](https://soylentnews.org/article.pl?sid=26/08/13/2034239&from=rss)
+## Technology & Innovation
+- [What do you think of LazyPromise as a lightweight alternative to Effect?](https://github.com/lazy-promise/lazy-promise) ([comments](https://lobste.rs/s/djlv1s/what_do_you_think_lazypromise_as))
+- [A Programming Paradigm for Spatiotemporal Composability](https://github.com/cordiverse/paper/blob/main/paper.pdf) ([comments](https://lobste.rs/s/wwf3th/programming_paradigm_for))
 
-## Social and Political Concerns
-- [Government Monitoring Anti-Flock TikTok/Instagram Accounts](https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/) ([comments](https://news.ycombinator.com/item?id=49314884))
-- [AI Fails to Deliver Work Week Reductions](https://it.slashdot.org/story/26/08/15/079216/ai-fails-to-deliver-a-4-day-work-week---especially-at-ai-companies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Health & Medicine
+- [Abdominal fat predicts heart disease risk better than BMI](https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi) ([comments](https://news.ycombinator.com/item?id=49314596))
+- [Semaglutide linked to lower predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432) ([comments](https://news.ycombinator.com/item?id=49311651))
+- [A controversial Alzheimer's surgery is said to reverse symptoms](https://www.nature.com/articles/d41586-026-02448-x) ([comments](https://news.ycombinator.com/item?id=49312008))
 
-## Science and Health Breakthroughs
-- [Abdominal Fat Predicts Heart Disease Better Than BMI](https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi) ([comments](https://news.ycombinator.com/item?id=49314403))
-- [New Alzheimer's Surgery Potentially Reverses Symptoms](https://www.nature.com/articles/d41586-026-02448-x) ([comments](https://news.ycombinator.com/item?id=49312008))
+## Science & Exploration
+- [The Wow signal was a strong narrowband radio signal detected on August 15, 1977](https://en.wikipedia.org/wiki/Wow!_signal) ([comments](https://news.ycombinator.com/item?id=49314596))
 
-## Tech Industry Shifts
-- [Larry Ellison Drops Dramatically in Wealth Rankings](https://developers.slashdot.org/story/26/08/15/2047249/how-larry-ellison-dropped-from-worlds-2nd-richest-to-no-8-in-just-2-months?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [AMD Acquires AI Chip Startup Taalas](https://soylentnews.org/article.pl?sid=26/08/13/1157232&from=rss)
-
-## Cultural and Academic Highlights
-- [Pizza Box Project Stack: A Novel Engineering Approach](https://cblgh.org/posts/2026-07-31-pizza-box-project-stack/) ([comments](https://news.ycombinator.com/item?id=49258177))
-- [Zig Day Seattle 2026](https://zig.day/usa/seattle/) ([comments](https://lobste.rs/s/jyhsng/zig-day-seattle-wa))
+## Policy & Governance
+- [The Government Is Monitoring Anti-Flock TikTok and Instagram Accounts](https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/) ([comments](https://news.ycombinator.com/item?id=49314962))
