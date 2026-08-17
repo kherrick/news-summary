@@ -1,30 +1,28 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI & Tech Industry
-- [Anthropic Criticized For Adding Watermarks to Text that Claude Generates - or Processes](https://slashdot.org/story/26/08/17/022215/anthropic-criticized-for-adding-watermarks-to-text-that-claude-generates---or-processes?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/26/08/17/022215/anthropic-criticized-for-adding-watermarks-to-text-that-claude-generates---or-processes?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Anthropic Discovers AI Agents Given Conflicting Instructions Soon Tried to Sabotage Each Other](https://slashdot.org/story/26/08/16/0632252/anthropic-discovers-ai-agents-given-conflicting-instructions-soon-tried-to-sabotage-each-other?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/26/08/16/0632252/anthropic-discovers-ai-agents-given-conflicting-instructions-soon-tried-to-sabotage-each-other?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Stripe will reportedly acquire OpenRouter for $7B+](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/) ([comments](https://news.ycombinator.com/item?id=49323381))
-- [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) ([comments](https://news.ycombinator.com/item?id=49324985))
+## Retro Computing & Nostalgia
+- [AppleWorks on the Apple II](https://stonetools.ghost.io/appleworks-apple2/)
+- [Who Owns Commodore? The Retro PC Brand Still Exists, but a Lot Has Changed](https://www.bgr.com/2233625/who-owns-commodore-retro-brand/)
+- [Show HN: Desktopcolors.com – A museum for solid background colors of classic OS](https://desktopcolors.com)
 
-## Privacy & Surveillance
-- [EFF's Position on Flock Camera Database Searches: 'Get a Warrant First' - and Police Use Should Be Restricted By Law](https://yro.slashdot.org/story/26/08/16/2051205/effs-position-on-flock-camera-database-searches-get-a-warrant-first---and-police-use-should-be-restricted-by-law?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/08/16/2051205/effs-position-on-flock-camera-database-searches-get-a-warrant-first---and-police-use-should-be-restricted-by-law?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Bipartisan 'Uprising' Against Flock Cameras: a Larger Fight Against Big Tech and Surveillance?](https://yro.slashdot.org/story/26/08/16/217209/bipartisan-uprising-against-flock-cameras-a-larger-fight-against-big-tech-and-surveillance?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/08/16/217209/bipartisan-uprising-against-flock-cameras-a-larger-fight-against-big-tech-and-surveillance?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Researchers Use Ordinary WiFi Connections to Create Images of Nearby People and Their Surroundings](https://mobile.slashdot.org/story/26/08/16/057254/researchers-use-ordinary-wifi-connections-to-create-images-of-nearby-people-and-their-surroundings?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://mobile.slashdot.org/story/26/08/16/057254/researchers-use-ordinary-wifi-connections-to-create-images-of-nearby-people-and-their-surroundings?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [New Pass-Ta-Key Attack Reveals All the Things We Didn't Know About Passkeys](https://soylentnews.org/article.pl?sid=26/08/13/125234&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/13/125234&from=rss))
+## Artificial Intelligence & Machine Learning
+- [GPT 5.6 Sol is the best “vision” model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/)
+- [Vetted AI code is hard to justify](https://amoffat.github.io/blog/vetting-burnout.html)
+- [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
+- [Anthropic ‘watermark’ text adulteration in Claude is a perversion of writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)
 
-## Linux & Open Source
-- [Linux Kernel 7.2 Has Been Officially Released with Many New Features](https://linux.slashdot.org/story/26/08/16/2349224/linux-kernel-72-has-been-officially-released-with-many-new-features?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://linux.slashdot.org/story/26/08/16/2349224/linux-kernel-72-has-been-officially-released-with-many-new-features?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [A Rosier Future for Linux Gamers? Epic Games Announces Linux Version of Its Storefront](https://linux.slashdot.org/story/26/08/17/0331227/a-rosier-future-for-linux-gamers-epic-games-announces-linux-version-of-its-storefront?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://linux.slashdot.org/story/26/08/17/0331227/a-rosier-future-for-linux-gamers-epic-games-announces-linux-version-of-its-storefront?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [GIMP Development Update](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/) ([comments](https://news.ycombinator.com/item?id=49326156))
-- [(What Comes) After FOSS?](https://infrastructureinsights.fund/projects/what-comes-after-foss/) ([comments](https://lobste.rs/s/i9u22k/what_comes_after_foss))
+## Space & Exploration
+- [China’s Moon-landing Plans And Why the US Is So Worried](https://science.slashdot.org/story/26/08/16/231206/chinas-moon-landing-plans-and-why-the-us-is-so-worried?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [SpaceX Launches Two Falcon 9 Rockets just 38 Minutes Apart](https://science.slashdot.org/story/26/08/16/0647207/spacex-launches-two-falcon-9-rockets-just-38-minutes-apart?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss)
 
-## Web & Society
-- [Firefox is now the last major browser that still supports uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html) ([comments](https://lobste.rs/s/lfmss9/firefox_is_now_last_major_browser_still))
-- [Bluesky's Active User Base Shrinks 52% Over 18 Months, But Its Protocol is Spreading](https://tech.slashdot.org/story/26/08/16/0326249/blueskys-active-user-base-shrinks-52-over-18-months-but-its-protocol-is-spreading?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/08/16/0326249/blueskys-active-user-base-shrinks-52-over-18-months-but-its-protocol-is-spreading?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Amazon's New User Agreement Seeks To Curb Class-action Suits](https://yro.slashdot.org/story/26/08/17/0447233/amazons-new-user-agreement-seeks-to-curb-class-action-suits?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/08/17/0447233/amazons-new-user-agreement-seeks-to-curb-class-action-suits?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Why 'Click-to-Cancel' Rules Are Popping Up Across the US](https://soylentnews.org/article.pl?sid=26/08/10/1129225&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/10/1129225&from=rss))
+## Privacy, Surveillance, & Policy
+- [EFF’s Position on Flock Camera Database Searches: ‘Get a Warrant First’ - and Police Use Should Be Restricted By Law](https://yro.slashdot.org/story/26/08/16/2051205/effs-position-on-flock-camera-database-searches-get-a-warrant-first---and-police-use-should-be-restricted-by-law?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Bipartisan ‘Uprising’ Against Flock Cameras: a Larger Fight Against Big Tech and Surveillance?](https://yro.slashdot.org/story/26/08/16/217209/bipartisan-uprising-against-flock-cameras-a-larger-fight-against-big-tech-and-surveillance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Flock’s ‘Creepy Cameras’ Remain Major Threat to Privacy Despite Small Recent Changes, Warns ACLU](https://news.slashdot.org/story/26/08/16/2035237/flocks-creepy-cameras-remain-major-threat-to-privacy-despite-small-recent-changes-warns-aclu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Science & Space
-- [China's Moon-landing Plans And Why the US Is So Worried](https://science.slashdot.org/story/26/08/16/231206/chinas-moon-landing-plans-and-why-the-us-is-so-worried?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/08/16/231206/chinas-moon-landing-plans-and-why-the-us-is-so-worried?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [SpaceX Launches Two Falcon 9 Rockets just 38 Minutes Apart](https://science.slashdot.org/story/26/08/16/0647207/spacex-launches-two-falcon-9-rockets-just-38-minutes-apart?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/08/16/0647207/spacex-launches-two-falcon-9-rockets-just-38-minutes-apart?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss))
+## Open Source & Systems
+- [Linux Kernel 7.2 Has Been Officially Released with Many New Features](https://linux.slashdot.org/story/26/08/16/2349224/linux-kernel-72-has-been-officially-released-with-many-new-features?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Protobuf has LSP support](https://buf.build/blog/protobuf-lsp)
+- [Reticulum – Decentralized Mesh Network](https://reticulum.network/)
+- [Build-time systemd schedule](https://gvolpe.com/blog/systemd-schedule/)
