@@ -1,38 +1,29 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI Ethics, Regulation & Society
+## Artificial Intelligence & Machine Learning
+- [OpenAI Announces Massive Data Center In Ohio With $105 Billion Nvidia Guarantee](https://news.slashdot.org/story/26/08/17/1831220/openai-announces-massive-data-center-in-ohio-with-105-billion-nvidia-guarantee?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Qwen3.8 27B Scores 52 on Artificial Analysis](https://artificialanalysis.ai/models/qwen3-8-27b)
+- [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://speko.ai/) ([comments](https://news.ycombinator.com/item?id=49332751))
 - [Anthropic CEO Says AI Backlash Is 'Fundamentally a Crisis of Trust'](https://slashdot.org/story/26/08/17/1557213/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Anthropic's 'watermark' text adulteration in Claude is a perversion of writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing) ([comments](https://news.ycombinator.com/item?id=49324087))
-- [Judge relying wholly on AI in order is covered by judicial immunity, court rules](https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/) ([comments](https://news.ycombinator.com/item?id=49331625))
-- [Protesters Haul A Guillotine To City Council Meeting About A Potential AI Data Center](https://soylentnews.org/article.pl?sid=26/08/10/1750239&from=rss)
 
-## Privacy & Surveillance
-- [OpenAI Ditches Recall-Style Screenshot Surveillance For Friendly Keylogging](https://yro.slashdot.org/story/26/08/17/0454255/openai-ditches-recall-style-screenshot-surveillance-for-friendly-keylogging?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Flock's 'Creepy Cameras' Remain Major Threat to Privacy Despite Small Recent Changes, Warns ACLU](https://news.slashdot.org/story/26/08/16/2035237/flocks-creepy-cameras-remain-major-threat-to-privacy-despite-small-recent-changes-warns-aclu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Apple's App Tracking Transparency treated its own apps better than rivals](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html) ([comments](https://news.ycombinator.com/item?id=49331222))
-- [Researchers Use Ordinary WiFi Connections to Create Images of Nearby People and Their Surroundings](https://mobile.slashdot.org/story/26/08/16/057254/researchers-use-ordinary-wifi-connections-to-create-images-of-nearby-people-and-their-surroundings?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Regulation & Legal Affairs
+- [Meta faces 'astronomical' consequences as legal fight reaches critical moment](https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html) ([comments](https://news.ycombinator.com/item?id=49335163))
+- [Anthropic's War on open source AI](https://twitter.com/TheAhmadOsman/status/2065307070044234186)
+- [EFF's Position on Flock Camera Database Searches: 'Get a Warrant First' - and Police Use Should Be Restricted By Law](https://yro.slashdot.org/story/26/08/16/2051205/effs-position-on-flock-camera-database-searches-get-a-warrant-first---and-police-use-should-be-restricted-by-law?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## AI Development & Hardware
-- [Anthropic Will Design its Own Hardware to Power Claude](https://soylentnews.org/article.pl?sid=26/08/15/0127246&from=rss)
-- [AMD Acquires AI Chip Startup Taalas to Boost Inference Performance by Etching Models Into Silicon](https://soylentnews.org/article.pl?sid=26/08/13/1157232&from=rss)
-- [Linus Torvalds Says AI Has Made 'Huge' Linux Kernel Updates The New Normal](https://soylentnews.org/article.pl?sid=26/08/10/1132250&from=rss)
-- [Open-Source AI Is Now Just as Good as Proprietary](https://soylentnews.org/article.pl?sid=26/08/07/2247225&from=rss)
+## Hardware & Computing Innovations
+- [Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices](https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399)
+- [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights)
+- [Beyond WASI: Running any Rust application in the browser with BrowserPod 3.0](https://labs.leaningtech.com/blog/browserpod-rust.html)
+- [MuQSS CPU scheduler for Linux 7.2 by Con Kolivas](https://lore.kernel.org/lkml/CABqErrH=oQ3povVuSPhRON97v63=mB85jQmZjf443ofdYAuxxw@mail.gmail.com/)
 
-## Science & Health
-- [Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study](https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/) ([comments](https://news.ycombinator.com/item?id=49332981))
-- [NASA Telescopes Create Colorful 'Craft' From Nearby Nebula](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss)
-- [Researchers Map Out the Human Connectome's 88 Billion Neuron Segments](https://soylentnews.org/article.pl?sid=26/08/08/2117254&from=rss)
+## Platform & Community Developments
+- [GitHub has alternatives, but no replacement](https://lalitm.com/post/github-alternatives/)
+- [Does it make sense to switch to a Github Alternative ?](https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github)
+- [Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized](https://saggar.marginalutility.dev/) ([comments](https://news.ycombinator.com/item?id=49331551))
+- [Show HN: Learn Flags Quiz](https://flagquizzes.com/) ([comments](https://news.ycombinator.com/item?id=49331288))
 
-## Tech Industry & Business
-- [Amazon's New User Agreement Seeks To Curb Class-action Suits](https://yro.slashdot.org/story/26/08/17/0447233/amazons-new-user-agreement-seeks-to-curb-class-action-suits?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Ninth Circuit Rewrites Section 230 To Remove The Part That Actually Mattered](https://soylentnews.org/article.pl?sid=26/08/13/2031207&from=rss)
-- [Bluesky's Active User Base Shrinks 52% Over 18 Months, But Its Protocol is Spreading](https://tech.slashdot.org/story/26/08/16/0326249/blueskys-active-user-base-shrinks-52-over-18-months-but-its-protocol-is-spreading?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [GitHub Has an Availability Problem. Is It Time to Look Elsewhere?](https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/) ([comments](https://news.ycombinator.com/item?id=49333728))
-- [Firefox is Now the Last Major Browser That Still Supports uBlock Origin](https://soylentnews.org/article.pl?sid=26/08/15/1958258&from=rss)
-- [Linux Desktop Use Surged To 22% On One Workday, Cloudflare Data Shows](https://soylentnews.org/article.pl?sid=26/08/15/2257245&from=rss)
-
-## Gaming, Entertainment & Curiosities
-- [AGI-64 Brings Sierra Adventures to the Commodore 64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64) ([comments](https://news.ycombinator.com/item?id=49325714))
-- [Could a Disc-Free PlayStation Actually Lower Game Prices?](https://games.slashdot.org/story/26/08/16/1839224/could-a-disc-free-playstation-actually-lower-game-prices?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Disneyland Announces Star Wars/Fortnite Collaboration, 'Avatar' Attraction, and a Newer Tomorrowland](https://games.slashdot.org/story/26/08/16/0757205/disneyland-announces-star-warsfortnite-collaboration-avatar-attraction-and-a-newer-tomorrowland?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [The only known trebuchet casualty in history](https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/) ([comments](https://news.ycombinator.com/item?id=49331555))
+## Space, Science & Exploration
+- [Tracking Rare Books Leads to an Amazon AI Training Facility](https://news.slashdot.org/story/26/08/17/1644216/tracking-rare-books-leads-to-an-amazon-ai-training-facility?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [China's Moon-landing Plans And Why the US Is So Worried](https://science.slashdot.org/story/26/08/16/231206/chinas-moon-landing-plans-and-why-the-us-is-so-worried?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss)
