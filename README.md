@@ -1,28 +1,12 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Retro Computing & Nostalgia
-- [AppleWorks on the Apple II](https://stonetools.ghost.io/appleworks-apple2/)
-- [Who Owns Commodore? The Retro PC Brand Still Exists, but a Lot Has Changed](https://www.bgr.com/2233625/who-owns-commodore-retro-brand/)
-- [Show HN: Desktopcolors.com – A museum for solid background colors of classic OS](https://desktopcolors.com)
+## Artificial Intelligence
+- [AI-Generated GitHub Copilot Autofix Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug) ([comments](https://news.ycombinator.com/item?id=49331423))
+- [Stripe to Buy OpenRouter for $7B](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion) ([comments](https://news.ycombinator.com/item?id=49326816))
 
-## Artificial Intelligence & Machine Learning
-- [GPT 5.6 Sol is the best “vision” model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/)
-- [Vetted AI code is hard to justify](https://amoffat.github.io/blog/vetting-burnout.html)
-- [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
-- [Anthropic ‘watermark’ text adulteration in Claude is a perversion of writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)
+## Space & Science
+- [SpaceX Launches Two Falcon 9 Rockets just 38 Minutes Apart](https://science.slashdot.org/story/26/08/16/0647207/spacex-launches-two-falcon-9-rockets-just-38-minutes-apart?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/08/16/0647207/spacex-launches-two-falcon-9-rockets-just-38-minutes-apart?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Space & Exploration
-- [China’s Moon-landing Plans And Why the US Is So Worried](https://science.slashdot.org/story/26/08/16/231206/chinas-moon-landing-plans-and-why-the-us-is-so-worried?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [SpaceX Launches Two Falcon 9 Rockets just 38 Minutes Apart](https://science.slashdot.org/story/26/08/16/0647207/spacex-launches-two-falcon-9-rockets-just-38-minutes-apart?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss)
-
-## Privacy, Surveillance, & Policy
-- [EFF’s Position on Flock Camera Database Searches: ‘Get a Warrant First’ - and Police Use Should Be Restricted By Law](https://yro.slashdot.org/story/26/08/16/2051205/effs-position-on-flock-camera-database-searches-get-a-warrant-first---and-police-use-should-be-restricted-by-law?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Bipartisan ‘Uprising’ Against Flock Cameras: a Larger Fight Against Big Tech and Surveillance?](https://yro.slashdot.org/story/26/08/16/217209/bipartisan-uprising-against-flock-cameras-a-larger-fight-against-big-tech-and-surveillance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Flock’s ‘Creepy Cameras’ Remain Major Threat to Privacy Despite Small Recent Changes, Warns ACLU](https://news.slashdot.org/story/26/08/16/2035237/flocks-creepy-cameras-remain-major-threat-to-privacy-despite-small-recent-changes-warns-aclu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## Open Source & Systems
-- [Linux Kernel 7.2 Has Been Officially Released with Many New Features](https://linux.slashdot.org/story/26/08/16/2349224/linux-kernel-72-has-been-officially-released-with-many-new-features?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Protobuf has LSP support](https://buf.build/blog/protobuf-lsp)
-- [Reticulum – Decentralized Mesh Network](https://reticulum.network/)
-- [Build-time systemd schedule](https://gvolpe.com/blog/systemd-schedule/)
+## Software & Systems
+- [Beyond WASI: Running any Rust application in the browser with BrowserPod 3.0](https://labs.leaningtech.com/blog/browserpod-rust.html) ([comments](https://lobste.rs/s/fxv1u9/beyond_wasi_running_any_rust_application))
+- [MuQSS CPU scheduler for Linux 7.2 by Con Kolivas](https://lore.kernel.org/lkml/CABqErrH=oQ3povVuSPhRON97v63=mB85jQmZjf443ofdYAuxxw@mail.gmail.com/) ([comments](https://lobste.rs/s/o5vcbw/muqss_cpu_scheduler_for_linux_7_2_by_con))
