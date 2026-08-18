@@ -1,32 +1,29 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Technology
-- [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)
-- [AI Software Development – What Does The Data Say?](https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/)
-- [AI-Generated GitHub Copilot “Autofix” Allowed Compromise](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
-- [Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
-- [OpenAI Ditches Recall-Style Screenshot Surveillance For Friendly Keylogging](https://yro.slashdot.org/story/26/08/17/0454255/openai-ditches-recall-style-screenshot-surveillance-for-friendly-keylogging)
-- [Anthropic CEO Says AI Backlash Is 'Fundamentally a Crisis of Trust'](https://slashdot.org/story/26/08/17/1557213/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [MuQSS CPU scheduler for Linux 7.2 by Con Kolivas](https://lore.kernel.org/lkml/CABqErrH=oQ3povVuSPhRON97v63=mB85jQmZjf443ofdYAuxxw@mail.gmail.com/)
-- [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759)
-- [We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/)
+## Open Source & Software Development
+- [Biboumi – XMPP gateway to IRC](https://biboumi.codeberg.page/doc/) ([comments](https://lobste.rs/s/ih4bmy/biboumi_xmpp_gateway_irc))
+- [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/) ([comments](https://news.ycombinator.com/item?id=49338328))
+- [Why BQN Wins](https://github.com/codereport/max-odd-binary/blob/main/WHY_BQN_WINS.md) ([comments](https://lobste.rs/s/wlofzl/benchmarkpocalypse))
+- [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759) ([comments](https://news.ycombinator.com/item?id=49334991))
 
-## Legal and Policy Changes
-- [Supreme Court Rejects Verizon Bid For $47 Million Refund Of FCC Fine](https://yro.slashdot.org/story/26/08/17/223241/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [OpenAI Announces Massive Data Center In Ohio With $105 Billion Nvidia Guarantee](https://news.slashdot.org/story/26/08/17/1831220/openai-announces-massive-data-center-in-ohio-with-105-billion-nvidia-guarantee?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [EU Pushed to Regulate AI Hardware](https://soylentnews.org/article.pl?sid=26/08/13/1152214&from=rss)
+## Energy & Infrastructure
+- [Solar Power and Batteries Have Been Keeping Europe's Grid Stable](https://hardware.slashdot.org/story/26/08/18/0728240/solar-power-and-batteries-have-been-keeping-europes-grid-stable?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/08/18/0728240/solar-power-and-batteries-have-been-keeping-europes-grid-stable?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [US Grid Operator PJM Proposes Forcing Data Center Off Grid During Emergencies](https://hardware.slashdot.org/story/26/08/17/1842250/us-grid-operator-pjm-proposes-forcing-data-center-off-grid-during-emergencies?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/08/17/1842250/us-grid-operator-pjm-proposes-forcing-data-center-off-grid-during-emergencies?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Buy Now, Pay Later Lenders Pitch Loans For Needs Like Electricity and Rent](https://news.slashdot.org/story/26/08/17/2254201/buy-now-pay-later-lenders-pitch-loans-for-needs-like-electricity-and-rent?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49340299))
 
-## Environmental and Science
+## Health & Medicine
+- [Always Finish Your Antibiotics? Longer is Better? Outdated Ideas About Antibiotics Are Common](https://soylentnews.org/article.pl?sid=26/08/16/201225&from=rss)
+- [Exercise intensity modulates interorgan communication and is associated with](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue) ([comments](https://news.ycombinator.com/item?id=49341411))
+
+## Space & Astronomy
 - [Astronomers Discover a Brand-New Type of Astrophysical Object: A Black Hole Star](https://soylentnews.org/article.pl?sid=26/08/16/1958229&from=rss)
-- [Poop Made Life on Earth Possible](https://soylentnews.org/article.pl?sid=26/08/11/1124248&from=rss)
-- [Critical 'Zoomsday' Flaw Enables Total Device Takeover During Zoom Calls](https://soylentnews.org/article.pl?sid=26/08/15/0314218&from=rss)
+- [NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss)
 
-## Hardware and Software
-- [Apple Wallet Driver's License Feature to Launch in Four More US States](https://apple.slashdot.org/story/26/08/17/2157231/apple-wallet-drivers-license-feature-to-launch-in-four-more-us-states?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Linux Desktop Use Surged To 22% On One Workday, Cloudflare Data Shows](https://soylentnews.org/article.pl?sid=26/08/15/2257245&from=rss)
-- [AppleWorks on the Apple II](https://stonetools.ghost.io/appleworks-apple2/)
+## Policy & Law
+- [Ninth Circuit Rewrites Section 230 To Remove The Part That Actually Mattered](https://soylentnews.org/article.pl?sid=26/08/13/2031207&from=rss)
+- [Supreme Court Rejects Verizon Bid For $47 Million Refund Of FCC Fine](https://yro.slashdot.org/story/26/08/17/223241/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/08/17/223241/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Meta Faces $1.4 Trillion Reckoning In Latest Trial Over Social Media Addiction](https://yro.slashdot.org/story/26/08/17/1912238/meta-faces-14-trillion-reckoning-in-latest-trial-over-social-media-addiction?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/08/17/1912238/meta-faces-14-trillion-reckoning-in-latest-trial-over-social-media-addiction?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Other
-- [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)
-- [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/)
-- [Los Puesteros, solitary men who look after ranches and livestock in Patagonia](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
+## Artificial Intelligence & Ethics
+- [AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read) ([comments](https://lobste.rs/s/fx9pic/ai_dr_ai_didnt_read))
+- [Anthropic Will Design its Own Hardware to Power Claude](https://soylentnews.org/article.pl?sid=26/08/15/0127246&from=rss)
