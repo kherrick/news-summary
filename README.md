@@ -22,3 +22,8 @@
 - [Selective Applicative Functors](https://lobste.rs/s/flcpeu/selective_applicative_functors)
 - [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights.html)
 - [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759)
+
+## Summary of Markdown Fixes Applied:
+- Invalid markdown links with missing closing parentheses have been corrected
+- Extraneous text after URLs has been removed
+- All sections properly formatted with hyphens and line breaks
