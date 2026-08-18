@@ -1,32 +1,31 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## 2026-08-18
-- [Norway Should Buy OpenAI](https://www.onethousandmeans.com/p/norway-should-buy-openai)
-- [Memory Maker CXMT Overtakes Tencent to Become China's Most Valuable Company 17 Days After its IPO](https://soylentnews.org/article.pl?sid=26/08/18/0352202&from=rss)
-- [Beware Management Consultants](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/)
-- [Odin's New Inline Assembly Templates](https://odin-lang.org/docs/inline-asm/)
-- [Argus, agentic QA for teams whose coding agents move faster than QA](https://github.com/argus-testing/argus)
-- [US announces new sanctions on top ICC figures](https://www.bbc.com/news/articles/cnvnl0elz47o)
-- [You Can Finally Buy a Fairphone In the US](https://mobile.slashdot.org/story/26/08/18/1712245/you-can-finally-buy-a-fairphone-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [PantheonGPU - GPU health testing and AI workload benchmarking](https://pantheongpu.com/)
-- [Experiment in reducing target directory size on nightly](https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly/)
-- [Kakoune code editor](https://kakoune.org/)
-- [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities/)
-- [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html)
-- [Turbovec - Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec)
-- [Google Buys All of Spirit Airlines' Data to Feed Its AI Models](https://tech.slashdot.org/story/26/08/18/1652202/google-buys-all-of-spirit-airlines-data-to-feed-its-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [macOS data protection keychain for Electron apps](https://github.com/biw/keychain-store)
-- [Data centers raise nearby temperatures by up to 4 degrees in Phoenix](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
-- [Claude Code May-August 2026 weekly limits promotion](https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion)
-- [Apple Lowers App Store Fees In Europe to Settle Dispute With EU](https://apple.slashdot.org/story/26/08/18/1659220/apple-lowers-app-store-fees-in-europe-to-settle-dispute-with-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Mojo is now open source](https://www.modular.com/blog/mojo-open-source)
-- [Superpowers, Not Superintelligence](https://bond.now/news/superpowers-not-superintelligence)
-- [Launch HN: machine0 (YC S26) - Persistent CPU and GPU VMs from the CL](https://machine0.io)
+## Memory Market Trends
+- [Memory Prices Climb 500% In 12 Months](https://hardware.slashdot.org/story/26/08/18/202210/memory-prices-climb-500-in-12-months?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## AI and Tech Industry Developments
+- [Norway Should Buy OpenAI](https://news.ycombinator.com/item?id=49351330)([comments]https://news.ycombinator.com/item?id=49351330)
+- [Google Buys All of Spirit Airlines' Data to Feed Its AI Models](https://tech.slashdot.org/story/26/08/18/1652202/google-buys-all-of-spirit-airlines-data-to-feed-its-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)([comments]https://tech.slashdot.org/story/26/08/18/1652202/google-buys-all-of-spirit-airlines-data-to-feed-its-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Mojo is now open source](https://www.modular.com/blog/mojo-open-source)([comments]https://news.ycombinator.com/item?id=49347178)
+
+## Hardware Innovations and Consumer Tech
+- [Fairphone is now officially available in the United States](https://news.ycombinator.com/item?id=49348136)([comments]https://news.ycombinator.com/item?id=49348136)
+- [AMD Acquires AI Chip Startup Taalas](https://soylentnews.org/article.pl?sid=26/08/13/1157232&from=rss)
+
+## Environmental and Infrastructure Challenges
+- [Data centers raise nearby temperatures by up to 4 degrees in Phoenix](https://lobste.rs/s/omsqyf/experiment_reducing_target_directory_size_on_nightly)([comments]https://lobste.rs/s/omsqyf/experiment_reducing_target_directory_size_on_nightly)
+- [Solar Power and Batteries Have Been Keeping Europe's Grid Stable](https://hardware.slashdot.org/story/26/08/18/0728240/solar-power-and-batteries-have-been-keeping-europes-grid-stable?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## Social Media and Privacy Issues
+- [Meta Faces $1.4 Trillion Reckoning In Latest Trial Over Social Media Addiction](https://yro.slashdot.org/story/26/08/17/1912238/meta-faces-14-trillion-reckoning-in-latest-trial-over-social-media-addiction?utm_source=rss1.0mainlinkanon&utm_medium=feed)([comments]https://yro.slashdot.org/story/26/08/17/1912238/meta-faces-14-trillion-reckoning-in-latest-trial-over-social-media-addiction?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Sainsbury's Store Pauses Facial Recognition After False Shoplifting Claim](https://yro.slashdot.org/story/26/08/18/0742229/sainsburys-store-pauses-facial-recognition-after-false-shoplifting-claim?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## Tech and Software Development Advances
+- [DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights.html)([comments]https://news.ycombinator.com/item?id=49332495)
+- [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)([comments]https://news.ycombinator.com/item?id=49342530)
+- [Python Polars Cheatsheet](https://opensource.posit.co/resources/cheatsheets/polars/)([comments]https://news.ycombinator.com/item?id=49345263)
+
+## Other Technology Updates
+- [Apple Lowers App Store Fees In Europe](https://apple.slashdot.org/story/26/08/18/1659220/apple-lowers-app-store-fees-in-europe-to-settle-dispute-with-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed)([comments]https://apple.slashdot.org/story/26/08/18/1659220/apple-lowers-app-store-fees-in-europe-to-settle-dispute-with-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Microsoft MVP Creates Site to Remind You of All the Brands Redmond Replaced](https://tech.slashdot.org/story/26/08/18/0827253/microsoft-mvp-creates-site-to-remind-you-of-all-the-brands-redmond-replaced?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Openleetcode - local LeetCode runner where tests live in the repo](https://github.com/therepanic/openleetcode)
-- [Fixing a bricked AMD 7040 series Framework 13" laptop with $20 tools](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/)
-- [Using the railway network as a flatbed scanner](https://philo.gay/linecam/)
-- [How I browse the Web with uBlock (Hard Mode)](https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html)
-- [Fairphone 6 + PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)
-- [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/pdf/2608.13759)
-- [Shading Motion](https://blog.maximeheckel.com/posts/shading-motion/)
+- [LLMs.txt: a proposed standard no major AI platform has confirmed it uses](https://geojacker.com/llms-txt)([comments]https://news.ycombinator.com/item?id=49351232)
