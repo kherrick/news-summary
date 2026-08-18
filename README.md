@@ -1,24 +1,13 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI Development & Models
-- [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol) ([comments](https://status.cursor.com/incidents/l9h9vrd726jv))
-- [Claude's New Scarlet Letter Watermark Is Invisible](https://soylentnews.org/article.pl?sid=26/08/13/2034239&from=rss)
-- [OpenAI Announces Massive Data Center In Ohio](https://news.slashdot.org/story/26/08/17/1831220/openai-announces-massive-data-center-in-ohio-with-105-billion-nvidia-guarantee?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Linux Kernel 7.2 Release with AI-Integrated Updates](https://soylentnews.org/article.pl?sid=26/08/10/1132250&from=rss)
+## 2026-08-18
+- [The benchmarkpocalypse](https://danluu.com/benchpocalypse/) ([comments](https://lobste.rs/s/wlofzl/benchmarkpocalypse))
+- [Astronomers Discover a Brand-New Type of Astrophysical Object: A Black Hole Star](https://soylentnews.org/article.pl?sid=26/08/16/1958229&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/16/1958229&from=rss))
+- [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) ([comments](https://news.ycombinator.com/item?id=49338459))
 
-## Tech & Innovation
-- [Cursor Origin's GitHub Degradation Issues](https://status.cursor.com/incidents/l9h9vrd726jv) ([comments](https://status.cursor.com/incidents/l9h9vrd726jv))
-- [Quake Shareware's CD-ROM Overflow Issue](https://fabiensanglard.net/quake_shareware_cd/index.html)
-- [GitHub Alternatives Discussion](https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement) ([comments](https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement))
-
-## Legal & Privacy
-- [Meta Faces $1.4T Reckoning in Social Media Addiction Trial](https://yro.slashdot.org/story/26/08/17/1912238/meta-faces-14-trillion-reckoning-in-latest-trial-over-social-media-addiction?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [PJM Proposes Forcing Data Centers Off-Grid During Emergencies](https://hardware.slashdot.org/story/26/08/17/1842250/us-grid-operator-pjm-proposes-forcing-data-center-off-grid-during-emergencies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## Hardware & Infrastructure
-- [Azure's New NetworkingAI Capabilities](https://news.ycombinator.com/item?id=49339359) ([comments](https://news.ycombinator.com/item?id=49339359))
-- [Nina's Open-Source Passive Solar Designs](https://nina.design/2026/open-solar/) (no comments available)
-
-## Tech Trends
-- [Apache2 License Transition to Web3](https://news.ycombinator.com/item?id=49331033)
-- [Quantum Physics: Discovery of 'Glueball' Particle](https://www.nature.com/articles/d41586-026-02498-1) (no comments available)
+## 2026-08-17
+- [Firefox is Now the Last Major Browser That Still Supports uBlock Origin](https://soylentnews.org/article.pl?sid=26/08/15/1958258&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/15/1958258&from=rss))
+- [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights) ([comments](https://news.ycombinator.com/item?id=49330781))
+- [Meta Faces $1.4 Trillion Reckoning In Latest Trial Over Social Media Addiction](https://yro.slashdot.org/story/26/08/17/1912238/meta-faces-14-trillion-reckoning-in-latest-trial-over-social-media-addiction?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/08/17/1912238/meta-faces-14-trillion-reckoning-in-latest-trial-over-social-media-addiction?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [How AI text watermarking works: a visual guide](https://declaude.org/watermarking/) ([comments](https://lobste.rs/s/5odlru/how_ai_text_watermarking_works_visual))
+- [OpenAI Announces Massive Data Center In Ohio With $105 Billion Nvidia Guarantee](https://news.slashdot.org/story/26/08/17/1831220/openai-announces-massive-data-center-in-ohio-with-105-billion-nvidia-guarantee?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/08/17/1831220/openai-announces-massive-data-center-in-ohio-with-105-billion-nvidia-guarantee?utm_source=rss1.0mainlinkanon&utm_medium=feed))
