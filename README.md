@@ -1,21 +1,23 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Machine Learning
-- [Mojo is now open source](https://www.modular.com/blog/mojo-open-source)
-- [Alibaba's TSMC-Built 5nm RISC-V Chip, XuanTie C950, Now Runs Qwen-3.8 27B Model Natively, Unlocking Massive Vertical Integration Tailwinds](https://wccftech.com/alibabas-tsmc-built-5nm-risc-v-chip-xuantie-c950-now-runs-qwen-3-8-27b-model-natively-unlocking-massive-vertical-integration-tailwinds/)
-- [Google Buys All of Spirit Airlines' Data to Feed Its AI Models](https://tech.slashdot.org/story/26/08/18/1652202/google-buys-all-of-spirit-airlines-data-to-feed-its-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Technology & Innovation
+- [The Mojo language (by Modular, now Qualcomm) is now open-source](https://www.modular.com/blog/modcon-announcements) ([comments](https://news.ycombinator.com/item?id=49358327))
+- [Physicists Entangle Quantum Memories Across a Record-Breaking 420 Kilometers](https://tech.slashdot.org/story/26/08/19/0133228/physicists-entangle-quantum-memories-across-a-record-breaking-420-kilometers?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49358259))
+- [Proprietary AI OCR Engine for Architectural Renderings](https://dl.acm.org/doi/10.1145/3789240.3829151) ([comments](https://news.ycombinator.com/item?id=49357501))
+- [Bluetooth 6.1 Adoption in Smart Home Devices](https://news.ycombinator.com/item?id=49355968)
 
-## Space and Science
-- [Tiny satellite will use the dark side of the Moon as a shield](https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe)
-- [NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss)
-- [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
+## Science & Space Exploration
+- [Tiny Satellite Will Use the Dark Side of the Moon to Eavesdrop on Whispers From the Early Universe](https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe) (2026-08-19)
+- [Scientists Stunned by Children's Lung Recovery in Ultra Low Emission Zone](https://www.bbc.com/news/articles/c1l1r1zne1ro) ([comments](https://news.ycombinator.com/item?id=49355105))
 
-## Platform and Infrastructure
-- [Cursor Launches 'Origin' Code Hosting Platform As GitHub Alternative](https://cursor.com/changelog/origin-code-hosting)
-- [Mastodon 5.0: Laying the foundation](https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/)
-- [Firefox is Now the Last Major Browser That Still Supports uBlock Origin](https://soylentnews.org/article.pl?sid=26/08/15/1958258&from=rss)
+## Business & Legal Developments
+- [Meta's Blockbuster Trial Draws Parallels to Big Tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco) ([comments](https://news.ycombinator.com/item?id=49355968))
+- [Applelowers App Store Fees in Europe to Settle EU Dispute](https://apple.slashdot.org/story/26/08/18/1659220/apple-lowers-app-store-fees-in-europe-to-settle-dispute-with-eu) ([comments](https://news.ycombinator.com/item?id=49349898))
 
-## Policy and Legal
-- [Meta's blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
-- [Supreme Court Rejects Verizon Bid For $47 Million Refund Of FCC Fine](https://yro.slashdot.org/story/26/08/17/223241/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Apple Lowers App Store Fees In Europe to Settle Dispute With EU](https://apple.slashdot.org/story/26/08/18/1659220/apple-lowers-app-store-fees-in-europe-to-settle-dispute-with-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Cultural & Societal Trends
+- [Top Album Releases Linked to Rise in Fatal Crashes](https://entertainment.slashdot.org/story/26/08/18/2225215/top-album-releases-linked-to-rise-in-fatal-crashes?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49355968))
+- [TikTok Users Sue Platform Over Mental Health Impacts](https://news.ycombinator.com/item?id=49355968) ([comments](https://news.ycombinator.com/item?id=49355968))
+
+## Retro Tech Revival
+- [Susan Kare: Designing Icons & Graphics For the Original Mac](https://www.youtube.com/watch?v=YEvLKzsEwMw) ([comments](https://news.ycombinator.com/item?id=49355968))
+- [How I Developed an Am29000 C Compiler and Web Browser](https://nanochess.org/am29000_c_compiler_web_browser.html) ([comments](https://news.ycombinator.com/item?id=49355968))
