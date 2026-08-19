@@ -1,25 +1,47 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI & Machine Learning
-- [GLM-5.3 Artificial Analysis Benchmarks](https://artificialanalysis.ai/models/glm-5-3) ([comments](https://news.ycombinator.com/item?id=49353407))
-- [Norway should buy OpenAI](https://www.onethousandmeans.com/p/norway-should-buy-openai) ([comments](https://news.ycombinator.com/item?id=49351330))
+## Space & Astronomy
+- [Tiny satellite will use the dark side of the Moon as a shield](https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe) ([comments]https://news.ycombinator.com/item?id=49355232)
+- [Astronomers Discover a Brand-New Type of Astrophysical Object: A Black Hole Star](https://soylentnews.org/article.pl?sid=26/08/16/1958229&from=rss) ([comments]https://soylentnews.org/article.pl?sid=26/08/16/1958229&from=rss)
+- [NASA Telescopes Create Colorful 'Craft' From Nearby Nebula](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss) ([comments]https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss)
 
-## Hardware & Devices
-- [Comcast Is Turning Millions of Its Routers Into Motion Detectors](https://mobile.slashdot.org/story/26/08/18/2050203/comcast-is-turning-millions-of-its-routers-into-motion-detectors?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Fixing a bricked AMD 7040 series Framework 13 laptop with $20 tools](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/) ([comments](https://lobste.rs/s/phisnd/fixing_bricked_amd_7040_series_framework))
+## Artificial Intelligence
+- [Show HN: Interactive, animated architecture of any HuggingFace models](https://modelmap.cc) ([comments]https://news.ycombinator.com/item?id=49354664)
+- [Scientists Increasingly Depend on 'Black-Box' Tools They Cannot Control or Fully Understand](https://soylentnews.org/article.pl?sid=26/08/18/0350221&from=rss) ([comments]https://soylentnews.org/article.pl?sid=26/08/18/0350221&from=rss)
+- [Anthropic Will Design its Own Hardware to Power Claude](https://soylentnews.org/article.pl?sid=26/08/15/0127246&from=rss) ([comments]https://soylentnews.org/article.pl?sid=26/08/15/0127246&from=rss)
+- [AMD Acquires AI Chip Startup Taalas to Boost Inference Performance by Etching Models Into Silicon](https://soylentnews.org/article.pl?sid=26/08/13/1157232&from=rss) ([comments]https://soylentnews.org/article.pl?sid=26/08/13/1157232&from=rss)
 
-## Open Source & Software
-- [Cursor Launches 'Origin' Code Hosting Platform As GitHub Alternative](https://developers.slashdot.org/story/26/08/18/2211249/cursor-launches-origin-code-hosting-platform-as-github-alternative?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Mojo is now open source](https://www.modular.com/blog/mojo-open-source) ([comments](https://lobste.rs/s/01lxuf/mojo_is_now_open_source))
+## Privacy & Security
+- [When str.lower() is a security vulnerability in Python](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability) ([comments]https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability)
+- [New Pass-Ta-Key Attack Reveals All the Things We Didn't Know About Passkeys](https://soylentnews.org/article.pl?sid=26/08/13/125234&from=rss) ([comments]https://soylentnews.org/article.pl?sid=26/08/13/125234&from=rss)
+- [License Plate Reader Searches Should Require a Warrant](https://soylentnews.org/article.pl?sid=26/08/13/1152214&from=rss) ([comments]https://soylentnews.org/article.pl?sid=26/08/13/1152214&from=rss)
+- [Critical 'Zoomsday' Flaw Enables Total Device Takeover During Zoom Calls](https://soylentnews.org/article.pl?sid=26/08/15/0314218&from=rss) ([comments]https://soylentnews.org/article.pl?sid=26/08/15/0314218&from=rss)
 
-## Policy & Regulation
-- [Disney, ABC Sue FCC Over Threats to Broadcast Licenses](https://yro.slashdot.org/story/26/08/18/2039239/disney-abc-sue-fcc-over-threats-to-broadcast-licenses?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Apple announces changes for apps in the European Union](https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/) ([comments](https://news.ycombinator.com/item?id=49348055))
+## Programming & Development
+- [Solo -- a .so loader for static Linux binaries](https://github.com/pg83/solo) ([comments]https://news.ycombinator.com/item?id=49354613)
+- [Turbovec -- Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec) ([comments]https://news.ycombinator.com/item?id=49349898)
+- [Mojo is now open source](https://www.modular.com/blog/mojo-open-source) ([comments]https://lobste.rs/s/01lxuf/mojo_is_now_open_source)
+- [Using the railway network as a flatbed scanner](https://philo.gay/linecam/) ([comments]https://lobste.rs/s/ajvhvm/shading_motion) ([comments]https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner)
 
-## Security & Privacy
-- [When str.lower() is a security vulnerability in Python](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability) ([comments](https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability))
-- [CSS: the bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox) ([comments](https://lobste.rs/s/qo7eyx/css_bomb_inside_your_inbox))
+## Hardware & Chips
+- [Cerebras CS4](https://www.cerebras.ai/cs4) ([comments]https://news.ycombinator.com/item?id=49354949)
+- [Memory prices climb 500% in 12 months](https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399) ([comments]https://lobste.rs/s/flcpeu/we_tracked_shipment_rare_books_it_ended_at)
 
-## Science & Research
-- [NASA Telescopes Create Colorful 'Craft' From Nearby Nebula](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss)
-- [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly) ([comments](https://news.ycombinator.com/item?id=49353221))
+## Business & Industry
+- [Cursor Launches 'Origin' Code Hosting Platform As GitHub Alternative](https://cursor.com/changelog/origin-code-hosting) ([comments]https://news.ycombinator.com/item?id=49334209)
+- [Protesters Haul A Guillotine To City Council Meeting About A Potential AI Data Center](https://soylentnews.org/article.pl?sid=26/08/10/1750239&from=rss) ([comments]https://soylentnews.org/article.pl?sid=26/08/10/1750239&from=rss)
+- [GitHub has alternatives, but no replacement](https://lalitm.com/post/github-alternatives/) ([comments]https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement)
+
+## Health & Medicine
+- [Scientists stunned by children's lung recovery in ultra low emission zone](https://www.bbc.com/news/articles/c1l1r1zne1ro) ([comments]https://news.ycombinator.com/item?id=49355105)
+- [AI Is Dead. Organoids Are Alive](https://soylentnews.org/article.pl?sid=26/08/13/2024258&from=rss) ([comments]https://soylentnews.org/article.pl?sid=26/08/13/2024258&from=rss)
+
+## Society & Politics
+- [New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf) ([comments]https://news.ycombinator.com/item?id=49355142)
+- [And then the men with guns tell you to do it anyway](https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/) ([comments]https://news.ycombinator.com/item?id=49348912)
+- [Ninth Circuit Rewrites Section 230 To Remove The Part That Actually Mattered](https://soylentnews.org/article.pl?sid=26/08/13/2031207&from=rss) ([comments]https://soylentnews.org/article.pl?sid=26/08/13/2031207&from=rss)
+
+## Retro & Curiosities
+- [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html) ([comments]https://lobste.rs/s/j5xjf2/quake_shareware_cd_rom_just_little_too)
+- [The 90-year history of the binoculars bolted to scenic overlooks](https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/) ([comments]https://news.ycombinator.com/item?id=49353854)
+- [The Return of MySpace? Platform Owners Tease Re-Launch 'When the Time Is Right'](https://soylentnews.org/article.pl?sid=26/08/12/007202&from=rss) ([comments]https://soylentnews.org/article.pl?sid=26/08/12/007202&from=rss)
