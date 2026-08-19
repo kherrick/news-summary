@@ -1,32 +1,33 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Innovations
-- [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
-- [Mojo language (Modular, now Qualcomm) is now open-source](https://www.modular.com/blog/mojo-open-source)
-- [Susan Kare: Designing Icons & Graphics For the Original Mac](https://www.youtube.com/watch?v=YEvLKzsEwMw)
-- [Solo: a .so loader for static Linux binaries](https://github.com/pg83/solo)
-- [A29000 C compiler web browser](https://nanochess.org/am29000_c_compiler_web_browser.html)
+## Artificial Intelligence & Machine Learning
+- [OpenRouter Is Joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) ([comments])(https://news.ycombinator.com/item?id=49364559)
+- [Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](https://arxiv.org/abs/2503.08679) ([comments])(https://news.ycombinator.com/item?id=49363587)
+- [Anthropic Will Design its Own Hardware to Power Claude](https://soylentnews.org/article.pl?sid=26/08/15/0127246&from=rss) ([comments])(https://soylentnews.org/article.pl?sid=26/08/15/0127246&from=rss)
+- [Cloudflare Open-Sources Vibe-Coding Platform for People Who Aren't Coders](https://soylentnews.org/article.pl?sid=26/08/15/0329232&from=rss) ([comments])(https://soylentnews.org/article.pl?sid=26/08/15/0329232&from=rss)
+- [AMD Acquires AI Chip Startup Taalas to Boost Inference Performance by Etching Models Into Silicon](https://soylentnews.org/article.pl?sid=26/08/13/1157232&from=rss) ([comments])(https://soylentnews.org/article.pl?sid=26/08/13/1157232&from=rss)
 
-## Scientific Discoveries
-- [Babies Born Under Sugar Rationing Grew Into Adults With Lower Cancer Risk](https://science.slashdot.org/story/26/08/19/0534224/babies-bborn-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Physicists Entangle Quantum Memories Across 420 Kilometers](https://tech.slashdot.org/story/26/08/19/0133228/physicists-entangle-quantum-memories-across-a-record-breaking-420-kilometers?utm.Source=rss1.0mainlinkanon&utm_medium=feed)
-- [Scientists Stunned by Children's Lung Recovery in Ultra Low Emission Zone](https://www.bbc.com/news/articles/c1l1r1zne1ro)
+## Privacy, Security & Digital Rights
+- [People Are Cutting Down Flock Cameras En Masse](https://margaretkilljoy.substack.com/p/people-really-are-cutting-down-flock) ([comments])(https://news.ycombinator.com/item?id=49364633)
+- [X's Algorithm Feeds Off Ragebait and Impacts Democrats More, Study Finds](https://politics.slashdot.org/story/26/08/19/1623200/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments])(https://politics.slashdot.org/story/26/08/19/1623200/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Critical 'Zoomsday' Flaw Enables Total Device Takeover During Zoom Calls](https://soylentnews.org/article.pl?sid=26/08/15/0314218&from=rss) ([comments])(https://soylentnews.org/article.pl?sid=26/08/15/0314218&from=rss)
+- [New Pass-Ta-Key Attack Reveals All the Things We Didn't Know About Passkeys](https://soylentnews.org/article.pl?sid=26/08/13/125234&from=rss) ([comments])(https://soylentnews.org/article.pl?sid=26/08/13/125234&from=rss)
+- [Ninth Circuit Rewrites Section 230 To Remove The Part That Actually Mattered](https://soylentnews.org/article.pl?sid=26/08/13/2031207&from=rss) ([comments])(https://soylentnews.org/article.pl?sid=26/08/13/2031207&from=rss)
+- [Firefox is Now the Last Major Browser That Still Supports uBlock Origin](https://soylentnews.org/article.pl?sid=26/08/15/1958258&from=rss) ([comments])(https://soylentnews.org/article.pl?sid=26/08/15/1958258&from=rss)
 
-## Business & Tech Ethics
-- [Meta's blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
-- [Google Buys All of Spirit Airlines' Data to Feed Its AI Models](https://tech.slashdot.org/story/26/08/18/1652202/google-buys-all-of-spirit-airlines-data-to-feed-its-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Comcast Is Turning Millions of Its Routers Into Motion Detectors](https://mobile.slashdot.org/story/26/08/18/2050203/comcast-is-turning-millions-of-its-routers-into-motion-detectors?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Science & Medicine
+- [Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma](https://twitter.com/NoubarAfeyan/status/2090050162441752787) ([comments])(https://news.ycombinator.com/item?id=49361395)
+- [Babies Born Under Sugar Rationing Grew Into Adults With Lower Cancer Risk](https://science.slashdot.org/story/26/08/19/0534224/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments])(https://science.slashdot.org/story/26/08/19/0534224/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Physicists Entangle Quantum Memories Across a Record-Breaking 420 Kilometers](https://tech.slashdot.org/story/26/08/19/0133228/physicists-entangle-quantum-memories-across-a-record-breaking-420-kilometers?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments])(https://tech.slashdot.org/story/26/08/19/0133228/physicists-entangle-quantum-memories-across-a-record-breaking-420-kilometers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Astronomers Discover a Brand-New Type of Astrophysical Object: A Black Hole Star](https://soylentnews.org/article.pl?sid=26/08/16/1958229&from=rss) ([comments])(https://soylentnews.org/article.pl?sid=26/08/16/1958229&from=rss)
+- [NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss) ([comments])(https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss)
 
-## Security & Privacy
-- [When str.lower() is a security vulnerability in Python](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
-- [A CSS: the bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
-- [Show HN: Automatically detect and patch walking-dead states in Sierra games](https://github.com/katiahayati/lucasartsifier/)
-
-## Design & Cultural Impact
-- [Bob Ross, 63, Dies](https://entertainment.slashdot.org/story/26/08/19/0825215/top-album-releases-linked-to-rise-in-fatal-crashes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Susan Kare's Mac icon design legacy](https://www.youtube.com/watch?v=YEvLKzsEwMw)
-
-## Open-Source & Community Projects
-- [Mastodon 5.0: Laying the foundation](https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/)
-- [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
-- [BluShare's stealth USB technique](https://soylentnews.org/article.pl?sid=26/08/12/1752257&from=rss)
+## Business, Tech & Society
+- [Memory Prices Climb 500% In 12 Months](https://hardware.slashdot.org/story/26/08/18/202210/memory-prices-climb-500-in-12-months?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments])(https://hardware.slashdot.org/story/26/08/18/202210/memory-prices-climb-500-in-12-months?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Google Buys All of Spirit Airlines' Data to Feed Its AI Models](https://tech.slashdot.org/story/26/08/18/1652202/google-buys-all-of-spirit-airlines-data-to-feed-its-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments])(https://tech.slashdot.org/story/26/08/18/1652202/google-buys-all-of-spirit-airlines-data-to-feed-its-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Apple Lowers App Store Fees In Europe to Settle Dispute With EU](https://apple.slashdot.org/story/26/08/18/1659220/apple-lowers-app-store-fees-in-europe-to-settle-dispute-with-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments])(https://apple.slashdot.org/story/26/08/18/1659220/apple-lowers-app-store-fees-in-europe-to-settle-dispute-with-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Memory Maker CXMT Overtakes Tencent to Become China's Most Valuable Company 17 Days After its IPO](https://soylentnews.org/article.pl?sid=26/08/18/0352202&from=rss) ([comments])(https://soylentnews.org/article.pl?sid=26/08/18/0352202&from=rss)
+- [You Can Finally Buy a Fairphone In the US](https://mobile.slashdot.org/story/26/08/18/1712245/you-can-finally-buy-a-fairphone-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments])(https://mobile.slashdot.org/story/26/08/18/1712245/you-can-finally-buy-a-fairphone-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Cursor Launches 'Origin' Code Hosting Platform As GitHub Alternative](https://developers.slashdot.org/story/26/08/18/2211249/cursor-launches-origin-code-hosting-platform-as-github-alternative?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments])(https://developers.slashdot.org/story/26/08/18/2211249/cursor-launches-origin-code-hosting-platform-as-github-alternative?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Mojo is now open source](https://www.modular.com/blog/mojo-open-source) ([comments])(https://lobste.rs/s/01lxuf/mojo_is_now_open_source)
+- [Linux Desktop Use Surged To 22% On One Workday, Cloudflare Data Shows](https://soylentnews.org/article.pl?sid=26/08/15/2257245&from=rss) ([comments])(https://soylentnews.org/article.pl?sid=26/08/15/2257245&from=rss)
