@@ -1,17 +1,21 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence & Machine Learning
-- [Music Publisher Round Hill Files $1 Billion Copyright Infringement Suits Against Suno, Anthropic](https://yro.slashdot.org/story/26/08/19/1931220/music-publisher-round-hill-files-1-billion-copyright-infringement-suits-against-suno-anthropic?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/08/19/1931220/music-publisher-round-hill-files-1-billion-copyright-infringement-suits-against-suno-anthropic?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs) ([comments](https://news.ycombinator.com/item?id=49365443))
-- [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli) ([comments](https://news.ycombinator.com/item?id=49363710))
-- [Mathematics in the age of AI](https://arxiv.org/abs/2608.16753) ([comments](https://news.ycombinator.com/item?id=49362728))
+## AI & Machine Learning Landscape
+- [Stripe Buys AI Startup OpenRouter For $7.5 Billion](https://news.slashdot.org/story/26/08/19/2128206/stripe-buys-ai-startup-openrouter-for-75-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Anthropic Refuses to Support Agents.md](https://github.com/anthropics/claude-code/issues/6235)
+- [Collaborative Human Agent Protocol (CHAP)](https://github.com/BrightbeamAI/chap)
 
-## Computing & Programming
-- [Go 1.27 is released](https://go.dev/blog/go1.27) ([comments](https://news.ycombinator.com/item?id=49365405))
-- [How Kubernetes Probes Work](https://ngrok.com/blog/probes) ([comments](https://news.ycombinator.com/item?id=49363665))
-- [Extreme Programming: A Gentle Introduction](http://www.extremeprogramming.org/) ([comments](https://lobste.rs/s/qmx2sh/extreme_programming_gentle))
+## Space, Quantum, and Biotech Breakthroughs
+- [Physicists Entangle Quantum Memories Across a Record-Breaking 420 Kilometers](https://tech.slashdot.org/story/26/08/19/0133228/physicists-entangle-quantum-memories-across-a-record-breaking-420-kilometers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula](https://soylentnews.org/article.pl?sid=26/08/19/0124242&from=rss)
+- [Moderna, Merck Say mRNA Vaccine Prevents Melanoma From Returning](https://science.slashdot.org/story/26/08/19/1725205/moderna-merck-say-mrna-vaccine-prevents-melanoma-from-returning?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Security & Privacy
-- [Comcast Is Turning Millions of Its Routers Into Motion Detectors](https://mobile.slashdot.org/story/26/08/18/2050203/comcast-is-turning-millions-of-its-routers-into-motion-detectors?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://mobile.slashdot.org/story/26/08/18/2050203/comcast-is-turning-millions-of-its-routers-into-motion-detectors?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [New Pass-Ta-Key Attack Reveals All the Things We Didn't Know About Passkeys](https://soylentnews.org/article.pl?sid=26/08/13/125234&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/13/125234&from=rss))
-- [Critical 'Zoomsday' Flaw Enables Total Device Takeover During Zoom Calls](https://soylentnews.org/article.pl?sid=26/08/15/0314218&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/15/0314218&from=rss))
+## Developer Tools and Software Innovation
+- [Easy to use Entity Component System (ECS) crafted with Odin](https://github.com/helioscout/moecs)
+- [Kakoune code editor](https://kakoune.org/)
+- [Introducing Microlighter](https://daverupert.com/2026/08/microlighter/)
+
+## Policy, Privacy, and Market Trends
+- [X's Algorithm Feeds Off Ragebait and Impacts Democrats More, Study Finds](https://politics.slashdot.org/story/26/08/19/1623200/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Comcast Is Turning Millions of Its Routers Into Motion Detectors](https://mobile.slashdot.org/story/26/08/18/2050203/comcast-is-turning-millions-of-its-routers-into-motion-detectors?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Firefox is Now the Last Major Browser That Still Supports uBlock Origin](https://soylentnews.org/article.pl?sid=26/08/15/1958258&from=rss)
