@@ -1,33 +1,28 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence & Machine Learning
-- [OpenRouter Is Joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) ([comments])(https://news.ycombinator.com/item?id=49364559)
-- [Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](https://arxiv.org/abs/2503.08679) ([comments])(https://news.ycombinator.com/item?id=49363587)
-- [Anthropic Will Design its Own Hardware to Power Claude](https://soylentnews.org/article.pl?sid=26/08/15/0127246&from=rss) ([comments])(https://soylentnews.org/article.pl?sid=26/08/15/0127246&from=rss)
-- [Cloudflare Open-Sources Vibe-Coding Platform for People Who Aren't Coders](https://soylentnews.org/article.pl?sid=26/08/15/0329232&from=rss) ([comments])(https://soylentnews.org/article.pl?sid=26/08/15/0329232&from=rss)
-- [AMD Acquires AI Chip Startup Taalas to Boost Inference Performance by Etching Models Into Silicon](https://soylentnews.org/article.pl?sid=26/08/13/1157232&from=rss) ([comments])(https://soylentnews.org/article.pl?sid=26/08/13/1157232&from=rss)
+## AI & Medical Tech
+- [2026-08-19, 18:28:48](https://daverupert.com/2026/08/microlighter/) - Introducing MicroLighter
+- [2026-08-19, 13:21:21](https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees) - Remote workers report highest well-being
+- [2026-08-19, 13:01:00](https://www.casio.com/uk/watches/casio/product.F-B100W-1A/) - New Casio F-B100W watch
+- [2026-08-19, 13:28:01](https://twitter.com/NoubarAfeyan/status/2090050162441752787) - Moderna reports first positive Phase 3 for mRNA neoantigen therapy
 
-## Privacy, Security & Digital Rights
-- [People Are Cutting Down Flock Cameras En Masse](https://margaretkilljoy.substack.com/p/people-really-are-cutting-down-flock) ([comments])(https://news.ycombinator.com/item?id=49364633)
-- [X's Algorithm Feeds Off Ragebait and Impacts Democrats More, Study Finds](https://politics.slashdot.org/story/26/08/19/1623200/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments])(https://politics.slashdot.org/story/26/08/19/1623200/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Critical 'Zoomsday' Flaw Enables Total Device Takeover During Zoom Calls](https://soylentnews.org/article.pl?sid=26/08/15/0314218&from=rss) ([comments])(https://soylentnews.org/article.pl?sid=26/08/15/0314218&from=rss)
-- [New Pass-Ta-Key Attack Reveals All the Things We Didn't Know About Passkeys](https://soylentnews.org/article.pl?sid=26/08/13/125234&from=rss) ([comments])(https://soylentnews.org/article.pl?sid=26/08/13/125234&from=rss)
-- [Ninth Circuit Rewrites Section 230 To Remove The Part That Actually Mattered](https://soylentnews.org/article.pl?sid=26/08/13/2031207&from=rss) ([comments])(https://soylentnews.org/article.pl?sid=26/08/13/2031207&from=rss)
-- [Firefox is Now the Last Major Browser That Still Supports uBlock Origin](https://soylentnews.org/article.pl?sid=26/08/15/1958258&from=rss) ([comments])(https://soylentnews.org/article.pl?sid=26/08/15/1958258&from=rss)
+## Open Source & Developer Tools
+- [2026-08-19, 17:00:00](https://www.modular.com/blog/mojo-open-source) - Mojo is now open source
+- [2026-08-19, 17:00:00](https://daverupert.com/2026/08/microlighter/) - Introducing MicroLighter (duplicate, removed)
+- [2026-08-19, 16:26:05](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/) - Extensible Software in the Age of LLMs
+- [2026-08-19, 15:18:20](https://programmingsimplicity.substack.com/p/opinions-about-compiler-building) - Opinions About Compiler Building
+- [2026-08-19, 14:17:38](https://yassa9.github.io/osint/gralhix-004/) - Geolocating Random Islet Image Using Geometry & CUDA GPU Programming
 
-## Science & Medicine
-- [Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma](https://twitter.com/NoubarAfeyan/status/2090050162441752787) ([comments])(https://news.ycombinator.com/item?id=49361395)
-- [Babies Born Under Sugar Rationing Grew Into Adults With Lower Cancer Risk](https://science.slashdot.org/story/26/08/19/0534224/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments])(https://science.slashdot.org/story/26/08/19/0534224/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Physicists Entangle Quantum Memories Across a Record-Breaking 420 Kilometers](https://tech.slashdot.org/story/26/08/19/0133228/physicists-entangle-quantum-memories-across-a-record-breaking-420-kilometers?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments])(https://tech.slashdot.org/story/26/08/19/0133228/physicists-entangle-quantum-memories-across-a-record-breaking-420-kilometers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Astronomers Discover a Brand-New Type of Astrophysical Object: A Black Hole Star](https://soylentnews.org/article.pl?sid=26/08/16/1958229&from=rss) ([comments])(https://soylentnews.org/article.pl?sid=26/08/16/1958229&from=rss)
-- [NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss) ([comments])(https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss)
+## Science & Advanced Research
+- [2026-08-19, 16:18:57](https://arxiv.org/abs/2503.08679) - Chain-of-Thought Reasoning in the Wild Is Not Always Faithful
+- [2026-08-19, 14:36:00](https://tech.slashdot.org/story/26/08/19/0133228/physicists-entangle-quantum-memories-across-a-record-breaking-420-kilometers) - Physicists Entangle Quantum Memories
+- [2026-08-19, 00:22:00](https://soylentnews.org/article.pl?sid=26/08/18/0353208&from=rss) - Tiny Satellite Will Use the Dark Side of the Moon to Eavesdrop
 
-## Business, Tech & Society
-- [Memory Prices Climb 500% In 12 Months](https://hardware.slashdot.org/story/26/08/18/202210/memory-prices-climb-500-in-12-months?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments])(https://hardware.slashdot.org/story/26/08/18/202210/memory-prices-climb-500-in-12-months?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Google Buys All of Spirit Airlines' Data to Feed Its AI Models](https://tech.slashdot.org/story/26/08/18/1652202/google-buys-all-of-spirit-airlines-data-to-feed-its-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments])(https://tech.slashdot.org/story/26/08/18/1652202/google-buys-all-of-spirit-airlines-data-to-feed-its-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Apple Lowers App Store Fees In Europe to Settle Dispute With EU](https://apple.slashdot.org/story/26/08/18/1659220/apple-lowers-app-store-fees-in-europe-to-settle-dispute-with-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments])(https://apple.slashdot.org/story/26/08/18/1659220/apple-lowers-app-store-fees-in-europe-to-settle-dispute-with-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Memory Maker CXMT Overtakes Tencent to Become China's Most Valuable Company 17 Days After its IPO](https://soylentnews.org/article.pl?sid=26/08/18/0352202&from=rss) ([comments])(https://soylentnews.org/article.pl?sid=26/08/18/0352202&from=rss)
-- [You Can Finally Buy a Fairphone In the US](https://mobile.slashdot.org/story/26/08/18/1712245/you-can-finally-buy-a-fairphone-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments])(https://mobile.slashdot.org/story/26/08/18/1712245/you-can-finally-buy-a-fairphone-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Cursor Launches 'Origin' Code Hosting Platform As GitHub Alternative](https://developers.slashdot.org/story/26/08/18/2211249/cursor-launches-origin-code-hosting-platform-as-github-alternative?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments])(https://developers.slashdot.org/story/26/08/18/2211249/cursor-launches-origin-code-hosting-platform-as-github-alternative?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Mojo is now open source](https://www.modular.com/blog/mojo-open-source) ([comments])(https://lobste.rs/s/01lxuf/mojo_is_now_open_source)
-- [Linux Desktop Use Surged To 22% On One Workday, Cloudflare Data Shows](https://soylentnews.org/article.pl?sid=26/08/15/2257245&from=rss) ([comments])(https://soylentnews.org/article.pl?sid=26/08/15/2257245&from=rss)
+## Tech Industry Trends
+- [2026-08-19, 18:00:00](https://tech.slashdot.org/story/26/08/19/1652202/google-buys-all-of-spirit-airlines-data-to-feed-its-ai-models) - Google Buys Spirit Airlines' Data
+- [2026-08-19, 16:00:00](https://apple.slashdot.org/story/26/08/18/1659220/apple-lowers-app-store-fees-in-europe) - Apple Lowers App Store Fees in Europe
+- [2026-08-19, 11:46:58](https://grapheneos.social/@GrapheneOS/117078064184215730) - GrapheneOS device support timeline
+
+## Other Notable Topics
+- [2026-08-19, 17:32:38](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) - OpenRouter joins Stripe
+- [2026-08-19, 16:25:37](https://ngrok.com/blog/probes) - How Kubernetes Probes Work
