@@ -1,43 +1,85 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Programming & Development
-- [Things I want in a modern relational query language](https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/) ([comments](https://lobste.rs/s/p5lkok/things_i_want_modern_relational_query))
-- [How I developed an Am29000 C compiler and web browser](https://nanochess.org/am29000_c_compiler_web_browser.html) ([comments](https://lobste.rs/s/sfiihp/how_i_developed_am29000_c_compiler_web))
-- [Solo — a .so loader for static Linux binaries](https://github.com/pg83/solo) ([comments](https://news.ycombinator.com/item?id=49354613))
-- [dgit: Git forge on Durable Objects](https://github.com/littledivy/dgit) ([comments](https://lobste.rs/s/vbaang/dgit_git_forge_on_durable_objects))
-
-## Hardware & Devices
+## AI & Machine Learning
+- [Bun 1.4 Rust rewrite is not looking good](https://tipiirai.com/writing/bun-rust-rewrite-worries) ([comments](https://news.ycombinator.com/item?id=49357401))
+- [Susan Kare: Designing Icons & Graphics For the Original Mac](https://www.youtube.com/watch?v=YEvLKzsEwMw) ([comments](https://www.youtube.com/watch?v=YEvLKzsEwMw))
+- [Quake Shareware, a CD-ROM Just a Little Too Full](https://soylentnews.org/article.pl?sid=26/08/19/0125241&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/19/0125241&from=rss))
+- [Things I want in a modern relational query language](https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/) ([comments](https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/))
+- [Top Album Releases Linked To Rise In Fatal Crashes](https://entertainment.slashdot.org/story/26/08/18/2225215/top-album-releases-linked-to-rise-in-fatal-crashes?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://entertainment.slashdot.org/story/26/08/18/2225215/top-album-releases-linked-to-rise-in-fatal-crashes?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/) ([comments](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/))
+- [How I developed an Am29000 C compiler and web browser](https://nanochess.org/am29000_c_compiler_web_browser.html) ([comments](https://nanochess.org/am29000_c_compiler_web_browser.html))
+- [Meta's blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco) ([comments](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco))
+- [Claude and I built an app](https://folkwolf.net/claude-and-i-built-an-app/) ([comments](https://folkwolf.net/claude-and-i-built-an-app/))
+- [Show HN: Automatically detect and patch walking-dead states in Sierra games](https://github.com/katiahayati/lucasartsifier/) ([comments](https://github.com/katiahayati/lucasartsifier/))
+- [OpenLogi](https://openlogi.org/en) ([comments](https://openlogi.org/en))
+- [The Vietnam Binh Chau (Chau Tan) Late Tang Wreck](https://www.koh-antique.com/client/tangwreck/tangwreck.html) ([comments](https://www.koh-antique.com/client/tangwreck/tangwreck.html))
+- [That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis](https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/) ([comments](https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/))
+- [Tiny satellite will use the dark side of the Moon as a shield](https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe) ([comments](https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe))
+- [Sticky wage norms and the real wage cost of unexpected inflation](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf) ([comments](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf))
+- [Scientists stunned by children's lung recovery in ultra low emission zone](https://www.bbc.com/news/articles/c1l1r1zne1ro) ([comments](https://www.bbc.com/news/articles/c1l1r1zne1ro))
 - [Cerebras CS-4](https://www.cerebras.ai/cs4) ([comments](https://news.ycombinator.com/item?id=49354949))
-- [Tiny satellite will use the dark side of the Moon as a shield](https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe) ([comments](https://news.ycombinator.com/item?id=49355232))
-- [Alibaba's TSMC-Built 5nm RISC-V Chip, XuanTie C950, Now Runs Qwen-3.8 27B Model Natively](https://wccftech.com/alibabas-tsmc-built-5nm-risc-v-chip-xuantie-c950-now-runs-qwen-3-8-27b-model-natively-unlocking-massive-vertical-integration-tailwinds/) ([comments](https://lobste.rs/s/5kw58e/alibaba_s_tsmc_built_5nm_risc_v_chip))
-- [Fixing a bricked AMD 7040 series Framework 13 laptop with $20 tools](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/) ([comments](https://lobste.rs/s/phisnd/fixing_bricked_amd_7040_series_framework))
+- [Tiny Satellite Will Use the Dark Side of the Moon to Eavesdrop on Whispers From the Early Universe](https://soylentnews.org/article.pl?sid=26/08/18/0353208&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/18/0353208&from=rss))
+- [Mastodon 5.0: Laying the foundation](https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/) ([comments](https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/))
 
 ## Security & Privacy
-- [CSS: the bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox) ([comments](https://lobste.rs/s/qo7eyx/css_bomb_inside_your_inbox))
 - [When str.lower() is a security vulnerability in Python](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability) ([comments](https://lobste.rs/s/ap9w8i/when_str_lower_is_security_vulnerability))
+- [CSS: the bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox) ([comments](https://lobste.rs/s/qo7eyx/css_bomb_inside_your_inbox))
+- [Critical 'Zoomsday' Flaw Enables Total Device Takeover During Zoom Calls](https://soylentnews.org/article.pl?sid=26/08/15/0314218&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/15/0314218&from=rss))
 - [New Pass-Ta-Key Attack Reveals All the Things We Didn't Know About Passkeys](https://soylentnews.org/article.pl?sid=26/08/13/125234&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/13/125234&from=rss))
+- [Firefox is Now the Last Major Browser That Still Supports uBlock Origin](https://soylentnews.org/article.pl?sid=26/08/15/1958258&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/15/1958258&from=rss))
+- [How I browse the Web with uBlock (Hard Mode)](https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html) ([comments](https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html))
+- [Comcast Is Turning Millions of Its Routers Into Motion Detectors](https://mobile.slashdot.org/story/26/08/18/2050203/comcast-is-turning-millions-of-its-routers-into-motion-detectors) ([comments](https://mobile.slashdot.org/story/26/08/18/2050203/comcast-is-turning-millions-of-its-routers-into-motion-detectors))
+- [Sainsbury's Store Pauses Facial Recognition After False Shoplifting Claim](https://yro.slashdot.org/story/26/08/18/0742229/sainsburys-store-pauses-facial-recognition-after-false-shoplifting-claim) ([comments](https://yro.slashdot.org/story/26/08/18/0742229/sainsburys-store-pauses-facial-recognition-after-false-shoplifting-claim))
 - [Open-Source Stealth USB Hides An Encrypted Partition Behind An 8GB Decoy Drive](https://soylentnews.org/article.pl?sid=26/08/10/1752257&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/10/1752257&from=rss))
 
-## AI & Machine Learning
-- [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/) ([comments](https://news.ycombinator.com/item?id=49355968))
-- [Claude and I built an app](https://folkwolf.net/claude-and-i-built-an-app/) ([comments](https://lobste.rs/s/r8x9et/claude_i_built_app))
-- [Anthropic Will Design Its Own Hardware to Power Claude](https://soylentnews.org/article.pl?sid=26/08/15/0127246&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/15/0127246&from=rss))
-- [Google Buys All of Spirit Airlines' Data to Feed Its AI Models](https://tech.slashdot.org/story/26/08/18/1652202/google-buys-all-of-spirit-airlines-data-to-feed-its-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/08/18/1652202/google-buys-all-of-spirit-airlines-data-to-feed-its-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Software Development & Platforms
+- [Mojo is now open source](https://www.modular.com/blog/mojo-open-source) ([comments](https://lobste.rs/s/01lxuf/mojo_is_now_open_source))
+- [Cursor launches Origin, a GitHub alternative](https://cursor.com/changelog/origin-code-hosting) ([comments](https://news.ycombinator.com/item?id=49334209))
+- [GitHub has alternatives, but no replacement](https://lalitm.com/post/github-alternatives/) ([comments](https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement))
+- [dgit: Git forge on Durable Objects](https://github.com/littledivy/dgit) ([comments](https://lobste.rs/s/vbaang/dgit_git_forge_on_durable_objects))
+- [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo) ([comments](https://news.ycombinator.com/item?id=49354613))
+- [Experiment in reducing target directory size on nightly Rust](https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly/) ([comments](https://lobste.rs/s/omsqyf/experiment_reducing_target_directory))
+- [Kakoune code editor](https://kakoune.org/) ([comments](https://lobste.rs/s/3dqrwr/kakoune_code_editor))
+- [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming) ([comments](https://lobste.rs/s/ykq7ym/rethinking_database_programming))
+- [Things I want in a modern relational query language](https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/) ([comments](https://lobste.rs/s/p5lkok/things_i_want_modern_relational_query))
+- [Mastodon 5.0: Laying the foundation](https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/) ([comments](https://lobste.rs/s/m0okh1/mastodon_5_0_laying-the-foundation))
+- [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) ([comments](https://lobste.rs/s/05ocit/how_bluesky_draws_its_logo_on_screenshots))
 
-## Science & Research
-- [Scientists stunned by children's lung recovery in ultra low emission zone](https://www.bbc.com/news/articles/c1l1r1zne1ro) ([comments](https://news.ycombinator.com/item?id=49355105))
-- [NASA Telescopes Create Colorful 'Craft' From Nearby Nebula](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss))
+## Hardware & Infrastructure
+- [Memory prices climb 500% in 12 months](https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399) ([comments](https://news.ycombinator.com/item?id=49334960))
+- [Memory Maker CXMT Overtakes Tencent to Become China's Most Valuable Company 17 Days After its IPO](https://soylentnews.org/article.pl?sid=26/08/18/0352202&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/18/0352202&from=rss))
+- [Fixing a bricked AMD 7040 series Framework 13" laptop with $20 tools](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/) ([comments](https://lobste.rs/s/phisnd/fixing_bricked_amd_7040_series_framework))
+- [You Can Finally Buy a Fairphone In the US](https://mobile.slashdot.org/story/26/08/18/1712245/you-can-finally-buy-a-fairphone-in-the-us) ([comments](https://mobile.slashdot.org/story/26/08/18/1712245/you-can-finally-buy-a-fairphone-in-the-us))
+- [Solar Power and Batteries Have Been Keeping Europe's Grid Stable](https://hardware.slashdot.org/story/26/08/18/0728240/solar-power-and-batteries-have-been-keeping-europes-grid-stable) ([comments](https://hardware.slashdot.org/story/26/08/18/0728240/solar-power-and-batteries-have-been-keeping-europes-grid-stable))
+- [A 25-year-old video patent just expired, ending a legal headache for Linux](https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/) ([comments](https://news.ycombinator.com/item?id=49311814))
+
+## Science & Space
+- [Tiny satellite will use the dark side of the Moon as a shield](https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe) ([comments](https://news.ycombinator.com/item?id=49355232))
 - [Astronomers Discover a Brand-New Type of Astrophysical Object: A Black Hole Star](https://soylentnews.org/article.pl?sid=26/08/16/1958229&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/16/1958229&from=rss))
-- [Recent Developments Applying AI to the Riemann Hypothesis](https://soylentnews.org/article.pl?sid=26/08/18/0348225&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/18/0348225&from=rss))
+- [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/) ([comments](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/))
+- [NASA Telescopes Create Colorful 'Craft' From Nearby Nebula](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/15/038205&from=rss))
+- [Scientists stunned by children's lung recovery in ultra low emission zone](https://www.bbc.com/news/articles/c1l1r1zne1ro) ([comments](https://www.bbc.com/news/articles/c1l1r1zne1ro))
 
-## Business & Economics
-- [Meta's blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco) ([comments](https://news.ycombinator.com/item?id=49355825))
-- [Apple Lowers App Store Fees In Europe to Settle Dispute With EU](https://apple.slashdot.org/story/26/08/18/1659220/apple-lowers-app-store-fees-in-europe-to-settle-dispute-with-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://apple.slashdot.org/story/26/08/18/1659220/apple-lowers-app-store-fees-in-europe-to-settle-dispute-with-eu?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [India Paves the Way For Charging Merchants a Fee On UPI Transactions](https://news.slashdot.org/story/26/08/18/0812245/india-paves-the-way-for-charging-merchants-a-fee-on-upi-transactions?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/08/18/0812245/india-paves-the-way-for-charging-merchants-a-fee-on-upi-transactions?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Memory Prices Climb 500% In 12 Months](https://hardware.slashdot.org/story/26/08/18/202210/memory-prices-climb-500-in-12-months?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/08/18/202210/memory-prices-climb-500-in-12-months?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-## Culture & Society
-- [That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis](https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/) ([comments](https://news.ycombinator.com/item?id=49355360))
-- [The 90-year history of the binoculars bolted to scenic overlooks](https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/) ([comments](https://news.ycombinator.com/item?id=49353854))
+## Retro Computing & History
+- [Susan Kare: Designing Icons & Graphics For the Original Mac](https://www.youtube.com/watch?v=YEvLKzsEwMw) ([comments](https://lobste.rs/s/l5rmvg/susan_kare_designing_icons_graphics_for))
+- [Quake Shareware, a CD-ROM Just a Little Too Full](https://soylentnews.org/article.pl?sid=26/08/19/0125241&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/19/0125241&from=rss))
+- [How I developed an Am29000 C compiler and web browser](https://nanochess.org/am29000_c_compiler_web_browser.html) ([comments](https://nanochess.org/am29000_c_compiler_web_browser.html))
 - [Finger: the 1971 social network that never died](https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/) ([comments](https://news.ycombinator.com/item?id=49342472))
+- [The 90-year history of the binoculars bolted to scenic overlooks](https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/) ([comments](https://news.ycombinator.com/item?id=49353854))
+
+## Business, Policy & Society
+- [Meta's blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco) ([comments](https://news.ycombinator.com/item?id=49355825))
+- [Apple Lowers App Store Fees In Europe to Settle Dispute With EU](https://apple.slashdot.org/story/26/08/18/1659220/apple-lowers-app-store-fees-in-europe-to-settle-dispute-with-eu) ([comments](https://apple.slashdot.org/story/26/08/18/1659220/apple-lowers-app-store-fees-in-europe-to-settle-dispute-with-eu))
+- [If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them](https://soylentnews.org/article.pl?sid=26/08/16/1954250&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/16/1954250&from=rss))
+- [India Paves the Way For Charging Merchants a Fee On UPI Transactions](https://news.slashdot.org/story/26/08/18/0812245/india-paves-the-way-for-charging-merchants-a-fee-on-upi-transactions) ([comments](https://news.slashdot.org/story/26/08/18/0812245/india-paves-the-way-for-charging-merchants-a-fee-on-upi-transactions))
+- [Universal health coverage could save $1T and 114k lives a year: study](https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/) ([comments](https://news.ycombinator.com/item?id=49332981))
+- [Linux Desktop Use Surged To 22% On One Workday, Cloudflare Data Shows](https://soylentnews.org/article.pl?sid=26/08/15/2257245&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/15/2257245&from=rss))
+
+## Curious & Creative
+- [Using the railway network as a flatbed scanner](https://philo.gay/linecam/) ([comments](https://lobste.rs/s/n7i1jn/using_railway_network_as_flatbed_scanner))
+- [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly) ([comments](https://news.ycombinator.com/item?id=49353221))
+- [Show HN: Automatically detect and patch walking-dead states in Sierra games](https://github.com/katiahayati/lucasartsifier/) ([comments](https://news.ycombinator.com/item?id=49355607))
+- [Supersonic Trebuchet [video]](https://www.youtube.com/watch?v=Co57SfcT-h0) ([comments](https://news.ycombinator.com/item?id=49306207))
 - [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html) ([comments](https://news.ycombinator.com/item?id=49349984))
+- [IoT Device Forgets to Feed Hungry Kittens](https://soylentnews.org/article.pl?sid=26/08/15/0332259&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/15/0332259&from=rss))
+- [The Return of MySpace? Platform Owners Tease Re-Launch 'When the Time Is Right'](https://soylentnews.org/article.pl?sid=26/08/12/007202&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/12/007202&from=rss))
