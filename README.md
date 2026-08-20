@@ -1,43 +1,21 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Tech Infrastructure
-- [Atlassian to Build $1.4b Tower in Sydney](https://soylentnews.org/article.pl?sid=26/08/19/049230&from=rss)
-
-## Programming Concepts
-- [Goroutines 101: A basic walkthrough](https://func25.dev/posts/go-goroutines-basics/)
-- [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians)
-
-## Tech Ethics/Legal
-- [Whistleblower Arturo Bejar Leads Testimony In Landmark Trial Against Meta](https://tech.slashdot.org/story/26/08/19/2329222/whistleblower-arturo-bejar-leads-testimony-in-landmark-trial-against-meta?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## AI Investments
-- [Stripe Buys AI Startup OpenRouter For $7.5 Billion](https://news.slashdot.org/story/26/08/19/2128206/stripe-buys-ai-startup-openrouter-for-75-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
-
-## AI Models
+## Technology Innovations
+- [Asana cleared 5 years of engineering work in 2 weeks with Codex](https://openai.com/index/asana/)
+- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
 - [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
 
-## Cybersecurity
-- [CISA: Medusa Ransomware Hit Over 500 Critical Infrastructure Orgs](https://it.slashdot.org/story/26/08/19/1729241/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Critical 'Zoomsday' Flaw Enables Total Device Takeover During Zoom Calls](https://soylentnews.org/article.pl?sid=26/08/15/0314218&from=rss)
+## Cybersecurity & Privacy
+- [Facebook whistleblower testimony](https://www.reuters.com/legal/litigation/former-meta-engineer-resumes-testimony-landmark-trial-over-social-medias-harm-2026-08-19/)
+- [CISA reports Medusa ransomware attacks](https://it.slashdot.org/story/26/08/19/1729241/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Password manager vulnerability](https://soylentnews.org/article.pl?sid=26/08/16/1958258&from=rss)
 
-## Operating System Trends
-- [Linux Desktop Use Surged To 22% On One Workday, Cloudflare Data Shows](https://soylentnews.org/article.pl?sid=26/08/15/2257245&from=rss)
+## AI & Machine Learning
+- [Mojo open-sourced](https://www.modular.com/blog/mojo-open-source)
+- [AI applied to Riemann Hypothesis](https://arxiv.org/abs/2608.16753)
+- [Claude's watermark development](https://soylentnews.org/article.pl?sid=26/08/13/2034239&from=rss)
 
-## Cryptocurrency
-- [Coinbase Launches Lightning Speed RPC API for Solana Blockchain](https://soylentnews.org/article.pl?sid=26/08/18/0352202&from=rss)
-
-## Math/Logic
-- [Universality of Gradient Descent Neural Network Training](https://arxiv.org/abs/2007.13664)
-- [Xorshift Generators](https://www.alanzucconi.com/2026/08/15/xorshift-generators/)
-- [Mathematics in the age of AI](https://arxiv.org/abs/2608.16753)
-
-## Software Releases
-- [Go 1.27](https://go.dev/blog/go1.27)
-- [Mojo is now open source](https://www.modular.com/blog/mojo-open-source)
-
-## Metaverse/AR/VR
-- [IWAI App Built in 2 Hours](https://soylentnews.org/article.pl?sid=26/08/19/2328222&from=rss)
-
-## Crypto Security
-- [New Pass-Ta-Key Attack Reveals All the Things We Didn't Know About Passkeys](https://soylentnews.org/article.pl?sid=26/08/13/125234&from=rss)
+## Notable Developments
+- [Cursor launches GitHub alternative](https://developers.slashdot.org/story/26/08/18/2211249/cursor-launches-origin-code-hosting-platform-as-github-alternative?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Linux desktop growth](https://soylentnews.org/article.pl?sid=26/08/15/2257245&from=rss)
+- [PINE64 halts production](https://hardware.slashdot.org/story/26/08/19/2134209/pine64-halts-linux-device-production-amid-dram-and-emmc-shortages?utm_source=rss1.0mainlinkanon&utm_medium=feed)
