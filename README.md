@@ -1,21 +1,11 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Technology Innovations
-- [Asana cleared 5 years of engineering work in 2 weeks with Codex](https://openai.com/index/asana/)
-- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
-- [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
+## Space, Science, and Exploration
+- [NASA's System Modeling Language, FPP](https://ieeexplore.ieee.org/document/9843754) ([comments](https://lobste.rs/s/mlishw/nasa_s_system_modeling_language_fpp))
+- [Rescue Mission Is Called Off For NASA's Aging Swift Space Telescope](https://science.slashdot.org/story/26/08/19/2213259/rescue-mission-is-called-off-for-nasas-aging-swift-space-telescope?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/08/19/2213259/rescue-mission-is-called-off-for-nasas-aging-swift-space-telescope?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Tiny Satellite Will Use the Dark Side of the Moon to Eavesdrop on Whispers From the Early Universe](https://soylentnews.org/article.pl?sid=26/08/18/0353208&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/18/0353208&from=rss))
 
-## Cybersecurity & Privacy
-- [Facebook whistleblower testimony](https://www.reuters.com/legal/litigation/former-meta-engineer-resumes-testimony-landmark-trial-over-social-medias-harm-2026-08-19/)
-- [CISA reports Medusa ransomware attacks](https://it.slashdot.org/story/26/08/19/1729241/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Password manager vulnerability](https://soylentnews.org/article.pl?sid=26/08/16/1958258&from=rss)
-
-## AI & Machine Learning
-- [Mojo open-sourced](https://www.modular.com/blog/mojo-open-source)
-- [AI applied to Riemann Hypothesis](https://arxiv.org/abs/2608.16753)
-- [Claude's watermark development](https://soylentnews.org/article.pl?sid=26/08/13/2034239&from=rss)
-
-## Notable Developments
-- [Cursor launches GitHub alternative](https://developers.slashdot.org/story/26/08/18/2211249/cursor-launches-origin-code-hosting-platform-as-github-alternative?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Linux desktop growth](https://soylentnews.org/article.pl?sid=26/08/15/2257245&from=rss)
-- [PINE64 halts production](https://hardware.slashdot.org/story/26/08/19/2134209/pine64-halts-linux-device-production-amid-dram-and-emmc-shortages?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## AI and Emerging Technology
+- [Proof of Human (YC S23) Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff) ([comments](https://news.ycombinator.com/item?id=49373423))
+- [If this is true, the hyperscalers are toast](https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers) ([comments](https://lobste.rs/s/xgxp9m/if_this_is_true_hyperscalers_are_toast))
+- [Why compiling Rust to WebAssembly is slow](https://00f.net/2026/08/19/why-compiling-rust-to-webassembly-is-slow) ([comments](https://lobste.rs/s/vcqcgl/why_compiling_rust_to_webassembly_is_slow))
