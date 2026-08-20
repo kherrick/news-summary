@@ -1,11 +1,17 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Space, Science, and Exploration
-- [NASA's System Modeling Language, FPP](https://ieeexplore.ieee.org/document/9843754) ([comments](https://lobste.rs/s/mlishw/nasa_s_system_modeling_language_fpp))
-- [Rescue Mission Is Called Off For NASA's Aging Swift Space Telescope](https://science.slashdot.org/story/26/08/19/2213259/rescue-mission-is-called-off-for-nasas-aging-swift-space-telescope?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/08/19/2213259/rescue-mission-is-called-off-for-nasas-aging-swift-space-telescope?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Tiny Satellite Will Use the Dark Side of the Moon to Eavesdrop on Whispers From the Early Universe](https://soylentnews.org/article.pl?sid=26/08/18/0353208&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/18/0353208&from=rss))
+## ⚙️ Programming Innovations
+- [Opus: Minimal, statically-scoped Lisp dialect](https://github.com/yaoshiu/opus)
+- [Bun 1.4 release](https://bun.com/blog/bun-v1.4)
+- [Hacking with Claude on a $27 Smart Watch](https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html)
 
-## AI and Emerging Technology
-- [Proof of Human (YC S23) Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff) ([comments](https://news.ycombinator.com/item?id=49373423))
-- [If this is true, the hyperscalers are toast](https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers) ([comments](https://lobste.rs/s/xgxp9m/if_this_is_true_hyperscalers_are_toast))
-- [Why compiling Rust to WebAssembly is slow](https://00f.net/2026/08/19/why-compiling-rust-to-webassembly-is-slow) ([comments](https://lobste.rs/s/vcqcgl/why_compiling_rust_to_webassembly_is_slow))
+## 📈 Cybersecurity Alerts
+- [Supply chain attack on arrayref (Rust build-time malware)](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/)
+- [AliExpress WebAudio fingerprinting breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
+- [Alien cross-chain bridge exploited for $1.2m theft](https://alien.fun/2026/08/cross-chain-exploit/)
+
+## 🧭 AI Ethics & Challenges
+- [Every Model Cheats: Prompt-level mitigation of cheating on offensive cyber tasks](https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/)
+
+## 💸 Business & Industry
+- [Harvest hikes bills by 1500% after Bending Spoons acquisition](https://www.bbc.com/news/articles/clyq011414eo)
