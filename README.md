@@ -1,32 +1,21 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Programming Language Innovations
-- [Bringing Primary Constructors to Dart](https://dart.dev/blog/bringing-primary_constructors_to_dart)
-- [Announcing Rust 1.98.0](https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/)
-- [Bun 1.4](https://bun.com/blog/bun-v1.4)
-- [Emacs 31.1 will release on 8/24](https://lobste.rs/s/ikhwaz/emacs_31_1_will_release_on_8_24)
-
-## Open Source Infrastructure Updates
-- [Btrfs Snapshot Integration in KDE](https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/)
-- [X.Org Server 26.1 RC1 Prepares For First Feature Release In Five Years](https://www.phoronix.com/news/X.Org-Server-26.1-RC1)
-- [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/)
-
-## AI Ethics & Policy
+## Artificial Intelligence & Emerging Tech
+- [Baidu Says Chinese Buyers Want Local AI Chips Due to ‘Supply Chain’ Issues](https://soylentnews.org/article.pl?sid=26/08/20/146258&from=rss)
+- [Seed: Minimal, self-modifying agent harness](https://github.com/vivekhaldar/seed)
 - [Anti-AI fonts are useless and harmful](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
-- [Zero-Knowledge Proofs Aren't Age Verification Silver Bullets](https://www.eff.org/deeplinks/2026/08/zkps-arent-age-verification-silver-bullets)
-- [Japan to Require AI Firms to Disclose Training Data](https://yro.slashdot.org/story/26/08/19/2322222/japan-to-require-ai-firms-to-disclose-training-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [The Zuckerfesto](https://soylentnews.org/article.pl?sid=26/08/13/2028222&from=rss)
-- [AI Is Dead. Organoids Are Alive](https://soylentnews.org/article.pl?sid=26/08/13/2024258&from=rss)
 
-## Space & Science Highlights
-- [Rescue Mission Is Called Off For NASA's Aging Swift Space Telescope](https://science.slashdot.org/story/26/08/19/2213259/rescue-mission-is-called-off-for-nasas-aging-swift-space-telescope?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Atlassian to Build $1.4b Tower in Sydney](https://soylentnews.org/article.pl?sid=26/08/19/049230&from=rss)
+## Space Exploration
+- [China Is About to Launch Its Most Ambitious Moon Mission Yet](https://science.slashdot.org/story/26/08/21/0121220/china-is-about-to-launch-its-most-ambitious-moon-mission-yet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Firm Test-Fires 3D-Printed, Fully Cryogenic Reusable Rocket Engine](https://soylentnews.org/article.pl?sid=26/08/20/144219&from=rss)
-- [ChatGPT's Computer History Tracks Your Clicks and Keystrokes](https://soylentnews.org/article.pl?sid=26/08/20/141229&from=rss)
+- [Rescue Mission Is Called Off For NASA's Aging Swift Space Telescope](https://science.slashdot.org/story/26/08/19/2213259/rescue-mission-is-called-off-for-nasas-aging-swift-space-telescope?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Consumer Tech & Culture
-- [Are You Sure You Want a Car With a Giant Touch Screen?](https://tech.slashdot.org/story/26/08/20/2030251/are-you-sure-you-want-a-car-with-a-giant-touch-screen?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Watching TikTok Videos and Instagram Reels Deactivates the Brain's Cognitive Control Network](https://tech.slashdot.org/story/26/08/20/1928242/watching-tiktok-videos-and-instagram-reels-deactivates-the-brains-cognitive-control-network?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Software Development & Tools
+- [Vibe coding personal apps in mid-2026](https://www.flourish.org/2026/08/personal-apps/)
+- [Emacs 31.1 will release on 8/24](https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY)
+- [Bun 1.4](https://bun.com/blog/bun-v1.4)
 
-## Policy & Regulation News
-- [Ninth Circuit Rewrites Section 230 To Remove The Part That Actually Mattered](https://soylentnews.org/article.pl?sid=26/08/13/2031207&from=rss)
+## Policy & Society
+- [Japan tried to build an operating system for the world, the US intervened](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/)
+- [Ukrainian Publishers Call For Support After Russian Attacks Destroy 10 Million Books](https://news.slashdot.org/story/26/08/20/201221/ukrainian-publishers-call-for-support-after-russian-attacks-destroy-10-million-books?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Memory Maker CXMT Overtakes Tencent to Become China's Most Valuable Company 17 Days After its IPO](https://soylentnews.org/article.pl?sid=26/08/18/0352202&from=rss)
