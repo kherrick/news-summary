@@ -1,16 +1,17 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence & Machine Learning
-- [Anthropic IPO filing will show AI backlash as a risk factor, sources say](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html) [comments](https://news.ycombinator.com/item?id=49401229)
-- [Linus Torvalds uses AI to debug an Intel GPU driver bug](https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c) [comments](https://lobste.rs/s/eyaz5f/linus_torvalds_uses_ai_debug_intel_gpu)
-- [Over 1 Million People Have Clicked LinkedIn's AI Slop Button](https://tech.slashdot.org/story/26/08/21/224221/over-1-million-people-have-clicked-linkedins-ai-slop-button?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Artificial Intelligence
+- [Knowing When to Stop: The Art of Making a Loop Converge](https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/) ([comments](https://news.ycombinator.com/item?id=49403484))
+- [Flock is Secretly Building a Powerful New Prompt-Based AI Tool for Police](https://yro.slashdot.org/story/26/08/22/0526219/flock-is-secretly-building-a-powerful-new-prompt-based-ai-tool-for-police?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49402521))
+- [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) ([comments](https://news.ycombinator.com/item?id=49402232))
 
-## Technology & Industry
-- [Firefox Announces Free VPN and 'Startpage' Search Engine Rolling Out to Android, iOS - Plus GeForce NOW Support](https://news.slashdot.org/story/26/08/22/0220219/firefox-announces-free-vpn-and-startpage-search-engine-rolling-out-to-android-ios---plus-geforce-now-support?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [New York Dethrones San Francisco Bay Area As Largest Tech Talent Market](https://news.slashdot.org/story/26/08/21/228222/new-york-dethrones-san-francisco-bay-area-as-largest-tech-talent-market?utm_source=rss1.0mainlinkanon&utm_medium=feed) [comments](https://news.ycombinator.com/item?id=49398904)
-- [Man Dressed As Darth Vader Defends Flock Cameras to San Diego City Council](https://yro.slashdot.org/story/26/08/21/1840254/man-dressed-as-darth-vader-defends-flock-cameras-to-san-diego-city-council?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Programming Languages & Tools
+- [Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/) ([comments](https://news.ycombinator.com/item?id=49402741))
+- [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/) ([comments](https://news.ycombinator.com/item?id=49399898))
 
-## Policy, Ethics & Environment
-- [Township Fights Nuclear Weapons Data Center By Passing a Moratorium on Electrical Infrastructure](https://hardware.slashdot.org/story/26/08/21/2015213/township-fights-nuclear-weapons-data-center-by-passing-a-moratorium-on-electrical-infrastructure?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Off the Charts El Nino Is Already the Strongest Since Records Began](https://news.slashdot.org/story/26/08/21/2216202/off-the-charts-el-nino-is-already-the-strongest-since-records-began?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [AI-Generated Bills Are Reportedly Causing Problems in the Capitol](https://soylentnews.org/article.pl?sid=26/08/19/0419256&from=rss)
+## Science & Exploration
+- [One night in Uzbekistan: Why was this one data point so influential?](https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/) ([comments](https://news.ycombinator.com/item?id=49392536))
+- [NASA Estimates The Size Of The Hole SpaceX Made In The Moon](https://soylentnews.org/article.pl?sid=26/08/20/1632204&from=rss) ([comments](https://news.ycombinator.com/item?id=49392228))
+
+## Culture & Creativity
+- [The Creation of Abulafia](https://blog.veitheller.de/abulafia.html) ([comments](https://news.ycombinator.com/item?id=49393537))
