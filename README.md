@@ -1,29 +1,25 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence & Society
-- [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) ([comments](https://news.ycombinator.com/item?id=49402213))
-- [Over 1 Million People Have Clicked LinkedIn's AI Slop Button](https://tech.slashdot.org/story/26/08/21/224221/over-1-million-people-have-clicked-linkedins-ai-slop-button?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49399898))
-- [Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)](https://www.pianoify.net/) ([comments](https://news.ycombinator.com/item?id=49389846))
-- [A week of using Codex more than Claude](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/) ([comments](https://news.ycombinator.com/item?id=49393051))
+## AI and Its Implications
+- [Malware infects Android-based automotive head unit firmware](https://news.ycombinator.com/item?id=49408550)
+- [Integrating Discord SDK into EVE Frontier](https://skemman.is/bitstream/1946/50465/2/integrating_discord_sdk_into_eve_frontier_report.pdf)
+- [AI-Generated Bills Are Reportedly Causing Problems in the Capitol](https://soylentnews.org/article.pl?sid=26/08/19/0419256&from=rss)
+- [Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)
 
-## Space & Exploration
-- [Rush Rescue Mission for NASA's $500M Space Telescope Fails](https://science.slashdot.org/story/26/08/22/1844225/rush-rescue-mission-for-nasas-500m-space-telescope-fails?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Off the Charts El Nino Is Already the Strongest Since Records Began](https://news.slashdot.org/story/26/08/21/2216202/off-the-charts-el-nino-is-already-the-strongest-since-records-began?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Astronomers Discover a Brand-New Type of Astrophysical Object: A Black Hole Star](https://soylentnews.org/article.pl?sid=26/08/16/1958229&from=rss)
+## Exploring Space and the Unknown
+- [Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive](https://skylens.yantraai.app/)
+- [NASA Estimates The Size Of The Hole SpaceX Made In The Moon](https://soylentnews.org/article.pl?sid=26/08/20/146258&from=rss)
 
-## Health & Biotechnology
-- [The Sloppification of Peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides) ([comments](https://news.ycombinator.com/item?id=49407341))
-- [Low Emission Zone Led To Better Lung Size, Function Among London Children](https://news.slashdot.org/story/26/08/22/0537243/low-emission-zone-led-to-better-lung-size-function-among-london-children?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Moderna-Merck Vaccine Cuts Recurrence And Spread of Melanoma, Raises New Treatment Hope](https://science.slashdot.org/story/26/08/22/0346210/modern-merck-vaccine-cuts-recurrence-and-spread-of-melanoma-raises-new-treatment-hope?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Health, Biotech, and Medical Breakthroughs
+- [The Sloppification of Peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides)
+- [Risk of transmission of amyloid Ò¾ pathology via transfused blood products](https://doi.org/10.1016/S0140-6736(26)00767-1)
+- [Moderna-Merck Vaccine Cuts Recurrence And Spread of Melanoma](https://science.slashdot.org/story/26/08/22/0346210/moderna-merck-vaccine-cuts-recurrence-and-spread-of-melanoma-raises-new-treatment-hope?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Computing & Software Development
-- [JIT Compiling Code in 5µs](https://malisper.me/jit-compiling-code-in-5-us/)
-- [Debian is Voting on Whether to Allow AI-Assisted Contributions](https://linux.slashdot.org/story/26/08/23/0539230/debian-is-voting-on-whether-to-allow-ai-assisted-contributions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Foundational Verification of Running-Time Bounds for Interactive Programs](https://adam.chlipala.net/papers/MetricsCPP26/MetricsCPP26.pdf)
-- [Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
-- [The cool things of Gleam](https://a.baez.link/3mtdbbp2dmc27)
+## Sustainable Energy and Environmental Impact
+- [Supply Chain Issues Delaying US Grid Batteries' Installation](https://hardware.slashdot.org/story/26/08/23/0333203/supply-chain-issues-delaying-us-grid-batteries-installation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Retro & Hardware Innovations
-- [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/)
-- [The immortal 1984 Macintosh (restoration diary)](https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html)
-- [Turning My CASIO F-91W Into a Contactless Payment Device](https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device/)
+## Hardware Innovations and Repairability
+- [Fairphone's Latest Repairable Phone is Going on Sale in the US](https://soylentnews.org/article.pl?sid=26/08/22/1912251&from=rss)
+
+## Culture, Media, and Art
+- [The Art and Beauty of Blade Runner (2015)](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/)
