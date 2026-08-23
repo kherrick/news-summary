@@ -14,7 +14,7 @@
 ## Health & Biotechnology
 - [The Sloppification of Peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides) ([comments](https://news.ycombinator.com/item?id=49407341))
 - [Low Emission Zone Led To Better Lung Size, Function Among London Children](https://news.slashdot.org/story/26/08/22/0537243/low-emission-zone-led-to-better-lung-size-function-among-london-children?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Moderna-Merck Vaccine Cuts Recurrence And Spread of Melanoma, Raises New Treatment Hope](https://science.slashdot.org/story/26/08/22/0346210/moderna-merck-vaccine-cuts-recurrence-and-spread-of-melanoma-raises-new-treatment-hope?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Moderna-Merck Vaccine Cuts Recurrence And Spread of Melanoma, Raises New Treatment Hope](https://science.slashdot.org/story/26/08/22/0346210/modern-merck-vaccine-cuts-recurrence-and-spread-of-melanoma-raises-new-treatment-hope?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ## Computing & Software Development
 - [JIT Compiling Code in 5µs](https://malisper.me/jit-compiling-code-in-5-us/)
