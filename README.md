@@ -1,23 +1,31 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Space Exploration and Science
-- [Rush Rescue Mission for NASA's $500M Space Telescope Fails](https://science.slashdot.org/story/26/08/22/1844225/rush-rescue-mission-for-nasas-500m-space-telescope-fails?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Low Emission Zone Led To Better Lung Size, Function Among London Children](https://news.slashdot.org/story/26/08/22/0537243/low-emission-zone-led-to-better-lung-size-function-among-london-children?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## AI Developments
+- [Microsoft Blames Windows Gaming Issues On RGB Lighting Devices](https://tech.slashdot.org/story/26/08/23/0046217/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices
+- [An AI Broke Snowflake's Code. Then Another AI Agent Exploited It](https://soylentnews.org/article.pl?sid=26/08/21/2147207)
+- [How Will AI Change the Field of Mathematics?](https://science.slashdot.org/story/26/08/22/2235244/how-will-ai-change-the-field-of-mathematics)
+- [NanoGpt Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
+- [Flock is Secretly Building a Powerful New Prompt-Based AI Tool for Police](https://yro.slashdot.org/story/26/08/22/0526219/flock-is-secretly-building-a-powerful-new-prompt-based-ai-tool-for-police)
+- [Is Ai Really to Blame for High Unemployment Among Recent Graduates? What Economists Say](https://it.slashdot.org/story/26/08/22/0418223/is-ai-really-to-blame-for-high-unemployment-among-recent-graduates-what-economists-say)
+- [Rt Conways Game of Life in real life](https://blog.coredump.cx/p/conways-game-of-life-in-real-life)
 
-## AI and Machine Learning
-- [Flock is Secretly Building a Powerful New Prompt-Based AI Tool for Police](https://yro.slashdot.org/story/26/08/22/0526219/flock-is-secretly-building-a-powerful-new-prompt-based-ai-tool-for-police?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
-- [Over 1 Million People Have Clicked LinkedIn's AI Slop Button](https://tech.slashdot.org/story/26/08/21/224221/over-1-million-people-have-clicked-linkedins-ai-slop-button?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Technical Challenges and Hardware Issues
+- [Battery Fires At Recycling Centres Are Costing the UK &pound;1bn a Year](https://hardware.slashdot.org/story/26/08/23/0027208/battery-fires-at-recycling-centres-are-costing-the-uk-1bn-a-year
+- [Low Emission Zone Led To Better Lung Size, Function Among London Children](https://news.slashdot.org/story/26/08/22/0537243/low-emission-zone-led-to-better-lung-size-function-among-london-children)
+- [China Joins Europe In Scrapping Windows For Linux](https://linux.slashdot.org/story/26/08/21/2158246/china-joins-europe-in-scrapping-windows-for-linux)
 
-## Operating Systems and Low-Level Development
+## Environmental Impact and Health
+- [Battery Fires At Recycling Centres Are Costing the UK &pound;1bn a Year](https://hardware.slashdot.org/story/26/08/23/0027208/battery-fires-at-recycling-centres-are-costing-the-uk-1bn-a-year)
+- [Low Emission Zone Led To Better Lung Size, Function Among London Children](https://news.slashdot.org/story/26/08/22/0537243/low-emission-zone-led-to-better-lung-size-function-among-london-children)
+
+## Software & OS Updates
+- [hdiutil is deprecated in macOS 27 Golden Gate](https://news.ycombinator.com/item?id=49402781)
 - [KDE Linux experiences](https://akselmo.dev/posts/kde-linux-experiences/)
-- [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
-- [A 2026 Survey of Rust GUI Libraries](https://blog.wybxc.cc/blog/rust-gui-survey-2026/)
+- [Espressif releases Linux BSP for ESP32-S31 RISC-V boards](https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/)
 
-## Health and Medicine
-- [Moderna-Merck Vaccine Cuts Recurrence And Spread of Melanoma, Raises New Treatment Hope](https://science.slashdot.org/story/26/08/22/0346210/moderna-merck-vaccine-cuts-recurrence-and-spread-of-melanoma-raises-new-treatment-hope?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## Infrastructure and Tooling
-- [PiKVM project has gained support for web-camera forwarding](https://docs.pikvm.org/camera/)
-- [InjectionBunny, a NTFS3 SUID injection for privilege escalation](https://lore.kernel.org/ntfs3/CAGBKPgPiXyKWtjgYSACnugmG1XPs=mPg-Zu-xQziUZ1k921+qA@mail.gmail.com/T/#mc251816dfcb7d4dcbf07368f0d288dbfb1b8e1c9)
-- [nss-userhosts - hosts files for unprivileged users](https://codeberg.org/felixs/nss-userhosts)
+## Miscellaneous Highlights
+- [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
+- [Thinking in Python](https://thinkinginpython.com/)
+- [Firefox Announces Free VPN and Startpage Search Engine](https://news.slashdot.org/story/26/08/22/0220219/firefox-announces-free-vpn-and-startpage-search-engine-rolling-out-to-android-ios---plus-geforce-now-support)
+- [Moderna-Merck Vaccine Cuts Recurrence And Spread of Melanoma](https://science.slashdot.org/story/26/08/22/0346210/moderna-merck-vaccine-cuts-recurrence-and-spread-of-melanoma-raises-new-treatment-hope)
+- [Canada will match US tariffs 'dollar for dollar'](https://www.bbc.com/news/articles/cvgvyy4x2mvo)
