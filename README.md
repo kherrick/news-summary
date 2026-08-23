@@ -1,42 +1,41 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI Developments and Security
-- [Slovakia Finds Russian Backdoor In Traffic Speed Cameras](https://yro.slashdot.org/story/26/08/23/1735228/slovakia-finds-russian-backdoor-in-traffic-speed-cameras?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Stanford Economist Now Believes an AI Job Apocalypse Is Unlikely](https://it.slashdot.org/story/26/08/22/211256/stanford-economist-now-believes-an-ai-job-apocalypse-is-unlikely?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Microsoft Copilot Reveals Secret Input That Allowed It to be Hacked](https://soylentnews.org/article.pl?sid=26/08/19/0129231&from=rss)
-- [AI Broke Snowflake's Code. Then Another AI Agent Exploited It](https://soylentnews.org/article.pl?sid=26/08/22/1635259&from=rss)
-- [Canonical is Funding a PhD to Automate C to Rust Translation](https://developers.slashdot.org/story/26/08/23/0458226/canonical-is-funding-a-phd-to-automate-c-to-rust-translation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Malware Infects Android-Based Automotive Head Unit Firmware](https://securelist.com/android-head-unit-malware/121106/)
-- [To Become a Better Writer, Read as Much as You Can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
+## Cybersecurity Threats
 
-## Open Source & Software Innovations
-- [A Website for Debloated Open Source Alternatives](https://debloat.dev/)
-- [Linux Desktop Use Surged To 22% On One Workday](https://soylentnews.org/article.pl?sid=26/08/17/2257245&from=rss)
-- [Debian is Voting on Whether to Allow AI-Assisted Contributions](https://linux.slashdot.org/story/26/08/23/0539230/debian-is-voting-on-whether-to-allow-ai-assisted-contributions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [An Introduction to Canvas in GNU Emacs](https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html)
-- [Hister – A Private, Full Content Search Index That You Control](https://hister.org/)
-- [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
+* [Iran-linked Cyberattackers Shut Down a UK Power Plant for Four Days](https://news.slashdot.org/story/26/08/23/1849216/iran-linked-cyberattackers-shut-down-a-uk-power-plant-for-four-days?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Slovakia Finds Russian Backdoor In Traffic Speed Cameras](https://yro.slashdot.org/story/26/08/23/1735228/slovakia-finds-russian-backdoor-in-traffic-speed-cameras?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/)
 
-## Health, Science, and Environment
-- [Moderna-Merck Vaccine Cuts Recurrence And Spread of Melanoma](https://science.slashdot.org/story/26/08/22/0346210/moderna-merck-vaccine-cuts-recurrence-and-spread-of-melanoma-raises-new-treatment-hope?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests](https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/)
-- [Lithium Battery Updates—Solid Li Batteries Are Not Coming Soon](https://soylentnews.org/article.pl?sid=26/08/19/0352227&from=rss)
-- [HIV, Cancer, and Genetic Risks Threaten Human Longevity](https://soylentnews.org/article.pl?sid=26/08/20/0353208&from=rss)
+## AI Advancements and Implications
 
-## Privacy and Data Management
-- [Where are the Data Workers Behind AI?](https://www.ai-materiality-map.org/data-workers/)
-- [AI-Generated Bills Are Reportedly Causing Problems in the Capitol](https://soylentnews.org/article.pl?sid=26/08/19/0419256&from=rss)
-- [Always Finish Your Antibiotics? Longer is Better? Outdated Ideas About Antibiotics Are Common](https://soylentnews.org/article.pl?sid=26/08/18/0125241&from=rss)
+* [GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost](https://reinvently.co.uk/tools/ed-o-meter/)
+* [A website for debloated open source alternatives](https://debloat.dev/)
+* [Stanford Economist Now Believes an AI Job Apocalypse Is Unlikely](https://it.slashdot.org/story/26/08/22/211256/stanford-economist-now-believes-an-ai-job-apocalypse-is-unlikely?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+* [Why Sal Khan't: On Learning by Making but Teaching by Telling](https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/)
+* [Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests](https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/)
 
-## Technology and Miscellaneous
-- [The Art and Beauty of Blade Runner (2015)](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/)
-- [Jimbo's Emacs Configuration](https://quota.keir.io/emacs/)
-- [Optimizing Memory Usage in a Markdown Parser](https://blog.kowalczyk.info/a-n8wf/optimizing-memory-use-in-markdown-parser.html)
-- [Why Aren't My Two Cortex-A9 Cores Cache Coherent?](https://thejpster.org.uk/blog/blog-2026-08-22/)
-- [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491)
-- [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/)
-- [To Become a Better Writer, Read as Much as You Can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
+## Technology Regulation
 
-## Conclusion
+* [Dutch regulator fines Uber $966M for automating driver suspensions](https://www.theguardian.com/technology/2026/aug/21/netherlands-fines-uber-automated-driver-suspensions)
+* [We must not grant AI agents legal personhood](https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473)
 
--- No additional details, footers, or metadata included.
+## Tech Innovations
+
+* [Hister – A private, full content search index that you control](https://hister.org/)
+* [Electrical circuit emulator 'eh'](https://codeberg.org/SirWumpus/eh)
+* [Linus Torvalds uses AI to debug an Intel GPU driver bug](https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c)
+* [JIT Compiling Code in 5£s](https://malisper.me/jit-compiling-code-in-5-us/)
+* [Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
+
+## Space & Environment
+
+* [NASA Estimates The Size Of The Hole SpaceX Made In The Moon](https://soylentnews.org/article.pl?sid=26/08/21/1632204&from=rss)
+* [Tiny Satellite Will Use the Dark Side of the Moon to Eavesdrop on Whispers From the Early Universe](https://soylentnews.org/article.pl?sid=26/08/18/0353208&from=rss)
+* [Battery Fires At Recycling Centres Are Costing the UK £1bn a Year](https://hardware.slashdot.org/story/26/08/23/0027208/battery-fires-at-recycling-centres-are-costing-the-uk-1bn-a-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## Miscellaneous Tech News
+
+* [ChatGPT's Computer History Tracks Your Clicks and Keystrokes](https://soylentnews.org/article.pl?sid=26/08/20/141229&from=rss)
+* [Fairphone's Latest Repairable Phone is Going on Sale in the US](https://soylentnews.org/article.pl?sid=26/08/22/1912251&from=rss)
+* [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/)
+* [The Art and Beauty of Blade Runner (2015)](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/)
