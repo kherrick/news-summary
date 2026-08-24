@@ -1,100 +1,18 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## 2026-08-24
-- [Could Mecha Comet's Linux PC-Phone Hybrid Be the Future of Linux Smartphones?](https://linux.slashdot.org/story/26/08/24/0228216/could-mecha-comets-linux-pc-phone-hybrid-be-the-future-of-linux-smartphones?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Former OC actor Ben McKenzie on crusade to take down ‘stupid’ cryptocurrency](https://www.rnz.co.nz/life/people/celebrity/former-oc-actor-ben-mckenzie-on-crusade-to-take-down-stupid-cryptocurrency)
-- [Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel](https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps)
-- [The first search engine for Internet-connected devices](https://www.shodan.io/)
-- [offgrid electric car (2025)](https://joeyh.name/blog/entry/offgrid_electric_car/)
+## Automotive & Mobility
+- [Nearly 3M Teslas recalled in China over hidden door handles](https://www.bbc.com/news/articles/c4g6ggdg030o) ([comments](https://news.ycombinator.com/item?id=49415187))
+- [Off-grid electric car (2025)](https://joeyh.name/blog/entry/offgrid_electric_car/)
 
-## 2026-08-23
+## Space & Science
+- [Radiation Damage to the HST Has Been Several Years Out of Phase With the Solar Cycle](https://soylentnews.org/article.pl?sid=26/08/23/0230225&from=rss)
+
+## Quantum Computing
 - [The Global Race To Make a Practical Quantum Computer Just Took a Big Leap Forward](https://tech.slashdot.org/story/26/08/23/2348249/the-global-race-to-make-a-practical-quantum-computer-just-took-a-big-leap-forward?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [I built a low-latency AI companion that plays Skyrim with me](https://pantel.is/projects/ai-gaming-companion/)
-- [Amazon’s New Terms Of Service Bar Customers From Filing Class-Action Lawsuits](https://soylentnews.org/article.pl?sid=26/08/23/0033227\&from=rss)
-- [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
-- [Parallel development without the headaches using Git worktree](https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/)
-- [Twitch And Amazon Hit With Lawsuit for Training AI With Streamers’ Content](https://yro.slashdot.org/story/26/08/23/2127238/twitch-and-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Implementation of GPT-2 in pure CMake](https://github.com/AlpinDale/gpt2.cmake)
-- [My DIY DEF CON Choker Has a Screen On It](https://www.scd31.com/posts/defcon-choker)
-- [SVG Filter Effects: Creating Texture with <feTurbulence> (2019)](https://tympanus.net/codrops/2019/02/19/svg-filter-effects-creating-texture-with-feturbulence/)
-- [The text mode lie: why modern TUIs are a nightmare for accessibility](https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/)
-- [OpenAI Faces Safety Scrutiny After Introducing ‘ChatGPT For Teens’](https://news.slashdot.org/story/26/08/23/2058201/openai-faces-safety-scrutiny-after-introducing-chatgpt-for-teens?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Declarative WebGPU with S-expressions](https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/)
-- [Rural Village in Spain Is Welcoming Digital Nomads with Open Arms](https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms)
-- [Decoding silent reading from non-invasive EEG](https://arxiv.org/abs/2608.20186)
-- [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/)
-- [Replicating Reddit’s best feature on other forums](https://xavd.id/blog/post/highlighting-users/)
-- [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/)
-- [Wild AI-related reliability incidents are coming](https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/)
-- [Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?](https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html)
-- [Iran-linked Cyberattackers Shut Down a UK Power Plant for Four Days](https://news.slashdot.org/story/26/08/23/1849216/iran-linked-cyberattackers-shut-down-a-uk-power-plant-for-four-days?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [tmp.0ut volume 5](https://tmpout.sh/5/)
-- [The Vibe Tax](https://insufferable.dev/posts/vibe-tax/)
-- [Planned US Data Centers Set to Produce 24M Cars’ Worth of Carbon Dioxide](https://soylentnews.org/article.pl?sid=26/08/23/0027258\&from=rss)
-- [Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
-- [AI and Infrastructure Engineering](https://omegion.dev/2026/08/ai-and-infrastructure-engineering/)
-- [Explain it to me like I’m ten](https://timharford.com/2026/08/explain-it-to-me-like-im-ten/)
-- [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html)
-- [Slovakia Finds Russian Backdoor In Traffic Speed Cameras](https://yro.slashdot.org/story/26/08/23/1735228/slovakia-finds-russian-backdoor-in-traffic-speed-cameras?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [The Remote Work Challenge: Lessons from 5 Cities](https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities)
-- [A website for debloated open source alternatives](https://debloat.dev/)
-- [RSoC 2026: EEVDF for Redox](https://www.redox-os.org/news/rsoc-eevdf/)
-- [Stanford Economist Now Believes an AI Job Apocalypse Is Unlikely](https://it.slashdot.org/story/26/08/22/211256/stanford-economist-now-believes-an-ai-job-apocalypse-is-unlikely?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [How To Report A Bug So It Actually Gets Fixed](https://blog.tymscar.com/posts/howtoreportabug/)
-- [Why Sal Khan’t: On Learning by Making but Teaching by Telling](https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/)
-- [Coconut oil jet fuel matches kerosene’s efficiency in engine tests](https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/)
-- [Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it](https://ericpardee.github.io/fire-hd-ownership/)
-- [23 Years After SimCity 4’s Release, ’Eternal Commuter’ Bug Finally Fixed](https://games.slashdot.org/story/26/08/23/0417243/23-years-after-simcity-4s-release-eternal-commuter-bug-finally-fixed?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [How Complex Systems Fail (1998)](https://how.complexsystems.fail/)
-- [eh: a minimalist vi-like editor](https://codeberg.org/SirWumpus/eh)
-- [clicky: A clickwheel iPod emulator](https://github.com/daniel5151/clicky)
-- [My favorite Computer Science books, and why](https://backtracking.github.io/en/2020/02/20/cs-books.html)
-- [An Introduction to Canvas in GNU Emacs](https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html)
-- [Canonical is Funding a PhD to Automate C to Rust Translation](https://developers.slashdot.org/story/26/08/23/0458226/canonical-is-funding-a-phd-to-automate-c-to-rust-translation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/)
-- [Death to px, long live ch](https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/)
-- [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
-- [Fairphone’s Latest Repairable Phone is Going on Sale in the US](https://soylentnews.org/article.pl?sid=26/08/22/1912251\&from=rss)
-- [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/)
-- [Hister - A private, full content search index that you control](https://hister.org/)
-- [And then the men with guns tell you to do it anyway](https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/)
-- [Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?](https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf)
-- [Supply Chain Issues Delaying US Grid Batteries’ Installation](https://hardware.slashdot.org/story/26/08/23/0333203/supply-chain-issues-delaying-us-grid-batteries-installation?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [The Sloppification of Peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides)
-- [Hackers Tricked a Major Retailer’s AI Shopping Bot to Do Something It Was Never Supposed to](https://soylentnews.org/article.pl?sid=26/08/22/191250\&from=rss)
-- [Debian is Voting on Whether to Allow AI-Assisted Contributions](https://linux.slashdot.org/story/26/08/23/0539230/debian-is-voting-on-whether-to-allow-ai-assisted-contributions?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Why aren’t my two Cortex-A9 cores cache coherent?](https://thejpster.org.uk/blog/blog-2026-08-22/)
-- [Defamation Suit Demanding Elsevier Retract Paper Heads Closer To Trial](https://science.slashdot.org/story/26/08/23/0113210/defamation-suit-demanding-elsevier-retract-paper-heads-closer-to-trial?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Why Polylactide (PLA) 3D-Printing Plastic Is So Brittle](https://soylentnews.org/article.pl?sid=26/08/21/2148204\&from=rss)
-- [Microsoft Blames Windows Gaming Issues On RGB Lighting Devices](https://tech.slashdot.org/story/26/08/23/0046217/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Battery Fires At Recycling Centres Are Costing the UK &pound;1bn a Year](https://hardware.slashdot.org/story/26/08/23/0027208/battery-fires-at-recycling-centres-are-costing-the-uk-1bn-a-year?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [The Sloppification of Peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides)
-- [ChatGPT’s Computer History Tracks Your Clicks and Keystrokes](https://soylentnews.org/article.pl?sid=26/08/20/141229\&from=rss)
-- [Nvidia Crypto Mining GPUs Hacked to Restore Locked-Away VRAM — Software Mod Unlocks 64GB of VRAM](https://soylentnews.org/article.pl?sid=26/08/19/0423256\&from=rss)
-- [AI-Generated Bills Are Reportedly Causing Problems in the Capitol](https://soylentnews.org/article.pl?sid=26/08/19/0419256\&from=rss)
-- [China Reportedly Orders State Agencies to Uninstall its Government-Only Edition of Windows 10](https://soylentnews.org/article.pl?sid=26/08/19/0417243\&from=rss)
-- [Atlassian to Build $1.4b Tower in Sydney](https://soylentnews.org/article.pl?sid=26/08/19/049230\&from=rss)
-- [LiFeLi-ion Batteries Updates--Solid Li Batteries Are Not Coming Soon](https://soylentnews.org/article.pl?sid=26/08/19/0352227\&from=rss)
 
-## 2026-08-22
-- [An AI Broke Snowflake’s Code. Then Another AI Agent Exploited It](https://soylentnews.org/article.pl?sid=26/08/21/2147207\&from=rss)
-- [How Will AI Change the Field of Mathematics?](https://science.slashdot.org/story/26/08/22/2235244/how-will-ai-change-the-field-of-mathematics?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## AI & Emerging Tech
+- [I built a low-latency AI companion that plays Skyrim with me](https://pantel.is/projects/ai-gaming-companion/) ([comments](https://news.ycombinator.com/item?id=49413561))
+- [Implementation of GPT-2 in pure CMake](https://github.com/AlpinDale/gpt2.cmake) ([comments](https://news.ycombinator.com/item?id=49412909))
 
-## 2026-08-21
-- [The 6 AI-Free Linux Distros That Are Likely To Stay That Way](https://soylentnews.org/article.pl?sid=26/08/20/1635259\&from=rss)
-- [NASA Estimates The Size Of The Hole SpaceX Made In The Moon](https://soylentnews.org/article.pl?sid=26/08/20/1632204\&from=rss)
-
-## 2026-08-20
-- [ChatGPT’s Computer History Tracks Your Clicks and Keystrokes](https://soylentnews.org/article.pl?sid=26/08/20/141229\&from=rss)
-- [Nvidia Crypto Mining GPUs Hacked to Restore Locked-Away VRAM — Software Mod Unlocks 64GB of VRAM](https://soylentnews.org/article.pl?sid=26/08/19/0423256\&from=rss)
-
-## 2026-08-19
-- [Secret Tracking Device Placed in Rare Book Ends Up in Amazon Processing Facility](https://soylentnews.org/article.pl?sid=26/08/19/0132244\&from=rss)
-- [Microsoft Copilot Reveals Secret Input That Allowed It to be Hacked](https://soylentnews.org/article.pl?sid=26/08/19/0129231\&from=rss)
-
-## 2026-08-18
-- [Memory Maker CXMT Overtakes Tencent to Become China’s Most Valuable Company 17 Days After its IPO](https://soylentnews.org/article.pl?sid=26/08/18/0352202\&from=rss)
-- [Scientists Increasingly Depend on ‘Black-Box’ Tools They Cannot Control or Fully Understand](https://soylentnews.org/article.pl?sid=26/08/18/0350221\&from=rss)
-
-## 2026-08-17
-- [If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them](https://soylentnews.org/article.pl?sid=26/08/16/1954250\&from=rss)
+## Policy & Legal
+- [Amazon’s New Terms Of Service Bar Customers From Filing Class-Action Lawsuits](https://soylentnews.org/article.pl?sid=26/08/23/0033227&from=rss) ([comments](https://news.ycombinator.com/item?id=49413320))
