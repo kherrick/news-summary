@@ -1,91 +1,22 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI Industry, Safety & Policy
-- [OpenAI's Overhead Will Rise 20 Percent for Some Workloads as It Hardens Security](https://soylentnews.org/article.pl?sid=26/08/26/0410207&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/26/0410207&from=rss))
-- [OpenAI Releases Its Official Report On the Hugging Face Breach](https://it.slashdot.org/story/26/08/26/2058223/openai-releases-its-official-report-on-the-hugging-face-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/26/08/26/2058223/openai-releases-its-official-report-on-the-hugging-face-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [The Hugging Face incident and the road ahead](https://openai.com/index/hugging-face-incident-and-the-road-ahead/) ([comments](https://news.ycombinator.com/item?id=49454314))
-- [Alabama Launches Investigation Into OpenAI's Hack of Hugging Face](https://yro.slashdot.org/story/26/08/25/2259204/alabama-launches-investigation-into-openais-hack-of-hugging-face?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/08/25/2259204/alabama-launches-investigation-into-openais-hack-of-hugging-face?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Humanoid Robots Have Beaten Usain Bolt's 100-Meter Dash Record](https://soylentnews.org/article.pl?sid=26/08/26/0023209&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/26/0023209&from=rss))
-- [Florida Seeks Court Ruling to Officially Classify Sam Altman and ChatGPT as a 'Public Nuisance'](https://soylentnews.org/article.pl?sid=26/08/26/0021253&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/26/0021253&from=rss))
-- [The turbulent AI era is here](https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make) ([comments](https://news.ycombinator.com/item?id=49451313))
-- [Cloverleaf Deal is Latest Example of Nvidia Using its War Chest to Patch Cracks in the AI Bubble](https://soylentnews.org/article.pl?sid=26/08/23/0237250&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/23/0237250&from=rss))
-- [China's Moonshot In Talks With Microsoft, Amazon, Google Over K3 Revenue Sharing](https://news.slashdot.org/story/26/08/26/2042210/chinas-moonshot-in-talks-with-microsoft-amazon-google-over-k3-revenue-sharing?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/08/26/2042210/chinas-moonshot-in-talks-with-microsoft-amazon-google-over-k3-revenue-sharing?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Chinese Government Fears AI Might Replace Human Intimacy](https://yro.slashdot.org/story/26/08/26/0618208/chinese-government-fears-ai-might-replace-human-intimacy?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/08/26/0618208/chinese-government-fears-ai-might-replace-human-intimacy?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Inside the Warehouse Where Amazon Scans and Destroys Books For AI Training](https://news.slashdot.org/story/26/08/26/1857240/inside-the-warehouse-where-amazon-scans-and-destroys-books-for-ai-training?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/08/26/1857240/inside-the-warehouse-where-amazon-scans-and-destroys-books-for-ai-training?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [New Zealand Introduces Under-16 Social Media, AI Companion Ban](https://tech.slashdot.org/story/26/08/25/2116226/new-zealand-introduces-under-16-social-media-ai-companion-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/08/25/2116226/new-zealand-introduces-under-16-social-media-ai-companion-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## AI & Technology
+- [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8) ([comments](https://news.ycombinator.com/item?id=49458161))
+- [Laion Big Video Dataset](https://projects.laion.ai/bvd/) ([comments](https://news.ycombinator.com/item?id=49458478))
+- [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive) ([comments](https://news.ycombinator.com/item?id=49458418))
+- [Bill Gates Proposes Major Limits On AI Development](https://hardware.slashdot.org/story/26/08/26/2117239/bill-gates-proposes-major-limits-on-ai-development?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/08/26/2117239/bill-gates-proposes-major-limits-on-ai-development?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Open Source, Linux & Programming Languages
-- [Asahi Linux Progress Report: Linux 7.2](https://asahilinux.org/2026/08/progress-report-7-2/) ([comments](https://lobste.rs/s/6qxd8g/asahi_linux_progress_report_linux_7_2))
-- [Dissecting the Apple M1 GPU, the end](https://alyssarosenzweig.ca/blog/asahi-gpu-part-n.html) ([comments](https://lobste.rs/s/w2g5fx/dissectingthe_apple_m1_gpu_end))
-- [DuckLabs to Join AWS, Projects to Remain Open Source](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws) ([comments](https://lobste.rs/s/p86r57/ducklabs_join_aws_projects_remain_open))
-- [Amazon to Acquire DuckLabs, Adding the Team Behind DuckDB](https://developers.slashdot.org/story/26/08/26/1824257/amazon-to-acquire-ducklabs-adding-the-team-behind-duckdb?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://developers.slashdot.org/story/26/08/26/1824257/amazon-to-acquire-ducklabs-adding-the-team-behind-duckdb?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Haiku R1/beta6 released](https://www.haiku-os.org/get-haiku/r1beta6/release-notes/) ([comments](https://lobste.rs/s/lt9i0j/haiku_r1_beta6_released))
-- [mold: A Massively Parallel Linker](https://arxiv.org/abs/2608.23228) ([comments](https://lobste.rs/s/e291dc/mold_massively_parallel_linker))
-- [Ancient 'Who Owns Linux?' Case Now Has One Foot Very Deep in the Grave](https://soylentnews.org/article.pl?sid=26/08/24/1641227&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/24/1641227&from=rss))
-- [The Move to Python 3 Begins](https://www.eveonline.com/news/view/the-move-to-python-3-begins) ([comments](https://lobste.rs/s/e1oalq/move_python_3_begins))
-- [Why Google stores billions of lines of code in a single repository (2016)](https://dl.acm.org/doi/fullHtml/10.1145/2854146) ([comments](https://lobste.rs/s/wv6fzc/why_google_stores_billions_lines_code))
-- [IRC is Back on Linux.Org!](https://soylentnews.org/article.pl?sid=26/08/20/1628253&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/20/1628253&from=rss))
-
-## Security, Privacy & Surveillance
-- [Hackers Poison Popular Rust Crates to Steal Developers' Credentials](https://soylentnews.org/article.pl?sid=26/08/23/0248216&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/23/0248216&from=rss))
-- [An AI Broke Snowflake's Code. Then Another AI Agent Exploited It](https://soylentnews.org/article.pl?sid=26/08/21/2147207&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/21/2147207&from=rss))
-- [Hackers Tricked a Major Retailer's AI Shopping Bot to Do Something It Was Never Supposed to](https://soylentnews.org/article.pl?sid=26/08/22/191250&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/22/191250&from=rss))
+## Security & Privacy
 - [VMs won't contain cyber-capable agents](https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/) ([comments](https://lobste.rs/s/q6qjjr/vms_won_t_contain_cyber_capable_agents))
-- [US sanctions Italian hosting provider Autistici Inventati](https://home.treasury.gov/news/press-releases/sb0616) ([comments](https://news.ycombinator.com/item?id=49451343))
-- [GitHub Outage Tracker: Is GitHub Cooked?](https://isgithubcooked.com/) ([comments](https://news.ycombinator.com/item?id=49454728))
-- [As Wisconsin Cities Flee Flock, Its Shared Camera Network Loses Value](https://soylentnews.org/article.pl?sid=26/08/23/2251212&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/23/2251212&from=rss))
-- [ChatGPT's Computer History Tracks Your Clicks and Keystrokes](https://soylentnews.org/article.pl?sid=26/08/20/141229&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/20/141229&from=rss))
-- [Inside Defcon, The Conference That Made Cybersecurity Noob-Friendly](https://soylentnews.org/article.pl?sid=26/08/20/1641225&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/20/1641225&from=rss))
-- [Stalking the Wily Hacker: 40 years later – Cliff Stoll](https://www.youtube.com/watch?v=656058JxTM0) ([comments](https://news.ycombinator.com/item?id=49395802))
+- [Getting a Cease and Desist from Waffle House (2025)](https://www.jack.bio/blog/wafflehouse) ([comments](https://lobste.rs/s/erm1zp/getting_cease_desist_from_waffle_house))
+- [Why Google stores billions of lines of code in a single repository (2016)](https://dl.acm.org/doi/fullHtml/10.1145/2854146) ([comments](https://lobste.rs/s/wv6fzc/why_google_stores_billions_lines_code))
 
-## Hardware, Space & Tech Industry
-- [IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE](https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone) ([comments](https://news.ycombinator.com/item?id=49455471))
-- [SpaceX Plans to Build a $100 Billion Spaceport In Louisiana](https://science.slashdot.org/story/26/08/25/2337244/spacex-plans-to-build-a-100-billion-spaceport-in-louisiana?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/08/25/2337244/spacex-plans-to-build-a-100-billion-spaceport-in-louisiana?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [NASA Estimates The Size Of The Hole SpaceX Made In The Moon](https://soylentnews.org/article.pl?sid=26/08/20/1632204&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/20/1632204&from=rss))
-- [Firm Test-Fires 3D-Printed, Fully Cryogenic Reusable Rocket Engine](https://soylentnews.org/article.pl?sid=26/08/20/144219&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/20/144219&from=rss))
-- [Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels](https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/) ([comments](https://lobste.rs/s/me3mun/motorola_s_grapheneos_phones_will_launch))
-- [Fairphone's Latest Repairable Phone is Going on Sale in the US](https://soylentnews.org/article.pl?sid=26/08/22/1912251&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/22/1912251&from=rss))
-- [Chinese Regulators Tell Tesla to Fix Nearly 3 Million Cars](https://soylentnews.org/article.pl?sid=26/08/23/0243226&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/23/0243226&from=rss))
-- [Nvidia Crypto Mining GPUs Hacked to Restore Locked-Away VRAM](https://soylentnews.org/article.pl?sid=26/08/19/0423256&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/19/0423256&from=rss))
-- [Desktop CPU Shipments Crater 20% Amid High Component Costs](https://soylentnews.org/article.pl?sid=26/08/25/2346243&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/25/2346243&from=rss))
-- [Firefox 157 Will Include JPEG XL By Default On All Platforms](https://tech.slashdot.org/story/26/08/26/0633229/firefox-157-will-include-jpeg-xl-by-default-on-all-platforms?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/08/26/0633229/firefox-157-will-include-jpeg-xl-by-default-on-all-platforms?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Framework Responds to Complaints That BIOS Update Bricks Ryzen 7040 Laptops](https://soylentnews.org/article.pl?sid=26/08/24/1643232&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/24/1643232&from=rss))
-- [Planned US Data Centers Set to Produce 24M Cars' Worth of Carbon Dioxide](https://soylentnews.org/article.pl?sid=26/08/23/0027258&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/23/0027258&from=rss))
-
-## Science & Health
-- [FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer](https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer) ([comments](https://news.ycombinator.com/item?id=49451675))
-- [FDA Approves First Wearable Device to Monitor Glucose, Ketone Levels](https://science.slashdot.org/story/26/08/25/210214/fda-approves-first-wearable-device-to-monitor-glucose-ketone-levels?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/08/25/210214/fda-approves-first-wearable-device-to-monitor-glucose-ketone-levels?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [LHC Collisions Reveal Oxygen and Neon's Shifting Nuclear Geometry](https://soylentnews.org/article.pl?sid=26/08/24/1646220&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/24/1646220&from=rss))
-- [Actinide is first startup to produce high-assay low-enriched uranium (HALEU)](https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu) ([comments](https://news.ycombinator.com/item?id=49454419))
-- [Scientists May Have Figured Out Why Dead Brains Don't Always Rot](https://science.slashdot.org/story/26/08/26/0626223/scientists-may-have-figured-out-why-dead-brains-dont-always-rot?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/08/26/0626223/scientists-may-have-figured-out-why-dead-brains-dont-always-rot?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Thunder + Fiber-Optic Cabling Used for Seismic Imaging](https://soylentnews.org/article.pl?sid=26/08/26/0017225&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/26/0017225&from=rss))
-- [Radiation Damage to the HST Has Been Several Years Out of Phase With the Solar Cycle](https://soylentnews.org/article.pl?sid=26/08/23/0230225&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/23/0230225&from=rss))
+## Health & Science
+- [FDA approves first in class targeted therapy for metastatic pancreatic cancer](https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer) ([comments](https://news.ycombinator.com/item?id=49451675))
+- [Radiation Link In Flight Attendant's Breast Cancer, French Court Finds](https://science.slashdot.org/story/26/08/26/2356248/radiation-link-in-flight-attendants-breast-cancer-french-court-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/08/26/2356248/radiation-link-in-flight-attendants-breast-cancer-french-court-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 - [Lab Supply Companies Have Been Selling Antibodies Using Manipulated Images](https://science.slashdot.org/story/26/08/25/2331240/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/08/25/2331240/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Politics, Society & Public Policy
-- [Meta Reaches $18 Billion of Settlements Over Children's Social Media Addiction](https://yro.slashdot.org/story/26/08/26/1632251/meta-reaches-18-billion-of-settlements-over-childrens-social-media-addiction?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/08/26/1632251/meta-reaches-18-billion-of-settlements-over-childrens-social-media-addiction?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada](https://thetariffcost.com/) ([comments](https://news.ycombinator.com/item?id=49453161))
-- [U.S. State Department Pauses Immigrant Visa Applications](https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23) ([comments](https://news.ycombinator.com/item?id=49452709))
-- [Dismantling the Roadless Rule Threatens to Disrupt Wildlife and Water in US](https://soylentnews.org/article.pl?sid=26/08/25/2359237&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/25/2359237&from=rss))
-- [Experts, Lawmakers Blast RFK Jr. for Destroying Healthcare Research - "Sabotage"](https://soylentnews.org/politics/article.pl?sid=26/08/20/1637255&from=rss) ([comments](https://soylentnews.org/politics/article.pl?sid=26/08/20/1637255&from=rss))
-- [Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html) ([comments](https://news.ycombinator.com/item?id=49456929))
-- [CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela](https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/) ([comments](https://news.ycombinator.com/item?id=49452671))
-- [Taylor Farms: How One Company's Reach Became a National Risk](https://farmaction.us/taylorfarmsreport/) ([comments](https://news.ycombinator.com/item?id=49449749))
-- [Amazon's New Terms Of Service Bar Customers From Filing Class-Action Lawsuits](https://soylentnews.org/article.pl?sid=26/08/23/0033227&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/23/0033227&from=rss))
-- [Apple Maps Now Has Ads](https://apple.slashdot.org/story/26/08/26/2033235/apple-maps-now-has-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://apple.slashdot.org/story/26/08/26/2033235/apple-maps-now-has-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-## In Memoriam
-- [RIP: Tim Curry - Star of the Rocky Horror Picture Show](https://soylentnews.org/breakingnews/article.pl?sid=26/08/26/168221&from=rss) ([comments](https://soylentnews.org/breakingnews/article.pl?sid=26/08/26/168221&from=rss))
-- [Tim Curry has died](https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film) ([comments](https://news.ycombinator.com/item?id=49451448))
-- [RIP: Dolly Parton](https://soylentnews.org/breakingnews/article.pl?sid=26/08/25/1845218&from=rss) ([comments](https://soylentnews.org/breakingnews/article.pl?sid=26/08/25/1845218&from=rss))
-
-## Web Development & Software Craft
-- [Nebula Sans](https://www.nebulasans.com/) ([comments](https://lobste.rs/s/bkiqnf/nebula_sans))
-- [Building textlog without JavaScript](https://gist.github.com/stagas/09ad937b493bf8cd3285917279de2488) ([comments](https://lobste.rs/s/nksuk5/building_textlog_without_javascript))
-- [The ReaderT Design Pattern (2017)](https://academy.fpblock.com/blog/2017/06/readert-design-pattern/) ([comments](https://lobste.rs/s/4zyd8o/readert_design_pattern_2017))
-- [WebSockets vs. SSE should be about ordering and correctness](https://dashbit.co/blog/websockets-vs-sse) ([comments](https://lobste.rs/s/wski9u/websockets_vs_sse_should_be_about))
-- [Almost Nobody Pays Attention to Web Standards Anymore](https://soylentnews.org/article.pl?sid=26/08/21/1222236&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/21/1222236&from=rss))
-- [Memory ordering in CPUs](https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/) ([comments](https://lobste.rs/s/idtlvo/memory_ordering_cpus))
-- [I stabilized never type](https://blog.ihatereality.space/0C-never-type/) ([comments](https://lobste.rs/s/gizvfn/i_stabilized_never_type))
-- [Freedom to Handcraft Software](https://rohanrd.mataroa.blog/blog/freedom-to-handcraft-software/) ([comments](https://lobste.rs/s/fvvxvy/freedom_handcraft_software))
-- [Understanding Go's sync.Map from API to Hash Trie](https://victoriametrics.com/blog/go-sync-map-hash-trie/) ([comments](https://lobste.rs/s/oqno0v/understanding_go_s_sync_map_from_api_hash))
+## Environment & Energy
+- [The Dutch are filling gas wells with cement](https://www.siliconcontinent.com/p/the-dutch-are-filling-gas-wells-with) ([comments](https://news.ycombinator.com/item?id=49461608))
+- [As Wisconsin Cities Flee Flock, Its Shared Camera Network Loses Value](https://soylentnews.org/article.pl?sid=26/08/23/2251212&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/23/2251212&from=rss))
+- [Desktop CPU Shipments Crater 20% Amid High Component Costs](https://soylentnews.org/article.pl?sid=26/08/25/2346243&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/25/2346243&from=rss))
