@@ -1,71 +1,29 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI & Machine Learning
-- [Nvidia Agrees to Acquire Hugging Face For $13 Billion](https://news.slashdot.org/story/26/08/27/1613222/nvidia-agrees-to-acquire-hugging-face-for-13-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [OpenAI Is Developing a 'Persistent' AI Agent](https://features.slashdot.org/story/26/08/27/224230/openai-is-developing-a-persistent-ai-agent?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [GLM-5.3 is now open-weight](https://twitter.com/Zai_org/status/2093354097122455713) ([comments](https://news.ycombinator.com/item?id=49479878))
-- [Run Qwen3.8 27B locally: real numbers from my Mac Studio](https://terminalbytes.com/run-qwen-3-8-27b-locally/) ([comments](https://news.ycombinator.com/item?id=49479951))
-- [How Meta's Plan To Replace Workers With AI Agents Fell Apart](https://tech.slashdot.org/story/26/08/27/0032219/how-metas-plan-to-replace-workers-with-ai-agents-fell-apart?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [An AI Broke Snowflake's Code. Then Another AI Agent Exploited It](https://soylentnews.org/article.pl?sid=26/08/21/2147207&from=rss)
-- [The Dead Internet Theory May Be Coming True, Pew Research Findings Show](https://soylentnews.org/article.pl?sid=26/08/23/2258205&from=rss)
-- [How cats.txt showed llms.txt evidence is GEO astrology](https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence) ([comments](https://lobste.rs/s/suwcbt/how_cats_txt_showed_llms_txt_evidence_is))
-- [Is ChatGPT Changing How You're Writing?](https://slashdot.org/story/26/08/27/2315218/is-chatgpt-changing-how-youre-writing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## AI & Safety
+- [OpenAI, Anthropic, Google, and 100 Other Companies Call For Action To Defend Against Rogue AI](https://tech.slashdot.org/story/26/08/28/216235/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/08/28/216235/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [AI's Memory Crunch Is Coming For Android Apps](https://developers.slashdot.org/story/26/08/27/2210241/ais-memory-crunch-is-coming-for-android-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://developers.slashdot.org/story/26/08/27/2210241/ais-memory-crunch-is-coming-for-android-apps?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
 ## Security & Privacy
-- ['Security by Antiquity': Why Older Tech is Sometimes Safer From Hackers](https://soylentnews.org/article.pl?sid=26/08/27/1725224&from=rss)
-- [Hackers Poison Popular Rust Crates to Steal Developers' Credentials](https://soylentnews.org/article.pl?sid=26/08/23/0248216&from=rss)
-- [Specially Crafted NTFS File-System Image Allows Root Access on Linux With NTFS3 Driver](https://soylentnews.org/article.pl?sid=26/08/26/0441245&from=rss)
-- [US Authorities Say Siemens Controllers Used for Water and Other Infrastructure Are Being Targeted](https://soylentnews.org/article.pl?sid=26/08/26/0439226&from=rss)
-- [AliExpress Ran Silent Browser Audio to Fingerprint and Track Devices, Researchers Find](https://soylentnews.org/article.pl?sid=26/08/27/1714244&from=rss)
-- [Hackers Tricked a Major Retailer's AI Shopping Bot to Do Something It Was Never Supposed to](https://soylentnews.org/article.pl?sid=26/08/22/191250&from=rss)
-- [Ring Says New Encryption Limits What It Can Give Police](https://it.slashdot.org/story/26/08/27/2014225/ring-says-new-encryption-limits-what-it-can-give-police?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit) ([comments](https://news.ycombinator.com/item?id=49480466))
-- [Nitter, XCancel Shutdown Over Cease-And-Desist](https://github.com/zedeus/nitter) ([comments](https://lobste.rs/s/zfhall/nitter_xcancel_shutdown_over_cease))
+- [Identifying fake cosmetics using AI](https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html) ([comments](https://news.ycombinator.com/item?id=49484925))
+- [Stopping the smart TV from being used against you](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/) ([comments](https://news.ycombinator.com/item?id=49483816))
 
-## Programming & Developer Tools
-- [htmx 4.0.0 has been released](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released) ([comments](https://lobste.rs/s/77uge9/htmx_4_0_0_has_been_released))
-- [How I made Rustdoc 33% faster in one week](https://noahlev.org/blog/2026/08/27/making-rustdoc-faster/) ([comments](https://lobste.rs/s/ulkqhi/how_i_made_rustdoc_33_faster_one_week))
-- [Don't use musl if you care about performance](https://blog.brokk.ai/dont-use-musl-if-you-care-about-performance/) ([comments](https://news.ycombinator.com/item?id=49479826))
-- [Pointer Stability for ArrayLists](https://ziglang.org/devlog/2026/#2026-08-27) ([comments](https://lobste.rs/s/yqqsgk/pointer_stability_for_arraylists))
-- [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html) ([comments](https://lobste.rs/s/qlpiur/guis_should_be_fully_keyboard_driven))
-- [OpenAI: Migrating to HTTPX2](https://github.com/openai/openai-python/blob/main/httpx2.md) ([comments](https://news.ycombinator.com/item?id=49477212))
-- [Hilariously Fast Volume Computation with the Divergence Theorem](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html) ([comments](https://news.ycombinator.com/item?id=49476143))
+## Hardware & Computing
+- [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli) ([comments](https://news.ycombinator.com/item?id=49485267))
 - [How we saved 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) ([comments](https://lobste.rs/s/p7solr/how_we_saved_100_terabytes_memory_by))
-- [Zero-Cost 'Tagless Final' in Rust with GADT-style Enums](https://inferara.com/blog/rust-tagless-final-gadt/) ([comments](https://lobste.rs/s/max8q6/zero_cost_tagless_final_rust_with_gadt))
-- [Changes to SourceHut's terms of service regarding LLMs](https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/) ([comments](https://lobste.rs/s/iqgrsx/changes_sourcehut_s_terms_service))
-- [HaikuOS Version: R1/beta6 Released!](https://soylentnews.org/article.pl?sid=26/08/27/1722209&from=rss)
-- [Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits](https://www.hanselman.com/blog/debugging-my-new-network-when-10-gigabit-ethernet-runs-at-300-megabits) ([comments](https://lobste.rs/s/4y2ymo/debugging_my_new_network_when_10_gigabit))
 
-## Science & Nature
-- [LHC Collisions Reveal Oxygen and Neon's Shifting Nuclear Geometry](https://soylentnews.org/article.pl?sid=26/08/24/1646220&from=rss)
-- [Smaller reactors bring nuclear power closer to fulfilling its promise](https://www.nature.com/articles/d41586-026-02506-4) ([comments](https://news.ycombinator.com/item?id=49477559))
-- [Lake formed after ice-rock avalanche remains at a high level and is overflowing](https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns) ([comments](https://news.ycombinator.com/item?id=49479898))
-- [Thunder + Fiber-Optic Cabling Used for Seismic Imaging](https://soylentnews.org/article.pl?sid=26/08/26/0017225&from=rss)
-- [Radiation Damage to the HST Has Been Several Years Out of Phase With the Solar Cycle](https://soylentnews.org/article.pl?sid=26/08/23/0230225&from=rss)
-- [Africa's Wild Dogs Are the Most Hated Carnivores on the Continent](https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-why-conservationists-saving-them-anyway-180989287/) ([comments](https://news.ycombinator.com/item?id=49479302))
-- [China Calls Off Ambitious Ice-Hunting Moonshot a Day Before Flight](https://soylentnews.org/article.pl?sid=26/08/26/0443249&from=rss)
-- [Why Polylactide (PLA) 3D-Printing Plastic Is So Brittle](https://soylentnews.org/article.pl?sid=26/08/21/2148204&from=rss)
+## Environment & Science
+- [Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/) ([comments](https://news.ycombinator.com/item?id=49485532))
+- [LHC Collisions Reveal Oxygen and Neon's Shifting Nuclear Geometry](https://soylentnews.org/article.pl?sid=26/08/24/1646220&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/24/1646220&from=rss))
 
-## Policy & Society
-- [Judge rules Trump administration's blacklisting of Anthropic was illegal](https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html) ([comments](https://news.ycombinator.com/item?id=49473522))
-- [Autistici/Inventati's main .org domain goes dark after US terrorism designation](https://mastodon.bida.im/@cavallette/117172989300228024) ([comments](https://news.ycombinator.com/item?id=49479122))
-- [Trump Declares National Emergency to Ban Some Foreign Grid Equipment](https://news.slashdot.org/story/26/08/27/1652222/trump-declares-national-emergency-to-ban-some-foreign-grid-equipment?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [US Considers Fresh Round of Tariffs On Semiconductors](https://yro.slashdot.org/story/26/08/28/009205/us-considers-fresh-round-of-tariffs-on-semiconductors?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Canada Hires 48 Scholars Away From Top US Universities](https://news.slashdot.org/story/26/08/27/2350251/canada-hires-48-scholars-away-from-top-us-universities?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Florida Seeks Court Ruling to Officially Classify Sam Altman and ChatGPT as a 'Public Nuisance'](https://soylentnews.org/article.pl?sid=26/08/26/0021253&from=rss)
-- [Amazon's New Terms Of Service Bar Customers From Filing Class-Action Lawsuits](https://soylentnews.org/article.pl?sid=26/08/23/0033227&from=rss)
-- [Dismantling the Roadless Rule Threatens to Disrupt Wildlife and Water in US](https://soylentnews.org/article.pl?sid=26/08/25/2359237&from=rss)
-- [Luanti removed from Google Play due to baseless AI copyright notice](https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/) ([comments](https://news.ycombinator.com/item?id=49475079))
+## Policy & Law
+- [9th Circuit sides with states in Kalshi gambling fight](https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/) ([comments](https://news.ycombinator.com/item?id=49485452))
+- [States Can Regulate Prediction Markets As Gambling, Federal Appeals Court Rules](https://yro.slashdot.org/story/26/08/28/2152209/states-can-regulate-prediction-markets-as-gambling-federal-appeals-court-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/08/28/2152209/states-can-regulate-prediction-markets-as-gambling-federal-appeals-court-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Business, Hardware & Culture
-- [Stripe and Advent Ditch $50 Billion PayPal Takeover Bid](https://news.slashdot.org/story/26/08/28/1633219/stripe-and-advent-ditch-50-billion-paypal-takeover-bid?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Cloverleaf Deal is Latest Example of Nvidia Using its War Chest to Patch Cracks in the AI Bubble](https://soylentnews.org/article.pl?sid=26/08/23/0237250&from=rss)
-- [Humanoid Robots Have Beaten Usain Bolt's 100-Meter Dash Record](https://soylentnews.org/article.pl?sid=26/08/26/0023209&from=rss)
-- [Framework Responds to Complaints That BIOS Update Bricks Ryzen 7040 Laptops](https://soylentnews.org/article.pl?sid=26/08/24/1643232&from=rss)
-- [Fairphone's Latest Repairable Phone is Going on Sale in the US](https://soylentnews.org/article.pl?sid=26/08/22/1912251&from=rss)
-- [This Company is Making a 'No Tech' Tractor for Maximum Repairability](https://soylentnews.org/article.pl?sid=26/08/26/0437210&from=rss)
-- [RIP: Dolly Parton](https://soylentnews.org/breakingnews/article.pl?sid=26/08/25/1845218&from=rss)
-- [RIP: Tim Curry - Star of the Rocky Horror Picture Show](https://soylentnews.org/breakingnews/article.pl?sid=26/08/26/168221&from=rss)
-- [Several Technologies Predicted In Aliens (1986)](https://soylentnews.org/article.pl?sid=26/08/21/2143239&from=rss)
-- [An Ultra-Rare Piece of Microsoft History Could be Hiding on Your Shelf](https://soylentnews.org/article.pl?sid=26/08/26/0445241&from=rss)
-- [A Perfect SimCity](https://www.jeffquast.com/post/a-perfect-simcity/) ([comments](https://lobste.rs/s/r4egb5/perfect_simcity))
+## Culture & Fun
+- [Songs Created By AI Banned From Australia's Music Charts](https://entertainment.slashdot.org/story/26/08/28/188217/songs-created-by-ai-banned-from-australias-music-charts?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://entertainment.slashdot.org/story/26/08/28/188217/songs-created-by-ai-banned-from-australias-music-charts?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Humanoid Robots Have Beaten Usain Bolt's 100-Meter Dash Record](https://soylentnews.org/article.pl?sid=26/08/26/0023209&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/26/0023209&from=rss))
+
+## Software & Programming
+- [Show HN: Sesame - a local-first, open-source password manager](https://usesesame.app/) ([comments](https://news.ycombinator.com/item?id=49483038))
+- [htmx 4.0.0 has been released](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released) ([comments](https://lobste.rs/s/77uge9/htmx_4_0_0_has_been_released))
