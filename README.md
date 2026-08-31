@@ -1,37 +1,55 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Open Source Development
+## AI & LLMs
+- [How to build a diffusion language model](https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/) ([comments](https://news.ycombinator.com/item?id=49503956))
+- [OpenAI To Cut Off AI Models For SpaceX-owned Cursor](https://slashdot.org/story/26/08/31/0525235/openai-to-cut-off-ai-models-for-spacex-owned-cursor?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49506819))
+- [Agent Memory as a File Format](https://calpaterson.com/memoryfields.html) ([comments](https://news.ycombinator.com/item?id=49508317))
+- [Agentic Trust Controls](https://trustcontrols.ai/) ([comments](https://news.ycombinator.com/item?id=49510612))
+- [Florida Seeks Court Ruling to Officially Classify Sam Altman and ChatGPT as a 'Public Nuisance'](https://soylentnews.org/article.pl?sid=26/08/26/0021253&from=rss)
+- [Amazon's HR Lead Uses AI Tool to Write 100,000 Lines of Code - 25 Years After She Last Coded](https://developers.slashdot.org/story/26/08/31/047227/amazons-hr-lead-uses-ai-tool-to-write-100000-lines-of-code---25-years-after-she-last-coded?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49510489))
+- [California Passes AB-1856 For Open-Source Relief Over Age Verification](https://www.phoronix.com/news/California-AB-1856-Passes) ([comments](https://lobste.rs/s/pcldcc/california_passes_ab_1856_for_open_source))
+- [SourceHut Updates ToS to Prohibit LLMs](https://soylentnews.org/article.pl?sid=26/08/29/0011223&from=rss)
+
+## Programming & Development Tools
+- [Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines](https://github.com/Hebbian-Robotics/hflow) ([comments](https://news.ycombinator.com/item?id=49510632))
 - [Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP](https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/) ([comments](https://news.ycombinator.com/item?id=49510540))
-- [ReactOS 0.4.16](https://reactos.org/project-news/reactos-0416-released/) ([comments](https://news.ycombinator.com/item?id=49506978))
-- [OpenShot 4.0: Record, Edit, and Color Like Never Before](https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/) ([comments](https://news.ycombinator.com/item?id=49507822))
+- [Could Cargo's scheduler be better?](https://spirali.github.io/blog/cargo-scheduler/) ([comments](https://lobste.rs/s/by7xg6/could_cargo_s_scheduler_be_better))
+- [Linux server management over SSH – written in Rust and Tauri](https://serverbox.stupidlabs.lol/) ([comments](https://news.ycombinator.com/item?id=49510000))
+- [Small and reasonably fast QOI decoder written in zig](https://github.com/sorvi-platform/dekoodaaja) ([comments](https://lobste.rs/s/wdke4a/small_reasonably_fast_qoi_decoder))
+- [One flake to rule them all](https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all) ([comments](https://lobste.rs/s/qjbw27/one_flake_rule_them_all))
+- [bibliograph: An AppView for interfacing with bibliographic information on ATProto](https://github.com/olamaelcu/bibliograph) ([comments](https://lobste.rs/s/ofoukh/bibliograph_appview_for_interfacing))
 - [Rust Function Overloading - Call for Experimentation](https://blog.rust-lang.org/inside-rust/2026/08/19/overloading-experiment/) ([comments](https://lobste.rs/s/rikfb5/rust_function_overloading_call_for))
 
-## Artificial Intelligence
-- [Show HN: 2x-4x cheaper GLM 5.3 for coding and research](https://www.coralbricks.ai) ([comments](https://news.ycombinator.com/item?id=49510600))
-- [Agent Memory as a File Format](https://calpaterson.com/memoryfields.html) ([comments](https://news.ycombinator.com/item?id=49508317))
-- [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) ([comments](https://news.ycombinator.com/item?id=49504625))
-- [Judge Rules That The Pentagon's Anthropic Ban Was 'Illegal And Baseless'](https://soylentnews.org/article.pl?sid=26/08/30/1333239&from=rss)
-
-## Cybersecurity & Privacy
+## Security & Privacy
+- [Berlin Is Being Blackmailed By Hackers](https://it.slashdot.org/story/26/08/31/0229251/berlin-is-being-blackmailed-by-hackers?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49510600))
+- [X Uncovers Massive Chinese Bot Farm Targeting U.S. Data Centers](https://soylentnews.org/article.pl?sid=26/08/30/1332203&from=rss) ([comments](https://news.ycombinator.com/item?id=49503601))
+- [Omarchy: Any User Process Can Escalate to Root](https://0xcc.io/posts/omarchy-root-creds/) ([comments](https://lobste.rs/s/bxihn3/omarchy_any_user_process_can_escalate))
+- [Rootless Docker and Its Hidden Security Trade-Offs](https://www.kenmuse.com/blog/rootless-docker-and-its-hidden-security-trade-offs/) ([comments](https://lobste.rs/s/lssato/rootless_docker_its_hidden_security))
+- [Specially Crafted NTFS File-System Image Allows Root Access on Linux With NTFS3 Driver](https://soylentnews.org/article.pl?sid=26/08/26/0441245&from=rss) ([comments](https://news.ycombinator.com/item?id=49467365))
+- [US Authorities Say Siemens Controllers Used for Water and Other Infrastructure Are Being Targeted](https://soylentnews.org/article.pl?sid=26/08/26/0439226&from=rss) ([comments](https://news.ycombinator.com/item?id=49467365))
+- [California's Age Verification Bill Passes with Linux Exemption Intact](https://yro.slashdot.org/story/26/08/31/0549210/californias-age-verification-bill-passes-with-linux-exemption-intact?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49510489))
 - [Brave Adds Email Aliases to Hide Your Real Address](https://soylentnews.org/article.pl?sid=26/08/29/0014247&from=rss)
-- [AliExpress Ran Silent Browser Audio to Fingerprint and Track Devices, Researchers Find](https://soylentnews.org/article.pl?sid=26/08/27/1714244&from=rss)
-- [X Uncovers Massive Chinese Bot Farm Targeting U.S. Data Centers](https://soylentnews.org/article.pl?sid=26/08/30/1332203&from=rss)
 
-## Systems & Hardware
-- [Multikernel Linux Tree Released: Runs Multiple Kernels On Bare Metal Without a Hypervisor](https://linux.slashdot.org/story/26/08/31/0222236/multikernel-linux-tree-released-runs-multiple-kernels-on-bare-metal-without-a-hypervisor?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Infrastructure & Systems
+- [Multikernel Linux Tree Released: Runs Multiple Kernels On Bare Metal Without a Hypervisor](https://linux.slashdot.org/story/26/08/31/0222236/multikernel-linux-tree-released-runs-multiple-kernels-on-bare-metal-without-a-hypervisor?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49510511))
+- [HaikuOS Version: R1/beta6 Released!](https://soylentnews.org/article.pl?sid=26/08/27/1722209&from=rss) ([comments](https://news.ycombinator.com/item?id=49481141))
+- [ReactOS 0.4.16](https://reactos.org/project-news/reactos-0416-released/) ([comments](https://news.ycombinator.com/item?id=49506978))
+- [Scientists Turn Plastic Waste Into Edible Cookies](https://science.slashdot.org/story/26/08/30/0456255/scientists-turn-plastic-waste-into-edible-cookies?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49498993))
+- [State of the Map 2026: OpenStreetMap conference](https://povesham.wordpress.com/2026/08/30/state-of-the-map-2026-openstreetmap-conference/) ([comments](https://news.ycombinator.com/item?id=49507280))
+- [Study: Blue light impairs the eye's ability to distinguish fine detail most](https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/) ([comments](https://news.ycombinator.com/item?id=49507121))
 - [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names) ([comments](https://news.ycombinator.com/item?id=49505219))
-- [Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines](https://github.com/Hebbian-Robotics/hflow) ([comments](https://news.ycombinator.com/item?id=49510632))
+- [Google Maps Renamed Lake Ontario to 'Lake America' - But Only for U.S. Users](https://tech.slashdot.org/story/26/08/30/1850233/google-maps-renamed-lake-ontario-to-lake-america---but-only-for-us-users?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49500471))
+- [Humanoid Robots Have Beaten Usain Bolt's 100-Meter Dash Record](https://soylentnews.org/article.pl?sid=26/08/26/0023209&from=rss)
+- [India's Crewed Space Program Will Fly This Year, After Missing 2022 and 2025 Targets](https://soylentnews.org/article.pl?sid=26/08/30/2249220&from=rss) ([comments](https://news.ycombinator.com/item?id=49505219))
 
-## Science & Space
-- [India's Crewed Space Program Will Fly This Year, After Missing 2022 and 2025 Targets](https://soylentnews.org/article.pl?sid=26/08/30/2249220&from=rss)
-- [SpaceX Launching NASA's Roman Space Telescope to Explore Dark Energy and Habitable Planets](https://science.slashdot.org/story/26/08/30/0317245/spacex-launching-nasas-roman-space-telescope-to-explore-dark-energy-and-habitable-planets?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Scientists Turn Plastic Waste Into Edible Cookies](https://science.slashdot.org/story/26/08/30/0456255/scientists-turn-plastic-waste-into-edible-cookies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## Gaming & Tech History
-- [A 12TB Steam "teraleak" spills more than a decade of lost PC gaming history](https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/) ([comments](https://news.ycombinator.com/item?id=49506182))
-
-## Society & Policy
-- [California's Age Verification Bill Passes with Linux Exemption Intact](https://yro.slashdot.org/story/26/08/31/0549210/californias-age-verification-bill-passes-with-linux-exemption-intact?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## Tools & Culture
+## Culture & Society
+- [Culture Clash](https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash) ([comments](https://news.ycombinator.com/item?id=49510489))
 - [VibeCoded AI-Slop License v1.0](https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6) ([comments](https://lobste.rs/s/zzn47c/vibecoded_ai_slop_license_v1_0))
+- [Being kicked out of the tech industry](https://www.jacky.wtf/essays/2026/kicked-out/) ([comments](https://lobste.rs/s/mroowi/being_kicked_out_tech_industry))
+- [AliExpress Ran Silent Browser Audio to Fingerprint and Track Devices, Researchers Find](https://soylentnews.org/article.pl?sid=26/08/27/1714244&from=rss) ([comments](https://news.ycombinator.com/item?id=49475568))
+- [RIP: Tim Curry - Star of the Rocky Horror Picture Show](https://soylentnews.org/breakingnews/article.pl?sid=26/08/26/168221&from=rss)
+- [RIP: Dolly Parton](https://soylentnews.org/breakingnews/article.pl?sid=26/08/25/1845218&from=rss)
+- [China Calls Off Ambitious Ice-Hunting Moonshot a Day Before Flight](https://soylentnews.org/article.pl?sid=26/08/26/0443249&from=rss) ([comments](https://news.ycombinator.com/item?id=49467365))
+- [The Dead Internet Theory May Be Coming True, Pew Research Findings Show](https://soylentnews.org/article.pl?sid=26/08/23/2258205&from=rss) ([comments](https://news.ycombinator.com/item?id=49503934))
+- [There's no such thing as Just a Tool](https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool) ([comments](https://lobste.rs/s/9y9jo6/there_s_no_such_thing_as_just_tool))
+- [Amazon's HR Lead Uses AI Tool to Write 100,000 Lines of Code - 25 Years After She Last Coded](https://developers.slashdot.org/story/26/08/31/047227/amazons-hr-lead-uses-ai-tool-to-write-100000-lines-of-code---25-years-after-she-last-coded?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49510489))
