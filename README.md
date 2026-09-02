@@ -1,16 +1,54 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Machine Learning
-- [Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit](https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/) ([comments](https://news.ycombinator.com/item?id=49527573))
-- [The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/) ([comments](https://news.ycombinator.com/item?id=49527396))
+## AI & Machine Learning
+- [Anthropic's Claude Fable 5.1 and Mythos 5.1 Arrive With a 75% Cost Reduction For Fable Cache Reads](https://it.slashdot.org/story/26/09/01/2037255/anthropics-claude-fable-51-and-mythos-51-arrive-with-a-75-cost-reduction-for-fable-cache-reads?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/26/09/01/2037255/anthropics-claude-fable-51-and-mythos-51-arrive-with-a-75-cost-reduction-for-fable-cache-reads?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 - [Anthropic Signs $35 Billion Cloud Deal With Nvidia-Backed Lambda](https://slashdot.org/story/26/09/01/177239/anthropic-signs-35-billion-cloud-deal-with-nvidia-backed-lambda?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/26/09/01/177239/anthropic-signs-35-billion-cloud-deal-with-nvidia-backed-lambda?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit](https://news.ycombinator.com/item?id=49527573) ([comments](https://news.ycombinator.com/item?id=49527573))
+- [Atlas: A World Model for Spatial Intelligence](https://www.worldlabs.ai/blog/atlas) ([comments](https://news.ycombinator.com/item?id=49525160))
+- [OpenAI Explains How its Naughty AI Agents Attacked Hugging Face](https://soylentnews.org/article.pl?sid=26/09/01/0237240&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/01/0237240&from=rss))
+- [OpenClaw 2.0 Is Here, Ushering In the Era of 'Multiplayer' AI Coding](https://developers.slashdot.org/story/26/09/01/1733206/openclaw-20-is-here-ushering-in-the-era-of-multiplayer-ai-coding?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://developers.slashdot.org/story/26/09/01/1733206/openclaw-20-is-here-ushering-in-the-era-of-multiplayer-ai-coding?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) ([comments](https://news.ycombinator.com/item?id=49526069))
+- [Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/) ([comments](https://news.ycombinator.com/item?id=49525153))
 
-## Hardware and Gadgets
-- [Dyson Launches Toothbrush](https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue) ([comments](https://news.ycombinator.com/item?id=49527879))
+## Hardware & Devices
+- [GoPro Says It's Moving Into Data Centers As Part of a $285 Million Merger](https://slashdot.org/story/26/09/01/1943244/gopro-says-its-moving-into-data-centers-as-part-of-a-285-million-merger?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/26/09/01/1943244/gopro-says-its-moving-into-data-centers-as-part-of-a-285-million-merger?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Dyson CameraJet electric toothbrush](https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue) ([comments](https://news.ycombinator.com/item?id=49527879))
+- [Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio](https://hardware.slashdot.org/story/26/08/31/2133202/apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac-studio?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/08/31/2133202/apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac-studio?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Who Is John Ternus, the New Apple CEO?](https://hardware.slashdot.org/story/26/09/01/1955204/who-is-john-ternus-the-new-apple-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/09/01/1955204/who-is-john-ternus-the-new-apple-ceo?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Humanoid Robots Have Beaten Usain Bolt's 100-Meter Dash Record](https://soylentnews.org/article.pl?sid=26/08/26/0023209&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/26/0023209&from=rss))
 - [Refurbishing a Tektronix TDS7104 Oscilloscope](https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html) ([comments](https://news.ycombinator.com/item?id=49527232))
-- [BT's Old Copper Landline Network Could Be Worth Over $2 Billion](https://news.slashdot.org/story/26/09/01/1815258/bts-old-copper-landline-network-could-be-worth-over-2-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/09/01/1815258/bts-old-copper-landline-network-could-be-worth-over-2-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Software Development and Tools
-- [I used Fable to rewrite 65kLoC of Go in Rust. It cost $400](https://iurii.net/en/blog/posts/software-engineering/i-used-fable-to-rewrite-65kloc-to-rust/) ([comments](https://news.ycombinator.com/item?id=49526131))
+## Privacy & Security
+- [Judge Rules That the Pentagon's Anthropic Ban Was 'Illegal and Baseless'](https://soylentnews.org/article.pl?sid=26/08/30/1333239&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/30/1333239&from=rss))
+- [AliExpress Ran Silent Browser Audio to Fingerprint and Track Devices](https://soylentnews.org/article.pl?sid=26/08/27/1714244&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/27/1714244&from=rss))
+- [FBI Seizes Hacking Tools It Says China Used to Attack NASA, DOE, US Senate and Critical Networks](https://soylentnews.org/article.pl?sid=26/09/01/0224203&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/01/0224203&from=rss))
+- [Florida Bans Flock Cameras From State Highways](https://news.slashdot.org/story/26/09/01/032256/florida-bans-flock-cameras-from-state-highways?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/09/01/032256/florida-bans-flock-cameras-from-state-highways?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [X Uncovers Massive Chinese Bot Farm Targeting U.S. Data Centers](https://soylentnews.org/article.pl?sid=26/08/30/1332203&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/30/1332203&from=rss))
+- [1 In 6 VPNs Track Your Location, According To New Report From Proton](https://soylentnews.org/article.pl?sid=26/08/30/230207&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/30/230207&from=rss))
+- [Specially Crafted NTFS File-System Image Allows Root Access on Linux With NTFS3 Driver](https://soylentnews.org/article.pl?sid=26/08/26/0441245&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/26/0441245&from=rss))
+- [US Authorities Say Siemens Controllers Used for Water and Other Infrastructure Are Being Targeted](https://soylentnews.org/article.pl?sid=26/08/26/0439226&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/26/0439226&from=rss))
+
+## Software & Development
+- [Debian Votes To Let Contributors Code With AI](https://soylentnews.org/article.pl?sid=26/09/01/0255250&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/01/0255250&from=rss))
+- [Wasmi 2.0 - Engineering of the Fastest Wasm Interpreters](https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/) ([comments](https://lobste.rs/s/sccfuu/wasmi_2_0_engineering_fastest_wasm))
 - [The pattern language of software architecture](https://metapatterns.io/) ([comments](https://lobste.rs/s/mkpgrk/pattern_language_software_architecture))
-- [Let's Use the Emergent CSS random() Function in all the Browsers](https://css-tricks.com/css-random-function-polyfill/) ([comments](https://lobste.rs/s/edj52m/let_s_use_emergent_css_random_function_all))
+- [HaikuOS Version: R1/beta6 Released!](https://soylentnews.org/article.pl?sid=26/08/27/1722209&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/27/1722209&from=rss))
+- [July in Servo: more platforms, faster canvas, web fonts in SVG, and more](https://servo.org/blog/2026/08/31/july-in-servo/) ([comments](https://lobste.rs/s/8gved6/july_servo_more_platforms_faster_canvas))
+- [SourceHut Updates ToS to Prohibit LLMs](https://soylentnews.org/article.pl?sid=26/08/29/0011223&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/29/0011223&from=rss))
+- [Researchers use AI to 'democratize' 3D printing of crucial metal alloy](https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/) ([comments](https://lobste.rs/s/em1whz/researchers_use_ai_democratize_3d))
+
+## Business & Legal
+- [FTC Sues Amazon, Accusing the E-Commerce Giant of Misleading Advertisers](https://yro.slashdot.org/story/26/08/31/225238/ftc-sues-amazon-accusing-the-e-commerce-giant-of-misleading-advertisers?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/08/31/225238/ftc-sues-amazon-accusing-the-e-commerce-giant-of-misleading-advertisers?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Trump Tells FCC To Punish Journalist For Calling His Election Results 'Mixed'](https://yro.slashdot.org/story/26/09/01/0034252/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/09/01/0034252/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Broadcom Pledges to Lock Down Open Source Python, Java Libraries](https://it.slashdot.org/story/26/08/31/2047247/broadcom-pledges-to-lock-down-open-source-python-java-libraries?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/26/08/31/2047247/broadcom-pledges-to-lock-down-open-source-python-java-libraries?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Florida Seeks Court Ruling to Officially Classify Sam Altman and ChatGPT as a 'Public Nuisance'](https://soylentnews.org/article.pl?sid=26/08/26/0021253&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/26/0021253&from=rss))
+- [Uber Hit With a Nearly $1 Billion Fine for Automatically Deactivating Drivers in Europe](https://soylentnews.org/article.pl?sid=26/08/29/0016207&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/29/0016207&from=rss))
+- [Advent and Stripe Abandon $50 Billion Pursuit of PayPal](https://soylentnews.org/article.pl?sid=26/08/30/0615202&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/30/0615202&from=rss))
+
+## Space & Science
+- [Rules of the Road: Engineers Have Built a Traffic Control System for the Moon](https://soylentnews.org/article.pl?sid=26/09/01/0231258&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/01/0231258&from=rss))
+- [India's Crewed Space Program Will Fly This Year, After Missing 2022 and 2025 Targets](https://soylentnews.org/article.pl?sid=26/08/30/2249220&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/30/2249220&from=rss))
+- [China Calls Off Ambitious Ice-Hunting Moonshot a Day Before Flight](https://soylentnews.org/article.pl?sid=26/08/26/0443249&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/26/0443249&from=rss))
+- [Electrically Charged Raindrops Can Corrode Cars and Buildings](https://science.slashdot.org/story/26/09/01/0043208/electrically-charged-raindrops-can-corrode-cars-and-buildings?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/09/01/0043208/electrically-charged-raindrops-can-corrode-cars-and-buildings?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Sony Is Reminding Us (Again) That We Don't Own Our PlayStation Games](https://soylentnews.org/article.pl?sid=26/08/30/2254252&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/30/2254252&from=rss))
+- [This Company is Making a 'No Tech' Tractor for Maximum Repairability](https://soylentnews.org/article.pl?sid=26/08/26/0437210&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/08/26/0437210&from=rss))
