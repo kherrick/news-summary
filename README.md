@@ -1,70 +1,19 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI Industry & Big Tech
-- [Nvidia to Acquire Hugging Face](https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/) ([comments](https://news.ycombinator.com/item?id=49548952))
-- [Anthropic's New Hardware Standard Lets AI Agents Control the Physical World](https://soylentnews.org/article.pl?sid=26/09/02/121253&from=rss)
-- [Google Releases Gemini 3.8 Flash, Its Third Flash Model In Six Weeks](https://tech.slashdot.org/story/26/09/03/1557237/google-releases-gemini-38-flash-its-third-flash-model-in-six-weeks)
-- [Claude for Commerce Agents](https://claude.com/blog/claude-for-commerce-agents) ([comments](https://news.ycombinator.com/item?id=49547888))
-- [Perplexity Will Open Source Its Faster Lily AI Engine For Apple Silicon](https://entertainment.slashdot.org/story/26/09/02/2235237/perplexity-will-open-source-its-faster-lily-ai-engine-for-apple-silicon)
-- [Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents](https://www.mireye.com) ([comments](https://news.ycombinator.com/item?id=49552616))
-- [VC isn't VC anymore – understanding the rise of Cancer Capital](https://www.anildash.com/2026/09/02/cancer-capital/) ([comments](https://news.ycombinator.com/item?id=49552055))
-- [Meta Settles States' Child-Safety Claims for $18B; Florida Rejects Deal as "Peanuts"](https://soylentnews.org/article.pl?sid=26/09/01/036208&from=rss)
-- [Dell Stock Surges On Record Orders For AI Servers](https://slashdot.org/story/26/09/02/0551240/dell-stock-surges-on-record-orders-for-ai-servers)
-- [NYC Public Schools Ban AI Use Through Middle School](https://news.slashdot.org/story/26/09/02/167206/nyc-public-schools-ban-ai-use-through-middle-school)
-- [AI Agents Meant To Replace Meta Workers Made "Large-Scale, Disruptive Actions"](https://soylentnews.org/article.pl?sid=26/08/30/2256250&from=rss)
-- [Local Officials Face Death Threats and Gunfire Over AI Data Center Projects](https://soylentnews.org/article.pl?sid=26/08/29/0013246&from=rss)
-- [Nvidia Warns of 15% AI Server Price Hikes and Buy Your Own AI Workstation for Only $100k](https://soylentnews.org/article.pl?sid=26/08/28/1232209&from=rss)
-- [Google Engineer Accused of Polymarket Insider Trading Says He Was Just Gambling](https://yro.slashdot.org/story/26/09/02/230259/google-engineer-accused-of-polymarket-insider-trading-says-he-was-just-gambling)
+## AI Developments
+- [Nvidia Launches Free Tool That Links Idle Computers Into a Personal AI Data Center](https://tech.slashdot.org/story/26/09/03/1723202/nvidia-launches-free-tool-that-links-idle-computers-into-a-personal-ai-data-center?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [OpenAI's New Reasoning Technique Alarms AI Safety Experts](https://it.slashdot.org/story/26/09/03/174254/openais-new-reasoning-technique-alarms-ai-safety-experts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Nvidia to Buy Hugging Face for $12.9 Billion](https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/) ([comments](https://news.ycombinator.com/item?id=49548952))
+- [Google Releases Gemini 3.8 Flash, Its Third Flash Model In Six Weeks](https://tech.slashdot.org/story/26/09/03/1557237/google-releases-gemini-38-flash-its-third-flash-model-in-six-weeks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Security, Privacy & Cybercrime
-- [More Than 100 Water Systems Were Hit in July Cyberattacks in US](https://soylentnews.org/article.pl?sid=26/09/02/1158220&from=rss)
-- [1 In 6 VPNs Track Your Location, According To New Report From Proton](https://soylentnews.org/article.pl?sid=26/08/30/230207&from=rss)
-- [FBI Probes Service Selling 153M+ Drivers Licenses](https://yro.slashdot.org/story/26/09/02/0611226/fbi-probes-service-selling-153m-drivers-licenses)
-- [FBI Seizes Hacking Tools It Says China Used to Attack NASA, DOE, US Senate and Critical Networks](https://soylentnews.org/article.pl?sid=26/09/01/0224203&from=rss)
-- [US Authorities Say Siemens Controllers Used for Water and Other Infrastructure Are Being Targeted](https://soylentnews.org/article.pl?sid=26/08/26/0439226&from=rss)
-- [AliExpress Ran Silent Browser Audio to Fingerprint and Track Devices, Researchers Find](https://soylentnews.org/article.pl?sid=26/08/27/1714244&from=rss)
-- [Security Incident – BGP Hijacking](https://www.virtualizor.com/blog/security-incident-bgp-hijacking/) ([comments](https://lobste.rs/s/6e1y6s/security_incident_bgp_hijacking))
-- [X Uncovers Massive Chinese Bot Farm Targeting U.S. Data Centers](https://soylentnews.org/article.pl?sid=26/08/30/1332203&from=rss)
-- [Flock Shock Rocks Cop Cam Vendor As Protests Mount](https://soylentnews.org/article.pl?sid=26/08/30/2252232&from=rss)
-
-## Programming & Open Source
-- [Audacity 4.0.0 Released](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0) ([comments](https://lobste.rs/s/j03x8u/audacity_4_0_0_released))
-- [Announcing Rust 1.98.1](https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/) ([comments](https://lobste.rs/s/77qick/announcing_rust_1_98_1))
-- [Pre-Release of Polars 2.0](https://pola.rs/posts/announcing-polars-2/) ([comments](https://news.ycombinator.com/item?id=49546753))
-- [How Swiss Tables Work in Go's Built-in Map](https://victoriametrics.com/blog/go-swiss-table-map/) ([comments](https://lobste.rs/s/2avct0/how_swiss_tables_work_go_s_built_map))
-- [Static Allocation, Constant Work](https://matklad.github.io/2026/09/02/static-allocation-constant-work.html) ([comments](https://lobste.rs/s/m4iwq4/static_allocation_constant_work))
-- [jujutsu 0.45.0](https://github.com/jj-vcs/jj/releases/tag/v0.45.0) ([comments](https://lobste.rs/s/zudpcb/jujutsu_0_45_0))
-- [CERN Transitioning From RHEL To Debian](https://linux.slashdot.org/story/26/09/02/2041220/cern-transitioning-from-rhel-to-debian)
-- [HaikuOS Version: R1/beta6 Released!](https://soylentnews.org/article.pl?sid=26/08/27/1722209&from=rss)
-- [K2 Horizon: Frontier Performance, Radically Open](https://ifm.ai/blog/k2/) ([comments](https://news.ycombinator.com/item?id=49551760))
-
-## Law, Politics & Society
-- [California Lawmakers Unanimously Pass Linux Exemption From Age-Verification Law](https://soylentnews.org/article.pl?sid=26/09/02/0022223&from=rss)
+## AI Policy and Legal
+- [OpenAI's Altman Says the Use of AI is 'Non-Negotiable'](https://slashdot.org/story/26/09/02/1957204/openais-altman-says-the-use-of-ai-is-non-negotiable?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Judge Rules That the Pentagon's Anthropic Ban Was 'Illegal and Baseless'](https://soylentnews.org/article.pl?sid=26/08/30/1333239&from=rss)
-- [Google Defeats US Bid to Force Ad Tech Sale](https://yro.slashdot.org/story/26/09/02/1755251/google-defeats-us-bid-to-force-ad-tech-sale)
-- [The Balkanization Of Virtualization Will De-Throne VMware, Which Doesn't Mind A Bit](https://soylentnews.org/article.pl?sid=26/09/02/0020259&from=rss)
-- [1Password Wades Into a Right-Wing Mess After Funding a Linux Project](https://news.slashdot.org/story/26/09/02/2055245/1password-wades-into-a-right-wing-mess-after-funding-a-linux-project)
-- [Normalized Fascism in Open Source: $12 Million Given to DHH](https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/) ([comments](https://lobste.rs/s/ipy9xw/normalized_fascism_open_source_12))
-- [New York Times and The Athletic workers demand company scrap Kalshi deal](https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/) ([comments](https://news.ycombinator.com/item?id=49549919))
-- [FCC Plans Robocall Scorecard to Grade Phone Companies On Spam Call Blocking](https://mobile.slashdot.org/story/26/09/02/215232/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking)
-- [SourceHut Updates ToS to Prohibit LLMs](https://soylentnews.org/article.pl?sid=26/08/29/0011223&from=rss)
 
-## Science, Space & Environment
-- [Rules of the Road: Engineers Have Built a Traffic Control System for the Moon](https://soylentnews.org/article.pl?sid=26/09/01/0231258&from=rss)
-- [Spy to Space: The Science Behind NASA's Roman Space Telescope](https://soylentnews.org/article.pl?sid=26/08/31/017238&from=rss)
-- [India's Crewed Space Program Will Fly This Year, After Missing 2022 and 2025 Targets](https://soylentnews.org/article.pl?sid=26/08/30/2249220&from=rss)
-- [China Calls Off Ambitious Ice-Hunting Moonshot a Day Before Flight](https://soylentnews.org/article.pl?sid=26/08/26/0443249&from=rss)
-- [Global Heating Will Hit At Least 1.8C, UN Warns, and There Are 'No Good Outcomes'](https://news.slashdot.org/story/26/09/02/2228245/global-heating-will-hit-at-least-18c-un-warns-and-there-are-no-good-outcomes)
-- [Plastic Bottles Can be Turned Into Edible, Vanilla-Flavour Cookies](https://soylentnews.org/article.pl?sid=26/09/01/0317258&from=rss)
+## Environment and Policy
+- [Global Heating Will Hit At Least 1.8C, UN Warns, and There Are 'No Good Outcomes'](https://news.slashdot.org/story/26/09/02/2228245/global-heating-will-hit-at-least-18c-un-warns-and-there-are-no-good-outcomes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [California Lawmakers Unanimously Pass Linux Exemption From Age-Verification Law](https://soylentnews.org/article.pl?sid=26/09/02/0022223&from=rss)
 
-## Curiosities & Culture
-- [Usbsid-Pico: Bridging Real Commodore 64 Sound to Modern USB](https://smallrun.net/blog/loud/usbsid-pico-sids-on-usb) ([comments](https://news.ycombinator.com/item?id=49553303))
-- [Any Human Ever – One life, drawn at random from all who have ever lived](https://anyhumanever.com/) ([comments](https://news.ycombinator.com/item?id=49550698))
-- [LLMs and self-referentiality](https://scottaaronson.blog/?p=10046) ([comments](https://lobste.rs/s/jato3y/llms_self_referentiality))
-- [A Matter of Millimeters: The story of Qantas Flight 32](https://soylentnews.org/article.pl?sid=26/09/02/0016226&from=rss)
-- [The Computer Museum of America reclamation project](https://computer-museum.org/wp/) ([comments](https://news.ycombinator.com/item?id=49511493))
-- [Sony makes bold claim about game ownership](https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/) ([comments](https://news.ycombinator.com/item?id=49551925))
-- [I Don't Have a Smartphone…](https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html) ([comments](https://lobste.rs/s/nh1uij/i_don_t_have_smartphone))
-- [Fish bad, sugar good and other medieval ideas about food](https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food/) ([comments](https://news.ycombinator.com/item?id=49513721))
-- [Amazon Stonehenge: Parque Arqueológico do Solstício](https://en.wikipedia.org/wiki/Parque_Arqueol%C3%B3gico_do_Solst%C3%ADcio) ([comments](https://news.ycombinator.com/item?id=49505306))
-- [The Human Reservation Plan](https://soylentnews.org/article.pl?sid=26/08/27/1719228&from=rss)
+## Security and Privacy
+- [FBI Seizes Hacking Tools It Says China Used to Attack NASA, DOE, US Senate and Critical Networks](https://soylentnews.org/article.pl?sid=26/09/01/0224203&from=rss)
+- [1 In 6 VPNs Track Your Location, According To New Report From Proton](https://soylentnews.org/article.pl?sid=26/08/30/230207&from=rss)
