@@ -1,121 +1,58 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI Models & Frontier Capabilities
+## AI & Machine Learning
 - [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) ([comments](https://news.ycombinator.com/item?id=49554643))
-- ['Welcome to the AGI Era,' OpenAI Says As GPT-6 Astra Debuts](https://slashdot.org/story/26/09/03/1932255/welcome-to-the-agi-era-openai-says-as-gpt-6-astra-debuts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [OpenAI's GPT-6 Astra on ARC-AGI-3](https://arcprize.org/blog/astra) ([comments](https://news.ycombinator.com/item?id=49555691))
+- [OpenAI's New Reasoning Technique Alarms AI Safety Experts](https://it.slashdot.org/story/26/09/03/174254/openais-new-reasoning-technique-alarms-ai-safety-experts) ([comments](https://it.slashdot.org/story/26/09/03/174254/openais-new-reasoning-technique-alarms-ai-safety-experts))
 - [How concerned should we be about Astra's recurrent architecture?](https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent) ([comments](https://news.ycombinator.com/item?id=49553321))
-- [OpenAI's New Reasoning Technique Alarms AI Safety Experts](https://it.slashdot.org/story/26/09/03/174254/openais-new-reasoning-technique-alarms-ai-safety-experts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Google Releases Gemini 3.8 Flash, Its Third Flash Model In Six Weeks](https://tech.slashdot.org/story/26/09/03/1557237/google-releases-gemini-38-flash-its-third-flash-model-in-six-weeks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview) ([comments](https://news.ycombinator.com/item?id=49554520))
-- [K2 Horizon: A connected fleet of six open models](https://ifm.ai/blog/k2/) ([comments](https://news.ycombinator.com/item?id=49551760))
-- [Perplexity Will Open Source Its Faster Lily AI Engine For Apple Silicon](https://entertainment.slashdot.org/story/26/09/02/2235237/perplexity-will-open-source-its-faster-lily-ai-engine-for-apple-silicon?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Four Major AI Models Suffer Rare Overlapping Downtime](https://tech.slashdot.org/story/26/09/03/2023242/four-major-ai-models-suffer-rare-overlapping-downtime?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49551096))
-- [Go grandmaster Shin defeats AI KataGo with a two-stone handicap](https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007) ([comments](https://news.ycombinator.com/item?id=49544762))
+- [OpenAI Explains How its Naughty AI Agents Attacked Hugging Face](https://soylentnews.org/article.pl?sid=26/09/01/0237240) ([comments](https://soylentnews.org/article.pl?sid=26/09/01/0237240))
+- [Four Major AI Models Suffer Rare Overlapping Downtime](https://tech.slashdot.org/story/26/09/03/2023242/four-major-ai-models-suffer-rare-overlapping-downtime) ([comments](https://tech.slashdot.org/story/26/09/03/2023242/four-major-ai-models-suffer-rare-overlapping-downtime))
+- [Nvidia to Buy Hugging Face for $12.9 Billion](https://soylentnews.org/article.pl?sid=26/09/02/127255) ([comments](https://soylentnews.org/article.pl?sid=26/09/02/127255))
 
-## AI Safety, Business & Policy
-- [Nvidia to Buy Hugging Face for $12.9 Billion](https://soylentnews.org/article.pl?sid=26/09/02/127255&from=rss)
-- [OpenAI Explains How its Naughty AI Agents Attacked Hugging Face](https://soylentnews.org/article.pl?sid=26/09/01/0237240&from=rss)
-- [AI Agents Meant To Replace Meta Workers Made "Large-Scale, Disruptive Actions"](https://soylentnews.org/article.pl?sid=26/08/30/2256250&from=rss)
-- [Anthropic's New Hardware Standard Lets AI Agents Control the Physical World](https://soylentnews.org/article.pl?sid=26/09/02/121253&from=rss)
-- [Nvidia Launches Free Tool That Links Idle Computers Into a Personal AI Data Center](https://tech.slashdot.org/story/26/09/03/1723202/nvidia-launches-free-tool-that-links-idle-computers-into-a-personal-ai-data-center?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Nvidia Warns of 15% AI Server Price Hikes and Buy Your Own AI Workstation for Only $100k](https://soylentnews.org/article.pl?sid=26/08/28/1232209&from=rss)
-- [Local Officials Face Death Threats and Gunfire Over AI Data Center Projects](https://soylentnews.org/article.pl?sid=26/08/29/0013246&from=rss)
-- [Judge Rules That the Pentagon's Anthropic Ban Was 'Illegal and Baseless'](https://soylentnews.org/article.pl?sid=26/08/30/1333239&from=rss)
-- [Debian Votes To Let Contributors Code With AI](https://soylentnews.org/article.pl?sid=26/09/01/0255250&from=rss)
-- [SourceHut Updates ToS to Prohibit LLMs](https://soylentnews.org/article.pl?sid=26/08/29/0011223&from=rss)
-- [Google Antigravity TOS: 3rd party usage can get Google account suspended](https://twitter.com/GergelyOrosz/status/2095453567955968398) ([comments](https://news.ycombinator.com/item?id=49548452))
-- [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install) ([comments](https://news.ycombinator.com/item?id=49557206))
-- [Xanadu was waiting for agents](https://zed.dev/blog/agentic-xanadu) ([comments](https://news.ycombinator.com/item?id=49526298))
-
-## Programming, Languages & Tools
-- [Announcing Rust 1.98.1](https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/) ([comments](https://lobste.rs/s/77qick/announcing_rust_1_98_1))
+## Programming
+- [Rust 1.98.1](https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/) ([comments](https://lobste.rs/s/77qick/announcing_rust_1_98_1))
+- [Audacity 4.0.0 Released](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0) ([comments](https://lobste.rs/s/j03x8u/audacity_4_0_0_released))
+- [How an MIT research project became the Julia programming language](https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831) ([comments](https://news.ycombinator.com/item?id=49507072))
 - [jujutsu 0.45.0](https://github.com/jj-vcs/jj/releases/tag/v0.45.0) ([comments](https://lobste.rs/s/zudpcb/jujutsu_0_45_0))
-- [How Swiss Tables Work in Go's Built-in Map](https://victoriametrics.com/blog/go-swiss-table-map/) ([comments](https://lobste.rs/s/2avct0/how_swiss_tables_work_go_s_built_map))
-- [Static Allocation, Constant Work](https://matklad.github.io/2026/09/02/static-allocation-constant-work.html) ([comments](https://lobste.rs/s/m4iwq4/static_allocation_constant_work))
-- [Dependent if expressions without dependent types](https://haskellforall.com/2026/09/dependent-if-expressions) ([comments](https://lobste.rs/s/yomxcl/dependent_if_expressions_without))
-- [The holy grail of nixpkgs: version ranges](https://fzakaria.com/2026/09/01/the-holy-grail-of-nixpkgs-version-ranges) ([comments](https://lobste.rs/s/echox4/holy_grail_nixpkgs_version_ranges))
-- [Working to Make Python Lazy](https://iscinumpy.dev/post/flake8-lazy/) ([comments](https://news.ycombinator.com/item?id=49526210))
-- [Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly](https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/) ([comments](https://news.ycombinator.com/item?id=49550375))
-- [NES dumping over audio](https://mathstodon.xyz/@JordiGH/117209252363385093) ([comments](https://lobste.rs/s/rlswbt/nes_dumping_over_audio))
-- [How I converted BBC Micro Elite into a two-player game](https://elite.bbcelite.com/hacks/two-player_elite/technical_information.html) ([comments](https://lobste.rs/s/el3fvf/how_i_converted_bbc_micro_elite_into_two))
+- [Lua-async](https://neovim.io/doc/user/lua-async/) ([comments](https://lobste.rs/s/r58i7h/lua_async))
 - [Revo Programming language](https://revo.lung.fyi/) ([comments](https://lobste.rs/s/towfrz/revo_programming_language))
-- [ITA Controlled English (CE)](https://github.com/ce-store/ce-store) ([comments](https://news.ycombinator.com/item?id=49532544))
-- [deforester - Logging for Janet](https://codeberg.org/veqq/deforester) ([comments](https://lobste.rs/s/klhs7o/deforester_logging_for_janet))
-- [simple is not small](https://jyn.dev/simple-is-not-the-same-as-small/) ([comments](https://lobste.rs/s/entcaa/simple_is_not_small))
+- [Static Allocation, Constant Work](https://matklad.github.io/2026/09/02/static-allocation-constant-work.html) ([comments](https://lobste.rs/s/m4iwq4/static_allocation_constant_work))
 
-## Linux, Open Source & Infrastructure
-- [CERN Transitioning From RHEL To Debian](https://linux.slashdot.org/story/26/09/02/2041220/cern-transitioning-from-rhel-to-debian?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://lobste.rs/s/fxk56i/cern_transitioning_industrial))
-- [California Lawmakers Unanimously Pass Linux Exemption From Age-Verification Law](https://soylentnews.org/article.pl?sid=26/09/02/0022223&from=rss)
-- [Audacity 4 Rebuilds the Open Source Audio Editor But Leaves Some Features Behind](https://news.slashdot.org/story/26/09/03/163216/audacity-4-rebuilds-the-open-source-audio-editor-but-leaves-some-features-behind?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49548395))
-- [HaikuOS Version: R1/beta6 Released!](https://soylentnews.org/article.pl?sid=26/08/27/1722209&from=rss)
-- [The Balkanization Of Virtualization Will De-Throne VMware, Which Doesn't Mind A Bit](https://soylentnews.org/article.pl?sid=26/09/02/0020259&from=rss)
-- [FOSS Force Interviews Richard Stallman](https://soylentnews.org/article.pl?sid=26/09/01/0310224&from=rss)
-- [Normalized Fascism in Open Source: $12 Million Given to DHH](https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/) ([comments](https://lobste.rs/s/ipy9xw/normalized_fascism_open_source_12))
-- [1Password Wades Into a Right-Wing Mess After Funding a Linux Project](https://news.slashdot.org/story/26/09/02/2055245/1password-wades-into-a-right-wing-mess-after-funding-a-linux-project?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Self-Hosted Email Is In Steep Decline, Microsoft And Google Are Taking Over](https://soylentnews.org/article.pl?sid=26/08/27/1733200&from=rss)
-- [What's in the Emacs newcomers-presets theme?](https://sachachua.com/blog/2026/04/what-s-in-the-emacs-newcomers-presets-theme/) ([comments](https://lobste.rs/s/307nji/what_s_emacs_newcomers_presets_theme))
+## Linux & Open Source
+- [CERN transitioning industrial computers to Debian after being a longtime RHEL institution](https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL) ([comments](https://lobste.rs/s/fxk56i/cern_transitioning_industrial))
+- [Debian Votes To Let Contributors Code With AI](https://soylentnews.org/article.pl?sid=26/09/01/0255250) ([comments](https://soylentnews.org/article.pl?sid=26/09/01/0255250))
+- [SourceHut Updates ToS to Prohibit LLMs](https://soylentnews.org/article.pl?sid=26/08/29/0011223) ([comments](https://soylentnews.org/article.pl?sid=26/08/29/0011223))
+- [FOSS Force Interviews Richard Stallman](https://soylentnews.org/article.pl?sid=26/09/01/0310224) ([comments](https://soylentnews.org/article.pl?sid=26/09/01/0310224))
 
-## Security, Privacy & Surveillance
-- [Apple Sued For $2.7 Billion Over App Tracking Transparency Rules](https://yro.slashdot.org/story/26/09/03/2015253/apple-sued-for-27-billion-over-app-tracking-transparency-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [More Than 100 Water Systems Were Hit in July Cyberattacks in US](https://soylentnews.org/article.pl?sid=26/09/02/1158220&from=rss)
-- [FBI Seizes Hacking Tools It Says China Used to Attack NASA, DOE, US Senate and Critical Networks](https://soylentnews.org/article.pl?sid=26/09/01/0224203&from=rss)
-- [X Uncovers Massive Chinese Bot Farm Targeting U.S. Data Centers](https://soylentnews.org/article.pl?sid=26/08/30/1332203&from=rss)
-- [Security Incident – BGP Hijacking](https://www.virtualizor.com/blog/security-incident-bgp-hijacking/) ([comments](https://lobste.rs/s/6e1y6s/security_incident_bgp_hijacking))
-- [1 In 6 VPNs Track Your Location, According To New Report From Proton](https://soylentnews.org/article.pl?sid=26/08/30/230207&from=rss)
-- [Brave Adds Email Aliases to Hide Your Real Address](https://soylentnews.org/article.pl?sid=26/08/29/0014247&from=rss)
-- [AliExpress Ran Silent Browser Audio to Fingerprint and Track Devices, Researchers Find](https://soylentnews.org/article.pl?sid=26/08/27/1714244&from=rss)
-- [Flock Shock Rocks Cop Cam Vendor As Protests Mount](https://soylentnews.org/article.pl?sid=26/08/30/2252232&from=rss)
-- [FCC Plans Robocall Scorecard to Grade Phone Companies On Spam Call Blocking](https://mobile.slashdot.org/story/26/09/02/215232/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Security
 - [GPS glitched across the US by as much as 33 feet](https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before) ([comments](https://news.ycombinator.com/item?id=49544618))
-- ['Security by Antiquity': Why Older Tech is Sometimes Safer From Hackers](https://soylentnews.org/article.pl?sid=26/08/27/1725224&from=rss)
-- [I Think the Military Commissary Freezers Were Hacked](https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary) ([comments](https://lobste.rs/s/ygjo0g/i_think_military_commissary_freezers))
-- [Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?](https://news.ycombinator.com/item?id=49555592)
+- [FBI Seizes Hacking Tools It Says China Used to Attack NASA, DOE, US Senate and Critical Networks](https://soylentnews.org/article.pl?sid=26/09/01/0224203) ([comments](https://soylentnews.org/article.pl?sid=26/09/01/0224203))
+- [Google Engineer Accused of Polymarket Insider Trading Says He Was Just Gambling](https://yro.slashdot.org/story/26/09/02/230259/google-engineer-accused-of-polymarket-insider-trading-says-he-was-just-gambling) ([comments](https://yro.slashdot.org/story/26/09/02/230259/google-engineer-accused-of-polymarket-insider-trading-says-he-was-just-gambling))
+- [More Than 100 Water Systems Were Hit in July Cyberattacks in US](https://soylentnews.org/article.pl?sid=26/09/02/1158220) ([comments](https://soylentnews.org/article.pl?sid=26/09/02/1158220))
+- [The Pentagon's Anthropic Ban Was 'Illegal and Baseless'](https://soylentnews.org/article.pl?sid=26/08/30/1333239) ([comments](https://soylentnews.org/article.pl?sid=26/08/30/1333239))
 
-## Hardware, Gadgets & Consumer Tech
-- [Instrument Clusters Are Now Paid Extras In Two Hyundai Models](https://tech.slashdot.org/story/26/09/02/2246257/instrument-clusters-are-now-paid-extras-in-two-hyundai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [The largest electric aircraft just flew](https://www.youtube.com/watch?v=nM86DBOqgPM) ([comments](https://news.ycombinator.com/item?id=49526453))
-- [A PCB business card with a batteryless LED, powered by the phone that taps it](https://www.kevin.md/the-business-card-that-lights-up.md/) ([comments](https://news.ycombinator.com/item?id=49527967))
-- [Xbox Cloud Gaming Switches to Monthly Hour Limits](https://games.slashdot.org/story/26/09/03/1943208/xbox-cloud-gaming-switches-to-monthly-hour-limits?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Rare, Working Apple I Computer Heads To Auction](https://soylentnews.org/article.pl?sid=26/09/02/195251&from=rss)
-- [An image only some users can see](https://d.erenrich.net/apple.avif) ([comments](https://lobste.rs/s/htrg6g/image_only_some_users_can_see))
-- [Get Up to $60 Back for Your Pre-Installed Windows 11 License](https://soylentnews.org/article.pl?sid=26/08/30/1326251&from=rss)
-- [The asteroid currently hitting front end web development](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/) ([comments](https://news.ycombinator.com/item?id=49555233))
-- [The Browser's Main Thread Is Expensive](https://kciter.so/posts/the-expensive-main-thread/en/) ([comments](https://lobste.rs/s/zatuk4/browser_s_main_thread_is_expensive))
-- [You Don't Need Initial-Scale In Your HTML](https://vale.rocks/micros/20260902-1350) ([comments](https://lobste.rs/s/if60bl/you_don_t_need_initial_scale_your_html))
-- [Souping up my blog](https://qtea.me/posts/souping-up-my-blog/) ([comments](https://lobste.rs/s/bgswli/souping_up_my_blog))
-- [Can We Stop With the Uptime Percentages?](https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/) ([comments](https://lobste.rs/s/uyc8ai/can_we_stop_with_uptime_percentages))
-- [.name Termination](https://neil.fraser.name/news/2026/09/03/) ([comments](https://news.ycombinator.com/item?id=49550772))
-- [How to get a free .arpa domain](https://hawksley.dev/blog/get-free-arpa-domain) ([comments](https://news.ycombinator.com/item?id=49515558))
+## Hardware
+- [Largest electric aircraft just flew](https://www.youtube.com/watch?v=nM86DBOqgPM) ([comments](https://news.ycombinator.com/item?id=49526453))
+- [Hyundai Instrument Clusters Are Now Paid Extras In Two Models](https://tech.slashdot.org/story/26/09/02/2246257/instrument-clusters-are-now-paid-extras-in-two-hyundai-models) ([comments](https://tech.slashdot.org/story/26/09/02/2246257/instrument-clusters-are-now-paid-extras-in-two-hyundai-models))
 
-## Space & Science
-- [Rules of the Road: Engineers Have Built a Traffic Control System for the Moon](https://soylentnews.org/article.pl?sid=26/09/01/0231258&from=rss)
-- [China Calls Off Ambitious Ice-Hunting Moonshot a Day Before Flight](https://soylentnews.org/article.pl?sid=26/08/26/0443249&from=rss)
-- [Spy to Space: The Science Behind NASA's Roman Space Telescope](https://soylentnews.org/article.pl?sid=26/08/31/017238&from=rss)
-- [India's Crewed Space Program Will Fly This Year, After Missing 2022 and 2025 Targets](https://soylentnews.org/article.pl?sid=26/08/30/2249220&from=rss)
-- [A Matter of Millimeters: The story of Qantas Flight 32](https://soylentnews.org/article.pl?sid=26/09/02/0016226&from=rss)
+## Space
+- [Rules of the Road: Engineers Have Built a Traffic Control System for the Moon](https://soylentnews.org/article.pl?sid=26/09/01/0231258) ([comments](https://soylentnews.org/article.pl?sid=26/09/01/0231258))
+- [India's Crewed Space Program Will Fly This Year, After Missing 2022 and 2025 Targets](https://soylentnews.org/article.pl?sid=26/08/30/2249220) ([comments](https://soylentnews.org/article.pl?sid=26/08/30/2249220))
+- [China Calls Off Ambitious Ice-Hunting Moonshot a Day Before Flight](https://soylentnews.org/article.pl?sid=26/08/26/0443249) ([comments](https://soylentnews.org/article.pl?sid=26/08/26/0443249))
 
-## Health, Environment & Biology
+## Health & Science
 - [GLP-1s are being linked to fewer serious infections, including TB](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796) ([comments](https://news.ycombinator.com/item?id=49558086))
-- [Global Heating Will Hit At Least 1.8C, UN Warns, and There Are 'No Good Outcomes'](https://news.slashdot.org/story/26/09/02/2228245/global-heating-will-hit-at-least-18c-un-warns-and-there-are-no-good-outcomes?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [A Mysterious Kidney Disease Has Arrived in Texas](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/) ([comments](https://news.ycombinator.com/item?id=49559992))
 - [Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%](https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california) ([comments](https://news.ycombinator.com/item?id=49552572))
-- [Plastic Bottles Can be Turned Into Edible, Vanilla-Flavour Cookies](https://soylentnews.org/article.pl?sid=26/09/01/0317258&from=rss)
-- [Dextroproporphan: An Analogue for a Better Dextromethorphan](https://monfak.top/blog/posts/dextroproporphan) ([comments](https://news.ycombinator.com/item?id=49534573))
 
-## Business, Law & Society
-- [Meta Settles States' Child-Safety Claims for $18B; Florida Rejects Deal as "Peanuts"](https://soylentnews.org/article.pl?sid=26/09/01/036208&from=rss)
-- [Uber Hit With a Nearly $1 Billion Fine for Automatically Deactivating Drivers in Europe](https://soylentnews.org/article.pl?sid=26/08/29/0016207&from=rss)
-- [Advent and Stripe Abandon $50 Billion Pursuit of PayPal](https://soylentnews.org/article.pl?sid=26/08/30/0615202&from=rss)
-- [Sony Is Reminding Us (Again) That We Don't Own Our PlayStation Games](https://soylentnews.org/article.pl?sid=26/08/30/2254252&from=rss)
-- [Google Engineer Accused of Polymarket Insider Trading Says He Was Just Gambling](https://yro.slashdot.org/story/26/09/02/230259/google-engineer-accused-of-polymarket-insider-trading-says-he-was-just-gambling?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [A note on subscription prices from LWN](https://lwn.net/Articles/1090585/) ([comments](https://lobste.rs/s/krcehd/note_on_subscription_prices_from_lwn))
-- [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer) ([comments](https://news.ycombinator.com/item?id=49556922))
+## Business & Legal
+- [Apple Sued For $2.7 Billion Over App Tracking Transparency Rules](https://yro.slashdot.org/story/26/09/03/2015253/apple-sued-for-27-billion-over-app-tracking-transparency-rules) ([comments](https://yro.slashdot.org/story/26/09/03/2015253/apple-sued-for-27-billion-over-app-tracking-transparency-rules))
+- [Meta Settles States' Child-Safety Claims for $18B; Florida Rejects Deal as "Peanuts"](https://soylentnews.org/article.pl?sid=26/09/01/036208) ([comments](https://soylentnews.org/article.pl?sid=26/09/01/036208))
+- [Uber Hit With a Nearly $1 Billion Fine for Automatically Deactivating Drivers in Europe](https://soylentnews.org/article.pl?sid=26/08/29/0016207) ([comments](https://soylentnews.org/article.pl?sid=26/08/29/0016207))
 
-## History, Culture & Curiosities
-- [The true horror of Edgar Allan Poe's stories lies in their confessions](https://yalereview.org/article/emily-ogden-edgar-allan-poe) ([comments](https://news.ycombinator.com/item?id=49537632))
-- [Unusual Suspects](https://neal.fun/unusual-suspects/) ([comments](https://news.ycombinator.com/item?id=49538069))
+## Web Development
+- [The asteroid currently hitting frontend web development](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/) ([comments](https://news.ycombinator.com/item?id=49555233))
+- [The Browser's Main Thread Is Expensive](https://kciter.so/posts/the-expensive-main-thread/en/) ([comments](https://lobste.rs/s/zatuk4/browser_s_main_thread_is_expensive))
+
+## History
+- [Project Xanadu: Even More Hindsight](https://gwern.net/xanadu) ([comments](https://news.ycombinator.com/item?id=49559522))
 - [Any Human Ever – One life, drawn at random from all who have ever lived](https://anyhumanever.com/) ([comments](https://news.ycombinator.com/item?id=49550698))
-- [The Human Reservation Plan](https://soylentnews.org/article.pl?sid=26/08/27/1719228&from=rss)
-- [An Ultra-Rare Piece of Microsoft History Could be Hiding on Your Shelf](https://soylentnews.org/article.pl?sid=26/08/26/0445241&from=rss)
-- [I Don't Have a Smartphone](https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html) ([comments](https://lobste.rs/s/nh1uij/i_don_t_have_smartphone))
-- [Show HN: I made a word building game supporting anagrams and one handed use](https://news.ycombinator.com/item?id=49550479)
