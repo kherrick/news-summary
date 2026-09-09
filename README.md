@@ -1,35 +1,51 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Frontier Science
-- [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/) ([comments](https://news.ycombinator.com/item?id=49614720))
-- [AlphaGenome Atlas](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/) ([comments](https://news.ycombinator.com/item?id=49610641))
-- [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) ([comments](https://news.ycombinator.com/item?id=49613262))
-- [Nvidia to Buy Hugging Face for $12.9 Billion](https://soylentnews.org/article.pl?sid=26/09/03/127255&from=rss)
-- [Anthropic's New Hardware Standard Lets AI Agents Control the Physical World](https://soylentnews.org/article.pl?sid=26/09/03/121253&from=rss)
-- [Muse: Meta's Personal AI Agent, Features and Capabilities](https://ai.meta.com/muse/) ([comments](https://news.ycombinator.com/item?id=49615537))
+## AI Models, Agents, and Genomics
+- [Feds Accuse China of "Systematic" Distillation of US AI Models](https://slashdot.org/story/26/09/08/220242/feds-accuse-china-of-systematic-distillation-of-us-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed): Federal officials allege a systematic campaign to distill capabilities from US AI models.
+- [Large Language Models Develop Novel Social Biases Through Adaptive Exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH) ([comments](https://news.ycombinator.com/item?id=49617581)): The research examines how adaptive exploration can give rise to previously unseen social biases.
+- [Meta Debuts Muse, Its Long-Planned Personal AI Agent](https://ai.meta.com/muse/) ([comments](https://news.ycombinator.com/item?id=49615537)): Meta introduces a personal agent intended to assist with everyday tasks and longer workflows.
+- [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5) ([comments](https://news.ycombinator.com/item?id=49616354)): Inception Labs announces the next release in its speech-model line.
+- [Kimi K3 (2.8T) at 1 Token/s on a MacBook Pro, Streamed from Four SSDs](https://github.com/argonautlabsai/deltafin) ([comments](https://news.ycombinator.com/item?id=49616257)): The project streams a 2.8-trillion-parameter model from four SSDs at roughly one token per second on a MacBook Pro.
+- [Google DeepMind Publishes AI-Powered Predictions for the Effect of All 9 Billion Mutations to Human DNA](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/) ([comments](https://news.ycombinator.com/item?id=49610641)): DeepMind publishes a predictive atlas covering every possible single-letter change in human DNA.
+- [Anthropic's New Hardware Standard Lets AI Agents Control the Physical World](https://soylentnews.org/article.pl?sid=26/09/02/121253&from=rss): A proposed hardware standard aims to let software agents operate physical devices.
+- [Nvidia to Buy Hugging Face for $12.9 Billion](https://soylentnews.org/article.pl?sid=26/09/02/127255&from=rss): The proposed deal would bring a major AI model community under a leading chipmaker.
 
-## Programming and Open Infrastructure
-- [Rust: When Empty Isn't Bottom](https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html) ([comments](https://lobste.rs/s/lf3est/rust_when_empty_isn_t_bottom))
-- [C*: Unifying Programming and Verification in C](https://arxiv.org/abs/2504.02246) ([comments](https://news.ycombinator.com/item?id=49612191))
-- [Reverse Engineering My E-Scooter and Rewriting the Firmware in Rust](https://bensimms.moe/reverse-engineering-scooter/) ([comments](https://lobste.rs/s/pdr2bo/reverse_engineering_my_e_scooter))
-- [Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster](https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/) ([comments](https://news.ycombinator.com/item?id=49575914))
-- [CERN's Migration Path from CentOS Linux to Debian](https://lwn.net/SubscriberLink/1092512/0772b817c369632b/)
-- [Hardening Container Images](https://www.grepular.com/Hardening_Container_Images) ([comments](https://lobste.rs/s/8hz82r/hardening_container_images))
-- [The Depths of JavaScript: Minesweeper in 247 Bytes](https://yui.dev/blog/minesweeper-in-247-bytes) ([comments](https://lobste.rs/s/dlxqqr/depths_javascript_minesweeper_247_bytes))
-- [Bitap: My Favorite String Matching Algorithm](https://jo3-l.dev/posts/bitap/) ([comments](https://lobste.rs/s/aguhup/bitap_my_favorite_string_matching))
+## Surveillance, Cybersecurity, and Platform Accountability
+- [LG TVs Caught Spying Even When Offline or On Standby](https://yro.slashdot.org/story/26/09/08/1634205/lg-tvs-caught-spying-even-when-offline-or-on-standby?utm_source=rss1.0mainlinkanon&utm_medium=feed): The report says televisions may continue collecting data while offline or in standby.
+- [Secretive DHS "Predictive Policing" Unit Is Analyzing Americans' Financial Habits, Pulling Them Over](https://news.slashdot.org/story/26/09/08/1458257/secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-pulling-them-over?utm_source=rss1.0mainlinkanon&utm_medium=feed): The unit reportedly analyzes financial behavior to identify people for traffic stops.
+- [Healthcare Cyberattacks Hit Pacemakers and Millions of Patient Records](https://soylentnews.org/article.pl?sid=26/09/05/2143237&from=rss): The attacks reach implanted cardiac devices and expose millions of patient records.
+- [FBI Investigating 153 Million US and Canadian Driver's Licenses Leaked on Russian Cybercrime Forum](https://soylentnews.org/article.pl?sid=26/09/02/1910231&from=rss): The FBI is investigating a leak of 153 million US and Canadian driver's licenses.
+- [More Than 100 Water Systems Were Hit in July Cyberattacks in US](https://soylentnews.org/article.pl?sid=26/09/02/1158220&from=rss): More than 100 US water systems were targeted in a single month.
+- [I've Factored the RSA Keys of a Certificate Authority...from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html) ([comments](https://lobste.rs/s/wl0mln/i_ve_factored_rsa_keys_certificate)): Old certificate-authority keys are shown to be vulnerable to modern factorization.
+- [Australia to Let Social Media Users "Opt Out" of Algorithm-Based Feeds](https://tech.slashdot.org/story/26/09/08/1959259/australia-to-let-social-media-users-opt-out-of-algorithm-based-feeds?utm_source=rss1.0mainlinkanon&utm_medium=feed): The proposal would let users choose non-algorithmic social-media feeds.
+- [Meta Settles States' Child-Safety Claims for $18B; Florida Rejects Deal as "Peanuts"](https://soylentnews.org/article.pl?sid=26/09/01/036208&from=rss): The settlement draws criticism for offering too little relief to teens and other users.
 
-## Privacy, Security, and Digital Power
-- [LG TVs Caught Spying Even When Offline or on Standby](https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus) ([comments](https://news.ycombinator.com/item?id=49612329))
-- [DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits](https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/) ([comments](https://news.ycombinator.com/item?id=49610988))
-- [Healthcare Cyberattacks Hit Pacemakers and Millions of Patient Records](https://soylentnews.org/article.pl?sid=26/09/06/2143237&from=rss)
-- [FBI Investigating 153 Million US and Canadian Driver's Licenses Leaked on Russian Cybercrime Forum](https://soylentnews.org/article.pl?sid=26/09/04/1910231&from=rss)
-- [I've Factored the RSA Keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html) ([comments](https://lobste.rs/s/wl0mln/i_ve_factored_rsa_keys_certificate))
-- [Australia to Let Social Media Users Opt Out of Algorithm-Based Feeds](https://tech.slashdot.org/story/26/09/08/1959259/australia-to-let-social-media-users-opt-out-of-algorithm-based-feeds)
-- [Meta's $17 Billion Settlement Is a Bad Deal for Teens and All Social Media Users](https://soylentnews.org/article.pl?sid=26/09/04/039204&from=rss)
+## Open Source, Languages, and Hardware
+- [CERN's Migration Path from CentOS Linux to Debian](https://lwn.net/SubscriberLink/1092512/0772b817c369632b/) ([comments](https://lobste.rs/s/3cfr3a/cern_s_migration_path_from_centos_linux)): CERN outlines its transition from CentOS Linux to Debian.
+- [Switzerland's Federal Government Tests Open-Source Alternatives to Microsoft on 3,000 Computers](https://yro.slashdot.org/story/26/09/07/0128205/switzerlands-federal-government-tests-open-source-alternatives-to-microsoft-on-3000-computers?utm_source=rss1.0mainlinkanon&utm_medium=feed): A federal deployment is testing open-source alternatives across 3,000 computers.
+- [AMD Working to "Push Rust Deep into the GPU Stack"](https://developers.slashdot.org/story/26/09/07/086221/amd-working-to-push-rust-deep-into-the-gpu-stack?utm_source=rss1.0mainlinkanon&utm_medium=feed): AMD is exploring deeper Rust integration throughout its GPU software stack.
+- [FreeBSD 14.5-Release](https://www.freebsd.org/releases/14.5R/announce/) ([comments](https://news.ycombinator.com/item?id=49609174)): The FreeBSD project announces version 14.5.
+- [C*: Unifying Programming and Verification in C](https://arxiv.org/abs/2504.02246) ([comments](https://news.ycombinator.com/item?id=49612191)): The research language seeks to combine C-style programming with verification.
+- [Rust: When Empty Isn't Bottom](https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html) ([comments](https://lobste.rs/s/lf3est/rust_when_empty_isn_t_bottom)): The essay investigates the surprising behavior of empty types in Rust.
+- [Reverse Engineering an ASIC](https://kjartanvandriel.github.io/asic/) ([comments](https://news.ycombinator.com/item?id=49599825)): A hands-on reverse-engineering project exposes the structure of a custom chip.
+- [Debian Votes to Let Contributors Code with AI](https://soylentnews.org/article.pl?sid=26/09/01/0255250&from=rss): Debian votes on rules allowing contributors to use AI while developing the distribution.
 
-## Science, Engineering, and Curious Discoveries
-- [After Eight Years, Europe's BepiColombo Mission Is on Final Approach to Mercury](https://soylentnews.org/article.pl?sid=26/09/06/0316238&from=rss)
-- [A Matter of Millimeters: The Story of Qantas Flight 32](https://soylentnews.org/article.pl?sid=26/09/02/0016226&from=rss)
-- [The Helicopter with Radioactive Blades](https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/)
-- [Plastic Bottles Can Be Turned Into Edible, Vanilla-Flavour Cookies](https://soylentnews.org/article.pl?sid=26/09/01/0317258&from=rss)
-- [Rare, Working Apple I Computer Heads to Auction](https://soylentnews.org/article.pl?sid=26/09/03/195251&from=rss)
+## Mathematics, Space, and High-Stakes Engineering
+- [On the Navier-Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) ([comments](https://news.ycombinator.com/item?id=49613262)): OpenAI presents a proposed solution to the Navier-Stokes Millennium Prize Problem.
+- [Finite-Time Blowup with Smooth Forcing for 3D Incompressible Euler, Boussinesq, and IPM](https://mastodon.social/@tristanbuckmaster/117233413705701198) ([comments](https://lobste.rs/s/ki3ylq/finite_time_blowup_with_smooth_forcing)): New mathematical results study finite-time blowup under smooth forcing in several fluid models.
+- [The 92-Year-Old Mathematician and the Teenage Apprentice](https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html) ([comments](https://news.ycombinator.com/item?id=49591563)): A profile explores a remarkable mentorship between a 92-year-old mathematician and a teenage apprentice.
+- [After 8 Years, Europe's BepiColombo Mission Is on Final Approach to Mercury](https://soylentnews.org/article.pl?sid=26/09/06/0316238&from=rss): After an eight-year journey, BepiColombo enters its final approach to Mercury.
+- [NASA's Swift Shortens Orbital Lifetime for the Sake of Science](https://soylentnews.org/article.pl?sid=26/09/03/1228231&from=rss): NASA's Swift mission accepts a shorter orbital lifetime to maximize scientific return.
+- [The Helicopter with Radioactive Blades](https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/) ([comments](https://news.ycombinator.com/item?id=49600901)): Hackaday examines a helicopter built with radioactive blades.
+- [A Matter of Millimeters: The Story of Qantas Flight 32](https://soylentnews.org/article.pl?sid=26/09/02/0016226&from=rss): The story reconstructs how millimeter-scale details shaped the Qantas Flight 32 emergency.
+- [Plastic Bottles Can Be Turned Into Edible, Vanilla-Flavour Cookies](https://soylentnews.org/article.pl?sid=26/09/01/0317258&from=rss): Researchers turn plastic bottles into edible, vanilla-flavored cookies.
+
+## Culture, Media, and Hands-On Computing
+- [Teen Reading Slumps to Worst This Century Due to Surge in Screen Time](https://news.slashdot.org/story/26/09/08/1545207/teen-reading-slumps-to-worst-this-century-due-to-surge-in-screen-time?utm_source=rss1.0mainlinkanon&utm_medium=feed): New findings connect a sharp decline in teen reading with rising screen time.
+- [A Secret New Elizabeth Holmes Documentary Stuns Telluride](https://entertainment.slashdot.org/story/26/09/08/1652228/a-secret-new-elizabeth-holmes-documentary-stuns-telluride?utm_source=rss1.0mainlinkanon&utm_medium=feed): A surprise documentary about Elizabeth Holmes becomes a Telluride festival talking point.
+- [Three Cities, 16 Years and $1 Billion Later, "Defiant" Lucas Museum of Narrative Art Opens to Mixed Reviews](https://entertainment.slashdot.org/story/26/09/06/1745223/three-cities-16-years-and-1-billion-later-defiant-lucas-museum-of-narrative-art-opens-to-mixed-reviews?utm_source=rss1.0mainlinkanon&utm_medium=feed): The long-delayed Lucas Museum opens after 16 years and roughly $1 billion in effort.
+- [Trey Parker and Matt Stone Are Changing the Name of South Park to South America](https://twitter.com/SouthPark/status/2097364141237539116) ([comments](https://news.ycombinator.com/item?id=49616239)): The creators announce a deliberately provocative rename of South Park.
+- [Getting Your Hands Dirty Is Good for You](https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks) ([comments](https://news.ycombinator.com/item?id=49608023)): The BBC reports on health benefits associated with getting hands dirty.
+- [Meet the 2026 Ig Nobel Prize Winners](https://soylentnews.org/article.pl?sid=26/09/06/176207&from=rss): The 2026 winners celebrate research that is both amusing and thought-provoking.
+- [Reverse Engineering My E-Scooter and Rewriting the Firmware in Rust](https://bensimms.moe/reverse-engineering-scooter/) ([comments](https://lobste.rs/s/pdr2bo/reverse_engineering_my_e_scooter)): A maker reverse-engineers an e-scooter and rewrites its firmware in Rust.
+- [Commodore 64 Released September 1, 1982](https://soylentnews.org/article.pl?sid=26/09/04/0310255&from=rss): A retrospective marks the 1982 launch of the Commodore 64.
