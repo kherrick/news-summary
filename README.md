@@ -1,46 +1,51 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI Agents, Models, and Policy
-- [Feds Accuse China of “Systematic” Distillation of US AI Models](https://slashdot.org/story/26/09/08/220242/feds-accuse-china-of-systematic-distillation-of-us-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Large Language Models Develop Novel Social Biases Through Adaptive Exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH) ([comments](https://news.ycombinator.com/item?id=49617581))
-- [Muse – Meta’s Personal AI Agent](https://ai.meta.com/muse/) ([comments](https://news.ycombinator.com/item?id=49615537))
-- [Kimi K3 (2.8T) at 1 Token/s on a MacBook Pro, Streamed from Four SSDs](https://github.com/argonautlabsai/deltafin) ([comments](https://news.ycombinator.com/item?id=49616257))
-- [Anthropic’s New Hardware Standard Lets AI Agents Control the Physical World](https://soylentnews.org/article.pl?sid=26/09/02/121253&from=rss)
-- [UK Cyber Bill Targets AI Users, Not the Vendors Building It](https://soylentnews.org/article.pl?sid=26/09/06/1214244&from=rss)
+## AI, Models, and Machine Behavior
+- [Feds Accuse China of “Systematic” Distillation of US AI Models](https://slashdot.org/story/26/09/08/220242/feds-accuse-china-of-systematic-distillation-of-us-ai-models)
+- [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH) ([comments](https://news.ycombinator.com/item?id=49617581))
+- [Meta Debuts Muse, Its Long-Planned Personal AI Agent](https://meta.slashdot.org/story/26/09/08/2012246/meta-debuts-muse-its-long-planned-personal-ai-agent) ([comments](https://news.ycombinator.com/item?id=49615537))
+- [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5) ([comments](https://news.ycombinator.com/item?id=49616354))
+- [Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs](https://github.com/argonautlabsai/deltafin) ([comments](https://news.ycombinator.com/item?id=49616257))
+- [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/) ([comments](https://news.ycombinator.com/item?id=49614720))
+- [AlphaGenome Atlas: a high-resolution map of human DNA](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/) ([comments](https://news.ycombinator.com/item?id=49611251))
+- [Anthropic's New Hardware Standard Lets AI Agents Control the Physical World](https://soylentnews.org/article.pl?sid=26/09/02/121253&from=rss)
 
-## Security, Surveillance, and Digital Rights
-- [LG TVs Caught Spying Even When Offline or on Standby](https://yro.slashdot.org/story/26/09/08/1634205/lg-tvs-caught-spying-even-when-offline-or-on-standby?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Secretive DHS “Predictive Policing” Unit Is Analyzing Americans’ Financial Habits, Pulling Them Over](https://news.slashdot.org/story/26/09/08/1458257/secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-pulling-them-over?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [I’ve Factored the RSA Keys of a Certificate Authority…from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html) ([comments](https://lobste.rs/s/wl0mln/i_ve_factored_rsa_keys_certificate))
-- [Healthcare Cyberattacks Hit Pacemakers and Millions of Patient Records](https://soylentnews.org/article.pl?sid=26/09/05/2143237&from=rss)
-- [FBI Investigating 153 Million US and Canadian Driver’s Licenses Leaked on Russian Cybercrime Forum](https://soylentnews.org/article.pl?sid=26/09/02/1910231&from=rss)
-
-## Mathematics, Biology, and Space
-- [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/) ([comments](https://news.ycombinator.com/item?id=49618050))
-- [Tao: Open Math Problems Being Non-Renewably Mined by AI](https://mathstodon.xyz/@tao/117237320796901560) ([comments](https://news.ycombinator.com/item?id=49616968))
+## Science, Space, and Mathematical Frontiers
+- [After 8 Years, Europe's BepiColombo Mission is on Final Approach to Mercury](https://soylentnews.org/article.pl?sid=26/09/06/0316238&from=rss)
+- [Without New Landers Or Rovers, It's Helicopters Or Bust For NASA's Mars Program](https://soylentnews.org/article.pl?sid=26/09/02/1918230&from=rss)
+- [The Helicopter with Radioactive Blades](https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/) ([comments](https://news.ycombinator.com/item?id=49598921))
+- [Tension wood: A “muscle” that can both bend and straighten plants](https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html) ([comments](https://news.ycombinator.com/item?id=49546964))
+- [Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field](https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/) ([comments](https://news.ycombinator.com/item?id=49580761))
 - [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) ([comments](https://news.ycombinator.com/item?id=49613262))
-- [AlphaGenome Atlas: A Predictive Map of Every Possible DNA Letter Change in the Human Genome](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/) ([comments](https://news.ycombinator.com/item?id=49610641))
-- [Medieval Manuscripts Are “Biological Time Capsules” for Deadly Sheeppox Virus](https://soylentnews.org/article.pl?sid=26/09/06/1717224&from=rss)
-- [After 8 Years, Europe’s BepiColombo Mission Is on Final Approach to Mercury](https://soylentnews.org/article.pl?sid=26/09/06/0316238&from=rss)
-- [The 92-Year-Old Mathematician and the Teenage Apprentice](https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html) ([comments](https://news.ycombinator.com/item?id=49591563))
+- [Finite-time blowup with smooth forcing for 3D incompressible Euler, Boussinesq, and IPM](https://mastodon.social/@tristanbuckmaster/117233413705701198) ([comments](https://lobste.rs/s/ki3ylq/finite_time_blowup_with_smooth_forcing))
+- [Medieval Manuscripts Are “Biological Time Capsules” For Deadly Sheeppox Virus](https://soylentnews.org/article.pl?sid=26/09/06/1717224&from=rss)
 
-## Open Source and Computing Infrastructure
-- [Switzerland’s Federal Government Tests Open-Source Alternatives to Microsoft on 3,000 Computers](https://yro.slashdot.org/story/26/09/07/0128205/switzerlands-federal-government-tests-open-source-alternatives-to-microsoft-on-3000-computers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [CERN’s Migration Path from CentOS Linux to Debian](https://lwn.net/SubscriberLink/1092512/0772b817c369632b/) ([comments](https://lobste.rs/s/3cfr3a/cern_s_migration_path_from_centos_linux))
-- [Ecosia Just Launched a Linux Browser to Help Europe Battle Big Tech](https://soylentnews.org/article.pl?sid=26/09/06/0321214&from=rss)
-- [C*: Unifying Programming and Verification in C](https://arxiv.org/abs/2504.02246) ([comments](https://news.ycombinator.com/item?id=49612191))
-- [OpenNMC Is an Open Replacement for Expensive APC Management Cards](https://www.jeffgeerling.com/blog/2026/opennmc-apc-ups-replacement-card/) ([comments](https://lobste.rs/s/yj9kx4/opennmc_is_open_replacement_for))
+## Software, Systems, and Hacker Craft
+- [Patchwork-26: A malleable, collaborative, local-first workspace](https://youtu.be/4UxGijnuXEs) ([comments](https://lobste.rs/s/mbzhlq/patchwork_26_malleable_collaborative))
+- [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/) ([comments](https://news.ycombinator.com/item?id=49619464))
+- [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/) ([comments](https://lobste.rs/s/pxreik/how_build_f_king_printer))
+- [Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster](https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/) ([comments](https://news.ycombinator.com/item?id=49575914))
+- [CERN's migration path from CentOS Linux to Debian](https://lwn.net/SubscriberLink/1092512/0772b817c369632b/) ([comments](https://lobste.rs/s/3cfr3a/cern_s_migration_path_from_centos_linux))
+- [This Month in Ladybird - August 2026](https://ladybird.org/newsletter/2026-08-31/) ([comments](https://lobste.rs/s/npyzwy/this_month_ladybird_august_2026))
+- [Tracing np.add, all the way down](https://blog.veitheller.de/numpy.html) ([comments](https://news.ycombinator.com/item?id=49562430))
+- [How to get a free .arpa domain](https://hawksley.dev/blog/get-free-arpa-domain) ([comments](https://lobste.rs/s/eu78rh/how_get_free_arpa_domain))
 
-## Engineering, Transport, and Hands-On Computing
-- [Chinese Startup Unveils $100K “Urban VTOL” Apparently So Simple, Anyone Can Fly It](https://soylentnews.org/article.pl?sid=26/09/06/1714249&from=rss)
-- [A Matter of Millimeters: The Story of Qantas Flight 32](https://soylentnews.org/article.pl?sid=26/09/02/0016226&from=rss)
-- [Reverse Engineering an ASIC](https://kjartanvandriel.github.io/asic/) ([comments](https://news.ycombinator.com/item?id=49599825))
-- [The Helicopter with Radioactive Blades](https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/) ([comments](https://news.ycombinator.com/item?id=49600901))
-- [How to Build a F**king Printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/) ([comments](https://lobste.rs/s/pxreik/how_build_f_king_printer))
+## Security, Privacy, and Public Policy
+- [Russian Hacker Faces Up to 20 Years in Prison, Following Extradition and Indictment](https://soylentnews.org/article.pl?sid=26/09/08/0321237&from=rss)
+- [LG TVs Caught Spying Even When Offline or On Standby](https://yro.slashdot.org/story/26/09/08/1634205/lg-tvs-caught-spying-even-when-offline-or-on-standby)
+- [Secretive DHS “Predictive Policing” Unit Is Analyzing Americans' Financial Habits, Pulling Them Over](https://news.slashdot.org/story/26/09/08/1458257/secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-pulling-them-over)
+- [Healthcare Cyberattacks Hit Pacemakers And Millions Of Patient Records](https://soylentnews.org/article.pl?sid=26/09/05/2143237&from=rss)
+- [FBI Investigating 153 Million US And Canadian Driver’s Licenses Leaked On Russian Cybercrime Forum](https://soylentnews.org/article.pl?sid=26/09/02/1910231&from=rss)
+- [More Than 100 Water Systems Were Hit in July Cyberattacks in US](https://soylentnews.org/article.pl?sid=26/09/02/1158220&from=rss)
+- [Google Will “Degrade” Search In Europe to Avoid EU Fines](https://search.slashdot.org/story/26/09/08/2214256/google-will-degrade-search-in-europe-to-avoid-eu-fines)
+- [Australia To Let Social Media Users “Opt Out” of Algorithm-Based Feeds](https://tech.slashdot.org/story/26/09/08/1959259/australia-to-let-social-media-users-opt-out-of-algorithm-based-feeds)
 
-## Culture and Society
-- [A Secret New Elizabeth Holmes Documentary Stuns Telluride](https://entertainment.slashdot.org/story/26/09/08/1652228/a-secret-new-elizabeth-holmes-documentary-stuns-telluride?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Teen Reading Slumps to Worst This Century Due to Surge in Screen Time](https://news.slashdot.org/story/26/09/08/1545207/teen-reading-slumps-to-worst-this-century-due-to-surge-in-screen-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Why Google Told Drivers to Drive a Longer Way on Purpose](https://tech.slashdot.org/story/26/09/07/0653248/why-google-told-drivers-to-drive-a-longer-way-on-purpose?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [You’ll See Lake Ontario, America, or Both Depending on Where You Are in the World](https://soylentnews.org/article.pl?sid=26/09/05/2154212&from=rss)
-- [Rare, Working Apple I Computer Heads to Auction](https://soylentnews.org/article.pl?sid=26/09/02/195251&from=rss)
+## Culture, Society, and Digital Life
+- [Star Trek Turns 60](https://entertainment.slashdot.org/story/26/09/09/0113229/star-trek-turns-60)
+- [A Secret New Elizabeth Holmes Documentary Stuns Telluride](https://entertainment.slashdot.org/story/26/09/08/1652228/a-secret-new-elizabeth-holmes-documentary-stuns-telluride)
+- [We built our house for LAN parties (2024)](https://lanparty.house/) ([comments](https://news.ycombinator.com/item?id=49579443))
+- [Rare, Working Apple I Computer Heads To Auction](https://soylentnews.org/article.pl?sid=26/09/02/195251&from=rss)
+- [Ask HN: 3.5 inch diskette read errors, would a period correct drive do better?](https://news.ycombinator.com/item?id=49598009)
+- [The origins of Partner’s computer case](https://www.racunalniski-muzej.si/en/the-origins-of-partners-computer-case/) ([comments](https://news.ycombinator.com/item?id=49597806))
+- [A Matter of Millimeters: The story of Qantas Flight 32](https://soylentnews.org/article.pl?sid=26/09/02/0016226&from=rss)
+- [Plastic Bottles Can be Turned Into Edible, Vanilla-Flavour Cookies](https://soylentnews.org/article.pl?sid=26/09/01/0317258&from=rss)
