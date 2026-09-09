@@ -1,52 +1,21 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI, computation, and software
-- [Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/) ([comments](https://lobste.rs/s/lxiabq/benchmarking_qwen3_8_27b_quantizations_4))
+## AI Risks & Developments
+- [Anthropic Researcher Believes More Than 10% Chance AI 'Could Kill All Humans'](https://slashdot.org/story/26/09/09/1943258/anthropic-researcher-believes-more-than-10-chance-ai-could-kill-all-humans?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/26/09/09/1943258/anthropic-researcher-believes-more-than-10-chance-ai-could-kill-all-humans?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [OpenAI's Rogue Agents Used At Least 10 More Sites For Unauthorized Communications](https://slashdot.org/story/26/09/09/1937259/openais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-communications?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/26/09/09/1937259/openais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-communications?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Feds Accuse China of 'Systematic' Distillation of US AI Models](https://slashdot.org/story/26/09/08/220242/feds-accuse-china-of-systematic-distillation-of-us-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/26/09/08/220242/feds-accuse-china-of-systematic-distillation-of-us-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Meta Debuts Muse, Its Long-Planned Personal AI Agent](https://meta.slashdot.org/story/26/09/08/2012246/meta-debuts-muse-its-long-planned-personal-ai-agent?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://meta.slashdot.org/story/26/09/08/2012246/meta-debuts-muse-its-long-planned-personal-ai-agent?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 - [GPT-6 Astra, looped transformers, and hidden reasoning](https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and) ([comments](https://news.ycombinator.com/item?id=49627370))
-- [Meta Debuts Muse, Its Long-Planned Personal AI Agent](https://ai.meta.com/muse/) ([comments](https://news.ycombinator.com/item?id=49615537))
-- [Nvidia to Buy Hugging Face for $12.9 Billion](https://soylentnews.org/article.pl?sid=26/09/02/127255&from=rss)
-- [Anthropic's New Hardware Standard Lets AI Agents Control the Physical World](https://soylentnews.org/article.pl?sid=26/09/02/121253&from=rss)
-- [Tailwind Labs is joining Shopify](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
-- [OpenAI Says It Has Cracked One of Math's 'Millennium Problems'](https://science.slashdot.org/story/26/09/08/2228220/openai-says-it-has-cracked-one-of-maths-millennium-problems?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Google DeepMind Publishes AI-Powered Predictions For Effect of All 9 Billion Mutations to Human DNA](https://tech.slashdot.org/story/26/09/08/1559238/google-deepmind-publishes-ai-powered-predictions-for-effect-of-all-9-billion-mutations-to-human-dna?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Security, privacy, and digital rights
-- [The purpose of DNS is to spread scams](https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/) ([comments](https://lobste.rs/s/veafpx/purpose_dns_is_spread_scams))
-- [How I advertise malicious software on Google Ads](https://xlii.space/eng/malicious-software-on-google-ads/) ([comments](https://news.ycombinator.com/item?id=49624856))
-- [Understanding the recent DDoS attack against Read the Docs](https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/) ([comments](https://news.ycombinator.com/item?id=49628614))
-- [LG Smart TVs Caught Mapping Your Network, Logging Audio With Screen Off](https://soylentnews.org/article.pl?sid=26/09/09/0148255&from=rss)
-- [Healthcare Cyberattacks Hit Pacemakers And Millions Of Patient Records](https://soylentnews.org/article.pl?sid=26/09/05/2143237&from=rss)
-- [EFF Asks California Governor to Veto Bill That Would Require Online Age Verification](https://soylentnews.org/article.pl?sid=26/09/08/0326206&from=rss)
-- [Turns Out Brits Would Quite Like Their Private Messages To Stay Private](https://soylentnews.org/article.pl?sid=26/09/02/1912237&from=rss)
-- [UK Cyber Bill Targets AI Users, Not the Vendors Building It](https://soylentnews.org/article.pl?sid=26/09/06/1214244&from=rss)
-- [FBI Investigating 153 Million US And Canadian Driver's Licenses Leaked On Russian Cybercrime Forum](https://soylentnews.org/article.pl?sid=26/09/02/1910231&from=rss)
-- [Autistici/Inventati (A/I) Ceases Operations After 25 Years](https://soylentnews.org/article.pl?sid=26/09/09/0150228&from=rss)
+## Consumer Technology
+- [Apple's New iPhone Camera Mode Promises to Prove Your Photo Isn't AI](https://mobile.slashdot.org/story/26/09/09/2144238/apples-new-iphone-camera-mode-promises-to-prove-your-photo-isnt-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://mobile.slashdot.org/story/26/09/09/2144238/apples-new-iphone-camera-mode-promises-to-prove-your-photo-isnt-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Apple Launches iPhone 18 Pro With Variable-Aperture Camera System](https://hardware.slashdot.org/story/26/09/09/1837238/apple-launches-iphone-18-pro-with-variable-aperture-camera-system?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/09/09/1837238/apple-launches-iphone-18-pro-with-variable-aperture-camera-system?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Apple Unveils the iPhone Duo, Its First Foldable iPhone](https://mobile.slashdot.org/story/26/09/09/1821247/apple-unveils-the-iphone-duo-its-first-foldable-iphone?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://mobile.slashdot.org/story/26/09/09/1821247/apple-unveils-the-iphone-duo-its-first-foldable-iphone?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Science, society, and public systems
-- [The UN challenges five centuries of cartography](https://www.not-ship.com/united-nations-map/) ([comments](https://news.ycombinator.com/item?id=49629209))
-- [After 8 Years, Europe's BepiColombo Mission is on Final Approach to Mercury](https://soylentnews.org/article.pl?sid=26/09/06/0316238&from=rss)
-- [NASA's Swift Shortens Orbital Lifetime for the Sake of Science](https://soylentnews.org/article.pl?sid=26/09/03/1228231&from=rss)
-- [Without New Landers Or Rovers, It's Helicopters Or Bust For NASA's Mars Program](https://soylentnews.org/article.pl?sid=26/09/02/1918230&from=rss)
-- [Medieval Manuscripts Are "Biological Time Capsules" For Deadly Sheeppox Virus](https://soylentnews.org/article.pl?sid=26/09/06/1717224&from=rss)
-- [Rare, Working Apple I Computer Heads To Auction](https://soylentnews.org/article.pl?sid=26/09/02/195251&from=rss)
-- [CERN Moves Thousands of Accelerator Control Computers to Debian](https://soylentnews.org/article.pl?sid=26/09/06/1230220&from=rss)
-- [G20 Ministers Adopt 'Carolina Principles' for Emerging Technologies](https://soylentnews.org/article.pl?sid=26/09/05/1218207&from=rss)
-- [Teen Reading Slumps to Worst This Century Due to Surge in Screen Time](https://news.slashdot.org/story/26/09/08/1545207/teen-reading-slumps-to-worst-this-century-due-to-surge-in-screen-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [100% Tariff On Drones Will Be Disaster For The US, Critics Warn](https://soylentnews.org/article.pl?sid=26/09/06/179256&from=rss)
-
-## Hardware, products, and design
-- [Apple Introduces AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/) ([comments](https://news.ycombinator.com/item?id=49630253))
-- [No Man's Sky Cosmos](https://www.nomanssky.com/cosmos-update/) ([comments](https://news.ycombinator.com/item?id=49628493))
-- [GNU Radio in the browser](https://gnuradioworld.com/) ([comments](https://news.ycombinator.com/item?id=49628576))
-- [Reverse engineering my e-scooter and rewriting the firmware in rust](https://bensimms.moe/reverse-engineering-scooter/) ([comments](https://lobste.rs/s/pdr2bo/reverse_engineering_my_e_scooter))
-- [How to build a f**king printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/) ([comments](https://lobste.rs/s/pxreik/how_build_f_king_printer))
-- [Solaris Turnstiles](https://rdmsr.github.io/writing/turnstiles/) ([comments](https://lobste.rs/s/wrt9wm/solaris_turnstiles))
-- [Bespoke: A programming language for people who say please](https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/) ([comments](https://news.ycombinator.com/item?id=49584361))
-- [Magic Move for Code Snippets from first principles](https://rahulrav.com/blog/magic_move.html) ([comments](https://news.ycombinator.com/item?id=49599012))
-- [Every Millisecond Counts](https://jordivillar.com/blog/every-millisecond-counts) ([comments](https://news.ycombinator.com/item?id=49629608))
-- [Analysing 2048 on a 3×3 board](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/) ([comments](https://lobste.rs/s/td6ssk/analysing_2048_on_3x3_board))
-- [Introducing CUDA Rust: Two Tracks for Writing GPU Kernels](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/) ([comments](https://lobste.rs/s/mlqqpn/introducing_cuda_rust_two_tracks_for))
-- [Planet Labs' open satellite feed](https://tech.marksblogg.com/planet-labs-open-satellite-feed.html) ([comments](https://news.ycombinator.com/item?id=49628454))
+## Science & Innovations
+- [Scientists Turn Eggshells into Next-Generation Spacecraft Protection](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss))
 - [We accidentally built a synthetic cell factory](https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory) ([comments](https://news.ycombinator.com/item?id=49628290))
-- [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe) ([comments](https://news.ycombinator.com/item?id=49629886))
-- [Rivian's gambit for full autonomy](https://spectrum.ieee.org/rivian-self-driving) ([comments](https://news.ycombinator.com/item?id=49615245))
+
+## Privacy & Security
+- [LG Smart TVs Caught Mapping Your Network, Logging Audio With Screen Off](https://soylentnews.org/article.pl?sid=26/09/09/0148255&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/09/0148255&from=rss))
+- [Microsoft Breaks Another Patch Tuesday Record](https://it.slashdot.org/story/26/09/09/0626256/microsoft-breaks-another-patch-tuesday-record?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/26/09/09/0626256/microsoft-breaks-another-patch-tuesday-record?utm_source=rss1.0mainlinkanon&utm_medium=feed))
