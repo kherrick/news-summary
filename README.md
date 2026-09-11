@@ -1,36 +1,59 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI, Power, and Governance
-- [A Severe Misalignment of AI in Mathematics](https://mathandai.org/) ([comments](https://news.ycombinator.com/item?id=49663373))
-- [Altman Considers Slowing Down AI Development](https://slashdot.org/story/26/09/11/1746211/altman-considers-slowing-down-ai-development?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/26/09/11/1746211/altman-considers-slowing-down-ai-development?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Anthropic Says It Blocked Possible Efforts to Build Biological Weapons](https://slashdot.org/story/26/09/10/2138203/anthropic-says-it-blocked-possible-efforts-to-build-biological-weapons?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/26/09/10/2138203/anthropic-says-it-blocked-possible-efforts-to-build-biological-weapons?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [UK Government Rejects 'Kill Switch' Idea For Dangerous AI](https://yro.slashdot.org/story/26/09/11/1652240/uk-government-rejects-kill-switch-idea-for-dangerous-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/09/11/1652240/uk-government-rejects-kill-switch-idea-for-dangerous-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Feeling Sad About AI](https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/) ([comments](https://lobste.rs/s/7guove/feeling_sad_about_ai))
-
-## Privacy, Security, and Infrastructure
-- [An Untrusted Site Can Freeze a Mac Using WebGPU](https://auberon.xyz/blog/posts/deathray/) ([comments](https://lobste.rs/s/l0sqnt/untrusted_site_can_freeze_mac_using))
-- [LG Smart TVs Caught Mapping Your Network, Logging Audio With Screen Off](https://soylentnews.org/article.pl?sid=26/09/09/0148255&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/09/0148255&from=rss))
-- [Healthcare Cyberattacks Hit Pacemakers and Millions of Patient Records](https://soylentnews.org/article.pl?sid=26/09/05/2143237&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/05/2143237&from=rss))
-- [Latest Apple Watch Can Grab Snippets of Conversation Without Both Speakers' Consent](https://apple.slashdot.org/story/26/09/10/2221244/latest-apple-watch-can-grab-snippets-of-conversation-without-both-speakers-consent?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://apple.slashdot.org/story/26/09/10/2221244/latest-apple-watch-can-grab-snippets-of-conversation-without-both-speakers-consent?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [UK Cyber Bill Targets AI Users, Not the Vendors Building It](https://soylentnews.org/article.pl?sid=26/09/06/1214244&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/06/1214244&from=rss))
-
-## Open Source and Systems
-- [GrapheneOS' Rewritten Messages App Is Released](https://github.com/GrapheneOS/Messaging/releases/tag/13) ([comments](https://news.ycombinator.com/item?id=49663373))
+## Artificial Intelligence and Software
+- [A Severe Misalignment of AI in Mathematics](https://mathandai.org/) ([comments](https://news.ycombinator.com/item?id=49662371))
+- [Anthropic Reveals Rogue AI Agents Hate CAPTCHAs](https://tech.slashdot.org/story/26/09/11/0629254/anthropic-reveals-rogue-ai-agents-hate-captchas?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Anthropic Says It Blocked Possible Efforts to Build Biological Weapons](https://slashdot.org/story/26/09/10/2138203/anthropic-says-it-blocked-possible-efforts-to-build-biological-weapons?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Txt: A fast, keyboard-driven terminal text editor for engineers](https://txt.hellman.io/) ([comments](https://news.ycombinator.com/item?id=49664322))
+- [Measuring the sloppiness of code](https://earendil.com/posts/measuring-code-sloppiness/) ([comments](https://news.ycombinator.com/item?id=49658311))
 - [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm) ([comments](https://news.ycombinator.com/item?id=49662767))
-- [Rust Is Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/) ([comments](https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft))
-- [CERN Moves Thousands of Accelerator Control Computers to Debian](https://soylentnews.org/article.pl?sid=26/09/06/1230220&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/06/1230220&from=rss))
-- [JavaScript Installer pnpm Recast in Rust Because ECMAScript Can't Keep Up](https://soylentnews.org/article.pl?sid=26/09/06/172235&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/06/172235&from=rss))
+- [Rust Is Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)
+- [JavaScript Installer pnpm Recast in Rust Because ECMAScript Can't Keep Up](https://soylentnews.org/article.pl?sid=26/09/06/172235&from=rss)
+- [Stop Making Swap Partitions—Use Swap Files Instead](https://gist.github.com/joshenders/c4960cec9c63a7b7d68ffa9543356c43)
+- [What Comes After Git?](https://ersc.io/blog/what-comes-after-git)
 
-## Science, Climate, and Space
-- [Climate 'Feedback Loops' Could Worsen Global Warming by 30%, Study Finds](https://news.slashdot.org/story/26/09/11/0014223/climate-feedback-loops-could-worsen-global-warming-by-30-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/09/11/0014223/climate-feedback-loops-could-worsen-global-warming-by-30-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [August Was World's Joint-Hottest Month on Record, Scientists Say](https://news.slashdot.org/story/26/09/11/060244/august-was-worlds-joint-hottest-month-on-record-scientists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/09/11/060244/august-was-worlds-joint-hottest-month-on-record-scientists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [After Eight Years, Europe's BepiColombo Mission Is on Final Approach to Mercury](https://soylentnews.org/article.pl?sid=26/09/06/0316238&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/06/0316238&from=rss))
-- [AlphaGenome Maps 9B DNA Variants](https://spectrum.ieee.org/alphagenome-atlas) ([comments](https://news.ycombinator.com/item?id=49624717))
-- [Scientists Turn Eggshells into Next-Generation Spacecraft Protection](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss))
+## Security, Privacy, and Digital Power
+- [An Untrusted Site Can Freeze a Mac Using WebGPU](https://auberon.xyz/blog/posts/deathray/)
+- [LG Smart TVs Caught Mapping Your Network and Logging Audio With the Screen Off](https://soylentnews.org/article.pl?sid=26/09/09/0148255&from=rss)
+- [Latest Apple Watch Can Grab Snippets of Conversation Without Both Speakers' Consent](https://apple.slashdot.org/story/26/09/10/2221244/latest-apple-watch-can-grab-snippets-of-conversation-without-both-speakers-consent?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [US Legislators Complain About Secretive British Court and Apple Encryption](https://news.slashdot.org/story/26/09/11/1955213/us-legislators-complain-about-secretive-british-court-and-apple-encryption?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Healthcare Cyberattacks Hit Pacemakers and Millions of Patient Records](https://soylentnews.org/article.pl?sid=26/09/05/2143237&from=rss)
+- [I Spent $220 on Google App Ads and 60% of the Installs Were Robots](https://dayzlegame.com/blog/google-ads-bot-farm/) ([comments](https://news.ycombinator.com/item?id=49662990))
+- [Hugging Face Is Too Important to Fall Into Nvidia's Hands](https://soylentnews.org/article.pl?sid=26/09/10/0318228&from=rss)
+- [Meta's $17 Billion Settlement Is a Bad Deal for Teens and All Social Media Users](https://soylentnews.org/article.pl?sid=26/09/04/039204&from=rss)
+- ["We Have to Assume That the Internet Will Go Offline in the Next Few Years"](https://soylentnews.org/article.pl?sid=26/09/05/0356203&from=rss)
 
-## Markets, Policy, and Culture
-- [Google Will Buy Half the Electricity from One of Finland's Nuclear Power Plants](https://www.bbc.com/news/articles/c8r6y4me2g6o) ([comments](https://news.ycombinator.com/item?id=49652105))
-- [China's EUV Technology 'At a Similar Stage to ASML in 2004,' Analyst Claims](https://soylentnews.org/article.pl?sid=26/09/02/1914259&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/02/1914259&from=rss))
-- [Is Russia's Rival to Starlink Failing? Here's What We Know](https://soylentnews.org/article.pl?sid=26/09/02/1921237&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/02/1921237&from=rss))
-- [Meta's $17 Billion Settlement Is a Bad Deal for Teens and All Social Media Users](https://soylentnews.org/article.pl?sid=26/09/04/039204&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/04/039204&from=rss))
-- [Microsoft Will Stop Finishing Your Sentences in Word and Outlook](https://soylentnews.org/article.pl?sid=26/09/09/1414256&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/09/1414256&from=rss))
+## Space and Science
+- [After Eight Years, Europe's BepiColombo Mission Is on Final Approach to Mercury](https://soylentnews.org/article.pl?sid=26/09/06/0316238&from=rss)
+- [NASA's Swift Shortens Its Orbital Lifetime for the Sake of Science](https://soylentnews.org/article.pl?sid=26/09/03/1228231&from=rss)
+- [Without New Landers or Rovers, It's Helicopters or Bust for NASA's Mars Program](https://soylentnews.org/article.pl?sid=26/09/02/1918230&from=rss)
+- [Scientists Turn Eggshells into Next-Generation Spacecraft Protection](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss)
+- [AlphaGenome Maps 9 Billion DNA Variants](https://spectrum.ieee.org/alphagenome-atlas) ([comments](https://news.ycombinator.com/item?id=49624717))
+- [Genome Duplication Is a Radical Evolutionary Gamble](https://soylentnews.org/article.pl?sid=26/09/10/0214210&from=rss)
+- [Mind-Altering Drugs Played a Key Role in the Rise of Andean Civilization](https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization)
+- [Medieval Manuscripts Are Biological Time Capsules for Deadly Sheeppox Virus](https://soylentnews.org/article.pl?sid=26/09/06/1717224&from=rss)
+- [Copper-Lined Vest Helps Injured Penguins Recover](https://apnews.com/article/chile-el-nino-humboldt-penguins-vulnerable-injuries-rehabilitation-6e93b8d4eaef903e4c85d16ade7d5881) ([comments](https://news.ycombinator.com/item?id=49613507))
+- [Global Glacier Extinction Explorer](https://glacierextinction.com) ([comments](https://news.ycombinator.com/item?id=49660576))
+- [August Was the World's Joint-Hottest Month on Record, Scientists Say](https://news.slashdot.org/story/26/09/11/060244/august-was-worlds-joint-hottest-month-on-record-scientists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
+## Tools, Computing, and Culture
+- [Snap—An Inviting Programming Language for Kids and Adults to Study CS](https://snap.berkeley.edu/) ([comments](https://news.ycombinator.com/item?id=49662214))
+- [evergarden](https://evergarden.moe/)
+- [From Front Panel to Program: Thinking Like a PDP-8](https://pikuma.com/blog/pdp-8-minicomputer)
+- [New World Projection](https://soylentnews.org/article.pl?sid=26/09/05/232226&from=rss)
+- [Commodore 64 Released September 1, 1982](https://soylentnews.org/article.pl?sid=26/09/04/0310255&from=rss)
+- [GrapheneOS' Rewritten Messages App Is Released](https://github.com/GrapheneOS/Messaging/releases/tag/13) ([comments](https://news.ycombinator.com/item?id=49663373))
+- [CERN Moves Thousands of Accelerator Control Computers to Debian](https://soylentnews.org/article.pl?sid=26/09/06/1230220&from=rss)
+- [Europe May Finally Have Found a Space Entrepreneur Who Is Meeting the Moment](https://soylentnews.org/article.pl?sid=26/09/10/1116231&from=rss)
+
+## Society and Policy
+- [CIA Releases President's Daily Briefs in Commemoration of 9/11](https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/) ([comments](https://news.ycombinator.com/item?id=49663054))
+- [UK Government Rejects 'Kill Switch' Idea for Dangerous AI](https://yro.slashdot.org/story/26/09/11/1652240/uk-government-rejects-kill-switch-idea-for-dangerous-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [California Governor Signs Laws Protecting Kids From Risks of Social Media and AI Chatbots](https://yro.slashdot.org/story/26/09/11/0615224/california-governor-signs-laws-protecting-kids-from-risks-of-social-media-ai-chatbots?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [G20 Ministers Adopt 'Carolina Principles' for Emerging Technologies](https://soylentnews.org/article.pl?sid=26/09/05/1218207&from=rss)
+- [UK Cyber Bill Targets AI Users, Not the Vendors Building It](https://soylentnews.org/article.pl?sid=26/09/06/1214244&from=rss)
+- [Anil Dash on How Venture Capitalism Has Morphed Into Cancer Capitalism](https://soylentnews.org/article.pl?sid=26/09/05/231232&from=rss)
+- [Microsoft Will Stop Finishing Your Sentences in Word and Outlook](https://soylentnews.org/article.pl?sid=26/09/09/1414256&from=rss)
+- [Automattic's Board Forces CEO Matt Mullenweg Into Leave of Absence](https://slashdot.org/story/26/09/10/1649254/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [OpenAI Targets the Work of Wall Street Junior Bankers](https://news.slashdot.org/story/26/09/10/191248/openai-targets-work-of-wall-street-junior-bankers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [IMDb Adds 'Digital Creator' Profiles for the First Time](https://tech.slashdot.org/story/26/09/10/1750233/imdb-adds-digital-creator-profiles-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed)
