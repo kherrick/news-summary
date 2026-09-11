@@ -1,34 +1,56 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI & Machine Learning
-- [Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850)
+## AI’s Capabilities, Costs, and Accountability
+- [California Governor Signs Laws Protecting Kids From Risks of Social Media, AI Chatbots](https://yro.slashdot.org/story/26/09/11/0615224/california-governor-signs-laws-protecting-kids-from-risks-of-social-media-ai-chatbots?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Moonshot serves Claude instead of Kimi and collects exchanges for model training](https://twitter.com/DavidAgranovich/status/2098168522862215449) ([comments](https://news.ycombinator.com/item?id=49656698))
 - [The Waymo effect: how AI is quietly making research less collaborative](https://www.researchagenda.news/articles/the-waymo-effect.html) ([comments](https://news.ycombinator.com/item?id=49656496))
 - [Anthropic Says It Blocked Possible Efforts to Build Biological Weapons](https://slashdot.org/story/26/09/10/2138203/anthropic-says-it-blocked-possible-efforts-to-build-biological-weapons?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2) ([comments](https://news.ycombinator.com/item?id=49645443))
+- [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) ([comments](https://news.ycombinator.com/item?id=49639408))
+- [Claude is no longer available for minors](https://support.claude.com/en/articles/15171100-age-assurance-on-claude) ([comments](https://news.ycombinator.com/item?id=49656225))
+- [Models Don't Go Rogue](https://mail.cyberneticforests.com/models-dont-go-rogue/) ([comments](https://lobste.rs/s/0i492m/models_don_t_go_rogue))
+- [Debian Votes To Let Contributors Code With AI](https://soylentnews.org/article.pl?sid=26/09/01/0255250&from=rss)
 
-## Programming & Development
-- [Soft-deprecating re.match()](https://hugovk.dev/blog/2026/soft-deprecating-re.match/) ([comments](https://lobste.rs/s/u7dr96/soft_deprecating_re_match))
-- [Reverse engineering an ASIC](https://kjartanvandriel.github.io/asic/) ([comments](https://lobste.rs/s/5nmyv0/reverse_engineering_asic))
-- [What comes after git](https://ersc.io/blog/what-comes-after-git) ([comments](https://lobste.rs/s/ez6ivp/what_comes_after_git))
+## Security, Privacy, and Digital Safety
+- [The Deathray: A simple way for an untrusted site to freeze a Mac](https://auberon.xyz/blog/posts/deathray/) ([comments](https://news.ycombinator.com/item?id=49649124))
+- [LG Smart TVs Caught Mapping Your Network, Logging Audio With Screen Off](https://soylentnews.org/article.pl?sid=26/09/09/0148255&from=rss)
+- [Latest Apple Watch Can Grab Snippets of Conversation Without Both Speakers' Consent](https://apple.slashdot.org/story/26/09/10/2221244/latest-apple-watch-can-grab-snippets-of-conversation-without-both-speakers-consent?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Healthcare Cyberattacks Hit Pacemakers And Millions Of Patient Records](https://soylentnews.org/article.pl?sid=26/09/05/2143237&from=rss)
+- [FBI Investigating 153 Million US And Canadian Driver’s Licenses Leaked On Russian Cybercrime Forum](https://soylentnews.org/article.pl?sid=26/09/02/1910231&from=rss)
 - [Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)](https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md) ([comments](https://lobste.rs/s/b3cqyr/forgejo_16_0_4_has_critical_security_bug))
-- [Rust Is Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/) ([comments](https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft))
+- [How CHERIoT Provides Strong and Usable Isolation Without an MMU](https://queue.acm.org/doi/10.1145/3831361) ([comments](https://lobste.rs/s/gtvx0w/how_cheriot_provides_strong_usable))
+- [A rant about phishing: It's not the user's fault (and not DNS either)](https://maurycyz.com/misc/domains/) ([comments](https://lobste.rs/s/9szn91/rant_about_phishing_it_s_not_user_s_fault))
 
-## Science & Space
-- [Cherenkov Radiation - traveling faster than light](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation) ([comments](https://news.ycombinator.com/item?id=49655286))
+## Software and Systems Engineering
+- [What comes after git](https://ersc.io/blog/what-comes-after-git) ([comments](https://lobste.rs/s/ez6ivp/what_comes_after_git))
+- [Neki – Sharded Postgres](https://planetscale.com/blog/introducing-neki) ([comments](https://news.ycombinator.com/item?id=49645686))
+- [JEP 544: Ahead-of-Time Code Compilation](https://openjdk.org/jeps/544) ([comments](https://lobste.rs/s/whzj8z/jep_544_ahead_time_code_compilation))
+- [RISC-V Emulator and Linux System from Scratch](https://github.com/WerWolv/riscv-emulator) ([comments](https://news.ycombinator.com/item?id=49603397))
+- [CERN Moves Thousands of Accelerator Control Computers to Debian](https://soylentnews.org/article.pl?sid=26/09/06/1230220&from=rss)
+- [JavaScript Installer Pnpm Recast In Rust Because ECMAScript Can't Keep Up](https://soylentnews.org/article.pl?sid=26/09/06/172235&from=rss)
+- [Review a pull request by booting it](https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it) ([comments](https://lobste.rs/s/7lii0g/review_pull_request_by_booting_it))
+- [Native is now the future of mobile at Shopify (2026)](https://shopify.engineering/back-to-native) ([comments](https://lobste.rs/s/l3enhd/native_is_now_future_mobile_at_shopify))
+- [An interactive tour of the spanning tree protocol](https://vincent.bernat.ch/en/blog/2026-spanning-tree) ([comments](https://news.ycombinator.com/item?id=49610596))
+
+## Science, Space, and Climate
 - [August Was World's Joint-Hottest Month On Record, Scientists Say](https://news.slashdot.org/story/26/09/11/060244/august-was-worlds-joint-hottest-month-on-record-scientists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Climate 'Feedback Loops' Could Worsen Global Warming By 30%, Study Finds](https://news.slashdot.org/story/26/09/11/0014223/climate-feedback-loops-could-worsen-global-warming-by-30-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Dark Energy Debunked? Cosmic Acceleration May Be an Illusion](https://science.slashdot.org/story/26/09/10/0230225/dark-energy-debunked-cosmic-acceleration-may-be-an-illusion?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [After 8 Years, Europe's BepiColombo Mission is on Final Approach to Mercury](https://soylentnews.org/article.pl?sid=26/09/06/0316238&from=rss)
+- [Medieval Manuscripts Are "Biological Time Capsules" For Deadly Sheeppox Virus](https://soylentnews.org/article.pl?sid=26/09/06/1717224&from=rss)
 - [Scientists Turn Eggshells into Next-Generation Spacecraft Protection](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss)
+- [After 8 Years, Europe's BepiColombo Mission is on Final Approach to Mercury](https://soylentnews.org/article.pl?sid=26/09/06/0316238&from=rss)
+- [Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)](https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images) ([comments](https://news.ycombinator.com/item?id=49645437))
+- [Cherenkov Radiation - traveling faster than light](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation) ([comments](https://news.ycombinator.com/item?id=49655286))
+- [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/) ([comments](https://news.ycombinator.com/item?id=49652237))
+- [A Matter of Millimeters: The story of Qantas Flight 32](https://soylentnews.org/article.pl?sid=26/09/02/0016226&from=rss)
+- [NASA's Swift Shortens Orbital Lifetime for the Sake of Science](https://soylentnews.org/article.pl?sid=26/09/03/1228231&from=rss)
 
-## Tech & Internet
-- [Hugging Face is Too Important to Fall Into Nvidia's Hands](https://soylentnews.org/article.pl?sid=26/09/10/0318228&from=rss)
-- [An untrusted site can freeze a Mac using WebGPU](https://auberon.xyz/blog/posts/deathray/) ([comments](https://lobste.rs/s/l0sqnt/untrusted_site_can_freeze_mac_using))
-- [Android Rolling Out Passkey Transfers Between Password Managers](https://yro.slashdot.org/story/26/09/10/1922227/android-rolling-out-passkey-transfers-between-password-managers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Google to Invest Record $15 Billion In AI Infrastructure In Finland](https://hardware.slashdot.org/story/26/09/09/2151202/google-to-invest-record-15-billion-in-ai-infrastructure-in-finland?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-
-## Culture & Society
-- [Remember Hong Kong](https://www.thenextmove.org/p/remember-hong-kong) ([comments](https://news.ycombinator.com/item?id=49657361))
-- [Neijuan](https://en.wikipedia.org/wiki/Neijuan) ([comments](https://news.ycombinator.com/item?id=49655176))
-- [CSS Curiosities of the Past](https://vale.rocks/posts/css-relics) ([comments](https://news.ycombinator.com/item?id=49654962))
+## Society, Culture, and the Open Web
+- [Remember Hong Kong](https://www.thenextmove.org/p/remember-hong-kong)
+- [ABC Show Won't Air Interview With Democrat Because of FCC Threats](https://yro.slashdot.org/story/26/09/10/1914225/abc-show-wont-air-interview-with-democrat-because-of-fcc-threats?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [In Memoriam: 9/11 - 25 Years](https://soylentnews.org/article.pl?sid=26/09/11/0834258&from=rss)
 - [Making Social Media Social](https://tante.cc/2026/09/10/making-social-media-social/) ([comments](https://lobste.rs/s/39c9xe/making_social_media_social))
+- [Neijuan](https://en.wikipedia.org/wiki/Neijuan) ([comments](https://news.ycombinator.com/item?id=49655176))
+- [Autistici/Inventati (A/I) Ceases Operations After 25 Years](https://soylentnews.org/article.pl?sid=26/09/09/0150228&from=rss)
+- [Ecosia Just Launched a Linux Browser to Help Europe Battle Big Tech](https://soylentnews.org/article.pl?sid=26/09/06/0321214&from=rss)
+- [Rare, Working Apple I Computer Heads To Auction](https://soylentnews.org/article.pl?sid=26/09/02/195251&from=rss)
+- [Anil Dash on How Venture Capitalism Has Morphed Into Cancer Capitalism](https://soylentnews.org/article.pl?sid=26/09/05/231232&from=rss)
