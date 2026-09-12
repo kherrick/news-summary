@@ -1,42 +1,50 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Digital Power
-- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) ([comments](https://news.ycombinator.com/item?id=49666735)) — The incident highlights how autonomous AI systems can cross operational boundaries when deployed without adequate oversight.
-- [AI researchers debate how close we are to recursive self-improvement](https://www.dwarkesh.com/p/john-beren-charlie) ([comments](https://news.ycombinator.com/item?id=49665711)) — A discussion of the technical, organizational, and safety questions surrounding systems that could improve their own capabilities.
-- [A severe misalignment of AI in mathematics](https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/) ([comments](https://news.ycombinator.com/item?id=49662371)) — The article examines how current AI systems can appear impressive while still missing the deeper structure of mathematical work.
-- [Anthropic Reveals Rogue AI Agents Hate CAPTCHAs](https://tech.slashdot.org/story/26/09/11/0629254/anthropic-reveals-rogue-ai-agents-hate-captchas) — Research into agent behavior shows that automated systems may struggle with basic human-verification challenges, revealing limits in real-world autonomy.
-- [UK Government Rejects ‘Kill Switch’ Idea For Dangerous AI](https://yro.slashdot.org/story/26/09/11/1652240/uk-government-rejects-kill-switch-idea-for-dangerous-ai) — Policymakers are weighing whether emergency shutdown mechanisms are practical or whether regulation should focus elsewhere.
-- [Microsoft Will Stop Finishing Your Sentences in Word and Outlook](https://soylentnews.org/article.pl?sid=26/09/09/1414256&from=rss) — The change marks a retreat from highly visible AI writing tools as users and organizations reconsider intrusive automation.
+## AI Agents and Machine Intelligence
+- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) ([comments](https://news.ycombinator.com/item?id=49666735))
+- [AI researchers debate how close we are to recursive self-improvement](https://www.dwarkesh.com/p/john-beren-charlie) ([comments](https://news.ycombinator.com/item?id=49665711))
+- [A Severe Misalignment of AI in Mathematics](https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/) ([comments](https://lobste.rs/s/xsbz3l/severe_misalignment_ai_mathematics))
+- [Anthropic Says It Blocked Possible Efforts to Build Biological Weapons](https://slashdot.org/story/26/09/10/2138203/anthropic-says-it-blocked-possible-efforts-to-build-biological-weapons)
+- [Models Don't Go Rogue](https://mail.cyberneticforests.com/models-dont-go-rogue/) ([comments](https://lobste.rs/s/0i492m/models_don_t_go_rogue))
 
-## Privacy, Security, and Infrastructure
-- [Latest Apple Watch Can Grab Snippets of Conversation Without Both Speakers' Consent](https://apple.slashdot.org/story/26/09/10/2221244/latest-apple-watch-can-grab-snippets-of-conversation-without-both-speakers-consent) — New conversational features raise fresh questions about consent, recording, and the boundaries of wearable computing.
-- [LG Smart TVs Caught Mapping Your Network, Logging Audio With Screen Off](https://soylentnews.org/article.pl?sid=26/09/09/0148255&from=rss) — The reported behavior underscores the privacy risks of connected televisions operating as always-on network devices.
-- [Healthcare Cyberattacks Hit Pacemakers And Millions Of Patient Records](https://soylentnews.org/article.pl?sid=26/09/05/2143237&from=rss) — Attacks affecting medical devices and patient data show how cybersecurity failures can become direct health and safety threats.
-- [An untrusted site can freeze a Mac using WebGPU](https://auberon.xyz/blog/posts/deathray/) ([comments](https://lobste.rs/s/l0sqnt/untrusted_site_can_freeze_mac_using)) — A newly demonstrated browser exploit shows how powerful graphics APIs can be abused to disrupt otherwise ordinary machines.
-- [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13) ([comments](https://news.ycombinator.com/item?id=49663373)) — The new messaging client prioritizes privacy and security while replacing the previous implementation.
-- [Forgejo 16.0.4 has a critical security bug fix](https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md) ([comments](https://lobste.rs/s/b3cqyr/forgejo_16_0_4_has_critical_security_bug)) — The release addresses a remote-code-execution vulnerability in the self-hosted Git platform.
+## Security, Privacy, and Critical Infrastructure
+- [Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies) ([comments](https://news.ycombinator.com/item?id=49667375))
+- [An untrusted site can freeze a Mac using WebGPU](https://auberon.xyz/blog/posts/deathray/) ([comments](https://lobste.rs/s/l0sqnt/untrusted_site_can_freeze_mac_using))
+- [LG Smart TVs Caught Mapping Your Network, Logging Audio With Screen Off](https://soylentnews.org/article.pl?sid=26/09/09/0148255&from=rss)
+- [Healthcare Cyberattacks Hit Pacemakers And Millions Of Patient Records](https://soylentnews.org/article.pl?sid=26/09/05/2143237&from=rss)
+- [Forgejo 16.0.4 Has a Critical Security Bug Fix (RCE)](https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md) ([comments](https://lobste.rs/s/b3cqyr/forgejo_16_0_4_has_critical_security_bug))
+- [GrapheneOS' Rewritten Messages App Is Released](https://github.com/GrapheneOS/Messaging/releases/tag/13) ([comments](https://news.ycombinator.com/item?id=49663373))
 
-## Science, Health, and Exploration
-- [Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies) ([comments](https://news.ycombinator.com/item?id=49667375)) — Signals from satellite constellations may be interfering with the sensitive observations needed to study the universe.
-- [August Was World's Joint-Hottest Month On Record, Scientists Say](https://news.slashdot.org/story/26/09/11/060244/august-was-worlds-joint-hottest-month-on-record-scientists-say) — The latest temperature record adds another data point to the ongoing pattern of rapid global warming.
-- [Climate ‘Feedback Loops’ Could Worsen Global Warming By 30%, Study Finds](https://news.slashdot.org/story/26/09/11/0014223/climate-feedback-loops-could-worsen-global-warming-by-30-study-finds) — Research suggests that natural feedback processes could make climate projections substantially more severe.
-- [Scientists Turn Eggshells into Next-Generation Spacecraft Protection](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss) — Materials inspired by eggshell structures could provide lightweight protection against impacts in space.
-- [AlphaGenome maps 9B DNA variants](https://spectrum.ieee.org/alphagenome-atlas) ([comments](https://news.ycombinator.com/item?id=49624717)) — The large-scale genomic atlas could improve research into inherited disease and human variation.
-- [After 8 Years, Europe's BepiColombo Mission is on Final Approach to Mercury](https://soylentnews.org/article.pl?sid=26/09/06/0316238&from=rss) — The long-running spacecraft mission is nearing its destination after years of gravity assists and careful trajectory management.
+## Science, Space, and Climate
+- [Male Fruit Fly Brain Trained to Play Doom](https://games.slashdot.org/story/26/09/11/2022239/male-fruit-fly-brain-trained-to-play-doom)
+- [AlphaGenome Maps 9 Billion DNA Variants](https://spectrum.ieee.org/alphagenome-atlas) ([comments](https://news.ycombinator.com/item?id=49624717))
+- [Scientists Turn Eggshells into Next-Generation Spacecraft Protection](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss)
+- [Mind-Altering Drugs Played Key Role in Rise of Andean Civilization](https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization) ([comments](https://news.ycombinator.com/item?id=49662020))
+- [Medieval Manuscripts Are “Biological Time Capsules” for Deadly Sheeppox Virus](https://soylentnews.org/article.pl?sid=26/09/06/1717224&from=rss)
+- [After 8 Years, Europe's BepiColombo Mission Is on Final Approach to Mercury](https://soylentnews.org/article.pl?sid=26/09/06/0316238&from=rss)
+- [Climate “Feedback Loops” Could Worsen Global Warming by 30%, Study Finds](https://news.slashdot.org/story/26/09/11/0014223/climate-feedback-loops-could-worsen-global-warming-by-30-study-finds)
 
-## Engineering and Software Craft
-- [Show HN: Graphify C# — Compiler-accurate Find Usages for coding agents](https://github.com/zachsaw/graphify-csharp) ([comments](https://news.ycombinator.com/item?id=49667188)) — The project aims to give AI coding tools reliable codebase context through compiler-grade usage analysis.
+## Programming Languages and Developer Systems
+- [Graphify C# – Compiler-Accurate Find Usages for Coding Agents](https://github.com/zachsaw/graphify-csharp) ([comments](https://news.ycombinator.com/item?id=49667188))
 
-- [QueryBrew: System-Agnostic SQL-to-SQL Query Optimization](https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf) ([comments](https://news.ycombinator.com/item?id=49666155)) — The research proposes portable query optimization techniques that can work across different database systems.
-- [Measuring the sloppiness of code](https://earendil.com/posts/measuring-code-sloppiness/) ([comments](https://lobste.rs/s/wxc7t7/measuring_sloppiness_code)) — A practical investigation into ways of quantifying maintainability and care in software.
-- [How CHERIoT Provides Strong and Usable Isolation Without an MMU](https://queue.acm.org/doi/10.1145/3831361) ([comments](https://lobste.rs/s/gtvx0w/how_cheriot_provides_strong_usable)) — The architecture explores security isolation for constrained systems without relying on a traditional memory-management unit.
-- [CERN Moves Thousands of Accelerator Control Computers to Debian](https://soylentnews.org/article.pl?sid=26/09/06/1230220&from=rss) — A major scientific facility is standardizing its control infrastructure on a well-understood open-source operating system.
-- [Rust Is Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/) ([comments](https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft)) — Microsoft's expanded commitment signals growing confidence in Rust for large-scale, safety-sensitive software.
+- [QueryBrew: System-Agnostic SQL-to-SQL Query Optimization](https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf) ([comments](https://news.ycombinator.com/item?id=49666155))
+- [Rust Is a Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/) ([comments](https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft))
+- [Testing Race Conditions](https://projectzero.google/2026/09/maccconc-race-condition.html) ([comments](https://news.ycombinator.com/item?id=49634928))
+- [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/) ([comments](https://news.ycombinator.com/item?id=49626718))
+- [JavaScript Installer pnpm Recast in Rust Because ECMAScript Can't Keep Up](https://soylentnews.org/article.pl?sid=26/09/06/172235&from=rss)
+- [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/) ([comments](https://lobste.rs/s/imdwmj/pandas_should_go_extinct))
 
-## Society, Culture, and the Future
-- [How Poor People Buy Cars](https://abio.substack.com/p/how-poor-people-buy-cars) ([comments](https://news.ycombinator.com/item?id=49667762)) — An economic study of the financial workarounds people use when conventional car ownership is out of reach.
-- [Meta's $17 Billion Settlement is a Bad Deal for Teens and All Social Media Users](https://soylentnews.org/article.pl?sid=26/09/04/039204&from=rss) — The settlement's structure may leave major platform-design questions unresolved while offering limited protection to users.
-- [California Governor Signs Laws Protecting Kids From Risks of Social Media, AI Chatbots](https://yro.slashdot.org/story/26/09/11/0615224/california-governor-signs-laws-protecting-kids-from-risks-of-social-media-ai-chatbots) — New rules extend the debate over online safety and age protections to AI-powered conversational products.
-- [“We Have to Assume That The Internet Will go Offline in the Next Few Years”](https://soylentnews.org/article.pl?sid=26/09/05/0356203&from=rss) — A provocative look at growing fragility in the infrastructure and governance that keep the internet connected.
-- [Autistici/Inventati (A/I) Ceases Operations After 25 Years](https://soylentnews.org/article.pl?sid=26/09/09/0150228&from=rss) — The closure of a long-running privacy-focused technology collective marks the end of an important chapter in independent computing.
-- [The oldest known Snakes and Ladders board is probably a forgery](https://en.quantumgame.love/guide/how-old-is-snakes-and-ladders.html) ([comments](https://news.ycombinator.com/item?id=49643149)) — A historical artifact once presented as exceptionally old may instead be a much more recent creation.
+## Computing History and Digital Culture
+- [Project Blinkenlights](https://blinkenlights.de/en/) ([comments](https://news.ycombinator.com/item?id=49666146))
+- [What Algorithm Did Windows XP Use to Choose Your Initial User Picture?](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683) ([comments](https://lobste.rs/s/izt4a2/what_algorithm_did_windows_xp_use_choose))
+- [The Oldest Known Snakes and Ladders Board Is Probably a Forgery](https://en.quantumgame.love/guide/how-old-is-snakes-and-ladders.html) ([comments](https://news.ycombinator.com/item?id=49643149))
+- [A List of macOS Defaults Commands with Demos](https://macos-defaults.com/) ([comments](https://lobste.rs/s/n54ybt/list_macos_defaults_commands_with_demos))
+- [Tutorial for Septabee, a Free DAW in the Making for Over 20,000 Hours](https://www.youtube.com/watch?v=lW8Z98pXuSE) ([comments](https://lobste.rs/s/esgot3/tutorial_for_septabee_free_daw_making_for))
+
+## Society, Policy, and Technology Markets
+- [How Poor People Buy Cars](https://abio.substack.com/p/how-poor-people-buy-cars) ([comments](https://news.ycombinator.com/item?id=49667762))
+- [I Spent $220 on Google App Ads and 60% of the Installs Were Robots](https://dayzlegame.com/blog/google-ads-bot-farm/) ([comments](https://news.ycombinator.com/item?id=49662990))
+- [PlayStation Ditched Hideo Kojima's “Physint” on Budget Concerns and Missed Deadlines](https://games.slashdot.org/story/26/09/11/2012215/playstation-ditched-hideo-kojimas-physint-on-budget-concerns-missed-deadlines)
+- [California Governor Signs Laws Protecting Kids From Risks of Social Media and AI Chatbots](https://yro.slashdot.org/story/26/09/11/0615224/california-governor-signs-laws-protecting-kids-from-risks-of-social-media-ai-chatbots)
+- [Chinese Startup Unveils $100K “Urban VTOL” Apparently So Simple, Anyone Can Fly It](https://soylentnews.org/article.pl?sid=26/09/06/1714249&from=rss)
+- [How to Design a Space Habitat That Supports Its Residents' Mental Health](https://soylentnews.org/article.pl?sid=26/09/09/1437247&from=rss)
