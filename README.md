@@ -1,50 +1,40 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI Agents, Models, and the Economics of Compute
-- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) ([comments](https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed))
-- [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe) ([comments](https://news.ycombinator.com/item?id=49676820))
-- [NASA and IBM Unveil an Open Source Lunar AI Model](https://soylentnews.org/article.pl?sid=26/09/11/1717228&from=rss)
-- [Useful Things Agents Can Do That Are Not Writing Code](https://elijahpotter.dev/articles/useful_things_agents_can_do_that_are_not_writing_code) ([comments](https://lobste.rs/s/ub8q3s/useful_things_agents_can_do_are_not))
+## AI Capabilities, Safety, and Concentration
+- [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating) ([comments](https://news.ycombinator.com/item?id=49678969))
 - [A Severe Misalignment of AI in Mathematics](https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/) ([comments](https://lobste.rs/s/xsbz3l/severe_misalignment_ai_mathematics))
-- [Nvidia Is the Central Bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) ([comments](https://news.ycombinator.com/item?id=49673098))
-- [OpenAI's Sam Altman Says an IPO in 2026 Would Be Ill-Advised](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/) ([comments](https://news.ycombinator.com/item?id=49676849))
-- [Anthropic Reveals Rogue AI Agents Hate CAPTCHAs](https://tech.slashdot.org/story/26/09/11/0629254/anthropic-reveals-rogue-ai-agents-hate-captchas?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) ([comments](https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed))
+- [Real-SWE: Benchmarking AI models on private, real-world enterprise codebases](https://withspecific.com/benchmarks/real-swe) ([comments](https://news.ycombinator.com/item?id=49676820))
+- [NASA and IBM Unveil an Open Source Lunar AI Model](https://soylentnews.org/article.pl?sid=26/09/11/1717228&from=rss)
+- [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) ([comments](https://news.ycombinator.com/item?id=49673098))
 
-## Security, Privacy, and Platform Power
-- [Linux Zoom Client Proactively Reads X11 Clipboard](https://hachyderm.io/@simontatham/117201594980991062) ([comments](https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11))
-- [LG Smart TVs Caught Mapping Your Network and Logging Audio With the Screen Off](https://soylentnews.org/article.pl?sid=26/09/09/0148255&from=rss)
-- [Android NAT-T Keepalive Offload Bypasses VPN Lockdown](https://supuk.ch/papers/android-natt-keepalive-vpn-bypass) ([comments](https://news.ycombinator.com/item?id=49665502))
-- [US Legislators Complain About a Secretive British Court and Apple Encryption](https://news.slashdot.org/story/26/09/11/1955213/us-legislators-complain-about-secretive-british-court-and-apple-encryption?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [The gpg.fail Aftermath: Responsible Disclosure, GPG, and Security in 2026](https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026) ([comments](https://lobste.rs/s/fcttpk/gpg_fail_aftermath_on_responsible))
-- [Healthcare Cyberattacks Hit Pacemakers and Millions of Patient Records](https://soylentnews.org/article.pl?sid=26/09/05/2143237&from=rss)
-- [How Trail of Bits Helps Verify the Integrity of Signal Chats](https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/) ([comments](https://news.ycombinator.com/item?id=49671237))
-- [EFF Asks California Governor to Veto Online Age Verification Bill](https://soylentnews.org/article.pl?sid=26/09/08/0326206&from=rss)
+## Security and Privacy Under Scrutiny
+- [Android NAT-T keepalive offload bypasses VPN lockdown](https://supuk.ch/papers/android-natt-keepalive-vpn-bypass) ([comments](https://news.ycombinator.com/item?id=49665502))
+- [Linux Zoom client proactively reading everything written to the X11 clipboard](https://hachyderm.io/@simontatham/117201594980991062) ([comments](https://news.ycombinator.com/item?id=49675902))
+- [LG Smart TVs caught mapping networks and logging audio with the screen off](https://soylentnews.org/article.pl?sid=26/09/09/0148255&from=rss)
+- [How Trail of Bits helps verify the integrity of Signal chats](https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/) ([comments](https://lobste.rs/s/zjklvq/how_trail_bits_helps_verify_integrity))
+- [Healthcare cyberattacks hit pacemakers and millions of patient records](https://soylentnews.org/article.pl?sid=26/09/05/2143237&from=rss)
+- [The gpg.fail aftermath: Responsible disclosure, GPG, and security in 2026](https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026) ([comments](https://lobste.rs/s/fcttpk/gpg_fail_aftermath_on_responsible))
 
-## Reverse Engineering and Developer Craft
-- [Microcode in Intel's 8087 Floating-Point Chip: The Scale Instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html) ([comments](https://lobste.rs/s/6xdgjr/microcode_intel_s_8087_floating_point))
-- [Optimizing a Single Rust Clippy Lint by 3133X](https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/) ([comments](https://lobste.rs/s/jtmyg2/optimizing_single_rust_clippy_lint_by))
-- [Getting 50 GB/s Back from the Apple Neural Engine](https://eiln.github.io/posts/ane-dma.html) ([comments](https://news.ycombinator.com/item?id=49636479))
-- [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/) ([comments](https://news.ycombinator.com/item?id=49626718))
-- [Stabilizing Rust's Never Type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/) ([comments](https://news.ycombinator.com/item?id=49625056))
-- [Performance of WebAssembly Runtimes in 2026](https://00f.net/2026/06/23/webassembly-runtimes-2026/) ([comments](https://news.ycombinator.com/item?id=49623933))
-- [CERN Moves Thousands of Accelerator Control Computers to Debian](https://soylentnews.org/article.pl?sid=26/09/06/1230220&from=rss)
-- [Managing Complex Application State with Reactive Data Flows](https://yogthos.net/posts/2026-09-12-reactive-dataflow.html) ([comments](https://lobste.rs/s/co3jkg/managing_complex_application_state_with))
-- [I Made a Build Visualizer to Understand Bun's Compile Times](https://lalitm.com/post/buildprof/) ([comments](https://news.ycombinator.com/item?id=49672842))
+## Computing Systems and History
+- [The Interim Computer Museum](https://icm.museum/) ([comments](https://news.ycombinator.com/item?id=49679459))
+- [Microcode in Intel's 8087 floating-point chip: The scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html) ([comments](https://news.ycombinator.com/item?id=49673580))
+- [From Git to Fossil](https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html) ([comments](https://news.ycombinator.com/item?id=49649864))
+- [Durable execution without history replay](https://trigora.dev/blog/durable-execution-without-history-replay/) ([comments](https://news.ycombinator.com/item?id=49635621))
+- [Metacarp](https://blog.veitheller.de/Metacarp.html) ([comments](https://lobste.rs/s/3nk1lh/metacarp))
+- [CERN moves thousands of accelerator control computers to Debian](https://soylentnews.org/article.pl?sid=26/09/06/1230220&from=rss)
+- [Retired man turns spare room into a Soviet-era supercomputer](https://soylentnews.org/article.pl?sid=26/09/11/1724219&from=rss)
+- [The night my servers went up—physically, in the clouds](https://exquisite.tube/w/nQbc54t4G7YGaqiryZ7mg1) ([comments](https://lobste.rs/s/pbmvov/night_142_my_servers_went_up_clouds))
 
-## Science at Extreme Scales
-- [Scientists Create a New Form of Ice at 2,357 Degrees Celsius](https://science.slashdot.org/story/26/09/11/2249242/scientists-create-a-new-form-of-ice-at-2357-degrees-celsius?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Mercury May Be Shrinking Faster Than Scientists Expected](https://science.slashdot.org/story/26/09/11/2050204/little-mercury-may-be-shrinking-faster-than-scientists-expected?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Male Fruit Fly Brain Trained to Play Doom](https://games.slashdot.org/story/26/09/11/2022239/male-fruit-fly-brain-trained-to-play-doom?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Medieval Manuscripts Are Biological Time Capsules for Deadly Sheeppox Virus](https://soylentnews.org/article.pl?sid=26/09/06/1717224&from=rss)
-- [Scientists Turn Eggshells into Next-Generation Spacecraft Protection](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss)
-- [Genome Duplication Is a Radical Evolutionary Gamble](https://soylentnews.org/article.pl?sid=26/09/10/0214210&from=rss)
-- [After Eight Years, BepiColombo Is on Final Approach to Mercury](https://soylentnews.org/article.pl?sid=26/09/05/232226&from=rss)
-- [Climate Feedback Loops Could Worsen Global Warming by 30%, Study Finds](https://news.slashdot.org/story/26/09/11/0014223/climate-feedback-loops-could-worsen-global-warming-by-30-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Science and Exploration
+- [Scientists create a new form of ice at 2,357 degrees Celsius](https://science.slashdot.org/story/26/09/11/2249242/scientists-create-a-new-form-of-ice-at-2357-degrees-celsius)
+- [After eight years, BepiColombo begins its final approach to Mercury](https://soylentnews.org/article.pl?sid=26/09/06/0316238&from=rss)
+- [Scientists turn eggshells into next-generation spacecraft protection](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss)
+- [Medieval manuscripts are biological time capsules for deadly sheeppox virus](https://soylentnews.org/article.pl?sid=26/09/06/1717224&from=rss)
+- [Male fruit fly brain trained to play Doom](https://games.slashdot.org/story/26/09/11/2022239/male-fruit-fly-brain-trained-to-play-doom)
 
-## Open Tools and Digital Culture
-- [Make Your First Edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) ([comments](https://news.ycombinator.com/item?id=49674050))
-- [I Fixed a Tractor Using John Deere's Self-Repair Service](https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/) ([comments](https://news.ycombinator.com/item?id=49658672))
-- [LibreOffice Breaks Download Records After Declaring It Has No AI Features](https://soylentnews.org/article.pl?sid=26/09/09/0450255&from=rss)
-- [Ecosia Launches a Linux Browser to Help Europe Battle Big Tech](https://soylentnews.org/article.pl?sid=26/09/06/0321214&from=rss)
-- [Autistici/Inventati Ceases Operations After 25 Years](https://soylentnews.org/article.pl?sid=26/09/09/0150228&from=rss)
-- [xkcd-font: The xkcd Font](https://github.com/ipython/xkcd-font) ([comments](https://lobste.rs/s/o6rlho/xkcd_font_xkcd_font))
+## Culture, History, and Shared Maps
+- [A succession crisis that tore England apart](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart) ([comments](https://news.ycombinator.com/item?id=49679637))
+- [Metamorphosis: Transformations in an early modern flap book](https://publicdomainreview.org/collection/metamorphosis-early-modern-flap-book/) ([comments](https://news.ycombinator.com/item?id=49653683))
+- [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) ([comments](https://news.ycombinator.com/item?id=49674050))
+- [xkcd-font: The xkcd font](https://github.com/ipython/xkcd-font) ([comments](https://lobste.rs/s/o6rlho/xkcd_font_xkcd_font))
