@@ -1,36 +1,55 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI & Machine Learning
-- [It's All Fun and Games Until You Give AI Your Credit Card](https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/)
-- [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
-- [Garry Tan wants US open-weight AI labs to 'distill' frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)
+## Artificial Intelligence and Digital Power
+- [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating) ([comments](https://news.ycombinator.com/item?id=49678969))
+- [It's All Fun and Games Until You Give AI Your Credit Card](https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/) ([comments](https://news.ycombinator.com/item?id=49689664))
+- [Garry Tan wants US open-weight AI labs to 'distill' frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/) ([comments](https://news.ycombinator.com/item?id=49685253))
+- [Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace](https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace) ([comments](https://news.ycombinator.com/item?id=49653311))
+- [Hugging Face is Too Important to Fall Into Nvidia's Hands](https://soylentnews.org/article.pl?sid=26/09/10/0318228&from=rss)
+- [UK Cyber Bill Targets AI Users, Not the Vendors Building It](https://soylentnews.org/article.pl?sid=26/09/06/1214244&from=rss)
+- [Anthropic CEO Dario Amodei Calls For AI Slowdown](https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown?utm_source=nss)
 
-## Open Source & Technology
-- [NASA and IBM Open Source Lunar Mapping Tools](https://science.slashdot.org/story/26/09/12/182253/nasa-and-ibm-open-source-lunar-mapping-tools?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Writing a Guix service from scratch, as a beginner](https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html)
-- [Libraries Run Rust Inside Python (With PyO3)](https://belderbos.dev/blog/how-libraries-run-rust-inside-python/)
-- [CUDA for AMD on Windows](https://github.com/Speedstu/CUDA-for-AMD-Windows)
-- [Julia 1.13 highlights](https://julialang.org/blog/2026/09/julia-1.13-highlights/)
-
-## Privacy & Security
-- [Data collected by cars and sold to third parties](https://www.theverge.com/column/994172/your-car-is-selling-your-data)
-- [Can a regex match valid card numbers?](https://abstractnonsense.xyz/blog/2025-08-31-can-a-regex-match-valid-card-numbers/)
-- [Session Context – what a web page knows about you](https://sessioncontext.org)
+## Privacy, Security, and Public Systems
+- [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10) ([comments](https://news.ycombinator.com/item?id=49689048))
+- [Why is privacy so hard?](https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/) ([comments](https://news.ycombinator.com/item?id=49688766))
+- [Session Context — what a web page knows about you](https://sessioncontext.org) ([comments](https://lobste.rs/s/evl6wg/session_context_what_web_page_knows_about))
+- [Watch what you say: Apple opens the door to a nightmare world of always-listening tech](https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/) ([comments](https://lobste.rs/s/yaax1z/watch_what_you_say_apple_opens_door))
+- [LG Smart TVs Caught Mapping Your Network, Logging Audio With Screen Off](https://soylentnews.org/article.pl?sid=26/09/09/0148255&from=rss)
+- [Data collected by cars and sold to third parties](https://www.theverge.com/column/994172/your-car-is-selling-your-data) ([comments](https://news.ycombinator.com/item?id=49683953))
 - [EFF Asks California Governor to Veto Bill That Would Require Online Age Verification](https://soylentnews.org/article.pl?sid=26/09/08/0326206&from=rss)
+- [Healthcare Cyberattacks Hit Pacemakers And Millions Of Patient Records](https://soylentnews.org/article.pl?sid=26/09/05/2143237&from=rss)
 
-## Space & Science
-- [The End of a Solar Telescope](https://soylentnews.org/article.pl?sid=26/09/13/031233&from=rss)
-- [Scientists Create a New Form of Ice At 2,357 Degrees Celsius](https://science.slashdot.org/story/26/09/11/2249242/scientists-create-a-new-form-of-ice-at-2357-degrees-celsius?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Little Mercury May Be Shrinking Faster Than Scientists Expected](https://science.slashdot.org/story/26/09/11/2050204/little-mercury-may-be-shrinking-faster-than-scientists-expected?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Medieval Manuscripts Are "Biological Time Capsules" For Deadly Sheeppox Virus](https://soylentnews.org/article.pl?sid=26/09/06/1717224&from=rss)
+## Open Source, Programming, and Tooling
+- [Writing a Guix service from scratch, as a beginner](https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html) ([comments](https://lobste.rs/s/f4arrs/writing_guix_service_from_scratch_as))
+- [Libraries Run Rust Inside Python (With PyO3)](https://belderbos.dev/blog/how-libraries-run-rust-inside-python/) ([comments](https://news.ycombinator.com/item?id=49685037))
+- [Stabilizing Rust's never type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/) ([comments](https://lobste.rs/s/felv2m/stabilizing_rust_s_never_type))
+- [Homebrew 7.0.0](https://brew.sh/2026/09/13/homebrew-7.0.0/) ([comments](https://lobste.rs/s/vmapye/homebrew_7_0_0))
+- [Julia 1.13 highlights](https://julialang.org/blog/2026/09/julia-1.13-highlights/) ([comments](https://news.ycombinator.com/item?id=49642645))
+- [JavaScript Installer pnpm Recast In Rust Because ECMAScript Can't Keep Up](https://soylentnews.org/article.pl?sid=26/09/06/172235&from=rss)
+- [CERN Moves Thousands of Accelerator Control Computers to Debian](https://soylentnews.org/article.pl?sid=26/09/06/1230220&from=rss)
+- [Reverse engineering my e-scooter and rewriting the firmware in Rust](https://bensimms.moe/reverse-engineering-scooter/) ([comments](https://news.ycombinator.com/item?id=49638071))
+- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) ([comments](https://news.ycombinator.com/item?id=49688695))
+- [Bad Code Is Kudzu](https://vickiboykis.com/2026/09/01/bad-code-is-kudzu/) ([comments](https://news.ycombinator.com/item?id=49643059))
+
+## Space, Science, and Discovery
+- [NASA and IBM Open Source Lunar Mapping Tools](https://science.slashdot.org/story/26/09/12/182253/nasa-and-ibm-open-source-lunar-mapping-tools?utm_source=nss)
+- [NASA And IBM Unveil An Open Source Lunar AI Model](https://soylentnews.org/article.pl?sid=26/09/11/1717228&from=rss)
+- ['Fingerprints' inside the Sun could reveal if it once swallowed a planet](https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet) ([comments](https://news.ycombinator.com/item?id=49683033))
+- [After 8 Years, Europe's BepiColombo Mission is on Final Approach to Mercury](https://soylentnews.org/article.pl?sid=26/09/06/0316238&from=rss)
+- [Scientists Create a New Form of Ice At 2,357 Degrees Celsius](https://science.slashdot.org/story/26/09/11/2249242/scientists-create-a-new-form-of-ice-at-2357-degrees-celsius?utm_source=nss)
 - [Scientists Turn Eggshells into Next-Generation Spacecraft Protection](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss)
+- [Genome Duplication Is A Radical Evolutionary Gamble](https://soylentnews.org/article.pl?sid=26/09/10/0214210&from=rss)
+- [Medieval Manuscripts Are "Biological Time Capsules" For Deadly Sheeppox Virus](https://soylentnews.org/article.pl?sid=26/09/06/1717224&from=rss)
+- [How to Design a Space Habitat That Supports its Residents’ Mental Health](https://soylentnews.org/article.pl?sid=26/09/09/1437247&from=rss)
+- [The End of a Solar Telescope](https://soylentnews.org/article.pl?sid=26/09/13/031233&from=rss)
 
-## Programming & Development
-- [Anecdotally, programmers dislike "reduce"](https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/)
-- [Device Drivers lab exercise – COSC562](https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html)
-- [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
-- [Reverse engineering my e-scooter and rewriting the firmware in Rust](https://bensimms.moe/reverse-engineering-scooter/)
-
-## Internet & Culture
-- [The contagion of fear](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
-- [Flock Worker Calls Police On Reporter - For Filming Them in Public](https://yro.slashdot.org/story/26/09/13/0650227/flock-worker-calls-police-on-reporter---for-filming-them-in-public?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Machines, History, and Infrastructure
+- [Retired Man Turns Spare Room Into Soviet-Era Supercomputer](https://soylentnews.org/article.pl?sid=26/09/11/1724219&from=rss)
+- [A Dick Smith VZ200 without the Dick Smith](http://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html) ([comments](https://lobste.rs/s/jwlzd3/dick_smith_vz200_without_dick_smith))
+- [I build a mechanical watch face: a real gear train for a watch with no gears](https://myday24.com/blog/how-a-mechanical-watch-face-is-built/) ([comments](https://news.ycombinator.com/item?id=49645547))
+- [Chinese Startup Unveils $100K 'Urban VTOL' Apparently So Simple, Anyone Can Fly It](https://soylentnews.org/article.pl?sid=26/09/06/1714249&from=rss)
+- [UK Military Wants Lasers to Stop Drone Swarms Without Running Out of Ammo](https://soylentnews.org/article.pl?sid=26/09/09/0448227&from=rss)
+- [Military Aircraft Reportedly Blamed for UK Air Traffic Control Outage](https://soylentnews.org/article.pl?sid=26/09/13/0259256&from=rss)
+- [UK Digital ID May be Dead, but its Legacy IT Problem Lives on](https://soylentnews.org/article.pl?sid=26/09/04/037218&from=rss)
+- [Microsoft Will Stop Finishing Your Sentences in Word and Outlook](https://soylentnews.org/article.pl?sid=26/09/09/1414256&from=rss)
+- [PlayStation Ditched Hideo Kojima's 'Physint' on Budget Concerns, Missed Deadlines](https://games.slashdot.org/story/26/09/11/2012215/playstation-ditched-hideo-kojimas-physint-on-budget-concerns-missed-deadlines?utm_source=nss)
