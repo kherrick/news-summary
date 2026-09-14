@@ -1,55 +1,36 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI Safety, Governance, and the Pace of Progress
-- [There Is No AI (It's Just People) with Jaron Lanier](https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/) ([comments](https://news.ycombinator.com/item?id=49687869))
-- [AI recursive self-improvement might not come so quickly after all](https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/) ([comments](https://news.ycombinator.com/item?id=49687334))
-- [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating) ([comments](https://news.ycombinator.com/item?id=49678969))
-- [Anthropic's September 2026 Report: State Espionage, Weaponized Swarms, and the Rise of Autonomous AI](https://soylentnews.org/article.pl?sid=26/09/11/1714258&from=rss)
-- [Altman Considers Slowing Down AI Development](https://slashdot.org/story/26/09/11/1746211/altman-considers-slowing-down-ai-development?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [UK Government Rejects 'Kill Switch' Idea For Dangerous AI](https://yro.slashdot.org/story/26/09/11/1652240/uk-government-rejects-kill-switch-idea-for-dangerous-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## AI & Machine Learning
+- [It's All Fun and Games Until You Give AI Your Credit Card](https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/)
+- [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
+- [Garry Tan wants US open-weight AI labs to 'distill' frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)
 
-## Security, Privacy, and Platform Accountability
-- [I'm being cyberattacked by Tesla, Inc](https://dreamstation.systems/personal/tesla.html) ([comments](https://news.ycombinator.com/item?id=49686766))
-- [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads) ([comments](https://news.ycombinator.com/item?id=49686445))
-- [Data collected by cars and sold to third parties](https://www.theverge.com/column/994172/your-car-is-selling-your-data) ([comments](https://news.ycombinator.com/item?id=49683953))
-- [Flock Worker Calls Police On Reporter - For Filming Them in Public](https://yro.slashdot.org/story/26/09/13/0650227/flock-worker-calls-police-on-reporter---for-filming-them-in-public?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [LG Responds to TV Spying Allegations](https://yro.slashdot.org/story/26/09/12/1652215/lg-responds-to-tv-spying-allegations?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [The gpg.fail aftermath: On responsible disclosure, GPG, and the state of security in 2026 [32:37]](https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026) ([comments](https://lobste.rs/s/fcttpk/gpg_fail_aftermath_on_responsible))
-- [Malicious OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers in May](https://slashdot.org/story/26/09/12/2318204/malicious-openai-agents-linked-to-rubygems-campaign-that-gained-rce-on-rubydoc-servers-in-may?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Healthcare Cyberattacks Hit Pacemakers And Millions Of Patient Records](https://soylentnews.org/article.pl?sid=26/09/05/2143237&from=rss)
-- [FBI Investigating 153 Million US And Canadian Driver’s Licenses Leaked On Russian Cybercrime Forum](https://soylentnews.org/article.pl?sid=26/09/02/1910231&from=rss)
+## Open Source & Technology
+- [NASA and IBM Open Source Lunar Mapping Tools](https://science.slashdot.org/story/26/09/12/182253/nasa-and-ibm-open-source-lunar-mapping-tools?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Writing a Guix service from scratch, as a beginner](https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html)
+- [Libraries Run Rust Inside Python (With PyO3)](https://belderbos.dev/blog/how-libraries-run-rust-inside-python/)
+- [CUDA for AMD on Windows](https://github.com/Speedstu/CUDA-for-AMD-Windows)
+- [Julia 1.13 highlights](https://julialang.org/blog/2026/09/julia-1.13-highlights/)
 
-## Science, Space, and Strange Experiments
-- ['Fingerprints' inside the Sun could reveal if it once swallowed a planet](https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet) ([comments](https://news.ycombinator.com/item?id=49683033))
+## Privacy & Security
+- [Data collected by cars and sold to third parties](https://www.theverge.com/column/994172/your-car-is-selling-your-data)
+- [Can a regex match valid card numbers?](https://abstractnonsense.xyz/blog/2025-08-31-can-a-regex-match-valid-card-numbers/)
+- [Session Context – what a web page knows about you](https://sessioncontext.org)
+- [EFF Asks California Governor to Veto Bill That Would Require Online Age Verification](https://soylentnews.org/article.pl?sid=26/09/08/0326206&from=rss)
+
+## Space & Science
+- [The End of a Solar Telescope](https://soylentnews.org/article.pl?sid=26/09/13/031233&from=rss)
 - [Scientists Create a New Form of Ice At 2,357 Degrees Celsius](https://science.slashdot.org/story/26/09/11/2249242/scientists-create-a-new-form-of-ice-at-2357-degrees-celsius?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Little Mercury May Be Shrinking Faster Than Scientists Expected](https://science.slashdot.org/story/26/09/11/2050204/little-mercury-may-be-shrinking-faster-than-scientists-expected?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Can Red-Light Therapy Treat Brain Injuries?](https://science.slashdot.org/story/26/09/11/2037218/can-red-light-therapy-treat-brain-injuries?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Genome Duplication Is A Radical Evolutionary Gamble](https://soylentnews.org/article.pl?sid=26/09/10/0214210&from=rss)
 - [Medieval Manuscripts Are "Biological Time Capsules" For Deadly Sheeppox Virus](https://soylentnews.org/article.pl?sid=26/09/06/1717224&from=rss)
 - [Scientists Turn Eggshells into Next-Generation Spacecraft Protection](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss)
-- [Male Fruit Fly Brain Trained to Play Doom](https://games.slashdot.org/story/26/09/11/2022239/male-fruit-fly-brain-trained-to-play-doom?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [After 8 Years, Europe's BepiColombo Mission is on Final Approach to Mercury](https://soylentnews.org/article.pl?sid=26/09/06/0316238&from=rss)
 
-## Systems, Languages, and Open-Source Infrastructure
-- [TailTalk: A modern async user space AppleTalk stack with Rust and Tokio](https://github.com/FeralFirmware/TailTalk/) ([comments](https://news.ycombinator.com/item?id=49678423))
-- [Homebrew 7.0.0](https://brew.sh/2026/09/13/homebrew-7.0.0/) ([comments](https://news.ycombinator.com/item?id=49681545))
-- [Libraries Run Rust Inside Python (With PyO3)](https://belderbos.dev/blog/how-libraries-run-rust-inside-python/) ([comments](https://news.ycombinator.com/item?id=49685037))
-- [Stabilizing Rust's never type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/) ([comments](https://lobste.rs/s/felv2m/stabilizing_rust_s_never_type))
-- [CERN Moves Thousands of Accelerator Control Computers to Debian](https://soylentnews.org/article.pl?sid=26/09/06/1230220&from=rss)
-- [Ecosia Just Launched a Linux Browser to Help Europe Battle Big Tech](https://soylentnews.org/article.pl?sid=26/09/06/0321214&from=rss)
-- [Julia 1.13 Highlights](https://julialang.org/blog/2026/09/julia-1.13-highlights/) ([comments](https://news.ycombinator.com/item?id=49642645))
-- [Reverse engineering my e-scooter and rewriting the firmware in Rust](https://bensimms.moe/reverse-engineering-scooter/) ([comments](https://news.ycombinator.com/item?id=49638071))
-- [Decoding the NEC V20 Microcode](https://soylentnews.org/article.pl?sid=26/09/09/1417204&from=rss)
-- [Why is the x86 undefined instruction called ud2? Why 2?](https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689) ([comments](https://news.ycombinator.com/item?id=49683262))
+## Programming & Development
+- [Anecdotally, programmers dislike "reduce"](https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/)
+- [Device Drivers lab exercise – COSC562](https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html)
+- [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
+- [Reverse engineering my e-scooter and rewriting the firmware in Rust](https://bensimms.moe/reverse-engineering-scooter/)
 
-## Culture, History, and the Human Side of Technology
-- [Mark Zuckerberg: "Cambridge Analytica" (2017)](https://twitter.com/TechEmails/status/2099214399840059428) ([comments](https://news.ycombinator.com/item?id=49688157))
-- [California's Gig Drivers Just Secured Collective Bargaining Power with Newly Certified Union](https://yro.slashdot.org/story/26/09/13/0245218/californias-gig-drivers-just-secured-collective-bargaining-power-with-newly-certified-union?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Romania soccer introduces black card to 'combat abusive behaviour' from parents](https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/) ([comments](https://news.ycombinator.com/item?id=49686134))
-- [Making Startups Powerful](https://paulgraham.com/powerful.html) ([comments](https://news.ycombinator.com/item?id=49684196))
-- [Retired Man Turns Spare Room Into Soviet-Era Supercomputer](https://soylentnews.org/article.pl?sid=26/09/11/1724219&from=rss)
-- [The Edsac Film (1951, 1976)](https://www.youtube.com/watch?v=DjhRRj6WYcs) ([comments](https://lobste.rs/s/m6rdhi/edsac_film_1951_1976))
-- [New World Projection](https://soylentnews.org/article.pl?sid=26/09/05/232226&from=rss)
-- [Sean Carroll explains the biggest ideas in the universe – Full Interview \[video\]](https://www.youtube.com/watch?v=_TBNJyztai0) ([comments](https://news.ycombinator.com/item?id=49651567))
-- [Commodore 64 Released September 1, 1982](https://soylentnews.org/article.pl?sid=26/09/04/0310255&from=rss)
-- [In Memoriam: 9/11 - 25 Years](https://soylentnews.org/article.pl?sid=26/09/11/0834258&from=rss)
+## Internet & Culture
+- [The contagion of fear](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
+- [Flock Worker Calls Police On Reporter - For Filming Them in Public](https://yro.slashdot.org/story/26/09/13/0650227/flock-worker-calls-police-on-reporter---for-filming-them-in-public?utm_source=rss1.0mainlinkanon&utm_medium=feed)
