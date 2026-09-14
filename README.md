@@ -1,43 +1,38 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Space and Astronomy
-- [Europe Will Go It Alone on Venus Mission After NASA Yanks Radar Instrument](https://soylentnews.org/article.pl?sid=26/09/13/1835255&from=rss)
-- [NASA and IBM Open Source Lunar Mapping Tools](https://science.slashdot.org/story/26/09/12/182253/nasa-and-ibm-open-source-lunar-mapping-tools?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Little Mercury May Be Shrinking Faster Than Scientists Expected](https://science.slashdot.org/story/26/09/11/2050204/little-mercury-may-be-shrinking-faster-than-scientists-expected?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [How to Design a Space Habitat That Supports its Residents' Mental Health](https://soylentnews.org/article.pl?sid=26/09/09/1437247&from=rss)
-- [Scientists Turn Eggshells into Next-Generation Spacecraft Protection](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss)
-
-## Artificial Intelligence
-- [How Is Compression Prediction?](https://lukefleed.xyz/posts/compression/) ([comments](https://news.ycombinator.com/item?id=49694547))
-- [OpenArch – PyTorch implementations of modern LLM architectures](https://github.com/anuj0456/OpenArch) ([comments](https://news.ycombinator.com/item?id=49693384))
-- [Anthropic's September 2026 Report: State Espionage, Weaponized Swarms, and the Rise of Autonomous AI](https://soylentnews.org/article.pl?sid=26/09/11/1714258&from=rss)
-- [Hugging Face is Too Important to Fall Into Nvidia's Hands](https://soylentnews.org/article.pl?sid=26/09/10/0318228&from=rss)
-- [Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace](https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace) ([comments](https://news.ycombinator.com/item?id=49653311))
+## AI and Automation
+- [MIT creates method to force AI to comply with safety rules](https://theframenews.org/en/hardflow-safety-critical-ai/) ([comments](https://news.ycombinator.com/item?id=49699434))
+- [Hacking AI customer service agents](https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents) ([comments](https://news.ycombinator.com/item?id=49699526))
+- [China's Regulators Take Aim at "AI Boyfriends"](https://spectrum.ieee.org/china-ai-chatbot-regulation)
+- [Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows](https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/) ([comments](https://news.ycombinator.com/item?id=49695409))
+- [Anthropic tells investors it will be profitable for second straight quarter](https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13/)
 
 ## Security and Privacy
+- [LG Smart TVs Caught Mapping Your Network, Logging Audio With Screen Off](https://soylentnews.org/article.pl?sid=26/09/09/0148255&from=rss) ([comments](https://lobste.rs/s/148255/lg_smart_tv_caught_mapping_your_network_logging_audio_with_screen_off))
+- [Watch what you say: Apple opens the door to a nightmare world of always-listening tech](https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/) ([comments](https://lobste.rs/s/yaax1z/watch_what_you_say_apple_opens_door))
+- [A Rant About Phishing: It's Not the User's Fault (and Not DNS Either)](https://soylentnews.org/article.pl?sid=26/09/13/2044243&from=rss)
 - [220 Million Traveler Records Exposed In Vietnam-Linked APIS Leak](https://yro.slashdot.org/story/26/09/12/1758204/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others](https://calif.io/research/oempocalypse) ([comments](https://news.ycombinator.com/item?id=49691152))
-- [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10) ([comments](https://news.ycombinator.com/item?id=49689048))
-- [Linux Zoom Client Proactively Reads X11 Clipboard](https://hachyderm.io/@simontatham/117201594980991062) ([comments](https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11))
-- [LG Smart TVs Caught Mapping Your Network, Logging Audio With Screen Off](https://soylentnews.org/article.pl?sid=26/09/09/0148255&from=rss)
+- [Texas judge rules TikTok misled users on child safety feature](https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/)
 
-## Software Development
-- [Pkgsrc Is Cool (2022)](https://www.wisellama.rocks/posts/2021-12-23-pkgsrc-is-cool/) ([comments](https://news.ycombinator.com/item?id=49694311))
-- [Singeli: High-level interface for low-level programming](https://github.com/mlochbaum/Singeli) ([comments](https://lobste.rs/s/jnutrb/singeli_high_level_interface_for_low))
-- [GEFS: The File Shredder of the Future](https://exquisite.tube/w/3QQimMdswWJxrsPaJtak2u) ([comments](https://lobste.rs/s/vxkb8z/gefs_file_shredder_future))
-- [Switching to GNU Guix: A Beginner's Perspective](https://whhone.com/posts/switching-to-gnu-guix/) ([comments](https://lobste.rs/s/loapzc/switching_gnu_guix_beginner_s))
-- [Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents](https://eterdb.com/) ([comments](https://news.ycombinator.com/item?id=49645654))
+## Software and Computing
+- [How can you not be romantic about UNIX domain sockets?](https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets) ([comments](https://lobste.rs/s/uauns9/how_can_you_not_be_romantic_about_unix))
+- [Distributed Systems Classics](https://nvartolomei.com/dist-sys-classics/) ([comments](https://news.ycombinator.com/item?id=49699158))
+- [Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats](https://codeberg.org/mergiraf/mergiraf) ([comments](https://lobste.rs/s/gslcz7/mergiraf_syntax_aware_git_merge_driver))
+- [Writing a Guix service from scratch, as a beginner](https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html) ([comments](https://lobste.rs/s/f4arrs/writing_guix_service_from_scratch_as))
+- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) ([comments](https://news.ycombinator.com/item?id=49688695))
+- [There are only twelve 4x4 sudokus - and a cool trick for finding minimal subsets](https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/) ([comments](https://lobste.rs/s/ccnirb/there_are_only_twelve_4x4_sudokus_cool))
 
-## Hardware and Gadgets
+## Hardware and Open Source
 - [A 386 PC for Your RP2350](https://github.com/rh1tech/frank-386) ([comments](https://news.ycombinator.com/item?id=49693613))
-- [Download Dimensional Drawings - Accessories](https://developer.apple.com/accessories/dimensional-drawings/) ([comments](https://lobste.rs/s/fpoakb/download_dimensional_drawings))
-- [Why is the x86 undefined instruction called ud2? Why 2?](https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689) ([comments](https://lobste.rs/s/zbb37v/why_is_x86_undefined_instruction_called))
-- [Microcode in Intel's 8087 Floating-Point Chip: The Scale Instruction](https://soylentnews.org/article.pl?sid=26/09/13/0258221&from=rss)
-- [JavaScript Installer Pnpm Recast In Rust Because ECMAScript Can't Keep Up](https://soylentnews.org/article.pl?sid=26/09/06/172235&from=rss)
+- [SDRminus++: Open source SDR with a patchable signal graph, Rust DSP, and web UI](https://github.com/Newspicel/sdrminusminus) ([comments](https://news.ycombinator.com/item?id=49695829))
+- [Finished aerial maps in under 30 minutes](https://blog.zm.is/finished-aerial-maps-within-30-minutes/) ([comments](https://lobste.rs/s/da7fcv/finished_aerial_maps_under_30_minutes))
 
-## Other Interesting Topics
+## Science and Space
+- [Europe Will Go It Alone on Venus Mission After NASA Yanks Radar Instrument](https://soylentnews.org/article.pl?sid=26/09/13/1835255&from=rss)
+- [NASA and IBM Open Source Lunar Mapping Tools](https://science.slashdot.org/story/26/09/12/182253/nasa-and-ibm-open-source-lunar-mapping-tools?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Scientists Create a New Form of Ice At 2,357 Degrees Celsius](https://science.slashdot.org/story/26/09/11/2249242/scientists-create-a-new-form-of-ice-at-2357-degrees-celsius?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Scientists Turn Eggshells into Next-Generation Spacecraft Protection](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss)
+
+## Work and Society
 - [Union Contract with Microsoft Ratified by 1,900 Blizzard Developers and Workers](https://games.slashdot.org/story/26/09/14/0153249/union-contract-with-microsoft-ratified-by-1900-blizzard-developers-and-workers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [California's Gig Drivers Just Secured Collective Bargaining Power with Newly Certified Union](https://yro.slashdot.org/story/26/09/13/0245218/californias-gig-drivers-just-secured-collective-bargaining-power-with-newly-certified-union?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Military Aircraft Reportedly Blamed for UK Air Traffic Control Outage](https://soylentnews.org/article.pl?sid=26/09/13/0259256&from=rss)
-- [Digital Sovereignty Sounds Great Until You Try Ditching Your Suppliers](https://soylentnews.org/article.pl?sid=26/09/11/1730236&from=rss)
-- [Meet The 2026 Ig Nobel Prize Winners](https://soylentnews.org/article.pl?sid=26/09/06/176207&from=rss)
