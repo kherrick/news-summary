@@ -1,21 +1,25 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI Safety, Ethics, and Applications
-- [Iran and Houthi Rebels Used Anthropic's Claude AI to Target US Warships and Build Hypersonic Missile](https://soylentnews.org/article.pl?sid=26/09/14/0539247&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/14/0539247&from=rss))
+## Artificial Intelligence
+- [Anthropic's September 2026 Report: State Espionage, Weaponized Swarms, and the Rise of Autonomous AI](https://soylentnews.org/article.pl?sid=26/09/11/1714258&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/11/1714258&from=rss))
 - [Math Professor Accuses OpenAI of Copying His Work, Says AI Compute Power Makes Racing to Publish 'Pointless'](https://science.slashdot.org/story/26/09/14/2246218/math-professor-accuses-openai-of-copying-his-work-says-ai-compute-power-makes-racing-to-publish-pointless?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/09/14/2246218/math-professor-accuses-openai-of-copying-his-work-says-ai-compute-power-makes-racing-to-publish-pointless?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [ChatGPT-Using Lawyer Cited Its Fake Witnesses and Police Testimony in Court](https://slashdot.org/story/26/09/14/0611201/chatgpt-using-lawyer-cited-its-fake-witnesses-and-police-testimony-in-court?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/26/09/14/0611201/chatgpt-using-lawyer-cited-its-fake-witnesses-and-police-testimony-in-court?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Anthropic Researcher Quits With a Warning: Self-Improving AI Could "Kill Us All"](https://soylentnews.org/article.pl?sid=26/09/13/1821227&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/13/1821227&from=rss))
 
-## Space Exploration and Technology
+## Security & Privacy
+- [Cops Searched Thousands of Flock Cameras for Reasons of 'LMAO,' 'IDK,' 'Hehe,' And 'Asdfg'](https://yro.slashdot.org/story/26/09/15/0032227/cops-searched-thousands-of-flock-cameras-for-reasons-of-lmao-idk-hehe-and-asdfg?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/09/15/0032227/cops-searched-thousands-of-flock-cameras-for-reasons-of-lmao-idk-hehe-and-asdfg?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [220 Million Traveler Records Exposed In Vietnam-Linked APIS Leak](https://yro.slashdot.org/story/26/09/12/1758204/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/09/12/1758204/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+## Hardware & Gadgets
+- [Intel Revives One Mono Font After Brief Retirement During Open-Source Purge](https://soylentnews.org/article.pl?sid=26/09/14/0553239&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/14/0553239&from=rss))
+- [Reservations Go Live for Valve's Steam Frame VR Headset.  An Experiment in Progress?](https://games.slashdot.org/story/26/09/14/2019212/reservations-go-live-for-valves-steam-frame-vr-headset-an-experiment-in-progress?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://games.slashdot.org/story/26/09/14/2019212/reservations-go-live-for-valves-steam-frame-vr-headset-an-experiment-in-progress?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+
+## Software Development
+- [Coreutils - rejected feature requests](https://www.gnu.org/software/coreutils/rejected_requests.html) ([comments](https://lobste.rs/s/zbcua4/coreutils_rejected_feature_requests))
+- [A Nix store is three functions](https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions) ([comments](https://lobste.rs/s/9zytkh/nix_store_is_three_functions))
+
+## Space & Science
 - [NASA and IBM Open Source Lunar Mapping Tools](https://science.slashdot.org/story/26/09/12/182253/nasa-and-ibm-open-source-lunar-mapping-tools?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/09/12/182253/nasa-and-ibm-open-source-lunar-mapping-tools?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 - [How to Design a Space Habitat That Supports its Residentsâ Mental Health](https://soylentnews.org/article.pl?sid=26/09/09/1437247&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/09/1437247&from=rss))
-- [Scientists Turn Eggshells into Next-Generation Spacecraft Protection](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss))
 
-## Robotics, Computing, and Innovation
-- [OpenArm: An open-source 7DOF humanoid arm](https://github.com/enactic/OpenArm) ([comments](https://news.ycombinator.com/item?id=49684289))
-- [The k-server conjecture is true](https://arxiv.org/abs/2609.15979) ([comments](https://news.ycombinator.com/item?id=49709129))
-- [Show HN: Redis City â Explore how Redis works in an interactive 3D model](https://poltora.dev/redis) ([comments](https://news.ycombinator.com/item?id=49676425))
-
-## Privacy, Security, and Historical Perspectives
-- [LG Smart TVs Caught Mapping Your Network, Logging Audio With Screen Off](https://soylentnews.org/article.pl?sid=26/09/09/0148255&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/09/0148255&from=rss))
-- [Medieval Manuscripts Are "Biological Time Capsules" For Deadly Sheeppox Virus](https://soylentnews.org/article.pl?sid=26/09/06/1717224&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/06/1717224&from=rss))
+## Policy & Law
+- [US Senator Calls on the NSA to Give Guidance for Use of VPNs](https://soylentnews.org/article.pl?sid=26/09/10/1059246&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/10/1059246&from=rss))
+- [Anthropic CEO Dario Amodei Calls For AI Slowdown](https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown?utm_source=rss1.0mainlinkanon&utm_medium=feed))
