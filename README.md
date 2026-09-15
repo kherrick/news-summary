@@ -1,32 +1,49 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Agents
-- [There's a 100% Chance AI Agents Are Ruining the Internet](https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/) ([comments](https://news.ycombinator.com/item?id=49715113))
-- [What we have learned at OpenShell applying formal methods to control AI agents](https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/) ([comments](https://news.ycombinator.com/item?id=49713261))
+## AI, Compute, and Digital Power
+- [Hugging Face is billing OpenAI $100M for hacking it](https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand) ([comments](https://news.ycombinator.com/item?id=49716241))
+- [Jev: New frontier model 40-400x cheaper and 20-200x faster](https://typesafe.ai/blog/introducing-system-one-models-and-jev) ([comments](https://news.ycombinator.com/item?id=49717558))
 - [The Inference Hardware Revolution of 2026](https://spectrum.ieee.org/inference-hardware-revolution) ([comments](https://news.ycombinator.com/item?id=49713024))
+- [Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/) ([comments](https://news.ycombinator.com/item?id=49715947))
+- [Anthropic CEO Dario Amodei Calls For AI Slowdown](https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown)
+- [How to Edit Claude's Memory](https://soylentnews.org/article.pl?sid=26/09/10/0216258&from=rss)
+- [Hugging Face is Too Important to Fall Into Nvidia's Hands](https://soylentnews.org/article.pl?sid=26/09/10/0318228&from=rss)
+- [The AI Agent Navier Stokes Explosion](https://soylentnews.org/breakingnews/article.pl?sid=26/09/11/1112257&from=rss)
 
-## Hardware and Infrastructure
-- [Closing the IPv6 First-Packet Gap with Grand](https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/) ([comments](https://news.ycombinator.com/item?id=49713337))
-- [Alternatives to MinIO for single-node local S3](https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/) ([comments](https://news.ycombinator.com/item?id=49709381))
-- [A Nix store is three functions](https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions) ([comments](https://lobste.rs/s/9zytkh/nix_store_is_three_functions))
+## Security, Privacy, and Surveillance
+- [We got admin access to Baseten's production GitHub in 25 minutes](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover) ([comments](https://news.ycombinator.com/item?id=49716476))
+- [America's Driver's License Breach Is a National Security Disaster](https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster) ([comments](https://news.ycombinator.com/item?id=49714547))
+- [Cops Searched Thousands of Flock Cameras for Reasons of 'LMAO,' 'IDK,' 'Hehe,' And 'Asdfg'](https://yro.slashdot.org/story/26/09/15/0032227/cops-searched-thousands-of-flock-cameras-for-reasons-of-lmao-idk-hehe-and-asdfg?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [LG Smart TVs Caught Mapping Your Network, Logging Audio With Screen Off](https://soylentnews.org/article.pl?sid=26/09/09/0148255&from=rss)
+- [220 Million Traveler Records Exposed In Vietnam-Linked APIS Leak](https://yro.slashdot.org/story/26/09/12/1758204/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [US confirms for first time it has deployed space weapons](https://www.bbc.com/news/articles/ck790xg41ygro) ([comments](https://news.ycombinator.com/item?id=49707473))
+- [A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](https://www.effort.news/irregular) ([comments](https://news.ycombinator.com/item?id=49704132))
+- [Malicious OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers in May](https://slashdot.org/story/26/09/12/2318204/malicious-openai-agents-linked-to-rubygems-campaign-that-gained-rce-on-rubydoc-servers-in-may?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Iran and Houthi Rebels Used Anthropic's Claude AI to Target US Warships and Build Hypersonic Missile](https://soylentnews.org/article.pl?sid=26/09/14/0539247&from=rss)
 
-## Software Development & Tools
-- [Show HN: Go Bindings for SCIP Optimizer](https://github.com/egoisutolabs/scipgo) ([comments](https://news.ycombinator.com/item?id=49714495))
-- [Show HN: Panel – A research workspace where the agent can build its own panes](https://github.com/greentfrapp/panel) ([comments](https://news.ycombinator.com/item?id=49712621))
+## Software, Open Source, and Developer Practice
+- [How much of F-Droid is LLM generated?](https://tintotint.eu/whacky-corner/f-droid_slop/) ([comments](https://lobste.rs/s/acwuxy/how_much_f_droid_is_llm_generated))
+- [Trying to Make a Loop Auto-Vectorize](https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/) ([comments](https://lobste.rs/s/4nhhax/trying_make_loop_auto_vectorize))
+- [The CSS Zen Garden dream, finally shipped](https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/) ([comments](https://news.ycombinator.com/item?id=49713262))
 - [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/) ([comments](https://news.ycombinator.com/item?id=49712278))
-- [Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks](https://github.com/ordewell/ordewell) ([comments](https://news.ycombinator.com/item?id=49712276))
-- [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) ([comments](https://news.ycombinator.com/item?id=49711544))
-- [Postgres development activity](https://vondra.me/posts/postgres-development-activity/) ([comments](https://lobste.rs/s/3wmby2/postgres_development_activity))
+- [A Nix store is three functions](https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions) ([comments](https://lobste.rs/s/9zytkh/nix_store_is_three_functions))
+- [The terminal should not own the work](https://lezli01.is-a.dev/vincent/docs/why/the-terminal-should-not-own-the-work.html) ([comments](https://lobste.rs/s/m1zfy8/terminal_should_not_own_work))
+- [Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats](https://codeberg.org/mergiraf/mergiraf) ([comments](https://lobste.rs/s/gslcz7/mergiraf_syntax_aware_git_merge_driver))
+- [How I Wrote a Forth (Without Knowing How)](https://vtrlx.ca/w/2026-09-10-how-i-wrote-moonforth.html) ([comments](https://lobste.rs/s/ccy1nr/how_i_wrote_forth_without_knowing_how))
+- ["Do You Still Read the Code?"](https://zanlib.dev/blog/do-you-still-read-the-code/) ([comments](https://lobste.rs/s/qiwlzz/do_you_still_read_code))
+- [A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator)](https://www.benjoffe.com/map) ([comments](https://lobste.rs/s/zttri6/new_equal_area_map_for_interactive))
+- [How can you not be romantic about UNIX domain sockets?](https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets) ([comments](https://lobste.rs/s/uauns9/how_can_you_not_be_romantic_about_unix_domain_sockets))
+- [Coreutils – rejected feature requests](https://www.gnu.org/software/coreutils/rejected_requests.html) ([comments](https://lobste.rs/s/zbcua4/coreutils_rejected_feature_requests))
 
-## Privacy, Surveillance & Security
-- [25 Years of Mass Surveillance Is Enough](https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough) ([comments](https://news.ycombinator.com/item?id=49711309))
-- [Suspected sabotage causes major Netherlands rail disruption](https://www.bbc.com/news/articles/c8ly49w9g1edo) ([comments](https://news.ycombinator.com/item?id=49710253))
-- [ChatGPT-Using Lawyer Cited Its Fake Witnesses and Police Testimony in Court](https://slashdot.org/story/26/09/14/0611201/chatgpt-using-lawyer-cited-its-fake-witnesses-and-police-testimony-in-court?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/26/09/14/0611201/chatgpt-using-lawyer-cited-its-fake-witnesses-and-police-testimony-in-court?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [IBM Built the Cold War’s Most Powerful Code Breaker for the NSA](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm) ([comments](https://lobste.rs/s/pwofca/ibm_built_cold_war_s_most_powerful_code))
-
-## Culture & Misc
-- [CSS-Tricks in Limbo](https://vale.rocks/micros/20260915-0135) ([comments](https://lobste.rs/s/lgcmoo/css_tricks_limbo))
-- [GDScript: The Good, Bad, and Ugly Parts](https://azhdarchid.com/gdscript-good-bad-ugly/) ([comments](https://lobste.rs/s/q5dgu6/gdscript_good_bad_ugly_parts))
-- [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua) ([comments](https://news.ycombinator.com/item?id=49708431))
-- [Let's make quality the norm again](https://www.forbrukerradet.no/short-life/) ([comments](https://news.ycombinator.com/item?id=49710109))
-- [How much of F-Droid is LLM generated?](https://tintotint.eu/whacky-corner/f-droid_slop/) ([comments](https://news.ycombinator.com/item?id=49710015))
+## Space, Science, and Society
+- [NASA and IBM Open Source Lunar Mapping Tools](https://science.slashdot.org/story/26/09/12/182253/nasa-and-ibm-open-source-lunar-mapping-tools?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Europe Will Go It Alone on Venus Mission After NASA Yanks Radar Instrument](https://soylentnews.org/article.pl?sid=26/09/13/1835255&from=rss)
+- [Scientists Turn Eggshells into Next-Generation Spacecraft Protection](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss)
+- [Retired Man Turns Spare Room Into Soviet-Era Supercomputer](https://soylentnews.org/article.pl?sid=26/09/11/1724219&from=rss)
+- [IBM Built the Cold War's Most Powerful Code Breaker for the NSA](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm) ([comments](https://lobste.rs/s/pwofca/ibm_built_cold_war_s_most_powerful_code))
+- [How to Design a Space Habitat That Supports its Residents' Mental Health](https://soylentnews.org/article.pl?sid=26/09/09/1437247&from=rss)
+- [Genome Duplication Is A Radical Evolutionary Gamble](https://soylentnews.org/article.pl?sid=26/09/10/0214210&from=rss)
+- [Giving up on smart rings](https://notesbylex.com/giving-up-on-smart-rings)
+- [California's Gig Drivers Just Secured Collective Bargaining Power with Newly Certified Union](https://yro.slashdot.org/story/26/09/13/0245218/californias-gig-drivers-just-secured-collective-bargaining-power-with-newly-certified-union?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [No Rolling Power Outages for California Since 2020 – Thanks to 17,000 MW of New Battery Storage](https://yro.slashdot.org/story/26/09/14/0446243/no-rolling-power-outages-for-california-since-2020---thanks-to-17000-mw-of-new-battery-storage?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [A Visit to San Francisco's AI-run Store: No Customers, Nothing Useful, And Losing Money Fast](https://slashdot.org/story/26/09/13/0523208/a-visit-to-san-franciscos-ai-run-store-no-customers-nothing-useful-and-losing-money-fast?utm_source=rss1.0mainlinkanon&utm_medium=feed)
