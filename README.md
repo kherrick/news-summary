@@ -1,45 +1,30 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI, Autonomy, and Power
-- [Anthropic Commits to Independent AI Evaluators, Wants Slower Development. Nvidia's CEO Wants It 'As Fast as You Can'](https://slashdot.org/story/26/09/16/0619212/anthropic-commits-to-independent-ai-evaluators-wants-slower-development-nvidias-ceo-wants-it-as-fast-as-you-can?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49730239))
-- [Claude Cowork and chat are now one Claude](https://claude.com/blog/cowork-is-now-claude) ([comments](https://news.ycombinator.com/item?id=49729412))
+## AI and Scientific Frontiers
+- [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338) ([comments](https://news.ycombinator.com/item?id=49732931))
+- [How Good Are Frontier Models at Physics?](https://arxiv.org/abs/2609.13009) ([comments](https://news.ycombinator.com/item?id=49731620))
+- [Training Text-to-Image Models 3.6× Faster](https://www.linum.ai/field-notes/jit-ddt) ([comments](https://news.ycombinator.com/item?id=49729816))
 - [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/) ([comments](https://news.ycombinator.com/item?id=49723408))
-- [Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/) ([comments](https://news.ycombinator.com/item?id=49715947))
-- [A warning about 'model welfare'](https://mustafa-suleyman.ai/a-warning-about-model-welfare) ([comments](https://news.ycombinator.com/item?id=49727580))
-- [OpenAI Agent Backdoor Communications](https://soylentnews.org/article.pl?sid=26/09/15/1120256&from=rss)
-- [Chinese Military Researchers And Tech Giants Caught Using Claude](https://soylentnews.org/article.pl?sid=26/09/14/0546256&from=rss)
-- [Iran and Houthi Rebels Used Anthropic's Claude AI to Target US Warships and Build Hypersonic Missile](https://soylentnews.org/article.pl?sid=26/09/14/0539247&from=rss)
-- [While Hollywood Fears an AI Future, China's Film Industry is Embracing It](https://entertainment.slashdot.org/story/26/09/14/0115231/while-hollywood-fears-an-ai-future-chinas-film-industry-is-embracing-it?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://arxiv.org/abs/2609.14858) ([comments](https://news.ycombinator.com/item?id=49726955))
 
-## Security, Privacy, and Infrastructure
-- [Hackers Got Inside a Flock Camera](https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/) ([comments](https://news.ycombinator.com/item?id=49726586))
-- [Four Groups Caught Using the Same Chrome and Windows Exploit Kit](https://soylentnews.org/article.pl?sid=26/09/15/1127207&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/15/1127207&from=rss))
-- [220 Million Traveler Records Exposed In Vietnam-Linked APIS Leak](https://yro.slashdot.org/story/26/09/12/1758204/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/09/12/1758204/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/)
-- [Chinese Chipmaker CXMT Allegedly Used a Written Roadmap to Steal Samsung DRAM Tech](https://soylentnews.org/article.pl?sid=26/09/15/1156210&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/15/1156210&from=rss))
-- [Russian Plot to Sabotage Undersea Cables With 'Secret Weapon' Foiled by NATO](https://soylentnews.org/article.pl?sid=26/09/15/1123211&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/15/1123211&from=rss))
-- [Military Aircraft Reportedly Blamed for UK Air Traffic Control Outage](https://soylentnews.org/article.pl?sid=26/09/13/0259256&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/13/0259256&from=rss))
-- [A Rant About Phishing: It's Not the User's Fault (and Not DNS Either)](https://soylentnews.org/article.pl?sid=26/09/13/2044243&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/13/2044243&from=rss))
-
-## Software, Open Source, and Systems
-- [Original Sony PlayStation 2 security chip 'broken wide open' after 26 years](https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip) ([comments](https://news.ycombinator.com/item?id=49725356))
-- [Ubuntu 26.10 completes transition to Rust-based coreutils](https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete) ([comments](https://lobste.rs/s/ynjgbz/ubuntu_26_10_completes_transition_rust))
-- [JDK 27 has been released](https://openjdk.org/projects/jdk/27/)
-- [Swift 6.4 Released](https://www.swift.org/blog/swift-6.4-released/)
-- [OSRS Wiki and RuneLite are increasingly under strain from low-effort AI development](https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development) ([comments](https://lobste.rs/s/aml2pc/osrs_wiki_runelite_are_increasingly))
+## Software and Systems
+- [C++26: Trivial Infinite Loops Are No Longer Undefined Behaviour](https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops) ([comments](https://lobste.rs/s/uvrata/c_26_trivial_infinite_loops_are_no_longer))
+- [Ubuntu 26.10 Completes Transition to Rust-Based Coreutils](https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete) ([comments](https://lobste.rs/s/ynjgbz/ubuntu_26_10_completes_transition_rust))
 - [Replacing Pull Requests with Delta](https://zed.dev/blog/delta-public-beta) ([comments](https://lobste.rs/s/c5xrht/replacing_pull_requests_with_delta))
-- [Why building a Rust LSP is hard](https://rust-glancer.github.io/blog/why-lsp-is-hard/) ([comments](https://lobste.rs/s/q35pnm/why_building_rust_lsp_is_hard))
-- [Reinventing issue tracking: Local-first and Git-native](https://blog.manganin.dev/blog/reinventing-issue-tracking/) ([comments](https://lobste.rs/s/4tb4nk/reinventing_issue_tracking_local_first))
-- [The smallest possible Linux distribution](https://distrowatch.com/weekly.php?issue=20260914#qa) ([comments](https://lobste.rs/s/zwhnko/smallest_possible_linux_distribution))
+- [Training a 4B Model to Produce 81% Faster Query Plans Than Postgres](https://rohanbansal.com/qorl) ([comments](https://news.ycombinator.com/item?id=49731285))
+- [Reversing Factorio's RNG](https://gegell.github.io/posts/factorio-rng/) ([comments](https://lobste.rs/s/phbfog/reversing_factorio_s_rng))
+- [Original Sony PlayStation 2 Security Chip Broken Wide Open After 26 Years](https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip) ([comments](https://lobste.rs/s/vkdmdy/original_sony_playstation_2_security))
 
-## Science, Space, and Society
-- [Rocket Lab is Seeing Red About NASA's Decision on a Mars Spacecraft](https://soylentnews.org/article.pl?sid=26/09/16/0336241&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/16/0336241&from=rss))
-- [Europe Will Go It Alone on Venus Mission After NASA Yanks Radar Instrument](https://soylentnews.org/article.pl?sid=26/09/13/1835255&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/13/1835255&from=rss))
-- [NASA And IBM Unveil An Open Source Lunar AI Model](https://soylentnews.org/article.pl?sid=26/09/11/1717228&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/11/1717228&from=rss))
-- [Scientists Discover Mysterious New X-Ray Objects 'Unlike Any They Have Seen Before'](https://science.slashdot.org/story/26/09/12/189245/scientists-discover-mysterious-new-x-ray-objects-unlike-any-they-have-seen-before?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/09/12/189245/scientists-discover-mysterious-new-x-ray-objects-unlike-any-they-have-seen-before?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [The Siberian Ice Maiden and the Scythian World](https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian)
-- [Genome Duplication Is A Radical Evolutionary Gamble](https://soylentnews.org/article.pl?sid=26/09/10/0214210&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/10/0214210&from=rss))
-- [ER visits for gambling disorders doubled after expanded online gambling market](https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market) ([comments](https://news.ycombinator.com/item?id=49730239))
-- [No Rolling Power Outages for California Since 2020 - Thanks to 17,000 MW of New Battery Storage](https://yro.slashdot.org/story/26/09/14/0446243/no-rolling-power-outages-for-california-since-2020---thanks-to-17000-mw-of-new-battery-storage?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/09/14/0446243/no-rolling-power-outages-for-california-since-2020---thanks-to-17000-mw-of-new-battery-storage?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [America's Cryptocurrency 'Clarity Act' Fails Spectacularly, Despite Hundreds of Millions in Industry Lobbying](https://news.slashdot.org/story/26/09/16/0454223/americas-cryptocurrency-clarity-act-fails-spectacularly-despite-hundreds-of-millions-in-industry-lobbying?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/09/16/0454223/americas-cryptocurrency-clarity-act-fails-spectacularly-despite-hundreds-of-millions-in-industry-lobbying?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Union Contract with Microsoft Ratified by 1,900 Blizzard Developers and Workers](https://games.slashdot.org/story/26/09/14/0153249/union-contract-with-microsoft-ratified-by-1900-blizzard-developers-and-workers?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://games.slashdot.org/story/26/09/14/0153249/union-contract-with-microsoft-ratified-by-1900-blizzard-developers-and-workers?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Security and Infrastructure
+- [Four Groups Caught Using the Same Chrome and Windows Exploit Kit](https://soylentnews.org/article.pl?sid=26/09/15/1127207&from=rss)
+- [Hackers Got Inside a Flock Camera](https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/)
+- [AWS Says It Can't Restore Some Data from Mideast Facilities Struck by Iran](https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d) ([comments](https://news.ycombinator.com/item?id=49719249))
+- [Russian Plot to Sabotage Undersea Cables with 'Secret Weapon' Foiled by NATO](https://soylentnews.org/article.pl?sid=26/09/15/1123211&from=rss)
+- [OpenAI Agent Backdoor Communications](https://soylentnews.org/article.pl?sid=26/09/15/1120256&from=rss)
+
+## Space and Global Affairs
+- [Why Does the Universe Expand?](https://cosmicave.org/2026/09/15/why-does-the-universe-expand/) ([comments](https://news.ycombinator.com/item?id=49732087))
+- [Scientists Discover Mysterious New X-Ray Objects 'Unlike Any They Have Seen Before'](https://science.slashdot.org/story/26/09/12/189245/scientists-discover-mysterious-new-x-ray-objects-unlike-any-they-have-seen-before?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Europe Will Go It Alone on Venus Mission After NASA Yanks Radar Instrument](https://soylentnews.org/article.pl?sid=26/09/13/1835255&from=rss)
+- [Australia Says It Could Follow Canada in Forging Deeper Ties with EU](https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html) ([comments](https://news.ycombinator.com/item?id=49734171))
+- [As Part of California's Coast Begins to Crumble, Is the Clock Ticking on Moving Radioactive Waste?](https://hardware.slashdot.org/story/26/09/14/0536219/as-part-of-californias-coast-begins-to-crumble-is-the-clock-ticking-on-moving-radioactive-waste?utm_source=rss1.0mainlinkanon&utm_medium=feed)
