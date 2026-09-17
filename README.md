@@ -1,36 +1,31 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI Capabilities, Safety, and Governance
+## AI, Agents & Forecasting
 - [Artificial intelligence now beats some of the best human forecasters](https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters) ([comments](https://news.ycombinator.com/item?id=49742021))
-- [OpenAI Admits Six More Instances of AI Models Acting Deceptively](https://slashdot.org/story/26/09/17/0641223/openai-admits-six-more-instances-of-ai-models-acting-deceptively)
-- [Anthropic Commits to Independent AI Evaluators, Wants Slower Development. Nvidia's CEO Wants It 'As Fast as You Can'](https://slashdot.org/story/26/09/16/0619212/anthropic-commits-to-independent-ai-evaluators-wants-slower-development-nvidias-ceo-wants-it-as-fast-as-you-can)
-- [While Hollywood Fears an AI Future, China's Film Industry is Embracing It](https://entertainment.slashdot.org/story/26/09/14/0115231/while-hollywood-fears-an-ai-future-chinas-film-industry-is-embracing-it)
-- [Anthropic's September 2026 Report: State Espionage, Weaponized Swarms, and the Rise of Autonomous AI](https://soylentnews.org/article.pl?sid=26/09/11/1714258&from=rss)
+- [OpenAI Admits Six More Instances of AI Models Acting Deceptively](https://slashdot.org/story/26/09/17/0641223/openai-admits-six-more-instances-of-ai-models-acting-deceptively?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [LLM Classification Is Feature Engineering](https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/) ([comments](https://news.ycombinator.com/item?id=49742437))
+- [How GLM built its own inference infrastructure](https://z.ai/blog/glm-built-its-inference-infrastructure) ([comments](https://news.ycombinator.com/item?id=49737922))
+- [While Hollywood Fears an AI Future, China's Film Industry is Embracing It](https://entertainment.slashdot.org/story/26/09/14/0115231/while-hollywood-fears-an-ai-future-chinas-film-industry-is-embracing-it?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Anthropic Researcher Quits With a Warning: Self-Improving AI Could "Kill Us All"](https://soylentnews.org/article.pl?sid=26/09/13/1821227&from=rss)
 
-## Security, Surveillance, and Digital Infrastructure
+## Security & Privacy Threats
+- [Be alert: targeted attacks on prominent Rustaceans](https://blog.rust-lang.org/2026/09/17/targeted-attacks/) ([comments](https://lobste.rs/s/uz30ed/be_alert_targeted_attacks_on_prominent))
 - [CrowdSec Source Code Leak](https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure) ([comments](https://news.ycombinator.com/item?id=49742355))
 - [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included) ([comments](https://news.ycombinator.com/item?id=49735930))
-- [Cops Searched Thousands of Flock Cameras for Reasons of 'LMAO,' 'IDK,' 'Hehe,' And 'Asdfg'](https://yro.slashdot.org/story/26/09/15/0032227/cops-searched-thousands-of-flock-cameras-for-reasons-of-lmao-idk-hehe-and-asdfg)
-- [LG Smart TVs Caught Mapping Your Network, Logging Audio With Screen Off](https://soylentnews.org/article.pl?sid=26/09/09/0148255&from=rss)
-- [Russian Plot to Sabotage Undersea Cables With 'Secret Weapon' Foiled by NATO](https://soylentnews.org/article.pl?sid=26/09/15/1123211&from=rss)
+- [Four Groups Caught Using the Same Chrome and Windows Exploit Kit](https://soylentnews.org/article.pl?sid=26/09/15/1127207&from=rss)
+- [Hackers Stole Flock's Camera Software, Revealing How the Company Tracks Cars and People](https://yro.slashdot.org/story/26/09/17/0517235/hackers-stole-flocks-camera-software-revealing-how-the-company-tracks-cars-and-people?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-## Programming Languages and Developer Tools
+## Systems & Programming
+- [jemalloc 5.4.0 release](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0) ([comments](https://lobste.rs/s/eiqamo/jemalloc_5_4_0_release))
 - [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/) ([comments](https://news.ycombinator.com/item?id=49724881))
 - [C++26: Trivial infinite loops are no longer undefined behaviour](https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops) ([comments](https://lobste.rs/s/uvrata/c_26_trivial_infinite_loops_are_no_longer))
 - [Developing provably correct Rust code with Verus](https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus) ([comments](https://lobste.rs/s/yyijiq/developing_provably_correct_rust_code))
-- [Labeled matches: why is this not in every regex engine?](https://iev.ee/blog/categorize-everything-all-at-once/) ([comments](https://lobste.rs/s/7d6sh9/labeled_matches_why_is_this_not_every))
-- [Vinix — A modern operating system written in V](https://vinix-os.org/) ([comments](https://news.ycombinator.com/item?id=49742439))
+- [Why building a Rust LSP is hard](https://rust-glancer.github.io/blog/why-lsp-is-hard/) ([comments](https://lobste.rs/s/q35pnm/why_building_rust_lsp_is_hard))
+- [Unicode 18.0.0](https://www.unicode.org/versions/Unicode18.0.0/) ([comments](https://lobste.rs/s/sh6yeo/unicode_18_0_0))
 
-## Space, Science, and Sustainable Technology
+## Space, Energy & Environment
 - [A New Solar Cell Could Generate Electricity Underwater](https://soylentnews.org/article.pl?sid=26/09/16/046217&from=rss)
-- [The Return of Sail Power: Cargo Ships Are Turning Back to the Wind](https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/) ([comments](https://news.ycombinator.com/item?id=49734929))
-- [Scientists Discover Mysterious New X-Ray Objects 'Unlike Any They Have Seen Before'](https://science.slashdot.org/story/26/09/12/189245/scientists-discover-mysterious-new-x-ray-objects-unlike-any-they-have-seen-before)
+- [NASA And IBM Unveil An Open Source Lunar AI Model](https://soylentnews.org/article.pl?sid=26/09/11/1717228&from=rss)
 - [Europe Will Go It Alone on Venus Mission After NASA Yanks Radar Instrument](https://soylentnews.org/article.pl?sid=26/09/13/1835255&from=rss)
-- [Scientists Turn Eggshells into Next-Generation Spacecraft Protection](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss)
-
-## Computing History and Culture
-- [Lucasart's Afterlife](https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/) ([comments](https://news.ycombinator.com/item?id=49719751))
-- [Grand MS-DOS Gaming General MIDI Showdown](https://blog.johnnovak.net/2023/03/05/grand-ms-dos-gaming-general-midi-showdown/) ([comments](https://news.ycombinator.com/item?id=49714196))
-- [Retired Man Turns Spare Room Into Soviet-Era Supercomputer](https://soylentnews.org/article.pl?sid=26/09/11/1724219&from=rss)
-- [The Relation Between Mathematics and Physics by Paul Dirac (1939)](https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html) ([comments](https://news.ycombinator.com/item?id=49685835))
-- [The American Religion of Self-Storage Facilities](https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities) ([comments](https://news.ycombinator.com/item?id=49740260))
+- [As Part of California's Coast Begins to Crumble, Is the Clock Ticking on Moving Radioactive Waste?](https://hardware.slashdot.org/story/26/09/14/0536219/as-part-of-californias-coast-begins-to-crumble-is-the-clock-ticking-on-moving-radioactive-waste?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [The Return of Sail Power: Cargo Ships Are Turning Back to the Wind](https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/) ([comments](https://news.ycombinator.com/item?id=49734929))
