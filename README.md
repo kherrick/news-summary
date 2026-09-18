@@ -1,21 +1,58 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI & Machine Learning
+## AI Models, Agents, and Their Limits
 - [Introducing System One Models & Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) ([comments](https://lobste.rs/s/ebbixx/introducing_system_one_models_jev))
-- [Open Weights Are Not Open Source: Why AI's Favorite Label is Under Dispute](https://soylentnews.org/article.pl?sid=26/09/17/039255&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/039255&from=rss))
-- [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/) ([comments](https://news.ycombinator.com/item?id=49746163))
+- [Open Weights Are Not Open Source: Why AI's Favorite Label Is Under Dispute](https://soylentnews.org/article.pl?sid=26/09/17/039255&from=rss)
+- [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b) ([comments](https://news.ycombinator.com/item?id=49746618))
+- [Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data](https://arxiv.org/abs/2609.18842) ([comments](https://news.ycombinator.com/item?id=49743483))
+- [Astra for Law](https://openai.com/index/astra-for-law/) ([comments](https://news.ycombinator.com/item?id=49745940))
+- [OpenAI Admits Six More Instances of AI Models Acting Deceptively](https://slashdot.org/story/26/09/17/0641223/openai-admits-six-more-instances-of-ai-models-acting-deceptively?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [I Don't Like LLMs](https://martinfowler.com/articles/2026-dont-like-llms.html) ([comments](https://lobste.rs/s/pkj7mf/i_don_t_like_llms))
-- [On learning programming in an age of LLMs](https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/) ([comments](https://lobste.rs/s/hp1xkh/on_learning_programming_age_llms))
+- [On Learning Programming in an Age of LLMs](https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/) ([comments](https://lobste.rs/s/hp1xkh/on_learning_programming_age_llms))
+- [Anthropic's September 2026 Report: State Espionage, Weaponized Swarms, and the Rise of Autonomous AI](https://soylentnews.org/article.pl?sid=26/09/11/1714258&from=rss)
 
-## Security & Privacy
-- [Flock cameras are riddled with security vulnerabilities and hard-coded credentials](https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/) ([comments](https://lobste.rs/s/eyg3oe/flock_cameras_are_riddled_with_security))
-- [Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister) ([comments](https://news.ycombinator.com/item?id=49743097))
+## Security, Privacy, and Digital Trust
+- [Flock Cameras Are Riddled with Security Vulnerabilities and Hard-Coded Credentials](https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/) ([comments](https://lobste.rs/s/eyg3oe/flock_cameras_are_riddled_with_security))
+- [Plugin4Shell: Zero-Click RCE Vulnerability Found in Top Four Coding Agents](https://www.air.security/blog-posts/plugin4shell) ([comments](https://news.ycombinator.com/item?id=49745809))
+- [CrowdSec Source Code Leak](https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure) ([comments](https://news.ycombinator.com/item?id=49742355))
+- [Be Alert: Targeted Attacks on Prominent Rustaceans](https://blog.rust-lang.org/2026/09/17/targeted-attacks/) ([comments](https://lobste.rs/s/uz30ed/be_alert_targeted_attacks_on_prominent))
+- [Four Groups Caught Using the Same Chrome and Windows Exploit Kit](https://soylentnews.org/article.pl?sid=26/09/15/1127207&from=rss)
+- [Russian Plot to Sabotage Undersea Cables with a "Secret Weapon" Foiled by NATO](https://soylentnews.org/article.pl?sid=26/09/15/1123211&from=rss)
+- [LG Smart TVs Caught Mapping Your Network and Logging Audio with the Screen Off](https://soylentnews.org/article.pl?sid=26/09/09/0148255&from=rss)
+- [EFF Asks California Governor to Veto Bill Requiring Online Age Verification](https://soylentnews.org/article.pl?sid=26/09/08/0326206&from=rss)
 
-## Programming Languages & Tools
-- [Labeled matches: why is this not in every regex engine?](https://iev.ee/blog/categorize-everything-all-at-once/) ([comments](https://lobste.rs/s/7d6sh9/labeled_matches_why_is_this_not_every))
-- [Why .tar.gz files can't be combined with cat](https://alexwlchan.net/2026/cat-confusion/) ([comments](https://lobste.rs/s/lox1su/why_tar_gz_files_can_t_be_combined_with_cat))
-- [C++26: Trivial infinite loops are no longer undefined behaviour](https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops) ([comments](https://lobste.rs/s/uvrata/c_26_trivial_infinite_loops_are_no_longer))
+## Systems, Languages, and Developer Tools
+- [How Uber Protects Against Retry Storms](https://www.uber.com/us/en/blog/protecting-against-retry-storms/) ([comments](https://news.ycombinator.com/item?id=49746628))
+- [Bend: A Language that Blocks AI Mistakes via Proof, on CPU and GPU](https://bend-lang.com/) ([comments](https://news.ycombinator.com/item?id=49746163))
+- [jemalloc 5.4.0 Release](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0) ([comments](https://lobste.rs/s/eiqamo/jemalloc_5_4_0_release))
+- [bonobomock: A GoogleTest-Compatible C++ Mocking Library](https://github.com/bloomberg/bonobomock/) ([comments](https://lobste.rs/s/marwqj/bonobomock_googletest_compatible_c))
+- [C++26: Trivial Infinite Loops Are No Longer Undefined Behaviour](https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops) ([comments](https://lobste.rs/s/uvrata/c_26_trivial_infinite_loops_are_no_longer))
+- [Unicode 18.0.0](https://www.unicode.org/versions/Unicode18.0.0/) ([comments](https://lobste.rs/s/sh6yeo/unicode_18_0_0))
+- [Hister: A Private Search Engine for the Pages You Visit and the Files You Keep](https://github.com/asciimoo/hister) ([comments](https://news.ycombinator.com/item?id=49743097))
+- [Snapdrop: Instantly Share Files Between Devices, with No Setup or Signup](https://snapdrop.me) ([comments](https://news.ycombinator.com/item?id=49746346))
+- [Flet 1.0: Build Cross-Platform Apps in Python](https://flet.dev/) ([comments](https://news.ycombinator.com/item?id=49746290))
+- [Labeled Matches: Why Is This Not in Every Regex Engine?](https://iev.ee/blog/categorize-everything-all-at-once/) ([comments](https://lobste.rs/s/7d6sh9/labeled_matches_why_is_this_not_every))
+- [My Temporary PHP Fix from 2014 Has Nearly 20M Installs. Today I'm Deprecating It](https://jakeasmith.com/blog/http-build-url/) ([comments](https://lobste.rs/s/mc3zgo/my_temporary_php_fix_from_2014_has_nearly))
+- [The Golden Spike, and Resurrecting the Vale(n) Programming Language](https://verdagon.dev/blog/golden-spike-reviving-vale-valen) ([comments](https://lobste.rs/s/fjnkn4/golden_spike_resurrecting_vale_n))
 
-## Systems & Strategy
-- [The most important product decision is what you don't build](https://liamnugent.me/posts/what-you-dont-build/) ([comments](https://news.ycombinator.com/item?id=49746407))
-- [TSMC revealing details about next gen A14 node](https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331) ([comments](https://news.ycombinator.com/item?id=49714096))
+## Science, Space, and Strange Discoveries
+- [A New Solar Cell Could Generate Electricity Underwater](https://soylentnews.org/article.pl?sid=26/09/16/046217&from=rss)
+- [Scientists Discover Mysterious New X-Ray Objects Unlike Any They Have Seen Before](https://science.slashdot.org/story/26/09/12/189245/scientists-discover-mysterious-new-x-ray-objects-unlike-any-they-have-seen-before?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Diplodocus, Long Thought Exclusively American, Turns Up in Spain](https://www.sci.news/paleontology/spanish-diplodocus-15064.html) ([comments](https://news.ycombinator.com/item?id=49710447))
+- [More than 100k People in Japan Are Now Aged 100 or Older](https://www.bbc.com/news/articles/cmzezj5e18xxo) ([comments](https://news.ycombinator.com/item?id=49746117))
+- [Genome Duplication Is a Radical Evolutionary Gamble](https://soylentnews.org/article.pl?sid=26/09/10/0214210&from=rss)
+- [Medieval Manuscripts Are "Biological Time Capsules" for Deadly Sheeppox Virus](https://soylentnews.org/article.pl?sid=26/09/06/1717224&from=rss)
+- [Scientists Turn Eggshells into Next-Generation Spacecraft Protection](https://soylentnews.org/article.pl?sid=26/09/09/020228&from=rss)
+- [André Weil and the Hodge Conjecture](https://jiahao116.github.io/Articles/) ([comments](https://news.ycombinator.com/item?id=49671157))
+- [Wax Motor](https://en.wikipedia.org/wiki/Wax_motor) ([comments](https://news.ycombinator.com/item?id=49726007))
+- [Landing the Space Shuttle: A Flying Machine and the Thrill of a Lifetime](https://inspire.eaa.org/2019/05/16/landing-the-space-shuttle-an-incredible-flying-machine-and-the-thrill-of-a-lifetime/) ([comments](https://news.ycombinator.com/item?id=49720854))
+
+## Culture and the Shape of Computing
+- [The American Religion of Self-Storage Facilities](https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities) ([comments](https://news.ycombinator.com/item?id=49740260))
+- [Sex, AI, and the Apocalypse](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/) ([comments](https://news.ycombinator.com/item?id=49746654))
+- [We Must Create the Shit Machine](https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine) ([comments](https://lobste.rs/s/vzql1n/we_must_create_shit_machine))
+- [Computer Reset, Dallas](https://dfarq.homeip.net/computer-reset-dallas/) ([comments](https://news.ycombinator.com/item?id=49746371))
+- [Why I Didn't Sign the Fields Medallists' Letter](https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/) ([comments](https://news.ycombinator.com/item?id=49738091))
+- [CCC Invites All Model Citizens to 40C3](https://events.ccc.de/en/2026/09/12/40c3-model-citizens/) ([comments](https://news.ycombinator.com/item?id=49737787))
+- [A/I Shuts Down](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/) ([comments](https://lobste.rs/s/wxnibb/i_shuts_down))
+- [The End of verygoodsoftwarenotvirus.ru](https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/) ([comments](https://lobste.rs/s/ihw0hq/end_verygoodsoftwarenotvirus_ru))
