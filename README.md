@@ -1,64 +1,13 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI, Autonomy, and Governance
-- [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design) ([comments](https://news.ycombinator.com/item?id=49761432))
-- [AI Insiders Issue New Warnings](https://slashdot.org/story/26/09/17/2042242/ai-insiders-issue-new-warnings---including-former-anthropic-engineer-jacob-coxon?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49761432))
-- [The Implications of Linguistic Illegibility for LLM Security](https://arxiv.org/abs/2609.02852) ([comments](https://news.ycombinator.com/item?id=49758689))
-- [Cache-to-Cache: Direct Semantic Communication Between LLMs](https://arxiv.org/abs/2510.03215) ([comments](https://news.ycombinator.com/item?id=49758615))
-- [AI Agents Can Modify Themselves Without Humans Telling Them To Do So](https://soylentnews.org/article.pl?sid=26/09/17/1434244&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/1434244&from=rss))
-- [Anthropic Commits to Independent AI Evaluators; Nvidia Wants Development as Fast as Possible](https://slashdot.org/story/26/09/16/0619212/anthropic-commits-to-independent-ai-evaluators-wants-slower-development-nvidias-ceo-wants-it-as-fast-as-you-can?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49731413))
-- [OpenAI Agent Backdoor Communications](https://soylentnews.org/article.pl?sid=26/09/15/1120256&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/15/1120256&from=rss))
-- [Open Weights Are Not Open Source: Why AI's Favorite Label Is Under Dispute](https://soylentnews.org/article.pl?sid=26/09/17/039255&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/039255&from=rss))
-
-## Software, Languages, and Developer Tools
-- [Saving Another 100TB of RAM with Math and Rust](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/) ([comments](https://news.ycombinator.com/item?id=49758580))
-- [Rust Is Now a 'Tier One' Language at Microsoft](https://developers.slashdot.org/story/26/09/13/2144215/rust-is-now-a-tier-one-language-at-microsoft?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49755024))
-- [C++26: Trivial Infinite Loops Are No Longer Undefined Behaviour](https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops) ([comments](https://news.ycombinator.com/item?id=49746406))
-- [The C++20 u8/char8_t Backward-Compatibility Fiasco](https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/) ([comments](https://lobste.rs/s/ltjgvl/c_20_s_u8_char8_t_backward_compatibility))
-- [Size-Specialized Memory Allocation](https://go.dev/blog/size-specialized-allocations) ([comments](https://news.ycombinator.com/item?id=49735057))
-- [A Search-and-Inference Database from Scratch in Pure Zig](https://antfly.io/research/antfly-zig) ([comments](https://news.ycombinator.com/item?id=49714157))
-- [Typst Makes Big Strides](https://lwn.net/Articles/1092993/) ([comments](https://lobste.rs/s/j4oyxa/typst_makes_big_strides))
-- [Vale, Code-Like Linting for Prose](https://vale.sh) ([comments](https://lobste.rs/s/anvcfz/vale_code_like_linting_for_prose))
-- [Android 17 Adds New APIs Without Releasing Them to AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576) ([comments](https://news.ycombinator.com/item?id=49758736))
-- [CSS-Tricks Could Be a Co-op](https://ericwbailey.website/published/css-tricks-could-be-a-co-op/) ([comments](https://lobste.rs/s/bcfzlc/css_tricks_could_be_co_op))
-- [sudo and OpenDoas Timestamp Files](https://Ï.duncano.de/sudo-doas-timestamp-files) ([comments](https://lobste.rs/s/9njxl2/sudo_opendoas_timestamp_files_2020))
-- [Be Alert: Targeted Attacks on Prominent Rustaceans](https://blog.rust-lang.org/2026/09/17/targeted-attacks/) ([comments](https://lobste.rs/s/uz30ed/be_alert_targeted_attacks_on_prominent))
-- [The Golden Spike, and Resurrecting the Vale(n) Programming Language](https://verdagon.dev/blog/golden-spike-reviving-vale-valen) ([comments](https://lobste.rs/s/fjnkn4/golden_spike_resurrecting_vale_n))
-- [OpenJev](https://openjev.com/) ([comments](https://news.ycombinator.com/item?id=49752041))
-- [Cactus Needle 3: Small Automation Models Match DeepSeek V4 Flash](https://cactuscompute.com/needle) ([comments](https://news.ycombinator.com/item?id=49748553))
-
-## Security, Privacy, and Critical Infrastructure
-- [Flock Cameras Are Riddled with Security Vulnerabilities and Hard-Coded Credentials](https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/) ([comments](https://lobste.rs/s/eyg3oe/flock_cameras_are_riddled_with_security))
-- [Hackers Stole Flock's Camera Software, Revealing How the Company Tracks Cars and People](https://yro.slashdot.org/story/26/09/17/0517235/hackers-stole-flocks-camera-software-revealing-how-the-company-tracks-cars-and-people?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49744704))
-- [Four Groups Caught Using the Same Chrome and Windows Exploit Kit](https://soylentnews.org/article.pl?sid=26/09/15/1127207&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/15/1127207&from=rss))
-- [Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug](https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/) ([comments](https://news.ycombinator.com/item?id=49757050))
-- [Korea Raises Data Breach Fines to 10% of Revenue](https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899) ([comments](https://news.ycombinator.com/item?id=49759466))
-- [A Rant About Phishing: It's Not the User's Fault](https://soylentnews.org/article.pl?sid=26/09/13/2044243&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/13/2044243&from=rss))
-- [Russian Plot to Sabotage Undersea Cables With a 'Secret Weapon' Foiled by NATO](https://soylentnews.org/article.pl?sid=26/09/15/1123211&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/15/1123211&from=rss))
-- [Inside ZCode: Silently Uploading Your Git History to the Cloud](https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/) ([comments](https://news.ycombinator.com/item?id=49750694))
-- [I Don't Like Passkeys](https://hawksley.dev/blog/i-dont-like-passkeys) ([comments](https://lobste.rs/s/4a7qly/i_don_t_like_passkeys))
-- [Digital Sovereignty Sounds Great Until You Try Ditching Your Suppliers](https://soylentnews.org/article.pl?sid=26/09/11/1730236&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/11/1730236&from=rss))
-
-## Space, Science, and Discovery
+## Space and AI
 - [SpaceX Aims Starship for Orbit on September 22](https://soylentnews.org/article.pl?sid=26/09/17/1437250&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/1437250&from=rss))
-- [How SpaceX Streamlined the Raptor Engine](https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor) ([comments](https://news.ycombinator.com/item?id=49746626))
-- [Rocket Lab Is Seeing Red About NASA's Decision on a Mars Spacecraft](https://soylentnews.org/article.pl?sid=26/09/16/0336241&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/16/0336241&from=rss))
-- [Europe Will Go It Alone on Venus Mission After NASA Yanks Radar Instrument](https://soylentnews.org/article.pl?sid=26/09/13/1835255&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/13/1835255&from=rss))
-- [Mathematicians Build Long-Awaited Graph Sandwich](https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/) ([comments](https://news.ycombinator.com/item?id=49755095))
-- [I Vibed a Proof of Conway's Conjecture](https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/) ([comments](https://news.ycombinator.com/item?id=49755024))
-- [Two Parallel Neural Ectoderm Progenitors Contribute to the Developing Brain](https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/) ([comments](https://news.ycombinator.com/item?id=49755533))
-- [The First New Cat Species Discovered in 100 Years](https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years) ([comments](https://news.ycombinator.com/item?id=49744704))
-- [A New Solar Cell Could Generate Electricity Underwater](https://soylentnews.org/article.pl?sid=26/09/16/046217&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/16/046217&from=rss))
-- [North Korean Nuclear Test Sets Off Years of Earthquakes](https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes) ([comments](https://news.ycombinator.com/item?id=49755160))
-- [Retired Man Turns Spare Room Into Soviet-Era Supercomputer](https://soylentnews.org/article.pl?sid=26/09/11/1724219&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/11/1724219&from=rss))
-- [Microcode in Intel's 8087 Floating-Point Chip: The Scale Instruction](https://soylentnews.org/article.pl?sid=26/09/13/0258221&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/13/0258221&from=rss))
+- [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design) ([comments](https://news.ycombinator.com/item?id=49761432))
 
-## Policy, Power, and Society
-- [Will California Gut Its Net Neutrality Law to Comply with Trump Administration Demands?](https://yro.slashdot.org/story/26/09/18/0023251/will-california-gut-its-net-neutrality-law-to-comply-with-trump-admin-demands?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49758689))
-- [America Acknowledges for the First Time That It Has Deployed Weapons in Space](https://news.slashdot.org/story/26/09/16/2134242/america-acknowledges-for-the-first-time-it-has-deployed-weapons-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49750694))
-- [Ex-Google DeepMind Researcher Warns AI Could Kill All Humans](https://slashdot.org/story/26/09/16/2151240/ex-google-deepmind-researcher-also-warns-ai-could-kill-all-humans-but-metas-zuckerberg-believes-safety-is-up-to-each-ai-company?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49749369))
-- [Journalist Calls Out 'Collective Amnesia' of Schools' Romance With Big Tech Over AI](https://news.slashdot.org/story/26/09/15/0346259/journalist-calls-out-collective-amnesia-of-schools-romance-with-big-tech-over-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49753131))
-- [America's Cryptocurrency 'Clarity Act' Fails Despite Industry Lobbying](https://news.slashdot.org/story/26/09/16/0454223/americas-cryptocurrency-clarity-act-fails-spectacularly-despite-hundreds-of-millions-in-industry-lobbying?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49731413))
-- [Australia Considers Noise Cameras to Combat Loud Vehicles](https://soylentnews.org/article.pl?sid=26/09/16/0341241&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/16/0341241&from=rss))
-- [Lawmakers Target Flock Cameras With a Threat to Highway Funding](https://soylentnews.org/article.pl?sid=26/09/17/1428251&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/1428251&from=rss))
-- [Iran Strikes on Amazon Data Centers Caused Permanent Loss of Customer Data](https://slashdot.org/story/26/09/17/0619253/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49746626))
+## Programming Languages and Tools
+- [Saving another 100TB of RAM with math (and Rust)](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/) ([comments](https://lobste.rs/s/meo3ou/saving_another_100tb_ram_with_math_rust))
+- [Typst makes big strides](https://lwn.net/Articles/1092993/) ([comments](https://lobste.rs/s/j4oyxa/typst_makes_big_strides))
+
+## Security and Privacy
+- [Flock cameras are riddled with security vulnerabilities and hard-coded credentials](https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/) ([comments](https://lobste.rs/s/eyg3oe/flock_cameras_are_riddled_with_security))
+- [Korea raises data breach fines to 10% of revenue](https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899) ([comments](https://news.ycombinator.com/item?id=49759466))
