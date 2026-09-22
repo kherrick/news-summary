@@ -1,25 +1,52 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence
+## AI Capability, Trust, and Governance
+- [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6) ([comments](https://news.ycombinator.com/item?id=49792730))
+- [MiMo-v2.6-Pro: Intelligence, Performance, and Price Analysis](https://artificialanalysis.ai/models/mimo-v2-6-pro) ([comments](https://news.ycombinator.com/item?id=49796660))
+- [Frontier AI on Your Own Hardware](https://timdettmers.com/2026/09/21/dlab-open-source-week/) ([comments](https://news.ycombinator.com/item?id=49791647))
 - [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/) ([comments](https://news.ycombinator.com/item?id=49792342))
-- [Meta's New 'Personal AI Agent' Muse Beats ChatGPT in Downloads - and Get Blocked by Amazon](https://tech.slashdot.org/story/26/09/22/0116233/metas-new-personal-ai-agent-muse-beats-chatgpt-in-downloads---and-get-blocked-by-amazon?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/09/22/0116233/metas-new-personal-ai-agent-muse-beats-chatgpt-in-downloads---and-get-blocked-by-amazon?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Grok 4.7](https://x.ai/news/grok-4-7) ([comments](https://news.ycombinator.com/item?id=49788838))
+- [How to Know If You Can Trust an AI's Answer to Your Question](https://soylentnews.org/article.pl?sid=26/09/20/151247&from=rss)
+- [Fake AI Intelligence Almost Made the US Military Start a War With China](https://news.slashdot.org/story/26/09/19/062210/fake-ai-intelligence-almost-made-the-us-military-start-a-war-with-china)
+- [Open Weights Are Not Open Source: Why AI's Favorite Label Is Under Dispute](https://soylentnews.org/article.pl?sid=26/09/17/039255&from=rss)
+- [AI Agents Can Modify Themselves Without Humans Telling Them To Do So](https://soylentnews.org/article.pl?sid=26/09/17/1434244&from=rss)
+- [Lawsuit Says Anthropic, OpenAI, xAI, and Google Made an Illegal Agreement on AI Slowdown](https://yro.slashdot.org/story/26/09/20/2152215/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown)
 
-## Software and Systems
-- [Looking forward to Git 2.56 – and 3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/) ([comments](https://news.ycombinator.com/item?id=49794736))
-- [Deterministic Hypervisors For Cheap](https://redvice.org/2026/deterministic-hypervisor/) ([comments](https://lobste.rs/s/hirktz/deterministic_hypervisors_for_cheap))
-- [Running an Optimal Trace](https://anishathalye.com/optimal-trace/) ([comments](https://lobste.rs/s/jbbxgy/running_optimal_trace))
+## Security, Infrastructure, and Computing Foundations
+- [Deterministic Hypervisors for Cheap](https://redvice.org/2026/deterministic-hypervisor/) ([comments](https://lobste.rs/s/hirktz/deterministic_hypervisors_for_cheap))
+- [Stack Unwinding Can Lead to Leakless Code Execution](https://pepsipu.com/blog/2026-09-dwarf/) ([comments](https://lobste.rs/s/0d6gcs/stack_unwinding_can_lead_leakless_code))
+- [A First Futamura Projection](https://blog.veitheller.de/A_First_Futamura_Projection.html) ([comments](https://lobste.rs/s/uahccr/first_futamura_projection))
+- [Firmware Freedom](https://playtaurus.com/blog/firmware-freedom) ([comments](https://news.ycombinator.com/item?id=49797226))
+- [Epoll and Kqueue: How Operating Systems Learned to Wait Efficiently](https://thecodinggopher.substack.com/p/epoll-and-kqueue-how-operating-systems) ([comments](https://news.ycombinator.com/item?id=49778467))
+- [Looking Forward to Git 2.56—and 3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/) ([comments](https://news.ycombinator.com/item?id=49794736))
+- [North Korean Hackers Posed as Recruiters and Infected 30,000 Devices Worldwide](https://yro.slashdot.org/story/26/09/20/2349221/north-korean-hackers-posed-as-recruiters-they-infected-30000-devices-worldwide)
+- [Four Groups Caught Using the Same Chrome and Windows Exploit Kit](https://soylentnews.org/article.pl?sid=26/09/15/1127207&from=rss)
+- [Russian Plot to Sabotage Undersea Cables With a “Secret Weapon” Foiled by NATO](https://soylentnews.org/article.pl?sid=26/09/15/1123211&from=rss)
+- [PDF Forgeries Are Surprisingly Rare](https://gwern.net/blog/2022/pdf-forgery) ([comments](https://news.ycombinator.com/item?id=49774269))
+- [Why 0xCAFEBABE?](https://www.artima.com/insidejvm/whyCAFEBABE.html) ([comments](https://lobste.rs/s/2ym3yg/why_0xcafebabe))
 
-## Space and Astronomy
-- [NASA’s Mars Sample Return mission is dead](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead) ([comments](https://news.ycombinator.com/item?id=49791939))
-- [SpaceX Aims Starship for Orbit on September 22](https://soylentnews.org/article.pl?sid=26/09/17/1437250&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/1437250&from=rss))
-- [A New Solar Cell Could Generate Electricity Underwater](https://soylentnews.org/article.pl?sid=26/09/16/046217&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/16/046217&from=rss))
+## Space, Science, and Strange Signals
+- [NASA’s Mars Sample Return Mission Is Dead](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead) ([comments](https://news.ycombinator.com/item?id=49791939))
+- [Rocket Lab Is Seeing Red About NASA’s Decision on a Mars Spacecraft](https://soylentnews.org/article.pl?sid=26/09/16/0336241&from=rss)
+- [SpaceX Aims Starship for Orbit on September 22](https://soylentnews.org/article.pl?sid=26/09/17/1437250&from=rss)
+- [Have Space Gun—Will Orbit](https://soylentnews.org/article.pl?sid=26/09/16/0344204&from=rss)
+- [A New Solar Cell Could Generate Electricity Underwater](https://soylentnews.org/article.pl?sid=26/09/16/046217&from=rss)
+- [Tyrannosaurus Rex Was Warm-Blooded and Able to Live in the Arctic](https://soylentnews.org/article.pl?sid=26/09/17/1910237&from=rss)
+- [Scientists Develop New Method for Deciphering Ancient Scrolls](https://soylentnews.org/article.pl?sid=26/09/20/1254229&from=rss)
+- [The Only Verified Report of a Person Being Struck by Debris That Had Fallen From Orbit](https://soylentnews.org/article.pl?sid=26/09/20/1245219&from=rss)
+- [HERMES Radio Enables Voice and Data Communication Over Vast Distances](https://spectrum.ieee.org/hermes-shortwave-radio-digital-data) ([comments](https://news.ycombinator.com/item?id=49789228))
+- [What Happens When Neutrinos Swap Identities Inside a Supernova?](https://soylentnews.org/article.pl?sid=26/09/19/2258201&from=rss)
+- [Paper Models of Polyhedra](https://www.polyhedra.net/en/) ([comments](https://news.ycombinator.com/item?id=49771389))
 
-## Security and Privacy
-- [North Korean Hackers Posed as Recruiters. They Infected 30,000 Devices Worldwide](https://yro.slashdot.org/story/26/09/20/2349221/north-korean-hackers-posed-as-recruiters-they-infected-30000-devices-worldwide?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/09/20/2349221/north-korean-hackers-posed-as-recruiters-they-infected-30000-devices-worldwide?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Grandmother Jailed for Six Months After Facial Recognition Mistake Launches $10 Million Lawsuit](https://soylentnews.org/article.pl?sid=26/09/19/2252250&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/19/2252250&from=rss))
-- [To Enforce Its Proposed Social Media Ban for 450 Million Pre-Teens, EU Builds an Open Source App](https://yro.slashdot.org/story/26/09/20/0712211/to-enforce-its-proposed-social-media-ban-for-450-million-pre-teens-eu-builds-an-open-source-app?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/09/20/0712211/to-enforce-its-proposed-social-media-ban-for-450-million-pre-teens-eu-builds-an-open-source-app?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-
-## Biology and Science
-- [Tyrannosaurus Rex Was Warm-Blooded And Able To Live In The Arctic, Study Finds](https://soylentnews.org/article.pl?sid=26/09/17/1910237&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/1910237&from=rss))
-- [The Story of How Wolves Became Dogs is Stranger Than We Thought](https://soylentnews.org/article.pl?sid=26/09/20/1225214&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/20/1225214&from=rss))
+## Interfaces, Creativity, and Digital Culture
+- [Apple Copland D11E4 Booting in the Browser](https://www.pagetable.com/300) ([comments](https://news.ycombinator.com/item?id=49791125))
+- [Making a Game for the GBA and PC from the Same Codebase](https://mattgreer.dev/blog/making-a-game-for-gba-and-pc/) ([comments](https://lobste.rs/s/xvkvhh/making_game_for_gba_pc_from_same_codebase))
+- [rift: A Tiling Window Manager for macOS](https://github.com/acsandmann/rift/) ([comments](https://lobste.rs/s/bcbuqk/rift_tiling_window_manager_for_macos))
+- [Lifestreams: A Storage Model for Personal Data (1996)](https://www.ee.columbia.edu/~dpwe/papers/FreeG96-lifestreams.pdf) ([comments](https://lobste.rs/s/xb9tkn/lifestreams_storage_model_for_personal))
+- [Self-Hosting Behind CGNAT](https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/) ([comments](https://lobste.rs/s/sus08k/self_hosting_behind_cgnat))
+- [Socrates vs. the Written Word](https://wondermark.com/socrates-vs-writing/) ([comments](https://news.ycombinator.com/item?id=49795122))
+- [I Don’t Want to Read What You Didn’t Write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/) ([comments](https://news.ycombinator.com/item?id=49794330))
+- [Apple Music to Open a Concert Venue in Battersea Power Station](https://www.bbc.com/news/articles/c607l2j2rj8ro) ([comments](https://news.ycombinator.com/item?id=49797139))
+- [Developer Abandons PS5 Linux Project After Sony Patches AI-Discovered Exploit](https://games.slashdot.org/story/26/09/19/222229/developer-abandons-ps5-linux-project-after-sony-patches-ai-discovered-exploit)
+- [Are We Really Going to Use the Same Desktop UX Forever?](https://www.youtube.com/watch?v=V7AfAcQwLW0) ([comments](https://lobste.rs/s/vpvdlw/are_we_really_going_use_same_desktop_ux))
+- [It’s the End! of the Keyboard](https://soylentnews.org/article.pl?sid=26/09/17/034200&from=rss)
+- [As KDE Turns 30, Contributors and Commits Are Going Strong](https://tech.slashdot.org/story/26/09/21/0647232/as-kde-turns-30-contributors-and-commits-are-going-strong)
