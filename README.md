@@ -1,47 +1,18 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and machine intelligence
-- [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) ([comments](https://news.ycombinator.com/item?id=49805509))
-- [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) ([comments](https://news.ycombinator.com/item?id=49803892))
-- [AI Agents Can Modify Themselves Without Humans Telling Them To Do So — and Other Bad News](https://soylentnews.org/article.pl?sid=26/09/17/1434244&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/1434244&from=rss))
-- [OpenAI GPT-6 Astra Breaks Enigma Message That Has Resisted Solution Since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html) ([comments](https://news.ycombinator.com/item?id=49801324))
-- [Did OpenAI Solve the Wrong Navier-Stokes Problem?](https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/) ([comments](https://lobste.rs/s/wiuzrg/did_openai_solve_wrong_navier_stokes))
-- [How to Talk About “AI” Without Adding to the Anthropomorphization](https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/) ([comments](https://lobste.rs/s/oqipmz/how_talk_about_ai_without_adding))
-- [Open Weights Are Not Open Source: Why AI’s Favorite Label Is Under Dispute](https://soylentnews.org/article.pl?sid=26/09/17/039255&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/039255&from=rss))
+## Law & Policy
+- [Montreal adopts bylaw banning insults against police, municipal employees](https://www.cbc.ca/news/canada/montreal/montreal-city-council-police-9.7352920) ([comments](https://news.ycombinator.com/item?id=49816658))
+- [Grandmother Jailed for Six Months After Facial Recognition Mistake Launches $10 Million Lawsuit](https://soylentnews.org/article.pl?sid=26/09/19/2252250&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/19/2252250&from=rss))
+- [Judge Orders Microsoft to Spill Internal Docs and Scour Execs' Comms in Secondhand Licensing Case](https://soylentnews.org/article.pl?sid=26/09/17/1440248&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/1440248&from=rss))
 
-## Security, software, and infrastructure
-- [Microsoft Helps Take Down Massive Automated, AI-Powered Phishing-as-a-Service Platform](https://yro.slashdot.org/story/26/09/23/0621252/microsoft-helps-take-down-massive-automated-ai-powered-phishing-as-a-service-platform) ([comments](https://yro.slashdot.org/story/26/09/23/0621252/microsoft-helps-take-down-massive-automated-ai-powered-phishing-as-a-service-platform))
-- [GitHub Actions Leaking Secrets When Miri Output Is Cached](https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/) ([comments](https://lobste.rs/s/acz9kk/github_actions_leaking_secrets_when_miri))
-- [WordPress: Unauthenticated Path Traversal Leading to Conditional RCE](https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp) ([comments](https://news.ycombinator.com/item?id=49803959))
-- [North Korean Hackers Posed as Recruiters. They Infected 30,000 Devices Worldwide](https://yro.slashdot.org/story/26/09/21/2349221/north-korean-hackers-posed-as-recruiters-they-infected-30000-devices-worldwide) ([comments](https://yro.slashdot.org/story/26/09/21/2349221/north-korean-hackers-posed-as-recruiters-they-infected-30000-devices-worldwide))
-- [Google Joins the “Oops, Our Agents Hacked Someone” Club After Partner’s Internet Access Error](https://soylentnews.org/article.pl?sid=26/09/22/0155214&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/22/0155214&from=rss))
-- [SAML: A Fractal of Bad Design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/) ([comments](https://news.ycombinator.com/item?id=49806335))
-- [Redis Is Not a Map You Talk to Over TCP](https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/22/redis-is-not-a-map-you-talk-to-over-tcp/) ([comments](https://lobste.rs/s/sfhrrp/redis_is_not_map_you_talk_over_tcp))
-- [Parsing JSON Objects Without Intermediate ASTs](https://arthi-chaud.github.io/posts/json-ir/) ([comments](https://lobste.rs/s/ehpn7n/parsing_json_objects_without))
-- [Fearless SIMD v1.0 Is Here](https://linebender.org/blog/fearless-simd-1-0/) ([comments](https://lobste.rs/s/wx3qsm/fearless_simd_v1_0_is_here))
-- [Abandoning Scientific Linux Was a Mistake](https://blog.melashri.net/posts/scientific-linux-mistake/) ([comments](https://news.ycombinator.com/item?id=49813286))
-- [ReBarUEFI: Resizable BAR for Almost Any UEFI System](https://github.com/xCuri0/ReBarUEFI) ([comments](https://news.ycombinator.com/item?id=49781862))
-- [How Did AMD Ryzen Get 50% Faster in Two Years?](https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/) ([comments](https://news.ycombinator.com/item?id=49758709))
+## Artificial Intelligence
+- [Stripe built its internal AI platform](https://stripe.dev/blog/meet-stripes-knowledge-ai-platform) ([comments](https://news.ycombinator.com/item?id=49815982))
+- [The Price of Intelligence Is Falling Rapidly](https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html) ([comments](https://news.ycombinator.com/item?id=49815526))
+- [Pentagon says overreliance on AI contributed to missile strike on Iran school](https://www.bloomberg.com/graphics/2026-iran-school-attack/) ([comments](https://news.ycombinator.com/item?id=49806430))
+- [Open Weights Are Not Open Source: Why AI's Favorite Label is Under Dispute](https://soylentnews.org/article.pl?sid=26/09/17/039255&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/039255&from=rss))
 
-## Policy, surveillance, and infrastructure
-- [Netherlands Bracing for Potentially Devastating US Sanctions Against the ICC](https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6) ([comments](https://news.ycombinator.com/item?id=49813419))
-- [Pentagon Says Overreliance on AI Contributed to Missile Strike on Iran School](https://www.bloomberg.com/graphics/2026-iran-school-attack/) ([comments](https://news.ycombinator.com/item?id=49806430))
-- [Lawsuit Says Anthropic, OpenAI, SpaceXAI and Google Made Illegal Agreement on AI Slowdown](https://yro.slashdot.org/story/26/09/20/2152215/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown) ([comments](https://yro.slashdot.org/story/26/09/20/2152215/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown))
-- [US Senator’s Attempt to Mandate an “AI Kill Switch” Is Rejected](https://soylentnews.org/article.pl?sid=26/09/17/1020216&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/1020216&from=rss))
-- [Australia Considers Smart Glasses Ban in Government Workplaces, While 70 People Sue Meta Over Unknowing Data Collection](https://yro.slashdot.org/story/26/09/21/0243250/australia-considers-smart-glasses-ban-in-government-workplaces-while-70-people-sue-meta-over-unknowing-data-collection) ([comments](https://yro.slashdot.org/story/26/09/21/0243250/australia-considers-smart-glasses-ban-in-government-workplaces-while-70-people-sue-meta-over-unknowing-data-collection))
-- [Hackers Reveal How Flock Cameras Really Track Cars and People](https://soylentnews.org/article.pl?sid=26/09/17/198200&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/198200&from=rss))
-- [Raspberry Pi Locks Down Pi 5 RAM Upgrades in Firmware](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/) ([comments](https://lobste.rs/s/5ybneq/raspberry_pi_locks_down_pi_5_ram_upgrades))
-- [Google Opens Preorders for Its $899 Gemini-Enhanced “Googlebook” Laptops](https://tech.slashdot.org/story/26/09/22/031256/google-opens-preorders-for-its-899-gemini-enhanced-googlebook-laptops) ([comments](https://tech.slashdot.org/story/26/09/22/031256/google-opens-preorders-for-its-899-gemini-enhanced-googlebook-laptops))
-
-## Science, history, and culture
-- [Tyrannosaurus Rex Was Warm-Blooded and Able to Live in the Arctic, Study Finds](https://soylentnews.org/article.pl?sid=26/09/17/1910237&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/1910237&from=rss))
-- [The Brain Is Actually Two Completely Separate Organs](https://science.slashdot.org/story/26/09/20/0451204/the-brain-is-actually-two-completely-separate-organs) ([comments](https://science.slashdot.org/story/26/09/20/0451204/the-brain-is-actually-two-completely-separate-organs))
-- [What Happens When Neutrinos Swap Identities Inside a Supernova?](https://soylentnews.org/article.pl?sid=26/09/19/2258201&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/19/2258201&from=rss))
-- [A New Solar Cell Could Generate Electricity Underwater](https://soylentnews.org/article.pl?sid=26/09/16/046217&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/16/046217&from=rss))
-- [The Story of How Wolves Became Dogs Is Stranger Than We Thought](https://soylentnews.org/article.pl?sid=26/09/20/1225214&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/20/1225214&from=rss))
-- [What California Is Learning from Solar Panels Built Over Irrigation Canals](https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals) ([comments](https://news.ycombinator.com/item?id=49796379))
-- [Scientists Develop New Method for Deciphering Ancient Scrolls](https://soylentnews.org/article.pl?sid=26/09/20/1254229&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/20/1254229&from=rss))
-- [How Often Do You Think About the 1893 World’s Fair?](https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/) ([comments](https://news.ycombinator.com/item?id=49812023))
-- [Microsoft Killed FoxPro in 2007. Anyway, Here’s FoxPro Revived](https://foxscript.org/) ([comments](https://news.ycombinator.com/item?id=49808023))
-- [Markdown in /src](https://htmx.org/essays/markdown-in-src/) ([comments](https://news.ycombinator.com/item?id=49794478))
-- [rift — a Tiling Window Manager for macOS](https://github.com/acsandmann/rift/) ([comments](https://lobste.rs/s/bcbuqk/rift_tiling_window_manager_for_macos))
+## Security & Privacy
+- ['We hacked the FBI:' Hackers say they have data on all FBI employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/) ([comments](https://news.ycombinator.com/item?id=49805278))
+- [Microsoft Helps Take Down Massive Automated, AI-Powered Phishing-as-a-Service Platform](https://yro.slashdot.org/story/26/09/23/0621252/microsoft-helps-take-down-massive-automated-ai-powered-phishing-as-a-service-platform?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/09/23/0621252/microsoft-helps-take-down-massive-automated-ai-powered-phishing-as-a-service-platform?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [China's Humanoid Robots Are Walking Off The Assembly Line On Their Own](https://soylentnews.org/article.pl?sid=26/09/19/231232&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/19/231232&from=rss))
+- [Samsung accidentally freezes its smart fridges with a software update](https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/) ([comments](https://news.ycombinator.com/item?id=49815381))
