@@ -1,48 +1,41 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI/ML Developments and Applications
-- [DeepSeek Elastic Compute (DSec): Sandbox Infrastructure for Effective Agentic Training at Scale](https://arxiv.org/abs/2609.22978) ([comments](https://lobste.rs/s/3hbty3/deepseek_elastic_compute_dsec_sandbox))
-- [The new CC, an AI agent built for families](https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/) ([comments](https://news.ycombinator.com/item?id=49809806))
+## AI Models and Agentic Systems
 - [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) ([comments](https://news.ycombinator.com/item?id=49805509))
 - [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) ([comments](https://news.ycombinator.com/item?id=49803892))
-- [Meta's New 'Personal AI Agent' Muse Beats ChatGPT in Downloads - and Get Blocked by Amazon](https://tech.slashdot.org/story/26/09/22/0116233/metas-new-personal-ai-agent-muse-beats-chatgpt-in-downloads---and-get-blocked-by-amazon?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/09/22/0116233/metas-new-personal-ai-agent-muse-beats-chatgpt-in-downloads---and-get-blocked-by-amazon?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [OpenAI GPT‑6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html) ([comments](https://news.ycombinator.com/item?id=49801324))
-- [Show HN: Training a model to identify AI web content from structure alone](https://arxiv.org/abs/2609.15369) ([comments](https://news.ycombinator.com/item?id=49800566))
-- [Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster](https://minimaxir.com/2026/09/agentic-iteration/) ([comments](https://lobste.rs/s/bg9j71/writing_rust_code_s_faster_than_state_art))
+- [DeepSeek Elastic Compute: Sandbox Infrastructure for Agentic Training](https://arxiv.org/abs/2609.22978) ([comments](https://lobste.rs/s/3hbty3/deepseek_elastic_compute_dsec_sandbox))
+- [Unreal Agent](https://unreallabs.ai/blog/unreal-agent/) ([comments](https://news.ycombinator.com/item?id=49805748))
+- [Writing Rust Code Faster Than State-of-the-Art Libraries With Agents](https://minimaxir.com/2026/09/agentic-iteration/) ([comments](https://lobste.rs/s/bg9j71/writing_rust_code_s_faster_than_state_art))
 
-## Security, Privacy, and Vulnerabilities
-- [The Linux Kernel is Approaching 2,000 CVEs Per Release](https://soylentnews.org/article.pl?sid=26/09/21/1858235&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/21/1858235&from=rss))
-- [GitHub Actions leaking secrets when Miri output is cached](https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/) ([comments](https://lobste.rs/s/acz9kk/github_actions_leaking_secrets_when_miri))
-- [Plain-text files are at risk](https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49) ([comments](https://lobste.rs/s/ph1g2v/plain_text_files_are_at_risk))
-- [WordPress: Unauthenticated path traversal leading to conditional RCE](https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp) ([comments](https://news.ycombinator.com/item?id=49803959))
-- [SAML: A fractal of bad design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/) ([comments](https://news.ycombinator.com/item?id=49806335))
-- [EvilVM: Forth shellcode (2019)](https://web.archive.org/web/20250418124519/http://evilvm.ninja/) ([comments](https://lobste.rs/s/vhbyvk/evilvm_forth_shellcode_2019))
-- [Hackers Reveal How Flock Cameras Really Track Cars and People](https://soylentnews.org/article.pl?sid=26/09/17/198200&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/198200&from=rss))
-- [Spain Gets Its First Taste Of AI-Aided Cyber Attack](https://soylentnews.org/article.pl?sid=26/09/19/2259249&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/19/2259249&from=rss))
-- [North Korean Hackers Posed as Recruiters. They Infected 30,000 Devices Worldwide](https://yro.slashdot.org/story/26/09/20/2349221/north-korean-hackers-posed-as-recruiters-they-infected-30000-devices-worldwide?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/09/20/2349221/north-korean-hackers-posed-as-recruiters-they-infected-30000-devices-worldwide?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Grandmother Jailed for Six Months After Facial Recognition Mistake Launches $10 Million Lawsuit](https://soylentnews.org/article.pl?sid=26/09/19/2252250&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/19/2252250&from=rss))
+## AI Accountability and Governance
+- [Pentagon Investigators Link Overreliance on Palantir AI to a Deadly Strike](https://news.slashdot.org/story/26/09/22/0614238/pentagon-investigators-say-overreliance-on-palantir-ai-contributed-to-us-strike-that-killed-123-iranian-children)
+- [AI Agents Can Modify Themselves Without Human Direction](https://soylentnews.org/article.pl?sid=26/09/17/1434244&from=rss)
+- [Open Weights Are Not Open Source](https://soylentnews.org/article.pl?sid=26/09/17/039255&from=rss)
+- [Proposal for a Mandatory AI Kill Switch Is Rejected](https://soylentnews.org/article.pl?sid=26/09/17/1020216&from=rss)
 
-## Societal Impact, Policy, and Ethics
-- [Are Students Suddenly Losing Interest in Computer Science as AI Coding Takes Off?](https://news.slashdot.org/story/26/09/22/0010234/are-students-suddenly-losing-interest-in-computer-science-as-ai-coding-takes-off?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/09/22/0010234/are-students-suddenly-losing-interest-in-computer-science-as-ai-coding-takes-off?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Pentagon says overreliance on AI contributed to missile strike on Iran school](https://www.bloomberg.com/graphics/2026-iran-school-attack/) ([comments](https://news.ycombinator.com/item?id=49806430))
-- [Pentagon Investigators Say Overreliance on Palantir AI Contributed to US Strike That Killed 123 Iranian Children](https://news.slashdot.org/story/26/09/22/0614238/pentagon-investigators-say-overreliance-on-palantir-ai-contributed-to-us-strike-that-killed-123-iranian-children?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/09/22/0614238/pentagon-investigators-say-overreliance-on-palantir-ai-contributed-to-us-strike-that-killed-123-iranian-children?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [AI Has No Wisdom and Neither Will You](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/) ([comments](https://lobste.rs/s/5svlut/ai_has_no_wisdom_neither_will_you))
-- [How to Know If You Can Trust an AI's Answer to Your Question](https://soylentnews.org/article.pl?sid=26/09/20/151247&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/20/151247&from=rss))
-- [Australia Considers Smart Glasses Ban in Government Workplaces, While 70 People Sue Meta Over Unknowing Data Collection](https://yro.slashdot.org/story/26/09/21/0243250/australia-considers-smart-glasses-ban-in-government-workplaces-while-70-people-sue-meta-over-unknowing-data-collection?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/09/21/0243250/australia-considers-smart-glasses-ban-in-government-workplaces-while-70-people-sue-meta-over-unknowing-data-collection?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [California May Gut State Net Neutrality Law to Comply With Trump Admin Demand](https://soylentnews.org/article.pl?sid=26/09/20/1233205&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/20/1233205&from=rss))
-- [Tech Industry Scratches Its Head Over Trump's 'AI Force' Proposal](https://politics.slashdot.org/story/26/09/19/2250231/tech-industry-scratches-its-head-over-trumps-ai-force-proposal?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://politics.slashdot.org/story/26/09/19/2250231/tech-industry-scratches-its-head-over-trumps-ai-force-proposal?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Lawsuit Says Anthropic, OpenAI, SpaceXAI And Google Made Illegal Agreement On AI Slowdown](https://yro.slashdot.org/story/26/09/20/2152215/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/09/20/2152215/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Democracy vs Digital Infrastructure: Pulitzer-Winning Journalist Charts 'The Rise and Fall of the Artificial State'](https://news.slashdot.org/story/26/09/20/2023252/democracy-vs-digital-infrastructure-pulitzer-winning-journalist-charts-the-rise-and-fall-of-the-artificial-state?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/09/20/2023252/democracy-vs-digital-infrastructure-pulitzer-winning-journalist-charts-the-rise-and-fall-of-the-artificial-state?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Security Under Strain
+- [The Linux Kernel Is Approaching 2,000 CVEs Per Release](https://soylentnews.org/article.pl?sid=26/09/21/1858235&from=rss)
+- [GitHub Actions Could Leak Secrets Through Cached Miri Output](https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/) ([comments](https://lobste.rs/s/acz9kk/github_actions_leaking_secrets_when_miri))
+- [WordPress Path Traversal Vulnerability Could Lead to Remote Code Execution](https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp) ([comments](https://news.ycombinator.com/item?id=49803959))
+- [Hackers Claim Access to Data on All FBI Employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/) ([comments](https://news.ycombinator.com/item?id=49805278))
+- [SAML: A Fractal of Bad Design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/) ([comments](https://news.ycombinator.com/item?id=49806335))
 
-## Programming, Languages, and Tools
-- [The JavaScript Midlife Crisis](https://maroun-baydoun.com/blog/javascript-midlife-crisis/) ([comments](https://news.ycombinator.com/item?id=49807248))
-- [Native apps written in TypeScript and CSS](https://github.com/geastack/examples) ([comments](https://news.ycombinator.com/item?id=49807021))
-- [Serious editors are a commitment (at least for me)](https://utcc.utoronto.ca/~cks/space/blog/tech/EditorsAreACommitment) ([comments](https://lobste.rs/s/2kfsi1/serious_editors_are_commitment_at_least))
-- [Fearless SIMD v1.0 is here](https://linebender.org/blog/fearless-simd-1-0/) ([comments](https://lobste.rs/s/wx3qsm/fearless_simd_v1_0_is_here))
-- [Design your programming languages right (2024)](https://blog.veritates.love/design-it-right) ([comments](https://lobste.rs/s/fdgccx/design_your_programming_languages_right))
-- [Arguing about arguments](https://steveklabnik.com/writing/arguing-about-arguments/) ([comments](https://lobste.rs/s/bvrhgq/arguing_about_arguments))
-- [Looking forward to Git 2.56 - and 3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/) ([comments](https://lobste.rs/s/liey8q/looking_forward_git_2_56_3_0))
-- [As KDE Turns 30, Contributors and Commits are Going Strong](https://tech.slashdot.org/story/26/09/21/0647232/as-kde-turns-30-contributors-and-commits-are-going-strong?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/09/21/0647232/as-kde-turns-30-contributors-and-commits-are-going-strong?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Self-Hosting Behind CGNAT](https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/) ([comments](https://lobste.rs/s/sus08k/self_hosting_behind_cgnat))
-- [Scientists Develop New Method for Deciphering Ancient Scrolls](https://soylentnews.org/article.pl?sid=26/09/20/1254229&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/20/1254229&from=rss))
-- [ReBarUEFI: Resizable BAR for almost any UEFI system](https://github.com/xCuri0/ReBarUEFI) ([comments](https://news.ycombinator.com/item?id=49781862))
+## Developer Tools and Platform Engineering
+- [Fearless SIMD 1.0 Arrives](https://linebender.org/blog/fearless-simd-1-0/) ([comments](https://lobste.rs/s/wx3qsm/fearless_simd_v1_0_is_here))
+- [How AMD Ryzen Became 50% Faster in Two Years](https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/) ([comments](https://news.ycombinator.com/item?id=49758709))
+- [Markdown in `/src`](https://htmx.org/essays/markdown-in-src/) ([comments](https://news.ycombinator.com/item?id=49794478))
+- [Looking Forward to Git 2.56—and 3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/) ([comments](https://lobste.rs/s/liey8q/looking_forward_git_2_56_3_0))
+- [Raspberry Pi Locks Down Pi 5 RAM Upgrades in Firmware](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/) ([comments](https://lobste.rs/s/5ybneq/raspberry_pi_locks_down_pi_5_ram_upgrades))
+
+## Science and Space
+- [Tyrannosaurus Rex Was Warm-Blooded and Able to Live in the Arctic](https://soylentnews.org/article.pl?sid=26/09/17/1910237&from=rss)
+- [Scientists Develop a New Method for Deciphering Ancient Scrolls](https://soylentnews.org/article.pl?sid=26/09/20/1254229&from=rss)
+- [A New Solar Cell Could Generate Electricity Underwater](https://soylentnews.org/article.pl?sid=26/09/16/046217&from=rss)
+- [What Happens When Neutrinos Swap Identities Inside a Supernova?](https://soylentnews.org/article.pl?sid=26/09/19/2258201&from=rss)
+- [SpaceX Targets September 22 for Starship’s Next Orbital Flight](https://soylentnews.org/article.pl?sid=26/09/17/1437250&from=rss)
+
+## Digital Rights and Fragile Infrastructure
+- [Hackers Reveal How Flock Cameras Track Cars and People](https://soylentnews.org/article.pl?sid=26/09/17/198200&from=rss)
+- [Facial-Recognition Mistake Leads to Jail Time and a $10 Million Lawsuit](https://soylentnews.org/article.pl?sid=26/09/19/2252250&from=rss)
+- [Wartime Damage Leaves Some Middle East Cloud Resources Gone for Good](https://soylentnews.org/article.pl?sid=26/09/17/1446234&from=rss)
+- [Australia Considers Banning Smart Glasses in Government Workplaces](https://yro.slashdot.org/story/26/09/20/2349221/north-korean-hackers-posed-as-recruiters-they-infected-30000-devices-worldwide)
