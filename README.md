@@ -1,36 +1,42 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI & Technology
+## AI and Agents
 - [Inside Snapdragon Summit 2026: Agentic AI PCs, Googlebooks and Linux | Qualcomm](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux) ([comments](https://lobste.rs/s/ip3taa/inside_snapdragon_summit_2026_agentic_ai))
-- [The AI Models That Cheat The Most, According To New CAIS Benchmark](https://soylentnews.org/article.pl?sid=26/09/22/1133253&from=rss)
+- [Automatically detecting AI text in my browser](https://www.seangoedecke.com/deckard/) ([comments](https://lobste.rs/s/wvb8wg/automatically_detecting_ai_text_my))
 - [Australia says OpenAI agent hacked into government website](https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411) ([comments](https://news.ycombinator.com/item?id=49825024))
-- [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) ([comments](https://news.ycombinator.com/item?id=49820134))
-- [Gemini 3.8 text-to-speech](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/) ([comments](https://news.ycombinator.com/item?id=49817615))
-- [LensVLM: Compressing long context as images, expanding only relevant pages](https://huggingface.co/apple/LensVLM-9B) ([comments](https://news.ycombinator.com/item?id=49820496))
-- [How to Know If You Can Trust an AI's Answer to Your Question](https://soylentnews.org/article.pl?sid=26/09/20/151247&from=rss)
+- [Microsoft Helps Take Down Massive Automated, AI-Powered Phishing-as-a-Service Platform](https://yro.slashdot.org/story/26/09/23/0621252/microsoft-helps-take-down-massive-automated-ai-powered-phishing-as-a-service-platform?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/09/23/0621252/microsoft-helps-take-down-massive-automated-ai-powered-phishing-as-a-service-platform?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Tokens too cheap to meter](https://jyn.dev/tokens-too-cheap-to-meter/) ([comments](https://news.ycombinator.com/item?id=49813482))
 
-## Security & Privacy
-- [Liquid Network Security Incident Assessment](https://blog.blockstream.com/liquid-network-security-incident-assessment/) ([comments](https://news.ycombinator.com/item?id=49824978))
-- [Latest BGP hijack targets hosting software vendor](https://blog.apnic.net/2026/09/22/latest-bgp-hijack-targets-hosting-software-vendor/) ([comments](https://lobste.rs/s/eqme8i/latest_bgp_hijack_targets_hosting))
-- [Hackers Reveal How Flock Cameras Really Track Cars and People](https://soylentnews.org/article.pl?sid=26/09/17/198200&from=rss)
-
-## Open Source & Development
+## Open Source and Desktop/Linux
 - [Ideas on modernizing the open-source desktop](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/) ([comments](https://news.ycombinator.com/item?id=49825642))
-- [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/) ([comments](https://news.ycombinator.com/item?id=49823664))
-- [We just shipped support for the ugliest part of HTTP: Vary](https://blog.cloudflare.com/vary-support/) ([comments](https://news.ycombinator.com/item?id=49823195))
-- [The GNOME LLM Policy That I Want](https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/) ([comments](https://lobste.rs/s/kras1h/gnome_llm_policy_i_want))
+- [KDE for People](https://kdeforpeople.com) ([comments](https://lobste.rs/s/b39503/kde_for_people))
+- [As KDE Turns 30, Contributors and Commits are Going Strong](https://tech.slashdot.org/story/26/09/21/0647232/as-kde-turns-30-contributors-and-commits-are-going-strong?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/09/21/0647232/as-kde-turns-30-contributors-and-commits-are-going-strong?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [The Linux Kernel is Approaching 2,000 CVEs Per Release](https://soylentnews.org/article.pl?sid=26/09/21/1858235&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/21/1858235&from=rss))
+- [The Zig Journey](https://kristoff.it/blog/the-zig-journey/) ([comments](https://lobste.rs/s/5xxm0v/zig_journey))
 
-## Science & Discoveries
-- [Scientists Develop New Method for Deciphering Ancient Scrolls](https://soylentnews.org/article.pl?sid=26/09/20/1254229&from=rss)
-- [The Story of How Wolves Became Dogs is Stranger Than We Thought](https://soylentnews.org/article.pl?sid=26/09/20/1225214&from=rss)
-- [Italian parliament votes for return to nuclear energy](https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567) ([comments](https://news.ycombinator.com/item?id=49819221))
+## Hardware and Chips
+- [Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest](https://github.com/nestrilabs/virtio-nvgpu) ([comments](https://news.ycombinator.com/item?id=49824864))
+- [Google Opens Preorders for Its $899 Gemini-Enhanced 'Googlebook' Laptops](https://tech.slashdot.org/story/26/09/22/031256/google-opens-preorders-for-its-899-gemini-enhanced-googlebook-laptops?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/09/22/031256/google-opens-preorders-for-its-899-gemini-enhanced-googlebook-laptops?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Fujitsu Ready To Sell Its Custom 'Monaka' Arm Chip, Maybe To Rival Server-Makers](https://soylentnews.org/article.pl?sid=26/09/19/2254243&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/19/2254243&from=rss))
+- [Chinese Memory-Maker CXMT Claims DRAM Production Breakthrough](https://soylentnews.org/article.pl?sid=26/09/22/0239200&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/22/0239200&from=rss))
 
-## Politics & Society
-- [Cities Across US Oppose Trump FCC Plan to Preempt Local Broadband Rules](https://news.slashdot.org/story/26/09/23/0144238/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Andreessen Horowitz Launches AI/Company-Building School As a College Alternative](https://news.slashdot.org/story/26/09/23/0625203/andreessen-horowitz-launches-aicompany-building-school-as-a-college-alternative?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Bitcoin Surges to $86,455, an 8-Month High, After America's SEC Announces Tokenized Stock Experiment](https://slashdot.org/story/26/09/23/0744202/bitcoin-surges-to-86455-an-8-month-high-after-americas-sec-announces-tokenized-stock-experiment?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Security and Privacy
+- [Liquid Network Security Incident Assessment](https://blog.blockstream.com/liquid-network-security-incident-assessment/) ([comments](https://news.ycombinator.com/item?id=49824978))
+- [FLAWED's Flaws and What This Means for Industry Research](https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/) ([comments](https://lobste.rs/s/3yywjl/flawed_s_flaws_what_this_means_for))
+- [Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign) ([comments](https://news.ycombinator.com/item?id=49824686))
+- [Pentagon Investigators Say Overreliance on Palantir AI Contributed to US Strike That Killed 123 Iranian Children](https://news.slashdot.org/story/26/09/22/0614238/pentagon-investigators-say-overreliance-on-palantir-ai-contributed-to-us-strike-that-killed-123-iranian-children?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/09/22/0614238/pentagon-investigators-say-overreliance-on-palantir-ai-contributed-to-us-strike-that-killed-123-iranian-children?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Grandmother Jailed for Six Months After Facial Recognition Mistake Launches $10 Million Lawsuit](https://soylentnews.org/article.pl?sid=26/09/19/2252250&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/19/2252250&from=rss))
 
-## Culture & Miscellany
-- [The Curious Power of Punctuation](https://www.newyorker.com/magazine/2026/09/28/on-the-mark-louis-menand-book-review) ([comments](https://news.ycombinator.com/item?id=49806413))
-- [A brief history of Windows scroll bar shortcuts](https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/) ([comments](https://news.ycombinator.com/item?id=49820065))
-- ['Coyote vs. Acme' Outgrosses All But 3 WB Movies This Year, Heads To Profit](https://entertainment.slashdot.org/story/26/09/22/0529223/coyote-vs-acme-outgrosses-all-but-3-wb-movies-this-year-heads-to-profit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Science and Biology
+- [Tyrannosaurus Rex Was Warm-Blooded And Able To Live In The Arctic, Study Finds](https://soylentnews.org/article.pl?sid=26/09/17/1910237&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/1910237&from=rss))
+- [Ctenophores Aren't Just Beautiful, They're Biological Wonders](https://soylentnews.org/article.pl?sid=26/09/22/1126247&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/22/1126247&from=rss))
+- [What Happens When Neutrinos Swap Identities Inside A Supernova?](https://soylentnews.org/article.pl?sid=26/09/19/2258201&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/19/2258201&from=rss))
+- [China's Humanoid Robots Are Walking Off The Assembly Line On Their Own](https://soylentnews.org/article.pl?sid=26/09/19/231232&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/19/231232&from=rss))
+- [The Story of How Wolves Became Dogs is Stranger Than We Thought](https://soylentnews.org/article.pl?sid=26/09/20/1225214&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/20/1225214&from=rss))
+
+## Miscellaneous
+- [The Story of Mel](https://users.cs.utah.edu/~elb/folklore/mel.html) ([comments](https://lobste.rs/s/wf4wid/story_mel))
+- [Solid Modeling in your browser](https://cartesian-theatrics.github.io/clj-manifold3d/journal/) ([comments](https://lobste.rs/s/9oeulu/solid_modeling_your_browser))
+- [Show HN: How long do I need to work at my salary before I can coast, or retire?](https://github.com/karmanyaahm/budget-tools/tree/main/fire) ([comments](https://news.ycombinator.com/item?id=49826059))
+- [Show HN: An open-source manufacturing ERP/MES/QMS](https://carbon.ms/self-hosted) ([comments](https://news.ycombinator.com/item?id=49824715))
+- [Why you should check your gem's lines of code](https://spinel.coop/blog/why-you-should-check-your-gems-lines-of-code/) ([comments](https://lobste.rs/s/a6wzgu/why_you_should_check_your_gem_s_lines_code))
