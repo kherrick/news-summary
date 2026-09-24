@@ -1,39 +1,44 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and machine intelligence
+## AI/ML
+- [Mercury 2.5 LLM hits 770 tokens per second](https://artificialanalysis.ai/models/mercury-2-5) ([comments](https://news.ycombinator.com/item?id=49823348))
 - [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) ([comments](https://news.ycombinator.com/item?id=49820134))
-- [Claude can measure then optimize its own speed](https://claude.dev/blog/how-we-made-claude-ai-faster/) ([comments](https://news.ycombinator.com/item?id=49821196))
-- [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) ([comments](https://news.ycombinator.com/item?id=49805509))
-- [AI agents can modify themselves without human direction](https://soylentnews.org/article.pl?sid=26/09/17/1434244&from=rss)
-- [How to know if you can trust an AI's answer](https://soylentnews.org/article.pl?sid=26/09/20/151247&from=rss)
-- [Open weights are not open source](https://soylentnews.org/article.pl?sid=26/09/17/039255&from=rss)
+- [Stripe's Knowledge AI Platform](https://stripe.dev/blog/meet-stripes-knowledge-ai-platform) ([comments](https://news.ycombinator.com/item?id=49815982))
+- [Cheaper LLM labelling](https://entropicthoughts.com/cheaper-llm-labeling) ([comments](https://lobste.rs/s/9zjyto/cheaper_llm_labelling))
+- [Tokens too cheap to meter](https://jyn.dev/tokens-too-cheap-to-meter/) ([comments](https://lobste.rs/s/n4vfwm/tokens_too_cheap_meter))
 
-## Security, privacy, and surveillance
-- [Radicle discloses a vulnerability in its network protocol](https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol) ([comments](https://news.ycombinator.com/item?id=49817524))
-- [A BGP hijack targets a hosting-software vendor](https://blog.apnic.net/2026/09/22/latest-bgp-hijack-targets-hosting-software-vendor/) ([comments](https://lobste.rs/s/eqme8i/latest_bgp_hijack_targets_hosting))
-- [Microsoft helps take down an AI-powered phishing-as-a-service platform](https://yro.slashdot.org/story/26/09/23/0621252/microsoft-helps-take-down-massive-automated-ai-powered-phishing-as-a-service-platform?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [North Korean hackers infected 30,000 devices through recruiter scams](https://yro.slashdot.org/story/26/09/20/2349221/north-korean-hackers-posed-as-recruiters-they-infected-30000-devices-worldwide?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Australia considers banning smart glasses in government workplaces](https://yro.slashdot.org/story/26/09/21/0243250/australia-considers-smart-glasses-ban-in-government-workplaces-while-70-people-sue-meta-over-unknowing-data-collection?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Hackers reveal how Flock cameras track cars and people](https://soylentnews.org/article.pl?sid=26/09/17/198200&from=rss)
+## Security/Privacy
+- [UK military jamming other nations' satellites to defend itself](https://www.bbc.com/news/articles/c32l8y8kygdvo) ([comments](https://news.ycombinator.com/item?id=49819814))
+- [Plain-text files are at risk](https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49) ([comments](https://lobste.rs/s/ph1g2v/plain_text_files_are_at_risk))
+- [How to Know If You Can Trust an AI's Answer to Your Question](https://soylentnews.org/article.pl?sid=26/09/20/151247&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/20/151247&from=rss))
+- [Hackers Reveal How Flock Cameras Really Track Cars and People](https://soylentnews.org/article.pl?sid=26/09/17/198200&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/198200&from=rss))
+- [Lawmakers Target Flock Cameras With A Threat To Highway Funding](https://soylentnews.org/article.pl?sid=26/09/17/1428251&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/1428251&from=rss))
 
-## Systems, software, and open source
-- [VS Code's SSH agent is behaving strangely](https://fly.io/blog/vscode-ssh-wtf/) ([comments](https://news.ycombinator.com/item?id=49822555))
-- [Adaptive lossless floating-point encoding arrives in Apache Parquet](https://parquet.apache.org/blog/2026/09/22/alp-adaptive-lossless-floating-point-encoding-in-apache-parquet/) ([comments](https://lobste.rs/s/dtozf3/adaptive_lossless_floating_point))
-- [Making Tailscale faster](https://tailscale.com/blog/making-tailscale-faster) ([comments](https://news.ycombinator.com/item?id=49819880))
-- [A post-mortem debugger for native Windows crashes](https://www.forensicdbg.com) ([comments](https://news.ycombinator.com/item?id=49821086))
-- [Redis hash slots, explained](https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/) ([comments](https://lobste.rs/s/nwg2ha/why_didn_t_anybody_tell_me_about_redis_hash))
-- [Swift 6.4 unifies builds across Linux, macOS, and Windows](https://soylentnews.org/article.pl?sid=26/09/17/1426240&from=rss)
+## Hardware
+- [Solid Modeling in your browser](https://cartesian-theatrics.github.io/clj-manifold3d/journal/) ([comments](https://lobste.rs/s/9oeulu/solid_modeling_your_browser))
+- [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux) ([comments](https://news.ycombinator.com/item?id=49823582))
+- [Google Opens Preorders for Its $899 Gemini-Enhanced 'Googlebook' Laptops](https://tech.slashdot.org/story/26/09/22/031256/google-opens-preorders-for-its-899-gemini-enhanced-googlebook-laptops?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/09/22/031256/google-opens-preorders-for-its-899-gemini-enhanced-googlebook-laptops?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Fujitsu Ready To Sell Its Custom âMonakaâ Arm Chip, Maybe To Rival Server-Makers](https://soylentnews.org/article.pl?sid=26/09/19/2254243&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/19/2254243&from=rss))
 
-## Energy, infrastructure, and science
-- [What happened to 150,000 tons of radioactive waste stored under the Atlantic?](https://hardware.slashdot.org/story/26/09/22/2032255/whatever-happened-to-the-150000-tons-of-radioactive-waste-stored-under-the-atlantic-ocean?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Italy's parliament votes to return to nuclear energy](https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567) ([comments](https://news.ycombinator.com/item?id=49819221))
-- [The UK military has jammed other nations' satellites, the BBC reports](https://www.bbc.com/news/articles/c32l8y8kygdvo) ([comments](https://news.ycombinator.com/item?id=49819814))
-- [Tyrannosaurus rex was warm-blooded and could live in the Arctic](https://soylentnews.org/article.pl?sid=26/09/17/1910237&from=rss)
-- [A new solar cell could generate electricity underwater](https://soylentnews.org/article.pl?sid=26/09/16/046217&from=rss)
+## Science
+- [Italian parliament votes for return to nuclear energy](https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567) ([comments](https://news.ycombinator.com/item?id=49819221))
+- [Tyrannosaurus Rex Was Warm-Blooded And Able To Live In The Arctic, Study Finds](https://soylentnews.org/article.pl?sid=26/09/17/1910237&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/1910237&from=rss))
+- [What Happens When Neutrinos Swap Identities Inside A Supernova?](https://soylentnews.org/article.pl?sid=26/09/19/2258201&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/19/2258201&from=rss))
+- [China's Humanoid Robots Are Walking Off The Assembly Line On Their Own](https://soylentnews.org/article.pl?sid=26/09/19/231232&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/19/231232&from=rss))
 
-## Policy, labor, and markets
-- [OpenAI breached Medicare, and Albanese reveals the reason](https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html) ([comments](https://news.ycombinator.com/item?id=49822556))
-- [DoorDash spent $1.4 million trying to stop Mamdani from becoming mayor](https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/) ([comments](https://news.ycombinator.com/item?id=49821608))
-- [28% of job postings on company career sites have been open for over 90 days](https://unlisted.careers/ghost-jobs/report/2026-09) ([comments](https://news.ycombinator.com/item?id=49818698))
-- [Bitcoin reaches an eight-month high after the SEC announces a tokenized-stock experiment](https://slashdot.org/story/26/09/23/0744202/bitcoin-surges-to-86455-an-8-month-high-after-americas-sec-announces-tokenized-stock-experiment?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Paramount Skydance finally wins its settlement in the Warner Bros. takeover fight](https://entertainment.slashdot.org/story/26/09/21/226252/paramount-skydance-emerges-victorious-finally-wins-settlement-for-warner-bros-takeover?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Software Development
+- [Why you should check your gem's lines of code](https://spinel.coop/blog/why-you-should-check-your-gems-lines-of-code/) ([comments](https://lobste.rs/s/a6wzgu/why_you_should_check_your_gem_s_lines_code))
+- [The Zig Journey](https://kristoff.it/blog/the-zig-journey/) ([comments](https://lobste.rs/s/5xxm0v/zig_journey))
+- [Radicle: Disclosure of Vulnerability in the Network Protocol](https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html) ([comments](https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability))
+- [Do not let your type system reason about aliasing in your programming language](https://futhark-lang.org/blog/2026-09-22-aliasing.html) ([comments](https://lobste.rs/s/huj44r/do_not_let_your_type_system_reason_about))
+- [Abandoning Scientific Linux Was a Mistake](https://blog.melashri.net/posts/scientific-linux-mistake/) ([comments](https://lobste.rs/s/qysrps/abandoning_scientific_linux_was_mistake))
+- [Parsing JSON Objects without intermediate ASTs](https://arthi-chaud.github.io/posts/json-ir/) ([comments](https://lobste.rs/s/ehpn7n/parsing_json_objects_without))
+- [Sandboxing with minimal effort](https://yorickpeterse.com/articles/sandboxing-with-minimal-effort/) ([comments](https://lobste.rs/s/zji8bf/sandboxing_with_minimal_effort))
+- [Fearless SIMD v1.0 is here](https://linebender.org/blog/fearless-simd-1-0/) ([comments](https://lobste.rs/s/wx3qsm/fearless_simd_v1_0_is_here))
+
+## Policy/Law
+- [Seattle City Council votes to ban surveillance pricing in sale of groceries](https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/) ([comments](https://news.ycombinator.com/item?id=49816374))
+- [California May Gut State Net Neutrality Law to Comply With Trump Admin Demand](https://soylentnews.org/article.pl?sid=26/09/20/1233205&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/20/1233205&from=rss))
+- [Trump Denounces Attempts to Control AI, Wants It Renamed 'Super Intelligence' in US Documents](https://politics.slashdot.org/story/26/09/22/2258253/trump-denounces-attempts-to-control-ai-wants-it-renamed-super-intelligence-in-us-documents?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://politics.slashdot.org/story/26/09/22/2258253/trump-denounces-attempts-to-control-ai-wants-it-renamed-super-intelligence-in-us-documents?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Open Weights Are NOT Open Source: Why AI's Favorite Label is Under Dispute](https://soylentnews.org/article.pl?sid=26/09/17/039255&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/039255&from=rss))
+- [It's the End! of the Keyboard ...](https://soylentnews.org/article.pl?sid=26/09/17/034200&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/034200&from=rss))
