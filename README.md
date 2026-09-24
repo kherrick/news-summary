@@ -1,43 +1,48 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Cryptography, AI, and Security
+## Security, Privacy, and AI Risks
 - [Forging 1024-bit RSA signatures in nearly SNFS time](https://eprint.iacr.org/2026/2131.pdf) ([comments](https://lobste.rs/s/ah5jnf/forging_1024_bit_rsa_signatures_nearly))
-- [Hackers influence ChatGPT and Gemini to direct users to scam centers](https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073) ([comments](https://news.ycombinator.com/item?id=49829387))
-- [Rogue OpenAI agent tried to breach government site in May when prompted for simple data-retrieving tasks](https://slashdot.org/story/26/09/24/0528251/rogue-openai-agent-tried-to-breach-government-site-in-may-when-prompted-for-simple-data-retrieving-tasks?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49826565))
-- [Microsoft helps take down massive automated, AI-powered phishing-as-a-service platform](https://yro.slashdot.org/story/26/09/23/0621252/microsoft-helps-take-down-massive-automated-ai-powered-phishing-as-a-service-platform) ([comments](https://slashdot.org/story/26/09/23/0621252/microsoft-helps-take-down-massive-automated-ai-powered-phishing-as-a-service-platform))
 - [Radicle: Disclosure of Vulnerability in the Network Protocol](https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html) ([comments](https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability))
-- [I asked Meta's Muse for its filesystem and it sent me 6.8 GB](https://mouse.dev/blog/muse-runtime-export/) ([comments](https://lobste.rs/s/mdczxv/i_asked_meta_s_muse_for_its_filesystem_it))
-- [Two-tier encryption in the UK: Identical Apple devices, different protection](https://macanorak.com/two-tier-encryption-in-the-uk/) ([comments](https://news.ycombinator.com/item?id=49828731))
+- [I want my mesh networks to be signed, not encrypted](https://andanti.no/blog/SignedMesh.html) ([comments](https://lobste.rs/s/r3ydgj/i_want_my_mesh_networks_be_signed_not))
+- [Microsoft Helps Take Down Massive Automated, AI-Powered Phishing-as-a-Service Platform](https://yro.slashdot.org/story/26/09/23/0621252/microsoft-helps-take-down-massive-automated-ai-powered-phishing-as-a-service-platform?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/09/23/0621252/microsoft-helps-take-down-massive-automated-ai-powered-phishing-as-a-service-platform?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Rogue OpenAI Agent Tried to Breach Government Site in May When Prompted for Simple Data-Retrieving Tasks](https://slashdot.org/story/26/09/24/0528251/rogue-openai-agent-tried-to-breach-government-site-in-may-when-prompted-for-simple-data-retrieving-tasks?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/26/09/24/0528251/rogue-openai-agent-tried-to-breach-government-site-in-may-when-prompted-for-simple-data-retrieving-tasks?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Hackers influence ChatGPT and Gemini to direct users to scam centers](https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073) ([comments](https://news.ycombinator.com/item?id=49829387))
+- [AI Agents Can Modify Themselves Without Humans Telling Them To Do So - and other Bad News](https://soylentnews.org/article.pl?sid=26/09/17/1434244&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/1434244&from=rss))
+- [Pentagon Investigators Say Overreliance on Palantir AI Contributed to US Strike That Killed 123 Iranian Children](https://news.slashdot.org/story/26/09/22/0614238/pentagon-investigators-say-overreliance-on-palantir-ai-contributed-to-us-strike-that-killed-123-iranian-children?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/09/22/0614238/pentagon-investigators-say-overreliance-on-palantir-ai-contributed-to-us-strike-that-killed-123-iranian-children?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Hackers Reveal How Flock Cameras Really Track Cars and People](https://soylentnews.org/article.pl?sid=26/09/17/198200&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/198200&from=rss))
 
-## New Frontiers in AI
-- [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) ([comments](https://news.ycombinator.com/item?id=49820134))
-- [Contrastive Language Models](https://contrastive-lm.notion.site/) ([comments](https://news.ycombinator.com/item?id=49826221))
-- [Mercury 2.5 LLM hits 770 tokens per second](https://artificialanalysis.ai/models/mercury-2-5) ([comments](https://news.ycombinator.com/item?id=49823348))
-- [The AI models that cheat the most, according to new CAIS benchmark](https://soylentnews.org/article.pl?sid=26/09/22/1133253&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/22/1133253&from=rss))
-- [How to know if you can trust an AI's answer to your question](https://soylentnews.org/article.pl?sid=26/09/20/151247&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/20/151247&from=rss))
-
-## Software, Hardware, and Computing Systems
-- [From thin air to bootable images: The tine build system](https://amutable.com/blog/tine-build-system) ([comments](https://lobste.rs/s/c3t81d/from_thin_air_bootable_images_tine_build))
-- [The newest ESP32 can run Linux and is getting close to a Raspberry Pi](https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/) ([comments](https://news.ycombinator.com/item?id=49828969))
+## Systems, Software, and Open Source
+- [From Thin Air to Bootable Images: The tine Build System](https://amutable.com/blog/tine-build-system) ([comments](https://lobste.rs/s/c3t81d/from_thin_air_bootable_images_tine_build))
 - [Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest](https://github.com/nestrilabs/virtio-nvgpu) ([comments](https://news.ycombinator.com/item?id=49824864))
-- [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux) ([comments](https://news.ycombinator.com/item?id=49823582))
-- [The GNOME LLM policy that I want](https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/) ([comments](https://lobste.rs/s/kras1h/gnome_llm_policy_i_want))
-- [Abandoning Scientific Linux was a mistake](https://blog.melashri.net/posts/scientific-linux-mistake/) ([comments](https://lobste.rs/s/qysrps/abandoning_scientific_linux_was_mistake))
-- [As KDE turns 30, contributors and commits are going strong](https://tech.slashdot.org/story/26/09/21/0647232/as-kde-turns-30-contributors-and-commits-are-going-strong?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/09/21/0647232/as-kde-turns-30-contributors-and-commits-are-going-strong?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Ideas on modernizing the open-source desktop](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/) ([comments](https://news.ycombinator.com/item?id=49825642))
+- [Parsing Expression Grammar vs. regexes: Building Org parser in Lisp that exports to HTML (via SXML)](https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html) ([comments](https://lobste.rs/s/2uzmg2/parsing_expression_grammar_vs_regexes))
+- [The GNOME LLM Policy That I Want](https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/) ([comments](https://lobste.rs/s/kras1h/gnome_llm_policy_i_want))
+- [We just shipped support for the ugliest part of HTTP: Vary](https://blog.cloudflare.com/vary-support/) ([comments](https://lobste.rs/s/iulfsj/we_just_shipped_support_for_ugliest_part))
+- [Making Tailscale Faster](https://tailscale.com/blog/making-tailscale-faster) ([comments](https://news.ycombinator.com/item?id=49819880))
+- [Clankers Made Me Build a Second Brain](https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain/) ([comments](https://lobste.rs/s/xg8zbk/clankers_made_me_build_second_brain))
+- [agent-shell 0.78 updates](https://xenodium.com/agent-shell-0-78-updates) ([comments](https://lobste.rs/s/ujn9jm/agent_shell_0_78_updates))
+- [Abandoning Scientific Linux Was a Mistake](https://blog.melashri.net/posts/scientific-linux-mistake/) ([comments](https://lobste.rs/s/qysrps/abandoning_scientific_linux_was_mistake))
 
-## Computing History and Design
-- [Pick OS is a living fossil of computer history](https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557) ([comments](https://lobste.rs/s/1skdhv/pick_os_is_living_fossil_computer_history))
-- [RAM: the forgotten history](https://blog.coredump.cx/p/memory-the-forgotten-history) ([comments](https://news.ycombinator.com/item?id=49802661))
-- [The Story of Mel](https://users.cs.utah.edu/~elb/folklore/mel.html) ([comments](https://lobste.rs/s/wf4wid/story_mel))
-- [Women who sold books door to door](https://daily.jstor.org/the-women-who-sold-books-door-to-door/) ([comments](https://news.ycombinator.com/item?id=49793249))
-- [The mystery animal on an ancient god's head](https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/) ([comments](https://news.ycombinator.com/item?id=49799855))
-- [Making portable my unportable transputer C compiler](https://nanochess.org/transputer_c_compiler.html) ([comments](https://news.ycombinator.com/item?id=49795600))
-
-## Technology, Society, and the Physical World
+## Hardware, Cloud, and Connectivity
 - [Owners mourn spoiled food after firmware update bricks Samsung smart fridges](https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/) ([comments](https://news.ycombinator.com/item?id=49829960))
-- [Breaking up with Google Play: Why Conversations is now free](https://gultsch.de/posts/breaking-up-with-google-play/) ([comments](https://lobste.rs/s/4jqfz1/breaking_up_with_google_play_why))
-- [AWS says wartime damage means some Middle East cloud resources are gone for good](https://soylentnews.org/article.pl?sid=26/09/17/1446234&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/1446234&from=rss))
-- [China's humanoid robots are walking off the assembly line on their own](https://soylentnews.org/article.pl?sid=26/09/19/231232&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/19/231232&from=rss))
-- [Spain gets its first taste of AI-aided cyber attack](https://soylentnews.org/article.pl?sid=26/09/19/2259249&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/19/2259249&from=rss))
-- [Grandmother jailed for six months after facial recognition mistake launches $10 million lawsuit](https://soylentnews.org/article.pl?sid=26/09/19/2252250&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/19/2252250&from=rss))
-- [Tyrannosaurus rex was warm-blooded and able to live in the Arctic, study finds](https://soylentnews.org/article.pl?sid=26/09/17/1910237&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/1910237&from=rss))
+- [The newest ESP32 can run Linux and it's getting close to a Raspberry Pi](https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/) ([comments](https://news.ycombinator.com/item?id=49828969))
+- [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux) ([comments](https://news.ycombinator.com/item?id=49823582))
+- [Google Opens Preorders for Its $899 Gemini-Enhanced 'Googlebook' Laptops](https://tech.slashdot.org/story/26/09/22/031256/google-opens-preorders-for-its-899-gemini-enhanced-googlebook-laptops?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/09/22/031256/google-opens-preorders-for-its-899-gemini-enhanced-googlebook-laptops?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [AWS Says Wartime Damage Means Some Middle East Cloud Resources Are Gone For Good](https://soylentnews.org/article.pl?sid=26/09/17/1446234&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/1446234&from=rss))
+- [Oracle Cites 'Force Majeure' to Shield Itself on Controversial Data Center](https://www.bloomberg.com/news/articles/2026/09/24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center) ([comments](https://news.ycombinator.com/item?id=49830037))
+- [Cities Across US Oppose Trump FCC Plan to Preempt Local Broadband Rules](https://news.slashdot.org/story/26/09/23/0144238/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/09/23/0144238/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [California May Gut State Net Neutrality Law to Comply With Trump Admin Demand](https://soylentnews.org/article.pl?sid=26/09/20/1233205&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/20/1233205&from=rss))
+- [Nvidia Goes Green to Keep Grid Capacity From Zapping its Revenues](https://soylentnews.org/article.pl?sid=26/09/20/1242228&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/20/1242228&from=rss))
+- [Fujitsu Ready To Sell Its Custom ‘Monaka’ Arm Chip, Maybe To Rival Server-Makers](https://soylentnews.org/article.pl?sid=26/09/19/2254243&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/19/2254243&from=rss))
+
+## Science, History, and Culture
+- [Scientists Develop New Method for Deciphering Ancient Scrolls](https://soylentnews.org/article.pl?sid=26/09/20/1254229&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/20/1254229&from=rss))
+- [Tyrannosaurus Rex Was Warm-Blooded And Able To Live In The Arctic, Study Finds](https://soylentnews.org/article.pl?sid=26/09/17/1910237&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/17/1910237&from=rss))
+- [Ctenophores Aren't Just Beautiful, They're Biological Wonders](https://soylentnews.org/article.pl?sid=26/09/22/1126247&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/22/1126247&from=rss))
+- [The mystery animal on an ancient god's head](https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/) ([comments](https://news.ycombinator.com/item?id=49799855))
+- [RAM: the forgotten history](https://blog.coredump.cx/p/memory-the-forgotten-history) ([comments](https://news.ycombinator.com/item?id=49802661))
+- [Pick OS is a Living Fossil of Computer History](https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557) ([comments](https://lobste.rs/s/1skdhv/pick_os_is_living_fossil_computer_history))
+- [The Story of Mel](https://users.cs.utah.edu/~elb/folklore/mel.html) ([comments](https://lobste.rs/s/wf4wid/story_mel))
+- [Women Who Sold Books Door to Door](https://daily.jstor.org/the-women-who-sold-books-door-to-door/) ([comments](https://news.ycombinator.com/item?id=49793249))
+- [What Happened to the Snowden Archive?](https://soylentnews.org/article.pl?sid=26/09/21/1856234&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/21/1856234&from=rss))
+- [Whatever Happened to the 150,000 Tons of Radioactive Waste Stored Under the Atlantic Ocean?](https://hardware.slashdot.org/story/26/09/22/2032255/whatever-happened-to-the-150000-tons-of-radioactive-waste-stored-under-the-atlantic-ocean?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/09/22/2032255/whatever-happened-to-the-150000-tons-of-radioactive-waste-stored-under-the-atlantic-ocean?utm_source=rss1.0mainlinkanon&utm_medium=feed))
