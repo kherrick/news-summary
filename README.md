@@ -1,26 +1,27 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence and Machine Learning
-- [Google Unveils Gemini 4 Argon, Retaking Benchmark Lead Over OpenAI and Anthropic](https://tech.slashdot.org/story/26/09/30/2244216/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/09/30/2244216/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Launch HN: Magnitude (YC S25) â Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude) ([comments](https://news.ycombinator.com/item?id=49911995))
-- [Responsible Release of AI-Generated Mathematics](https://agmai.org/general-sep29/) ([comments](https://news.ycombinator.com/item?id=49903713))
+## AI & Technology
+- [Google Unveils Gemini 4 Argon, Retaking Benchmark Lead Over OpenAI and Anthropic](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) ([comments](https://news.ycombinator.com/item?id=49913571))
+- [More is Different When AI Agents Work Together](https://soylentnews.org/article.pl?sid=26/09/30/0149249&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/30/0149249&from=rss))
+- [Trump Hosts AI CEOs to Discuss Safety Standards, Rebrands AI as 'Super Intelligence'](https://politics.slashdot.org/story/26/09/30/0523201/trump-hosts-ai-ceos-to-discuss-safety-standards-rebrands-ai-as-super-intelligence?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://politics.slashdot.org/story/26/09/30/0523201/trump-hosts-ai-ceos-to-discuss-safety-standards-rebrands-ai-as-super-intelligence?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Google Reportedly Tests Paying Publishers For AI Search Results](https://tech.slashdot.org/story/26/09/30/1851246/google-reportedly-tests-paying-publishers-for-ai-search-results?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/09/30/1851246/google-reportedly-tests-paying-publishers-for-ai-search-results?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Space and Astronomy
+## Space & Exploration
 - [What a Massive New 728-Foot-Wide Crater Means for Future Moon Bases](https://www.nytimes.com/2026/09/21/science/space/what-a-massive-new-crater-means-for-future-moon-bases.html) ([comments](https://news.ycombinator.com/item?id=49897600))
-- [The Night Sky Is Getting 10% Brighter Every Year](https://science.slashdot.org/story/26/09/30/0452204/the-night-sky-is-getting-10-brighter-every-year?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/09/30/0452204/the-night-sky-is-getting-10-brighter-every-year?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [NASA Gives SpaceX a Billion Reasons to Keep Flying Crew Dragon](https://soylentnews.org/article.pl?sid=26/09/26/0254216&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/26/0254216&from=rss))
+- [The top secret URSALA, RAQUEL, and FARRAH satellites](https://www.thespacereview.com/article/4951/1) ([comments](https://news.ycombinator.com/item?id=49915082))
 
-## Security and Privacy
+## Security & Privacy
 - [Hackers Stole Millions of US Military Personnel Records During Months-Long Data Breach](https://yro.slashdot.org/story/26/09/30/1947216/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/09/30/1947216/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [attezt: device attestation, PKCS11 and ACME](https://media.ccc.de/v/all-systems-go-2026-414-attezt-device-attestation-pkcs11-acme#t=30) ([comments](https://lobste.rs/s/obix99/attezt_device_attestation_pkcs11_acme))
+- [Dutch Police Arrest 'Reformed' Hacker In Shiny Hunters Investigation](https://yro.slashdot.org/story/26/09/30/055208/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/09/30/055208/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [I could've accessed 17T Microsoft records](https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records) ([comments](https://news.ycombinator.com/item?id=49883970))
 
-## Software Development
-- [Rust to WGSL transpiler `wgsl-rs` released](https://renderling.xyz/articles/wgsl-rs-beta-release.html) ([comments](https://lobste.rs/s/enijty/rust_wgsl_transpiler_wgsl_rs_released))
-- [How to speed up the Rust compiler in September 2026](https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html) ([comments](https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026))
-
-## Economics
-- [10-year Treasury yield climbs above 5.3% to a level not seen in 24 years](https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f) ([comments](https://news.ycombinator.com/item?id=49916668))
-- [UK Government Vows to Reclaim Services From Outsourcing Giants](https://soylentnews.org/article.pl?sid=26/09/29/1151249&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/29/1151249&from=rss))
-
-## Science and Health
+## Science & Health
+- [Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/) ([comments](https://news.ycombinator.com/item?id=49912955))
 - [Wearable Nanotech Could Combat Nerve Agents](https://science.slashdot.org/story/26/09/30/0457204/wearable-nanotech-could-combat-nerve-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/09/30/0457204/wearable-nanotech-could-combat-nerve-agents?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [The Only Intuitive Interface Is The Nipple](https://www.greenend.org.uk/rjk/misc/nipple.html) ([comments](https://lobste.rs/s/wkhrba/only_intuitive_interface_is_nipple))
+- [Functional Ultrasound Imaging (fUSI) from scratch](https://www.neuroai.science/p/functional-ultrasound-imaging-from) ([comments](https://news.ycombinator.com/item?id=49913604))
+
+## Tech & Development
+- [Rust to WGSL transpiler `wgsl-rs` released](https://renderling.xyz/articles/wgsl-rs-beta-release.html) ([comments](https://lobste.rs/s/enijty/rust_wgsl_transpiler_wgsl_rs_released))
+- [5x faster Edge Functions: V8 isolates to Firecracker MicroVMs](https://www.netlify.com/blog/edge-functions-firecracker-microvms/) ([comments](https://news.ycombinator.com/item?id=49912444))
+- [Qt 6.12 LTS Released](https://www.qt.io/blog/qt-6.12-released) ([comments](https://lobste.rs/s/3ixiwz/qt_6_12_lts_released))
