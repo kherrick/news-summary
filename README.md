@@ -1,26 +1,31 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
 ## AI & Policy
-- [OpenID Foundation: Identity Management for Agentic AI](https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf) ([comments](https://news.ycombinator.com/item?id=49922736))
-- [Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes](https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html) ([comments](https://news.ycombinator.com/item?id=49921118))
 - [FTC is investigating OpenAI, Anthropic and other AI companies over product risks](https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html) ([comments](https://news.ycombinator.com/item?id=49921050))
-- [Google Unveils Gemini 4 Argon, Retaking Benchmark Lead Over OpenAI and Anthropic](https://tech.slashdot.org/story/26/09/30/2244216/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/09/30/2244216/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Trump Hosts AI CEOs to Discuss Safety Standards, Rebrands AI as 'Super Intelligence'](https://politics.slashdot.org/story/26/09/30/0523201/trump-hosts-ai-ceos-to-discuss-safety-standards-rebrands-ai-as-super-intelligence) ([comments](https://politics.slashdot.org/story/26/09/30/0523201/trump-hosts-ai-ceos-to-discuss-safety-standards-rebrands-ai-as-super-intelligence))
+- [Google Unveils Gemini 4 Argon, Retaking Benchmark Lead Over OpenAI and Anthropic](https://tech.slashdot.org/story/26/09/30/2244216/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic) ([comments](https://tech.slashdot.org/story/26/09/30/2244216/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic))
+- [Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes](https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html) ([comments](https://news.ycombinator.com/item?id=49921118))
+- [Is sandboxing sufficient to contain rogue agents?](https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/) ([comments](https://lobste.rs/s/zcr7in/is_sandboxing_sufficient_contain_rogue))
 
-## Security
+## Security & Privacy
 - [Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones](https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/) ([comments](https://news.ycombinator.com/item?id=49922278))
-- [Hackers Stole Millions of US Military Personnel Records During Months-Long Data Breach](https://yro.slashdot.org/story/26/09/30/1947216/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/09/30/1947216/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Hackers Stole Millions of US Military Personnel Records During Months-Long Data Breach](https://yro.slashdot.org/story/26/09/30/1947216/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach) ([comments](https://yro.slashdot.org/story/26/09/30/1947216/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach))
+- [Returning from vacation? The government can search your phone without a warrant](https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/) ([comments](https://news.ycombinator.com/item?id=49920234))
+- [Major rsync upgrade in Debian because of 33 CVEs](https://lobste.rs/s/sqyhgt/major_rsync_upgrade_debian_because_33) ([comments](https://lobste.rs/s/sqyhgt/major_rsync_upgrade_debian_because_33))
 
 ## Open Source & Development
-- [Red Hat Being Phased Out of Existence (Like Many Other Companies IBM Bought)](https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml) ([comments](https://news.ycombinator.com/item?id=49923056))
 - [Announcing Rust 1.99.0](https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/) ([comments](https://lobste.rs/s/dfvxvs/announcing_rust_1_99_0))
-- [How to speed up the Rust compiler in September 2026](https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html) ([comments](https://news.ycombinator.com/item?id=49920896))
-- [EDG C/C++ Compiler Project](https://github.com/edgcpp/compiler) ([comments](https://lobste.rs/s/nwdxko/edg_c_c_compiler_project))
+- [The Second Golden Spike: Memory Safety Across the Valen/Rust Boundary](https://verdagon.dev/blog/boundary-memory-safety) ([comments](https://lobste.rs/s/ajtnc6/second_golden_spike_memory_safety_across))
+- [Red Hat Being Phased Out of Existence (Like Many Other Companies IBM Bought)](https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml) ([comments](https://news.ycombinator.com/item?id=49923056))
+- [WSL containers are now generally available](https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/) ([comments](https://lobste.rs/s/8ckgq8/wsl_containers_are_now_generally))
+- [Firefox Redesign Brings Round Tabs, New Themes, and Compact Mode](https://mobile.slashdot.org/story/26/09/29/194251/firefox-redesign-brings-round-tabs-new-themes-and-compact-mode) ([comments](https://mobile.slashdot.org/story/26/09/29/194251/firefox-redesign-brings-round-tabs-new-themes-and-compact-mode))
 
-## Policy & Regulation
-- [EU KIDS Act](https://commission.europa.eu/news-and-media/news/eu-kids-act-helping-children-navigate-safer-online-world-2026-09-17_en) ([comments](https://lobste.rs/s/bbi3w9/eu_kids_act))
-- [Reddit Is Killing RSS Feeds, Ending Public API Access](https://tech.slashdot.org/story/26/09/30/1841213/reddit-is-killing-rss-feeds-ending-public-api-access?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/09/30/1841213/reddit-is-killing-rss-feeds-ending-public-api-access?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Science & Space
+- [Wearable Nanotech Could Combat Nerve Agents](https://science.slashdot.org/story/26/09/30/0457204/wearable-nanotech-could-combat-nerve-agents) ([comments](https://science.slashdot.org/story/26/09/30/0457204/wearable-nanotech-could-combat-nerve-agents))
+- [The Night Sky Is Getting 10% Brighter Every Year](https://science.slashdot.org/story/26/09/30/0452204/the-night-sky-is-getting-10-brighter-every-year) ([comments](https://science.slashdot.org/story/26/09/30/0452204/the-night-sky-is-getting-10-brighter-every-year))
+- [Paleontologists Reconstruct Forests of 56 Million Years Ago With Chilling Parallels for Our Time](https://soylentnews.org/article.pl?sid=26/09/29/014245&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/29/014245&from=rss))
 
 ## Fun & Misc
-- [Book of Shapes â Collection of minimal, generative and customizable SVG-patterns](https://bookofshapes.com/) ([comments](https://news.ycombinator.com/item?id=49894430))
-- [Reviving Valve's 15-year-old e-book](https://nikolan.net/posts/portal2/) ([comments](https://lobste.rs/s/lzlkbr/reviving_valve_s_15_year_old_e_book))
-- [ASM Bots: Core War in real 8086 machine code](https://asmbots.io) ([comments](https://lobste.rs/s/yj721w/asm_bots_core_war_real_8086_machine_code))
+- [Polyedergarten: Garden of Paper Polyhedron Models](https://www.polyedergarten.de/e_index.htm) ([comments](https://news.ycombinator.com/item?id=49922594))
+- [RacketCon Is Saturday](https://con.racket-lang.org/) ([comments](https://news.ycombinator.com/item?id=49922515))
+- [Singapore Pilots a Government-Built Dating Service](https://yro.slashdot.org/story/26/09/30/1620208/singapore-pilots-a-government-built-dating-service) ([comments](https://yro.slashdot.org/story/26/09/30/1620208/singapore-pilots-a-government-built-dating-service))
