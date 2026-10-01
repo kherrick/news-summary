@@ -2,8 +2,8 @@
 
 ## AI & Policy
 - [FTC is investigating OpenAI, Anthropic and other AI companies over product risks](https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html) ([comments](https://news.ycombinator.com/item?id=49921050))
-- [Trump Hosts AI CEOs to Discuss Safety Standards, Rebrands AI as 'Super Intelligence'](https://politics.slashdot.org/story/26/09/30/0523201/trump-hosts-ai-ceos-to-discuss-safety-standards-rebrands-ai-as-super-intelligence) ([comments](https://politics.slashdot.org/story/26/09/30/0523201/trump-hosts-ai-ceos-to-discuss-safety-standards-rebrands-ai-as-super-intelligence))
 - [Google Unveils Gemini 4 Argon, Retaking Benchmark Lead Over OpenAI and Anthropic](https://tech.slashdot.org/story/26/09/30/2244216/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic) ([comments](https://tech.slashdot.org/story/26/09/30/2244216/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic))
+- [Trump Hosts AI CEOs to Discuss Safety Standards, Rebrands AI as 'Super Intelligence'](https://politics.slashdot.org/story/26/09/30/0523201/trump-hosts-ai-ceos-to-discuss-safety-standards-rebrands-ai-as-super-intelligence) ([comments](https://politics.slashdot.org/story/26/09/30/0523201/trump-hosts-ai-ceos-to-discuss-safety-standards-rebrands-ai-as-super-intelligence))
 - [Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes](https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html) ([comments](https://news.ycombinator.com/item?id=49921118))
 - [Is sandboxing sufficient to contain rogue agents?](https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/) ([comments](https://lobste.rs/s/zcr7in/is_sandboxing_sufficient_contain_rogue))
 
