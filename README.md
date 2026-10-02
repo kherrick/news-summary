@@ -1,21 +1,73 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI & Safety
-- [OpenAI Alerts More Than 100 Groups About Rogue AI Agent Activity](https://it.slashdot.org/story/26/10/02/0226205/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://it.slashdot.org/story/26/10/02/0226205/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Readable Regular Expressions for JavaScript/TypeScript, Inspired by Emacs' rx](https://rahuljuliato.com/posts/emacs-rx-in-typescript) ([comments](https://lobste.rs/s/3hdied/readable_regular_expressions_for))
+## Artificial Intelligence and Autonomous Agents
+- [OpenAI Alerts More Than 100 Groups About Rogue AI Agent Activity](https://it.slashdot.org/story/26/10/02/0226205/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49933251))
+- [Error-Prone AI Nearly Sparked World War Three Last Month](https://tech.slashdot.org/story/26/10/02/0211256/error-prone-ai-nearly-sparked-world-war-three-last-month?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49934569))
+- [GPT-6 Astra Plays World of Warcraft for the First Time with agent-wow](https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/) ([comments](https://news.ycombinator.com/item?id=49933251))
+- [The Four Horsemen of Agentic Coding](https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding) ([comments](https://news.ycombinator.com/item?id=49934511))
+- [JetBrains Air: Building a System of Products for Agentic Software Development](https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/) ([comments](https://news.ycombinator.com/item?id=49934569))
+- [DeepSeek Harnesses Desktop for macOS and Windows](https://www.deepseek.com/en/harness/) ([comments](https://news.ycombinator.com/item?id=49929489))
+- [Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/) ([comments](https://news.ycombinator.com/item?id=49927760))
+- [AI Round-Up - and It Isn't Much Good News](https://soylentnews.org/article.pl?sid=26/09/30/1446254&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/30/1446254&from=rss))
+- [More is Different When AI Agents Work Together](https://soylentnews.org/article.pl?sid=26/09/30/0149249&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/30/0149249&from=rss))
+- [OpenAI's Astra Model Went for a Drive and No One Died](https://soylentnews.org/article.pl?sid=26/09/28/0158240&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/28/0158240&from=rss))
+- [Qualcomm Wants You to Let AI Agents Spend Your Money](https://soylentnews.org/article.pl?sid=26/09/26/0314224&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/26/0314224&from=rss))
+- [The FAA is Testing an AI-Powered Air Traffic Management Tool](https://soylentnews.org/article.pl?sid=26/09/27/0938259&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/27/0938259&from=rss))
+- [Vote on Which of Hacker News' Challenges for AI Have Been Met](https://stoppels.ch/goalposts/) ([comments](https://news.ycombinator.com/item?id=49924618))
+- [Clef: Open-Weight Decision Models, and New RL Fine-Tuning Platform](https://blog.cloudflare.com/clef-decision-models/) ([comments](https://news.ycombinator.com/item?id=49923692))
+- [Cloudflare Tries to Outplay Jev With Open-Weight Clef Models](https://tech.slashdot.org/story/26/10/01/2110250/cloudflare-tries-to-outplay-jev-with-open-weight-clef-models?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49922674))
 
-## Software Development
-- [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256) ([comments](https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be))
-- [Announcing Rust 1.99.0](https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/) ([comments](https://lobste.rs/s/dfvxvs/announcing_rust_1_99_0))
+## Security, Privacy, and Cybersecurity
+- [Several Vulnerabilities Have Been Discovered in the Linux Kernel](https://lwn.net/Articles/1097401/) ([comments](https://news.ycombinator.com/item?id=49928121))
+- [20-Year-Long Permanent Cookie: America.gov and Tracking](https://www.biometricupdate.com/202610/america-gov-launches-with-privacy-pledge-as-login-gov-code-raises-tracking-questions) ([comments](https://news.ycombinator.com/item?id=49934631))
+- [Say Hello to RatHat, a New AI-Powered Malware Invading the Android Ecosystem](https://soylentnews.org/article.pl?sid=26/09/28/0139250&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/28/0139250&from=rss))
+- [Trove of Stolen Sensitive FBI Employee Data is Significant Intelligence Risk](https://soylentnews.org/article.pl?sid=26/09/26/0155238&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/26/0155238&from=rss))
+- [Russian-Owned Snooping Software Used By US Secret Service](https://yro.slashdot.org/story/26/10/01/2124230/russian-owned-snooping-software-used-by-us-secret-service?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49928121))
+- [Cops Can Bypass iPhone's Automatic Reboot To Get Into Locked Phones](https://yro.slashdot.org/story/26/10/01/1813207/cops-can-bypass-iphones-automatic-reboot-to-get-into-locked-phones?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49928121))
+- [Privacy Group Slams EU for Changing the Data Rules to Cater to AI](https://soylentnews.org/article.pl?sid=26/09/28/0133248&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/28/0133248&from=rss))
+- [NASA, for the Time Being, is Unable to Move the Space Station's Large Robotic Arm](https://soylentnews.org/article.pl?sid=26/09/30/1450236&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/30/1450236&from=rss))
+- [Automatic Transmission - a Data-Privacy Study of Connected Vehicles](https://automatictransmission.khoury.northeastern.edu/index.html) ([comments](https://news.ycombinator.com/item?id=49926628))
 
-## Security & Privacy
-- [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/) ([comments](https://news.ycombinator.com/item?id=49928121))
-- [FTC Is Investigating OpenAI, Anthropic and Other AI Companies Over Product Risks](https://yro.slashdot.org/story/26/10/01/1720206/ftc-is-investigating-openai-anthropic-and-other-ai-companies-over-product-risks?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/10/01/1720206/ftc-is-investigating-openai-anthropic-and-other-ai-companies-over-product-risks?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Software Development and Open Source
+- [Supabase is Acquiring Turso](https://supabase.com/blog/supabase-is-acquiring-turso) ([comments](https://news.ycombinator.com/item?id=49934784))
+- [Power Approval Set to Delay Oracle's Wisconsin AI Datacenter](https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832) ([comments](https://news.ycombinator.com/item?id=49934569))
+- [Fixing GRPO's Credit Assignment Problem Without Evaluating Every Step](https://arxiv.org/abs/2609.36178) ([comments](https://news.ycombinator.com/item?id=49934012))
+- [The Forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html) ([comments](https://news.ycombinator.com/item?id=49934569))
+- [SequenceHash: Multihashing for the Rest of Us](https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/) ([comments](https://news.ycombinator.com/item?id=49934012))
+- [Generic Const Args and You](https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/) ([comments](https://news.ycombinator.com/item?id=49934012))
+- [Readable Regular Expressions for JavaScript/TypeScript, Inspired by Emacs' rx](https://rahuljuliato.com/posts/emacs-rx-in-typescript) ([comments](https://news.ycombinator.com/item?id=49934012))
+- [SvelteKit 3](https://svelte.dev/blog/sveltekit-3-is-here) ([comments](https://news.ycombinator.com/item?id=49926536))
+- [Git 3.0's Upcoming SHA-256 Default Will Be a Costly Mistake](https://blog.gitbutler.com/git-3-sha-256) ([comments](https://news.ycombinator.com/item?id=49924179))
+- [Announcing Rust 1.99.0](https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/) ([comments](https://news.ycombinator.com/item?id=49921798))
+- [Pidgin 3.0 Alpha 3 2.97.0 Has Been Released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-3-2-97-0-has-been-released/436) ([comments](https://news.ycombinator.com/item?id=49921798))
+- [CSS Bed: Classless CSS Themes to Use as Starting Points in Web Development](https://www.cssbed.com) ([comments](https://news.ycombinator.com/item?id=49927212))
+- [Show HN: Audionaut - an Open-Source Cross-Platform Multitrack Audio Editor](https://github.com/kvoltmer/Audionaut) ([comments](https://news.ycombinator.com/item?id=49931031))
+- [Show HN: Janus - Go Binary That Runs GGUF Models via Vulkan on AMD/Intel/Nvidia](https://github.com/Vibra-Ingenn/Janus) ([comments](https://news.ycombinator.com/item?id=49926773))
+- [Show HN: outis - Fight AI Spam by Generating Fake "User Unknown" Bounce Emails](https://github.com/dtonon/outis) ([comments](https://news.ycombinator.com/item?id=49925969))
+- [Cloudflare K2: Serverless Event Streams](https://blog.cloudflare.com/cloudflare-k2-streams/) ([comments](https://news.ycombinator.com/item?id=49921923))
+- [RIP, Vector Database](https://turbopuffer.com/blog/rip-vector-database) ([comments](https://news.ycombinator.com/item?id=49923466))
+- [StreetComplete on iOS Is Now in Public Beta](https://github.com/streetcomplete/StreetComplete/issues/5421) ([comments](https://news.ycombinator.com/item?id=49920160))
 
-## Hardware & Consumer Tech
-- [Amazon's New Kindle Accessories Bring Back Physical Controls](https://news.slashdot.org/story/26/10/01/2149250/amazons-new-kindle-accessories-bring-back-physical-controls?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/10/01/2149250/amazons-new-kindle-accessories-bring-back-physical-controls?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/) ([comments](https://news.ycombinator.com/item?id=49930047))
-
-## Science & Society
+## Space, Science, and the Environment
+- [20% of Swiss Glaciers Lost In Five Years](https://news.slashdot.org/story/26/10/02/0220226/20-of-swiss-glaciers-lost-in-five-years?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49934569))
+- [California Rushes To Prepare For Massive 'Kelvin' Wave, Predicted Sea Level Rise](https://news.slashdot.org/story/26/10/01/2159252/california-rushes-to-prepare-for-massive-kelvin-wave-predicted-sea-level-rise?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49929489))
+- [Mathematicians Harness Randomness To Crack A 55-Year-Old Conjecture](https://soylentnews.org/article.pl?sid=26/09/30/0820226&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/30/0820226&from=rss))
+- [Oxygen-Deprived Underwater Zones May Not Be "Dead Zones" But Clue to Early Life](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570) ([comments](https://news.ycombinator.com/item?id=49925742))
 - [Former NASA Chief Sounds Alarm on China's Lunar "Exploration" Plans](https://soylentnews.org/article.pl?sid=26/09/28/027211&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/28/027211&from=rss))
-- [EU KIDS Act](https://commission.europa.eu/news-and-media/news/eu-kids-act-helping-children-navigate-safer-online-world-2026-09-17_en) ([comments](https://lobste.rs/s/bbi3w9/eu_kids_act))
+- [Astronomers Estimate That the Moon's Water Reserves Are Insufficient to Sustain a Lunar City](https://soylentnews.org/article.pl?sid=26/09/27/0934225&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/27/0934225&from=rss))
+- [Small Undersea Volcanoes May Unleash Outsized Tsunamis](https://soylentnews.org/article.pl?sid=26/09/26/033251&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/26/033251&from=rss))
+- [NASA Gives SpaceX a Billion Reasons to Keep Flying Crew Dragon](https://soylentnews.org/article.pl?sid=26/09/26/0254216&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/26/0254216&from=rss))
+- [Europe's Fastest Supercomputer Is Finally Getting Its Domestic Silicon Infusion](https://soylentnews.org/article.pl?sid=26/09/27/0947255&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/27/0947255&from=rss))
+- [Reverse-Engineering the Vintage Intel 8087's Tangent Algorithm: More Than CORDIC](https://soylentnews.org/article.pl?sid=26/09/27/0930209&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/27/0930209&from=rss))
+- [&#39;Real Mummy's Curse&#39; Behind Sale and Trade of Mummified Remains Exposed](https://soylentnews.org/article.pl?sid=26/09/27/0927223&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/27/0927223&from=rss))
+
+## Policy, Society, and Geopolitics
+- [Pentagon Creates 'Autowarcom' to Expand AI and Drone Capabilities](https://news.slashdot.org/story/26/10/01/1728203/pentagon-creates-autowarcom-to-expand-ai-and-drone-capabilities?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49924618))
+- [UK Counter-Terror Police Investigation - UPDATED 02 Oct 2026 07:18 BST](https://soylentnews.org/breakingnews/article.pl?sid=26/09/30/1626244&from=rss) ([comments](https://soylentnews.org/breakingnews/article.pl?sid=26/09/30/1626244&from=rss))
+- [UK Government Vows to Reclaim Services From Outsourcing Giants](https://soylentnews.org/article.pl?sid=26/09/29/1151249&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/29/1151249&from=rss))
+- [Trump Says AI Is Now Super Intelligence. What's Really Super Is The Internet Response](https://soylentnews.org/article.pl?sid=26/09/29/011258&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/29/011258&from=rss))
+- [Ryan Roslansky Is Leaving After Nearly 18 Years At LinkedIn and Microsoft](https://slashdot.org/story/26/10/01/1832232/ryan-roslansky-is-leaving-after-nearly-18-years-at-linkedin-and-microsoft?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49927212))
+- [Discord Age Verification Rolls Out Today With Changes Spurred by User Backlash](https://soylentnews.org/article.pl?sid=26/09/26/0323221&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/26/0323221&from=rss))
+- [Nearly 70% Of Workers Use AI Regularly Now - But Many Get No Time To Upskill](https://soylentnews.org/article.pl?sid=26/09/30/0153222&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/30/0153222&from=rss))
+- [Advice to a Beginning Software Engineer](https://www.seangoedecke.com/advice-to-a-beginning-software-engineer/) ([comments](https://news.ycombinator.com/item?id=49923466))
+- [The Death of Web Development Education](https://molily.de/web-dev-education/) ([comments](https://news.ycombinator.com/item?id=49923466))
