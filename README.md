@@ -3,24 +3,34 @@
 ## Space & Science
 - [Google Tests AI Data Center In Space](https://science.slashdot.org/story/26/10/03/0113206/google-tests-ai-data-center-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [There's a new sea spider in town](https://nautil.us/theres-a-new-sea-spider-in-town-1285470) ([comments](https://news.ycombinator.com/item?id=49936398))
+- [Small Undersea Volcanoes May Unleash Outsized Tsunamis](https://soylentnews.org/article.pl?sid=26/09/26/033251&from=rss)
+- [20% of Swiss Glaciers Lost In Five Years](https://news.slashdot.org/story/26/10/02/0220226/20-of-swiss-glaciers-lost-in-five-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [NASA, for the Time Being, is Unable to Move the Space Station's Large Robotic Arm](https://soylentnews.org/article.pl?sid=26/09/30/1450236&from=rss)
 
 ## AI Safety & Security
 - [Error-Prone AI Nearly Sparked World War Three Last Month](https://tech.slashdot.org/story/26/10/02/0211256/error-prone-ai-nearly-sparked-world-war-three-last-month?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [OpenAI Alerts More Than 100 Groups About Rogue AI Agent Activity](https://it.slashdot.org/story/26/10/02/0226205/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [I got targeted: Trying to get your credentials via a git post-checkout hook](https://frankwiles.com/posts/i-got-targeted/) ([comments](https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your))
 - [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/) ([comments](https://news.ycombinator.com/item?id=49941091))
+- [Say Hello to RatHat, a New AI-Powered Malware Invading the Android Ecosystem](https://soylentnews.org/article.pl?sid=26/09/28/0139250&from=rss)
 
 ## Privacy & Law
 - [New Mexico Wants Meta To Pay $40 Billion In Penalties For Cambridge Analytica Scandal](https://yro.slashdot.org/story/26/10/02/2152218/new-mexico-wants-meta-to-pay-40-billion-in-penalties-for-cambridge-analytica-scandal?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 - [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) ([comments](https://news.ycombinator.com/item?id=49927754))
+- [Privacy Group Slams EU for Changing the Data Rules to Cater to AI](https://soylentnews.org/article.pl?sid=26/09/28/0133248&from=rss)
+- [Judge Dismisses Chegg and Penske Antitrust Lawsuits Targeting Google AI Search](https://tech.slashdot.org/story/26/10/02/0639218/judge-dismisses-chegg-and-penske-antitrust-lawsuits-targeting-google-ai-search?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 ## Programming & Development
 - [The Era of Programming Languages Exploration is upon Us](https://kirancodes.me/posts/log-end-of-pl.html) ([comments](https://lobste.rs/s/1rmsib/era_programming_languages_exploration))
 - [gVisor is being donated to CNCF](https://gvisor.dev/blog/2026/10/02/gvisor-cncf/) ([comments](https://lobste.rs/s/asoxjl/gvisor_is_being_donated_cncf))
 - [Zig 0.17.0 Release Notes](https://ziglang.org/download/0.17.0/release-notes.html) ([comments](https://lobste.rs/s/wcmfft/zig_0_17_0_release_notes))
 - [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256) ([comments](https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be))
+- [Announcing Rust 1.99.0](https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/) ([comments](https://lobste.rs/s/dfvxvs/announcing_rust_1_99_0))
+- [SequenceHash: multihashing for the rest of us](https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/) ([comments](https://lobste.rs/s/llnale/sequencehash_multihashing_for_rest_us))
+- [Keeping Futhark off the GPU](https://futhark-lang.org/blog/2026-10-02-cpu_function.html) ([comments](https://lobste.rs/s/8f5elm/keeping_futhark_off_gpu))
 
 ## Culture & Oddities
-- [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/) ([comments](https://news.ycombinator.com/item?id=49940394))
 - [Actual RFC1149 packet being auctioned](https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216) ([comments](https://lobste.rs/s/wqqkws/actual_rfc1149_packet_being_auctioned))
 - [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/) ([comments](https://news.ycombinator.com/item?id=49925184))
+- [Things that apparently cause cancer](https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer) ([comments](https://news.ycombinator.com/item?id=49940219))
+- [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/) ([comments](https://news.ycombinator.com/item?id=49940394))
