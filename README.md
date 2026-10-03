@@ -1,36 +1,61 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Space & Science
-- [Google Tests AI Data Center In Space](https://science.slashdot.org/story/26/10/03/0113206/google-tests-ai-data-center-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [There's a new sea spider in town](https://nautil.us/theres-a-new-sea-spider-in-town-1285470) ([comments](https://news.ycombinator.com/item?id=49936398))
-- [Small Undersea Volcanoes May Unleash Outsized Tsunamis](https://soylentnews.org/article.pl?sid=26/09/26/033251&from=rss)
-- [20% of Swiss Glaciers Lost In Five Years](https://news.slashdot.org/story/26/10/02/0220226/20-of-swiss-glaciers-lost-in-five-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [NASA, for the Time Being, is Unable to Move the Space Station's Large Robotic Arm](https://soylentnews.org/article.pl?sid=26/09/30/1450236&from=rss)
-
-## AI Safety & Security
-- [Error-Prone AI Nearly Sparked World War Three Last Month](https://tech.slashdot.org/story/26/10/02/0211256/error-prone-ai-nearly-sparked-world-war-three-last-month?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## AI & Agents
+- [An AI agent emailed researchers for help. It told us why](https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why) ([comments](https://news.ycombinator.com/item?id=49942865))
 - [OpenAI Alerts More Than 100 Groups About Rogue AI Agent Activity](https://it.slashdot.org/story/26/10/02/0226205/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Error-Prone AI Nearly Sparked World War Three Last Month](https://tech.slashdot.org/story/26/10/02/0211256/error-prone-ai-nearly-sparked-world-war-three-last-month?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [From the creator of Redis; run LLM locally with ds4](https://dwarfstar.sh/) ([comments](https://news.ycombinator.com/item?id=49936575))
+- [AI Has Finally Learned To Play Stratego](https://games.slashdot.org/story/26/10/02/2129251/ai-has-finally-learned-to-play-stratego?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [With most information hidden, the game Stratego had stumped AI until now](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/) ([comments](https://news.ycombinator.com/item?id=49933740))
+- [OpenAI's Astra Model Went for a Drive and No One Died](https://soylentnews.org/article.pl?sid=26/09/28/0158240&from=rss)
+- [Qualcomm Wants You to Let AI Agents Spend Your Money](https://soylentnews.org/article.pl?sid=26/09/26/0314224&from=rss)
+
+## Privacy, Security & Law
 - [I got targeted: Trying to get your credentials via a git post-checkout hook](https://frankwiles.com/posts/i-got-targeted/) ([comments](https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your))
-- [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/) ([comments](https://news.ycombinator.com/item?id=49941091))
-- [Say Hello to RatHat, a New AI-Powered Malware Invading the Android Ecosystem](https://soylentnews.org/article.pl?sid=26/09/28/0139250&from=rss)
-
-## Privacy & Law
-- [New Mexico Wants Meta To Pay $40 Billion In Penalties For Cambridge Analytica Scandal](https://yro.slashdot.org/story/26/10/02/2152218/new-mexico-wants-meta-to-pay-40-billion-in-penalties-for-cambridge-analytica-scandal?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Apple Tightens macOS 'Full Disk Access' Controls As AI Agents 'Substantially' Increase Risk](https://hardware.slashdot.org/story/26/10/02/2056223/apple-tightens-macos-full-disk-access-controls-as-ai-agents-substantially-increase-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw)
 - [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) ([comments](https://news.ycombinator.com/item?id=49927754))
-- [Privacy Group Slams EU for Changing the Data Rules to Cater to AI](https://soylentnews.org/article.pl?sid=26/09/28/0133248&from=rss)
 - [Judge Dismisses Chegg and Penske Antitrust Lawsuits Targeting Google AI Search](https://tech.slashdot.org/story/26/10/02/0639218/judge-dismisses-chegg-and-penske-antitrust-lawsuits-targeting-google-ai-search?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [New Mexico Wants Meta To Pay $40 Billion In Penalties For Cambridge Analytica Scandal](https://yro.slashdot.org/story/26/10/02/2152218/new-mexico-wants-meta-to-pay-40-billion-in-penalties-for-cambridge-analytica-scandal?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Privacy Group Slams EU for Changing the Data Rules to Cater to AI](https://soylentnews.org/article.pl?sid=26/09/28/0133248&from=rss)
+- [Trove of Stolen Sensitive FBI Employee Data is Significant Intelligence Risk](https://soylentnews.org/article.pl?sid=26/09/26/0155238&from=rss)
 
-## Programming & Development
+## Programming & Open Source
 - [The Era of Programming Languages Exploration is upon Us](https://kirancodes.me/posts/log-end-of-pl.html) ([comments](https://lobste.rs/s/1rmsib/era_programming_languages_exploration))
 - [gVisor is being donated to CNCF](https://gvisor.dev/blog/2026/10/02/gvisor-cncf/) ([comments](https://lobste.rs/s/asoxjl/gvisor_is_being_donated_cncf))
 - [Zig 0.17.0 Release Notes](https://ziglang.org/download/0.17.0/release-notes.html) ([comments](https://lobste.rs/s/wcmfft/zig_0_17_0_release_notes))
-- [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256) ([comments](https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be))
 - [Announcing Rust 1.99.0](https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/) ([comments](https://lobste.rs/s/dfvxvs/announcing_rust_1_99_0))
-- [SequenceHash: multihashing for the rest of us](https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/) ([comments](https://lobste.rs/s/llnale/sequencehash_multihashing_for_rest_us))
+- [Generic Const Args and You](https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/) ([comments](https://lobste.rs/s/6jcvdn/generic_const_args_you))
+- [Driving the GDEH0154D67 e-paper display with Rust](https://sgt.hootr.club/blog/driving-gdeh0154d67-with-rust/) ([comments](https://lobste.rs/s/bghff5/driving_gdeh0154d67_e_paper_display_with))
+- [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256) ([comments](https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be))
+- [The hidden design compromises of Docker layers](https://loige.co/hidden-design-compromises-of-docker-layers/) ([comments](https://lobste.rs/s/uuu6us/hidden_design_compromises_docker_layers))
 - [Keeping Futhark off the GPU](https://futhark-lang.org/blog/2026-10-02-cpu_function.html) ([comments](https://lobste.rs/s/8f5elm/keeping_futhark_off_gpu))
+- [Memory-Safe WebP Decoding](https://halide.cx/blog/wpd/) ([comments](https://news.ycombinator.com/item?id=49941641))
+- [GitHub repository landing pages now show an accessibility tab, if provided](https://ericwbailey.website/published/github-repository-landing-pages-now-show-an-accessibility-tab-if-provided/) ([comments](https://lobste.rs/s/2nyapq/github_repository_landing_pages_now_show))
+- [SequenceHash: multihashing for the rest of us](https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/) ([comments](https://lobste.rs/s/llnale/sequencehash_multihashing_for_rest_us))
+- [Fresh CSS Constructs Move Web Design Beyond Ticky-Tacky Little Boxes](https://soylentnews.org/article.pl?sid=26/09/30/0813249&from=rss)
+- [Respecting your users' dread of the clankers](https://thoughtbot.com/blog/respecting-your-users-dread-of-the-clankers/) ([comments](https://lobste.rs/s/c105dq/respecting_your_users_dread_clankers))
 
-## Culture & Oddities
-- [Actual RFC1149 packet being auctioned](https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216) ([comments](https://lobste.rs/s/wqqkws/actual_rfc1149_packet_being_auctioned))
-- [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/) ([comments](https://news.ycombinator.com/item?id=49925184))
-- [Things that apparently cause cancer](https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer) ([comments](https://news.ycombinator.com/item?id=49940219))
-- [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/) ([comments](https://news.ycombinator.com/item?id=49940394))
+## Science & Space
+- [Google Tests AI Data Center In Space](https://science.slashdot.org/story/26/10/03/0113206/google-tests-ai-data-center-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [NASA, for the Time Being, is Unable to Move the Space Station's Large Robotic Arm](https://soylentnews.org/article.pl?sid=26/09/30/1450236&from=rss)
+- [Former NASA Chief Sounds Alarm on China's Lunar "Exploration" Plans](https://soylentnews.org/article.pl?sid=26/09/28/027211&from=rss)
+- [Astronomers Estimate That the Moon's Water Reserves Are Insufficient to Sustain a Lunar City](https://soylentnews.org/article.pl?sid=26/09/27/0934225&from=rss)
+- [NASA Gives SpaceX a Billion Reasons to Keep Flying Crew Dragon](https://soylentnews.org/article.pl?sid=26/09/26/0254216&from=rss)
+- [20% of Swiss Glaciers Lost In Five Years](https://news.slashdot.org/story/26/10/02/0220226/20-of-swiss-glaciers-lost-in-five-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [California Rushes To Prepare For Massive 'Kelvin' Wave, Predicted Sea Level Rise](https://news.slashdot.org/story/26/10/01/2159252/california-rushes-to-prepare-for-massive-kelvin-wave-predicted-sea-level-rise?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Paleontologists Reconstruct Forests of 56 Million Years Ago With Chilling Parallels for Our Time](https://soylentnews.org/article.pl?sid=26/09/29/014245&from=rss)
+- [Mathematicians Harness Randomness To Crack A 55-Year-Old Conjecture](https://soylentnews.org/article.pl?sid=26/09/30/0820226&from=rss)
+- [Loss of cell identity drives human aging: Two new papers](https://erictopol.substack.com/p/loss-of-cell-identity-drives-human) ([comments](https://news.ycombinator.com/item?id=49926411))
+- [Small Undersea Volcanoes May Unleash Outsized Tsunamis](https://soylentnews.org/article.pl?sid=26/09/26/033251&from=rss)
+
+## Culture, Hardware & Oddities
+- [The Last Quiet Thing](https://soylentnews.org/article.pl?sid=26/09/29/0057232&from=rss)
+- [October Skies Will Put On A Show](https://soylentnews.org/article.pl?sid=26/09/30/0845238&from=rss)
+- [Tesla Scores Deal to Help Double the US Electric Semi-Truck Fleet](https://soylentnews.org/article.pl?sid=26/10/01/1217258&from=rss)
+- [Amazon's New Kindle Accessories Bring Back Physical Controls](https://news.slashdot.org/story/26/10/01/2149250/amazons-new-kindle-accessories-bring-back-physical-controls?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Used Processor Leads To Game Ban](https://hardware.slashdot.org/story/26/10/02/1750242/used-processor-leads-to-game-ban?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Klassik Revives the KDE 3 Desktop on Modern Plasma 6](https://linuxiac.com/klassik-revives-the-kde-3-desktop-on-modern-plasma-6/) ([comments](https://lobste.rs/s/qmcuiv/klassik_revives_kde_3_desktop_on_modern))
+- [The Nintendo 64 Partner-N64 Development Kit](https://www.behindthecode.ca/partner-n64pc-dev-kit/) ([comments](https://news.ycombinator.com/item?id=49937146))
+- [The Legend of von Neumann (1973)](https://gwern.net/doc/math/1973-halmos.pdf) ([comments](https://news.ycombinator.com/item?id=49933235))
+- [The Four Horsemen of Agentic Coding](https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding/) ([comments](https://lobste.rs/s/wevegu/four_horsemen_agentic_coding))
