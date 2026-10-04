@@ -86,4 +86,4 @@
 - [Two-Stack Sliding-Window Aggregation](https://orlp.net/blog/two-stack-sliding-window-aggregation/)
 - [Customization: Optimizing Compiler Technology for SELF, a Dynamically-Typed Object-Oriented Programming Language (1989)](https://dl.acm.org/doi/epdf/10.1145/74818.74831)
 - [Problems and solutions to the modern desktop (Make tmux the OS)](https://matduggan.com/what-does-my-dream-os-ui-look-like/)
-- [C++ Insights – See your source code with the eyes of a Compiler](https://github.com/andreasfertig/cppinsights) ([comments](https://news.ycombinator.com/item?id=49928361])
+- [C++ Insights – See your source code with the eyes of a Compiler](https://github.com/andreasfertig/cppinsights) ([comments](https://news.ycombinator.com/item?id=49928361))
