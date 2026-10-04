@@ -1,26 +1,60 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
 ## AI & Machine Learning
-- [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) ([comments](https://news.ycombinator.com/item?id=49953495))
-- [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/)
-- [What's the Future for Pure Math Research in the Age of AI?](https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/) ([comments](https://news.ycombinator.com/item?id=49951641))
-- [Yann LeCun Has "Zero Concerns" About AI Wiping Out Humanity](https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/) ([comments](https://news.ycombinator.com/item?id=49946228))
-- [Agents Don't Need Memory, They Need Documentation](https://liao.gg/blog/agents-dont-need-memory) ([comments](https://news.ycombinator.com/item?id=49945933))
-- [More Is Different When AI Agents Work Together](https://soylentnews.org/article.pl?sid=26/09/30/0149249&from=rss)
+- [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) - Aleph Alpha releases a sovereign, open-weight model positioned for European data-sovereignty use cases. ([comments](https://news.ycombinator.com/item?id=49942706))
+- [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) - A community project that runs the 125B-parameter Qwen 3.8 Flash Next model at roughly 100T/s on a single RTX 4090. ([comments](https://news.ycombinator.com/item?id=49953495))
+- [From the creator of Redis; run LLM locally with ds4](https://dwarfstar.sh/) - A small new tool from the Redis creator for running LLMs locally. ([comments](https://news.ycombinator.com/item?id=49936575))
+- [FLUX 3 Image](https://bfl.ai/models/flux-3-image) - The next image model in the FLUX line. ([comments](https://news.ycombinator.com/item?id=49925974))
+- [With most information hidden, the game Stratego had stumped AI until now](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/) - AI finally beat the best human Stratego player, a game that hides most of its information. ([comments](https://news.ycombinator.com/item?id=49933740))
+- [OpenAI's Astra Model Went for a Drive and No One Died](https://soylentnews.org/article.pl?sid=26/09/28/0158240&from=rss) - OpenAI's autonomous-driving model went on a public test drive with no incidents.
+- [Error-Prone AI Nearly Sparked World War Three Last Month](https://tech.slashdot.org/story/26/10/02/0211256/error-prone-ai-nearly-sparked-world-war-three-last-month?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A look at how an error-prone AI system nearly triggered a military conflict last month.
+- [LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents](https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/) - The AI pioneer pushes back on extinction fears and dismisses recent "rogue" AI incidents. ([comments](https://news.ycombinator.com/item?id=49946228))
+- [Laid-Off Developers Create AI Model to Replace CEOs and Other Executives](https://soylentnews.org/article.pl?sid=26/09/24/1840210&from=rss) - Laid-off developers release an AI model designed to replace CEOs and other executives.
 
 ## Security & Privacy
-- [A Parasitic Fibonacci Computation Inside /usr/bin/top](https://seriot.ch/computation/terminfo/) ([comments](https://news.ycombinator.com/item?id=49935250))
-- [I Got Targeted: Trying to Get Your Credentials via a Git Post-Checkout Hook](https://frankwiles.com/posts/i-got-targeted/)
-- [System-Level Ad-Blocking in Android](https://kevinboone.me/adblock.html)
-- [Ex-Soldier's Telecom Hacking Spree Earns Him 70 Months](https://soylentnews.org/article.pl?sid=26/10/03/0352234&from=rss)
+- [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw) - Apple tightens Full Disk Access controls on macOS, citing the growing risks posed by AI agents. ([comments](https://news.ycombinator.com/item?id=49937631))
+- [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) - A federal court sides with the EFF, ruling that Utah's VPN law demands a technical impossibility. ([comments](https://news.ycombinator.com/item?id=49927754))
+- [I got targeted: Trying to get your credentials via a git post-checkout hook](https://frankwiles.com/posts/i-got-targeted/) - A developer's account of being targeted for credential theft via a malicious git post-checkout hook. ([comments](https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your))
+- [Greg Kroah-Hartman – Security in the LLM Age [video]](https://www.youtube.com/watch?v=NnV_cWeoo5Q) - A talk on keeping systems secure in the age of LLMs. ([comments](https://lobste.rs/s/rghh9w/greg_kroah_hartman_security_llm_age))
+- [Trove of Stolen Sensitive FBI Employee Data is Significant Intelligence Risk](https://soylentnews.org/article.pl?sid=26/09/26/0155238&from=rss) - A trove of stolen, sensitive FBI employee data judged a significant intelligence risk.
+- [Say Hello to RatHat, a New AI-Powered Malware Invading the Android Ecosystem](https://soylentnews.org/article.pl?sid=26/09/28/0139250&from=rss) - An AI-powered malware is spreading through the Android ecosystem.
+- [New Mexico Wants Meta To Pay $40 Billion In Penalties For Cambridge Analytica Scandal](https://yro.slashdot.org/story/26/10/02/2152218/new-mexico-wants-meta-to-pay-40-billion-in-penalties-for-cambridge-analytica-scandal?utm_source=rss1.0mainlinkanon&utm_medium=feed) - New Mexico seeks $40 billion in penalties from Meta over the Cambridge Analytica scandal.
+- [Privacy Group Slams EU for Changing the Data Rules to Cater to AI](https://soylentnews.org/article.pl?sid=26/09/28/0133248&from=rss) - A privacy group criticizes the EU for loosening data rules to accommodate AI.
 
-## Science & Physics
-- [Particle Collider Experiment Recreates the Big Bang's Primordial Soup — and Finds Unexpected Pattern](https://science.slashdot.org/story/26/10/04/1812250/particle-collider-experiment-recreates-the-big-bangs-primordial-soup---and-finds-unexpected-pattern?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Physicists Identify 'Octupolar' Magnetism, With Implications for Quantum Technologies](https://science.slashdot.org/story/26/10/04/0015230/physicists-identify-octupolar-magnetism-with-implications-for-quantum-technologies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [The Heilbronn Problem](https://math.tejstead.com/heilbronn/) ([comments](https://news.ycombinator.com/item?id=49939637))
+## Science & Space
+- [Particle Collider Experiment Recreates the Big Bang's Primordial Soup - and Finds Unexpected Pattern](https://science.slashdot.org/story/26/10/04/1812250/particle-collider-experiment-recreates-the-big-bangs-primordial-soup---and-finds-unexpected-pattern?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A collider experiment recreating the early universe's primordial soup reveals an unexpected pattern.
+- [Astronomers Estimate That the Moon's Water Reserves Are Insufficient to Sustain a Lunar City](https://soylentnews.org/article.pl?sid=26/09/27/0934225&from=rss) - New estimates say the Moon's water reserves cannot sustain a lunar city.
+- [As 'Falcon Heavy' Launches, SpaceX Plans Dragon and Falcon 9 Phase Out As Starship Ramps Up](https://science.slashdot.org/story/26/10/03/2317251/as-falcon-heavy-launches-spacex-plans-dragon-and-falcon-9-phase-out-as-starship-ramps-up?utm_source=rss1.0mainlinkanon&utm_medium=feed) - With Falcon Heavy flying, SpaceX accelerates its Starship-first future and phases out Dragon and Falcon 9.
+- [Physicists Identify 'Octupolar' Magnetism, With Implications for Quantum Technologies](https://science.slashdot.org/story/26/10/04/0015230/physicists-identify-octupolar-magnetism-with-implications-for-quantum-technologies?utm_source=rss1.0mainlinkanon&utm_medium=feed) - Physicists report 'octupolar' magnetism, opening new avenues for quantum technologies.
+- [This Virus Stole a Human Gene and Won't Let Go of It](https://science.slashdot.org/story/26/10/04/0054248/this-virus-stole-a-human-gene-and-wont-let-go-of-it?utm_source=rss1.0mainlinkanon&utm_medium=feed) - A virus that co-opted a human gene now refuses to give it back.
+- [Loss of cell identity drives human aging: Two new papers](https://erictopol.substack.com/p/loss-of-cell-identity-drives-human) - Two new papers point to loss of cell identity as a driver of human aging. ([comments](https://news.ycombinator.com/item?id=49926411))
+- [Scientists invent underwater umbrellas to protect coral reefs](https://gizmodo.com/scientists-invent-underwater-umbrellas-to-protect-coral-reefs-and-it-appears-to-be-working-2000819444) - Scientists deploy "underwater umbrellas" to shield coral reefs from warming water. ([comments](https://news.ycombinator.com/item?id=49931725))
+- [A New Report From Europe Raises Serious Alarms About Orbital Collisions](https://soylentnews.org/article.pl?sid=26/09/23/1848225&from=rss) - A new European report raises serious alarms about growing orbital-collision risk.
 
-## Software Development & Open Source
-- [Software Engineering Is Dead. Long Live Product Engineering](https://newsletter.chainofthought.show/p/software-engineering-is-dead-long) ([comments](https://news.ycombinator.com/item?id=49956358))
-- [Emitting Metadata Early Makes Building/Checking Rust up to Twice as Fast](https://github.com/PowderworksCode/headstart) ([comments](https://news.ycombinator.com/item?id=49951218))
-- [Two-Stack Sliding-Window Aggregation](https://orlp.net/blog/two-stack-sliding-window-aggregation/)
-- [We Want You to Build the Next Git Platform on Cloudflare](https://blog.cloudflare.com/next-git-platform-on-cloudflare/)
+## Programming & Systems
+- [Homa: The end of TCP for AI clusters [video]](https://www.youtube.com/watch?v=eZ8WWZzoaR0) - A talk on Homa, the transport protocol built to replace TCP inside AI clusters. ([comments](https://news.ycombinator.com/item?id=49957117))
+- [Protocol-aware recovery for consensus-based storage (2018)](https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf) - A 2018 FAST paper on recovery techniques tailored to consensus-based storage. ([comments](https://lobste.rs/s/4bzboj/protocol_aware_recovery_for_consensus))
+- [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256) - An argument that Git 3.0's planned default switch to SHA-256 will hurt the ecosystem. ([comments](https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be))
+- [Go JSON v2 Migration: What Breaks in Go 1.27](https://importstatic.com/go/go-json-v2-migration) - What breaks when migrating to the new JSON v2 encoding in Go 1.27. ([comments](https://lobste.rs/s/par7rv/go_json_v2_migration_what_breaks_go_1_27))
+- [Two-Stack Sliding-Window Aggregation](https://orlp.net/blog/two-stack-sliding-window-aggregation/) - A clean two-stack technique for constant-time sliding-window aggregation. ([comments](https://lobste.rs/s/49glor/two_stack_sliding_window_aggregation))
+- [Emitting metadata early makes building/checking Rust up to twice as fast](https://github.com/PowderworksCode/headstart) - A Rust compiler tweak that emits metadata early to speed up builds and checks up to twice. ([comments](https://news.ycombinator.com/item?id=49951218))
+- [Agents don't need memory, they need documentation](https://liao.gg/blog/agents-dont-need-memory) - An argument that AI agents need good documentation more than they need memory. ([comments](https://news.ycombinator.com/item?id=49945933))
+- [Hacking the Go compiler to efficiently map IPv4 to IPv6](https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6) - A compiler-level hack that efficiently maps IPv4 addresses into IPv6. ([comments](https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4))
+
+## Web & Open Source
+- [gVisor is being donated to CNCF](https://gvisor.dev/blog/2026/10/02/gvisor-cncf/) - Google's gVisor user-space sandbox is being donated to the CNCF. ([comments](https://lobste.rs/s/asoxjl/gvisor_is_being_donated_cncf))
+- [The Era of Software Quality, or the Era of Ostriches?](https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/) - An essay on whether modern software has entered an era of quality or one of looking away. ([comments](https://lobste.rs/s/elziso/era_software_quality_era_ostriches))
+- [Why don't more developers "use the platform"?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/) - A look at why developers keep fighting their platforms instead of using them. ([comments](https://news.ycombinator.com/item?id=49950554))
+- [The Ethernet Spec Was First Drafted on This Day in 1980](https://soylentnews.org/article.pl?sid=26/10/03/0349244&from=rss) - The anniversary of the first drafting of the Ethernet specification in 1980.
+- [Self-hosted HTTP tunnels with SSH and nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh) - Building a self-hosted HTTP tunnel over SSH and nginx. ([comments](https://lobste.rs/s/jba52r/self_hosted_http_tunnels_with_ssh_nginx))
+- [Iroh global content discovery](https://www.iroh.computer/blog/iroh-global-content-discovery) - Iroh ships global content discovery for its peer-to-peer networking stack. ([comments](https://lobste.rs/s/eoibah/iroh_global_content_discovery))
+- [Announcing Cloudflare OHTTP Gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/) - Cloudflare launches a gateway for the Oblivious HTTP protocol. ([comments](https://news.ycombinator.com/item?id=49941091))
+- [The hidden design compromises of Docker layers](https://loige.co/hidden-design-compromises-of-docker-layers/) - A deep dive into the unspoken design compromises hidden in Docker layers. ([comments](https://lobste.rs/s/uuu6us/hidden_design_compromises_docker_layers))
+
+## Culture, Obituaries & Oddities
+- [Bill Draper has died](https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html) - Bill Draper has died, as the tech world pays its respects. ([comments](https://news.ycombinator.com/item?id=49953288))
+- [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438) - The tech-media figure Bob Cringely has died.
+- [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/) - NFL coach Mike Tomlin has spent 12 years building a city in Minecraft. ([comments](https://news.ycombinator.com/item?id=49925184))
+- [The evolution of effective altruism](https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world) - The Economist traces how effective altruism grew from a niche movement into a global force. ([comments](https://news.ycombinator.com/item?id=49953777))
+- [Declaring a bird extinct: The median wait is 36 years after the last sighting](https://birdshistory.com/how-long-to-declare-a-bird-extinct/) - How long it actually takes — a median 36 years — to declare a bird officially extinct. ([comments](https://news.ycombinator.com/item?id=49948738))
+- [Venice's failed war against Constantinople led to the first bond market](https://bigthink.com/books/a-fabulous-debt/) - How Venice's failed war against Constantinople produced the first bond market. ([comments](https://news.ycombinator.com/item?id=49933230))
