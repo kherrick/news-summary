@@ -1,55 +1,32 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI and Large Models
-- [OpenAI Pauses Some Training Amid Allegations Its Rogue Agents Behaved More Badly Than First Thought](https://soylentnews.org/article.pl?sid=26/10/03/2132223&from=rss)
-- [OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead](https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Claude Says](https://ohhfishal.net/Posts/claude)
-- [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)
-- [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/)
-- [The Four Horsemen of Agentic Coding](https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding)
-- [With most information hidden, the game Stratego had stumped AI until now](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/)
-- [One month coding with GLM 5.3 Flash](https://wagtail.org/blog/one-month-on-glm-53-flash/)
-- [Building a RAG Pipeline for Semantic Code Search](https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/)
-- [Refinement E-Graphs](https://www.philipzucker.com/refinement_egraph/)
+## Programming Languages
+- [Factor Overview](https://re.factorcode.org/2026/10/factor-overview.html) ([comments](https://lobste.rs/s/bwtzhy/factor_overview))
+- [We ported the original Doom to SQL](https://cedardb.com/blog/sqldoom/) ([comments](https://lobste.rs/s/qf2mtz/we_ported_original_doom_sql))
+- [Friendship ended with Deno, now Node is my best friend](https://dbushell.com/2026/10/03/deno-to-node/) ([comments](https://lobste.rs/s/a9kwzv/friendship_ended_with_deno_now_node_is_my))
+- [A new, bespoke static site generator to replace Jekyll](https://nullprogram.com/blog/2026/10/04/) ([comments](https://lobste.rs/s/yj99wd/new_bespoke_static_site_generator))
+- [Flirt is now Open-Source](https://blog.buenzli.dev/flirt-is-open-source/) ([comments](https://lobste.rs/s/9iztqv/flirt_is_now_open_source))
 
-## Software and Open Source
-- [We ported the original Doom to SQL](https://cedardb.com/blog/sqldoom/)
-- [A 40ms Go garbage collector pause caused by swap](https://frn.sh/go-gc/)
-- [Self-hosted HTTP tunnels with SSH and Nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
-- [ncdu: NCurses Disk Usage (an updated fork)](https://github.com/rcalixte/ncdu)
-- [A browser-native classic Visual Basic VB6 IDE](https://wieslawsoltes.github.io/VB6/)
-- [Thoreau BASIC](https://thoreaubasic.com/)
-- [Iroh global content discovery](https://www.iroh.computer/blog/iroh-global-content-discovery)
-- [RIP, vector database](https://turbopuffer.com/blog/rip-vector-database)
-- [An Update on Orion for Linux and Windows](https://blog.kagi.com/update-orion-linux-windows)
-- [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256)
+## Security & Privacy
+- [Flock Blamed for Wrongful 13-Day Imprisonment and a Police Stalking Incident in Florida](https://tech.slashdot.org/story/26/10/03/0612209/flock-blamed-for-wrongful-13-day-imprisonment-and-a-police-stalking-incident-in-florida?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://tech.slashdot.org/story/26/10/03/0612209/flock-blamed-for-wrongful-13-day-imprisonment-and-a-police-stalking-incident-in-florida?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [From: anyone@icloud.com - Spoofing Arbitrary Apple iCloud Identities](https://sec-consult.com/blog/detail/from-anyoneicloudcom-spoofing-arbitrary-apple-icloud-identities/) ([comments](https://lobste.rs/s/jpwrmk/from_anyone_icloud_com_spoofing))
+- [FBI Detains Teenager Linked to Group That Stole Data on 5,000 FBI Employees](https://yro.slashdot.org/story/26/10/05/0355256/fbi-detains-teenager-linked-to-group-that-stole-data-on-5000-fbi-employees?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/10/05/0355256/fbi-detains-teenager-linked-to-group-that-stole-data-on-5000-fbi-employees?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Researcher At Russian Plague Laboratory Dies of 'Unknown' Infection](https://science.slashdot.org/story/26/10/05/0146222/researcher-at-russian-plague-laboratory-dies-of-unknown-infection?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/10/05/0146222/researcher-at-russian-plague-laboratory-dies-of-unknown-infection?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Security and Government
-- [FBI Detains Teenager Linked to Group That Stole Data on 5,000 FBI Employees](https://yro.slashdot.org/story/26/10/05/0355256/fbi-detains-teenager-linked-to-group-that-stole-data-on-5000-fbi-employees?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Xray-core concealed a certificate verification bypass vulnerability](https://github.com/net4people/bbs/issues/672)
-- [Improper redaction reveals Google Data Center water and electricity usage](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/)
-- [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
-- [Apple Tightens macOS 'Full Disk Access' Controls As AI Agents 'Substantially' Increase Risk](https://hardware.slashdot.org/story/26/10/02/2056223/apple-tightens-macos-full-disk-access-controls-as-ai-agents-substantially-increase-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Surveillance Company Tells Cops It Wants to Add Facial Recognition to Flock Cameras](https://yro.slashdot.org/story/26/10/03/0545254/surveillance-company-tells-cops-it-wants-to-add-facial-recognition-to-flock-cameras?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [New Mexico Wants Meta To Pay $40 Billion In Penalties For Cambridge Analytica Scandal](https://yro.slashdot.org/story/26/10/02/2152218/new-mexico-wants-meta-to-pay-40-billion-in-penalties-for-cambridge-analytica-scandal?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Privacy Group Slams EU for Changing the Data Rules to Cater to AI](https://soylentnews.org/article.pl?sid=26/09/28/0133248&from=rss)
-- [New Traffic Cameras Can Detect 'Ghost Plates' Designed to Escape the Law](https://soylentnews.org/article.pl?sid=26/10/03/0415226&from=rss)
+## AI & Machine Learning
+- [Replacement of Petroleum Based Products with Plant-Based Materials](https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108) ([comments](https://news.ycombinator.com/item?id=49960901))
+- [OpenAI Pauses Some Training Amid Allegations Its Rogue Agents Behaved More Badly Than First Thought](https://soylentnews.org/article.pl?sid=26/10/03/2132223&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/03/2132223&from=rss))
+- [OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead](https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [A 40ms Go garbage collector pause caused by swap](https://frn.sh/go-gc/) ([comments](https://news.ycombinator.com/item?id=49959654))
 
-## Science and Health
-- [Nearly 200 people under observation after Irkutsk lab worker dies from plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)
-- [Particle Collider Experiment Recreates the Big Bang's Primordial Soup - and Finds Unexpected Pattern](https://science.slashdot.org/story/26/10/04/1812250/particle-collider-experiment-recreates-the-big-bangs-primordial-soup---and-finds-unexpected-pattern?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Physicists Identify 'Octupolar' Magnetism, With Implications for Quantum Technologies](https://science.slashdot.org/story/26/10/04/0015230/physicists-identify-octupolar-magnetism-with-implications-for-quantum-technologies?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [This Virus Stole a Human Gene and Won't Let Go of It](https://science.slashdot.org/story/26/10/04/0054248/this-virus-stole-a-human-gene-and-wont-let-go-of-it?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [1 In 8 Cancer Cases Worldwide Are Due to Infections](https://science.slashdot.org/story/26/10/03/0120218/1-in-8-cancer-cases-worldwide-are-due-to-infections?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Mathematicians Harness Randomness To Crack A 55-Year-Old Conjecture](https://soylentnews.org/article.pl?sid=26/09/30/0820226&from=rss)
-- [Replacement of Petroleum Based Products with Plant-Based Materials](https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108)
-- [October Skies Will Put On A Show](https://soylentnews.org/article.pl?sid=26/09/30/0845238&from=rss)
+## Web & Frontend
+- [Reverse Engineering Comanche Terrain Maps](https://pikuma.com/blog/comanche-maps-reverse-engineering) ([comments](https://lobste.rs/s/qcafwq/reverse_engineering_comanche_terrain))
+- [Tufte's Razor: an interactive guide to the data-ink ratio](https://tuftesrazor.scienceux.org/) ([comments](https://lobste.rs/s/hmu7ym/tufte_s_razor_interactive_guide_data_ink))
+- [Using docker-compose with Podman rootless](https://elou.world/en/tutorial/podman-docker-compose) ([comments](https://lobste.rs/s/tpxwfe/using_docker_compose_with_podman))
+- [Broadcasting conglomerates are attempting a takeover of over-the-air television. We must defend it](https://place.reeseric.ci/writings/2026-10-04/) ([comments](https://lobste.rs/s/r81dwi/broadcasting_conglomerates_are))
 
-## Culture and Politics
-- [Bill Draper has died](https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html)
-- [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438)
-- [In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)
-- [Broadcasting conglomerates are attempting a takeover of over-the-air television. We must defend it](https://place.reeseric.ci/writings/2026-10-04/)
-- [Cancelled Beloved Aussie Soap Neighbours Revived with AI](https://soylentnews.org/article.pl?sid=26/10/03/046225&from=rss)
-- [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/)
-- [What is going on with ceiling fans](https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans)
+## Systems & Infrastructure
+- [After Siemens Re-Licenses OpenRadioss, Rocky Linux Announces Open-Source Fork](https://news.slashdot.org/story/26/10/05/0451252/after-siemens-re-licenses-openradioss-rocky-linux-announces-open-source-fork?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/10/05/0451252/after-siemens-re-licenses-openradioss-rocky-linux-announces-open-source-fork?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Implementing Undo](https://www.youtube.com/watch?v=S6PqsZ65Mg4) ([comments](https://lobste.rs/s/eulzvm/implementing_undo))
+- [Refinement E-Graphs](https://www.philipzucker.com/refinement_egraph/) ([comments](https://lobste.rs/s/9bufek/refinement_e_graphs))
+- [Nearly 200 people under observation after Irkutsk lab worker dies from plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857) ([comments](https://news.ycombinator.com/item?id=49960084))
