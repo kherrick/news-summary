@@ -1,61 +1,25 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence & Machine Learning
-- [Dust: Pretraining Transformers Without Backpropagation](https://news.ycombinator.com/item?id=49970871) ([comments](https://news.ycombinator.com/item?id=49970871))
-- [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://news.ycombinator.com/item?id=49970667) ([comments](https://news.ycombinator.com/item?id=49970667))
-- [Beam: Reflection's 501B open-weight model](https://news.ycombinator.com/item?id=49969183) ([comments](https://news.ycombinator.com/item?id=49969183))
-- [More is Different When AI Agents Work Together](https://soylentnews.org/article.pl?sid=26/09/30/0149249&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/30/0149249&from=rss))
-- [OpenAI Pauses Some Training Amid Allegations Its Rogue Agents Behaved More Badly Than First Thought](https://soylentnews.org/article.pl?sid=26/10/03/2132223&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/03/2132223&from=rss))
-- [Anthropic Reports Florida Woman's Claude 'Diary' Threat to Law Enforcement](https://news.slashdot.org/story/26/10/05/1733245/anthropic-reports-florida-womans-claude-diary-threat-to-law-enforcement?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/10/05/1733245/anthropic-reports-florida-womans-claude-diary-threat-to-law-enforcement?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Claude Says](https://lobste.rs/s/7faqgg/claude_says) ([comments](https://lobste.rs/s/7faqgg/claude_says))
-- [Web Search API](https://news.ycombinator.com/item?id=49963171) ([comments](https://news.ycombinator.com/item?id=49963171))
-- [Apple and a hacker's future](https://news.ycombinator.com/item?id=49962857) ([comments](https://news.ycombinator.com/item?id=49962857))
+## Programming Languages
+- [Writing the Cyclone Scheme Compiler (2017)](https://justinethier.github.io/cyclone/docs/Writing-the-Cyclone-Scheme-Compiler-Revised-2017) ([comments](https://lobste.rs/s/hlnjbj/writing_cyclone_scheme_compiler_2017))
+- [Go JSON v2 Migration: What Breaks in Go 1.27](https://importstatic.com/go/go-json-v2-migration) ([comments](https://lobste.rs/s/par7rv/go_json_v2_migration_what_breaks_go_1_27))
+- [Rust for CPython (Python Language Summit 2026)](https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/) ([comments](https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit))
 
-## Security & Privacy
-- [Your Car is a Smartphone on Wheels. Here's Who's Listening.](https://soylentnews.org/article.pl?sid=26/10/04/0914256&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/04/0914256&from=rss))
-- [Hackers Steal 8 Million Citizens' Records From Danish Government Database](https://yro.slashdot.org/story/26/10/05/2236257/hackers-steal-8-million-citizens-records-from-danish-government-database?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/10/05/2236257/hackers-steal-8-million-citizens-records-from-danish-government-database?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Meta Rushed To Fix Muse 'VM Escape' Vulnerability Soon Before Launch](https://yro.slashdot.org/story/26/10/05/1914252/meta-rushed-to-fix-muse-vm-escape-vulnerability-soon-before-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/10/05/1914252/meta-rushed-to-fix-muse-vm-escape-vulnerability-soon-before-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Norway Plans Temporary Ban on Smart Glasses](https://yro.slashdot.org/story/26/10/05/1842201/norway-plans-temporary-ban-on-smart-glasses?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/10/05/1842201/norway-plans-temporary-ban-on-smart-glasses?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [FBI Detains Teenager Linked to Group That Stole Data on 5,000 FBI Employees](https://yro.slashdot.org/story/26/10/05/0355256/fbi-detains-teenager-linked-to-group-that-stole-data-on-5000-fbi-employees?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/10/05/0355256/fbi-detains-teenager-linked-to-group-that-stole-data-on-5000-fbi-employees?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Privacy Group Slams EU for Changing the Data Rules to Cater to AI](https://soylentnews.org/article.pl?sid=26/09/28/0133248&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/28/0133248&from=rss))
-- [UK Counter-Terror Police Investigation - UPDATED 02 Oct 2026 07:18 BST](https://soylentnews.org/breakingnews/article.pl?sid=26/09/30/1626244&from=rss) ([comments](https://soylentnews.org/breakingnews/article.pl?sid=26/09/30/1626244&from=rss))
-- [Say Hello to RatHat, a New AI-Powered Malware Invading the Android Ecosystem](https://soylentnews.org/article.pl?sid=26/09/28/0139250&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/28/0139250&from=rss))
+## Artificial Intelligence
+- [Show HN: Germany's new sovereign AI model Kolibri](https://tej.as/blog/aleph-alpha-kolibri) ([comments](https://news.ycombinator.com/item?id=49943034))
+- [Kolibri Has Landed: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) ([comments](https://news.ycombinator.com/item?id=49942706))
+- [Google Tests AI Data Center In Space](https://science.slashdot.org/story/26/10/03/0113206/google-tests-ai-data-center-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/10/03/0113206/google-tests-ai-data-center-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Open Source & Software Development
-- [Open Source as We Know It Is Dead](https://lobste.rs/s/1hnx0k/open_source_as_we_know_it_is_dead) ([comments](https://lobste.rs/s/1hnx0k/open_source_as_we_know_it_is_dead))
-- [How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers](https://lobste.rs/s/gm2ziy/how_cloudflare_addressed_cross_tenant) ([comments](https://lobste.rs/s/gm2ziy/how_cloudflare_addressed_cross_tenant))
-- [WSL containers is now generally available](https://news.ycombinator.com/item?id=49970507) ([comments](https://news.ycombinator.com/item?id=49970507))
-- [Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores via Adaptive Removal of Superfluous Merging](https://lobste.rs/s/oevwp5/dostoevsky_better_space_time_trade_offs) ([comments](https://lobste.rs/s/oevwp5/dostoevsky_better_space_time_trade_offs))
-- [Making a GTK application in Haskell, part 1](https://news.ycombinator.com/item?id=49965308) ([comments](https://news.ycombinator.com/item?id=49965308))
-- [Linux containers in 500 lines of code (2016)](https://news.ycombinator.com/item?id=49965118) ([comments](https://news.ycombinator.com/item?id=49965118))
-- [Mold 3.0.0 Released](https://lobste.rs/s/9srb4r/mold_3_0_0_released) ([comments](https://lobste.rs/s/9srb4r/mold_3_0_0_released))
-- [Spoonful: static site generator written in Nix](https://lobste.rs/s/az2lgv/spoonful_static_site_generator_written) ([comments](https://lobste.rs/s/az2lgv/spoonful_static_site_generator_written))
-- [We ported the original Doom to SQL](https://lobste.rs/s/qf2mtz/we_ported_original_doom_sql) ([comments](https://lobste.rs/s/qf2mtz/we_ported_original_doom_sql))
-- [Friendship ended with Deno, now Node is my best friend](https://lobste.rs/s/a9kwzv/friendship_ended_with_deno_now_node_is_my) ([comments](https://lobste.rs/s/a9kwzv/friendship_ended_with_deno_now_node_is_my))
-- [A new, bespoke static site generator to replace Jekyll](https://lobste.rs/s/yj99wd/new_bespoke_static_site_generator) ([comments](https://lobste.rs/s/yj99wd/new_bespoke_static_site_generator))
-- [Iroh global content discovery](https://lobste.rs/s/eoibah/iroh_global_content_discovery) ([comments](https://lobste.rs/s/eoibah/iroh_global_content_discovery))
-- [Refinement E-Graphs](https://lobste.rs/s/9bufek/refinement_e_graphs) ([comments](https://lobste.rs/s/9bufek/refinement_e_graphs))
+## Security
+- [How to Hack Time, With C2PA](https://www.da.vidbuchanan.co.uk/blog/hacking-time.html) ([comments](https://lobste.rs/s/u8uvlr/how_hack_time_with_c2pa))
+- [Greg Kroah-Hartman - Security in the LLM Age](https://www.youtube.com/watch?v=NnV_cWeoo5Q) ([comments](https://lobste.rs/s/rghh9w/greg_kroah_hartman_security_llm_age))
+- [gVisor is being donated to CNCF](https://gvisor.dev/blog/2026/10/02/gvisor-cncf/) ([comments](https://lobste.rs/s/asoxjl/gvisor_is_being_donated_cncf))
 
-## Science & Research
-- [2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel](https://news.ycombinator.com/item?id=49962572) ([comments](https://news.ycombinator.com/item?id=49962572))
-- [Mathematicians Harness Randomness To Crack A 55-Year-Old Conjecture](https://soylentnews.org/article.pl?sid=26/09/30/0820226&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/30/0820226&from=rss))
-- [Fresh CSS Constructs Move Web Design Beyond Ticky-Tacky Little Boxes](https://soylentnews.org/article.pl?sid=26/09/30/0813249&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/30/0813249&from=rss))
-- [The first fully implanted cochlear implant reaches patients](https://news.ycombinator.com/item?id=49920785) ([comments](https://news.ycombinator.com/item?id=49920785))
-- [Greenvolt begins building 600 MW/2.4 GWh BESS in Poland](https://news.ycombinator.com/item?id=49968708) ([comments](https://news.ycombinator.com/item?id=49968708))
-- [Small Undersea Volcanoes May Unleash Outsized Tsunamis](https://soylentnews.org/article.pl?sid=26/09/28/0139250&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/28/0139250&from=rss))
-- [Paleontologists Reconstruct Forests of 56 Million Years Ago With Chilling Parallels for Our Time](https://soylentnews.org/article.pl?sid=26/09/29/014245&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/29/014245&from=rss))
-- [Study Links Coffee Consumption to Metabolic Health and Sex Hormones](https://soylentnews.org/article.pl?sid=26/09/29/0059203&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/29/0059203&from=rss))
-- [The Last Quiet Thing](https://soylentnews.org/article.pl?sid=26/09/29/0057232&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/29/0057232&from=rss))
-- [Former NASA Chief Sounds Alarm on China's Lunar "Exploration" Plans](https://soylentnews.org/article.pl?sid=26/09/28/027211&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/28/027211&from=rss))
+## Systems & Infrastructure
+- [Two-Stack Sliding-Window Aggregation](https://orlp.net/blog/two-stack-sliding-window-aggregation/) ([comments](https://lobste.rs/s/49glor/two_stack_sliding_window_aggregation))
+- [Announcing Cloudflare OHTTP Gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/) ([comments](https://lobste.rs/s/l5ev1t/announcing_cloudflare_ohttp_gateway))
+- [The Four Horsemen of Agentic Coding](https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding) ([comments](https://lobste.rs/s/wevegu/four_horsemen_agentic_coding))
 
-## Technology & Policy
-- [Rural Data Centers Are in for a Big Federal Tax Break](https://news.slashdot.org/story/26/10/05/2251217/rural-data-centers-are-in-for-a-big-federal-tax-break?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/10/05/2251217/rural-data-centers-are-in-for-a-big-federal-tax-break?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [After Siemens Re-Licenses OpenRadioss, Rocky Linux Announces Open-Source Fork](https://news.slashdot.org/story/26/10/05/0451252/after-siemens-re-licenses-openradioss-rocky-linux-announces-open-source-fork?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.slashdot.org/story/26/10/05/0451252/after-siemens-re-licenses-openradioss-rocky-linux-announces-open-source-fork?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI](https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Huawei and Qualcomm Struck a Broad Multi-Year Patent Licensing Deal](https://yro.slashdot.org/story/26/10/05/1412251/huawei-and-qualcomm-struck-a-broad-multi-year-patent-licensing-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://yro.slashdot.org/story/26/10/05/1412251/huawei-and-qualcomm-struck-a-broad-multi-year-patent-licensing-deal?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [The technology to eradicate mosquito-borne disease exists](https://news.ycombinator.com/item?id=49956290) ([comments](https://news.ycombinator.com/item?id=49956290))
-- [Using Blu-ray M-Disk as Backup of Last Resort](https://news.ycombinator.com/item?id=49951693) ([comments](https://news.ycombinator.com/item?id=49951693))
-- [Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear](https://news.ycombinator.com/item?id=49952148) ([comments](https://news.ycombinator.com/item?id=49952148))
-- [How to save a life without knowing CPR](https://news.ycombinator.com/item?id=49938270) ([comments](https://news.ycombinator.com/item?id=49938270))
-- [Martian chaos terrain](https://en.wikipedia.org/wiki/Martian_chaos_terrain)
-- [October Skies Will Put On A Show](https://soylentnews.org/article.pl?sid=26/09/30/0845238&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/30/0845238&from=rss))
+## Health & Biology
+- [1 In 8 Cancer Cases Worldwide Are Due to Infections](https://science.slashdot.org/story/26/10/03/0120218/1-in-8-cancer-cases-worldwide-are-due-to-infections?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/10/03/0120218/1-in-8-cancer-cases-worldwide-are-due-to-infections?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Tesla Scores Deal to Help Double the US Electric Semi-Truck Fleet](https://soylentnews.org/article.pl?sid=26/10/01/1217258&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/01/1217258&from=rss))
