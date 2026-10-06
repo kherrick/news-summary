@@ -1,25 +1,29 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Programming Languages
-- [Writing the Cyclone Scheme Compiler (2017)](https://justinethier.github.io/cyclone/docs/Writing-the-Cyclone-Scheme-Compiler-Revised-2017) ([comments](https://lobste.rs/s/hlnjbj/writing_cyclone_scheme_compiler_2017))
-- [Go JSON v2 Migration: What Breaks in Go 1.27](https://importstatic.com/go/go-json-v2-migration) ([comments](https://lobste.rs/s/par7rv/go_json_v2_migration_what_breaks_go_1_27))
+## Artificial Intelligence & Machine Learning
+- [AI Tutoring with Khanmigo in a Two-Year School Experiment](https://edworkingpapers.com/ai26-1551) ([comments](https://news.ycombinator.com/item?id=49972419))
+- [Kolibri Has Landed: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) ([comments](https://news.ycombinator.com/item?id=49942706))
+- [Cloudflare OHTTP Gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/) ([comments](https://news.ycombinator.com/item?id=49941091))
 - [Rust for CPython (Python Language Summit 2026)](https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/) ([comments](https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit))
 
-## Artificial Intelligence
-- [Show HN: Germany's new sovereign AI model Kolibri](https://tej.as/blog/aleph-alpha-kolibri) ([comments](https://news.ycombinator.com/item?id=49943034))
-- [Kolibri Has Landed: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) ([comments](https://news.ycombinator.com/item?id=49942706))
-- [Google Tests AI Data Center In Space](https://science.slashdot.org/story/26/10/03/0113206/google-tests-ai-data-center-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/10/03/0113206/google-tests-ai-data-center-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+## Security, Privacy & Policy
+- [How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers](https://blog.cloudflare.com/containers-cross-tenant-vulnerability/) ([comments](https://news.ycombinator.com/item?id=49971726))
+- [Meta Rushed To Fix Muse 'VM Escape' Vulnerability Soon Before Launch](https://yro.slashdot.org/story/26/10/05/1914252/meta-rushed-to-fix-muse-vm-escape-vulnerability-soon-before-launch?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [FBI Detains Teenager Linked to Group That Stole Data on 5,000 FBI Employees](https://yro.slashdot.org/story/26/10/05/0355256/fbi-detains-teenager-linked-to-group-that-stole-data-on-5000-fbi-employees?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) ([comments](https://news.ycombinator.com/item?id=49927754))
 
-## Security
-- [How to Hack Time, With C2PA](https://www.da.vidbuchanan.co.uk/blog/hacking-time.html) ([comments](https://lobste.rs/s/u8uvlr/how_hack_time_with_c2pa))
-- [Greg Kroah-Hartman - Security in the LLM Age](https://www.youtube.com/watch?v=NnV_cWeoo5Q) ([comments](https://lobste.rs/s/rghh9w/greg_kroah_hartman_security_llm_age))
-- [gVisor is being donated to CNCF](https://gvisor.dev/blog/2026/10/02/gvisor-cncf/) ([comments](https://lobste.rs/s/asoxjl/gvisor_is_being_donated_cncf))
+## Open Source & Developer Tools
+- [Open Source as We Know It Is Dead](https://jross.me/open-source-as-we-know-it-is-dead/) ([comments](https://lobste.rs/s/1hnx0k/open_source_as_we_know_it_is_dead))
+- [Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores](https://nivdayan.github.io/dostoevsky.pdf) ([comments](https://news.ycombinator.com/item?id=49971523))
+- [Newgrounds.com Relaunch](https://www.newgrounds.com/) ([comments](https://news.ycombinator.com/item?id=49940394))
+- [Rust's Generic Const Args and You](https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/) ([comments](https://lobste.rs/s/6jcvdn/generic_const_args_you))
 
-## Systems & Infrastructure
-- [Two-Stack Sliding-Window Aggregation](https://orlp.net/blog/two-stack-sliding-window-aggregation/) ([comments](https://lobste.rs/s/49glor/two_stack_sliding_window_aggregation))
-- [Announcing Cloudflare OHTTP Gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/) ([comments](https://lobste.rs/s/l5ev1t/announcing_cloudflare_ohttp_gateway))
-- [The Four Horsemen of Agentic Coding](https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding) ([comments](https://lobste.rs/s/wevegu/four_horsemen_agentic_coding))
+## Science, Tech History & Discovery
+- [Mathematicians Harness Randomness To Crack A 55-Year-Old Conjecture](https://soylentnews.org/article.pl?sid=26/09/30/0820226&from=rss)
+- [RAM Supply Set to Worsen, Says Micron, as CEO Celebrates 'Much Higher' Prices](https://soylentnews.org/article.pl?sid=26/10/01/1220256&from=rss)
+- [The More Americans Hear About Datacenters, the Less They Like Them](https://soylentnews.org/article.pl?sid=26/09/26/0329228&from=rss)
 
-## Health & Biology
-- [1 In 8 Cancer Cases Worldwide Are Due to Infections](https://science.slashdot.org/story/26/10/03/0120218/1-in-8-cancer-cases-worldwide-are-due-to-infections?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/10/03/0120218/1-in-8-cancer-cases-worldwide-are-due-to-infections?utm_source=rss1.0mainlinkanon&utm_medium=feed))
-- [Tesla Scores Deal to Help Double the US Electric Semi-Truck Fleet](https://soylentnews.org/article.pl?sid=26/10/01/1217258&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/01/1217258&from=rss))
+## Culture & Design
+- [ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons](https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/) ([comments](https://news.ycombinator.com/item?id=49971846))
+- [Samon: Designing a Zen Garden Raking Puzzle](https://gwern.net/doc/design/2026-10-03-gwern-samon.html) ([comments](https://news.ycombinator.com/item?id=49972211))
+- [Scientists Invent Underwater Umbrellas to Protect Coral Reefs](https://gizmodo.com/scientists-invent-underwater-umbrellas-to-protect-coral-reefs-and-it-appears-to-be-working-2000819444) ([comments](https://news.ycombinator.com/item?id=49931725))
