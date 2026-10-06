@@ -1,38 +1,39 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Security and Privacy
-- [I got targeted: Trying to get your credentials via a git post-checkout hook](https://frankwiles.com/posts/i-got-targeted/) ([comments](https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your))
-- [Say Hello to RatHat, a New AI-Powered Malware Invading the Android Ecosystem](https://soylentnews.org/article.pl?sid=26/09/28/0139250&from=rss)
-- [Privacy Group Slams EU for Changing the Data Rules to Cater to AI](https://soylentnews.org/article.pl?sid=26/09/28/0133248&from=rss)
-- [New Mexico Wants Meta To Pay $40 Billion In Penalties For Cambridge Analytica Scandal](https://yro.slashdot.org/story/26/10/02/2152218/new-mexico-wants-meta-to-pay-40-billion-in-penalties-for-cambridge-analytica-scandal?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Trove of Stolen Sensitive FBI Employee Data is Significant Intelligence Risk](https://soylentnews.org/article.pl?sid=26/09/26/0155238&from=rss)
-- [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) ([comments](https://news.ycombinator.com/item?id=49927754))
+## AI & Machine Learning
+- [AI is now capable of developing its own inference hardware](https://github.com/FeSens/openTPU) ([comments](https://news.ycombinator.com/item?id=49980715))
+- [EmbeddingGemma 2](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/) ([comments](https://news.ycombinator.com/item?id=49980487))
+- [Mistral Large 4](https://mistral.ai/news/mistral-large-4/) ([comments](https://news.ycombinator.com/item?id=49977979))
+- [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam) ([comments](https://news.ycombinator.com/item?id=49969183))
+- [Benchmark in Milliseconds](https://matklad.github.io/2026/10/05/benchmark-milliseconds.html) ([comments](https://news.ycombinator.com/item?id=49967427))
 
-## Artificial Intelligence
-- [AI Has Finally Learned To Play Stratego](https://games.slashdot.org/story/26/10/02/2129251/ai-has-finally-learned-to-play-stratego?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Error-Prone AI Nearly Sparked World War Three Last Month](https://tech.slashdot.org/story/26/10/02/0211256/error-prone-ai-nearly-sparked-world-war-three-last-month?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Show HN: Germany's new sovereign AI model Kolibri](https://tej.as/blog/aleph-alpha-kolibri) ([comments](https://news.ycombinator.com/item?id=49943034))
-- [From the creator of Redis; run LLM locally with ds4](https://dwarfstar.sh/)
-- [OpenAI Alerts More Than 100 Groups About Rogue AI Agent Activity](https://it.slashdot.org/story/26/10/02/0226205/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+## Web Development & Programming
+- [A sustainable web career, for when all this blows over](https://dbushell.com/2026/10/07/sustainable-web-career/) ([comments](https://news.ycombinator.com/item?id=49982921))
+- [What is Codemode](https://lucumr.pocoo.org/2026/10/6/codemode/) ([comments](https://lobste.rs/s/sshhsl/what_is_codemode))
+- [Bidirectional Type Slicing](https://arxiv.org/pdf/2607.12197) ([comments](https://lobste.rs/s/odew1t/bidirectional_type_slicing))
+- [Show HN: Parseable, an open observability datalake, handles 100M time-series/min](https://www.parseable.com) ([comments](https://news.ycombinator.com/item?id=49978171))
+- [Subquadratic 3SUM and Subcubic APSP](https://arxiv.org/abs/2610.06783) ([comments](https://news.ycombinator.com/item?id=49977437))
+- [Extend Lua with Zig 1: Hello World](https://www.robbielyman.com/blog/extend-lua-with-zig-1/) ([comments](https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world))
+- [World's First enhanced geothermal power plant completed in just 23 months](https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/) ([comments](https://news.ycombinator.com/item?id=49976993))
 
-## Software Development
-- [Rust for CPython (Python Language Summit 2026)](https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/) ([comments](https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit))
-- [Writing the Cyclone Scheme Compiler (2017)](https://justinethier.github.io/cyclone/docs/Writing-the-Cyclone-Scheme-Compiler-Revised-2017) ([comments](https://lobste.rs/s/hlnjbj/writing_cyclone_scheme_compiler_2017))
-- [The Four Horsemen of Agentic Coding](https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding) ([comments](https://news.ycombinator.com/item?id=49934620))
-- [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256)
-- [Show HN: Offrun â manage every coding agent from one workspace](https://offrun.dev/)
-- [Two-Stack Sliding-Window Aggregation](https://orlp.net/blog/two-stack-sliding-window-aggregation/) ([comments](https://lobste.rs/s/49glor/two_stack_sliding_window_aggregation))
-- [The Era of Programming Languages Exploration is upon Us](https://kirancodes.me/posts/log-end-of-pl.html) ([comments](https://lobste.rs/s/1rmsib/era_programming_languages_exploration))
+## Security & Privacy
+- [Two arm64-specific miscompiles induce vulnerabilities in curl](https://mastodon.social/@bagder/117392573268225646) ([comments](https://lobste.rs/s/fu57cb/two_arm64_specific_miscompiles_induce))
+- [How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers](https://blog.cloudflare.com/containers-cross-tenant-vulnerability/) ([comments](https://lobste.rs/s/gm2ziy/how_cloudflare_addressed_cross_tenant))
+- [Golang tool to check SPF, DKIM, TLSA, and TLS settings for mailservers](https://git.sig-io.nl/Sig-IO/mailcheck/) ([comments](https://lobste.rs/s/bw7k1r/golang_tool_check_spf_dkim_tlsa_tls))
+- [You don't need an effect system](https://burningwitness.github.io/blog/posts/against-effect-systems/) ([comments](https://lobste.rs/s/okq4dm/you_don_t_need_effect_system))
+- [Async Rust: Where does the scheduler live?](https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/) ([comments](https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live))
 
-## Science and Environment
-- [Google Tests AI Data Center In Space](https://science.slashdot.org/story/26/10/03/0113206/google-tests-ai-data-center-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [20% of Swiss Glaciers Lost In Five Years](https://news.slashdot.org/story/26/10/02/0220226/20-of-swiss-glaciers-lost-in-five-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Mathematicians Harness Randomness To Crack A 55-Year-Old Conjecture](https://soylentnews.org/article.pl?sid=26/09/30/0820226&from=rss)
-- [Scientists invent underwater umbrellas to protect coral reefs](https://gizmodo.com/scientists-invent-underwater-umbrellas-to-protect-coral-reefs-and-it-appears-to-be-working-2000819444)
-- [Paleontologists Reconstruct Forests of 56 Million Years Ago With Chilling Parallels for Our Time](https://soylentnews.org/article.pl?sid=26/09/29/014245&from=rss)
+## Hardware & Gadgets
+- [Berthd](https://berthd.app/) ([comments](https://news.ycombinator.com/item?id=49982735))
+- [Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer](https://peterszentkiralyi.eu/darkplug/) ([comments](https://news.ycombinator.com/item?id=49978595))
+- [Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol](https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/) ([comments](https://news.ycombinator.com/item?id=49978563))
+- [Mac Users Reclaim 12GB+ of Storage With Apple Intelligence Removal Tool](https://hardware.slashdot.org/story/26/10/05/1747205/mac-users-reclaim-12gb-of-storage-with-apple-intelligence-removal-tool?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://hardware.slashdot.org/story/26/10/05/1747205/mac-users-reclaim-12gb-of-storage-with-apple-intelligence-removal-tool?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Google Tests AI Data Center In Space](https://science.slashdot.org/story/26/10/03/0113206/google-tests-ai-data-center-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/10/03/0113206/google-tests-ai-data-center-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed))
 
-## Infrastructure and Tools
-- [gVisor is being donated to CNCF](https://gvisor.dev/blog/2026/10/02/gvisor-cncf/) ([comments](https://lobste.rs/s/asoxjl/gvisor_is_being_donated_cncf))
-- [RAM Supply Set to Worsen, Says Micron, as CEO Celebrates âMuch Higherâ Prices](https://soylentnews.org/article.pl?sid=26/10/01/1220256&from=rss)
-- [Apple Tightens macOS 'Full Disk Access' Controls As AI Agents 'Substantially' Increase Risk](https://hardware.slashdot.org/story/26/10/02/2056223/apple-tightens-macos-full-disk-access-controls-as-ai-agents-substantially-increase-risk?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Show HN: Parseable, an open observability datalake, handles 100M time-series/min](https://www.parseable.com)
+## Science & Research
+- [A 47 Million Car Inspection Study Just Busted a Big EV Myth](https://soylentnews.org/article.pl?sid=26/10/06/0110245&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/06/0110245&from=rss))
+- [Nobel Prize in Physics 2026: Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/) ([comments](https://news.ycombinator.com/item?id=49976265))
+- [Old Hearts Become Biologically Younger When Transplanted Into Younger People](https://science.slashdot.org/story/26/10/06/0419213/old-hearts-become-biologically-younger-when-transplanted-into-younger-people?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://science.slashdot.org/story/26/10/06/0419213/old-hearts-become-biologically-younger-when-transplanted-into-younger-people?utm_source=rss1.0mainlinkanon&utm_medium=feed))
+- [Nature's capacity to 'bounce back' when species are lost is overestimated: study](https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html) ([comments](https://news.ycombinator.com/item?id=49976823))
+- [Mathematics of Geothermal Energy](https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/) ([comments](https://news.ycombinator.com/item?id=49977819))
+- [What's Earth's dominant species by mass?](https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/) ([comments](https://news.ycombinator.com/item?id=49977531))
