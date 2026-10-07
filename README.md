@@ -14,7 +14,6 @@
 - [Docker Agent: AI Agent Builder and Runtime by Docker](https://github.com/docker/docker-agent) ([comments](https://news.ycombinator.com/item?id=49996259))
 - [C for Rust Programmers](https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/) ([comments](https://lobste.rs/s/lgdxtw/c_for_rust_programmers))
 - [Anti-Patterns in Software Blogging](https://refactoringenglish.com/blog/anti-patterns-software-blogging/) ([comments](https://lobste.rs/s/rwdufq/anti_patterns_software_blogging))
-- [Introducing mapsnap: Automated Georeferencing for Historic Sanborn Insurance Maps](https://www.danvk.org/2026/09/10/mapsnap.html) ([comments](https://lobste.rs/s/b1iafm/introducing_mapsnap_automated))
 - [An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust](https://github.com/storytold/photocraft) ([comments](https://lobste.rs/s/qn61ip/open_source_clean_room_reimplementation))
 - [How fast is Python 3.15?](https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15) ([comments](https://lobste.rs/s/se6wbx/how_fast_is_python_3_15))
 - [A Terminal Protocol for Program Status (OSC 7501)](https://mitchellh.com/writing/program-status-osc7501) ([comments](https://lobste.rs/s/rmh4fg/terminal_protocol_for_program_status_osc))
@@ -34,12 +33,10 @@
 
 ## Security and Infrastructure
 - [Twenty-two pending curl vulnerabilities](https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/) ([comments](https://lobste.rs/s/lu8hl9/twenty_two_pending_curl_vulnerabilities))
-- [Chromium Hardening Guide](https://rknf404.github.io/chromium-hardening-guide/) ([comments](https://lobste.rs/s/qffffv/chromium_hardening_guide))
 - [ShinyHunters Extorted Boeing Spin-Off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/) ([comments](https://news.ycombinator.com/item?id=49993997))
 - [GitHub Incident with Git Operations, Pull Requests and Actions](https://www.githubstatus.com/incidents/djlmxz2zd0j7) ([comments](https://news.ycombinator.com/item?id=49994027))
 - [IBM and Red Hat Find More Than 400 New Vulnerabilities In Popular Java Code](https://it.slashdot.org/story/26/10/06/1854244/ibm-and-red-hat-find-more-than-400-new-vulnerabilities-in-popular-java-code)
 - [Asos Confirms Hackers Sent 'Unauthorized' Notification to App Users](https://it.slashdot.org/story/26/10/06/195201/asos-confirms-hackers-sent-unauthorized-notification-to-app-users)
-- [The Data Race That Wasn't a Bug (and the One That Was)](https://victoria-metrics.com/blog/http-race-condition/) ([comments](https://lobste.rs/s/sucfcj/data_race_wasn_t_bug_one_was))
 - [When random is not actually random enough](https://ersc.io/blog/when-random-isnt-random-enough) ([comments](https://lobste.rs/s/njjwgr/when_random_is_not_actually_random_enough))
 - [Federal Judge in Oklahoma Rules Warrantless ALPR Searches May be Unconstitutional](https://soylentnews.org/article.pl?sid=26/10/06/0332223&from=rss)
 
