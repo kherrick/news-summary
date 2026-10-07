@@ -1,45 +1,35 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI & Machine Learning
-- [UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement](https://arxiv.org/abs/2609.38721) ([comments](https://news.ycombinator.com/item?id=49985292))
-- [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) ([comments](https://news.ycombinator.com/item?id=49984923))
-- [OpenAI's Astra Model Went for a Drive and No One Died](https://soylentnews.org/article.pl?sid=26/09/28/0158240&from=rss)
-- [From the creator of Redis; run LLM locally with ds4](https://dwarfstar.sh/) ([comments](https://news.ycombinator.com/item?id=49936575))
-- [The Four Horsemen of Agentic Coding](https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding) ([comments](https://lobste.rs/s/wevegu/four_horsemen_agentic_coding))
-- [Researchers Are Tracking a Chinese AI 'Agent Fleet'](https://tech.slashdot.org/story/26/10/06/0459247/researchers-are-tracking-a-chinese-ai-agent-fleet)
+## AI and Machine Learning Advances
+- [GitHub's new dashboard experience now the default](https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/) ([comments](https://news.ycombinator.com/item?id=49942818))
+- [OpenAI Alerts More Than 100 Groups About Rogue AI Agent Activity](https://it.slashdot.org/story/26/10/02/0226205/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49931725))
+- [OpenAI Is Adding Text Watermarking In ChatGPT and Codex](https://slashdot.org/story/26/10/06/0443237/openai-is-adding-text-watermarking-in-chatgpt-and-codex?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49976265))
+- [Researchers Are Tracking a Chinese AI 'Agent Fleet'](https://tech.slashdot.org/story/26/10/06/0459247/researchers-are-tracking-a-chinese-ai-agent-fleet?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49980487))
+- [State of Devs 2026 survey results: developers are exhausted](https://2026.stateofdevs.com/en-US/) ([comments](https://news.ycombinator.com/item?id=49985643))
 
-## Programming Languages & Developer Tools
-- [Burn 0.22.0: Faster Builds, Easier Extensions, and Smarter Autotuning](https://tracel.ai/blog/release-0.22.0/) ([comments](https://lobste.rs/s/cme2vx/burn_0_22_0_faster_builds_easier))
-- [Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM](https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/) ([comments](https://lobste.rs/s/am1cuw/janet_on_x32_32_bit_pointers_64_bit_speed_25))
-- [The Era of Programming Languages Exploration is upon Us](https://kirancodes.me/posts/log-end-of-pl.html) ([comments](https://lobste.rs/s/1rmsib/era_programming_languages_exploration))
-- [Write the Cyclone Scheme Compiler (2017)](https://justinethier.github.io/cyclone/docs/Writing-the-Cyclone-Scheme-Compiler-Revised-2017) ([comments](https://lobste.rs/s/hlnjbj/writing_cyclone_scheme_compiler_2017))
-- [Rust for CPython (Python Language Summit 2026)](https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/) ([comments](https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit))
-- [OpenSSH 10.6](https://www.openssh.org/releasenotes.html#10.6) ([comments](https://news.ycombinator.com/item?id=49983791))
-- [Gleam doesn't compile to Erlang source anymore](https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/) ([comments](https://news.ycombinator.com/item?id=49975619))
-- [A Terminal Protocol for Program Status (OSC 7501)](https://mitchellh.com/writing/program-status-osc7501) ([comments](https://lobste.rs/s/rmh4fg/terminal_protocol_for_program_status_osc))
+## Programming Language and Tool Updates
+- [Writing the Cyclone Scheme Compiler (2017)](https://justinethier.github.io/cyclone/docs/Writing-the-Cyclone-Scheme-Compiler-Revised-2017) ([comments](https://lobste.rs/s/hlnjbj/writing_cyclone_scheme_compiler_2017))
 - [Two-Stack Sliding-Window Aggregation](https://orlp.net/blog/two-stack-sliding-window-aggregation/) ([comments](https://lobste.rs/s/49glor/two_stack_sliding_window_aggregation))
+- [Go JSON v2 Migration: What Breaks in Go 1.27](https://importstatic.com/go/go-json-v2-migration) ([comments](https://lobste.rs/s/par7rv/go_json_v2_migration_what_breaks_go_1_27))
+- [Rust for CPython (Python Language Summit 2026)](https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/) ([comments](https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit))
 - [Generic Const Args and You](https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/) ([comments](https://lobste.rs/s/6jcvdn/generic_const_args_you))
-- [Two arm64-specific miscompiles induce bugs in curl](https://mastodon.social/@bagder/117392573268225646) ([comments](https://lobste.rs/s/fu57cb/two_arm64_specific_miscompiles_induce))
+- [Zig 0.17.0 Release Notes](https://ziglang.org/download/0.17.0/release-notes.html) ([comments](https://lobste.rs/s/wcmfft/zig_0_17_0_release_notes))
+- [Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM](https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/) ([comments](https://lobste.rs/s/am1cuw/janet_on_x32_32_bit_pointers_64_bit_speed_25))
+- [Extend Lua with Zig 1: Hello World](https://www.robbielyman.com/blog/extend-lua-with-zig-1/) ([comments](https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world))
 
-## Security, Privacy & Policy
+## Web Technologies and Infrastructure
+- [Announcing Cloudflare OHTTP Gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/) ([comments](https://lobste.rs/s/l5ev1t/announcing_cloudflare_ohttp_gateway))
+- [Show HN: Germany's new sovereign AI model Kolibri](https://tej.as/blog/aleph-alpha-kolibri) ([comments](https://news.ycombinator.com/item?id=49943034))
+- [Kolibri Has Landed: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) ([comments](https://news.ycombinator.com/item?id=49942706))
+- [Show HN: Offrun – manage every coding agent from one workspace](https://offrun.dev/) ([comments](https://news.ycombinator.com/item?id=49942434))
+- [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions) ([comments](https://news.ycombinator.com/item?id=49984025))
+- [EmbeddingGemma 2: An open, lightweight multimodal embedding model](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/) ([comments](https://news.ycombinator.com/item?id=49980487))
+- [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw) ([comments](https://news.ycombinator.com/item?id=49937631))
+
+## Security, Privacy and Policy Developments
+- [Greg Kroah-Hartman - Security in the LLM Age](https://www.youtube.com/watch?v=NnV_cWeoo5Q) ([comments](https://lobste.rs/s/rghh9w/greg_kroah_hartman_security_llm_age))
 - [I got targeted: Trying to get your credentials via a git post-checkout hook](https://frankwiles.com/posts/i-got-targeted/) ([comments](https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your))
-- [Chrome's Response to Recent ccTLD Registry Hijacks](https://blog.google/security/chromes-response-to-recent-cctld-registry-hijacks/) ([comments](https://lobste.rs/s/4fop73/chrome_s_response_recent_cctld_registry))
-- [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) ([comments](https://news.ycombinator.com/item?id=49927754))
-- [Toronto-Based VPN Provider Plans to Quit Canada over Lawful-Access Bill](https://citizenlab.ca/toronto-based-vpn-provider-plans-to-quit-canada-over-lawful-access-bill/) ([comments](https://news.ycombinator.com/item?id=49982471))
-- [Say Hello to RatHat, a New AI-Powered Malware Invading the Android Ecosystem](https://soylentnews.org/article.pl?sid=26/09/28/0139250&from=rss)
-- [How to Hack Time, With C2PA](https://www.da.vidbuchanan.co.uk/blog/hacking-time.html) ([comments](https://lobste.rs/s/u8uvlr/how_hack_time_with_c2pa))
-
-## Science, Health & Environment
-- [Stanford scientists found a way to regrow cartilage and stop arthritis](https://www.sciencedaily.com/releases/2026/10/261005011249.htm) ([comments](https://news.ycombinator.com/item?id=49985905))
-- [Nobel Prize in Physics 2026: Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/) ([comments](https://news.ycombinator.com/item?id=49976265))
-- [20% of Swiss Glaciers Lost In Five Years](https://news.slashdot.org/story/26/10/02/0220226/20-of-swiss-glaciers-lost-in-five-years)
-- [Astronomers Estimate That the Moon's Water Reserves Are Insufficient to Sustain a Lunar City](https://soylentnews.org/article.pl?sid=26/09/27/0934225&from=rss)
-- [Reverse-Engineering the Vintage Intel 8087's Tangent Algorithm: More Than CORDIC](https://soylentnews.org/article.pl?sid=26/09/27/0930209&from=rss)
-- [Old Hearts Become Biologically Younger When Transplanted Into Younger People](https://science.slashdot.org/story/26/10/06/0419213/old-hearts-become-biologically-younger-when-transplanted-into-younger-people)
-
-## Hardware, Infrastructure & Markets
-- [RAM Supply Set to Worsen, Says Micron, as CEO Celebrates 'Much Higher' Prices](https://soylentnews.org/article.pl?sid=26/10/01/1220256&from=rss)
-- [Tesla Scores Deal to Help Double the US Electric Semi-Truck Fleet](https://soylentnews.org/article.pl?sid=26/10/01/1217258&from=rss)
-- [Europe's Fastest Supercomputer Is Finally Getting Its Domestic Silicon Infusion](https://soylentnews.org/article.pl?sid=26/09/27/0947255&from=rss)
-- [Paramount Skydance has completed its $111B merger with Warner Bros. Discovery](https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/) ([comments](https://news.ycombinator.com/item?id=49983703))
-- [Cloudflare OHTTP Gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/) ([comments](https://lobste.rs/s/l5ev1t/announcing_cloudflare_ohttp_gateway))
+- [EU's Microsoft Teams Alternative Draws Bad Reviews From Officials](https://slashdot.org/story/26/10/02/1743247/eus-microsoft-teams-alternative-draws-bad-reviews-from-officials?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49936575))
+- [Social Media Harms Democracy By Spreading Rumors, Survey Shows](https://tech.slashdot.org/story/26/10/02/0632243/social-media-harms-democracy-by-spreading-rumors-survey-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49934620))
+- [Error-Prone AI Nearly Sparked World War Three Last Month](https://tech.slashdot.org/story/26/10/02/0211256/error-prone-ai-nearly-sparked-world-war-three-last-month?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49933740))
+- [Judge Dismisses Chegg and Penske Antitrust Lawsuits Targeting Google AI Search](https://tech.slashdot.org/story/26/10/02/0639218/judge-dismisses-chegg-and-penske-antitrust-lawsuits-targeting-google-ai-search?utm_source=rss1.0mainlinkanon&utm_medium=feed) ([comments](https://news.ycombinator.com/item?id=49932509))
