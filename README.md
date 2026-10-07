@@ -2,68 +2,22 @@
 
 ## Security & Privacy
 - [Hackers obtain counterfeit TLS certificates for Google and other large services](https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/) ([comments](https://news.ycombinator.com/item?id=49988230))
-- [Tell HN: GitHub refuses to remove cracked copies of my software after a month](https://news.ycombinator.com/item?id=49982498)
-- [Chrome's Response to Recent ccTLD Registry Hijacks](https://blog.google/security/chromes-response-to-recent-cctld-registry-hijacks/)
-- [Two arm64-specific miscompiles induce bugs in curl](https://mastodon.social/@bagder/117392573268225646) ([comments](https://lobste.rs/s/fu57cb/two_arm64_specific_miscompiles_induce))
-- [IBM and Red Hat Find More Than 400 New Vulnerabilities In Popular Java Code](https://it.slashdot.org/story/26/10/06/1854244/ibm-and-red-hat-find-more-than-400-new-vulnerabilities-in-popular-java-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Say Hello to RatHat, a New AI-Powered Malware Invading the Android Ecosystem](https://soylentnews.org/article.pl?sid=26/09/28/0139250&from=rss)
-- [Your Car is a Smartphone on Wheels. Here's Who's Listening.](https://soylentnews.org/article.pl?sid=26/10/04/0914256&from=rss)
-- [Returning to USA From Vacation? The Government Can Search Your Phone Without A Warrant.](https://soylentnews.org/article.pl?sid=26/10/04/098250&from=rss)
-- [Asos Confirms Hackers Sent 'Unauthorized' Notification to App Users](https://it.slashdot.org/story/26/10/06/195201/asos-confirms-hackers-sent-unauthorized-notification-to-app-users?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Ex-Soldier's Telecom Hacking Spree Earns Him 70 Months](https://soylentnews.org/article.pl?sid=26/10/03/0352234&from=rss)
+- [Federal Judge in Oklahoma Rules Warrantless ALPR Searches May be Unconstitutional](https://soylentnews.org/article.pl?sid=26/10/06/0332223&from=rss)
 
-## AI & Machine Learning
-- [Mistral Large 4](https://mistral.ai/news/mistral-large-4/)
-- [OpenTPU – An open-source AI accelerator, developed by AI](https://github.com/FeSens/openTPU)
-- [EmbeddingGemma 2: An open, lightweight multimodal embedding model](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/)
-- [OpenAI Is Adding Text Watermarking In ChatGPT and Codex](https://slashdot.org/story/26/10/06/0443237/openai-is-adding-text-watermarking-in-chatgpt-and-codex?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [OpenAI's Astra Model Went for a Drive and No One Died](https://soylentnews.org/article.pl?sid=26/09/28/0158240&from=rss)
-- [Claude Code's suggested message feature: I think the real customer is the model](https://www.zohaib.cc/blog/smartest-claude-code-feature)
-- [LLMs may have helped my RSI](https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html)
-- [Researchers Are Tracking a Chinese AI 'Agent Fleet'](https://tech.slashdot.org/story/26/10/06/0459247/researchers-are-tracking-a-chinese-ai-agent-fleet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [California's New Law Bans Companies From Relying on AI to Fire Workers](https://soylentnews.org/article.pl?sid=26/10/06/0329214&from=rss)
-- [The US Government Plans to Use AI to Help Redact Documents](https://soylentnews.org/article.pl?sid=26/10/03/0355245&from=rss)
+## AI & Technology
+- [AI Market Needs to Make $6 Trillion a Year by 2031 to Fund its Infrastructure Habit](https://soylentnews.org/article.pl?sid=26/10/06/0340223&from=rss)
+- [OpenTPU – An open-source AI accelerator, developed by AI](https://github.com/FeSens/openTPU) ([comments](https://news.ycombinator.com/item?id=49984716))
+- [South Korea Says AI Agents May Have Been Used to Hack the Country's Banks](https://news.slashdot.org/story/26/10/07/0313242/south-korea-says-ai-agents-may-have-been-used-to-hack-the-countrys-banks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [OpenAI shares mathematics research catalogue](https://github.com/openai/math) ([comments](https://lobste.rs/s/z0lxub/openai_shares_mathematics_research))
 
-## Open Source & Tools
-- [Burn 0.22.0: Faster Builds, Easier Extensions, and Smarter Autotuning](https://tracel.ai/blog/release-0.22.0/)
-- [Pared - remove unwanted Apple Intelligence models without disabling SIP](https://github.com/4evy/pared) ([comments](https://lobste.rs/s/tcmpcw/pared_remove_unwanted_apple))
-- [Montray - a tray icon for systemd service health](https://github.com/dimonomid/montray/) ([comments](https://lobste.rs/s/gveu0c/montray_tray_icon_for_systemd_service))
-- [Brut, the Brutal Router for Unix Tools](https://brut.sh)
-- [Another step towards elm v1](https://elm-lang.org/news/another-step-towards-elm-v1)
-- [Release of Polars 2.0](https://pola.rs/posts/release-polars-2/)
-- [Treg (OpenRouter for Tools)](https://github.com/superdesigndev/treg)
-- [Gleam doesn't compile to Erlang source anymore](https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/)
-- [Bidirectional Type Slicing](https://arxiv.org/pdf/2607.12197)
-- [When random is not actually random enough](https://ersc.io/blog/when-random-isnt-random-enough) ([comments](https://lobste.rs/s/njjwgr/when_random_is_not_actually_random_enough))
-- [Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM](https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/) ([comments](https://lobste.rs/s/am1cuw/janet_on_x32_32_bit_pointers_64_bit_speed_25))
-- [How to fix a bug in a fix](https://projectzero.google/2026/10/emergency-patching.html) ([comments](https://lobste.rs/s/d0cthg/how_fix_bug_fix))
-- [Last rites for Gentoo's Chromium package](https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/) ([comments](https://lobste.rs/s/fpcicg/last_rites_for_gentoo_s_chromium_package))
-- [What Is Codemode](https://lucumr.pocoo.org/2026/10/6/codemode/) ([comments](https://lobste.rs/s/sshhsl/what_is_codemode))
-- [That Time I Worked With a Laptop Thief (2025)](https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/) ([comments](https://lobste.rs/s/0slgpl/time_i_worked_with_laptop_thief_2025))
+## Gaming & Entertainment
+- [Xbox has secured exclusive GTA 6 streaming rights](https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights) ([comments](https://news.ycombinator.com/item?id=49987245))
 
-## Hardware, Science & History
-- [AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)](https://github.com/boykopovar/AnyPS5)
-- [Xbox has secured exclusive GTA 6 streaming rights](https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights)
-- [Raspberry Pi Desktop now available for PC and Mac](https://www.raspberrypi.com/news/raspberry-pi-desktop-now-available-for-pc-and-mac/)
-- [Reverse-Engineering the Vintage Intel 8087'S Tangent Algorithm: More Than CORDIC](https://soylentnews.org/article.pl?sid=26/09/27/0930209&from=rss)
-- [Astronomers Estimate That the Moon's Water Reserves Are Insufficient to Sustain a Lunar City](https://soylentnews.org/article.pl?sid=26/09/27/0934225&from=rss)
-- [Europe's Fastest Supercomputer Is Finally Getting Its Domestic Silicon Infusion](https://soylentnews.org/article.pl?sid=26/09/27/0947255&from=rss)
+## Science & Health
 - [Old Hearts Become Biologically Younger When Transplanted Into Younger People](https://science.slashdot.org/story/26/10/06/0419213/old-hearts-become-biologically-younger-when-transplanted-into-younger-people?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [What's Earth's dominant species by mass?](https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/)
-- [The art of defusing a second world war bomb](https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb) ([comments](https://news.ycombinator.com/item?id=49987858))
-- [La Cueva BBS in Mexico in 1993 (session replay)](https://nanochess.org/la_cueva_bbs.html) ([comments](https://news.ycombinator.com/item?id=49987675))
-- [Mathematicians Harness Randomness To Crack A 55-Year-Old Conjecture](https://soylentnews.org/article.pl?sid=26/09/30/0820226&from=rss)
-- [Former NASA Chief Sounds Alarm on China's Lunar "Exploration" Plans](https://soylentnews.org/article.pl?sid=26/09/28/027211&from=rss)
 
-## Society & Policy
+## Society & Work
 - [HubSpot Cuts 660 Jobs In AI Restructuring](https://slashdot.org/story/26/10/06/2055209/hubspot-cuts-660-jobs-in-ai-restructuring?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Google Ending ChromeOS Support Two Years Early](https://soylentnews.org/article.pl?sid=26/10/06/018249&from=rss)
-- [Licensing Costs Driving 90% of VMware Users To Explore Options, Survey Finds](https://slashdot.org/story/26/10/06/1649245/licensing-costs-driving-90-of-vmware-users-to-explore-options-survey-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Cable Lobby To Sue Trump FCC Over Repeal of National TV Ownership Cap](https://yro.slashdot.org/story/26/10/06/0452228/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [California closed the Montana license plate loophole](https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole)
-- [A 47 Million Car Inspection Study Just Busted a Big EV Myth](https://soylentnews.org/article.pl?sid=26/10/06/0110245&from=rss)
-- [UK Government Vows to Reclaim Services From Outsourcing Giants](https://soylentnews.org/article.pl?sid=26/09/29/1151249&from=rss)
-- [Tesla Scores Deal to Help Double the US Electric Semi-Truck Fleet](https://soylentnews.org/article.pl?sid=26/10/01/1217258&from=rss)
-- [A sustainable web career, for when all this blows over](https://dbushell.com/2026/10/07/sustainable-web-career/) ([comments](https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this))
-- [First DVD Player Announced Sept 26, 1996](https://soylentnews.org/article.pl?sid=26/10/01/1214219&from=rss)
-- [The Ethernet Spec Was First Drafted on This Day in 1980](https://soylentnews.org/article.pl?sid=26/10/03/0349244&from=rss)
+
+## Retro Computing
+- [La Cueva BBS in Mexico in 1993 (session replay)](https://nanochess.org/la_cueva_bbs.html) ([comments](https://news.ycombinator.com/item?id=49987675))
