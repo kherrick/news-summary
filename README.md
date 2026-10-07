@@ -1,35 +1,35 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
+## Artificial Intelligence & Machine Learning
+- [AI Model Groupthink](https://magicnumbers.io/2026/10/06/ai-model-groupthink/) ([comments](https://news.ycombinator.com/item?id=49996542))
+- [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) ([comments](https://news.ycombinator.com/item?id=49996437))
+- [GPT-6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/) ([comments](https://news.ycombinator.com/item?id=49996425))
+- [Mistral Unveils New 'Le Chonk' AI Model](https://news.slashdot.org/story/26/10/06/1614205/mistral-unveils-new-le-chonk-ai-model-it-says-rivals-best-open-systems-from-china?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Researchers Are Tracking a Chinese AI 'Agent Fleet'](https://tech.slashdot.org/story/26/10/06/0459247/researchers-are-tracking-a-chinese-ai-agent-fleet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+
 ## Security & Privacy
-- [Hackers obtain counterfeit TLS certificates for Google and other large services](https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/) ([comments](https://news.ycombinator.com/item?id=49988230))
-- [IBM and Red Hat Find More Than 400 New Vulnerabilities In Popular Java Code](https://it.slashdot.org/story/26/10/06/1854244/ibm-and-red-hat-find-more-than-400-new-vulnerabilities-in-popular-java-code)
-- [Chrome's Response to Recent ccTLD Registry Hijacks](https://blog.google/security/chromes-response-to-recent-cctld-registry-hijacks/)
-- [Hackers Steal 8 Million Citizens' Records From Danish Government Database](https://yro.slashdot.org/story/26/10/05/2236257/hackers-steal-8-million-citizens-records-from-danish-government-database)
-- [Say Hello to RatHat, a New AI-Powered Malware Invading the Android Ecosystem](https://soylentnews.org/article.pl?sid=26/09/28/0139250&from=rss)
-- [Asos Confirms Hackers Sent 'Unauthorized' Notification to App Users](https://it.slashdot.org/story/26/10/06/195201/asos-confirms-hackers-sent-unauthorized-notification-to-app-users)
+- [ShinyHunters Extorted Boeing Spin-Off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/) ([comments](https://soylentnews.org/article.pl?sid=26/10/07/0313242&from=rss))
+- [Twenty-two pending curl vulnerabilities](https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/) ([comments](https://lobste.rs/s/lu8hl9/twenty_two_pending_curl_vulnerabilities))
+- [South Korea Says AI Agents May Have Been Used to Hack the Country's Banks](https://news.slashdot.org/story/26/10/07/0313242/south-korea-says-ai-agents-may-have-been-used-to-hack-the-countrys-banks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Asos Confirms Hackers Sent 'Unauthorized' Notification to App Users](https://it.slashdot.org/story/26/10/06/195201/asos-confirms-hackers-sent-unauthorized-notification-to-app-users?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Say Hello to RatHat, a New AI-Powered Malware Invading the Android Ecosystem](https://soylentnews.org/article.pl?sid=26/09/28/0139250&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/28/0139250&from=rss))
 
-## AI & Machine Learning
-- [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) ([comments](https://news.ycombinator.com/item?id=49984923))
-- [OpenAI Is Adding Text Watermarking In ChatGPT and Codex](https://slashdot.org/story/26/10/06/0443237/openai-is-adding-text-watermarking-in-chatgpt-and-codex)
-- [Mistral Unveils New 'Le Chonk' AI Model It Says Rivals Best Open Systems From China](https://news.slashdot.org/story/26/10/06/1614205/mistral-unveils-new-le-chonk-ai-model-it-says-rivals-best-open-systems-from-china)
-- [EmbeddingGemma 2: An open, lightweight multimodal embedding model](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/)
-- [Researchers Are Tracking a Chinese AI 'Agent Fleet'](https://tech.slashdot.org/story/26/10/06/0459247/researchers-are-tracking-a-chinese-ai-agent-fleet)
-- [Wikipedia Operator Says OpenAI's 'Rogue' Bots May Be Linked to a May Outage](https://news.slashdot.org/story/26/10/05/1932228/wikipedia-operator-says-openais-rogue-bots-may-be-linked-to-a-may-outage)
-- [OpenAI Pauses Some Training Amid Allegations Its Rogue Agents Behaved More Badly Than First Thought](https://soylentnews.org/article.pl?sid=26/10/03/2132223&from=rss)
+## Software Development & Tools
+- [Docker Agent : AI Agent Builder and Runtime by Docker](https://github.com/docker/docker-agent) ([comments](https://news.ycombinator.com/item?id=49996259))
+- [GitHub Incident with Git Operations, Pull Requests and Actions](https://www.githubstatus.com/incidents/djlmxz2zd0j7) ([comments](https://news.ycombinator.com/item?id=49994027))
+- [EmDash uses Clef to moderate the plugin registry](https://emdashcms.com/blog/how-emdash-uses-clef-to-moderate-the-plugin-registry) ([comments](https://news.ycombinator.com/item?id=49995740))
+- [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome) ([comments](https://news.ycombinator.com/item?id=49991227))
+- [God of War on PSP, recompiled to WebAssembly and running in the browser](https://github.com/snuri00/psp-web-recomp) ([comments](https://news.ycombinator.com/item?id=49991243))
+- [Show HN: Durable Actors – OSS Durable Objects with configurable compute](https://github.com/TerseAI/durable-actors) ([comments](https://news.ycombinator.com/item?id=49980399))
+- [Montray - a tray icon for systemd service health](https://github.com/dimonomid/montray/) ([comments](https://lobste.rs/s/gveu0c/montray_tray_icon_for_systemd_service))
+- [Pared - remove unwanted Apple Intelligence models without disabling SIP](https://github.com/4evy/pared) ([comments](https://lobste.rs/s/tcmpcw/pared_remove_unwanted_apple))
 
-## Dev Tools & Open Source
-- [Burn 0.22.0: Faster Builds, Easier Extensions, and Smarter Autotuning](https://tracel.ai/blog/release-0.22.0/) ([comments](https://lobste.rs/s/cme2vx/burn_0_22_0_faster_builds_easier))
-- [Release of Polars 2.0](https://pola.rs/posts/release-polars-2/) ([comments](https://lobste.rs/s/ppzbqo/release_polars_2_0))
-- [Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM](https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/) ([comments](https://lobste.rs/s/am1cuw/janet_on_x32_32_bit_pointers_64_bit_speed_25))
-- [A Terminal Protocol for Program Status (OSC 7501)](https://mitchellh.com/writing/program-status-osc7501) ([comments](https://lobste.rs/s/rmh4fg/terminal_protocol_for_program_status_osc))
-- [How to fix a bug in a fix](https://projectzero.google/2026/10/emergency-patching.html) ([comments](https://lobste.rs/s/d0cthg/how_fix_bug_fix))
-- [Bidirectional Type Slicing](https://arxiv.org/pdf/2607.12197) ([comments](https://lobste.rs/s/odew1t/bidirectional_type_slicing))
-- [How Fast is Python 3.15?](https://blog.miguelgrinberg.com/post/how-fast-is-python-3.15)
-
-## Science, Culture & Curious Tales
-- [The art of defusing a second world war bomb](https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb) ([comments](https://news.ycombinator.com/item?id=49987858))
-- [La Cueva BBS in Mexico in 1993 (session replay)](https://nanochess.org/la_cueva_bbs.html) ([comments](https://news.ycombinator.com/item?id=49987675))
-- [What's Earth's dominant species by mass?](https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/) ([comments](https://news.ycombinator.com/item?id=49977531))
-- [Old Hearts Become Biologically Younger When Transplanted Into Younger People](https://science.slashdot.org/story/26/10/06/0419213/old-hearts-become-biologically-younger-when-transplanted-into-younger-people)
-- [Mathematicians Harness Randomness To Crack A 55-Year-Old Conjecture](https://soylentnews.org/article.pl?sid=26/09/30/0820226&from=rss)
-- [Paleontologists Reconstruct Forests of 56 Million Years Ago With Chilling Parallels for Our Time](https://soylentnews.org/article.pl?sid=26/09/29/014245&from=rss)
+## Science, Hardware & Culture
+- [Francis Halzen Wins Nobel Physics Prize For Antarctic 'Ghost Particle' Hunt](https://slashdot.org/story/26/10/07/0336250/francis-halzen-wins-nobel-physics-prize-for-antarctic-ghost-particle-hunt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai](https://www.nobelprize.org/prizes/chemistry/2026/press-release/) ([comments](https://news.ycombinator.com/item?id=49990470))
+- [Google Enters Massive 3.6-GW Power Deal With Constellation Energy](https://hardware.slashdot.org/story/26/10/06/219233/google-enters-massive-36-gw-power-deal-with-constellation-energy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [AI-assisted proof of optimal packing for 11 squares](https://github.com/Queuingtheorydotcom/11SquaresFormalized) ([comments](https://news.ycombinator.com/item?id=49993121))
+- [Vincent Bernat: Hacking the Go Compiler to Efficiently Map IPv4 to IPv6](https://soylentnews.org/article.pl?sid=26/10/06/0348230&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/06/0348230&from=rss))
+- [Old Hearts Become Biologically Younger When Transplanted Into Younger People](https://science.slashdot.org/story/26/10/06/0419213/old-hearts-become-biologically-younger-when-transplanted-into-younger-people?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [3D-printing platform rapidly produces complex electric machines](https://news.mit.edu/2026/3d-printing-platform-rapidly-produces-complex-electric-machines-0218) ([comments](https://news.ycombinator.com/item?id=49970459))
+- [The Auditor's Opinion](https://www.cringely.com/2026/07/16/the-auditors-opinion/) ([comments](https://news.ycombinator.com/item?id=49955697))
