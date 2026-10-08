@@ -1,35 +1,39 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Security & Vulnerabilities
-- [Hackers Obtain Counterfeit TLS Certificates for Google and Other Large Services](https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/)
+## Security & Privacy
+- [gVisor Is Being Donated to the CNCF](https://lobste.rs/s/asoxjl/gvisor_is_being_donated_cncf) ([comments](https://lobste.rs/s/asoxjl/gvisor_is_being_donated_cncf))
 - [I Got Targeted: Trying to Get Your Credentials via a Git Post-Checkout Hook](https://frankwiles.com/posts/i-got-targeted/) ([comments](https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your))
-- [Twenty-Two Pending Curl Vulnerabilities](https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/) ([comments](https://lobste.rs/s/lu8hl9/twenty_two_pending_curl_vulnerabilities))
-- [IBM and Red Hat Find More Than 400 New Vulnerabilities in Popular Java Code](https://it.slashdot.org/story/26/10/06/1854244/ibm-and-red-hat-find-more-than-400-new-vulnerabilities-in-popular-java-code)
-- [ShinyHunters Extorted Boeing Spin-Off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/)
-- [Ex-Soldier's Telecom Hacking Spree Earns Him 70 Months](https://soylentnews.org/article.pl?sid=26/10/03/0352234) ([comments](https://soylentnews.org/article.pl?sid=26/10/03/0352234?op=1))
+- [Apple Tightens macOS Full Disk Access Controls as AI Agents Substantially Increase Risk](https://hardware.slashdot.org/story/26/10/02/2056223/apple-tightens-macos-full-disk-access-controls-as-ai-agents-substantially-increase-risk) ([comments](https://hardware.slashdot.org/story/26/10/02/2056223?op=1))
+- [Court Agrees with EFF: Utah's VPN Law Demands a Technical Impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
 
 ## Artificial Intelligence & Automation
-- [California's New Law Bans Companies from Relying on AI to Fire Workers](https://soylentnews.org/article.pl?sid=26/10/06/0329214) ([comments](https://soylentnews.org/article.pl?sid=26/10/06/0329214?op=1))
-- [OpenAI Pauses Some Training Amid Allegations Its Rogue Agents Behaved More Badly Than First Thought](https://soylentnews.org/article.pl?sid=26/10/03/2132223) ([comments](https://soylentnews.org/article.pl?sid=26/10/03/2132223?op=1))
-- [BMW Just Announced It's Replacing Several Management Roles With AI](https://soylentnews.org/article.pl?sid=26/10/03/2122259) ([comments](https://soylentnews.org/article.pl?sid=26/10/03/2122259?op=1))
-- [Researchers Are Tracking a Chinese AI 'Agent Fleet'](https://tech.slashdot.org/story/26/10/06/0459247/researchers-are-tracking-a-chinese-ai-agent-fleet)
-
-## Policy, Privacy & Society
-- [Court Agrees with EFF: Utah's VPN Law Demands a Technical Impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
-- [New Mexico Wants Meta to Pay $40 Billion in Penalties for Cambridge Analytica Scandal](https://yro.slashdot.org/story/26/10/02/2152218/new-mexico-wants-meta-to-pay-40-billion-in-penalties-for-cambridge-analytica-scandal)
+- [Error-Prone AI Nearly Sparked World War Three Last Month](https://tech.slashdot.org/story/26/10/02/0211256/error-prone-ai-nearly-sparked-world-war-three-last-month) ([comments](https://tech.slashdot.org/story/26/10/02/0211256?op=1))
+- [OpenAI Alerts More Than 100 Groups About Rogue AI Agent Activity](https://it.slashdot.org/story/26/10/02/0226205/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity) ([comments](https://it.slashdot.org/story/26/10/02/0226205?op=1))
+- [The Four Horsemen of Agentic Coding](https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding)
+- [AI Has Finally Learned To Play Stratego](https://games.slashdot.org/story/26/10/02/2129251/ai-has-finally-learned-to-play-stratego) ([comments](https://games.slashdot.org/story/26/10/02/2129251?op=1))
+- [Show HN: Offrun — Manage Every Coding Agent from One Workspace](https://offrun.dev/)
+- [Greg Kroah-Hartman — Security in the LLM Age](https://www.youtube.com/watch?v=NnV_cWeoo5Q)
 
 ## Software & Open Source
-- [Burn 0.22.0: Faster Builds, Easier Extensions, and Smarter Autotuning](https://tracel.ai/blog/release-0.22.0/)
-- [Release of Polars 2.0](https://pola.rs/posts/release-polars-2/) ([comments](https://lobste.rs/s/ppzbqo/release_polars_2))
-- [Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM](https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/) ([comments](https://lobste.rs/s/am1cuw/janet_on_x32_32_bit_pointers_64_bit_speed_25))
-- [Last Rites for Gentoo's Chromium Package](https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/) ([comments](https://lobste.rs/s/fpcicg/last_rites_for_gentoo_s_chromium_package))
-- [Zeroization, Part 1: Wiping Can Make Things Worse](https://00f.net/2026/10/06/zeroization-1/) ([comments](https://lobste.rs/s/4hxxad/zeroization_part_1_wiping_can_make_things))
-- [An Open-Source, Clean-Room Reimplementation of Adobe Photoshop in Pure Rust](https://github.com/storytold/photocraft) ([comments](https://lobste.rs/s/qn61ip/open_source_clean_room_reimplementation))
-- [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome) ([comments](https://lobste.rs/s/hccdqa/shipping_jpeg_xl_chrome))
+- [Rust for CPython (Python Language Summit 2026)](https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/) ([comments](https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit))
+- [Generic Const Args and You](https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/) ([comments](https://lobste.rs/s/6jcvdn/generic_const_args_you))
+- [Zig 0.17.0 Release Notes](https://ziglang.org/download/0.17.0/release-notes.html) ([comments](https://lobste.rs/s/wcmfft/zig_0_17_0_release_notes))
+- [Announcing Cloudflare OHTTP Gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/) ([comments](https://lobste.rs/s/l5ev1t/announcing_cloudflare_ohttp_gateway))
+- [The Hidden Design Compromises of Docker Layers](https://loige.co/hidden-design-compromises-of-docker-layers/) ([comments](https://lobste.rs/s/uuu6us/hidden_design_compromises_docker_layers))
+- [Keeping Futhark off the GPU](https://futhark-lang.org/blog/2026-10-02-cpu_function.html) ([comments](https://lobste.rs/s/8f5elm/keeping_futhark_off_gpu))
+- [Problems and Solutions to the Modern Desktop (Make tmux the OS)](https://matduggan.com/what-does-my-dream-os-ui-look-like/) ([comments](https://lobste.rs/s/gjlxiz/problems_solutions_modern_desktop_make))
+- [The Era of Programming Languages Exploration Is upon Us](https://kirancodes.me/posts/log-end-of-pl.html) ([comments](https://lobste.rs/s/1rmsib/era_programming_languages_exploration))
 
-## Science, Discovery & History
-- [Margaret Hamilton, Computing Pioneer Who Led Software Development for the Apollo Program, Dies at 90](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
-- [RIP: Milt Windler, NASA Flight Director Who Helped Save Apollo 13, Dies at 94](https://soylentnews.org/article.pl?sid=26/10/06/0356255) ([comments](https://soylentnews.org/article.pl?sid=26/10/06/0356255?op=1))
-- [Francis Halzen Wins Nobel Physics Prize For Antarctic 'Ghost Particle' Hunt](https://slashdot.org/story/26/10/07/0336250/francis-halzen-wins-nobel-physics-prize-for-antarctic-ghost-particle-hunt)
-- [Old Hearts Become Biologically Younger When Transplanted Into Younger People](https://science.slashdot.org/story/26/10/06/0419213/old-hearts-become-biologically-younger-when-transplanted-into-younger-people)
-- [Paleontologists Reconstruct Forests of 56 Million Years Ago With Chilling Parallels for Our Time](https://soylentnews.org/article.pl?sid=26/09/29/014245) ([comments](https://soylentnews.org/article.pl?sid=26/09/29/014245?op=1))
+## Geopolitics, Policy & Society
+- [The Escalation of War in Ethiopia](https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia)
+- [New Mexico Wants Meta to Pay $40 Billion in Penalties for Cambridge Analytica Scandal](https://yro.slashdot.org/story/26/10/02/2152218/new-mexico-wants-meta-to-pay-40-billion-in-penalties-for-cambridge-analytica-scandal) ([comments](https://yro.slashdot.org/story/26/10/02/2152218?op=1))
+- [California Rushes to Prepare for Massive 'Kelvin' Wave, Predicted Sea Level Rise](https://news.slashdot.org/story/26/10/01/2159252/california-rushes-to-prepare-for-massive-kelvin-wave-predicted-sea-level-rise) ([comments](https://news.slashdot.org/story/26/10/01/2159252?op=1))
+- [Social Media Harms Democracy by Spreading Rumors, Survey Shows](https://tech.slashdot.org/story/26/10/02/0632243/social-media-harms-democracy-by-spreading-rumors-survey-shows) ([comments](https://tech.slashdot.org/story/26/10/02/0632243?op=1))
+- [20% of Swiss Glaciers Lost in Five Years](https://news.slashdot.org/story/26/10/02/0220226/20-of-swiss-glaciers-lost-in-five-years) ([comments](https://news.slashdot.org/story/26/10/02/0220226?op=1))
+
+## Science & Technology
+- [Google Tests AI Data Center in Space](https://science.slashdot.org/story/26/10/03/0113206/google-tests-ai-data-center-in-space) ([comments](https://science.slashdot.org/story/26/10/03/0113206?op=1))
+- [NASA, for the Time Being, Is Unable to Move the Space Station's Large Robotic Arm](https://soylentnews.org/article.pl?sid=26/09/30/1450236&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/30/1450236?op=1))
+- [Mathematicians Harness Randomness to Crack a 55-Year-Old Conjecture](https://soylentnews.org/article.pl?sid=26/09/30/0820226&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/09/30/0820226?op=1))
+- [Scientists Invent Underwater Umbrellas to Protect Coral Reefs](https://gizmodo.com/scientists-invent-underwater-umbrellas-to-protect-coral-reefs-and-it-appears-to-be-working-2000819444)
+- [The Forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html) ([comments](https://lobste.rs/s/s4wm69/forgetful_cpu_linux_on_m4))
