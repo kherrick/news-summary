@@ -1,16 +1,62 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Artificial Intelligence
-- [Trump's 'AI Accord' Does Little to Actually Keep AI Safe, Experts Say](https://soylentnews.org/article.pl?sid=26/10/07/035258&from=rss)
-- [Google, Unity Launch Platform To Create Video Games From Prompts](https://games.slashdot.org/story/26/10/07/1640219/google-unity-launch-platform-to-create-video-games-from-prompts?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Meta and Microsoft take steps to reduce employee usage of Claude AI](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/) ([comments](https://news.ycombinator.com/item?id=49997161))
+## Artificial Intelligence and Automation
+- [AI Market Needs to Make $6 Trillion a Year by 2031 to Fund Its Infrastructure Habit](https://soylentnews.org/article.pl?sid=26/10/06/0340223&from=rss)
+- [California's New Law Bans Companies From Relying on AI to Fire Workers](https://soylentnews.org/article.pl?sid=26/10/06/0329214&from=rss)
+- [Nearly 70% Of Workers Use AI Regularly Now – But Many Get No Time To Upskill](https://soylentnews.org/article.pl?sid=26/09/30/0153222&from=rss)
 - [South Korea Says AI Agents May Have Been Used to Hack the Country's Banks](https://news.slashdot.org/story/26/10/07/0313242/south-korea-says-ai-agents-may-have-been-used-to-hack-the-countrys-banks?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Mistral Unveils New 'Le Chonk' AI Model It Says Rivals Best Open Systems From China](https://news.slashdot.org/story/26/10/06/1614205/mistral-unveils-new-le-chonk-ai-model-it-says-rivals-best-open-systems-from-china?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Researchers Are Tracking a Chinese AI 'Agent Fleet'](https://tech.slashdot.org/story/26/10/06/0459247/researchers-are-tracking-a-chinese-ai-agent-fleet?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/)
+- [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
+- [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
+- [Vincent Bernat: Hacking the Go Compiler to Efficiently Map IPv4 to IPv6](https://soylentnews.org/article.pl?sid=26/10/06/0348230&from=rss)
+- [Reasons to dislike AI coding](https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/)
 
-## Obituaries
-- [Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) ([comments](https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who))
+## Software, Security, and Development Tools
+- [Software developers are not okay](https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/)
+- [Twenty-two pending curl vulnerabilities](https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/)
+- [IBM and Red Hat Find More Than 400 New Vulnerabilities In Popular Java Code](https://it.slashdot.org/story/26/10/06/1854244/ibm-and-red-hat-find-more-than-400-new-vulnerabilities-in-popular-java-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Asos Confirms Hackers Sent 'Unauthorized' Notification to App Users](https://it.slashdot.org/story/26/10/06/195201/asos-confirms-hackers-sent-unauthorized-notification-to-app-users?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Zeroization, part 1: Wiping can make things worse](https://00f.net/2026/10/06/zeroization-1/)
+- [C for Rust Programmers](https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/)
+- [Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM](https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/)
+- [Anti-Patterns in Software Blogging](https://refactoringenglish.com/blog/anti-patterns-software-blogging/)
+- [An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust](https://github.com/storytold/photocraft)
+- [Creating distro build tooling for a small community](https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html)
+- [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome)
+- [Last rites for Gentoo's Chromium package](https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/)
+- [A Terminal Protocol for Program Status (OSC 7501)](https://mitchellh.com/writing/program-status-osc7501)
+- [On Git Refs](https://matklad.github.io/2026/10/07/git-ref.html)
+- [rat's minimal register allocator](https://hexrat.cc/pages/blog/2026_10_07)
+- [Brut, the Brutal Router for Unix Tools](https://brut.sh)
+- [All our houses are built on sand now](https://po-ru.com/2026/10/07/all-our-houses-are-built-on-sand-now/)
+- [If somebody tries to hot-patch an already-hot-patched function](https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/)
+- [That Time I Worked With a Laptop Thief (2025)](https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/)
 
-## Technology & Security
-- [When Submarine Cables Go Dark: Understanding and Preparing for the Risks of Taiwan's International Internet Disconnection](https://resilience.ocf.tw/web/report/en.html) ([comments](https://lobste.rs/s/hhga98/when_submarine_cables_go_dark))
-- [Software developers are not okay](https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/) ([comments](https://lobste.rs/s/0gvyif/software_developers_are_not_okay))
-- [The art of defusing a second world war bomb](https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb) ([comments](https://news.ycombinator.com/item?id=49987858))
+## Science, Space, and Energy
+- [Google Enters Massive 3.6-GW Power Deal With Constellation Energy](https://hardware.slashdot.org/story/26/10/06/219233/google-enters-massive-36-gw-power-deal-with-constellation-energy?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Francis Halzen Wins Nobel Physics Prize For Antarctic 'Ghost Particle' Hunt](https://slashdot.org/story/26/10/07/0336250/francis-halzen-wins-nobel-physics-prize-for-antarctic-ghost-particle-hunt?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Margaret Hamilton, who led software development for the Apollo program, has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
+- [RIP: Milt Windler, NASA Flight Director Who Helped Save Apollo 13, Dies at 94](https://soylentnews.org/article.pl?sid=26/10/06/0356255&from=rss)
+- [Mathematicians Harness Randomness To Crack A 55-Year-Old Conjecture](https://soylentnews.org/article.pl?sid=26/09/30/0820226&from=rss)
+- [A 47 Million Car Inspection Study Just Busted a Big EV Myth](https://soylentnews.org/article.pl?sid=26/10/06/0110245&from=rss)
+- [Tesla Scores Deal to Help Double the US Electric Semi-Truck Fleet](https://soylentnews.org/article.pl?sid=26/10/01/1217258&from=rss)
+- [Europe's Fastest Supercomputer Is Finally Getting Its Domestic Silicon Infusion](https://soylentnews.org/article.pl?sid=26/09/27/0947255&from=rss)
+- [NASA Chief Teases The Return Of The World's Fastest Spy Plane](https://soylentnews.org/article.pl?sid=26/10/04/0911259&from=rss)
+
+## Surveillance, Privacy, and Policy
+- [When Submarine Cables Go Dark: Understanding and Preparing for the Risks of Taiwan's International Internet Disconnection](https://resilience.ocf.tw/web/report/en.html)
+- [Federal Judge in Oklahoma Rules Warrantless ALPR Searches May be Unconstitutional](https://soylentnews.org/article.pl?sid=26/10/06/0332223&from=rss)
+- [New Traffic Cameras Can Detect 'Ghost Plates' Designed to Escape the Law](https://soylentnews.org/article.pl?sid=26/10/03/0415226&from=rss)
+- [Returning to USA From Vacation? The Government Can Search Your Phone Without A Warrant.](https://soylentnews.org/article.pl?sid=26/10/04/098250&from=rss)
+- [Your Car is a Smartphone on Wheels. Here's Who's Listening.](https://soylentnews.org/article.pl?sid=26/10/04/0914256&from=rss)
+- [Licensing Costs Driving 90% of VMware Users To Explore Options, Survey Finds](https://slashdot.org/story/26/10/06/1649245/licensing-costs-driving-90-of-vmware-users-to-explore-options-survey-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Google Ending ChromeOS Support Two Years Early](https://soylentnews.org/article.pl?sid=26/10/06/018249&from=rss)
+
+## Miscellany
+- [Microsoft and Nvidia Unveil Surface Laptop Ultra For $2,599](https://hardware.slashdot.org/story/26/10/07/1812223/microsoft-and-nvidia-unveil-surface-laptop-ultra-for-2599?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [House with 15m underground tunnels for sale for 300k](https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/)
+- [Xbox Secures Exclusive GTA 6 Streaming Rights](https://games.slashdot.org/story/26/10/07/0321232/xbox-secures-exclusive-gta-6-streaming-rights?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [Roller Coaster of Death!](https://soylentnews.org/article.pl?sid=26/09/30/1457252&from=rss)
+- [Cancelled Beloved Aussie Soap Neighbours Revived with AI](https://soylentnews.org/article.pl?sid=26/10/03/046225&from=rss)
+- [Don't Dare Call Corporate/State Strategy a Conspiracy – NO MORE!](https://soylentnews.org/article.pl?sid=26/10/04/095205&from=rss)
