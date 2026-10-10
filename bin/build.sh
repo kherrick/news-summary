@@ -14,4 +14,5 @@ d}' ./templates/index.template.html \
   && cp ./templates/index.template.html index.html \
   && git checkout HEAD -- ./templates/index.template.html \
   && rm -f ./content.html \
-  && npm run build:html:prettify
+  && npm run build:html:prettify \
+  && npm run build:readme:prettify

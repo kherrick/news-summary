@@ -6,6 +6,7 @@
     "clean": "npx rimraf service-worker.js* workbox-*.js*",
     "build:html:minify": "posthtml index.html -u htmlnano",
     "build:html:prettify": "prettier index.html -w",
+    "build:readme:prettify": "prettier README.md -w",
     "build:html": "marked -i README.md -o content.html",
     "build:service-worker": "workbox generateSW ./service-worker/workbox-config.cjs",
     "build": "bin/build.sh",
