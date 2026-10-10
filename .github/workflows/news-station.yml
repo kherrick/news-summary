@@ -14,6 +14,8 @@ on:
         description: "Inference Provider"
         required: false
         default: "transformers_js_local"
+  push:
+    branches: [main]
 
 permissions:
   contents: write
