@@ -9,6 +9,7 @@
     "build:html": "marked -i README.md -o content.html",
     "build:service-worker": "workbox generateSW ./service-worker/workbox-config.cjs",
     "build": "bin/build.sh",
+    "news:update": "bin/news-update.sh",
     "serve": "npx serve .",
     "start": "npm run -s build && npm run -s serve",
     "test": "echo \"Error: no test specified\" && exit 0"

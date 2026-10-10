@@ -1,0 +1,93 @@
+name: Automated News Summary
+
+on:
+  schedule:
+    # Run every 4 hours (00:00, 04:00, 08:00, 12:00, 16:00, 20:00 UTC)
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+    inputs:
+      model:
+        description: "Hugging Face ONNX Model ID"
+        required: false
+        default: "onnx-community/gemma-4-E2B-it-ONNX"
+      provider:
+        description: "Inference Provider"
+        required: false
+        default: "transformers_js_local"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-summary-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  news-station:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: "npm"
+
+      - name: Setup Git identity
+        run: |
+          git config --global user.name "Karl Herrick"
+          git config --global user.email "me@karlherrick.com"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Cache Transformers.js Model Weights
+        id: model-cache
+        uses: actions/cache@v4
+        with:
+          path: assets/cache/transformers.js
+          key: sc-model-gemma-4-E2B-it-ONNX-v1
+          restore-keys: |
+            sc-model-gemma-4-E2B-it-ONNX-
+
+      - name: Download Model via CLI (Cache Miss Fallback)
+        if: steps.model-cache.outputs.cache-hit != 'true'
+        run: |
+          echo "Model cache miss. Downloading ${{ github.event.inputs.model || 'onnx-community/gemma-4-E2B-it-ONNX' }} via CLI..."
+          npx shadow-claw agent model download "${{ github.event.inputs.model || 'onnx-community/gemma-4-E2B-it-ONNX' }}"
+
+      - name: Execute News Summary Pipeline
+        env:
+          MODEL: "${{ github.event.inputs.model || 'onnx-community/gemma-4-E2B-it-ONNX' }}"
+          PROVIDER: "${{ github.event.inputs.provider || 'transformers_js_local' }}"
+          TRANSFORMERS_JS_REQUEST_TIMEOUT_MS: "600000"
+        run: |
+          chmod +x ./bin/news-update.sh
+          ./bin/news-update.sh
+
+      - name: Build Static Site
+        run: |
+          npm run build
+
+      - name: Commit and Push to main
+        run: |
+          git add README.md index.html reports/
+          if git diff --staged --quiet; then
+            echo "Working tree clean. No changes to commit."
+          else
+            git commit -m "chore(news): update news summary [skip ci]"
+            git push
+          fi
+
+      - name: Deploy to gh-pages
+        run: |
+          npm run build:service-worker
+          git add --all
+          timestamp="$(date -u)"
+          git commit -m "build gh-pages: ${timestamp} [skip ci]" || exit 0
+          git checkout -b gh-pages
+          git push --force --set-upstream origin gh-pages

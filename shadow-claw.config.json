@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "settings": {
+    "defaultToolsProfile": "__builtin_default"
+  },
+  "agent": {
+    "defaultProvider": "transformers_js_local",
+    "defaultModel": "onnx-community/gemma-4-E2B-it-ONNX"
+  }
+}
