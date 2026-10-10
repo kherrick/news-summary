@@ -1,37 +1,66 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## AI & Big Tech
+## AI, Machine Learning & Code
 - [OpenAI mistranslated mathematics into code for its Navier-Stokes proof](https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/) ([comments](https://news.ycombinator.com/item?id=50026734))
-- [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai)
-- [OpenAI fires three safety researchers for "mishandling research information"](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/)
-- [Why Are Coding Agents So Dumb?](https://mtlynch.io/why-are-coding-agents-so-dumb/) ([comments](https://news.ycombinator.com/item?id=50020947))
-- [Cloudflare acquires Deno](https://deno.com/blog/cloudflare) ([comments](https://news.ycombinator.com/item?id=50019911))
+- [OpenAI Unleashes Hundreds More Math Results Upon a Field Already In Shock](https://science.slashdot.org/story/26/10/07/1653233/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock) ([comments](https://science.slashdot.org/story/26/10/07/1653233/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock))
+- [Why Are Coding Agents So Dumb?](https://mtlynch.io/why-are-coding-agents-so-dumb/)
+- [AI Chatbots Give Us a Narrow Slice of Knowledge: Researchers Warn of "Knowledge Collapse"](https://soylentnews.org/article.pl?sid=26/10/08/149251&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/08/149251&from=rss))
+- [Trump's "AI Accord" Does Little to Actually Keep AI Safe, Experts Say](https://soylentnews.org/article.pl?sid=26/10/07/035258&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/07/035258&from=rss))
+- [Apple Changes Full-Disk Access Permissions To Curb Abuse From AI Agents](https://soylentnews.org/article.pl?sid=26/10/07/0320248&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/07/0320248&from=rss))
+- [South Korea Says AI Agents May Have Been Used to Hack the Country's Banks](https://news.slashdot.org/story/26/10/07/0313242/south-korea-says-ai-agents-may-have-been-used-to-hack-the-countrys-banks) ([comments](https://news.slashdot.org/story/26/10/07/0313242/south-korea-says-ai-agents-may-have-been-used-to-hack-the-countrys-banks))
+- [California's New Law Bans Companies From Relying on AI to Fire Workers](https://soylentnews.org/article.pl?sid=26/10/06/0329214&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/06/0329214&from=rss))
+- [BMW Just Announced It's Replacing Several Management Roles With AI](https://soylentnews.org/article.pl?sid=26/10/03/2122259&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/03/2122259&from=rss))
+- [Google, Unity Launch Platform To Create Video Games From Prompts](https://games.slashdot.org/story/26/10/07/1640219/google-unity-launch-platform-to-create-video-games-from-prompts) ([comments](https://games.slashdot.org/story/26/10/07/1640219/google-unity-launch-platform-to-create-video-games-from-prompts))
 
-## Software Engineering & Tools
-- [Lifeguard: A static analyzer for Python lazy imports compatibility](https://github.com/Facebook/lifeguard) ([comments](https://lobste.rs/s/qwqne6/lifeguard_static_analyzer_for_python))
-- [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html) ([comments](https://lobste.rs/s/o8xo9z/importance_communities_around_software))
-- [Unison Cloud is now open source](https://www.unison-lang.org/blog/unison-cloud-open-source/) ([comments](https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source))
-- [A minimal kernel in Swift, running in QEMU](https://carette.xyz/posts/minimal_swift_kernel_on_qemu/) ([comments](https://lobste.rs/s/myb8wf/minimal_kernel_swift_running_qemu))
-- [Equality Saturation: An "Incomplete" Project](https://blog.sigplan.org/2026/10/01/equality-saturation-an-incomplete-project/) ([comments](https://lobste.rs/s/5n7zxa/equality_saturation_incomplete_project))
+## Software, Languages & Development
 - [Python 3.15.0](https://www.python.org/downloads/release/python-3150/) ([comments](https://lobste.rs/s/rpiwtb/python_3_15_0))
-- [64-Day Certificate Lifetimes Coming Feb 2027](https://letsencrypt.org/2026/10/07/64-day-certs.html) ([comments](https://lobste.rs/s/dcrosf/64_day_certificate_lifetimes_coming_feb))
-
-## Privacy, Surveillance & Security
-- [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306) ([comments](https://news.ycombinator.com/item?id=50026555))
-- [A Practical Guide to "Plug&Pwn" for Pentesters and Defenders](https://blog.scrt.ch/2026/10/06/a-practical-guide-to-plugpwn-for-pentesters-and-defenders/) ([comments](https://lobste.rs/s/yrcmjj/practical_guide_plug_pwn_for_pentesters))
-- [Apple Changes Full-Disk Access Permissions To Curb Abuse From AI Agents](https://soylentnews.org/article.pl?sid=26/10/07/0320248&from=rss)
-- [Cloudflare Keeps 1.1.1.1 Out of Piracy Blocking, Escapes Penalties In France](https://yro.slashdot.org/story/26/10/08/1948246/cloudflare-keeps-1111-out-of-piracy-blocking-escapes-penalties-in-france?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Federal Judge in Oklahoma Rules Warrantless ALPR Searches May be Unconstitutional](https://soylentnews.org/article.pl?sid=26/10/06/0332223&from=rss)
-
-## Science, Tech & Nature
-- [M7.6 Earthquake in Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive) ([comments](https://news.ycombinator.com/item?id=50024669))
-- [Germany transforms former coal mines into Europe's largest lake landscape](https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands) ([comments](https://news.ycombinator.com/item?id=50021540))
-- [New Forensic Evidence Supports Egyptian "Retainer Sacrifice"](https://soylentnews.org/article.pl?sid=26/10/07/0314229&from=rss)
-- [First Thorium Nuclear Clocks Begin to Tick](https://science.slashdot.org/story/26/10/08/1913209/first-thorium-nuclear-clocks-begin-to-tick?utm_source=rss1.0mainlinkanon&utm_medium=feed)
-- [Chemistry Nobel Goes To Reactions Like Those That Gave Life A Hand](https://soylentnews.org/article.pl?sid=26/10/08/141214&from=rss)
-- [Apollo Software Pioneer Margaret Hamilton Dies at 90](https://science.slashdot.org/story/26/10/08/1923206/apollo-software-pioneer-margaret-hamilton-dies-at-90?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+- [A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda](https://blueberrywren.dev/blog/primes/) ([comments](https://lobste.rs/s/4dwrz0/tale_four_theorem_provers_reasonably))
+- [What mathematicians should know about the Lean Theorem Prover: reliability & AI](https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/) ([comments](https://news.ycombinator.com/item?id=50024090))
+- [Equality Saturation: An "Incomplete" Project](https://blog.sigplan.org/2026/10/01/equality-saturation-an-incomplete-project/) ([comments](https://lobste.rs/s/5n7zxa/equality_saturation_incomplete_project))
+- [The Missing Piece in Rust Error Handling](https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/) ([comments](https://lobste.rs/s/3vfu09/missing_piece_rust_error_handling))
+- [Spinlocks Considered Harmful (2020)](https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html) ([comments](https://lobste.rs/s/8mj9bb/spinlocks_considered_harmful_2020))
+- [Bevy 0.20](https://bevy.org/news/bevy-0-20/) ([comments](https://lobste.rs/s/3gikyb/bevy_0_20))
+- [A minimal kernel in Swift, running in QEMU](https://carette.xyz/posts/minimal_swift_kernel_on_qemu/) ([comments](https://lobste.rs/s/myb8wf/minimal_kernel_swift_running_qemu))
+- [Lifeguard: A static analyzer for Python lazy imports compatibility](https://github.com/Facebook/lifeguard)
 - [Branches in branch-free code](https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/) ([comments](https://lobste.rs/s/dsbt5a/branches_branch_free_code))
 
-## Culture & Society
+## Security, Privacy & Surveillance
+- [A Practical Guide to "Plug&Pwn" for Pentesters and Defenders](https://blog.scrt.ch/2026/10/06/a-practical-guide-to-plugpwn-for-pentesters-and-defenders/) ([comments](https://lobste.rs/s/yrcmjj/practical_guide_plug_pwn_for_pentesters))
+- [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306) ([comments](https://news.ycombinator.com/item?id=50026555))
+- [64-Day Certificate Lifetimes Coming Feb 2027](https://letsencrypt.org/2026/10/07/64-day-certs.html) ([comments](https://lobste.rs/s/dcrosf/64_day_certificate_lifetimes_coming_feb))
+- [Federal Judge in Oklahoma Rules Warrantless ALPR Searches May be Unconstitutional](https://soylentnews.org/article.pl?sid=26/10/06/0332223&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/06/0332223&from=rss))
+- [Returning to USA From Vacation? The Government Can Search Your Phone Without A Warrant](https://soylentnews.org/article.pl?sid=26/10/04/098250&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/04/098250&from=rss))
+- [US Bars Microsoft, Adobe, and Major IT Firms From Green Card Program](https://yro.slashdot.org/story/26/10/08/194218/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program) ([comments](https://yro.slashdot.org/story/26/10/08/194218/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program))
+- [Campus Censorship Wars, 25 Years After a Slashdot Q&A](https://yro.slashdot.org/story/26/10/07/168247/campus-censorship-wars-25-years-after-a-slashdot-qa) ([comments](https://yro.slashdot.org/story/26/10/07/168247/campus-censorship-wars-25-years-after-a-slashdot-qa))
+- [Cloudflare Keeps 1.1.1.1 Out of Piracy Blocking, Escapes Penalties In France](https://yro.slashdot.org/story/26/10/08/1948246/cloudflare-keeps-1111-out-of-piracy-blocking-escapes-penalties-in-france) ([comments](https://yro.slashdot.org/story/26/10/08/1948246/cloudflare-keeps-1111-out-of-piracy-blocking-escapes-penalties-in-france))
+- [Cloudflare shutting down Deno is news, not just PR](https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not) ([comments](https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not))
+
+## Business & Policy
+- [Trade Group Crunches Numbers On Trump's Impossible Push For 100% US-Made Tech](https://soylentnews.org/article.pl?sid=26/10/08/1418255&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/08/1418255&from=rss))
+- [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai) ([comments](https://news.ycombinator.com/item?id=50023450))
+- [AI Market Needs to Make $6 Trillion a Year by 2031 to Fund its Infrastructure Habit](https://soylentnews.org/article.pl?sid=26/10/06/0340223&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/06/0340223&from=rss))
+- [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d) ([comments](https://news.ycombinator.com/item?id=50020014))
+- [Google Enters Massive 3.6-GW Power Deal With Constellation Energy](https://hardware.slashdot.org/story/26/10/06/219233/google-enters-massive-36-gw-power-deal-with-constellation-energy) ([comments](https://hardware.slashdot.org/story/26/10/06/219233/google-enters-massive-36-gw-power-deal-with-constellation-energy))
+- [No More Cheap Phones](https://soylentnews.org/article.pl?sid=26/10/08/0046228&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/08/0046228&from=rss))
+- [RAM Supply Set to Worsen, Says Micron, as CEO Celebrates "Much Higher" Prices](https://soylentnews.org/article.pl?sid=26/10/01/1220256&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/01/1220256&from=rss))
+
+## Science & Technology History
+- [Chemistry Nobel Goes To Reactions Like Those That Gave Life A Hand](https://soylentnews.org/article.pl?sid=26/10/08/141214&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/08/141214&from=rss))
+- [Francis Halzen Wins Nobel Physics Prize For Antarctic "Ghost Particle" Hunt](https://slashdot.org/story/26/10/07/0336250/francis-halzen-wins-nobel-physics-prize-for-antarctic-ghost-particle-hunt) ([comments](https://slashdot.org/story/26/10/07/0336250/francis-halzen-wins-nobel-physics-prize-for-antarctic-ghost-particle-hunt))
+- [Researchers Discover Experimental Evidence of New Type of Magnetism](https://soylentnews.org/article.pl?sid=26/10/08/0047239&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/08/0047239&from=rss))
+- [Nobel Peace Prize for 2026 to Navanethem Pillay](https://www.nobelprize.org/prizes/peace/2026/press-release/) ([comments](https://news.ycombinator.com/item?id=50018420))
+- [Apollo Software Pioneer Margaret Hamilton Dies at 90](https://science.slashdot.org/story/26/10/08/1923206/apollo-software-pioneer-margaret-hamilton-dies-at-90) ([comments](https://science.slashdot.org/story/26/10/08/1923206/apollo-software-pioneer-margaret-hamilton-dies-at-90))
+- [RIP: Milt Windler, NASA Flight Director Who Helped Save Apollo 13, Dies at 94](https://soylentnews.org/article.pl?sid=26/10/06/0356255&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/06/0356255&from=rss))
+- [The 3dfx Voodoo Story: We Talk to Cofounder Ross Smith](https://soylentnews.org/article.pl?sid=26/10/08/147212&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/08/147212&from=rss))
+- [A 1960 Paper Published In Science Predicts World Will End Next Month](https://science.slashdot.org/story/26/10/08/1937203/a-1960-paper-published-in-science-predicts-world-will-end-next-month) ([comments](https://science.slashdot.org/story/26/10/08/1937203/a-1960-paper-published-in-science-predicts-world-will-end-next-month))
+- [Germany transforms former coal mines into Europe's largest lake landscape](https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands) ([comments](https://news.ycombinator.com/item?id=50021540))
+
+## Culture & Oddities
+- [Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen](https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344) ([comments](https://news.ycombinator.com/item?id=50027167))
 - ["Robot" Is A Social Construct: Why Your Dishwasher Is Not A Robot](https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/) ([comments](https://lobste.rs/s/ha0qt7/robot_is_social_construct_why_your))
-- [California's New Law Bans Companies From Relying on AI to Fire Workers](https://soylentnews.org/article.pl?sid=26/10/06/0329214&from=rss)
+- [Wallace and Gromit, 90% Alone](https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone) ([comments](https://news.ycombinator.com/item?id=50020533))
+- [Triple-A Minesweeper](https://minesweeper.mikelacher.com/) ([comments](https://news.ycombinator.com/item?id=50022292))
+- [Your Car is a Smartphone on Wheels. Here's Who's Listening.](https://soylentnews.org/article.pl?sid=26/10/04/0914256&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/04/0914256&from=rss))
+- [Millions of Faces. No Arrests.](https://soylentnews.org/article.pl?sid=26/10/03/2124247&from=rss) ([comments](https://soylentnews.org/article.pl?sid=26/10/03/2124247&from=rss))
+- [Theranos.world](https://www.theranos.world/) ([comments](https://news.ycombinator.com/item?id=50009295))
+- [Emmy Awards Leave Broadcast TV For Prime Video](https://slashdot.org/story/26/10/07/043218/emmy-awards-leave-broadcast-tv-for-prime-video) ([comments](https://slashdot.org/story/26/10/07/043218/emmy-awards-leave-broadcast-tv-for-prime-video))
