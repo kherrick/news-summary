@@ -31,6 +31,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
 
       - name: Setup Node.js
@@ -60,7 +61,7 @@ jobs:
         if: steps.model-cache.outputs.cache-hit != 'true'
         run: |
           echo "Model cache miss. Downloading ${{ github.event.inputs.model || 'onnx-community/gemma-4-E2B-it-ONNX' }} via CLI..."
-          npx shadow-claw agent model download "${{ github.event.inputs.model || 'onnx-community/gemma-4-E2B-it-ONNX' }}"
+          npx --yes shadow-claw agent model download "${{ github.event.inputs.model || 'onnx-community/gemma-4-E2B-it-ONNX' }}"
 
       - name: Execute News Summary Pipeline
         env:
@@ -77,12 +78,12 @@ jobs:
 
       - name: Commit and Push to main
         run: |
-          git add README.md index.html reports/
+          git add README.md index.html
           if git diff --staged --quiet; then
             echo "Working tree clean. No changes to commit."
           else
             git commit -m "chore(news): update news summary [skip ci]"
-            git push
+            git push origin main
           fi
 
       - name: Deploy to gh-pages
@@ -91,5 +92,5 @@ jobs:
           git add --all
           timestamp="$(date -u)"
           git commit -m "build gh-pages: ${timestamp} [skip ci]" || exit 0
-          git checkout -b gh-pages
+          git checkout -B gh-pages
           git push --force --set-upstream origin gh-pages

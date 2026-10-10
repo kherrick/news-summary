@@ -7,7 +7,7 @@ ROOT_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
 REPORTS_DIR="$ROOT_DIR/reports"
 mkdir -p "$REPORTS_DIR"
 
-SC="npx shadow-claw"
+SC="npx --yes shadow-claw"
 MODEL="${MODEL:-onnx-community/gemma-4-E2B-it-ONNX}"
 PROVIDER="${PROVIDER:-transformers_js_local}"
 PROMPT_INPUT="$REPORTS_DIR/news-prompt-input.txt"
