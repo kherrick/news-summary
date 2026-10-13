@@ -2,62 +2,66 @@
 
 ## AI & Technology
 
-- [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471)
+- [Google Launches Flagship AI Model Gemini 4 Argon](https://tech.slashdot.org/story/26/10/13/1643231/google-launches-flagship-ai-model-gemini-4-argon)
 
-- [Running RAG with a (small) language model in the browser](https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/) ([comments](https://lobste.rs/s/nsjjo3/running_rag_with_small_language_model))
+- [Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/) ([comments](https://news.ycombinator.com/item?id=50074869))
 
-- [Microsoft Reveals Maia 300 AI Chip As It Works To Reduce Dependence On Nvidia](https://hardware.slashdot.org/story/26/10/13/0443232/microsoft-reveals-maia-300-ai-chip-as-it-works-to-reduce-dependence-on-nvidia)
-
-- [Linus Torvalds On Why AI Works For Him](https://linux.slashdot.org/story/26/10/13/034206/linus-torvalds-on-why-ai-works-for-him)
-
-- [Epic Games Delays Disney Project, Asks Developers To Use More AI](https://games.slashdot.org/story/26/10/12/2128209/epic-games-delays-disney-project-asks-developers-to-use-more-ai)
-
-- [AI Giants Promise to Play Nice With Personal Data After UK Watchdog Scrutiny](https://soylentnews.org/article.pl?sid=26%2F10%2F12%2F0330257)
+- [Gemini 4 Argon](https://deepmind.google/models/gemini/) ([comments](https://news.ycombinator.com/item?id=50073879))
 
 - [The AI Contingency Plan](https://soylentnews.org/article.pl?sid=26%2F10%2F11%2F1916205)
 
-- [AI Coding Agents Generate More Code, But Not More Software](https://tech.slashdot.org/story/26/10/12/0234217/ai-coding-agents-generate-more-code-but-not-more-software)
-
-## Hardware & Computing
-
-- [A New 'Super Ice' Is 10 Times Stronger, Bringing It Close to The Strength of Concrete](https://science.slashdot.org/story/26/10/13/0428248/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete)
-
-- [Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/) ([comments](https://news.ycombinator.com/item?id=50072913))
-
-- [Firefox 158 Now Available With JPEG-XL Support By Default](https://news.slashdot.org/story/26/10/12/2131234/firefox-158-now-available-with-jpeg-xl-support-by-default)
-
-- [New Apple TV 4K](https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/) ([comments](https://news.ycombinator.com/item?id=50071310))
-
-- [Google's Fitbit Edge Debuts a Replaceable Battery, Brings Back the Screen](https://tech.slashdot.org/story/26/10/12/1841208/googles-fitbit-edge-debuts-a-replaceable-battery-brings-back-the-screen)
-
-- [A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices](https://machinelearning.apple.com/research/distributed-gpu-cloud) ([comments](https://news.ycombinator.com/item?id=50070593))
-
-- [Creusot 0.14.0 release - Contracts for Rust, formally proved](https://devlog.creusot.rs/v0-14-0/) ([comments](https://lobste.rs/s/6tbd2o/creusot_0_14_0_release_contracts_for_rust))
-
-- [A Visual Intro to Complex Numbers](https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers) ([comments](https://news.ycombinator.com/item?id=50070287))
+- [Mark Zuckerberg Says Meta Has Reached AI 'Frontier', Rejects Calls For Slowdown](https://meta.slashdot.org/story/26/10/12/1910233/mark-zuckerberg-says-meta-has-reached-ai-frontier-rejects-calls-for-slowdown)
 
 ## Privacy, Security & Regulation
 
-- [The People Supporting the Internet](https://soylentnews.org/article.pl?sid=26%2F10%2F12%2F0344219)
+- [FBI Arrests Canadian Cybersecurity Expert In ShinyHunters Hacking Case](https://yro.slashdot.org/story/26/10/13/0456223/fbi-arrests-canadian-cybersecurity-expert-in-shinyhunters-hacking-case)
 
-- [I posted to HN, and then my website was flooded with AI bot traffic](https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic) ([comments](https://news.ycombinator.com/item?id=50073221))
+- [AI Giants Promise to Play Nice With Personal Data After UK Watchdog Scrutiny](https://soylentnews.org/article.pl?sid=26%2F10%2F12%2F0330257)
 
-- [TP-Link Problems in US Grow Amid FCC Router Ban and Four State Lawsuits](https://soylentnews.org/article.pl?sid=26%2F10%2F12%2F0335234)
+- [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471)
 
-- [Russia Was Not Ready For the Data Center War It Started With Ukraine](https://tech.slashdot.org/story/26/10/12/1832205/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine)
+## Hardware & Computing
 
-- [Hackers Heat French Supermarket Fridges, Sparking Fires and Spoiling Food](https://it.slashdot.org/story/26/10/12/1748203/hackers-heat-french-supermarket-fridges-sparking-fires-and-spoiling-food)
+- [Microsoft Reveals Maia 300 AI Chip As It Works To Reduce Dependence On Nvidia](https://hardware.slashdot.org/story/26/10/13/0443232/microsoft-reveals-maia-300-ai-chip-as-it-works-to-reduce-dependence-on-nvidia)
 
-- [Spies, Prime Ministers, And Balls: The BBC Domesday Project at 40](https://soylentnews.org/article.pl?sid=26%2F10%2F11%2F0033254)
+- [Firefox 158 Now Available With JPEG-XL Support By Default](https://news.slashdot.org/story/26/10/12/2131234/firefox-158-now-available-with-jpeg-xl-support-by-default)
+
+- [Faster Fourier Transforms](https://www.argmin.net/p/faster-fourier-transforms) ([comments](https://lobste.rs/s/xz6sst/faster_fourier_transforms))
 
 ## Software Development & Open Source
 
-- [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/) ([comments](https://lobste.rs/s/73ssw1/plea_not_use_uv_build))
+- [Data-oriented Design for Mortals](https://www.youtube.com/watch?v=uI1Yx1CJAB0) ([comments](https://lobste.rs/s/es1vaj/data_oriented_design_for_mortals))
 
-- [Did Ente Locker copy my code without attribution?](https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/) ([comments](https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without))
+- [Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain](https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain) ([comments](https://news.ycombinator.com/item?id=50076503))
+
+- [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/) ([comments](https://lobste.rs/s/73ssw1/plea_not_use_uv_build))
 
 - [Easylang: A Simple, Browser-Based Programming Language in the Spirit of the Old Home Computer BASIC](https://easylang.online/ide) ([comments](https://lobste.rs/s/oq6nhr/easylang_simple_browser_based))
 
+- [Nixpkgs for the frontend impaired](https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired) ([comments](https://lobste.rs/s/4jfegi/nixpkgs_for_frontend_impaired))
+
+- [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) ([comments](https://news.ycombinator.com/item?id=50073633))
+
+- [Chasing a -O2 pessimization in antcc](https://386s.org/w/lua-antcc-pessimization/) ([comments](https://lobste.rs/s/g2ktrq/chasing_o2_pessimization_antcc))
+
 - [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/) ([comments](https://lobste.rs/s/hjhufj/where_is_all_new_good_software))
 
-- [Mozilla Introduces Firefox Enterprise](https://www.firefox.com/en-US/enterprise/) ([comments](https://news.ycombinator.com/item?id=50070302))
+## Culture, Society & Mobility
+
+- [Wild Tomatoes Still Hold the Flavor We Bred Away: New Map Shows Breeders Where to Look](https://soylentnews.org/article.pl?sid=26%2F10%2F12%2F200231)
+
+- [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/) ([comments](https://news.ycombinator.com/item?id=50077020))
+
+- [The People Supporting the Internet](https://soylentnews.org/article.pl?sid=26%2F10%2F12%2F0344219)
+
+- [Apple Launches HomeView, Its First Smart Display For the Home](https://apple.slashdot.org/story/26/10/13/1529244/apple-launches-homeview-its-first-smart-display-for-the-home)
+
+- [Goodbye Mark Stephens AKA Bob Cringely](https://soylentnews.org/article.pl?sid=26%2F10%2F12%2F0342220)
+
+- [After a 10-Year Redemption Arc, No Man's Sky Is Coming to the iPhone and iPad](https://games.slashdot.org/story/26/10/13/0435236/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad)
+
+- [Show HN: How Random Are You?](https://lab.specr.net/rigged-draw/) ([comments](https://news.ycombinator.com/item?id=50074909))
+
+- [What Do the Experts Say About Starting Out in a STEM Career?](https://soylentnews.org/article.pl?sid=26%2F10%2F11%2F1921216)
+
+- [Spies, Prime Ministers, And Balls: The BBC Domesday Project at 40](https://soylentnews.org/article.pl?sid=26%2F10%2F11%2F0033254)
