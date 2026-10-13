@@ -2,70 +2,60 @@
 
 ## AI & Technology
 
-- [A look at the math that OpenAI claims computes faster Fourier transforms](https://www.argmin.net/p/faster-fourier-transforms) ([comments](https://news.ycombinator.com/item?id=50065932))
+- [An hour of audio transcribed in about 13s on MacBook Air](https://eg2.haku.sh/) ([comments](https://news.ycombinator.com/item?id=50069971))
 
 - [Linus Torvalds On Why AI Works For Him](https://linux.slashdot.org/story/26/10/13/034206/linus-torvalds-on-why-ai-works-for-him)
 
-- [AI models can provably hide arbitrary capabilities](https://arxiv.org/abs/2610.13928) ([comments](https://news.ycombinator.com/item?id=50065692))
+- [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/) ([comments](https://news.ycombinator.com/item?id=50069337))
+
+- [AI models may soon self-replicate without access to data centers](https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/) ([comments](https://news.ycombinator.com/item?id=50069333))
 
 - [Epic Games Delays Disney Project, Asks Developers To Use More AI](https://games.slashdot.org/story/26/10/12/2128209/epic-games-delays-disney-project-asks-developers-to-use-more-ai)
 
 - [AI Giants Promise to Play Nice With Personal Data After UK Watchdog Scrutiny](https://soylentnews.org/article.pl?sid=26%2F10%2F12%2F0330257)
 
-- [Mark Zuckerberg Says Meta Has Reached AI 'Frontier', Rejects Calls For Slowdown](https://meta.slashdot.org/story/26/10/12/1910233/mark-zuckerberg-says-meta-has-reached-ai-frontier-rejects-calls-for-slowdown)
-
 - [The AI Contingency Plan](https://soylentnews.org/article.pl?sid=26%2F10%2F11%2F1916205)
-
-- [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/) ([comments](https://news.ycombinator.com/item?id=50063427))
 
 - [AI Coding Agents Generate More Code, But Not More Software](https://tech.slashdot.org/story/26/10/12/0234217/ai-coding-agents-generate-more-code-but-not-more-software)
 
-## Hardware & Computing
+- [AI models can provably hide arbitrary capabilities](https://arxiv.org/abs/2610.13928) ([comments](https://news.ycombinator.com/item?id=50065692))
 
-- [Freeze the Controller, Defrost the Food: Uncovering Vulnerabilities in Danfoss Refrigeration Controllers](https://claroty.com/team82/research/freeze-the-controller-defrost-the-food-uncovering-vulnerabilities-in-danfoss-refrigeration-controllers) ([comments](https://lobste.rs/s/nsmm3j/freeze_controller_defrost_food))
+## Hardware & Computing
 
 - [Firefox 158 Now Available With JPEG-XL Support By Default](https://news.slashdot.org/story/26/10/12/2131234/firefox-158-now-available-with-jpeg-xl-support-by-default)
 
-- [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html) ([comments](https://news.ycombinator.com/item?id=50063365))
+- [AWS Lambda Web Functions](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/) ([comments](https://news.ycombinator.com/item?id=50069318))
+
+- [Freeze the Controller, Defrost the Food: Uncovering Vulnerabilities in Danfoss Refrigeration Controllers](https://claroty.com/team82/research/freeze-the-controller-defrost-the-food-uncovering-vulnerabilities-in-danfoss-refrigeration-controllers) ([comments](https://lobste.rs/s/nsmm3j/freeze_controller_defrost_food))
+
+- [Crypto thieves sell hardware wallets with secret eSIM](https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html) ([comments](https://news.ycombinator.com/item?id=50068508))
+
+- [A slightly faster slimmer curl](https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/) ([comments](https://lobste.rs/s/d9rpcl/slightly_faster_slimmer_curl))
 
 - [Samsung Eyes $80B Quarterly Profit As Memory Buyers Pay The Price](https://soylentnews.org/article.pl?sid=26%2F10%2F10%2F2134230)
 
-- [Q3 2026 Was Historically Bad For PC Shipments](https://hardware.slashdot.org/story/26/10/12/0134221/q3-2026-was-historically-bad-for-pc-shipments)
-
-- [Parsing JSON at tens of gigabytes per second… in Python](https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/) ([comments](https://lobste.rs/s/iufma5/parsing_json_at_tens_gigabytes_per_second))
+- [Speeding up the Unreal editor by… not using unnecessarily secure hash methods](https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods/) ([comments](https://lobste.rs/s/5feguu/speeding_up_unreal_editor_by_not_using))
 
 ## Privacy, Security & Regulation
 
-- [Denmark set to allow return of 'physical force' in school](https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html) ([comments](https://news.ycombinator.com/item?id=50067570))
+- [The People Supporting the Internet](https://soylentnews.org/article.pl?sid=26%2F10%2F12%2F0344219)
 
-- [TP-Link Problems in US Grow Amid FCC Router Ban and Four State Lawsuits](https://soylentnews.org/article.pl?sid=26%2F10%2F12%2F0335234)
+- [CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades](https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran) ([comments](https://news.ycombinator.com/item?id=50069329))
+
+- [Russia Was Not Ready For the Data Center War It Started With Ukraine](https://tech.slashdot.org/story/26/10/12/1832205/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine)
 
 - [Hackers Heat French Supermarket Fridges, Sparking Fires and Spoiling Food](https://it.slashdot.org/story/26/10/12/1748203/hackers-heat-french-supermarket-fridges-sparking-fires-and-spoiling-food)
 
 - [Spies, Prime Ministers, And Balls: The BBC Domesday Project at 40](https://soylentnews.org/article.pl?sid=26%2F10%2F11%2F0033254)
 
-- [Amazon’s $1B Plan To Combat Data Center Backlash Draws More Backlash](https://soylentnews.org/article.pl?sid=26%2F10%2F10%2F2126238)
-
 ## Software Development & Open Source
 
-- [A slightly faster slimmer curl](https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/) ([comments](https://lobste.rs/s/d9rpcl/slightly_faster_slimmer_curl))
+- [Lotus Improv on the NeXT](https://stonetools.ghost.io/lotusimprov-next/) ([comments](https://lobste.rs/s/zmuawx/lotus_improv_on_next))
 
-- [Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)](https://github.com/bherbruck/solidcraft) ([comments](https://news.ycombinator.com/item?id=50064840))
+- [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250) ([comments](https://news.ycombinator.com/item?id=50069499))
 
-- [Show HN: An experimental pattern-first DAW that supports MCP](https://github.com/andrewfader/blokkily) ([comments](https://news.ycombinator.com/item?id=50064438))
+- [What Happened to the Desktop Metaphor?](https://deadparrotbbs.com/what-happened-to-the-desktop-metaphor/) ([comments](https://lobste.rs/s/haslsk/what_happened_desktop_metaphor))
 
-- [Optics: Why the Closest Things Are the Blurriest](https://soylentnews.org/article.pl?sid=26%2F10%2F12%2F0346216)
+- [Creusot 0.14.0 release - Contracts for Rust, formally proved](https://devlog.creusot.rs/v0-14-0/) ([comments](https://lobste.rs/s/6tbd2o/creusot_0_14_0_release_contracts_for_rust))
 
-- [Speeding up the Unreal editor by… not using unnecessarily secure hash methods](https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods/) ([comments](https://lobste.rs/s/5feguu/speeding_up_unreal_editor_by_not_using))
-
-- [your c is not standard c](https://sebsite.pw/w/20261012-notstdc.html) ([comments](https://lobste.rs/s/0aocct/your_c_is_not_standard_c))
-
-## Space & Science
-
-- [Scientists Get a New Clue to the Origin of Solar Wind 'Switchbacks'](https://soylentnews.org/article.pl?sid=26%2F10%2F12%2F0339243)
-
-- [Blood cells from 80-year-old donor become stem cells with molecular age under 20](https://doi.org/10.1111/acel.70751) ([comments](https://news.ycombinator.com/item?id=50064536))
-
-- [Vi Hart's Big Navier-Stokes Post](https://www.patreon.com/vihart/posts/vi-harts-big-171939430) ([comments](https://lobste.rs/s/j30pg4/vi_hart_s_big_navier_stokes_post))
-
-- [ExxonMobil's Own Scientists Doubted Climate Fixes The Company Hyped](https://soylentnews.org/article.pl?sid=26%2F10%2F10%2F2141242)
+- [A modern web app in c](https://prophitt.me/writing/a-modern-web-app-in-c) ([comments](https://lobste.rs/s/cjdy6d/modern_web_app_c))
