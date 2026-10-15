@@ -2,78 +2,102 @@
 
 ## AI & Technology
 
-- [Aidlc: Adaptive workflow steering rules for AI coding agents](https://github.com/awslabs/aidlc-workflows) ([comments](https://news.ycombinator.com/item?id=50100387))
+- [Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/) ([comments](https://news.ycombinator.com/item?id=50104654))
 
-- [Bank of America Hired 1,000 Contractors to Patch Software Flaws Exposed By Anthropic's Mythos](https://it.slashdot.org/story/26/10/14/2143253/bank-of-america-hired-1000-contractors-to-patch-software-flaws-exposed-by-anthropics-mythos)
+- [Prompt injection in HTTP headers: what 217M web responses show](https://www.signalscorps.com/blog/prompt-injection-in-http-headers/) ([comments](https://news.ycombinator.com/item?id=50104310))
 
-- [Argonne Scientists Create Chatty X-Ray Microscope That Zooms in Where You Tell It to](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F0125242)
-
-- [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b) ([comments](https://news.ycombinator.com/item?id=50097369))
+- [Eight US States Sue OpenAI, Claiming ChatGPT Harms Young Users](https://yro.slashdot.org/story/26/10/14/2127240/eight-us-states-sue-openai-claiming-chatgpt-harms-young-users)
 
 - [Anthropic Warns Small AI Models Could Self-Replicate Through IoT Devices](https://it.slashdot.org/story/26/10/14/1743259/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices)
 
-- [Containment and monitoring failures are to blame for AI hacking reports: experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html) ([comments](https://news.ycombinator.com/item?id=50091788))
-
 ## Privacy, Security & Regulation
+
+- [Bank of America Hired 1,000 Contractors to Patch Software Flaws Exposed By Anthropic's Mythos](https://it.slashdot.org/story/26/10/14/2143253/bank-of-america-hired-1000-contractors-to-patch-software-flaws-exposed-by-anthropics-mythos)
 
 - [Japan Declares Cyber ‘Emergency’ After Millions Affected In Hacks](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F0127256)
 
-- [Schools Across US Protest FCC Plan That Could Disconnect Kids From Internet](https://news.slashdot.org/story/26/10/14/2136207/schools-across-us-protest-fcc-plan-that-could-disconnect-kids-from-internet)
+- [Remote Attestation Should Not Be Tolerated](https://lumi.codeberg.page/blog/remote-attestation.html) ([comments](https://lobste.rs/s/s8bo3z/remote_attestation_should_not_be))
 
-- [Chinese Cars in Norway Stored Military Exercise Footage and Access Codes](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F0118206)
+- [US Tech Giants Warn Europe That Data Sovereignty Requirements Could Cost $128 Billion](https://news.slashdot.org/story/26/10/14/1849228/us-tech-giants-warn-europe-that-data-sovereignty-requirements-could-cost-128-billion)
 
 - [Hundreds Of French Supermarkets Hacked In 'Unprecedented' Cyberattack](https://soylentnews.org/article.pl?sid=26%2F10%2F13%2F1349209)
 
 - [Google Is Silently Linking Your Phone Number Across All Signed-In Accounts](https://tech.slashdot.org/story/26/10/14/1832230/google-is-silently-linking-your-phone-number-across-all-signed-in-accounts)
 
-- [US Tech Giants Warn Europe That Data Sovereignty Requirements Could Cost $128 Billion](https://news.slashdot.org/story/26/10/14/1849228/us-tech-giants-warn-europe-that-data-sovereignty-requirements-could-cost-128-billion)
-
 ## Hardware & Computing
 
-- [Microsoft Defender for Linux](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822) ([comments](https://lobste.rs/s/46dcms/microsoft_defender_for_linux))
-
-- [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/) ([comments](https://news.ycombinator.com/item?id=50098274))
+- [Intel Optimizes IPv6 Networking Into Nothingness, Say Users](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F1440236)
 
 - [Your CPU still has an 8086 mode](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F0116254)
 
-- [Virtual Oxide Labs: Emulating a Full Oxide Rack](https://oxide.computer/blog/voxel-labs) ([comments](https://news.ycombinator.com/item?id=50092423))
+- [sslx: A fast, modern alternative to OpenSSL's CLI](https://github.com/glincker/sslx) ([comments](https://lobste.rs/s/p7tf7i/sslx_fast_modern_alternative_openssl_s))
 
 ## Software Development & Open Source
 
-- [Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop) ([comments](https://news.ycombinator.com/item?id=50099136))
+- [JPEG XL vs AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/) ([comments](https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases))
+
+- [Sunsetting decomp.dev](https://decomp.dev/) ([comments](https://lobste.rs/s/kaerns/sunsetting_decomp_dev))
+
+- [GridSnap – an open-source Divvy-style window snapper for macOS](https://github.com/konieczkow/gridsnap) ([comments](https://news.ycombinator.com/item?id=50103263))
+
+- [Microsoft Defender for Linux](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822) ([comments](https://lobste.rs/s/46dcms/microsoft_defender_for_linux))
+
+- [C++26 Contracts: Introduction to Preconditions and Postconditions](https://www.cppstories.com/2026/cpp26_contracts/) ([comments](https://news.ycombinator.com/item?id=50103164))
 
 - [Everyone is doing Git on S3 wrong](https://enroute.sh/blog/everyone-is-doing-git-on-s3-wrong) ([comments](https://lobste.rs/s/ydo1wi/everyone_is_doing_git_on_s3_wrong))
 
-- [Haxy.net is live! — HAXY (git forge) devlog](https://youtu.be/89yAiqYEwKg) ([comments](https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog))
-
-- [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/) ([comments](https://news.ycombinator.com/item?id=50094994))
-
-- [Furifont: furigana built into the font](https://furifont.antfu.me/) ([comments](https://lobste.rs/s/ixoasm/furifont_furigana_built_into_font))
-
-- [ito - build terminal ui in lua](https://uji.sh/ito) ([comments](https://lobste.rs/s/9lqyul/ito_build_terminal_ui_lua))
-
-- [Fixing C Strings With String Views](https://eliasebner.com/blog/guides/fixing-strings-in-c/) ([comments](https://lobste.rs/s/5j4bwx/fixing_c_strings_with_string_views))
-
 ## Culture, Society & Mobility
 
-- [The geometric model of maintenance](https://entropicthoughts.com/geometric-model-of-maintenance) ([comments](https://lobste.rs/s/bpvpbe/geometric_model_maintenance))
+- [I designed a nose guard for my dog and gave it away. Now 500 dogs wear one](https://snoutcover.com/one-year) ([comments](https://news.ycombinator.com/item?id=50105344))
+
+- [Uber Begins Self-Driving Robotaxi Trial In Manchester](https://news.slashdot.org/story/26/10/14/220233/uber-begins-self-driving-robotaxi-trial-in-manchester)
+
+- [Celebrating 70 Years of Fortran](https://fortran-lang.org/news/2026/09-15-Fortran-birthday/) ([comments](https://news.ycombinator.com/item?id=50104726))
 
 - [Statisticians Build Better Way to Make Sense of Competing Sports Rankings](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F0129251)
 
-- [Eight US States Sue OpenAI, Claiming ChatGPT Harms Young Users](https://yro.slashdot.org/story/26/10/14/2127240/eight-us-states-sue-openai-claiming-chatgpt-harms-young-users)
+- [End-to-end encrypted relays for OCapN](https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html) ([comments](https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn))
 
-- [Tiny Little Office](https://tinylittleoffice.com/) ([comments](https://news.ycombinator.com/item?id=50096142))
+- [Mini Organs Launching to Space For Study On Aging](https://science.slashdot.org/story/26/10/14/2153247/mini-organs-launching-to-space-for-study-on-aging)
+
+- [Schools Across US Protest FCC Plan That Could Disconnect Kids From Internet](https://news.slashdot.org/story/26/10/14/2136207/schools-across-us-protest-fcc-plan-that-could-disconnect-kids-from-internet)
+
+- [The Eruption That Destroyed Pompeii is Helping Scientists Date Earth's History](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F0123253)
+
+- [Chinese Cars in Norway Stored Military Exercise Footage and Access Codes](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F0118206)
+
+- [I know why Mathematicians weep](https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep) ([comments](https://news.ycombinator.com/item?id=50103630))
+
+- [The Costa GUI](https://costa.jacobpalm.dk/) ([comments](https://lobste.rs/s/uqugjk/costa_gui))
 
 - [Epic Games' New Vibe-Coded Launcher Is 46% Faster Than Steam](https://games.slashdot.org/story/26/10/14/1928203/epic-games-new-vibe-coded-launcher-is-46-faster-than-steam)
 
-- [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) ([comments](https://news.ycombinator.com/item?id=50093568))
+- [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk) ([comments](https://news.ycombinator.com/item?id=50103338))
 
-- [The Ferranti files: 40 years of Sinclair secrets unearthed](https://youtu.be/jiW3P1rJRMc) ([comments](https://lobste.rs/s/cyp6lv/ferranti_files_40_years_sinclair_secrets))
+- [The geometric model of maintenance](https://entropicthoughts.com/geometric-model-of-maintenance) ([comments](https://lobste.rs/s/bpvpbe/geometric_model_maintenance))
+
+- [Celebrating the Brilliant Pragmatism of TCP/IP, the Wiring of the World](https://soylentnews.org/article.pl?sid=26%2F10%2F13%2F0613239)
 
 - [Wild Tomatoes Still Hold the Flavor We Bred Away: New Map Shows Breeders Where to Look](https://soylentnews.org/article.pl?sid=26%2F10%2F12%2F200231)
 
 - [Google Play Now Lets Anyone Build Private, Vibe-Coded Apps That Run On Android](https://tech.slashdot.org/story/26/10/14/1529232/google-play-now-lets-anyone-build-private-vibe-coded-apps-that-run-on-android)
 
-- [Netflix Cuts About 6% of Jobs In Biggest Layoffs Since 2022](https://slashdot.org/story/26/10/14/151250/netflix-cuts-about-6-of-jobs-in-biggest-layoffs-since-2022)
+- [Optional Practical Training Fees](https://soylentnews.org/article.pl?sid=26%2F10%2F12%2F1957224)
 
-- [The People Supporting the Internet](https://soylentnews.org/article.pl?sid=26%2F10%2F12%2F0344219)
+- [Show HN: Unfenced – Land for sale that borders public land](https://unfenced.land/) ([comments](https://news.ycombinator.com/item?id=50102247))
+
+- [Haxy on Haxy](https://try.haxy.net/haxy:haxy) ([comments](https://lobste.rs/s/bcaopz/haxy_on_haxy))
+
+## More Highlights
+
+- [My C23 Conventions](https://abner.page/post/c23-conventions-1/) ([comments](https://lobste.rs/s/umdbht/my_c23_conventions))
+
+- [Siri is so bad at everything](https://www.reddit.com/r/apple/comments/1x6gz83/siri_is_so_bad_at_everything/) ([comments](https://news.ycombinator.com/item?id=50104465))
+
+- [Libreboot 26.10 “Ominous Olive” released with full UEFI support](https://libreboot.org/news/libreboot2610.html) ([comments](https://lobste.rs/s/9xticb/libreboot_26_10_ominous_olive_released))
+
+- [Argonne Scientists Create Chatty X-Ray Microscope That Zooms in Where You Tell It to](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F0125242)
+
+- [Using AI to reverse engineer hardware](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/) ([comments](https://news.ycombinator.com/item?id=50104299))
+
+- [Microsoft Defender Now Supports Linux Desktops](https://linux.slashdot.org/story/26/10/14/2121212/microsoft-defender-now-supports-linux-desktops)
