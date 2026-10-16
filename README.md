@@ -1,103 +1,103 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Software Development & Open Source
-
-- [The Folders Programming Language](https://danieltemkin.com/esolangs/folders) ([comments](https://news.ycombinator.com/item?id=50114342))
-
-- [What agents mean for Rust (and vice versa)](https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/) ([comments](https://lobste.rs/s/vvtzdj/what_agents_mean_for_rust_vice_versa))
-
-- [Comparing Chromium Development at Google and Igalia](https://lwn.net/Articles/1094721/) ([comments](https://news.ycombinator.com/item?id=50112887))
-
-- [Writing stateful effect handlers in EYG](https://eyg.run/guides/advanced-effects) ([comments](https://lobste.rs/s/shs3xv/writing_stateful_effect_handlers_eyg))
-
-- [Thank You, Deno](https://www.vlt.io/blog/competition-keeps-javascript-moving) ([comments](https://news.ycombinator.com/item?id=50112331))
-
-- [Ubuntu 26.10 Released](https://news.slashdot.org/story/26/10/15/2013231/ubuntu-2610-released)
-
-- [Linus Torvalds on AI-assisted kernel contributions](https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/) ([comments](https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel))
-
-- [Announcing Rust 1.99.1](https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/) ([comments](https://lobste.rs/s/ttcx5k/announcing_rust_1_99_1))
-
 ## AI & Technology
 
 - [Microsoft's President Says AI Is Less Regulated Than A Carton Of Milk](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F2332208)
 
+- [IMF Warns of the Real AI Threat: Debt](https://news.slashdot.org/story/26/10/15/1949215/imf-warns-of-the-real-ai-threat-debt)
+
+- [How to make System 1 LLMs show System 2 competencies?](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113) ([comments](https://news.ycombinator.com/item?id=50118662))
+
+- [Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference) ([comments](https://news.ycombinator.com/item?id=50118320))
+
 - [Meta and Apple Bring Muse Spark Open AI Model to Mac Studio](https://apple.slashdot.org/story/26/10/15/189249/meta-and-apple-bring-muse-spark-open-ai-model-to-mac-studio)
-
-- [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) ([comments](https://news.ycombinator.com/item?id=50107379))
-
-- [Amazon Launches New Bee 'Personal AI' Devices That Listen to Conversations](https://yro.slashdot.org/story/26/10/15/1718232/amazon-launches-new-bee-personal-ai-devices-that-listen-to-conversations)
 
 ## Privacy, Security & Regulation
 
+- [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish) ([comments](https://lobste.rs/s/cxlrc5/big_fish_exploiting_37_year_old_kernel_bug))
+
 - [Hackers Hijack D-Link, Ubiquiti Devices To Resell Your Stolen Bandwidth](https://it.slashdot.org/story/26/10/15/2315217/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth)
-
-- [Police Seize Robot that Sexually Assaulted Teen Girl](https://hardware.slashdot.org/story/26/10/15/2241202/police-seize-robot-that-sexually-assaulted-teen-girl)
-
-- [Ukrainian Drone Strikes On Yandex Datacenters Knock Cloud And Payments Offline](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F1445210)
-
-- [Meta’s new commercial terms will allow the scraping of news sites: experts](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/) ([comments](https://news.ycombinator.com/item?id=50111852))
-
-- [Flock CEO Defends Surveillance Tech Amid National Backlash](https://yro.slashdot.org/story/26/10/15/1941247/flock-ceo-defends-surveillance-tech-amid-national-backlash)
-
-- [First-Ever Public Confirmation of 'Zero-Click' Spyware Delivered Via Targeted Ads](https://tech.slashdot.org/story/26/10/15/1822259/first-ever-public-confirmation-of-zero-click-spyware-delivered-via-targeted-ads)
 
 - [Japan Declares Cyber ‘Emergency’ After Millions Affected In Hacks](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F0127256)
 
+- [First-Ever Public Confirmation of 'Zero-Click' Spyware Delivered Via Targeted Ads](https://tech.slashdot.org/story/26/10/15/1822259/first-ever-public-confirmation-of-zero-click-spyware-delivered-via-targeted-ads)
+
+- [Flock CEO Defends Surveillance Tech Amid National Backlash](https://yro.slashdot.org/story/26/10/15/1941247/flock-ceo-defends-surveillance-tech-amid-national-backlash)
+
 ## Hardware & Computing
-
-- [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill) ([comments](https://news.ycombinator.com/item?id=50112739))
-
-- [Tesla Reveals SpaceX-Powered 'Flying' Roadster](https://tech.slashdot.org/story/26/10/16/030228/tesla-reveals-spacex-powered-flying-roadster)
 
 - [Wallpaper That Generates Power? Researchers Have Developed It](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F2329209)
 
-- [What are you doing this weekend?](https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend)
+- [Ukrainian Drone Strikes On Yandex Datacenters Knock Cloud And Payments Offline](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F1445210)
 
-- [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes) ([comments](https://news.ycombinator.com/item?id=50112330))
+- [Tesla Reveals SpaceX-Powered 'Flying' Roadster](https://tech.slashdot.org/story/26/10/16/030228/tesla-reveals-spacex-powered-flying-roadster)
 
 - [Intel Optimizes IPv6 Networking Into Nothingness, Say Users](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F1440236)
 
-- [New Withings Users Must Pay $99/Year for Apple Health Syncing](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts) ([comments](https://news.ycombinator.com/item?id=50109375))
+- [coopiano: A physically modelled piano synthesizer in C++17](https://github.com/peterc/coopiano) ([comments](https://lobste.rs/s/qcjvlw/coopiano_physically_modelled_piano))
 
-- [Microsoft Says Windows 11 Is Now 'More Responsive', Runs Better On 8GB of RAM](https://tech.slashdot.org/story/26/10/15/1741225/microsoft-says-windows-11-is-now-more-responsive-runs-better-on-8gb-of-ram)
+## Software Development & Open Source
 
-- [Chinese Cars in Norway Stored Military Exercise Footage and Access Codes](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F0118206)
+- [Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS](https://onedeploy.co/) ([comments](https://news.ycombinator.com/item?id=50119752))
 
-- [On the technical actions needed to ensure the continuity of UTC](https://www.bipm.org/en/cgpm-2026/resolution-5) ([comments](https://lobste.rs/s/ipyrkv/on_technical_actions_needed_ensure))
+- [Mull: note-taking with a language server / vscode extension](https://github.com/stepchowfun/mull) ([comments](https://lobste.rs/s/xcacrh/mull_note_taking_with_language_server))
 
-## Culture, Society & Mobility
+- [What agents mean for Rust (and vice versa)](https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/) ([comments](https://lobste.rs/s/vvtzdj/what_agents_mean_for_rust_vice_versa))
 
-- [Researchers to Teens: Get to Bed – It's Good for Your Blood Sugar](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F1441255)
+- [Writing stateful effect handlers in EYG](https://eyg.run/guides/advanced-effects) ([comments](https://lobste.rs/s/shs3xv/writing_stateful_effect_handlers_eyg))
 
-- [Why are we even doing all this?](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/) ([comments](https://lobste.rs/s/qvomvk/why_are_we_even_doing_all_this))
+- [Ubuntu 26.10 Released](https://news.slashdot.org/story/26/10/15/2013231/ubuntu-2610-released)
 
-- [BeBox is a Haiku application that emulates Be Inc.'s BeBox](https://github.com/johnrash/bebox) ([comments](https://news.ycombinator.com/item?id=50111742))
+- [Folders Esoteric Language](https://danieltemkin.com/esolangs/folders) ([comments](https://lobste.rs/s/norjho/folders_esoteric_language))
 
 - [My self-hosted infrastructure with Incus OS](https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html) ([comments](https://lobste.rs/s/q0wobg/my_self_hosted_infrastructure_with_incus))
 
+## Culture, Society & Mobility
+
+- [America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program](https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation) ([comments](https://news.ycombinator.com/item?id=50120010))
+
+- [iPhone Duo Sells Out Immediately, Now Backordered Until Next Year](https://mobile.slashdot.org/story/26/10/16/1530254/iphone-duo-sells-out-immediately-now-backordered-until-next-year)
+
+- [KDE Plasma 6.8 Released, Marks 30 Years of the KDE Project](https://tech.slashdot.org/story/26/10/15/2248252/kde-plasma-68-released-marks-30-years-of-the-kde-project)
+
+- [Hello Toronto – Waymo Is En Route](https://waymo.com/blog/2026/10/waymo-in-toronto/) ([comments](https://news.ycombinator.com/item?id=50118981))
+
+- [The road to iroh 1.0](https://www.iroh.computer/blog/the-road-to-iroh-1-0) ([comments](https://lobste.rs/s/6laoto/road_iroh_1_0))
+
+- [World's Timekeepers Vote to Eliminate the Leap Second](https://science.slashdot.org/story/26/10/15/2258254/worlds-timekeepers-vote-to-eliminate-the-leap-second)
+
+- [Researchers to Teens: Get to Bed – It's Good for Your Blood Sugar](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F1441255)
+
+- [Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/) ([comments](https://news.ycombinator.com/item?id=50118876))
+
+- [What on Earth Is Dekton?](https://www.worksinprogress.news/p/porcelain) ([comments](https://news.ycombinator.com/item?id=50118828))
+
 - [Statisticians Build Better Way to Make Sense of Competing Sports Rankings](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F0129251)
+
+- [Show HN: Gemini 4 Argon plays StarCraft](https://starskirmish.com/bench/v0-2/) ([comments](https://news.ycombinator.com/item?id=50118688))
+
+- [Matt Mullenweg Orders Accessibility Revert](https://www.therepository.email/matt-mullenweg-orders-accessibility-revert-tells-core-committer-to-contribute-your-talents-to-another-project) ([comments](https://lobste.rs/s/2mlkhe/matt_mullenweg_orders_accessibility))
+
+- [Argonne Scientists Create Chatty X-Ray Microscope That Zooms in Where You Tell It to](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F0125242)
 
 - [The Eruption That Destroyed Pompeii is Helping Scientists Date Earth's History](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F0123253)
 
-- [Jev meets the Trolley Problem](https://zachlandes.com/trolley-problem/) ([comments](https://news.ycombinator.com/item?id=50106023))
+- [Chinese Cars in Norway Stored Military Exercise Footage and Access Codes](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F0118206)
 
 ## More Highlights
 
 - [Scientists Find Evidence Of A Second-Generation Planet Born From A Dying Star](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F2335212)
 
-- [World's Timekeepers Vote to Eliminate the Leap Second](https://science.slashdot.org/story/26/10/15/2258254/worlds-timekeepers-vote-to-eliminate-the-leap-second)
+- [Show HN: Grimoire for Biology](https://grimoire.bio/) ([comments](https://news.ycombinator.com/item?id=50118950))
 
-- [coopiano: A physically modelled piano synthesizer in C++17](https://github.com/peterc/coopiano) ([comments](https://lobste.rs/s/qcjvlw/coopiano_physically_modelled_piano))
+- [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/) ([comments](https://lobste.rs/s/v6hhdr/making_88x31_button_book_using))
 
-- [IMF Warns of the Real AI Threat: Debt](https://news.slashdot.org/story/26/10/15/1949215/imf-warns-of-the-real-ai-threat-debt)
+- [Police Seize Robot that Sexually Assaulted Teen Girl](https://hardware.slashdot.org/story/26/10/15/2241202/police-seize-robot-that-sexually-assaulted-teen-girl)
 
-- [What I self-host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/) ([comments](https://news.ycombinator.com/item?id=50109715))
+- [What are you doing this weekend?](https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend)
 
-- [Where did WIN32_LEAN_AND_MEAN come from? (2009)](https://devblogs.microsoft.com/oldnewthing/20091130-00/?p=15863/) ([comments](https://lobste.rs/s/eqoieo/where_did_win32_lean_mean_come_from_2009))
+- [How to Formalize All of Mathematics](https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/) ([comments](https://news.ycombinator.com/item?id=50118512))
 
-- [Argonne Scientists Create Chatty X-Ray Microscope That Zooms in Where You Tell It to](https://soylentnews.org/article.pl?sid=26%2F10%2F14%2F0125242)
+- [Why are we even doing all this?](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/) ([comments](https://lobste.rs/s/qvomvk/why_are_we_even_doing_all_this))
 
-- [Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup) ([comments](https://news.ycombinator.com/item?id=50108872))
-
-- [Epic's EAC2 v2 seems fairly easily bypassable](https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/) ([comments](https://lobste.rs/s/1iin5o/epic_s_eac2_v2_seems_fairly_easily))
+- [What was a Token Ring network?](https://dfarq.homeip.net/what-was-a-token-ring-network/) ([comments](https://news.ycombinator.com/item?id=50118318))
