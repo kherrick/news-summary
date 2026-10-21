@@ -2,31 +2,47 @@
 
 ## AI & Technology
 
-- [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/) ([comments](https://news.ycombinator.com/item?id=50175185))
+- [Using Claude to reduce the attack surface of code](https://www.anthropic.com/research/attack-surface-reduction) ([comments](https://news.ycombinator.com/item?id=50175779))
 
 - [Google Support Pages Start Defaulting to AI Chatbots](https://tech.slashdot.org/story/26/10/20/199206/google-support-pages-start-defaulting-to-ai-chatbots)
 
 - [AI Researchers Are Smoking Cigarettes to Prove AI Will Cure Cancer, Says Palantir Exec](https://soylentnews.org/article.pl?sid=26%2F10%2F19%2F0511219)
 
-- [Nscale, Anthropic In Talks For New $45 Billion AI Cloud Deal](https://slashdot.org/story/26/10/20/0536218/nscale-anthropic-in-talks-for-new-45-billion-ai-cloud-deal)
+- [Meta Unveils Muse Spark Open To Compete With Chinese Open-Weights](https://soylentnews.org/article.pl?sid=26%2F10%2F18%2F2138253)
 
-- [Benchmarking Bot Detection Systems Against Modern AI Agents in 2026](https://research.poh.org/bot-benchmarking-2026/) ([comments](https://news.ycombinator.com/item?id=50169506))
+- [Nscale, Anthropic In Talks For New $45 Billion AI Cloud Deal](https://slashdot.org/story/26/10/20/0536218/nscale-anthropic-in-talks-for-new-45-billion-ai-cloud-deal)
 
 ## Privacy, Security & Regulation
 
 - [Judge Orders Meta To Name Employees Who Approved Torrenting Anna's Archive, Libgen](https://yro.slashdot.org/story/26/10/20/2055251/judge-orders-meta-to-name-employees-who-approved-torrenting-annas-archive-libgen)
 
+- [Back When US Air Force Pilots Used Malware-Laden USB Drives to Plan Afghanistan Missions](https://soylentnews.org/article.pl?sid=26%2F10%2F19%2F0535231)
+
+- [Firefox security patch tests are now private for at least a week](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ) ([comments](https://lobste.rs/s/othohc/firefox_security_patch_tests_are_now))
+
 - [Unauthorized Access to PingCAP Cloud Resources](https://www.pingcap.com/trust-hub/security/security-update-october-2026/) ([comments](https://lobste.rs/s/x7codz/unauthorized_access_pingcap_cloud))
+
+- [Muse exposes users' personal and business secrets when they share conversations](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/) ([comments](https://news.ycombinator.com/item?id=50174687))
+
+- [Upcoming Critical PHP Security Release](https://www.php.net/archive/2026.php#2026-10-20-1) ([comments](https://lobste.rs/s/ekxoyt/upcoming_critical_php_security_release))
+
+- [Meta Muse Exposes Users' Personal, Business Secrets When They Share Conversations](https://yro.slashdot.org/story/26/10/20/1655247/meta-muse-exposes-users-personal-business-secrets-when-they-share-conversations)
 
 - [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/) ([comments](https://news.ycombinator.com/item?id=50173487))
 
-- [Spyware Vendors Found A Way To Make Targeted Ads Even Worse](https://soylentnews.org/article.pl?sid=26%2F10%2F18%2F2141251)
+- [Upcoming critical PHP security release (CVE-2026-109618 / -109619)](https://news-web.php.net/php.announce/509) ([comments](https://news.ycombinator.com/item?id=50172041))
 
-- [How I got over 300 Tor exit nodes removed](https://kaba.cx/posts/20261020_Tor/) ([comments](https://lobste.rs/s/9h14un/how_i_got_over_300_tor_exit_nodes_removed))
+- [Do minor curl vulnerabilities in the open](https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/) ([comments](https://lobste.rs/s/nryxzd/do_minor_curl_vulnerabilities_open))
 
 ## Hardware & Computing
 
-- [awesome-console-services: curated list of services reachable via HTTP](https://github.com/chubin/awesome-console-services) ([comments](https://lobste.rs/s/h71ji8/awesome_console_services_curated_list))
+- [ConcurrentML: Improving on Go's concurrency model](https://nikhilism.com/post/2026/golang-racket-concurrency/) ([comments](https://lobste.rs/s/50whrl/concurrentml_improving_on_go_s))
+
+- [Setting Up SSH Keys on macOS with Touch ID](https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/) ([comments](https://news.ycombinator.com/item?id=50175882))
+
+- [These High-Tech Batteries Are Built to Break Down in Your Digestive System](https://soylentnews.org/article.pl?sid=26%2F10%2F19%2F0528257)
+
+- [Announcing the GPU notification group and Linker Working Area](https://blog.rust-lang.org/inside-rust/2026/10/20/gpu-target-notification-group/) ([comments](https://lobste.rs/s/ydbql4/announcing_gpu_notification_group))
 
 - [Sony Updates the Walkman As a $5,900 Gold-Plated MP3 Player](https://hardware.slashdot.org/story/26/10/20/1923237/sony-updates-the-walkman-as-a-5900-gold-plated-mp3-player)
 
@@ -34,46 +50,30 @@
 
 - [Inside the Intel 8087 Chip: Floating-point Addition and Subtraction](https://soylentnews.org/article.pl?sid=26%2F10%2F18%2F2134222)
 
-- [Making a VGA Driver in SystemVerilog](https://lukaswerner.com/post/2026-10-20@bottom-up-vga) ([comments](https://lobste.rs/s/mngelc/making_vga_driver_systemverilog))
+## Space & Science
 
-## Software Development & Open Source
-
-- [Upcoming Critical PHP Security Release](https://www.php.net/archive/2026.php#2026-10-20-1) ([comments](https://lobste.rs/s/ekxoyt/upcoming_critical_php_security_release))
-
-- [EDG is open source](https://edgcpp.org/) ([comments](https://lobste.rs/s/nhiewb/edg_is_open_source))
-
-- [Python 3.15 Goes Global With UTF-8 Support](https://soylentnews.org/article.pl?sid=26%2F10%2F19%2F054239)
-
-- [Do minor curl vulnerabilities in the open](https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/) ([comments](https://lobste.rs/s/nryxzd/do_minor_curl_vulnerabilities_open))
-
-- [Advanced coding in low-resource programming languages](https://openai.com/index/low-resource-programming-languages/) ([comments](https://news.ycombinator.com/item?id=50169955))
-
-- [Mastodon 5.0: A closer look](https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/) ([comments](https://lobste.rs/s/dlbufy/mastodon_5_0_closer_look))
-
-- [NixOS is making me less afraid](https://entropicthoughts.com/nixos-is-making-me-less-afraid) ([comments](https://lobste.rs/s/7d1swo/nixos_is_making_me_less_afraid))
-
-## Culture, Society & Mobility
-
-- [Back When US Air Force Pilots Used Malware-Laden USB Drives to Plan Afghanistan Missions](https://soylentnews.org/article.pl?sid=26%2F10%2F19%2F0535231)
-
-- [Lobsters NYC Meetup on the 28th of October](https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october)
+- [Russian Satellite's Close Shadowing of Radar Imaging Satellite Is a Big Deal](https://science.slashdot.org/story/26/10/21/0449230/russian-satellites-close-shadowing-of-radar-imaging-satellite-is-a-big-deal)
 
 - [Ukraine Claims World's First Drone Evacuation of Wounded Soldier](https://tech.slashdot.org/story/26/10/20/1929211/ukraine-claims-worlds-first-drone-evacuation-of-wounded-soldier)
 
-- [These High-Tech Batteries Are Built to Break Down in Your Digestive System](https://soylentnews.org/article.pl?sid=26%2F10%2F19%2F0528257)
+- [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/) ([comments](https://news.ycombinator.com/item?id=50175185))
 
-- [Learning to live with Waymos](https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird) ([comments](https://news.ycombinator.com/item?id=50175057))
+## Software Development & Open Source
 
-- [Smartphone Shipments Plummet as Memory Crisis Pumps Up Prices](https://soylentnews.org/article.pl?sid=26%2F10%2F19%2F0515251)
+- [Unikernels in OCaml](https://uniker.nl/) ([comments](https://lobste.rs/s/mfserj/unikernels_ocaml))
 
-- [Why do we need ud2 when int 6 is right there?](https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/) ([comments](https://lobste.rs/s/9u6gm0/why_do_we_need_ud2_when_int_6_is_right_there))
+- [Battlezone Online: BZFlag in the Browser](https://github.com/timriker/bzo) ([comments](https://news.ycombinator.com/item?id=50176298))
 
-- [PingCap TiDB Leaks](https://fulcrumsec.vg/pingcap/) ([comments](https://news.ycombinator.com/item?id=50173716))
+- [Vector Graphics in Lil](https://beyondloom.com/blog/vectorgraphics.html) ([comments](https://lobste.rs/s/tsfina/vector_graphics_lil))
 
-- [DHS Lied About Why It Wanted To Search Activist's GrapheneOS Phone](https://yro.slashdot.org/story/26/10/20/1740207/dhs-lied-about-why-it-wanted-to-search-activists-grapheneos-phone)
+- [C# now beats Rust on WASM size](https://github.com/zion-sati/NetWasm) ([comments](https://news.ycombinator.com/item?id=50175510))
 
-- [Meta Muse Exposes Users' Personal, Business Secrets When They Share Conversations](https://yro.slashdot.org/story/26/10/20/1655247/meta-muse-exposes-users-personal-business-secrets-when-they-share-conversations)
+- [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/) ([comments](https://lobste.rs/s/vidyh0/future_css))
 
-- [Show HN: SimCity, but with Permits](https://permit.petercai.com/) ([comments](https://news.ycombinator.com/item?id=50170593))
+- [Python 3.15 Goes Global With UTF-8 Support](https://soylentnews.org/article.pl?sid=26%2F10%2F19%2F054239)
 
-- [US Bans DeepSeek From Government Use](https://yro.slashdot.org/story/26/10/20/0546213/us-bans-deepseek-from-government-use)
+- [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/) ([comments](https://news.ycombinator.com/item?id=50175059))
+
+- [OpenBSD 8.0 Released](https://tech.slashdot.org/story/26/10/20/171229/openbsd-80-released)
+
+- [When Faster Supercomputers Aren’t Enough](https://soylentnews.org/article.pl?sid=26%2F10%2F18%2F2146215)
