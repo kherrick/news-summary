@@ -2,60 +2,64 @@
 
 ## AI & Technology
 
-- [Google Brings Gemini Personal Intelligence to Android Auto](https://soylentnews.org/article.pl?sid=26%2F10%2F22%2F1118219)
+- [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/) ([comments](https://news.ycombinator.com/item?id=50218633))
 
 - [Google Brings Gemini Personal Intelligence to Android Auto](https://soylentnews.org/article.pl?sid=26%2F10%2F22%2F1118219)
-
-- [Evolving Threat: http2shell is an RCE in Node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8) ([comments](https://news.ycombinator.com/item?id=50216791))
-
-- [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162) ([comments](https://lobste.rs/s/d1snfg/next_concept_modeling_fast_parallel))
 
 - [Left Alone With Nothing To Do, AI Agents Started Playing](https://slashdot.org/story/26/10/23/1647249/left-alone-with-nothing-to-do-ai-agents-started-playing)
 
-- [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa) ([comments](https://news.ycombinator.com/item?id=50213925))
+- [Dessa: Conversation Model trained only on speech](https://block.xyz/dessa) ([comments](https://news.ycombinator.com/item?id=50213925))
 
 ## Privacy, Security & Regulation
 
+- [Indian government sites are serving revoked eMudhra certificates](https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/) ([comments](https://lobste.rs/s/zug8xv/indian_government_sites_are_serving))
+
 - [Greece Enacts Social Media Ban For Kids Under 15](https://tech.slashdot.org/story/26/10/23/1928227/greece-enacts-social-media-ban-for-kids-under-15)
 
-- [CVE Tracker](https://cve.0xosprey.com/) ([comments](https://news.ycombinator.com/item?id=50215530))
+- [Indian Certification Authority EMudhra’s Private Keys Compromised – One Of Them Was The Number ‘4’](https://soylentnews.org/article.pl?sid=26%2F10%2F22%2F0141249)
+
+- [Accident Or Not, The No Kings Takedown Is Why You Shouldn’t Rent Your Megaphone From Zuck](https://soylentnews.org/article.pl?sid=26%2F10%2F22%2F0139217)
 
 - [Railway Preliminary Report: Oct 21st Security Incident](https://blog.railway.com/p/preliminary-report-october-security-incident) ([comments](https://lobste.rs/s/hq3tu8/railway_preliminary_report_oct_21st))
 
-- [Knicks Sent Employees Fake Offer of Championship Rings In Phishing Test](https://it.slashdot.org/story/26/10/23/193208/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test)
-
-- [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment/) ([comments](https://news.ycombinator.com/item?id=50214416))
+- [Ukraine Is Wiping Out Data Centers Across the Border](https://tech.slashdot.org/story/26/10/23/0153232/ukraine-is-wiping-out-data-centers-across-the-border)
 
 - [333 Tor Exit Nodes Hijacked To Intercept SSH Traffic And Retrieve Plaintext Email](https://soylentnews.org/breakingnews/article.pl?sid=26%2F10%2F22%2F1248234)
 
-- [PHP Vulnerabilities Could Put Much Of The Internet At Risk, Experts Warn](https://soylentnews.org/article.pl?sid=26%2F10%2F21%2F1611252)
+- [UN Says Breaching 1.5C Warming Limit Is 'Imminent and Unavoidable'](https://news.slashdot.org/story/26/10/23/0031209/un-says-breaching-15c-warming-limit-is-imminent-and-unavoidable)
+
+- [Release OpenSSL 4.1.0 · openssl/openssl](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0) ([comments](https://lobste.rs/s/pcirxi/release_openssl_4_1_0_openssl_openssl))
 
 ## Hardware & Computing
 
+- [Big Runtimes Make Efficient Programs](https://www.youtube.com/watch?v=vhDwy1eCXbs) ([comments](https://lobste.rs/s/g5k2pc/big_runtimes_make_efficient_programs))
+
+- [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0) ([comments](https://news.ycombinator.com/item?id=50218430))
+
+- [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/) ([comments](https://lobste.rs/s/rqefcw/twelve_years_distributed_sqlite))
+
+- [Senedd Member Says Smart Glasses Help With Speeches in the Senedd (Welsh Parliament)](https://soylentnews.org/article.pl?sid=26%2F10%2F22%2F088253)
+
+- [SpaceX In Talks to Access 80,000 Cell Sites For New Network](https://mobile.slashdot.org/story/26/10/23/1916222/spacex-in-talks-to-access-80000-cell-sites-for-new-network)
+
+- [Apple Security Research Device](https://security.apple.com/research-device/) ([comments](https://news.ycombinator.com/item?id=50217903))
+
+- [Incremental Computation Graphs](https://dziban.net/posts/incremental-computation-graph/) ([comments](https://lobste.rs/s/6utrvz/incremental_computation_graphs))
+
 - [Memory is slow, Disk is fast](https://www.bitflux.ai/blog/memory-is-slow-part3/) ([comments](https://lobste.rs/s/pvfzhq/memory_is_slow_disk_is_fast))
+
+- [A whirlwind tour of systemd-nspawn containers (2025)](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/) ([comments](https://lobste.rs/s/yusomz/whirlwind_tour_systemd_nspawn))
 
 - [Tens Of Thousands Of Nvidia GPUs Sit Idle In Meta's Prometheus Supercluster, Waiting For Failure](https://soylentnews.org/article.pl?sid=26%2F10%2F21%2F1621256)
 
-- [a neat trick i found for reusing physical memory](https://sebsite.pw/w/20260728-cow.html) ([comments](https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical))
-
-## Space & Science
-
-- [Physicists Trap a Single Antimatter Particle For a Month](https://science.slashdot.org/story/26/10/23/021237/physicists-trap-a-single-antimatter-particle-for-a-month)
-
-- [UN Says Breaching 1.5C Warming Limit Is 'Imminent and Unavoidable'](https://news.slashdot.org/story/26/10/23/0031209/un-says-breaching-15c-warming-limit-is-imminent-and-unavoidable)
+- [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) ([comments](https://news.ycombinator.com/item?id=50212065))
 
 ## Software Development & Open Source
 
-- [An Incremental Approach to JIT Construction](https://dl.acm.org/doi/pdf/10.1145/3830440.3832304) ([comments](https://lobste.rs/s/hmtqfl/incremental_approach_jit_construction))
+- [Singapore Boffins Weave a GUI Into Fabric](https://tech.slashdot.org/story/26/10/23/2048215/singapore-boffins-weave-a-gui-into-fabric)
 
-- [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/) ([comments](https://news.ycombinator.com/item?id=50217500))
-
-- [OpenBSD 8.0 Beefs Up Virtual Machines And Gets A Taste Of Wine](https://soylentnews.org/article.pl?sid=26%2F10%2F21%2F1625213)
-
-- [Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501](https://rune.build/blog/rune-1-3-release) ([comments](https://news.ycombinator.com/item?id=50214325))
+- [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c) ([comments](https://news.ycombinator.com/item?id=50218195))
 
 - [No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)](https://queue.acm.org/doi/10.1145/945131.945155) ([comments](https://lobste.rs/s/ctow98/no_source_code_no_problem_what_if_you_have))
 
-- [DNS: A Replacement for Finger](https://altchan.org/sh/42) ([comments](https://news.ycombinator.com/item?id=50213791))
-
-- [Release OpenSSL 4.1.0 · openssl/openssl](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0) ([comments](https://lobste.rs/s/pcirxi/release_openssl_4_1_0_openssl_openssl))
+- [How to Make Things, and Why](https://www.youtube.com/watch?v=7yeH1DqK984) ([comments](https://lobste.rs/s/tq5cxv/how_make_things_why))
