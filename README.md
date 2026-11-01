@@ -2,102 +2,102 @@
 
 ## AI & Technology
 
+- [Amid AI Bans, Microsoft and OpenAI Plan a 'Joyful' Hour of AI for Kids](https://news.slashdot.org/story/26/11/01/0211213/amid-ai-bans-microsoft-and-openai-plan-a-joyful-hour-of-ai-for-kids)
+
+- [Anthropic's Mythos-class model allegedly leaked on Hugging Face](https://news.ycombinator.com/item?id=50326727)
+
 - [Delaware Plan Would Let AI Agents Run Entire Businesses](https://soylentnews.org/article.pl?sid=26%2F10%2F29%2F1658241)
 
 - [Xbox Manager: AI Already Being Used In Xbox Game Development - And Throughout the Game Industry](https://games.slashdot.org/story/26/11/01/0431200/xbox-manager-ai-already-being-used-in-xbox-game-development---and-throughout-the-game-industry)
 
-- [The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/) ([comments](https://news.ycombinator.com/item?id=50323088))
+- [IBM Admits Mainframes Need To Be Modernized And Will Use AI To Do The Job](https://soylentnews.org/article.pl?sid=26%2F10%2F29%2F1540224)
 
-- [ChatGPT and Codex usage limits merging](https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits) ([comments](https://news.ycombinator.com/item?id=50320588))
-
-- [Google's AI Overviews Lowered Reddit's Traffic. Its Stock Dropped 29%](https://tech.slashdot.org/story/26/10/31/0458218/googles-ai-overviews-lowered-reddits-traffic-its-stock-dropped-29)
-
-## Privacy, Security & Regulation
-
-- [Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/) ([comments](https://news.ycombinator.com/item?id=50322173))
-
-- [The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans](https://soylentnews.org/article.pl?sid=26%2F10%2F29%2F0245245)
-
-- [Researchers Uncover Signs of Massive Surveillance Operation on Starlink Users](https://soylentnews.org/article.pl?sid=26%2F10%2F29%2F0241214)
-
-- [Two US Senators Raise Privacy Concerns About Meta's 'Pervert Glasses'](https://yro.slashdot.org/story/26/10/31/0553218/two-us-senators-raise-privacy-concerns-about-metas-pervert-glasses)
+- [AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy) ([comments](https://news.ycombinator.com/item?id=50325662))
 
 ## Hardware & Computing
 
+- [A Specialised Haskell Processor on FPGA](https://bathtub-01.github.io/technical/ouros-demo/) ([comments](https://lobste.rs/s/8o9wus/specialised_haskell_processor_on_fpga))
+
+- [Landline phones will switch off across Britland in 100 days, no extensions](https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673) ([comments](https://news.ycombinator.com/item?id=50326609))
+
+- [groff/troff macros: ms, mm, me or mom](https://www.stephenlindholm.com/groff_macros.html) ([comments](https://lobste.rs/s/dbwbvr/groff_troff_macros_ms_mm_me_mom))
+
+- [Beating the compiler at signed 32-bit division](https://lemire.me/blog/2026/10/31/beating-the-compiler-at-signed-32-bit-division/) ([comments](https://lobste.rs/s/ep5vsq/beating_compiler_at_signed_32_bit))
+
 - [Non-Determinism and Overcount on Modern Hardware Performance Counter Implementations](https://web.eece.maine.edu/~vweaver/projects/deterministic/deterministic_counters.pdf) ([comments](https://lobste.rs/s/pswl6z/non_determinism_overcount_on_modern))
-
-- [Introducing Kwi, a new KDE terminal emulator](https://blogs.kde.org/2026/11/01/introducing-kwi/) ([comments](https://lobste.rs/s/lt44rt/introducing_kwi_new_kde_terminal))
-
-- [Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)](https://arxiv.org/abs/2409.02292) ([comments](https://news.ycombinator.com/item?id=50322022))
-
-- [Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1) ([comments](https://news.ycombinator.com/item?id=50321522))
-
-- [Speeding up GPU copies by permuting iteration spaces, or, optimising the identity function](https://futhark-lang.org/blog/2026-10-31-faster-copying.html) ([comments](https://lobste.rs/s/1abkzu/speeding_up_gpu_copies_by_permuting))
 
 - [Emulate Apple II on Raspberry Pi](https://soylentnews.org/article.pl?sid=26%2F10%2F29%2F0243255)
 
-## Software Development & Open Source
+## Privacy, Security & Regulation
 
-- [OpenIDEA: The IDE you know, rebuilt in Rust](https://github.com/l0ng-ai/openidea) ([comments](https://news.ycombinator.com/item?id=50323848))
-
-- [Worm Armed 42 GitHub Repos by Hiding a Payload Too Big to Fail](https://soylentnews.org/article.pl?sid=26%2F10%2F29%2F1133203)
-
-- [An LC-3 Disassembler in Haskell](https://abhinavsarkar.net/posts/lc3-disassembler/) ([comments](https://lobste.rs/s/qoznnh/lc_3_disassembler_haskell))
-
-- [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) ([comments](https://news.ycombinator.com/item?id=50319510))
-
-## Culture, Society & Mobility
+- [Meta Discussed 'Whisper Strategy' to Discredit Social Media Critic Jonathan Haidt, Files Show](https://tech.slashdot.org/story/26/10/31/0559203/meta-discussed-whisper-strategy-to-discredit-social-media-critic-jonathan-haidt-files-show)
 
 - [America's Clocks Are Still Falling Back Tonight Despite Trump's Daylight Saving Push](https://yro.slashdot.org/story/26/10/31/2356208/americas-clocks-are-still-falling-back-tonight-despite-trumps-daylight-saving-push)
 
-- [Pac-Man's Siren Call](https://unsung.aresluna.org/pac-mans-siren-call/) ([comments](https://news.ycombinator.com/item?id=50323187))
-
-- [A brief history of just-in-time (2003)](https://dl.acm.org/doi/10.1145/857076.857077) ([comments](https://lobste.rs/s/h6dt6e/brief_history_just_time_2003))
-
 - [Microsoft Offers Parachutes To 60K Employees If They Jump By The End Of The Year](https://soylentnews.org/article.pl?sid=26%2F10%2F29%2F1654256)
 
-- [Binance Replenishes 90% of Stolen $6.3B, Pledges They'll Cover It All, Reopen Sunday](https://news.slashdot.org/story/26/11/01/0129237/binance-replenishes-90-of-stolen-63b-pledges-theyll-cover-it-all-reopen-sunday)
+- [Police chief unplugs Flock cameras after company ignores contract cancellation](https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies) ([comments](https://news.ycombinator.com/item?id=50326118))
 
-- [ICE Plan To Buy Robot Dogs Spurs Protest From Hundreds Of Boston Dynamics Employees](https://soylentnews.org/article.pl?sid=26%2F10%2F29%2F1546233)
-
-- [Novellas with groff](https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html) ([comments](https://lobste.rs/s/54xwm8/novellas_with_groff))
-
-- [Recycling ANSI Art: Tracing the Origins of BBS Logon Screens](https://games.slashdot.org/story/26/10/31/2038237/recycling-ansi-art-tracing-the-origins-of-bbs-logon-screens)
-
-- [Altoids Project](https://uvdn7.github.io/altoids-project/) ([comments](https://news.ycombinator.com/item?id=50321048))
-
-- [Mystery of 60-Second Fluctuations in Power Grids Solved](https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved) ([comments](https://lobste.rs/s/qwou15/mystery_60_second_fluctuations_power))
+- [Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case](https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/) ([comments](https://news.ycombinator.com/item?id=50326099))
 
 - [French Lawmakers Back Per-Gigabyte Internet Traffic Tax](https://tech.slashdot.org/story/26/10/31/1857243/french-lawmakers-back-per-gigabyte-internet-traffic-tax)
 
-- [The Return of Magnetic Tapes](https://soylentnews.org/article.pl?sid=26%2F10%2F29%2F1125232)
+- [The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans](https://soylentnews.org/article.pl?sid=26%2F10%2F29%2F0245245)
 
-- [Dozens of Unexplained Drones Have Buzzed America's Nuclear Plants Since 2024](https://news.slashdot.org/story/26/10/31/1742209/dozens-of-unexplained-drones-have-buzzed-americas-nuclear-plants-since-2024)
+## Software Development & Open Source
 
-- [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/) ([comments](https://news.ycombinator.com/item?id=50320963))
+- [FreeBSD Founder Ports Omarchy to FreeBSD in Ten Days, Ten Releases](https://soylentnews.org/article.pl?sid=26%2F10%2F31%2F0450227)
 
-- [Tangled, hire a front-end accessibility expert](https://dbushell.com/2026/11/01/tangled-accessibility/) ([comments](https://lobste.rs/s/ymqjuj/tangled_hire_front_end_accessibility))
+- [Show HN: HackerBooks – HackerTube, but for books recommended on HN](https://hackerbooks.org/) ([comments](https://news.ycombinator.com/item?id=50326821))
 
-- [Surviving \"The Graduate\"](https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate) ([comments](https://news.ycombinator.com/item?id=50319563))
-
-- [A Startup Called Warhound Is Genetically Engineering Dogs For The Military](https://soylentnews.org/article.pl?sid=26%2F10%2F29%2F0239231)
-
-## More Highlights
-
-- [Effective Type: Part 1](https://uecker.codeberg.page/2026-10-31.html) ([comments](https://lobste.rs/s/ukcfap/effective_type_part_1))
-
-- [Computer Simulations Suggest Building Blocks of Life Didn't Arrive on Prehistoric Comets](https://science.slashdot.org/story/26/10/31/2142240/computer-simulations-suggest-building-blocks-of-life-didnt-arrive-on-prehistoric-comets)
-
-- [IBM Admits Mainframes Need To Be Modernized And Will Use AI To Do The Job](https://soylentnews.org/article.pl?sid=26%2F10%2F29%2F1540224)
+- [No AI, 52 min. Build all Linux Files utils in C by Hand](https://www.youtube.com/watch?v=gQRmSlcTq9c) ([comments](https://lobste.rs/s/daouvo/no_ai_52_min_build_all_linux_files_utils_c_by))
 
 - [Attacker Gained Access to Luanti's ContentDB's Servers](https://soylentnews.org/article.pl?sid=26%2F10%2F31%2F055253)
 
-- [Avoid Public Functions Calling Other Public Functions](https://matklad.github.io/2026/10/29/pub-calls-pub.html) ([comments](https://lobste.rs/s/k508we/avoid_public_functions_calling_other))
+- [Worm Armed 42 GitHub Repos by Hiding a Payload Too Big to Fail](https://soylentnews.org/article.pl?sid=26%2F10%2F29%2F1133203)
+
+- [Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff) ([comments](https://news.ycombinator.com/item?id=50325253))
+
+## Culture, Society & Mobility
+
+- [Dead Internet theory](https://en.wikipedia.org/wiki/Dead_Internet_theory) ([comments](https://lobste.rs/s/uia6c3/dead_internet_theory))
+
+- [An outsider's perspective on Scion and Mononoke](https://typesanitizer.com/blog/scion.html) ([comments](https://lobste.rs/s/s2qeww/outsider_s_perspective_on_scion_mononoke))
+
+- [Enlightenment 0.28.0 Release](https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0) ([comments](https://news.ycombinator.com/item?id=50326530))
+
+- [Binance Replenishes 90% of Stolen $6.3B, Pledges They'll Cover It All, Reopen Sunday](https://news.slashdot.org/story/26/11/01/0129237/binance-replenishes-90-of-stolen-63b-pledges-theyll-cover-it-all-reopen-sunday)
+
+- [Computer Simulations Suggest Building Blocks of Life Didn't Arrive on Prehistoric Comets](https://science.slashdot.org/story/26/10/31/2142240/computer-simulations-suggest-building-blocks-of-life-didnt-arrive-on-prehistoric-comets)
+
+- [XKCD and Fourier](https://leancrew.com/all-this/2026/10/xkcd-and-fourier/) ([comments](https://lobste.rs/s/mni8ri/xkcd_fourier))
+
+- [Recycling ANSI Art: Tracing the Origins of BBS Logon Screens](https://games.slashdot.org/story/26/10/31/2038237/recycling-ansi-art-tracing-the-origins-of-bbs-logon-screens)
+
+- [A brief history of just-in-time (2003)](https://dl.acm.org/doi/10.1145/857076.857077) ([comments](https://lobste.rs/s/h6dt6e/brief_history_just_time_2003))
 
 - [NASA Seeks Proposals for Reboosting the Hubble Space Telescope](https://science.slashdot.org/story/26/10/31/1817218/nasa-seeks-proposals-for-reboosting-the-hubble-space-telescope)
 
-- [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve) ([comments](https://news.ycombinator.com/item?id=50320995))
+- [The Return of Magnetic Tapes](https://soylentnews.org/article.pl?sid=26%2F10%2F29%2F1125232)
 
-- [Enlightenment 0.28.0 Release](https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0) ([comments](https://lobste.rs/s/fmawla/enlightenment_0_28_0_release))
+- [Proving and improving the Platonic Representation Hypothesis with JEPAs](https://arxiv.org/abs/2610.39302) ([comments](https://news.ycombinator.com/item?id=50325454))
+
+- [Introducing Kwi, a new KDE terminal emulator](https://blogs.kde.org/2026/11/01/introducing-kwi/) ([comments](https://lobste.rs/s/lt44rt/introducing_kwi_new_kde_terminal))
+
+- [Dozens of Unexplained Drones Have Buzzed America's Nuclear Plants Since 2024](https://news.slashdot.org/story/26/10/31/1742209/dozens-of-unexplained-drones-have-buzzed-americas-nuclear-plants-since-2024)
 
 - [Flock Reinstalled Its Cameras After Another City Canceled Its Contract](https://yro.slashdot.org/story/26/10/31/0238210/flock-reinstalled-its-cameras-after-another-city-canceled-its-contract)
+
+- [Restrooms along the Norwegian Scenic Routes](https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/) ([comments](https://news.ycombinator.com/item?id=50324388))
+
+## More Highlights
+
+- [Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs](https://www.ajupress.com/view/20261028171670308) ([comments](https://news.ycombinator.com/item?id=50327058))
+
+- [Insect Declines Threaten Wildlife Far Beyond Insect World](https://soylentnews.org/article.pl?sid=26%2F10%2F29%2F171204)
+
+- [ICE Plan To Buy Robot Dogs Spurs Protest From Hundreds Of Boston Dynamics Employees](https://soylentnews.org/article.pl?sid=26%2F10%2F29%2F1546233)
+
+- [Novellas with Groff](https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html) ([comments](https://news.ycombinator.com/item?id=50325694))
+
+- [Effective Type: Part 1](https://uecker.codeberg.page/2026-10-31.html) ([comments](https://lobste.rs/s/ukcfap/effective_type_part_1))
