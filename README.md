@@ -2,9 +2,7 @@
 
 ## AI & Technology
 
-- [ChatGPT silently passes data between connectors and the bounty wants an ID card](https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053) ([comments](https://news.ycombinator.com/item?id=50399569))
-
-- [AI is dramatically accelerating AI research](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai) ([comments](https://news.ycombinator.com/item?id=50397994))
+- [Every Windows 11 app should kill Electron, and Discord just showed why](https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/) ([comments](https://news.ycombinator.com/item?id=50403507))
 
 - [OpenAI's New Cyber Model Found Ways to Attack Nearly 1,000 Linux Flaws](https://it.slashdot.org/story/26/11/06/1755247/openais-new-cyber-model-found-ways-to-attack-nearly-1000-linux-flaws)
 
@@ -12,46 +10,66 @@
 
 ## Privacy, Security & Regulation
 
-- [EU Says TikTok's 'Rabbit Hole' Effect Must Stop](https://tech.slashdot.org/story/26/11/06/2210231/eu-says-tiktoks-rabbit-hole-effect-must-stop)
+- [Feds Warn Grocers: Don't Chill On Cyber Defenses As Freezer Hacking Spree Heats Up](https://soylentnews.org/article.pl?sid=26%2F11%2F06%2F2024201)
+
+- [Mexico's Senate Approves ISP Rules To Disconnect Persistent Online Pirates](https://yro.slashdot.org/story/26/11/07/025259/mexicos-senate-approves-isp-rules-to-disconnect-persistent-online-pirates)
+
+- ['Stop Dirty Datacenters': Europe-Wide Protests Planned Demanding Building Moratorium](https://soylentnews.org/article.pl?sid=26%2F11%2F06%2F0116253)
 
 - [Chainalysis Says Breach Exposed Credentials For All Customers](https://it.slashdot.org/story/26/11/06/2156257/chainalysis-says-breach-exposed-credentials-for-all-customers)
-
-- [Activists Breach Microsoft Data Center Construction Site As Protests Spread In Europe](https://news.slashdot.org/story/26/11/06/211208/activists-breach-microsoft-data-center-construction-site-as-protests-spread-in-europe)
 
 - [Your Secrets Aren't Safe With This Cute Robot Toy — They're on Chinese Servers Ready to be Hacked](https://soylentnews.org/article.pl?sid=26%2F11%2F04%2F1515206)
 
 - [Britain to Make Salary Disclosure In Job Ads Mandatory](https://news.slashdot.org/story/26/11/06/1640241/britain-to-make-salary-disclosure-in-job-ads-mandatory)
 
-- [Restaurant Delivery Payment-Skimming Campaign](https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming) ([comments](https://news.ycombinator.com/item?id=50397017))
+- [GM Agrees to $220 Million Settlement Over Selling Driver Data](https://soylentnews.org/article.pl?sid=26%2F11%2F03%2F2336251)
 
 ## Hardware & Computing
 
-- [How hard could implementing DTLS 1.3 possibly be?](https://joturk.net/posts/dtls) ([comments](https://lobste.rs/s/lssm6h/how_hard_could_implementing_dtls_1_3))
+- [Upload Your RAM](https://uploadyourram.org/) ([comments](https://news.ycombinator.com/item?id=50403214))
 
-- [Ericsson Says It Can Detect, Track Drones Using Only Mobile Networks](https://soylentnews.org/article.pl?sid=26%2F11%2F05%2F1726228)
-
-- [Google has acquired Crusoe's data center site in southeast Wyoming](https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update) ([comments](https://news.ycombinator.com/item?id=50397711))
+- [Port 0: The Port That Does Not Exist](https://acid.vegas/blog/the-port-that-does-not-exist/) ([comments](https://news.ycombinator.com/item?id=50403063))
 
 - [PC Chip Plunge Wipes Out A Quarter Of Intel’s Value](https://soylentnews.org/article.pl?sid=26%2F11%2F03%2F2342251)
 
-## Space & Science
-
-- [Think You Can Save The Hubble Space Telescope? NASA Wants To Know.](https://soylentnews.org/article.pl?sid=26%2F11%2F03%2F2339254)
-
-- [Researchers May Have Discovered the 6th Dwarf Planet](https://soylentnews.org/article.pl?sid=26%2F11%2F03%2F0640245)
+- [Sony Revives the Original Walkman Headphones, Adds USB-C](https://entertainment.slashdot.org/story/26/11/06/0711224/sony-revives-the-original-walkman-headphones-adds-usb-c)
 
 ## Software Development & Open Source
 
-- [Inform is a programming language for creating interactive fiction](https://ganelson.github.io/inform-website/) ([comments](https://lobste.rs/s/immpvk/inform_is_programming_language_for))
+- [Two Dimensional Version Control](https://www.redblobgames.com/blog/2026-09-27-jujutsu-experience/) ([comments](https://lobste.rs/s/49o9f3/two_dimensional_version_control))
 
-- [GitHub's new Git storage architecture](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/) ([comments](https://news.ycombinator.com/item?id=50397099))
+- [Running a law firm on Free software](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/) ([comments](https://news.ycombinator.com/item?id=50403066))
 
-- [How we continuously validate formal specifications in production](https://www.datadoghq.com/blog/engineering/continuous-formal-spec-validation/) ([comments](https://lobste.rs/s/gzdimd/how_we_continuously_validate_formal))
+- [Forwarded Without Question: How Web Frameworks Overtrust the Forwarded Header](https://www.lkoskela.fi/blog/2026-11-05-forwarded-without-question/) ([comments](https://lobste.rs/s/m5kism/forwarded_without_question_how_web))
 
-- [Replit rebuilt its sandbox engine with microVMs](https://frontier.replit.com/sandbox-engine-microvms-part-1/) ([comments](https://news.ycombinator.com/item?id=50396834))
+- [Progress Report: Linux 7.3 - Asahi Linux](https://asahilinux.org/2026/11/progress-report-7-3/) ([comments](https://lobste.rs/s/4qiair/progress_report_linux_7_3_asahi_linux))
 
-- [From Linux to Wikipedia: How Volunteers Build the Internet](https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/) ([comments](https://lobste.rs/s/lzuqfr/from_linux_wikipedia_how_volunteers))
+- [Exploring Janet and the httpf web framework](https://nick.gs/blog/2026-11/exploring-janet-and-the-httpf-web-framework/) ([comments](https://lobste.rs/s/ydzlvp/exploring_janet_httpf_web_framework))
 
-- [40C3 halfnarp – Submit talk preferences to aid scheduling](https://halfnarp.events.ccc.de/) ([comments](https://news.ycombinator.com/item?id=50396108))
+- [A Maintainer's Advice on Contributing to Open Source in 2026](https://wasp.sh/blog/2026/08/13/advice-for-contributing-in-2026) ([comments](https://lobste.rs/s/5mnquy/maintainer_s_advice_on_contributing_open))
 
-- [Bug Finding Considered Harmful?](https://alperenkeles.com/posts/bug-finding-considered-harmful/) ([comments](https://lobste.rs/s/8qalfk/bug_finding_considered_harmful))
+## Culture, Society & Mobility
+
+- [Vibrating Mattress Helps Clear Alzheimer's Protein From the Brain](https://science.slashdot.org/story/26/11/07/0216257/vibrating-mattress-helps-clear-alzheimers-protein-from-the-brain)
+
+- [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph) ([comments](https://news.ycombinator.com/item?id=50403097))
+
+- [EU Says TikTok's 'Rabbit Hole' Effect Must Stop](https://tech.slashdot.org/story/26/11/06/2210231/eu-says-tiktoks-rabbit-hole-effect-must-stop)
+
+- [Chef Sacked Over Pineapple on Pizza](https://soylentnews.org/article.pl?sid=26%2F11%2F06%2F0114225)
+
+- [Britain's Driverless Dream Hits A Roundabout Of Awkward Questions](https://soylentnews.org/article.pl?sid=26%2F11%2F06%2F0112251)
+
+- [Activists Breach Microsoft Data Center Construction Site As Protests Spread In Europe](https://news.slashdot.org/story/26/11/06/211208/activists-breach-microsoft-data-center-construction-site-as-protests-spread-in-europe)
+
+- [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/) ([comments](https://news.ycombinator.com/item?id=50403052))
+
+- [Developer Pulls Roku's Popular Fish Tank Screensaver Following Fox Sale](https://tech.slashdot.org/story/26/11/06/2051253/developer-pulls-rokus-popular-fish-tank-screensaver-following-fox-sale)
+
+- [Midterms Impact (Big Tech and Others)](https://soylentnews.org/politics/article.pl?sid=26%2F11%2F05%2F1724200)
+
+- [Tesla to Wind Down Cybertruck Production](https://tech.slashdot.org/story/26/11/06/1736259/tesla-to-wind-down-cybertruck-production)
+
+- [North Korean Fake Job Interview Led To $6.3B Binance Heist](https://soylentnews.org/article.pl?sid=26%2F11%2F04%2F100243)
+
+- [Google has acquired Crusoe's data center site in southeast Wyoming](https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update) ([comments](https://news.ycombinator.com/item?id=50397711))
