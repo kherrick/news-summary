@@ -2,17 +2,27 @@
 
 ## AI & Technology
 
-- [M John Harrison becomes first science fiction author to win the Booker prize](https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize) ([comments](https://news.ycombinator.com/item?id=50437242))
+- [AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/) ([comments](https://news.ycombinator.com/item?id=50438318))
 
 - [The New York Times Doesn’t Understand AI’s Role in Suppressing Wages](https://soylentnews.org/article.pl?sid=26%2F11%2F08%2F1024223)
 
+- [Anthropic Launches New Claude Fable and Mythos 5.2 Models](https://slashdot.org/story/26/11/09/2018231/anthropic-launches-new-claude-fable-and-mythos-52-models)
+
 - [Google Unveils Two New Specialized AI Chips to Widen Its Challenge to Nvidia](https://tech.slashdot.org/story/26/11/09/1721229/google-unveils-two-new-specialized-ai-chips-to-widen-its-challenge-to-nvidia)
 
-- [Bank of England Pours Cold Water on AI Productivity Boom](https://soylentnews.org/article.pl?sid=26%2F11%2F07%2F0839225)
+## Privacy, Security & Regulation
 
-- [TPU 8tx and TPU 8i Max](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/) ([comments](https://news.ycombinator.com/item?id=50432831))
+- [What Constant Surveillance Is Doing to Children](https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/) ([comments](https://news.ycombinator.com/item?id=50438480))
 
-- [Anthropic Launches New Claude Fable and Mythos 5.2 Models](https://slashdot.org/story/26/11/09/2018231/anthropic-launches-new-claude-fable-and-mythos-52-models)
+- [Queens Public library under ransomware attack e-borrowing suspended](https://connect.queenslibrary.org/) ([comments](https://news.ycombinator.com/item?id=50437790))
+
+- [Fireworks AI security breach impacts Notion and their customers](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor) ([comments](https://news.ycombinator.com/item?id=50437106))
+
+- [Scan Your Eyeballs, Think of the Children: How Britain Sells Surveillance as Safety](https://soylentnews.org/article.pl?sid=26%2F11%2F08%2F0456241)
+
+- [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/) ([comments](https://lobste.rs/s/s1tppi/pypi_s_redesigned_project_pages_with))
+
+- [Microsoft are rejecting your mail](https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/) ([comments](https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail))
 
 ## Hardware & Computing
 
@@ -20,42 +30,48 @@
 
 - [Microsoft Took 31 Years to Let You Kill Windows 11's Sticky Keys Popup](https://build.slashdot.org/story/26/11/09/2224257/microsoft-took-31-years-to-let-you-kill-windows-11s-sticky-keys-popup)
 
-- [Your TV can see through walls](https://maurycyz.com/projects/fading/) ([comments](https://news.ycombinator.com/item?id=50436410))
-
 - [Docker has always used microVMs (well, since 2016)](https://dave.recoil.org/docker-has-always-used-microvms/) ([comments](https://lobste.rs/s/drozos/docker_has_always_used_microvms_well))
 
 - [Reverse engineering a vintage diode-transistor logic chip](http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html) ([comments](https://lobste.rs/s/jqvofw/reverse_engineering_vintage_diode))
 
-## Privacy, Security & Regulation
+- [Commerce Dept. Chip Inquiry Was Halted After Nvidia Intervention](https://tech.slashdot.org/story/26/11/09/1758238/commerce-dept-chip-inquiry-was-halted-after-nvidia-intervention)
 
-- [The White House Is Apparently A Popular Residential Proxy Exit Spot](https://soylentnews.org/article.pl?sid=26%2F11%2F08%2F1030236)
+## Space & Science
 
-- [The race to secure record-like information for domains](https://alexsci.com/blog/the-race-to-secure-record-like-information-for-domains/) ([comments](https://lobste.rs/s/vqtg9b/race_secure_record_like_information_for))
+- [FDA Warns GLP-1s May Increase Risk of Sudden Blindness](https://science.slashdot.org/story/26/11/09/231215/fda-warns-glp-1s-may-increase-risk-of-sudden-blindness)
 
-- [Meet \*Sshole, The Vulnerability That Lets Hackers SSH Into Linux Devices](https://soylentnews.org/article.pl?sid=26%2F11%2F08%2F052205)
+- [Blue Origin Says It Is Building A Higher-Performing Rocket Engine At 1/4 The Cost](https://soylentnews.org/article.pl?sid=26%2F11%2F08%2F0458253)
 
-- [Scan Your Eyeballs, Think of the Children: How Britain Sells Surveillance as Safety](https://soylentnews.org/article.pl?sid=26%2F11%2F08%2F0456241)
-
-- [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/) ([comments](https://lobste.rs/s/s1tppi/pypi_s_redesigned_project_pages_with))
-
-- [Horible public key tricks](https://maurycyz.com/projects/badcert/) ([comments](https://news.ycombinator.com/item?id=50434264))
-
-- [Microsoft are rejecting your mail](https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/) ([comments](https://lobste.rs/s/ynik5s/microsoft_are_rejecting_your_mail))
+- [Uranium Cubes Reveal Why The German Nuclear Project Failed](https://soylentnews.org/article.pl?sid=26%2F11%2F07%2F1959250)
 
 ## Software Development & Open Source
 
+- [Open Graph images with Astro and Typst](https://eaj.no/posts/open-graph-images-with-typst/) ([comments](https://lobste.rs/s/gj5obq/open_graph_images_with_astro_typst))
+
+- [Debugging Rust in 2026](https://blog.jetbrains.com/rust/2026/11/10/debugging-rust/) ([comments](https://lobste.rs/s/gnx80m/debugging_rust_2026))
+
 - [You should try Gleam](https://nchagnet.eu/blog/you-should-try-gleam) ([comments](https://lobste.rs/s/4yqgpu/you_should_try_gleam))
-
-- [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/) ([comments](https://news.ycombinator.com/item?id=50436640))
-
-- [Immutable Leap To The Future](https://soylentnews.org/article.pl?sid=26%2F11%2F09%2F1117209)
 
 - [Epic Games Comments On Planned Linux Distribution Support](https://games.slashdot.org/story/26/11/09/2154207/epic-games-comments-on-planned-linux-distribution-support)
 
+- [Meet \*Sshole, The Vulnerability That Lets Hackers SSH Into Linux Devices](https://soylentnews.org/article.pl?sid=26%2F11%2F08%2F052205)
+
+- [ClickHouse Acquires Xata](https://xata.io/blog/xata-is-joining-clickhouse) ([comments](https://news.ycombinator.com/item?id=50436706))
+
 - [Formalizing CPython](https://broyojo.com/python-formalization/) ([comments](https://news.ycombinator.com/item?id=50435105))
 
-- [Two apps one process](https://andersmurphy.com/2026/11/09/two-apps-one-process.html) ([comments](https://lobste.rs/s/sifkms/two_apps_one_process))
-
-- [Commerce Dept. Chip Inquiry Was Halted After Nvidia Intervention](https://tech.slashdot.org/story/26/11/09/1758238/commerce-dept-chip-inquiry-was-halted-after-nvidia-intervention)
-
 - [Do You Speak Geek? 5 Tech Terms That Endure, and 5 That Got Defragged](https://soylentnews.org/article.pl?sid=26%2F11%2F07%2F1633256)
+
+- [Locating the source of a mysterious beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/) ([comments](https://news.ycombinator.com/item?id=50434310))
+
+## Culture, Society & Mobility
+
+- [Uber Is Launching Its Own Parking Reservation Service](https://tech.slashdot.org/story/26/11/09/2239245/uber-is-launching-its-own-parking-reservation-service)
+
+- [Boston Dynamics Adds Wheels to Atlas Humanoid](https://hardware.slashdot.org/story/26/11/09/2317206/boston-dynamics-adds-wheels-to-atlas-humanoid)
+
+- [The White House Is Apparently A Popular Residential Proxy Exit Spot](https://soylentnews.org/article.pl?sid=26%2F11%2F08%2F1030236)
+
+- [Your TV can see through walls](https://maurycyz.com/projects/fading/) ([comments](https://news.ycombinator.com/item?id=50436410))
+
+- [Two apps one process](https://andersmurphy.com/2026/11/09/two-apps-one-process.html) ([comments](https://lobste.rs/s/sifkms/two_apps_one_process))
