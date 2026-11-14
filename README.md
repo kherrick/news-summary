@@ -2,15 +2,9 @@
 
 ## AI & Technology
 
-- [Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM](https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/) ([comments](https://news.ycombinator.com/item?id=50497155))
+- [Google DeepMind Just Mathematically Verified Key Parts Of Signal](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F011242)
 
-- [Australian STEM Videogame Challenge Canceled Due To AI](https://news.slashdot.org/story/26/11/14/0417206/australian-stem-videogame-challenge-canceled-due-to-ai)
-
-- [ChatGPT's New Wallet Lets AI Agents Shop For You](https://news.slashdot.org/story/26/11/13/1911210/chatgpts-new-wallet-lets-ai-agents-shop-for-you)
-
-- [Advocacy Groups Sue AI Giants to Freeze New Models, Warning of 'Catastrophic' Risks](https://news.slashdot.org/story/26/11/13/1734203/advocacy-groups-sue-ai-giants-to-freeze-new-models-warning-of-catastrophic-risks)
-
-- [Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8) ([comments](https://news.ycombinator.com/item?id=50491980))
+- [Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax) ([comments](https://news.ycombinator.com/item?id=50497589))
 
 - [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713) ([comments](https://lobste.rs/s/0aungk/little_book_generative_ai_foundations))
 
@@ -18,33 +12,33 @@
 
 ## Privacy, Security & Regulation
 
-- [Ex-Nvidia CEO Misled Company Leaders On Affair With Chinese Businesswoman](https://yro.slashdot.org/story/26/11/14/0211248/ex-nvidia-ceo-misled-company-leaders-on-affair-with-chinese-businesswoman)
+- [Let Me Let You Own Your Data](https://www.willett.io/posts/data/) ([comments](https://lobste.rs/s/fllb0m/let_me_let_you_own_your_data))
 
-- [Italy fines Meta $887M over Android users' data access](https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/) ([comments](https://news.ycombinator.com/item?id=50497009))
+- [EU Floats ‘Most Significant’ Consumer Law Upgrade With Digital Fairness Act](https://soylentnews.org/article.pl?sid=26%2F11%2F13%2F2229237)
 
-- [Tech Companies Are Trying to Shift the Concept of Privacy (Again)](https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again) ([comments](https://news.ycombinator.com/item?id=50496602))
-
-- [Mozilla to Shut Down Solo, Deleting Users' Websites and Data](https://tech.slashdot.org/story/26/11/13/2033218/mozilla-to-shut-down-solo-deleting-users-websites-and-data)
-
-- [Don't bother patching: multiple remote code execution vulnerabilities in Danfoss AK-SM800A](https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a) ([comments](https://lobste.rs/s/rpd05t/don_t_bother_patching_multiple_remote))
-
-## Hardware & Computing
-
-- [Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)](https://github.com/FURSOY/fursoy-cpu) ([comments](https://news.ycombinator.com/item?id=50497137))
+- [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/) ([comments](https://news.ycombinator.com/item?id=50499017))
 
 - [Windows 0-Day Dropped By Disgruntled Researcher Hands Hackers System Rights](https://it.slashdot.org/story/26/11/14/020218/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights)
 
-- [Writing a DSL for high performance parallel programming in OxCaml](https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/) ([comments](https://lobste.rs/s/kh9fri/writing_dsl_for_high_performance))
+- [Don't bother patching: multiple remote code execution vulnerabilities in Danfoss AK-SM800A](https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a) ([comments](https://lobste.rs/s/rpd05t/don_t_bother_patching_multiple_remote))
 
-- [Microsoft's Global Outage May Be Worse Than Amazon's Or Crowdstrike's, Expert Says](https://tech.slashdot.org/story/26/11/13/1936221/microsofts-global-outage-may-be-worse-than-amazons-or-crowdstrikes-expert-says)
+- [US Seizes $1.2 Billion In Crypto Stolen From Binance](https://news.slashdot.org/story/26/11/13/2039242/us-seizes-12-billion-in-crypto-stolen-from-binance)
+
+## Hardware & Computing
+
+- [LinkedIn, Monster take down over 1000 fake job postings after CBC investigation](https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379) ([comments](https://news.ycombinator.com/item?id=50499723))
+
+- [Amazon Expands Drone Deliveries, and Gets Noise Complaints. 'Like a Swarm of Bees'](https://tech.slashdot.org/story/26/11/14/0755210/amazon-expands-drone-deliveries-and-gets-noise-complaints-like-a-swarm-of-bees)
+
+- [Creating a self booting ZIP archive](https://goliath32.com/blog/ziphead.html) ([comments](https://lobste.rs/s/ebahfz/creating_self_booting_zip_archive))
+
+- [Demystifying phone unlocking tools: A technical overview](https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/) ([comments](https://news.ycombinator.com/item?id=50497416))
+
+- [Pointer Provenance in Rust vs C++](https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/) ([comments](https://lobste.rs/s/xmtjzq/pointer_provenance_rust_vs_c))
 
 ## Space & Science
 
 - [NASA Just Made A Bunch Of Moon Base Announcements: Here’s What They Are](https://soylentnews.org/article.pl?sid=26%2F11%2F11%2F1537250)
-
-- [SpaceX Now Fundamentally An \"Infrastructure Company,\" Senior Official Says](https://soylentnews.org/article.pl?sid=26%2F11%2F11%2F177230)
-
-- [SpaceX Falls Short of Historic Double Starship Catch](https://science.slashdot.org/story/26/11/14/0046259/spacex-falls-short-of-historic-double-starship-catch)
 
 - [NASA’s Voyager 1 To Cross Historic One Light-Day Milestone On Nov. 18](https://soylentnews.org/article.pl?sid=26%2F11%2F11%2F1551241)
 
@@ -52,22 +46,16 @@
 
 ## Software Development & Open Source
 
-- [Show HN: Agweb – a browser for agents that stays out of your way](https://github.com/paul-nameless/agweb) ([comments](https://news.ycombinator.com/item?id=50497147))
+- [A reimagined OS with no folders and no apps](https://www.mercuryos.com/) ([comments](https://news.ycombinator.com/item?id=50499712))
 
 - [Solving the fox game](http://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html) ([comments](https://lobste.rs/s/q81fi4/solving_fox_game))
 
-- [goliath32.com - Creating a self booting ZIP archive](https://goliath32.com/blog/ziphead.html) ([comments](https://lobste.rs/s/ebahfz/goliath32_com_creating_self_booting_zip))
+- [US IRS free online tax filing open source repo](https://github.com/IRS-Public/direct-file) ([comments](https://news.ycombinator.com/item?id=50499083))
 
-- [Show HN: A terminal-native idle factory game, written in Rust with ratatui](https://gitlab.com/snipedbywifi/terminactory) ([comments](https://news.ycombinator.com/item?id=50497132))
+- [Linus Torvalds Wonders If Linux's AI-Prompted Patch Flood Has Peaked](https://linux.slashdot.org/story/26/11/14/0827227/linus-torvalds-wonders-if-linuxs-ai-prompted-patch-flood-has-peaked)
 
-- [When is a class a “commodity” and when does it depend on the instructor?](https://statmodeling.stat.columbia.edu/2026/11/13/when-is-a-class-a-commodity-and-when-does-it-depend-on-the-instructor/) ([comments](https://lobste.rs/s/j4sj0c/when_is_class_commodity_when_does_it))
+- [How to Create Your Own Decentralized Messenger Protocol](https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol) ([comments](https://news.ycombinator.com/item?id=50498073))
 
-- [What happened to 3com?](https://dfarq.homeip.net/what-happened-to-3com/) ([comments](https://lobste.rs/s/pgmw6b/what_happened_3com))
+- [Writing a DSL for high performance parallel programming in OxCaml](https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/) ([comments](https://lobste.rs/s/kh9fri/writing_dsl_for_high_performance))
 
-- [30 Years of Internet Transfers With Curl](https://soylentnews.org/article.pl?sid=26%2F11%2F11%2F170249)
-
-- [Advancing science and engineering with Antigravity's /teamwork](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/) ([comments](https://news.ycombinator.com/item?id=50496811))
-
-- [Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/) ([comments](https://news.ycombinator.com/item?id=50493904))
-
-- [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0) ([comments](https://news.ycombinator.com/item?id=50493062))
+- [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/) ([comments](https://news.ycombinator.com/item?id=50497892))
