@@ -2,43 +2,47 @@
 
 ## AI & Technology
 
-- [Jensen Huang might return to Nvidia as CEO](https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/) ([comments](https://news.ycombinator.com/item?id=50511982))
+- [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max) ([comments](https://news.ycombinator.com/item?id=50513215))
 
-- [Siri Glitches Ruin Reviewer's Test of Apple's New 'HomeView' Smart Speaker](https://apple.slashdot.org/story/26/11/15/2151238/siri-glitches-ruin-reviewers-test-of-apples-new-homeview-smart-speaker)
+- [AI-Generated Books Confront Publishing Industry With Big Questions](https://news.slashdot.org/story/26/11/16/0342245/ai-generated-books-confront-publishing-industry-with-big-questions)
 
 - [A Grok Vibe-Coding Agent Leaked Sensitive SpaceXSI Data](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F0729256)
 
 - [How Will AI Affect Open Source Development?](https://news.slashdot.org/story/26/11/15/0615219/how-will-ai-affect-open-source-development)
 
-- [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/) ([comments](https://lobste.rs/s/ek4fkg/all_ai_generated_code_should_be_open))
-
 - [Google DeepMind Just Mathematically Verified Key Parts Of Signal](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F011242)
-
-## Hardware & Computing
-
-- [A datetime library for Rust](https://burntsushi.net/jiff/) ([comments](https://lobste.rs/s/dxxvek/datetime_library_for_rust))
-
-- [clice v1.0 Released: Welcome to Modern C++](https://www.ykiko.me/en/articles/2105384023094834022/) ([comments](https://lobste.rs/s/9haygb/clice_v1_0_released_welcome_modern_c))
-
-- [Memory management in 40 major C projects, a survey](https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html) ([comments](https://lobste.rs/s/vdxevp/memory_management_40_major_c_projects))
-
-- [cursor:pointer on buttons](https://blog.kizu.dev/cursors/) ([comments](https://lobste.rs/s/h8tghc/cursor_pointer_on_buttons))
-
-- [Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/) ([comments](https://news.ycombinator.com/item?id=50509837))
 
 ## Privacy, Security & Regulation
 
-- [Pranksters Redirect Bitly's Links in X Posts for Trump, McDonald's and Burger King](https://slashdot.org/story/26/11/15/2311255/pranksters-redirect-bitlys-links-in-x-posts-for-trump-mcdonalds-and-burger-king)
+- [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/) ([comments](https://news.ycombinator.com/item?id=50513160))
 
-- [Russian Cloud Yandex Says Drone Attacks On Its Datacenters Caused Data Loss](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F1253243)
+- [Coles hit by a cybersecurity incident](https://www.colesgroup.com.au/updates/) ([comments](https://news.ycombinator.com/item?id=50512824))
 
-- [The Hofmann Wobble: Wikipedia and the problem of historical memory](https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/) ([comments](https://news.ycombinator.com/item?id=50511505))
+- [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454) ([comments](https://news.ycombinator.com/item?id=50512441))
 
-- [Old Bitly Links Are Being Hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/) ([comments](https://news.ycombinator.com/item?id=50511395))
+- [Old Bitly links are being hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/) ([comments](https://news.ycombinator.com/item?id=50511395))
 
 - [Italy Fines Meta &euro;805m Over Accessing Android Users' Photos with Facebook App](https://tech.slashdot.org/story/26/11/15/0823213/italy-fines-meta-805m-over-accessing-android-users-photos-with-facebook-app)
 
-- [Bitcoin Plummets 24% in 46 Days as Crypto Falls on Rising Inflation](https://slashdot.org/story/26/11/15/0050236/bitcoin-plummets-24-in-46-days-as-crypto-falls-on-rising-inflation)
+- [EU Floats ‘Most Significant’ Consumer Law Upgrade With Digital Fairness Act](https://soylentnews.org/article.pl?sid=26%2F11%2F13%2F2229237)
+
+## Hardware & Computing
+
+- [C++26 Stumbles at Finish Line Over Contracts Dispute](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F1319214)
+
+- [Nix: Using the eval-profiler](https://nix.dev/manual/nix/2.35/advanced-topics/eval-profiler) ([comments](https://lobste.rs/s/7kt4yi/nix_using_eval_profiler))
+
+- [beer.drv.drv.drv](https://fzakaria.com/2026/11/14/beer-drv-drv-drv) ([comments](https://lobste.rs/s/md0vco/beer_drv_drv_drv))
+
+- [Mini.nvim Is Now on Tangled](https://tangled.org/nvim-mini.org/mini.nvim) ([comments](https://news.ycombinator.com/item?id=50512231))
+
+- [clice v1.0 Released: Welcome to Modern C++](https://www.ykiko.me/en/articles/2105384023094834022/) ([comments](https://lobste.rs/s/9haygb/clice_v1_0_released_welcome_modern_c))
+
+- [Rust Leaves Top 10 in TIOBE Index, Making Room for Go](https://developers.slashdot.org/story/26/11/15/0710240/rust-leaves-top-10-in-tiobe-index-making-room-for-go)
+
+- [Some problems of recursive descent parsers (2009)](https://eli.thegreenplace.net/2009/03/14/some-problems-of-recursive-descent-parsers) ([comments](https://lobste.rs/s/ksmkzy/some_problems_recursive_descent_parsers))
+
+- [Handwriting, as a Font](https://ductus.sorenblank.com/) ([comments](https://news.ycombinator.com/item?id=50509972))
 
 ## Space & Science
 
@@ -48,28 +52,18 @@
 
 - [Anduril Says Its First Satellite Can See Adversaries Maneuver In Orbital Night](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F019226)
 
-- [Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites](https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/) ([comments](https://news.ycombinator.com/item?id=50511072))
-
 - [Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost](https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch) ([comments](https://news.ycombinator.com/item?id=50510442))
 
-- [NASA Just Made A Bunch Of Moon Base Announcements: Here’s What They Are](https://soylentnews.org/article.pl?sid=26%2F11%2F11%2F1537250)
+- [WebGL Flight Simulator with seed generated terrain](https://baron.by.dai.studio/) ([comments](https://news.ycombinator.com/item?id=50510296))
 
 ## Software Development & Open Source
 
-- [This Month in Redox - October 2026](https://www.redox-os.org/news/this-month-261031/) ([comments](https://lobste.rs/s/yervw7/this_month_redox_october_2026))
+- [Paint in the memory of other programs](https://citrons.xyz/journal/2026-04-13) ([comments](https://lobste.rs/s/thiekk/paint_memory_other_programs))
 
-- [GTA 6's Upcoming Launch Celebrated by Wendy's, YouTube, the City of Miami, and 20% of America's Workforce](https://games.slashdot.org/story/26/11/15/1628242/gta-6s-upcoming-launch-celebrated-by-wendys-youtube-the-city-of-miami-and-20-of-americas-workforce)
+- [Designing nextest's install scripts](https://sunshowers.io/posts/nextest-install-scripts/) ([comments](https://lobste.rs/s/tbpfcn/designing_nextest_s_install_scripts))
 
-- [Blog: Preventing Cross-Service UDP Loops in QUIC](https://bughunters.google.com/blog/preventing-cross-service-udp-loops-in-quic) ([comments](https://lobste.rs/s/om6v89/blog_preventing_cross_service_udp_loops))
+- [A datetime library for Rust](https://burntsushi.net/jiff/) ([comments](https://lobste.rs/s/dxxvek/datetime_library_for_rust))
 
 - [Rust Declarative Macros: Organization, Scoping, and Common Use-Cases](https://sigseis.dev/articles/2026/11/10) ([comments](https://lobste.rs/s/snorgi/rust_declarative_macros_organization))
 
-- [Rust Leaves Top 10 in TIOBE Index, Making Room for Go](https://developers.slashdot.org/story/26/11/15/0710240/rust-leaves-top-10-in-tiobe-index-making-room-for-go)
-
-- [Some problems of recursive descent parsers (2009)](https://eli.thegreenplace.net/2009/03/14/some-problems-of-recursive-descent-parsers) ([comments](https://lobste.rs/s/ksmkzy/some_problems_recursive_descent_parsers))
-
-- [Did Alice Huang's Megaspeed Bypass America's Controls on Exporting Nvidia Chip to China?](https://hardware.slashdot.org/story/26/11/15/0510225/did-alice-huangs-megaspeed-bypass-americas-controls-on-exporting-nvidia-chip-to-china)
-
-- [A NES emulator written in Odin](https://lucypero.com/lucynes.html) ([comments](https://lobste.rs/s/dtjgmc/nes_emulator_written_odin))
-
-- [EU Floats ‘Most Significant’ Consumer Law Upgrade With Digital Fairness Act](https://soylentnews.org/article.pl?sid=26%2F11%2F13%2F2229237)
+- [US Bit Barn Boom Sees Energy Needs Grow 10X as Fast as Grid Capacity](https://soylentnews.org/article.pl?sid=26%2F11%2F13%2F2233231)
