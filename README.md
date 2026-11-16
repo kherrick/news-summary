@@ -1,77 +1,75 @@
 # [News Summary](https://kherrick.github.io/news-summary/)
 
-## Software Development & Open Source
-
-- [Eclipse Mosquitto – An open source MQTT broker](https://github.com/eclipse-mosquitto/mosquitto) ([comments](https://news.ycombinator.com/item?id=50509416))
-
-- [Rust Declarative Macros: Organization, Scoping, and Common Use-Cases](https://sigseis.dev/articles/2026/11/10) ([comments](https://lobste.rs/s/snorgi/rust_declarative_macros_organization))
-
-- [Some problems of recursive descent parsers](https://eli.thegreenplace.net/2009/03/14/some-problems-of-recursive-descent-parsers) ([comments](https://lobste.rs/s/ksmkzy/some_problems_recursive_descent_parsers))
-
-- [Clice v1.0 Released: Welcome to Modern C++](https://ykiko.me/en/articles/2105384023094834022/) ([comments](https://news.ycombinator.com/item?id=50508715))
-
-- [Rust Leaves Top 10 in TIOBE Index, Making Room for Go](https://developers.slashdot.org/story/26/11/15/0710240/rust-leaves-top-10-in-tiobe-index-making-room-for-go)
-
-- [Memory management in 40 major C projects, a survey](https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html) ([comments](https://lobste.rs/s/vdxevp/memory_management_40_major_c_projects))
-
-- [A NES emulator written in Odin](https://lucypero.com/lucynes.html) ([comments](https://lobste.rs/s/dtjgmc/nes_emulator_written_odin))
-
-- [Anthropomorphic Software](https://aspiz.uk/wiki/AnthropomorphicSoftware) ([comments](https://lobste.rs/s/ofic7z/anthropomorphic_software))
-
-- [Periodic-Oriented Programming for FIRST Robotics](https://bvisness.me/periodic-oriented-programming/) ([comments](https://lobste.rs/s/bwjt1b/periodic_oriented_programming_for_first))
-
-- [Manjaro Linux Moves Toward Independent Community Governance](https://linux.slashdot.org/story/26/11/14/2236207/manjaro-linux-moves-toward-independent-community-governance)
-
 ## AI & Technology
+
+- [Jensen Huang might return to Nvidia as CEO](https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/) ([comments](https://news.ycombinator.com/item?id=50511982))
+
+- [Siri Glitches Ruin Reviewer's Test of Apple's New 'HomeView' Smart Speaker](https://apple.slashdot.org/story/26/11/15/2151238/siri-glitches-ruin-reviewers-test-of-apples-new-homeview-smart-speaker)
 
 - [A Grok Vibe-Coding Agent Leaked Sensitive SpaceXSI Data](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F0729256)
 
-- [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/) ([comments](https://lobste.rs/s/ek4fkg/all_ai_generated_code_should_be_open))
-
 - [How Will AI Affect Open Source Development?](https://news.slashdot.org/story/26/11/15/0615219/how-will-ai-affect-open-source-development)
 
-- [Understanding Positional Embeddings in Modern LLMs](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings) ([comments](https://news.ycombinator.com/item?id=50506376))
+- [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/) ([comments](https://lobste.rs/s/ek4fkg/all_ai_generated_code_should_be_open))
 
-- [EFF Criticizes US Government's Use of AI For Evaluating Senior Health Insurance Requests](https://yro.slashdot.org/story/26/11/14/0641233/eff-criticizes-us-governments-use-of-ai-for-evaluating-senior-health-insurance-requests)
+- [Google DeepMind Just Mathematically Verified Key Parts Of Signal](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F011242)
 
 ## Hardware & Computing
 
-- [Huawei Set To Challenge Tesla Powerwall with New, 20 kW Home Battery](https://hardware.slashdot.org/story/26/11/15/1028237/huawei-set-to-challenge-tesla-powerwall-with-new-20-kw-home-battery)
+- [A datetime library for Rust](https://burntsushi.net/jiff/) ([comments](https://lobste.rs/s/dxxvek/datetime_library_for_rust))
 
-- [NASA Asks Earthlings To Wave As Voyager 1 Reaches A Light-Day Away](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F0112237)
+- [clice v1.0 Released: Welcome to Modern C++](https://www.ykiko.me/en/articles/2105384023094834022/) ([comments](https://lobste.rs/s/9haygb/clice_v1_0_released_welcome_modern_c))
+
+- [Memory management in 40 major C projects, a survey](https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html) ([comments](https://lobste.rs/s/vdxevp/memory_management_40_major_c_projects))
 
 - [cursor:pointer on buttons](https://blog.kizu.dev/cursors/) ([comments](https://lobste.rs/s/h8tghc/cursor_pointer_on_buttons))
 
-- [The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/) ([comments](https://news.ycombinator.com/item?id=50506719))
+- [Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/) ([comments](https://news.ycombinator.com/item?id=50509837))
 
 ## Privacy, Security & Regulation
 
+- [Pranksters Redirect Bitly's Links in X Posts for Trump, McDonald's and Burger King](https://slashdot.org/story/26/11/15/2311255/pranksters-redirect-bitlys-links-in-x-posts-for-trump-mcdonalds-and-burger-king)
+
 - [Russian Cloud Yandex Says Drone Attacks On Its Datacenters Caused Data Loss](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F1253243)
 
-- [Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests](https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html) ([comments](https://news.ycombinator.com/item?id=50509411))
+- [The Hofmann Wobble: Wikipedia and the problem of historical memory](https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/) ([comments](https://news.ycombinator.com/item?id=50511505))
 
-- [Bill Gates Has Earned Billions Investing in Climate-Polluting Landfills, Reports ProPublica](https://news.slashdot.org/story/26/11/15/0957227/bill-gates-has-earned-billions-investing-in-climate-polluting-landfills-reports-propublica)
+- [Old Bitly Links Are Being Hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/) ([comments](https://news.ycombinator.com/item?id=50511395))
 
 - [Italy Fines Meta &euro;805m Over Accessing Android Users' Photos with Facebook App](https://tech.slashdot.org/story/26/11/15/0823213/italy-fines-meta-805m-over-accessing-android-users-photos-with-facebook-app)
 
-- [EU Floats ‘Most Significant’ Consumer Law Upgrade With Digital Fairness Act](https://soylentnews.org/article.pl?sid=26%2F11%2F13%2F2229237)
+- [Bitcoin Plummets 24% in 46 Days as Crypto Falls on Rising Inflation](https://slashdot.org/story/26/11/15/0050236/bitcoin-plummets-24-in-46-days-as-crypto-falls-on-rising-inflation)
 
-- [Disk encryption on NetBSD achieving secrecy](https://netbsd.org/~nia/disk-encrypt/) ([comments](https://lobste.rs/s/6ovrdg/disk_encryption_on_netbsd_achieving))
+## Space & Science
 
-- [Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business](https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html) ([comments](https://news.ycombinator.com/item?id=50506180))
+- [NASA's Secret Weapon in the Lunar Space Race May be ... Procurement Reform?](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F135250)
 
-## Culture, Society & Mobility
+- [NASA Asks Earthlings To Wave As Voyager 1 Reaches A Light-Day Away](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F0112237)
+
+- [Anduril Says Its First Satellite Can See Adversaries Maneuver In Orbital Night](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F019226)
+
+- [Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites](https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/) ([comments](https://news.ycombinator.com/item?id=50511072))
+
+- [Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost](https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch) ([comments](https://news.ycombinator.com/item?id=50510442))
+
+- [NASA Just Made A Bunch Of Moon Base Announcements: Here’s What They Are](https://soylentnews.org/article.pl?sid=26%2F11%2F11%2F1537250)
+
+## Software Development & Open Source
+
+- [This Month in Redox - October 2026](https://www.redox-os.org/news/this-month-261031/) ([comments](https://lobste.rs/s/yervw7/this_month_redox_october_2026))
 
 - [GTA 6's Upcoming Launch Celebrated by Wendy's, YouTube, the City of Miami, and 20% of America's Workforce](https://games.slashdot.org/story/26/11/15/1628242/gta-6s-upcoming-launch-celebrated-by-wendys-youtube-the-city-of-miami-and-20-of-americas-workforce)
 
-- ['Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can](https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html) ([comments](https://news.ycombinator.com/item?id=50509023))
+- [Blog: Preventing Cross-Service UDP Loops in QUIC](https://bughunters.google.com/blog/preventing-cross-service-udp-loops-in-quic) ([comments](https://lobste.rs/s/om6v89/blog_preventing_cross_service_udp_loops))
 
-- [London Hotel Put Admin Login for Booking Website on Whiteboard Behind the Front Desk](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F1312230)
+- [Rust Declarative Macros: Organization, Scoping, and Common Use-Cases](https://sigseis.dev/articles/2026/11/10) ([comments](https://lobste.rs/s/snorgi/rust_declarative_macros_organization))
 
-- [50th Anniversary of 'Star Wars' Celebrated with iMax 70mm Re-Release, Special Events, New Movie](https://entertainment.slashdot.org/story/26/11/15/034240/50th-anniversary-of-star-wars-celebrated-with-imax-70mm-re-release-special-events-new-movie)
+- [Rust Leaves Top 10 in TIOBE Index, Making Room for Go](https://developers.slashdot.org/story/26/11/15/0710240/rust-leaves-top-10-in-tiobe-index-making-room-for-go)
 
-- [US Bit Barn Boom Sees Energy Needs Grow 10X as Fast as Grid Capacity](https://soylentnews.org/article.pl?sid=26%2F11%2F13%2F2233231)
+- [Some problems of recursive descent parsers (2009)](https://eli.thegreenplace.net/2009/03/14/some-problems-of-recursive-descent-parsers) ([comments](https://lobste.rs/s/ksmkzy/some_problems_recursive_descent_parsers))
 
-- [America Officially Loses Its Measles-elimination Status After Continued Spread of the Disease](https://yro.slashdot.org/story/26/11/14/2325219/america-officially-loses-its-measles-elimination-status-after-continued-spread-of-the-disease)
+- [Did Alice Huang's Megaspeed Bypass America's Controls on Exporting Nvidia Chip to China?](https://hardware.slashdot.org/story/26/11/15/0510225/did-alice-huangs-megaspeed-bypass-americas-controls-on-exporting-nvidia-chip-to-china)
 
-- [NASA Just Made A Bunch Of Moon Base Announcements: Here’s What They Are](https://soylentnews.org/article.pl?sid=26%2F11%2F11%2F1537250)
+- [A NES emulator written in Odin](https://lucypero.com/lucynes.html) ([comments](https://lobste.rs/s/dtjgmc/nes_emulator_written_odin))
+
+- [EU Floats ‘Most Significant’ Consumer Law Upgrade With Digital Fairness Act](https://soylentnews.org/article.pl?sid=26%2F11%2F13%2F2229237)
