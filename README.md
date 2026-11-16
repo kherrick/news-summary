@@ -2,64 +2,60 @@
 
 ## AI & Technology
 
-- [Doing Show HN generates a ton of automated email pitches](https://petervandijck.com/post/pbrgs-ev0bc) ([comments](https://news.ycombinator.com/item?id=50516232))
+- [ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet/) ([comments](https://news.ycombinator.com/item?id=50518501))
+
+- [AI-Assisted Coders Run Windows on iPhone Duo, Build a Floppy Disk-Based AI Chatbot for MS-DOS](https://tech.slashdot.org/story/26/11/16/0848255/ai-assisted-coders-run-windows-on-iphone-duo-build-a-floppy-disk-based-ai-chatbot-for-ms-dos)
 
 - [AI-Generated Books Confront Publishing Industry With Big Questions](https://news.slashdot.org/story/26/11/16/0342245/ai-generated-books-confront-publishing-industry-with-big-questions)
 
-- [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max) ([comments](https://news.ycombinator.com/item?id=50513215))
-
 - [A Grok Vibe-Coding Agent Leaked Sensitive SpaceXSI Data](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F0729256)
 
-- [Google DeepMind Just Mathematically Verified Key Parts Of Signal](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F011242)
+- [Interpreting claims that a theorem is correct because it was checked in Lean](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/) ([comments](https://news.ycombinator.com/item?id=50515058))
+
+- [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max) ([comments](https://news.ycombinator.com/item?id=50513215))
 
 ## Privacy, Security & Regulation
 
-- [It's always DNS, so why are we running our own?](https://s2.dev/blog/dns-server) ([comments](https://news.ycombinator.com/item?id=50515616))
+- [Some Places Have Already Banned AI Glasses, And The List Just Keeps Growing](https://soylentnews.org/article.pl?sid=26%2F11%2F15%2F2155211)
 
-- [Russian Cloud Yandex Says Drone Attacks On Its Datacenters Caused Data Loss](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F1253243)
+- [Whistleblower accuses Pentagon over Iran strike on US base that killed 6](https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint) ([comments](https://news.ycombinator.com/item?id=50517838))
 
-- [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/) ([comments](https://lobste.rs/s/x0ykkw/universal_xss_ublock_origin_from_website))
+- [NoisyTCP](https://www.openwall.com/lists/oss-security/2026/11/15/2) ([comments](https://lobste.rs/s/uegnml/noisytcp))
 
 - [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454) ([comments](https://news.ycombinator.com/item?id=50512441))
 
 ## Hardware & Computing
 
-- [The World's Strongest Sokoban Solver](https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver) ([comments](https://lobste.rs/s/mem8nr/world_s_strongest_sokoban_solver))
+- [Enabling the parallel frontend on nightly](https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/) ([comments](https://lobste.rs/s/8eivbk/enabling_parallel_frontend_on_nightly))
+
+- [Local Mirror for FreeBSD pkgbase](https://blog.feld.me/posts/2026/11/local-mirror-for-freebsd-pkgbase/) ([comments](https://lobste.rs/s/tebwei/local_mirror_for_freebsd_pkgbase))
+
+- [ULA Vulcan Rocket Failure Destroys 40 Amazon Leo Satellites](https://science.slashdot.org/story/26/11/16/0550239/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites)
+
+- [The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/) ([comments](https://news.ycombinator.com/item?id=50516473))
+
+- [Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME](https://github.com/ages2001/WINUDF) ([comments](https://news.ycombinator.com/item?id=50515182))
+
+- [Siri Glitches Ruin Reviewer's Test of Apple's New 'HomeView' Smart Speaker](https://apple.slashdot.org/story/26/11/15/2151238/siri-glitches-ruin-reviewers-test-of-apples-new-homeview-smart-speaker)
+
+- [Paint in the memory of other programs](https://citrons.xyz/journal/2026-04-13) ([comments](https://lobste.rs/s/thiekk/paint_memory_other_programs))
+
+## Space & Science
+
+- [NASA's Secret Weapon in the Lunar Space Race May be ... Procurement Reform?](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F135250)
+
+- [NASA Asks Earthlings To Wave As Voyager 1 Reaches A Light-Day Away](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F0112237)
+
+- [Anduril Says Its First Satellite Can See Adversaries Maneuver In Orbital Night](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F019226)
+
+## Software Development & Open Source
 
 - [Purism Announces 'Librem 5 v2' Linux Phone with RISC-V SoC](https://mobile.slashdot.org/story/26/11/16/0742226/purism-announces-librem-5-v2-linux-phone-with-risc-v-soc)
 
 - [C++26 Stumbles at Finish Line Over Contracts Dispute](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F1319214)
 
-- [beer.drv.drv.drv](https://fzakaria.com/2026/11/14/beer-drv-drv-drv) ([comments](https://lobste.rs/s/md0vco/beer_drv_drv_drv))
-
-- [Mini.nvim Is Now on Tangled](https://tangled.org/nvim-mini.org/mini.nvim) ([comments](https://news.ycombinator.com/item?id=50512231))
-
-- [This Month in Redox - October 2026](https://www.redox-os.org/news/this-month-261031/) ([comments](https://lobste.rs/s/yervw7/this_month_redox_october_2026))
-
-## Space & Science
-
-- [ULA Vulcan Rocket Failure Destroys 40 Amazon Leo Satellites](https://science.slashdot.org/story/26/11/16/0550239/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites)
-
-- [NASA's Secret Weapon in the Lunar Space Race May be ... Procurement Reform?](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F135250)
-
-- [Scientists Check Their Work and Confirm It With Update on Iconic Black Hole Image](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F0735209)
-
-- [Anduril Says Its First Satellite Can See Adversaries Maneuver In Orbital Night](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F019226)
-
-- [NASA Asks Earthlings To Wave As Voyager 1 Reaches A Light-Day Away](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F0112237)
-
-## Software Development & Open Source
-
-- [Programming a language](https://nrinaudo.github.io/articles/pl.html) ([comments](https://lobste.rs/s/aavjsr/programming_language))
-
-- [“…and the proof is checked in Lean”](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/) ([comments](https://news.ycombinator.com/item?id=50515058))
+- [funkycache: a Python library to cache functions in SQLite](https://alexwlchan.net/2026/funkycache/) ([comments](https://lobste.rs/s/lpqxqi/funkycache_python_library_cache))
 
 - [Migrating from GitHub to Codeberg](https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/) ([comments](https://lobste.rs/s/rhoopo/migrating_from_github_codeberg))
 
-- [Nix: Using the eval-profiler](https://nix.dev/manual/nix/2.35/advanced-topics/eval-profiler) ([comments](https://lobste.rs/s/7kt4yi/nix_using_eval_profiler))
-
-- [Designing nextest's install scripts](https://sunshowers.io/posts/nextest-install-scripts/) ([comments](https://lobste.rs/s/tbpfcn/designing_nextest_s_install_scripts))
-
-- [Rust Leaves Top 10 in TIOBE Index, Making Room for Go](https://developers.slashdot.org/story/26/11/15/0710240/rust-leaves-top-10-in-tiobe-index-making-room-for-go)
-
-- [US Bit Barn Boom Sees Energy Needs Grow 10X as Fast as Grid Capacity](https://soylentnews.org/article.pl?sid=26%2F11%2F13%2F2233231)
+- [Google DeepMind Just Mathematically Verified Key Parts Of Signal](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F011242)
