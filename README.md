@@ -2,53 +2,41 @@
 
 ## AI & Technology
 
-- [How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/) ([comments](https://news.ycombinator.com/item?id=50529612))
+- [A.I. Just Blew Up a Key Tenet of Computer Science](https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html) ([comments](https://news.ycombinator.com/item?id=50532786))
 
 - [California Sues OpenAI Over Hugging Face, Other AI Model Loss of Control](https://yro.slashdot.org/story/26/11/16/2353225/california-sues-openai-over-hugging-face-other-ai-model-loss-of-control)
 
-- [Some Places Have Already Banned AI Glasses, And The List Just Keeps Growing](https://soylentnews.org/article.pl?sid=26%2F11%2F15%2F2155211)
+- [In 27,280 coding agent runs, 64% of inference spend went to runs that failed](https://runta.com/blog/introducing-frontierharness-eval-v1-1/) ([comments](https://news.ycombinator.com/item?id=50532191))
 
-- [Windows 11 is collecting data on which coding agents and developer tools you use](https://xusheng.dev/posts/windows-coding-agent-telemetry/) ([comments](https://news.ycombinator.com/item?id=50524736))
+- [Apple Eyes 2027 Launch For AI-Powered Smart Glasses](https://apple.slashdot.org/story/26/11/16/186242/apple-eyes-2027-launch-for-ai-powered-smart-glasses)
 
-- [A Grok Vibe-Coding Agent Leaked Sensitive SpaceXSI Data](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F0729256)
+- [How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/) ([comments](https://news.ycombinator.com/item?id=50529612))
 
 ## Privacy, Security & Regulation
 
-- ['123456' Has Been the World's Most Popular Password for 7 of the Last 8 Years](https://it.slashdot.org/story/26/11/17/006235/123456-has-been-the-worlds-most-popular-password-for-7-of-the-last-8-years)
+- [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down) ([comments](https://news.ycombinator.com/item?id=50532849))
 
-- [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699) ([comments](https://news.ycombinator.com/item?id=50526560))
-
-- [FBI Says $1.2 Billion Stolen From Binance by North Korea Has Been Recovered](https://soylentnews.org/article.pl?sid=26%2F11%2F15%2F223220)
-
-- [Spamhaus new email sender requirements in November](https://www.spamhaus.org/sender-guidelines/) ([comments](https://news.ycombinator.com/item?id=50523784))
-
-## Hardware & Computing
-
-- [Just 400 US Data Centers Use More Electricity Than Michigan](https://news.slashdot.org/story/26/11/16/2137223/just-400-us-data-centers-use-more-electricity-than-michigan)
-
-- [Why 3dfx 1 cards had such a washed out color output?](https://twitter.com/id_aa_carmack/status/2122478083319992513) ([comments](https://news.ycombinator.com/item?id=50525575))
+- [A US Federal Women's Prison Became a \"Rape Club\"](https://www.propublica.org/article/federal-womens-prison-sexual-abuse-reform-dublin-bop) ([comments](https://news.ycombinator.com/item?id=50532322))
 
 - [JPMorgan Chase Glitch Disrupts Online Banking Across Major US Banks](https://news.slashdot.org/story/26/11/16/2332229/jpmorgan-chase-glitch-disrupts-online-banking-across-major-us-banks)
 
-- [Pixels on a screen](https://whitebeard.blog/posts/pixels-on-a-screen/) ([comments](https://lobste.rs/s/jwjsio/pixels_on_screen))
+- [FBI Says $1.2 Billion Stolen From Binance by North Korea Has Been Recovered](https://soylentnews.org/article.pl?sid=26%2F11%2F15%2F223220)
 
-- [Microsoft Outage Leads To Chlorine Gas Poisoning At German Theme Park](https://tech.slashdot.org/story/26/11/16/201240/microsoft-outage-leads-to-chlorine-gas-poisoning-at-german-theme-park)
+- [Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry](https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html) ([comments](https://lobste.rs/s/qmofba/critical_red_hat_quay_flaw_lets_attackers))
 
-## Software Development & Open Source
+- [Comcast's 'Fiber-Powered Wi-Fi' Is Just Cable, AT&amp;T Says In False Advertising Case](https://yro.slashdot.org/story/26/11/16/2129234/comcasts-fiber-powered-wi-fi-is-just-cable-att-says-in-false-advertising-case)
 
-- [My Emacs 31 contributions](https://xenodium.com/my-emacs-31-contributions) ([comments](https://lobste.rs/s/cezfqe/my_emacs_31_contributions))
+- [FBI Says Artex AI Open-Source Hacking Tool Used to Breach Networks In 'Under Three Hours'](https://it.slashdot.org/story/26/11/16/2025219/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours)
 
-- [Github Redesign (2019)](https://tonsky.me/blog/github-redesign/) ([comments](https://lobste.rs/s/kseyz1/github_redesign_2019))
+- [Loopholes Are for Assholes](https://actsofvolition.com/2026/11/loopholes-are-for-assholes/) ([comments](https://news.ycombinator.com/item?id=50531761))
 
-- [Safe Systems-programming with Mutable Value Semantics | Dave Abrahams](https://www.youtube.com/watch?v=op51SyyPJmw) ([comments](https://lobste.rs/s/jwtvrw/safe_systems_programming_with_mutable))
+## Hardware & Computing
 
-- [How Rust Changed Me As A Developer](https://blog.startifact.com/posts/how-rust-changed-me/) ([comments](https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer))
+- [Samsung, Micron & SK hynix Must Face The Music Over Artificial DRAM Shortage](https://soylentnews.org/article.pl?sid=26%2F11%2F16%2F1654212)
 
-- [BugMeNot has closed](https://www.bugmenot.com/) ([comments](https://news.ycombinator.com/item?id=50523601))
+- [Just 400 US Data Centers Use More Electricity Than Michigan](https://news.slashdot.org/story/26/11/16/2137223/just-400-us-data-centers-use-more-electricity-than-michigan)
 
-- [Where did the ACK go?](https://yashgarg.dev/posts/where-did-the-ack-go/) ([comments](https://lobste.rs/s/n5jtzr/where_did_ack_go))
-
-- [How Rust Changed Me As A Developer](https://blog.startifact.com/posts/how-rust-changed-me/) ([comments](https://lobste.rs/s/s7mejx/how_rust_changed_me_as_developer))
+- [The Greatest Car Stunt Was Also The World’s First Computer-Modeled Stunt](https://soylentnews.org/article.pl?sid=26%2F11%2F15%2F2159207)
 
 ## Space & Science
 
@@ -58,20 +46,22 @@
 
 - [Scientists Check Their Work and Confirm It With Update on Iconic Black Hole Image](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F0735209)
 
-- [Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force](https://news.ycombinator.com/item?id=50522776)
+## Software Development & Open Source
 
-## Culture, Society & Mobility
+- [C’s designated initializers give us named arguments](https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/) ([comments](https://lobste.rs/s/kktn5b/c_s_designated_initializers_give_us_named))
 
-- [The Mind of Money: Mental Accounting Theory Checks Out](https://soylentnews.org/article.pl?sid=26%2F11%2F16%2F161207)
+- [How to Bypass Rust's Orphan Rule](https://edvong.com/bypass-orphan-rule/) ([comments](https://lobste.rs/s/oj87qu/how_bypass_rust_s_orphan_rule))
 
-- [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/) ([comments](https://lobste.rs/s/wifhdc/software_is_breaking_down_at_systemic))
+- [Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off](https://alloyhtml.com/example.html) ([comments](https://news.ycombinator.com/item?id=50532385))
 
-- [Comcast's 'Fiber-Powered Wi-Fi' Is Just Cable, AT&amp;T Says In False Advertising Case](https://yro.slashdot.org/story/26/11/16/2129234/comcasts-fiber-powered-wi-fi-is-just-cable-att-says-in-false-advertising-case)
+- [MySQL Development as it Happens, Part 2 -Vector Indexes](https://blogs.oracle.com/mysql/mysql-development-as-it-happens-part-2-vector-indexes) ([comments](https://lobste.rs/s/kxoqww/mysql_development_as_it_happens_part_2))
 
-- [Apple Eyes 2027 Launch For AI-Powered Smart Glasses](https://apple.slashdot.org/story/26/11/16/186242/apple-eyes-2027-launch-for-ai-powered-smart-glasses)
+- [Actual curl rewrites in rust](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/) ([comments](https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust))
 
-- [Corporations Are Using Trump's Tariff Refunds On Bonuses Rather Than Reimbursing](https://news.slashdot.org/story/26/11/16/1745238/corporations-are-using-trumps-tariff-refunds-on-bonuses-rather-than-reimbursing)
+- [We don't need more apps. We need better open source](https://jordankrueger.com/blog/better-open-source-not-more-apps/) ([comments](https://news.ycombinator.com/item?id=50532086))
 
-- [Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case](https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/) ([comments](https://news.ycombinator.com/item?id=50523025))
+- [My Emacs 31 contributions](https://xenodium.com/my-emacs-31-contributions) ([comments](https://lobste.rs/s/cezfqe/my_emacs_31_contributions))
 
-- [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/) ([comments](https://news.ycombinator.com/item?id=50522980))
+- [C++26 Stumbles at Finish Line Over Contracts Dispute](https://soylentnews.org/article.pl?sid=26%2F11%2F14%2F1319214)
+
+- [Github Redesign (2019)](https://tonsky.me/blog/github-redesign/) ([comments](https://lobste.rs/s/kseyz1/github_redesign_2019))
