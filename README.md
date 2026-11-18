@@ -2,66 +2,62 @@
 
 ## AI & Technology
 
-- [Building a reliable LLM investigation pipeline in Go with spooler.sh](https://sergey.kamardin.org/articles/incident-pipelines-with-spooler/) ([comments](https://lobste.rs/s/itpjkx/building_reliable_llm_investigation))
+- [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/) ([comments](https://news.ycombinator.com/item?id=50550415))
 
-- [The Latest FreeBSD Report is Here, and the AI Debate is Ongoing](https://soylentnews.org/article.pl?sid=26%2F11%2F17%2F0347206)
+- [Jensen Huang's Fall Hits 'Open' Models In Boost to Anthropic and OpenAI](https://slashdot.org/story/26/11/18/1659257/jensen-huangs-fall-hits-open-models-in-boost-to-anthropic-and-openai)
+
+- [Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models/) ([comments](https://news.ycombinator.com/item?id=50549493))
+
+- [Satya Nadella Says He's AGI-Pilled Now](https://slashdot.org/story/26/11/18/026229/satya-nadella-says-hes-agi-pilled-now)
 
 - [Google To Keep Temporary Gemini Chats For Two Months](https://yro.slashdot.org/story/26/11/17/2246233/google-to-keep-temporary-gemini-chats-for-two-months)
 
-- [Why is Gemini 4 Carbon taking so long?](https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/) ([comments](https://news.ycombinator.com/item?id=50541790))
-
-- [Claude was trained on protein sequences at scale](http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/) ([comments](https://news.ycombinator.com/item?id=50541619))
-
 ## Privacy, Security & Regulation
 
-- [Pre-auth RCE in Nginx HTTP/2 handling](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) ([comments](https://news.ycombinator.com/item?id=50547374))
+- [Stricter checks for uploaded distributions on PyPI](https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/) ([comments](https://lobste.rs/s/kfpoos/stricter_checks_for_uploaded))
 
 - [Trump Admin Loses Fight to Spy on Random Journalists’ LinkedIn DMs](https://soylentnews.org/politics/article.pl?sid=26%2F11%2F17%2F0353203)
 
-- [Optimizely Hack Turns World's Biggest Websites Into Malware Dispensers](https://it.slashdot.org/story/26/11/17/2035243/optimizely-hack-turns-worlds-biggest-websites-into-malware-dispensers)
-
-- [Uber Says Hackers Stole Info On Nearly 150K Driver's Licenses During Data Breach](https://it.slashdot.org/story/26/11/17/0016257/uber-says-hackers-stole-info-on-nearly-150k-drivers-licenses-during-data-breach)
+- [FBI Says $1.2 Billion Stolen From Binance by North Korea Has Been Recovered](https://soylentnews.org/article.pl?sid=26%2F11%2F15%2F223220)
 
 ## Hardware & Computing
 
-- [The x86 CPU: From 4004 to 486](https://pikuma.com/blog/history-of-x86-4004-to-486) ([comments](https://news.ycombinator.com/item?id=50546967))
+- [The Latest FreeBSD Report is Here, and the AI Debate is Ongoing](https://soylentnews.org/article.pl?sid=26%2F11%2F17%2F0347206)
+
+- [IPv6 delegation, an unusually subtle failure mode](https://savyasacheejha.com/posts/why-odhcpd/) ([comments](https://lobste.rs/s/inj0dn/ipv6_delegation_unusually_subtle))
+
+- [CrossPoint Reader](https://crosspointreader.com/) ([comments](https://news.ycombinator.com/item?id=50548991))
 
 - [Samsung, Micron & SK hynix Must Face The Music Over Artificial DRAM Shortage](https://soylentnews.org/article.pl?sid=26%2F11%2F16%2F1654212)
 
-- [LZ-RDO lands in ARM's astc-encoder](https://www.jonolick.com/home/lz-rdo-lands-in-arms-astc-encoder) ([comments](https://lobste.rs/s/tso5wr/lz_rdo_lands_arm_s_astc_encoder))
+- [RFC 2675: IPv6 Jumbograms](https://www.rfc-editor.org/info/rfc2675/) ([comments](https://news.ycombinator.com/item?id=50548214))
+
+- [Nvidia Stopped Disclosing Singapore Sales As Revenues Hit $104 Billion](https://news.slashdot.org/story/26/11/17/1942228/nvidia-stopped-disclosing-singapore-sales-as-revenues-hit-104-billion)
+
+- [Java4Shell is a reason to use Java](https://mccue.dev/pages/11-18-26-java4shell) ([comments](https://lobste.rs/s/a1uff5/java4shell_is_reason_use_java))
 
 ## Space & Science
 
-- [Voyager 1 Reaches One Light-Day From Earth](https://science.slashdot.org/story/26/11/18/0141255/voyager-1-reaches-one-light-day-from-earth)
+- [ULA Vulcan Rocket Failure Destroys 40 Amazon Leo Satellites](https://soylentnews.org/article.pl?sid=26%2F11%2F17%2F048204)
 
-- [Comets Didn't Seed Life on Earth After All, Potentially Overturning a Century-Old Idea](https://soylentnews.org/article.pl?sid=26%2F11%2F16%2F1657250)
+- [Voyager 1 Reaches One Light-Day From Earth](https://science.slashdot.org/story/26/11/18/0141255/voyager-1-reaches-one-light-day-from-earth)
 
 - [ULA Suffers First Outright Failure With Loss of Vulcan Rocket Carrying 40 Amazon Leo Satellites](https://soylentnews.org/article.pl?sid=26%2F11%2F16%2F0422238)
 
 ## Software Development & Open Source
 
-- [Porting ObjFW to Windows 95](https://blog.nil.im/?88) ([comments](https://lobste.rs/s/vlp71v/porting_objfw_windows_95))
+- [The Magic of Partial Evaluation](https://jimmyhmiller.com/magic-of-partial-evaluation) ([comments](https://news.ycombinator.com/item?id=50550096))
 
-- [nginx2root](https://xint.io/blog/nginx2root-remote-code-execution) ([comments](https://lobste.rs/s/wj2svg/nginx2root))
+- [Upcoming Critical PHP Security Release (18 Nov 2026)](https://www.php.net/index.php#2026-11-18-1) ([comments](https://lobste.rs/s/zr0hkw/upcoming_critical_php_security_release))
 
-- [Java4Shell is a reason to use Java](https://mccue.dev/pages/11-18-26-java4shell) ([comments](https://lobste.rs/s/a1uff5/java4shell_is_reason_use_java))
+- [Faster CI with Orchestrated Pytest Workers](https://making.close.com/posts/faster-ci-with-orchestrated-pytest-workers/) ([comments](https://lobste.rs/s/3kdl1p/faster_ci_with_orchestrated_pytest))
 
-- [Codeberg's domain suddenly disappeared from their account, site is unreachable](https://social.anoxinon.de/@Codeberg/117636454915265360) ([comments](https://lobste.rs/s/spmgsd/codeberg_s_domain_suddenly_disappeared))
+- [Launch HN: Maritime (YC F26) – A managed cloud for production AI agents](https://news.ycombinator.com/item?id=50549188)
 
-- [Stacked diffs with Maiao](https://entropicthoughts.com/stacked-diffs-with-maiao) ([comments](https://lobste.rs/s/bjmwt6/stacked_diffs_with_maiao))
+- [Show HN: Mastra Factory, the open-source software factory we use to build Mastra](https://news.ycombinator.com/item?id=50548660)
 
-## Culture, Society & Mobility
+- [Context-Generic Programming (CGP) v0.8.0 - cargo-cgp, new documentation, and namespaces](https://contextgeneric.dev/blog/v0.8.0-release) ([comments](https://lobste.rs/s/lgdtzb/context_generic_programming_cgp_v0_8_0))
 
-- [Datacenters' Share of UK Planning Applications Nearly Triples in Three Years](https://soylentnews.org/article.pl?sid=26%2F11%2F17%2F043227)
+- [Accelerating development for massive Git repositories](https://developers.googleblog.com/en/accelerating-development-for-massive-git-repositories/) ([comments](https://lobste.rs/s/0ajpus/accelerating_development_for_massive))
 
-- [Hacker Pleads Guilty to Leak of Grand Theft Auto VI Footage](https://yro.slashdot.org/story/26/11/18/0154214/hacker-pleads-guilty-to-leak-of-grand-theft-auto-vi-footage)
-
-- [Energy drinks linked to 11 times more reports of cardiac arrest](https://www.sciencedaily.com/releases/2026/11/261110042543.htm) ([comments](https://news.ycombinator.com/item?id=50546465))
-
-- [Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/) ([comments](https://news.ycombinator.com/item?id=50545958))
-
-- [Windows 11 collects data on which coding agents and dev tools you use](https://xusheng.dev/posts/windows-coding-agent-telemetry/) ([comments](https://lobste.rs/s/cwxmdw/windows_11_collects_data_on_which_coding))
-
-- [School Phone Bans Are Gradually Improving Test Scores](https://mobile.slashdot.org/story/26/11/17/1739215/school-phone-bans-are-gradually-improving-test-scores)
-
-- [The Greatest Car Stunt Was Also The World’s First Computer-Modeled Stunt](https://soylentnews.org/article.pl?sid=26%2F11%2F15%2F2159207)
+- [Optimizely Hack Turns World's Biggest Websites Into Malware Dispensers](https://it.slashdot.org/story/26/11/17/2035243/optimizely-hack-turns-worlds-biggest-websites-into-malware-dispensers)
