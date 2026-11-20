@@ -2,52 +2,70 @@
 
 ## AI & Technology
 
+- [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite) ([comments](https://news.ycombinator.com/item?id=50572503))
+
 - [Google: AI Agent Turned A Security Patch Into A Working Exploit With No Human Help](https://soylentnews.org/article.pl?sid=26%2F11%2F18%2F1518215)
 
 - [Catching AI's Mistakes Has a Real Cost](https://soylentnews.org/article.pl?sid=26%2F11%2F17%2F0412200)
 
-- [College Board Delivers Another AI Ultimatum: No AI, No AP CS Principles Course](https://news.slashdot.org/story/26/11/19/0628241/college-board-delivers-another-ai-ultimatum-no-ai-no-ap-cs-principles-course)
+- [Anthropic Tops $2 Trillion Market Cap After IPO Debut](https://slashdot.org/story/26/11/19/1753210/anthropic-tops-2-trillion-market-cap-after-ipo-debut)
+
+- [What Comes After AGI?](https://institute.deepmind.com/essays/what-comes-after-agi/) ([comments](https://news.ycombinator.com/item?id=50569519))
 
 ## Privacy, Security & Regulation
 
-- [JPMorgan, Visa, Mastercard Disclose Cyberattack On Third-Party Vendors](https://it.slashdot.org/story/26/11/19/2112238/jpmorgan-visa-mastercard-disclose-cyberattack-on-third-party-vendors)
+- [Amazon Fights the Delivery Protection Act With Homepage Banner, In-App Pop-Up](https://politics.slashdot.org/story/26/11/20/006220/amazon-fights-the-delivery-protection-act-with-homepage-banner-in-app-pop-up)
+
+- [Iowans Brace For Lead Dust Cloud As Army Plans to Detonate 5 Tons of Bomb-Making Chemicals](https://tech.slashdot.org/story/26/11/19/2353250/iowans-brace-for-lead-dust-cloud-as-army-plans-to-detonate-5-tons-of-bomb-making-chemicals)
+
+- [UK fridges secured from hackers in secret nationwide operation](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o) ([comments](https://news.ycombinator.com/item?id=50572430))
 
 - [NSANet Secure Communications Network Goes Down](https://soylentnews.org/article.pl?sid=26%2F11%2F18%2F1516206)
 
-- [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652) ([comments](https://news.ycombinator.com/item?id=50569226))
+- [PHP Readies Critical Security Updates to Patch Another RCE Flaw](https://developers.slashdot.org/story/26/11/19/2049222/php-readies-critical-security-updates-to-patch-another-rce-flaw)
 
 - [Trump Admin Loses Fight to Spy on Random Journalists’ LinkedIn DMs](https://soylentnews.org/politics/article.pl?sid=26%2F11%2F17%2F0353203)
 
 ## Hardware & Computing
 
-- [The case of the flaky Dynamo export tests](https://dev-discuss.pytorch.org/t/debugging-story-the-case-of-the-flaky-dynamo-export-tests/1124) ([comments](https://lobste.rs/s/dhvuby/case_flaky_dynamo_export_tests))
+- [DreamCoder: coding harness and IDE from the author of Mastering Emacs](https://www.masteringemacs.org/article/announcing-dreamcoder) ([comments](https://lobste.rs/s/ocdhli/dreamcoder_coding_harness_ide_from))
 
 - [Microsoft's 2026 Cloud Outage Exposes the Risks of Centralised Infrastructure](https://soylentnews.org/article.pl?sid=26%2F11%2F18%2F1520239)
 
-- [Nvidia Approaches Arm Boss Rene Haas In Search For New CEO](https://slashdot.org/story/26/11/19/2212215/nvidia-approaches-arm-boss-rene-haas-in-search-for-new-ceo)
+- [Vim Classic 8.3.1 released](https://vim-classic.org/news/vim-8.3.1-released.html) ([comments](https://lobste.rs/s/kkglbw/vim_classic_8_3_1_released))
 
-- [Microsoft Testing Remote Lock For Lost Or Stolen Windows Devices](https://mobile.slashdot.org/story/26/11/19/0058259/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices)
+- [Palo Alto Networks Signs $4.5 Billion Deal For Applied Compute](https://it.slashdot.org/story/26/11/19/1812240/palo-alto-networks-signs-45-billion-deal-for-applied-compute)
 
-## Space & Science
-
-- [Google Signs Deal With Blue Origin to Send Satellite Data Centers Into Orbit](https://science.slashdot.org/story/26/11/20/0010255/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit)
-
-- [ULA Vulcan Rocket Failure Destroys 40 Amazon Leo Satellites](https://soylentnews.org/article.pl?sid=26%2F11%2F17%2F048204)
-
-- [Powering the Space Elevator](https://soylentnews.org/article.pl?sid=26%2F11%2F18%2F1513217)
-
-## Software Development & Open Source
-
-- [Persistent incrementality in Rust](https://rust-glancer.github.io/blog/persistent-incrementality-in-rust/) ([comments](https://lobste.rs/s/9bvpac/persistent_incrementality_rust))
-
-- [FFmpeg 9.1 'Gauss'](https://ffmpeg.org/download.html#release_9.1) ([comments](https://news.ycombinator.com/item?id=50569998))
+- [PostgreSQL 19](https://www.postgresql.org/docs/release/19.0/) ([comments](https://news.ycombinator.com/item?id=50569890))
 
 - [Farcall, a terminal-ready Rust PC+DOS emulator](https://www.dialup.net/farcall/) ([comments](https://lobste.rs/s/lq9xuw/farcall_terminal_ready_rust_pc_dos))
 
-- [PHP Readies Critical Security Updates to Patch Another RCE Flaw](https://developers.slashdot.org/story/26/11/19/2049222/php-readies-critical-security-updates-to-patch-another-rce-flaw)
+## Space & Science
 
-- [Visualizing a Ledger with pgledger-ui](https://www.pgrs.net/2026/11/19/visualizing-a-ledger-with-pgledger-ui/) ([comments](https://lobste.rs/s/gftix3/visualizing_ledger_with_pgledger_ui))
+- [Yet Another Satellite Company is Jockeying for a Rocket—but This One Makes Sense](https://soylentnews.org/article.pl?sid=26%2F11%2F20%2F0257234)
 
-- [Supporting FOSS projects to transition to memory safe tech](https://tweedegolf.nl/en/blog/243/supporting-foss-projects-to-transition-to-memory-safe-tech/) ([comments](https://lobste.rs/s/naiy6x/supporting_foss_projects_transition))
+- [Google Signs Deal With Blue Origin to Send Satellite Data Centers Into Orbit](https://science.slashdot.org/story/26/11/20/0010255/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit)
 
-- [Postgres 19 is out, and it's available on Neon and Databricks Lakebase](https://www.databricks.com/blog/postgresql-19-available-lakebase) ([comments](https://news.ycombinator.com/item?id=50568643))
+- [Powering the Space Elevator](https://soylentnews.org/article.pl?sid=26%2F11%2F18%2F1513217)
+
+- [ULA Vulcan Rocket Failure Destroys 40 Amazon Leo Satellites](https://soylentnews.org/article.pl?sid=26%2F11%2F17%2F048204)
+
+## Software Development & Open Source
+
+- [Lisp Game Jam devlog: Polydraw](https://spritely.institute/news/lisp-game-jam-devlog-polydraw.html) ([comments](https://lobste.rs/s/irqtic/lisp_game_jam_devlog_polydraw))
+
+- [What people are building, discovered through new domains](https://startups.novumsignals.com/) ([comments](https://news.ycombinator.com/item?id=50572448))
+
+- [Removing binder.c](https://lwn.net/Articles/1102982/) ([comments](https://lobste.rs/s/vo5jve/removing_binder_c))
+
+- [If you can't explain something in simple terms, you don't understand it (2017)](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it) ([comments](https://news.ycombinator.com/item?id=50572355))
+
+- [Popular TikTok Docs Have Big Influence on Gen Z Followers](https://soylentnews.org/article.pl?sid=26%2F11%2F18%2F1510211)
+
+- [Announcing jj-musubi: live sync for Jujutsu](https://www.serpentine.com/posts/2026/announcing-jj-musubi/) ([comments](https://lobste.rs/s/tj1j4b/announcing_jj_musubi_live_sync_for))
+
+- [Google Will Launch Android App Verification Requirement Globally In January 2027](https://tech.slashdot.org/story/26/11/19/1940232/google-will-launch-android-app-verification-requirement-globally-in-january-2027)
+
+- [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/) ([comments](https://news.ycombinator.com/item?id=50570628))
+
+- [Persistent incrementality in Rust](https://rust-glancer.github.io/blog/persistent-incrementality-in-rust/) ([comments](https://lobste.rs/s/9bvpac/persistent_incrementality_rust))
