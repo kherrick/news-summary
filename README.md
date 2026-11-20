@@ -2,35 +2,37 @@
 
 ## AI & Technology
 
-- [Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off) ([comments](https://news.ycombinator.com/item?id=50574383))
+- [Google Is Putting AI Chats Right On the Homepage](https://tech.slashdot.org/story/26/11/20/0138234/google-is-putting-ai-chats-right-on-the-homepage)
 
 - [Google: AI Agent Turned A Security Patch Into A Working Exploit With No Human Help](https://soylentnews.org/article.pl?sid=26%2F11%2F18%2F1518215)
 
 - [Catching AI's Mistakes Has a Real Cost](https://soylentnews.org/article.pl?sid=26%2F11%2F17%2F0412200)
 
+- [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885) ([comments](https://news.ycombinator.com/item?id=50577265))
+
 ## Privacy, Security & Regulation
 
-- [UK Government Forced To Disclose Secret Apple Backdoor Order](https://yro.slashdot.org/story/26/11/20/0129229/uk-government-forced-to-disclose-secret-apple-backdoor-order)
+- [GrapheneOS claims Google is now waging war against it, could lock Pixel bootload](https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/) ([comments](https://news.ycombinator.com/item?id=50580385))
 
-- [Amazon Fights the Delivery Protection Act With Homepage Banner, In-App Pop-Up](https://politics.slashdot.org/story/26/11/20/006220/amazon-fights-the-delivery-protection-act-with-homepage-banner-in-app-pop-up)
-
-- [NSANet Secure Communications Network Goes Down](https://soylentnews.org/article.pl?sid=26%2F11%2F18%2F1516206)
-
-- [UK fridges secured from hackers](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o) ([comments](https://news.ycombinator.com/item?id=50572430))
+- [White House Replaces Cyber Director After Tech Outages](https://yro.slashdot.org/story/26/11/20/1739245/white-house-replaces-cyber-director-after-tech-outages)
 
 - [JPMorgan, Visa, Mastercard Disclose Cyberattack On Third-Party Vendors](https://it.slashdot.org/story/26/11/19/2112238/jpmorgan-visa-mastercard-disclose-cyberattack-on-third-party-vendors)
 
-- [Signal Is Serious About Protecting Your Privacy](https://signal.org/blog/protecting-your-privacy/) ([comments](https://news.ycombinator.com/item?id=50572348))
+- [PHP Readies Critical Security Updates to Patch Another RCE Flaw](https://developers.slashdot.org/story/26/11/19/2049222/php-readies-critical-security-updates-to-patch-another-rce-flaw)
 
 ## Hardware & Computing
 
-- [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite) ([comments](https://news.ycombinator.com/item?id=50572503))
+- [California Issues Subpoena to Nvidia Over Chip Sales to China](https://yro.slashdot.org/story/26/11/20/1755250/california-issues-subpoena-to-nvidia-over-chip-sales-to-china)
+
+- [GPU Giants Throw HPC Users Some Tasty Crumbs](https://soylentnews.org/article.pl?sid=26%2F11%2F20%2F035234)
+
+- [Vibecoding an Inference Chip](https://ankitg.me/blog/vibecoding-inference-chip/) ([comments](https://news.ycombinator.com/item?id=50579297))
 
 - [Microsoft's 2026 Cloud Outage Exposes the Risks of Centralised Infrastructure](https://soylentnews.org/article.pl?sid=26%2F11%2F18%2F1520239)
 
-- [Palo Alto Networks Signs $4.5 Billion Deal For Applied Compute](https://it.slashdot.org/story/26/11/19/1812240/palo-alto-networks-signs-45-billion-deal-for-applied-compute)
+- [NSANet Secure Communications Network Goes Down](https://soylentnews.org/article.pl?sid=26%2F11%2F18%2F1516206)
 
-- [FFmpeg 9.1 'Gauss'](https://ffmpeg.org/download.html#release_9.1) ([comments](https://news.ycombinator.com/item?id=50569998))
+- [PostgreSQL 19: A hands-on tour with runnable browser examples](https://certuvia.com/blog/postgres-19) ([comments](https://news.ycombinator.com/item?id=50578117))
 
 ## Space & Science
 
@@ -40,30 +42,34 @@
 
 - [ULA Vulcan Rocket Failure Destroys 40 Amazon Leo Satellites](https://soylentnews.org/article.pl?sid=26%2F11%2F17%2F048204)
 
-- [Powering the Space Elevator](https://soylentnews.org/article.pl?sid=26%2F11%2F18%2F1513217)
-
 ## Software Development & Open Source
+
+- [Actual curl rewrites in rust](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/comment-page-1/#comments) ([comments](https://lobste.rs/s/s5mwve/actual_curl_rewrites_rust))
+
+- [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html) ([comments](https://news.ycombinator.com/item?id=50579331))
 
 - [Lisp Game Jam devlog: Polydraw](https://spritely.institute/news/lisp-game-jam-devlog-polydraw.html) ([comments](https://lobste.rs/s/irqtic/lisp_game_jam_devlog_polydraw))
 
-- [If you stop writing code, you also get worse at reviewing it](https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/) ([comments](https://news.ycombinator.com/item?id=50573886))
-
 - [DreamCoder: coding harness and IDE from the author of Mastering Emacs](https://www.masteringemacs.org/article/announcing-dreamcoder) ([comments](https://lobste.rs/s/ocdhli/dreamcoder_coding_harness_ide_from))
 
-- [Vim Classic 8.3.1 released](https://vim-classic.org/news/vim-8.3.1-released.html) ([comments](https://lobste.rs/s/kkglbw/vim_classic_8_3_1_released))
-
-- [Persistent incrementality in Rust](https://rust-glancer.github.io/blog/persistent-incrementality-in-rust/) ([comments](https://lobste.rs/s/9bvpac/persistent_incrementality_rust))
+- [Removing binder.c](https://lwn.net/Articles/1102982/) ([comments](https://lobste.rs/s/vo5jve/removing_binder_c))
 
 ## Culture, Society & Mobility
 
-- [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/) ([comments](https://news.ycombinator.com/item?id=50575644))
+- [I'll never buy Framework hardware again](https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/) ([comments](https://lobste.rs/s/ext7dw/i_ll_never_buy_framework_hardware_again))
+
+- [San Diego Dumps Both Flock Cameras and Smart Streetlights](https://soylentnews.org/article.pl?sid=26%2F11%2F20%2F032203)
+
+- [Internet Archive Staffers Are Unionizing](https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america) ([comments](https://lobste.rs/s/o5coeq/internet_archive_staffers_are))
 
 - [Intuit Sells Mailchimp At About a Third of Its 2021 Purchase Price](https://tech.slashdot.org/story/26/11/20/0121230/intuit-sells-mailchimp-at-about-a-third-of-its-2021-purchase-price)
 
-- [Waymo Taken Off the Freeways](https://soylentnews.org/article.pl?sid=26%2F11%2F20%2F0254236)
+- [Iowans Brace For Lead Dust Cloud As Army Plans to Detonate 5 Tons of Bomb-Making Chemicals](https://tech.slashdot.org/story/26/11/19/2353250/iowans-brace-for-lead-dust-cloud-as-army-plans-to-detonate-5-tons-of-bomb-making-chemicals)
 
 - [What are you doing this weekend?](https://lobste.rs/s/hneb5m/what_are_you_doing_this_weekend)
 
-- [What people are building, discovered through new domains](https://startups.novumsignals.com/) ([comments](https://news.ycombinator.com/item?id=50572448))
-
 - [Popular TikTok Docs Have Big Influence on Gen Z Followers](https://soylentnews.org/article.pl?sid=26%2F11%2F18%2F1510211)
+
+- [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=50577613)
+
+- [Visited links are purple](https://dbushell.com/2026/11/16/visited-links/) ([comments](https://lobste.rs/s/hcahbx/visited_links_are_purple))
